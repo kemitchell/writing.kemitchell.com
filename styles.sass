@@ -1,0 +1,318 @@
+---
+---
+
+$dateWidth: 100px
+$datePadding: 36px
+$interPostPadding: 36px
+
+// Equity
+
+@font-face
+  font:
+    family: 'Equity Text A'
+    weight: normal
+    style: normal
+  src: url('equity_text_a_regular-webfont.woff') format('woff')
+
+@font-face
+  font:
+    family: 'Equity Text A Bold'
+    weight: normal
+    style: normal
+  src: url('equity_text_a_bold-webfont.woff') format('woff')
+
+@font-face
+  font:
+    family: 'Equity Text A Bold Italic'
+    weight: normal
+    style: normal
+  src: url('equity_text_a_bold_italic-webfont.woff') format('woff')
+
+@font-face
+  font:
+    family: 'Equity Caps A Bold'
+    weight: normal
+    style: normal
+  src: url('equity_caps_a_bold-webfont.woff') format('woff')
+
+@font-face
+  font:
+    family: 'Equity Caps A'
+    weight: normal
+    style: normal
+  src: url('equity_caps_a_regular-webfont.woff') format('woff')
+
+@font-face
+  font:
+    family: 'Equity Text A Italic'
+    weight: normal
+    style: normal
+  src: url('equity_text_a_italic-webfont.woff') format('woff')
+
+// Concourse
+
+@font-face
+  font-family: 'Concourse T4 Bold'
+  src: url('concourse_t4_bold-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T4 Bold Italic'
+  src: url('concourse_t4_bold_italic-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T3 Italic'
+  src: url('concourse_t3_italic-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T3'
+  src: url('concourse_t3_regular-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T3 Bold'
+  src: url('concourse_t3_bold-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T3 Bold Italic'
+  src: url('concourse_t3_bold_italic-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T2'
+  src: url('concourse_t2_regular-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T2 Italic'
+  src: url('concourse_t2_italic-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T2 Bold'
+  src: url('concourse_t2_bold-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T2 Bold Italic'
+  src: url('concourse_t2_bold_italic-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T8'
+  src: url('concourse_t8_regular-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T8 Italic'
+  src: url('concourse_t8_italic-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T7 Regular'
+  src: url('concourse_t7_regular-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T7 Italic'
+  src: url('concourse_t7_italic-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T6'
+  src: url('concourse_t6_regular-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T6 Italic'
+  src: url('concourse_t6_italic-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T4'
+  src: url('concourse_t4_regular-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: 'Concourse T4 Italic'
+  src: url('concourse_t4_italic-webfont.woff') format('woff')
+  font-weight: normal
+  font-style: normal
+
+html, body
+  margin: 0
+  text-align: center
+  font-family: "Equity Text A"
+  font-size: 24px
+  background-color: #f8f8f8
+
+$pageWidth: 680px
+
+header, .body, footer
+  margin: 0 auto
+
+.body
+  padding-bottom: 100px
+
+header
+  margin-top: $interPostPadding
+
+  img
+    width: $dateWidth / 2
+    margin-top: $interPostPadding / 2
+
+  h1, p
+    margin: 0 0 0 $datePadding + $interPostPadding
+
+  h1
+    // padding-top: 100px + $interPostPadding
+    padding-top: $interPostPadding
+    font-family: "Concourse T3"
+    font-size: 400%
+
+  p
+    color: #333
+    padding-top: 2ex
+    font-size: 115%
+
+.siteDescription
+  text-transform: lowercase
+
+.siteAuthor
+  font-size: 100%
+
+header, .body
+  width: $pageWidth
+  margin: 20px auto
+  text-align: left
+
+footer
+  width: $pageWidth
+  clear: both
+
+h1
+  font-size: 150%
+
+a
+  color: inherit
+  text-decoration: none
+
+  &:hover
+    text-decoration: underline
+
+ol.posts
+  list-style-type: none
+
+  &> li
+    padding: $interPostPadding $interPostPadding 0 $interPostPadding
+
+    .tags
+      border-bottom: 1px solid #ddd
+      padding-bottom: $interPostPadding
+
+    &:last-child
+      .tags
+        border-bottom: none
+
+
+.title
+  display: block
+  font:
+    family: "Concourse T6"
+    size: 200%
+
+.description
+  padding: 1ex 0
+
+.description, .title, .tags
+  margin-left: $dateWidth + $datePadding
+
+.tags
+  list-style-type: none
+  padding-top: 0.5ex
+  font:
+    family: "Concourse C4"
+    size: 50%
+  text:
+    transform: uppercase
+    align: right
+  color: #777
+
+  li
+    display: inline-block
+    padding-right: 1em
+    &:last-child
+      padding-right: 0
+
+.categories
+  list-style-type: none
+  li
+    &:before
+      content: '/'
+
+$darkRed: #800000
+
+.dateline
+  display: block
+  text-align: right
+  width: $dateWidth
+  padding: 0 $datePadding 0 0
+  float: left
+
+  .day
+    display: block
+    color: $darkRed
+    font:
+      size: 200%
+      family: "Concourse T6"
+
+  .month, .year
+    color: #777
+
+  .month
+    display: block
+    font-size: 75%
+
+  .year
+    display: block
+    font-size: 75%
+
+.post
+  h1
+    font-size: 200%
+    font-family: "Concourse T6"
+    padding: 1em 0 0.25em 0
+  p
+    padding: 0.5em 0
+    line-height: 114%
+    text-indent: 2em
+    text-align: justify
+    hyphens: auto
+    &:last-child
+      padding-bottom: 200px
+  h1 + p
+    text-indent: 0
+  .signature
+    color: #444
+    font-size: 50%
+    text-align: right

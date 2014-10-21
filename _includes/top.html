@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!doctype html>
+<html lang='en'>
+	<head>
+		<meta charset='utf-8'/>
+    <title>{{ site.name }} {{ page.title }}</title>
+    <base href='/'/>
+		<link rel='stylesheet' href='reset.css' type='text/css'/>
+		<link rel='stylesheet' href='styles.css' type='text/css'/>
+    <link href="feed.xml" rel="alternate" type="application/rss+xml"/>
+	<body>
+    <header>
+      <a href="/">
+        <img src='placeholder.png' alt='placeholder'/>
+      </a>
+      <h1>{{ site.name }}</h1>
+      <p class='siteDescription'>&gt;&gt; {{ site.description }}</p>
+      <p class='siteAuthor'>
+        All content by
+        <a href='{{ site.homepage }}'>{{ site.author }}</a>,
+        who is not your attorney.
+      </p>
+    </header>

@@ -1,0 +1,8 @@
+name: /dev/lawyer
+description: Law, technology, and the space between
+url: http://writing.kemitchell.com
+permalink: /:year/:month/:day/:title.html
+author: Kyle Mitchell
+homepage: http://kemitchell.com
+gems:
+- jekyll-sass-converter
