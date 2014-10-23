@@ -243,6 +243,9 @@ ol.posts
 
 .description
   padding: 1ex 0
+  line-height: 114%
+  font-size: 90%
+  color: #777
 
 .description, .title, .tags
   margin-left: $dateWidth + $datePadding
@@ -255,7 +258,6 @@ ol.posts
     size: 50%
   text:
     transform: uppercase
-    align: right
   color: #777
 
   li
@@ -302,15 +304,19 @@ $darkRed: #800000
     font-size: 200%
     font-family: "Concourse T6"
     padding: 1em 0 0.25em 0
+  h2
+    font-size: 150%
+    font-family: "Concourse T6"
+    padding: 1em 0 0.25em 0
   p
     padding: 0.5em 0
     line-height: 114%
-    text-indent: 2em
+    text-indent: 1em
     text-align: justify
     hyphens: auto
     &:last-child
       padding-bottom: 200px
-  h1 + p
+  h1 + p, h2 + p
     text-indent: 0
   .signature
     color: #444
