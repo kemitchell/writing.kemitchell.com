@@ -4,6 +4,7 @@
 $dateWidth: 100px
 $datePadding: 36px
 $interPostPadding: 36px
+$darkRed: #800000
 
 // Equity
 
@@ -272,8 +273,6 @@ ol.posts
     &:before
       content: '/'
 
-$darkRed: #800000
-
 .dateline
   display: block
   text-align: right
@@ -314,6 +313,7 @@ $darkRed: #800000
     text-indent: 1em
     text-align: justify
     hyphens: auto
+  &> p
     &:last-child
       padding-bottom: 200px
   h1 + p, h2 + p
@@ -322,3 +322,18 @@ $darkRed: #800000
     color: #444
     font-size: 50%
     text-align: right
+  ol, ul, dl
+    margin-left: 3em
+    p
+      text-indent: 0
+  a
+    color: $darkRed
+
+
+// Code
+
+pre
+  margin-left: 24px
+  margin-right: 24px
+  font-size: 20px !important
+  padding: 1em

@@ -4,5 +4,6 @@ url: http://writing.kemitchell.com
 permalink: :year/:month/:day/:title.html
 author: Kyle Mitchell
 homepage: http://kemitchell.com
+highlighter: pygments
 gems:
 - jekyll-sass-converter
