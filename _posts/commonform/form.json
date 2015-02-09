@@ -1,0 +1,35 @@
+{ "content": [
+  { "form": {
+    "content": [
+      "The ",
+      { "use": "Company" },
+      "'s Chief Executive Officer, who shall initially be ",
+      { "field": "Initial CEO's Name" },
+      " (the ",
+      { "definition": "CEO Director" },
+      "), provided that if for any reason the ",
+      { "use": "CEO Director" },
+      " shall cease to serve as the Chief Executive Officer of the ",
+      { "use": "Company" },
+      ", each of the ",
+      { "use": "Stockholders" },
+      " shall promptly vote their respective ",
+      { "use": "Shares" },
+      {
+        "form": {
+          "content": [
+            "to remove the former ",
+            { "use": "Chief Executive Officer" },
+            " from the ",
+            { "use": "Board" },
+            " if such person has not registered as a member of the ",
+            { "use": "Board" },
+            "; and" ] } }, {
+        "form": {
+          "content": [
+            "to elect such person's replacement as ",
+            { "use": "Chief Executive Officer" },
+            " of the ",
+            { "use": "Company" },
+            " as the new ",
+            { "use": "CEO Director" }, ";" ] } } ] } } ] }
