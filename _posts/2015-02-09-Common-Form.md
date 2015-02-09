@@ -8,7 +8,7 @@ tags:
 - Software
 ---
 
-  I did not become a lawyer to reenact '60s-era office scenes. I have not sat countless Friday nights at home reading tax or finance or the latest opinion of Chancellor so-and-so to make rent with fees for indulgences in a mystery cult. Especially since hanging up my own shingle, I have been empowered, willing, and known to slash bills and time accordingly, but have fallen ever short of striking the root of the problem. Law is just that far behind.
+  I did not become a lawyer to reenact '60s-era office scenes. I have not sat countless Friday nights at home reading tax or finance or the latest opinion of Chancellor so-and-so to make rent with fees for indulgences in a mystery cult. Especially since hanging out my own shingle, I have been empowered, willing, and known to slash bills and time accordingly, but have fallen ever short of striking the root of the problem. Law is just that far behind.
 
 [Common Form][source] is a labor of love, but also a penance and an act of professional desperation. It takes the form of software, but in personal terms, it's my bid for a way to practice law that pangs neither my conscience nor my stomach. It's a way out, but, I hope very deeply, also a way back in.
 
