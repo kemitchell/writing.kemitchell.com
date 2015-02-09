@@ -29,7 +29,7 @@ Any mind marinated in computer technology sees these tragedies as they are: utte
 
 I'm have solved the solvable problems. I have paid the price. I am giving the spoils away, for free, under the terms of the [Apache License, Version 2.0][Apache-2.0]. If you don't know Apache 2, don't worry; you're going to like it.
 
-There is enough now to prove the concept, and for the technically astute to make real daily use. If the kernel of the software system isn't usable for you now, the ideas are still the most important, and I'd much appreciate especially your non-technical feedback on the trade-offs inherent in the design. I open up in this way now, for my own sake any that of possible future beneficiaries, in that I'd prefer to invest in building broader accessibility on a solid foundation of something worth accessing. Within the year, I expect to make the system approachable for everyone.
+There is enough now to prove the concept, and for the technically astute to make real daily use. If the kernel of the software system isn't usable for you now, the ideas are still the most important, and I'd much appreciate especially your non-technical feedback on the trade-offs inherent in the design. I open up in this way now, for my own sake and that of possible future beneficiaries, as I'd prefer to invest in building broader accessibility on the solid foundation of something actually worth accessing. Within the year, I expect to make the system approachable for nearly every lawyer.
 
 ## How does it work?
 
@@ -37,7 +37,7 @@ The core is not complex. Many scrapped designs were far more nuanced, which I ta
 
 - A _Project_ is a _Form_ to be completed with certain variable _Values_ and prepared according to a set of formatting _Preferences_.
 
-- A _Form_ is a discreet, reusable chunk of legal language. A one-liner no-assignment provision can be a Form. A 100-page merger agreement can be a Form. It's Forms almost all the way down. A Form need not be generic in our current sense of that term; in composition it may be quite deal-specific, but its components, taken individually, will be generic, reusable.
+- A _Form_ is a discreet, reusable chunk of legal language, regardless of its size. A one-liner no-assignment provision can be a Form. A 100-page merger agreement can be a Form. It's Forms almost all the way down. A Form need not be generic in our current sense of that term; in composition it may be quite deal-specific, but its components, taken individually, will be generic, reusable.
 
 - _Forms_ are composed of _Text_, _Definitions_ of _Terms_, _Uses_ of _Terms_, _References_ to other Forms (their _Targets_), and _Fields_ to be filled in with Values.
 
@@ -47,7 +47,7 @@ The core is not complex. Many scrapped designs were far more nuanced, which I ta
 
 - A _Reference_ within a form refers to the _Summary_ of another Form. Certain practitioners are fond of references like "Section 12(d) (Indemnification)". Common Form thinks of references as "Section (Indemnification)".
 
-- Any sequence of contiguous Forms included within another Form is a _Series_. An numbered list within a paragraph is a Series, as is a list of sub-sections within another, overarching section.
+- Any sequence of contiguous Forms included within another Form is a _Series_. A numbered list within a paragraph is a Series, as is a list of sub-sections within another, overarching section.
 
 Common Form defines a _Markup Language_ that allows us to express arbitrarily complex combinations of the above with only the keys on our keyboards, and only one key at a time. Take an example adapted from the Loan Syndications and Trading Association's form agreement:[^1]
 
@@ -59,7 +59,7 @@ Common Form defines a _Markup Language_ that allows us to express arbitrarily co
 
 > \\\\ Each \<Borrowing\> shall be deemed to constitute a certification by the \<Borrower\> on the date thereof as to the matters specified in {Ongoing Conditions}.
 
-Two slashes (\\\\) indicate the end of a Summary and the beginning of a Sub-Form's content, or, sans Summary, the beginning of a Sub-Form without one. Uses of terms are indicated with \<Angle Brackets\>. Cross-references are indicated with the Summary of the intended Form in \{Braces\}. Sub-Forms are shown within their parts by four spaces per level of indentation.
+Two slashes (\\\\) indicate the end of a Summary and the beginning of a Sub-Form's content, or, sans Summary, the beginning of a Sub-Form without one. Uses of terms are indicated with \<Angle Brackets\>. Cross-references are indicated with the Summary of the intended Form in \{Braces\}. Sub-Forms are shown within their Parents by indentation, four spaces at a time.
 
 To catch a few more conventions, a familiar litany of our dreams, nightmares, and waking hours:
 
@@ -97,7 +97,7 @@ Common Form takes in rope you might otherwise use to hang yourself, but also dua
 
 There are no tables, graphics, or other non-prose elements in Common Form as yet. I will sorely miss them, and feel strongly that they are underused in current practice. I have not been able to accommodate them in Common Form's model without detriment disproportionate to gain. Nothing stops you from including these in attachments or pasting them after generating a .docx, but the system itself doesn't comprehend them. If you'd like to help me think through these challenges, please do be in touch.
 
-You must provide a Summary of content you wish to target with a Reference. Ergo, that content must be contained in a Sub-Form with a Summary. This favors something more akin to the commonwealth style of enumeration, as distinguished from Americans' apparent preference for long paragraphs stuffed within in-line numbered lists:[^3]
+You must provide a Summary of content you wish to target with a Reference. Ergo, that content must be contained in a Sub-Form with a Summary. This favors something more akin to the Commonwealth style of enumeration, as distinct from the American preference for long paragraphs stuffed with numbered lists:[^3]
 
 > The Company's Chief Executive Officer, who shall initially be [&bull;] (the “CEO Director”), provided that if for any reason the CEO Director shall cease to serve as the Chief Executive Officer of the Company, each of the Stockholders shall promptly vote their respective Shares (i) to remove the former Chief Executive Officer from the Board if such person has not registered as a member of the Board; and (ii) to elect such person's replacement as Chief Executive Officer of the Company as the new CEO Director; ...
 
@@ -111,9 +111,9 @@ This becomes:
 
 In addition, Common Form lacks direct support for references to attachments, exhibits, and other external documents, at least if you cannot substitute a Definition. You can work around with a Field.
 
-Terms, Summaries, and Values are case-sensitive and fixed. There is no built-in facility for determining the plural of a term defined in the singular or vice-versa. Then again, it is free, simple, and easy to tell what you are missing and either add a plural definition or accommodate a Use of appropriate number. Personally, I use Title Case with All Terms, Summaries, and Values. Future versions of the software will check whether such indicators vary only by case, and warn you.
+Terms, Summaries, and Values are case-sensitive and fixed. There is no built-in facility for determining the plural of a term defined in the singular or vice-versa. Then again, it is free, simple, and easy to tell what you are missing and either add a plural definition or accommodate a Use of appropriate number. Personally, I use Title Case with all Terms, Summaries, and Values. Future versions of the software will check whether such indicators vary only by case, and warn you.
 
-There is no per-word or per-character formatting. You cannot make specified text bold or italicized or underlined at will. On the other hand, you are no longer empowered to screw this up or waste time on it, to forget to conform a font size, indentation, &c. We have all seen "just our standard form" from opposing with deal-specific modifications in distinguishable type. Most of us have probably done it ourselves without noticing.
+There is no per-word or per-character formatting. You cannot make specified text bold or italicized or underlined at will. On the other hand, you are no longer empowered to inadvertently bold, italicize, or underline random words, introduce copy-and-paste font change badges of shame, muck up indentation, &c. We have all seen "just our standard form" with deal-specific modifications in distinguishable type. Most of us have probably done it ourselves at some point, without noticing or being told.
 
 There are probably other consequences of the design that I am not predisposed to appreciate, given the particular make of blinders I wear for my practice. If you foresee or encounter a limitation, please do feel free to contact me. I am making the system and this overview available at this stage precisely to welcome a diversity of feedback in early stages.
 
@@ -121,7 +121,7 @@ There are probably other consequences of the design that I am not predisposed to
 
 The trade-off just described is good enough to make Common Form an easy choice for my own practice. But it is a trade-off in familiar pains (hours-long technical edits) and known benefits (like tables).
 
-Take for granted that, one way or another, using Common Form or some other system, a far greater portion of our attention will soon be spent assessing substantive alternatives than crafting or assembling our selections. What then?
+Take for granted that, one way or another, using Common Form or some other system, a far greater portion of our attention will soon be spent assessing and composing substantive alternatives than remaking very small wheels and trying bolting them on with hand tools. What happens when this is normal?
 
 Common Form's markup language is an approachable gloss atop a more formal, far less chaotic representation of contract structure.
 
@@ -133,7 +133,7 @@ This is for human consumption:
 
 >     \\\\ to elect such person\'s replacement as \<Chief Executive Officer\> of the \<Company\> as the new \<CEO Director\>;
 
-Here is what the system sees, formatted slightly for reading. Have a peek:
+Here is what the system sees, formatted slightly for reading. Have a peek, it doesn't bite:
 
 {% highlight javascript %}
 {% include_relative commonform/form.json %}
@@ -146,9 +146,9 @@ There are exactly two technical points worth understanding at a high level about
 
 Those facts make every Form a prime candidate for use with "cryptographic hash functions". That's a fancy term for legitimately fancy, highly mathematical computer routines that work much as we're lead to believe fingerprints do:
 
-1. They reduce large chunks of of data to smaller, more portable and comparable signatures of their source.
-2. Two different sources---people or, in the case of Common Form, Forms---are highly unlikely to have identical fingerprints.
-3. Given a Form, it's quick, easy, and cheap to find its fingerprint. Given just a fingerprint, however, it's impractically hard to guess the Form it belongs to. That makes it hard to pass off content that doesn't match a Fingerprint for a genuine match.
+1. They reduce large chunks of of data to smaller, more portable and comparable _Fingerprints_ of their source.
+2. Two different sources---people or, in the case of Common Form, Forms---are highly unlikely to have identical Fingerprints. Even very slightly different Forms have markedly different Fingerprints.
+3. Given a Form, it's quick, easy, and cheap to find its Fingerprint. Given just a Fingerprint, however, it's impractically hard and time consuming to guess the Form it belongs to. That makes it hard to pass off a Form that doesn't match a Fingerprint for a genuine match.
 
 Common Form defines a specific hash function---solicited, reviewed, and approved for the federal government[^4]---as the official way to make _Fingerprints_ of Forms. Fingerprints look like this:
 
@@ -157,29 +157,29 @@ Common Form defines a specific hash function---solicited, reviewed, and approved
 
 They are always that long, and they are always made of the same, limited choice of lower-case numbers and digits. There are two to the two hundred and fifty-sixth power possible Fingerprints, which is an astounding number. As a practical matter, it is highly, highly unlikely that any two Forms will ever have the same Fingerprint.
 
-Common Form servers called _Libraries_ store Forms indexed by these Fingerprints, and don't permit unauthorized users or Internet passersby to see a list of the Fingerprints on file. As a result, would-be readers and users have to ask for specific Fingerprints, which is to say they need to know what they're looking for or receive a Fingerprint from someone who does. More privileged users may be granted permission to list Forms by specific properties, such as, say, all Forms with Definitions for a given Term, but still can't see when or by who a Form was shared with the Library. In the future, more nuanced queries will be possible, such as for all Forms summarized "Indemnification" nested somewhere within a Form summarized "Merger Agreement".
+Common Form servers called _Libraries_ store Forms indexed by these Fingerprints, and don't permit unauthorized users or Internet passersby to see a list of the Fingerprints on file. As a result, would-be users have to ask for specific Fingerprints, They need to know what they're looking for or receive a Fingerprint from someone who does. More privileged users may be granted permission to list Forms by specific properties, such as, say, all Forms with Definitions for a given Term, but still can't see when or by who a Form was shared with the Library; Libraries do not store this kind of information. In the future, more nuanced queries will be possible, such as for all Forms summarized "Indemnification" nested somewhere within a Form summarized "Merger Agreement".
 
 
-Where sharing can be more open, such as with standard forms promulgated by industry groups or larger companies, users can create _Bookmarks_ that associate a _Name_ that people can remember (like "ISDA Master 2002") with a _Version_ number and a Fingerprint. For instance, "SAFE" is a bookmark on api.commonform.org with an available Version "1.0.0". Users who ask for the bookmark get the Form with that Fingerprint.
+Where sharing can be more open, such as with standard forms promulgated by industry groups or larger companies, users can create _Bookmarks_ that associate a _Name_ that people can remember (like "ISDA Master 2002") with a _Version_ number and a Fingerprint. For instance, "SAFE" is a bookmark in the public Library at api.commonform.org, with an available Version "1.0.0". Users who ask for the bookmark get the Form with that Fingerprint.
 
 [api.commonform.org/bookmarks/SAFE@1.0.0](https://anonymous:anonymous@api.commonform.org/bookmarks/SAFE@1.0.0)
 
 
- For servers operated for private, perhaps individual use, bookmarks can be used for easy access to current favorites for common needs in your practice, such as your go-to trademark assignment or financing legal opinion.
+ For servers operated for private, perhaps even individual use, Bookmarks can be used for easy access to current favorites for common needs in your practice, such as your go-to trademark assignment or financing legal opinion.
 
-As a practical matter, generic-sounding Definitions (not "vanity terms" like "Our Co."), generic Summaries, and judicious use of Fields to obscure confidential information would allow deal teams to share Forms with a Library on the open Internet, passing Fingerprints back and forth by way of proposal and counter-proposal. Any malicious third party is highly unlikely to guess the Fingerprint, not just among the other Forms that may have been shared with that Library, but lost in the forest of all possible Fingerprints, discovered or not. If risk that the Library may be hacked is significant, teams might send native-or markup-formatted projects by a channel they feel is more secure, such as by e-mail.
+As a practical matter, generic-sounding Definitions (not "vanity terms" like "Our Co."), generic Summaries, and judicious use of Fields to obscure confidential information would allow deal teams to share Forms with a Library on the open Internet, passing Fingerprints back and forth by way of proposal and counter-proposal. Any malicious third party is highly unlikely to guess the Fingerprint, not just among the other Forms that may have been shared with that Library, but lost in the forest of all possible Fingerprints, discovered or not. If risk that the Library may be hacked is significant, teams might send native- or markup-formatted projects by a channel they feel is more secure, such as by e-mail, but leave (or find) its components in the open.
 
 ## The Future
 
-My priority with respect to Common Form is to battle-test its model of contract structure. I will be "dog-fooding" the command-line interface released this month in my own practice, and welcoming others to try their hands.
+My priority with respect to Common Form is to battle test its model of contract structure. I will be "dog-fooding" the command-line interface released this month in my own practice, and welcoming others to try their hands.
 
-The next major step is to make an interface to the system (and each user's choice of Library servers) available via web browser. Much of the infrastructure for that web application has already been written, and is powering the command-line interface now. Step changes in the capabilities of web browsers are making a great deal more possible without relying on third parties for storage of information, with all attendant privacy and confidentiality anxiety. I hope that Common Form's design will be borne out as a way to separate what can be shared from what cannot, with at least one manifestation of that separation at the gap between the web browsers we run to access the Internet and the servers that provide content.
+The next major step is to make an interface to the system (and each user's choice of Library servers) available via web browser. Much of the infrastructure for that web application has already been written, and is powering the command-line interface now. Step changes in the capabilities of web browsers are making a great deal more possible without relying on third parties for storage of information, with all attendant privacy and confidentiality anxiety. I hope that Common Form's design will be borne out as a way to separate what can be shared from what cannot, with at least one manifestation of that separation at the gap between the web browsers we run to access the Internet and the servers that provide content and persist it as we hope from desktop to mobile and back.
 
-In terms of the underlying data model and feature set, I hope to introduce a facility for annotation and interpretation that permits users to associate opinions and notes with Forms by Fingerprint. This is straightforward to implement in easy cases, where a Library can be presumed sufficiently private, sufficiently secure, and in use by attorneys under a common confidentiality umbrella, such as within a firm or on a deal team. It is less clear how to safely and responsibly apply knowledge of annotations to the selection of search results or back-and-forth on proposed revisions. It could be more complex still if annotations might themselves contain code, such as financial modeling or systemic risk assessment conclusions about known Forms. Naturally, I welcome any wisdom to be had on these kinds of possibilities.
+In terms of the underlying data model and feature set, I am eager to introduce a facility for annotation and interpretation that permits users to associate opinions and notes with Forms by Fingerprint, but less sure how to go about it. The mechanism is straightforward to implement responsibly in easy cases, say where a Library can be presumed sufficiently private, sufficiently secure, and in use by attorneys under a common confidentiality umbrella, such as within a firm or on a deal team. It is less clear how to safely apply knowledge of annotations to, say, the generation of customized search results or facilitated back-and-forth on proposed revisions to an industry standard. It could be more complex still if annotations might themselves contain code, such as financial modeling or systemic risk assessment conclusions about known Forms. Naturally, I welcome the wisdom of others in grappling with these design challenges. I'm very conscious of the need to design these systems conscientiously, and to take the lead in identifying and assessing risks, even if my work is also transparent.
 
 ## Following Up
 
-If you're interested in Common Form, concretely or in specifics, practically or intellectually, I encourage you to reach out, whether by e-mail or via [GitHub][source], where bug reports and proposals for improvement to the software can also be made.
+Thanks so much for reading. If you're interested in Common Form, concretely or in specifics, practically or intellectually, I encourage you to reach out, whether by e-mail. You can also reach me via [GitHub][source], a computer source hosting and collaboration platform where you can file bug reports, make proposals for improvement to the software, and see how things are coming along.
 
 ---
 
