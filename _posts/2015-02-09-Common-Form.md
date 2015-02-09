@@ -12,6 +12,9 @@ tags:
 
 [Common Form][source] is a labor of love, but also a penance and an act of professional desperation. It takes the form of software, but in personal terms, it's my bid for a way to practice law that pangs neither my conscience nor my stomach. It's a way out, but, I hope very deeply, also a way back in.
 
+Long story short, [here it is in action](https://asciinema.org/a/16221), as it exists right now.
+
+
 ## Ends
 
 The aim of Common Form is twofold.
