@@ -19,7 +19,7 @@ Long story short, [here it is in action](https://asciinema.org/a/16221), as it e
 
 The aim of Common Form is twofold.
 
-First, it aims to make drafting generically, as one would draft a form or template, more efficient and reliable than drafting expediently for one deal and one deal only. This is possible because an out-sized part of drafting is glaringly menial paper shuffling, on the one hand, and haphazard grasping, on the other. Untold lawyers flail, even now, in haystacks of TNR-12, wondering what needle-point technical errors lurk within. The better off delegate that hunt to hired help so they can rack brains and files for that elusive, perfect such-and-such clause seen, written, or stolen some years back. The would be early-adopter types among us pay out for clunky third-party tools, get bitten (again) and adjust practices or expectations accordingly, lose the faith.
+First, it aims to make drafting generically, as one would draft a form or template, more efficient and reliable than drafting expediently for one deal and one deal only. This is possible because an out-sized part of drafting is glaringly menial paper shuffling, on the one hand, and haphazard grasping, on the other. Untold lawyers flail, even now, in haystacks of TNR-12, wondering what needle-point technical errors lurk within. The better off delegate that hunt to hired help so they can rack brains and files for that elusive, perfect such-and-such clause seen, written, or stolen some years back. The would-be early-adopter types among us pay out for clunky third-party tools, get bitten (again) and adjust practices or expectations accordingly, lose the faith.
 
 Common Form aims to expunge these experiences from the practice of law, and to collapse the long cycle of incremental improvements to the state of the art by forms committees, CLE handout scrambles, and traditional publishing deals. Public goods in law ought to be cheaper and easier to make.
 
@@ -157,7 +157,7 @@ Common Form defines a specific hash function---solicited, reviewed, and approved
 
 They are always that long, and they are always made of the same, limited choice of lower-case numbers and digits. There are two to the two hundred and fifty-sixth power possible Fingerprints, which is an astounding number. As a practical matter, it is highly, highly unlikely that any two Forms will ever have the same Fingerprint.
 
-Common Form servers called _Libraries_ store Forms indexed by these Fingerprints, and don't permit unauthorized users or Internet passersby to see a list of the Fingerprints on file. As a result, would-be users have to ask for specific Fingerprints, They need to know what they're looking for or receive a Fingerprint from someone who does. More privileged users may be granted permission to list Forms by specific properties, such as, say, all Forms with Definitions for a given Term, but still can't see when or by who a Form was shared with the Library; Libraries do not store this kind of information. In the future, more nuanced queries will be possible, such as for all Forms summarized "Indemnification" nested somewhere within a Form summarized "Merger Agreement".
+Common Form servers called _Libraries_ store Forms indexed by these Fingerprints, and don't permit unauthorized users or Internet passersby to see a list of the Fingerprints on file. As a result, would-be users have to ask for specific Fingerprints. They need to know what they're looking for or receive a Fingerprint from someone who does. More privileged users may be granted permission to list Forms by specific properties, such as, say, all Forms with Definitions for a given Term, but still can't see when or by who a Form was shared with the Library; Libraries do not store this kind of information. In the future, more nuanced queries will be possible, such as for all Forms summarized "Indemnification" nested somewhere within a Form summarized "Merger Agreement".
 
 
 Where sharing can be more open, such as with standard forms promulgated by industry groups or larger companies, users can create _Bookmarks_ that associate a _Name_ that people can remember (like "ISDA Master 2002") with a _Version_ number and a Fingerprint. For instance, "SAFE" is a bookmark in the public Library at api.commonform.org, with an available Version "1.0.0". Users who ask for the bookmark get the Form with that Fingerprint.
@@ -179,7 +179,7 @@ In terms of the underlying data model and feature set, I am eager to introduce a
 
 ## Following Up
 
-Thanks so much for reading. If you're interested in Common Form, concretely or in specifics, practically or intellectually, I encourage you to reach out, whether by e-mail. You can also reach me via [GitHub][source], a computer source hosting and collaboration platform where you can file bug reports, make proposals for improvement to the software, and see how things are coming along.
+Thanks so much for reading. If you're interested in Common Form, concretely or in specifics, practically or intellectually, I encourage you to reach out, especially by e-mail. You can also reach me via [GitHub][source], a computer program source code hosting and collaboration platform where you can file bug reports, make proposals for improvement to the software, and see how things are coming along.
 
 ---
 
