@@ -8,7 +8,7 @@ tags:
 - Modularity
 ---
 
-Basic contract law prevents layers from composing contracts out of interchangeable parts. More concretely, legal principles prevent lawyers from ripping a section out of one contract and adding it to another without fear of unintended side effects. This is because, first, other provisions of the destination contract can implicitly change the effect of the borrowed section, and, second, the borrowed section can implicitly change the effect of other sections in the destination contract. Even if new and old sections do not share defined terms or cross-references in common, side effects can cross the whitespace between neatly isolated chunks of contract.
+Basic contract law prevents lawyers from composing contracts out of interchangeable parts. More concretely, legal principles prevent lawyers from ripping a section out of one contract and adding it to another without fear of unintended side effects. This is because, first, other provisions of the destination contract can implicitly change the effect of the borrowed section, and, second, the borrowed section can implicitly change the effect of other sections in the destination contract. Even if new and old sections do not share defined terms or cross-references in common, side effects can cross the whitespace between neatly isolated chunks of contract.
 
 Nearly everything made efficiently is made of parts that can be swapped out in that way. Software is written that way. Complex equipment is made that way. Buildings are constructed that way. Even food is increasingly made that way. More and poorer people can everyday afford those things. But all is not necessarily lost for private law.
 
@@ -27,7 +27,7 @@ All us lawyers know the bad news. Consider the following contract-law classics:
 
 5. When a generality follows a list of specifics, construe the generality to include only items of the same type as the specifics.
 
-6. The inclusion of one items implies the exclusion of others.
+6. The inclusion of one item implies the exclusion of others.
 
 7. Specific terms govern general terms.
 
@@ -44,7 +44,7 @@ Opting Out
 
 The good news, at least for wonks trying to write [modular contract systems](https://commonform.github.io), is that it's established practice to override, or opt out of, at least some modularity inhibiting maxims that turn out to be little more than default rules. I haven't identified any general limiting principle that would stop lawyers opting out of others.
 
-We have all seen "headings don't count" provisions that write headings out of the four corners of a contract. We have seen "product of negotiation" clauses. We have seen explicit precedence hierarchies among related documents and related provisions. Runs like "including, but not limited to" abound, and some practitioners even make a single clarification that applies throughout each agreement.  We all use contrived defined terms where the same word would be clear in context in plain English, but subject to "equalization" at law.
+We have all seen "headings don't count" provisions that write headings out of the four corners of a contract. We have seen "product of negotiation" clauses. We have seen explicit precedence hierarchies among related documents and related provisions. Runs like "including, but not limited to" abound, and some practitioners even make a single clarification that applies throughout each agreement.  We all use contrived defined terms where the same word would be clear in context in plain English, but interpreted to have the same meaning throughout at law.
 
 The prevalence of provisions about headings begs the question: Why don't we also disclaim any meaning lingering in the choice of words we use as Defined Terms? Why, in appropriate circumstances, don't we disclaim each of the troublesome maxims? Could a contract state unequivocally that each section is to be interpreted, to the fullest possible extent, without implicit reference to any other sections or documents?
 
