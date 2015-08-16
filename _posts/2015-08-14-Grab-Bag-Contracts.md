@@ -8,7 +8,7 @@ tags:
 - Common Form
 ---
 
-It's natural to arrange computer data in ordered lists. Lists are everywhere in computing. An entire family of programming languages, the LISP family, is written as lists of data and instructions. And list-like structures---arrays and strings, especially---are the first programmers learn and turn to within their programs. Common Form predictably represents forms (and their provisions) of lists of text, terms, references, blanks, and other forms.
+It's natural to arrange computer data in ordered lists. Lists are everywhere in computing. An entire family of programming languages, the LISP family, is written as lists of data and instructions. And list-like structures---arrays and strings, especially---are the first programmers learn and turn to within their programs. Common Form predictably represents forms (and their provisions) as lists of text, terms, references, blanks, and other forms.
 
 But ignoring for a moment the desire to translate existing forms to Common Form, there's no reason contracts have to be made of provisions strung together in particular order. The important point is whether a contract has a noncompete, not whether that noncompete appears after "Payment Terms", first in "Miscellaneous", or at the very top. It matters whether it's there, and what it says. Where it appears is convention or taste.
 
