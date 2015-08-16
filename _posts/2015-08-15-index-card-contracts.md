@@ -10,7 +10,7 @@ A few folks have asked me to explain Common Form in "non-techie" terms. I'm more
 
 ## A Thought Experiment
 
-Imagine it's 1930. You head am urban business law firm. You meet a man downtown who runs a back-office services firm. He offers to provide as many administrative assistants as you require, twenty-four hours a day, seven days a week, for the present-day equivalent of $100 per month.
+Imagine it's 1930. You head an urban business law firm. You meet a man downtown who runs a back-office services firm. He offers to provide as many administrative assistants as you require, twenty-four hours a day, seven days a week, for the present-day equivalent of $100 per month.
 
 There is a catch. None of the assistants read or speak English. They can recognize and even copy English characters, but haven't the faintest what they mean. The assistants can be trained by demonstration to follow rules by rote, which they do at breakneck speed and without error. Once trained to perform a task, any assistant can train any other, in their own mysterious but evidently precise native tongue. That is all they can do for the price.
 
@@ -28,7 +28,7 @@ Adopt a few conventions in preparation of form contracts: circle your definition
 
 The first assistant lays out the form's pages head to foot in order. The contract came in as a stack of pages, but now lays flat, like a banner, down a long table.
 
-The next assistant cuts left-to-right across each page immediately after any block of text. The contract is now a line of papers of irregularl length, one per provision. Where a page break falls within a single block of text, an assistant tapes the pieces together.
+The next assistant cuts left-to-right across each page immediately after any block of text. The contract is now a line of papers of irregular length, one per provision. Where a page break falls within a single block of text, an assistant tapes the pieces together.
 
 Next, they stack the assembled papers. The assistants now have an ordered stack of papers, each of which contains a single form provision.
 
@@ -62,7 +62,7 @@ This makes the library interesting for clients as well as lawyers. If two busine
 
 Notice what the library cannot do.
 
-The assistants are not librarians. They have no understanding of the content of the index cards they handle. They cannot recommend contracts by topic or similarity to others, and cannot guess fixes for typos in lottery numbers they are asked to find.
+The assistants are not librarians. They have no understanding of the content of the index cards they handle. They cannot recommend contracts by topic or similarity to others, nor can they guess fixes for typos in lottery numbers they are asked to find.
 
 The process is also limited. At no time do assistants mark any index card as coming from any particular source. When a patron asks for a contract by lottery number and receives it from an assistant, they know someone has submitted it to the library before. But they do not know when it was submitted, who submitted it, or why.
 
@@ -70,23 +70,23 @@ If the library limits the number of requests any patron can make at a time or fo
 
 ### Verification
 
-If an attorney received a draft from opposing counsel that purports to be a standard form whose lottery number she knows, she can verify that claim very quickly using the library. She submits the draft to the library. If the form is already in the library, it won't gain any new information, but it will produce a receipt. The lottery number on that receipt is easier to compare to that of the known-standard form than the entire texts of the draft and the standard.
+If an attorney received a draft from opposing counsel that purports to be a standard form whose lottery number she knows, she can verify that claim very quickly by submitting the draft to the library. If the form is known to the library, it gains no new content, but will produce the correct receipt. It's easier to compare the lottery number on that receipt to to the lottery number of the standard than to check their content, word by word.
 
 ### Indices
 
-In addition to reference by lottery number, our conventions for marking up form contracts make it possible to index in other useful ways. Assistants can recognize the various markings for definitions, term uses, cross-references, headings, etc. Without a clue what they mean, assistants could review cards on their way into the cabinets and dividers in separate catalogs for each such annotation, followed by cards bearing the lottery numbers of main-catalog cards on which they appear.
+In addition to reference by lottery number, our conventions for marking up form contracts make it possible to index in other useful ways. Assistants can recognize the various markings for definitions, term uses, cross-references, headings, etc. Without a clue what they mean, assistants could review cards on their way into the cabinets and create dividers in a separate catalogs for each defined term, heading, or fill-in-the-blank followed by cards bearing the lottery numbers of contract-language cards that contain corresponding annotations.
 
-For instance, assistants might create indices of definitions. Patrons might submit a term like "Intellectual Property", which assistants match against a file in the "definitions" catalog that contains a card bearing the lottery number of each form that defines that term. Similar service is possible for, say, every cross-reference to a provision entitled "Confidentiality". With a bit of extra legwork, "every form entitled 'Stock Purchase Agreement' containing a form entitled 'Noncompetition'" or even "every definition of 'Material Adverse Change' in a form entitled 'Merger Agreement'" can be reduced to rote indexing and retrieval procedures.
+For instance, assistants might create indices of definitions. Patrons could then request all definitions of a term like "Intellectual Property", yielding a list of lottery numbers the attorney might then request. The same procedures could identify, say, every cross-reference to a provision entitled "Confidentiality". With a bit of extra legwork, rote procedures might also produce "every form entitled 'Stock Purchase Agreement' containing a form entitled 'Noncompetition'" or even "every definition of 'Material Adverse Change' in a form entitled 'Merger Agreement'".
 
-There's nothing to prevent assistants from storing other information indexed to lottery number, either. The library might permit patrons to submit annotations by lottery number, which are included with any response requiring reference to the corresponding provision index card. The same could be done with court decisions, or to cross-reference public filings.
+There's nothing to prevent assistants from storing noncontract information indexed by lottery number, too. The library might permit patrons to submit annotations by lottery number, and include these with a copy of any contract containing the annotated provision. The same could be done with court decisions, or to cross-reference public filings.
 
 ### Drafting
 
 The same processes used to index a library can assist an attorney preparing and reviewing agreements.
 
-Imagine an attorney revising a large but structurally sound credit agreement who is unhappy with its governing law provision. They send out for governing law provisions in the public library, and select one they like. They construct a new form, swapping in the new provision.
+Imagine an attorney revising a large but structurally sound credit agreement who is unhappy with its governing law provision. They send out for governing law provisions in the public library, and find one they like better. They construct a new form, swapping in the new provision for the old.
 
-Assistants run the same old indexing procedures, starting over from scratch for this agreement. Another assistant then makes a list of all the definitions in the agreement, and all the defined terms used. If a term appears in the definitions index, but not the used terms index, the new provision defines an extra term. If a term appears in the used terms index but not in the definitions index, the new provision uses a term that isn't defined elsewhere in the agreement. And so on for references and fill-in-the-blanks. Rote procedures can even be developed to indicate where in the contract such problems arise.
+Assistants run the same indexing procedures, but starting from scratch. If a term appears in the definitions index, but not the used terms index, the new provision defines an extra term. If a term appears in the used terms index but not in the definitions index, the new provision uses a term that isn't defined. And so on for references and fill-in-the-blanks. Rote procedures can show exactly where in the contract such problems arise.
 
 ## Common Form
 
@@ -100,5 +100,5 @@ Second, Common Form's lottery numbers aren't purely random, but come from a [cry
 
 ---
 
-As always, I welcome any feedback or questions. Special thanks are already due [Jason Boehmig](https://twitter.com/jboehmig), now [cofounder of Ironclad](https://ironclad.ai), who endured the very first telling, and [Ansel Halliburton](https://twitter.com/anseljh), now [attorney at Kronenberge Rosenfeld](https://www.krinternetlaw.com/attorneys/ansel-halliburton-profile), stalwart companion down many a dark rabbit hole.
+As always, I welcome any feedback or questions. Special thanks are already due [Jason Boehmig](https://twitter.com/jboehmig), now [cofounder of Ironclad](https://ironclad.ai), who endured the very first telling, and [Ansel Halliburton](https://twitter.com/anseljh), now [attorney at Kronenberger Rosenfeld](https://www.krinternetlaw.com/attorneys/ansel-halliburton-profile), stalwart companion down many a dark rabbit hole.
 
