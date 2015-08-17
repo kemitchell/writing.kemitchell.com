@@ -100,5 +100,5 @@ Second, Common Form's lottery numbers aren't purely random, but come from a [cry
 
 ---
 
-As always, I welcome any feedback or questions. Special thanks are already due [Jason Boehmig](https://twitter.com/jboehmig), now [cofounder of Ironclad](https://ironclad.ai), who endured the very first telling, and [Ansel Halliburton](https://twitter.com/anseljh), now [attorney at Kronenberger Rosenfeld](https://www.krinternetlaw.com/attorneys/ansel-halliburton-profile), stalwart companion down many a dark rabbit hole.
+As always, I welcome any feedback or questions. Special thanks are already due [Jason Boehmig](https://twitter.com/jboehmig), [cofounder of Ironclad](https://ironclad.ai), who endured the very first telling, and [Ansel Halliburton](https://twitter.com/anseljh), [attorney at Kronenberger Rosenfeld](https://www.krinternetlaw.com/attorneys/ansel-halliburton-profile), stalwart companion down many a dark rabbit hole.
 
