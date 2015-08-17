@@ -8,11 +8,11 @@ tags:
 - Common Form
 ---
 
-It's natural to arrange computer data in ordered lists. Lists are everywhere in computing. An entire family of programming languages, the LISP family, is written as lists of data and instructions. And list-like structures---arrays and strings, especially---are the first programmers learn and turn to within their programs. Common Form predictably represents forms (and their provisions) as lists of text, terms, references, blanks, and other forms.
+It's natural to arrange computer data in ordered lists. Lists are everywhere in computing. An entire family of programming languages, the LISP family, is written as [lists of data and instructions](https://en.wikipedia.org/wiki/S-expression). And list-like structures---[arrays](https://en.wikipedia.org/wiki/Array_data_type) and [strings](https://en.wikipedia.org/wiki/Array_data_type), especially---are the first programmers learn and turn to within their programs. [Common Form](https://commonform.github.io) predictably represents forms (and their provisions) as lists of text, terms, references, blanks, and other forms.
 
 But ignoring for a moment the desire to translate existing forms to Common Form, there's no reason contracts have to be made of provisions strung together in particular order. The important point is whether a contract has a noncompete, not whether that noncompete appears after "Payment Terms", first in "Miscellaneous", or at the very top. It matters whether it's there, and what it says. Where it appears is convention or taste.
 
-This means that contracts could be modeled as _sets_ of provisions, mere grab-bags of language without particular order, rather than as lists. Much as one marches the aisles of a supermarket chucking products into a shopping bag, one could stroll a database of available contract language, picking through exemplars of needed ingredients and tossing those most suitable into your contract as you go.
+This means that contracts could be modeled as [sets](https://en.wikipedia.org/wiki/Set_theory) of provisions, mere grab-bags of language without particular order, rather than as lists. Much as one marches the aisles of a supermarket chucking products into a shopping bag, one could stroll a database of available contract language, picking through exemplars of needed ingredients and tossing those most suitable into your contract as you go.
 
 ## In No Particular Order
 
@@ -67,9 +67,9 @@ If you can think of any common provisions or strong drafting conventions that ca
 
 One nice consequence of composing orderless contracts is that it becomes trivial to recognize that two forms that differ in order only are in fact the same. Common Form does not and cannot do this. Switching the order of any two subsections creates an entirely new Common Form.
 
-It also becomes possible to speak of contracts, and relationships between contracts, with the well-defined vocabulary of set theory. A form that contains all the provisions of another form, plus some others, is a superset. The intersection of two forms is a new form containing just those provisions the two share in common. The union of two forms is a new form with all the included provisions, without duplication. Even mobile phones could rather trivially perform such operations on relatively large forms.
+It also becomes possible to speak of contracts, and relationships between contracts, with the well-defined vocabulary of set theory. A form that contains all the provisions of another form, plus some others, is a superset. The [intersection](https://en.wikipedia.org/wiki/Intersection_(set_theory)) of two forms is a new form containing just those provisions the two share in common. The [union](https://en.wikipedia.org/wiki/Union_(set_theory)) of two forms is a new form with all the included provisions, without duplication. Even mobile phones could rather trivially perform such operations on relatively large forms.
 
-An extension of that idea might be to divide a contract project in two---its substantive terms and boilerplate. Candidate substantive terms might express their compatibility with boilerplate foundations expressed in set terms. Holding that boilerplate constant, one could swap sets of provisions in an out of the substantive terms part of the contract.
+An extension of that idea might be to divide a contract project in two---its substantive terms and boilerplate. Candidate substantive terms might express their compatibility with boilerplate foundations expressed in set terms. Holding that boilerplate constant, swap sets of provisions in an out of the substantive terms part of the contract.
 
 Rather than clumsily attach intellectual property agreements or assignments or waivers as exhibits, each duplicating the boilerplate from the master agreement---or making do with an abbreviated, degenerate version of it---contract lawyers might simply drop the set of necessary substantive terms into the substantive terms context of a broader agreement with common boilerplate. On the receiving end, opposing counsel could use set operations to interrogate the substantive coverage of the agreement.
 
