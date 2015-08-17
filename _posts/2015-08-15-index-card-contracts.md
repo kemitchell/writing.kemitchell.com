@@ -6,7 +6,7 @@ tags:
 - Common Form
 - Contracts
 ---
-A few folks have asked me to explain Common Form in "non-techie" terms. I'm more than happy to speak with those interested individually, but want to try at least one metaphor here.
+A few folks have asked me to explain Common Form in "nontechie" terms. I'm more than happy to speak with those interested individually, but want to try at least one metaphor here.
 
 ## A Thought Experiment
 
@@ -96,7 +96,7 @@ There are two key differences.
 
 First, any single modern computer is faster than any conceivable army of assistants. Even complex requests between computers over the Internet are a matter of seconds at most. More typically, milliseconds. Smartphones have more than enough power and capability to perform all the operations of Common Form libraries and drafting assistants. Server storage for even a massive public library costs tens of dollars per month.
 
-Second, Common Form's lottery numbers aren't purely random, but come from a [cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash). They appear random, in that even very similar provisions will receive markedly difference numbers. But if you gave 100 copies of the same new form contract to 100 different libraries, each returns a receipt bearing the same number. No library is more important than any other with respect to any form they share. Patrons and can check one library receipt against another if they suspect foul play or malfunction.
+Second, Common Form's lottery numbers aren't purely random, but come from a [cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash). They appear random, in that even very similar provisions will receive markedly different, arbitrary looking numbers. But if you give 100 copies of the same new form contract to 100 different libraries, each will return a receipt bearing the same number. No library is a more important source of identifying numbers than any other. Patrons and can check one library receipt against another if they suspect foul play or malfunction.
 
 ---
 
