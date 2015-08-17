@@ -11,25 +11,25 @@ tags:
 
 Compare:
 
-> 3.4. **Confidentiality**. Each part (as "Receiving Party") ...
+> 3.4. **Confidentiality**. Each part (as "**Receiving Party**") ...
 
 > 12.2. **Liability Cap**. The maximum, aggregate liability ... provided ... shall not apply to breaches of section 3.4.
 
 with:
 
-> 3.4. **Confidentiality**. Each part (as "Receiving Party") ...
+> 3.4. **Confidentiality**. Each part (as "**Receiving Party**") ...
 
 > 12.2. **Liability Cap**. The maximum, aggregate liability ... provided ... shall not apply to breaches of section 3.4 (Confidentiality).
 
 and:
 
-> 3.4. Pursuant to this section ("Confidentiality"), Each party (as "Receiving Party") ...
+> 3.4. Pursuant to this section ("**Confidentiality**"), Each party (as "**Receiving Party**") ...
 
 > 12.2. **Liability Cap**. The maximum, aggregate liability ... provided ... shall not apply to breaches of Confidentiality.
 
 or even:
 
-> 3.4. **Confidentiality**. Each part (as "Receiving Party") ...
+> 3.4. **Confidentiality**. Each part (as "**Receiving Party**") ...
 
 > 12.2. **Liability Cap**. The maximum, aggregate liability ... provided ... shall not apply to breaches of Confidentiality.
 
