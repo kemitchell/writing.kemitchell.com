@@ -46,7 +46,7 @@ On return to the transcriber, the card is either the new card with a new lottery
 
 When the transcriber has written an index card for each provision of the contract and the stack to his left has disappeared, he writes one master index card for the contract itself. That card contains just the lottery numbers of the top-level subdivisions of the contract. This and all the other index cards he has written are sent to the card catalog for filing. The lottery number of the master index card is sent back to the filing attorney, as a receipt.
 
-Each card in the file thus contains the text of a contract provision, as well as the lottery numbers of other provisions it contains. Each card bears a unique lottery number. The whole of the received contract is now contained in the card file, in many index cards.
+Each card in the file thus contains the text of a contract provision, as well as the lottery numbers of other provisions it contains. Each card bears a unique lottery number. The whole of the received contract is now contained in the card file, on many index cards.
 
 ### Reassembly
 
