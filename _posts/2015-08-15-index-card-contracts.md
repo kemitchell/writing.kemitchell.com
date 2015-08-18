@@ -64,19 +64,19 @@ Notice what the library cannot do.
 
 The assistants are not librarians. They have no understanding of the content of the index cards they handle. They cannot recommend contracts by topic or similarity to others, nor can they guess fixes for typos in lottery numbers they are asked to find.
 
-The process is also limited. At no time do assistants mark any index card as coming from any particular source. When a patron asks for a contract by lottery number and receives it from an assistant, they know someone has submitted it to the library before. But they do not know when it was submitted, who submitted it, or why.
+The process is also limited. At no time do assistants mark any index card as coming from any particular source. When a patron asks for a contract by lottery number and receives it from an assistant, they know someone submitted it. But they do not know when it was submitted, who submitted it, or why.
 
-If the library limits the number of requests any patron can make at a time or for any particular form, they can prevent patrons from learning whole classes of information. Patrons can't request the same form day after day, hoping to notice when it is added. They cannot try to request every form in the library by asking for every possible lottery number, one after the other.
+If the library limits the number of requests any patron can make at a time and for any particular form, they can prevent patrons from learning whole classes of information. Patrons can't request the same form day after day, hoping to notice when it is added. They cannot try to request every form in the library by asking for every possible lottery number, one after the other.
 
 ### Verification
 
-If an attorney received a draft from opposing counsel that purports to be a standard form whose lottery number she knows, she can verify that claim very quickly by submitting the draft to the library. If the form is known to the library, it gains no new content, but will produce the correct receipt. It's easier to compare the lottery number on that receipt to to the lottery number of the standard than to check their content, word by word.
+If an attorney received a draft from opposing counsel that purports to be a standard whose lottery number she knows, she can quickly verify that claim by submitting the draft to the library. If the form is known to the library, it gains no new content, but will return a receipt. It's easier to compare the lottery number on that receipt to to the lottery number of the standard than to check their content, word by word.
 
 ### Indices
 
 In addition to reference by lottery number, our conventions for marking up form contracts make it possible to index in other useful ways. Assistants can recognize the various markings for definitions, term uses, cross-references, headings, etc. Without a clue what they mean, assistants could review cards on their way into the cabinets and create dividers in a separate catalogs for each defined term, heading, or fill-in-the-blank followed by cards bearing the lottery numbers of contract-language cards that contain corresponding annotations.
 
-For instance, assistants might create indices of definitions. Patrons could then request all definitions of a term like "Intellectual Property", yielding a list of lottery numbers the attorney might then request. The same procedures could identify, say, every cross-reference to a provision entitled "Confidentiality". With a bit of extra legwork, rote procedures might also produce "every form entitled 'Stock Purchase Agreement' containing a form entitled 'Noncompetition'" or even "every definition of 'Material Adverse Change' in a form entitled 'Merger Agreement'".
+For instance, assistants might create indices of definitions. Patrons could then request all definitions of a term like "Intellectual Property", yielding a list of lottery numbers the attorney might then request. The same procedures could identify, say, every cross-reference to a provision entitled "Confidentiality". With a bit of extra legwork, rote procedures could also produce "every form entitled 'Stock Purchase Agreement' containing a form entitled 'Noncompetition'" or even "every definition of 'Material Adverse Change' in a form entitled 'Merger Agreement'".
 
 There's nothing to prevent assistants from storing noncontract information indexed by lottery number, too. The library might permit patrons to submit annotations by lottery number, and include these with a copy of any contract containing the annotated provision. The same could be done with court decisions, or to cross-reference public filings.
 
@@ -84,9 +84,9 @@ There's nothing to prevent assistants from storing noncontract information index
 
 The same processes used to index a library can assist an attorney preparing and reviewing agreements.
 
-Imagine an attorney revising a large but structurally sound credit agreement who is unhappy with its governing law provision. They send out for governing law provisions in the public library, and find one they like better. They construct a new form, swapping in the new provision for the old.
+Imagine an attorney revising a large but structurally sound credit agreement who is unhappy with its governing law provision. They send out for governing law provisions from the public library, and find one they like better. They construct a new form, swapping in the new provision for the old.
 
-Assistants run the same indexing procedures, but starting from scratch. If a term appears in the definitions index, but not the used terms index, the new provision defines an extra term. If a term appears in the used terms index but not in the definitions index, the new provision uses a term that isn't defined. And so on for references and fill-in-the-blanks. Rote procedures can show exactly where in the contract such problems arise.
+Assistants run the same indexing procedures, but starting from scratch. If a term appears in the definitions index, but not the used terms index, the new provision defines an extra term. If a term appears in the used terms index but not in the definitions index, the new governing law provision uses a term that isn't defined. And so on for references and fill-in-the-blanks. Rote procedures can show exactly where in the contract such problems arise.
 
 ## Common Form
 
