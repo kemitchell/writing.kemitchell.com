@@ -59,21 +59,21 @@ In Markdown:
 ~~~
 # License
 
-_Licensee_ shall be permitted to
+Licensee shall be permitted to
 
 ## Use
 
-Use the _Software_
+Use the Software
 
 ## Copy
 
-Copy the _Software_
+Copy the Software
 
 ## Distribute
 
-Distribute the _Software_
+Distribute the Software
 
-subject to ["Prohibited Acts"](#prohibited-acts)
+subject to ["Prohibited Acts"](#Prohibited Acts)
 ~~~
 
 But this markup doesn't unambiguously show that "subject to..." is within "License", but not within "Distribute". Lawyers see ambiguity crop up all the time as a result of such structural problems---Does Licensee have to use and copy the software subject to "Prohibited Acts", too, or just distribute the software subject to "Prohibited Acts"?
@@ -83,23 +83,23 @@ One might try to use some kind of marker to "back up" one level in the hierarchy
 ~~~
 # License
 
-_Licensee_ shall be permitted to
+Licensee shall be permitted to
 
 ## Use
 
-Use the _Software_
+Use the Software
 
 ## Copy
 
-Copy the _Software_
+Copy the Software
 
 ## Distribute
 
-Distribute the _Software_
+Distribute the Software
 
 ---
 
-subject to ["Prohibited Acts"](#prohibited-acts)
+subject to ["Prohibited Acts"](#Prohibited Acts)
 ~~~
 
 But this breaks down if the hierarchy is more than one level deep:
@@ -107,19 +107,19 @@ But this breaks down if the hierarchy is more than one level deep:
 ~~~
 # License
 
-_Licensee_ shall be permitted to
+Licensee shall be permitted to
 
 ## Use
 
-Use the _Software_
+Use the Software
 
 ## Copy
 
-Copy the _Software_
+Copy the Software
 
 ## Distribute
 
-Distribute the _Software_ both
+Distribute the Software both
 
 ### United States
 
@@ -131,7 +131,7 @@ within Germany
 
 ---
 
-subject to ["Prohibited Acts"](#prohibited-acts)
+subject to ["Prohibited Acts"](#Prohibited Acts)
 ~~~
 
 The obvious solution is to use as many horizontal rules as prior sections you need to close off:
@@ -139,19 +139,19 @@ The obvious solution is to use as many horizontal rules as prior sections you ne
 ~~~
 # License
 
-_Licensee_ shall be permitted to
+Licensee shall be permitted to
 
 ## Use
 
-Use the _Software_
+Use the Software
 
 ## Copy
 
-Copy the _Software_
+Copy the Software
 
 ## Distribute
 
-Distribute the _Software_ both
+Distribute the Software both
 
 ### United States
 
@@ -165,7 +165,7 @@ within Germany
 
 ---
 
-subject to ["Prohibited Acts"](#prohibited-acts)
+subject to ["Prohibited Acts"](#Prohibited Acts)
 ~~~
 
 That's ungainly and ugly. You'll end up scrolling a lot, counting out how many rules you need. And you'll end up with tons of horizontal rules wherever you display your markup.
@@ -175,19 +175,19 @@ How about extra headings?
 ~~~
 # License
 
-_Licensee_ shall be permitted to
+Licensee shall be permitted to
 
 ## Use
 
-Use the _Software_
+Use the Software
 
 ## Copy
 
-Copy the _Software_
+Copy the Software
 
 ## Distribute
 
-Distribute the _Software_ both
+Distribute the Software both
 
 ### United States
 
@@ -199,7 +199,7 @@ within Germany
 
 ## Distribute (continued)
 
-subject to ["Prohibited Acts"](#prohibited-acts)
+subject to ["Prohibited Acts"](#Prohibited Acts)
 ~~~
 
 I like this slightly better. But it's still a pain and a hack.
@@ -211,19 +211,19 @@ At this point, you might accept that Markdown's heading syntax is the problem, a
 ~~~
 1.  **License**
 
-    _Licensee_ shall be permitted to
+    Licensee shall be permitted to
 
     1.  Use
 
-        Use the _Software_
+        Use the Software
 
     2.  Copy
 
-        Copy the _Software_
+        Copy the Software
 
     3.  Distribute
 
-        Distribute the _Software_ both
+        Distribute the Software both
 
         1.  United States
 
@@ -233,7 +233,7 @@ At this point, you might accept that Markdown's heading syntax is the problem, a
 
             within Germany
 
-    subject to ["Prohibited Acts"](#prohibited-acts)
+    subject to ["Prohibited Acts"](#Prohibited Acts)
 ~~~
 
 The hierarchy is reproduced, at the expense of using formatting tags to set off headings and the semantics of heading tags, which are a good fit. It's good Markdown, which may be enough if all you want is nice [prose diffs on GitHub](https://github.com/blog/1784-rendered-prose-diffs). It's not good HTML.
@@ -243,73 +243,111 @@ The hierarchy is reproduced, at the expense of using formatting tags to set off 
 All of this just goes to show Markdown's age. It was designed as a human-readable markup language targeting HTML4. HTML4 lacks the HTML5 document-hierarchy tags we really want:
 
 {% highlight html %}
-<section>
-    <h1>Example</h1>
-    <p>First, some text.</p>
-    <section>
-        <h2>First</h2>
-        <p>Alpha</p>
-        <section>
-            <h3>Still Deeper</h3>
-            <p>Beta</p>
-            <p>This text is within "Still Deeper".</p>
-        </section>
-        <p>This text is within "First".</p>
+<section id=License>
+  <h1>License</h1>
+  <p>Licensee shall be permitted to</p>
+  <section id=Use>
+    <h2>Use</h2>
+    <p>Use the Software</p>
+  </section>
+  <section id=Copy>
+    <h2>Copy</h2>
+    <p>Copy the Software</p>
+  </section>
+  <section id=Distribute>
+    <h2>Distribute</h2>
+    <p>Distribute the Software both</p>
+    <section id="United States">
+      <h2>United States</h2>
+      <p>within the United States</p>
     </section>
-    <p>This text is within "Example" alone.</p>
+    <section id=Germany>
+      <h2>Germany</h2>
+      <p>within Germany</p>
+    </section>
+  </section>
+  <p>subject to <a href="#Prohibited Acts">Prohibited Acts</a></p>
 </section>
 {% endhighlight %}
 
 Of course, one can fake it in HTML4 with `<div>` tags:
 
 {% highlight html %}
-<div class="section">
-    <h1>Example</h1>
-    <p>First, some text.</p>
-    <div class="section">
-        <h2>First</h2>
-        <p>Alpha</p>
-        <div class="section">
-            <h3>Still Deeper</h3>
-            <p>Beta</p>
-            <p>This text is within "Still Deeper".</p>
-        </div>
-        <p>This text is within "First".</p>
+<div class=section id=License>
+  <h1>License</h1>
+  <p>Licensee shall be permitted to</p>
+  <div class=section id=Use>
+    <h2>Use</h2>
+    <p>Use the Software</p>
+  </div>
+  <div class=section id=Copy>
+    <h2>Copy</h2>
+    <p>Copy the Software</p>
+  </div>
+  <div class=section id=Distribute>
+    <h2>Distribute</h2>
+    <p>Distribute the Software both</p>
+    <div class=section id="United States">
+      <h2>United States</h2>
+      <p>within the United States</p>
     </div>
-    <p>This text is within "Example" alone.</p>
+    <div class=section id=Germany>
+      <h2>Germany</h2>
+      <p>within Germany</p>
+    </div>
+  </div>
+  <p>subject to <a href="#Prohibited Acts">Prohibited Acts</a></p>
 </div>
 {% endhighlight %}
 
 But nobody really wants to fake either approach in Markdown:
 
 {% highlight html %}
-<section>
+<section id=License>
 
-# Example
+# License
 
-First, some text.
+<section id=Use>
 
-<section>
+## Use
 
-## First
-
-Alpha
-
-<section>
-
-### Still Deeper
-
-Beta
-
-This text is within "Still Deeper".
+Use the Software
 
 </section>
 
-This text is within "First".
+<section id=Copy>
+
+## Copy
+
+Copy the Software
 
 </section>
 
-This text is within "Example" alone.
+<section id=Distribute>
+
+## Distribute
+
+Distribute the Software both
+
+<section id="United States">
+
+## United States
+
+within the United States
+
+</section>
+
+<section id=Germany>
+
+## Germany
+
+within Germany
+
+</section>
+
+</section>
+
+subject to [Prohibited Acts](#Prohibited Acts)
 
 </section>
 {% endhighlight %}
