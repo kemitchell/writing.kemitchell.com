@@ -12,7 +12,7 @@ tags:
 
 ## Contracts are hierarchical in structure.
 
-Consider this bit of toy contract structure. [Common Form](https://commonform.github.io) is built to express this kind of thing:
+Consider a bit of toy contract structure. [Common Form](https://commonform.github.io) is built for this kind of thing:
 
 ~~~
 License \\ <Licensee> shall be permitted to
@@ -76,9 +76,9 @@ Distribute the Software
 subject to ["Prohibited Acts"](#Prohibited Acts)
 ~~~
 
-But this markup doesn't unambiguously show that "subject to..." is within "License", but not within "Distribute". Lawyers see ambiguity crop up all the time as a result of such structural problems---Does Licensee have to use and copy the software subject to "Prohibited Acts", too, or just distribute the software subject to "Prohibited Acts"?
+But this markup doesn't unambiguously show that "subject to..." is within "License", but not within "Distribute". Lawyers see these kinds of structures produce ambiguity all the time. Does Licensee have to use and copy the software subject to "Prohibited Acts", too, or just distribute the software subject to "Prohibited Acts"?
 
-One might try to use some kind of marker to "back up" one level in the hierarchy of the document. For example, a horizontal rule:
+You might try to use some kind of marker to "back up" one level in the hierarchy of the document. For example, a horizontal rule:
 
 ~~~
 # License
@@ -134,7 +134,7 @@ within Germany
 subject to ["Prohibited Acts"](#Prohibited Acts)
 ~~~
 
-The obvious solution is to use as many horizontal rules as prior sections you need to close off:
+You might use as many horizontal rules as prior sections you need to close off:
 
 ~~~
 # License
@@ -206,37 +206,37 @@ I like this slightly better. But it's still a pain and a hack.
 
 ## Give up on headings.
 
-At this point, you might accept that Markdown's heading syntax is the problem, and kick it to the curb. Markdown's list syntax, based on indenting four spaces (or one tab) at a time, is more flexible:
+At this point, you might accept that headings are the problem, and kick them to the curb. Markdown's list syntax, based on indenting four spaces (or one tab) at a time, is more flexible:
 
 ~~~
 1.  **License**
 
     Licensee shall be permitted to
 
-    1.  Use
+    1.  **Use**
 
         Use the Software
 
-    2.  Copy
+    2.  **Copy**
 
         Copy the Software
 
-    3.  Distribute
+    3.  **Distribute**
 
         Distribute the Software both
 
-        1.  United States
+        1.  **United States**
 
             within the United States
 
-        2.  Germany
+        2.  **Germany**
 
             within Germany
 
     subject to ["Prohibited Acts"](#Prohibited Acts)
 ~~~
 
-The hierarchy is reproduced, at the expense of using formatting tags to set off headings and the semantics of heading tags, which are a good fit. It's good Markdown, which may be enough if all you want is nice [prose diffs on GitHub](https://github.com/blog/1784-rendered-prose-diffs). It's not good HTML.
+It's good Markdown, which may be enough if all you want is nice [prose diffs on GitHub](https://github.com/blog/1784-rendered-prose-diffs). It's not good HTML. But the hierarchy is correctly reproduced.
 
 ## HTML5
 
@@ -270,7 +270,7 @@ All of this just goes to show Markdown's age. It was designed as a human-readabl
 </section>
 {% endhighlight %}
 
-Of course, one can fake it in HTML4 with `<div>` tags:
+Of course, you can fake it in HTML4 with `<div>` tags:
 
 {% highlight html %}
 <div class=section id=License>
@@ -300,7 +300,7 @@ Of course, one can fake it in HTML4 with `<div>` tags:
 </div>
 {% endhighlight %}
 
-But nobody really wants to fake either approach in Markdown:
+But nobody really wants to do either manually in Markdown:
 
 {% highlight html %}
 <section id=License>
