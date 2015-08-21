@@ -321,3 +321,7 @@ This is worse than wrangling horizontal rules, and not all Markdown parsers and 
 There is even an issue with HTML5: Heading tags only go up to `<h6>`, while legal documents often have hierarchies more than 6 levels deep. Not that they should, but they do.
 
 Inevitably, you fall back on generic tags. Something like `<span class="heading level7">` is easy enough.
+
+---
+
+Thanks once more to [Tim](http://www.kemp59f.info/) for enduring a less refined attempt. Thanks also to [Casey Kuhlman](http://caseykuhlman.com/), cofounder of [Eris Industries](https://erisindustries.com/), whose work on [Legal Markdown](https://github.com/eris-ltd/legalmarkdown) was inspiring.
