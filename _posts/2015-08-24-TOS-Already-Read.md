@@ -30,7 +30,7 @@ Companies like [500px](https://500px.com/terms), [Pinterest](https://about.pinte
 
 # A Plan
 
-Common Form could bridge the gap. The system is built, from the group up, to recognize not just whole form agreements, but specific pieces, down to items in a list, out of context.
+Common Form could bridge the gap. The system is built, from the ground up, to recognize not just whole form agreements, but specific pieces, down to items in a list, out of context.
 
 Consider two pieces of hypothetical software. ([Drop me a line](mailto:kyle@kemitchell.com) if you're interested in working on either.)
 
