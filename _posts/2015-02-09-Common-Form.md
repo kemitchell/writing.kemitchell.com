@@ -55,7 +55,7 @@ Common Form defines a _Markup Language_ that allows us to express arbitrarily co
 
 >     \\\\ the representations and warranties of the \<Borrower\> set forth in this \<Agreement\> shall be true and complete on and as of the date of such \<Loan\> as if made on and as of such date (except to the extent that such representations and warranties expressly relate to an earlier date, in which case they shall be true and complete as of such earlier date); and
 
->     \\\\ at the time of and immediately after giving effect to such \<Loan\>, no \<Default\> shall have occured and be continuiung.
+>     \\\\ at the time of and immediately after giving effect to such \<Loan\>, no \<Default\> shall have occurred and be continuing.
 
 > \\\\ Each \<Borrowing\> shall be deemed to constitute a certification by the \<Borrower\> on the date thereof as to the matters specified in {Ongoing Conditions}.
 
