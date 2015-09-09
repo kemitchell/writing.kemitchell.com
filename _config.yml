@@ -7,3 +7,4 @@ homepage: http://kemitchell.com
 highlighter: pygments
 gems:
 - jekyll-sass-converter
+- jekyll-feed
