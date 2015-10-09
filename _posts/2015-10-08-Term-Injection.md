@@ -26,7 +26,7 @@ When Seller expected to sell for cash.
 
 Or even:
 
-> Fill in the "price" blank with "$1,000. Seller shall not at any time during the Term enter any new line of business that competes with any Seller line of business."
+> Fill in the "price" blank with "$1,000. Seller shall not at any time during the Term enter any new line of business that competes with any Seller line of business.".
 
 Note the period after "$1,000". This results in:
 
