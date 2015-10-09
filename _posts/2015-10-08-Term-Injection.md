@@ -49,5 +49,11 @@ Some norms of current practice just aren't automation safe. Highly custom or eve
 
 Long story short: Wherever an automated form gives users the full freedom of the English language to complete a document, those users will have full freedom to inject unexpected terms. The only known defenses are constant vigilance and the harsh discipline of treating all counterparty input as untrustworthy. Playing defense is hard. So says every new data-breach headline.
 
+---
+
+This post dedicated to the roving, anonymous band of Turkish [script kiddies][script-kiddie] responsible for the first successful hack of a web app I'd written. I'll never forget it.
+
+[script-kiddie]: https://en.wikipedia.org/wiki/Script_kiddie
 [commonform]: https://commonform.github.io
 [code injection]: https://en.wikipedia.org/wiki/Code_injection
+[shell-injection]: https://en.wikipedia.org/wiki/Code_injection#Shell_injection
