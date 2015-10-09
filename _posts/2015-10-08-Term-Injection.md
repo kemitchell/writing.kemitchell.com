@@ -51,7 +51,7 @@ Long story short: Wherever an automated form gives users the full freedom of the
 
 ---
 
-This post dedicated to the roving, anonymous band of Turkish [script kiddies][script-kiddie] responsible for the first successful hack of a web app I'd written. I'll never forget it.
+This post dedicated to the roving, anonymous band of Turkish [script kiddies][script-kiddie] responsible for the first successful hack of a web app I'd written. I'll never forget it. A [shell injection][shell-injection].
 
 [script-kiddie]: https://en.wikipedia.org/wiki/Script_kiddie
 [commonform]: https://commonform.github.io
