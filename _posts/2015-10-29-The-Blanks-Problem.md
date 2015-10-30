@@ -19,7 +19,7 @@ Hints about how to fill in blanks are nice to have. Lawyers use them when they w
 
 > "Company" means [Company Name], a Delaware corporation.
 
-There is a fill-in-the-blank between "means" and ", a Delaware corporation" in that form. There is also a hint: "Company Name". When the form is filled out, the text "Company Name" won't appear in the contract.
+There is a fill-in-the-blank between "means" and ", a Delaware corporation" in that form. There is also a hint: "Company Name". When the form is filled out, the text "Company Name" won't appear in the contract. It's just for the lawyers.
 
 But it's equally common to write blanks without any kind of hint, especially when what-goes-where is clear in context:
 
@@ -27,7 +27,7 @@ But it's equally common to write blanks without any kind of hint, especially whe
 
 There is a fill-in-the-blank between "means" and "United States dollars" in that form. There isn't any explicit hint about how to fill it in. There's no extra text in the form that doesn't end up in the context, except the bullet, which is just there, I think, to make the brackets easier to spot.
 
-So, as concerns any contract that eventually gets filled out and signed, the following are the same:
+So, as concerns any contract that eventually gets filled out and signed, the following are equivalent:
 
 > "Company" means [Company Name], a Delaware corporation.
 
@@ -43,17 +43,17 @@ That convenience can be valuable. It's a feature any good document assembly syst
 
 But Common Form isn't a document assembly system. It's a way for programs (including document assembly programs) to communicate form contracts. If communicating hints for blanks gets in the way of clearly communicating forms themselves, Common Form shouldn't do both. It should focus on communicating forms as best it can.
 
-The reason these goals conflict is that in order to make sharing forms between programs practical, Common Form defines a way of identifying forms using special computer procedures called "hash functions". If you're not familiar with hash functions, think of them as "fingerprints" for data. Anywhere you find a particular piece of data you can take its fingerprint. That fingerprint is highly unlikely to match the fingerprint of any other bit of data you find. But if you see the exact same data again, you'll find the same fingerprint as before. The fingerprints give programs that speak Common Form a way to _identify_ each and every possible form.
+The reason these goals conflict is that in order to make sharing forms between programs practical, Common Form defines a way of identifying forms using special computer procedures called "hash functions". If you're not familiar with hash functions, think of them as "fingerprints" for data. Anywhere you find a particular piece of data you can take its fingerprint. That fingerprint is highly unlikely to match the fingerprint of any other bit of data you find. But if you see the exact same data again, you'll find the same fingerprint as before. The fingerprints give programs that speak Common Form a way to _identify_ each and every possible form, from the lowliest governing law clause to hundred-plus-page credit agreements.
 
 At present, Common Form stores a hint about how to fill out every blank. The data for the hint is part of, and inseparable from, the data about the form where the blank appears. Because the hints are part of the data, they affect the fingerprints of the forms.
 
-So the Common Form fingerprints of these provisions differ:
+So the Common Form fingerprints of these provisions differ ...
 
 > "Company" means [Company Name], a Delaware corporation.
 
 > "Company" means [I am the eggman; they are the eggmen; I am the walrus. Don't commit malpractice.], a Delaware corporation.
 
-This is so even though their results in any finished contract are exactly the same.
+... even though for purposes of finished, ready-to-sign contracts, they're exactly the same.
 
 Common Form will in fact allow an infinite number of forms with exactly the same effect, because the text of the hint is arbitrary, and even slight differences produce different fingerprints:
 
@@ -61,9 +61,11 @@ Common Form will in fact allow an infinite number of forms with exactly the same
 
 > "Company" means [corporation name], a Delaware corporation.
 
+> "Company" means [company name], a Delaware corporation.
+
 > "Company" means [SomeCo, Inc.], a Delaware corporation.
 
-All of the above produce different Common Form data, and therefore have different Common Form fingerprints.
+All of the above produce different Common Form data, and therefore have different Common Form fingerprints. Again, they all have the same effect on a ready-to-sign contract when the blanks are filled in.
 
 There is only one kind of hint Common Form does not allow:
 
@@ -71,7 +73,7 @@ There is only one kind of hint Common Form does not allow:
 
 Hints can't be empty.
 
-The question is whether Common Form should do the exact opposite, and move information about how to fill in specific blanks out of the data about the text, definitions, and structure of forms.
+The question is whether Common Form should do the exact opposite, and _only_ allow fill-in-the-blanks without any kind of hint data. That would massively reduce the number of valid forms that can have the same effect on finished contracts.
 
 ## What Matters
 
@@ -116,7 +118,7 @@ There are 29 characters in the contract text following "Dollars", starting with 
 
 In math terms, we're looking at a sequence, or a set of unique position-character elements, _S_. The size of matching Common Forms is the size of the power set, or \|P(S)\|=2^n for n=\|S\|.
 
-In non-math terms, the number of possibly matching Common Forms is enormous. Guessing that the average English word is about 5 characters long, and that a standard contract form might contain 50 words, we're looking at 250 word characters, plus an additional 48 spaces between the words, for a total of 298 characters. 2 to the 298th power is a number of 90 decimal digits several orders of magnitude greater than the number of atoms in the visible universe.
+In non-math terms, the number of possibly matching Common Forms is enormous. Guessing that the average English word is about 5 characters long, and that a standard contract form might contain 50 words, we're looking at 250 word characters, plus an additional 48 spaces between the words, for a total of 298 characters. 2 to the 298th power is a number of 90 decimal digits several orders of magnitude greater than the estimated number of atoms in the visible universe.
 
 ## Cutting it Down
 
@@ -134,7 +136,7 @@ The question is whether these "shortcuts" reduce the problem of finding matching
 
 ## Making a Call
 
-While I'm not confident in my decision, I think I've spent all the time worth spending on the problem at this time. I will probably achieve more moving on to other problems and work than mining for further clarity on this choice in particular.
+While I'm not confident in my decision, I think I've spent all the time worth spending on the problem at this time. I will probably achieve more moving on to other problems than mining for further clarity on this particular puzzle. I've had some great input from others working on and thinking about Common Form, and I think they feel the same.
 
 Though I will always remain open to input from trusted coconspirators, I expect that I will rewrite substantial parts of Common Form to remove fill-in-the-blank hints from how Common Forms are modeled in data and fingerprinted.
 
