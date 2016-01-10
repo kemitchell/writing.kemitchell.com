@@ -32,7 +32,7 @@ Drawing the same out as an explicit, tree-like hierarchy:
 Sole Top-Level Section
 Heading "License"
 |
-+- Text beginning "First, some text."
++- Text "Licensee shall be permitted to"
 |
 +- First Second-Level Section
 |  Heading "Use"
