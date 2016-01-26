@@ -6,164 +6,10 @@ $datePadding: 36px
 $interPostPadding: 36px
 $darkRed: #800000
 
-// Equity
-
-@font-face
-  font:
-    family: 'Equity Text A'
-    weight: normal
-    style: normal
-  src: url('equity_text_a_regular-webfont.woff') format('woff')
-
-@font-face
-  font:
-    family: 'Equity Text A Bold'
-    weight: normal
-    style: normal
-  src: url('equity_text_a_bold-webfont.woff') format('woff')
-
-@font-face
-  font:
-    family: 'Equity Text A Bold Italic'
-    weight: normal
-    style: normal
-  src: url('equity_text_a_bold_italic-webfont.woff') format('woff')
-
-@font-face
-  font:
-    family: 'Equity Caps A Bold'
-    weight: normal
-    style: normal
-  src: url('equity_caps_a_bold-webfont.woff') format('woff')
-
-@font-face
-  font:
-    family: 'Equity Caps A'
-    weight: normal
-    style: normal
-  src: url('equity_caps_a_regular-webfont.woff') format('woff')
-
-@font-face
-  font:
-    family: 'Equity Text A Italic'
-    weight: normal
-    style: normal
-  src: url('equity_text_a_italic-webfont.woff') format('woff')
-
-// Concourse
-
-@font-face
-  font-family: 'Concourse T4 Bold'
-  src: url('concourse_t4_bold-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T4 Bold Italic'
-  src: url('concourse_t4_bold_italic-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T3 Italic'
-  src: url('concourse_t3_italic-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T3'
-  src: url('concourse_t3_regular-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T3 Bold'
-  src: url('concourse_t3_bold-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T3 Bold Italic'
-  src: url('concourse_t3_bold_italic-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T2'
-  src: url('concourse_t2_regular-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T2 Italic'
-  src: url('concourse_t2_italic-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T2 Bold'
-  src: url('concourse_t2_bold-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T2 Bold Italic'
-  src: url('concourse_t2_bold_italic-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T8'
-  src: url('concourse_t8_regular-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T8 Italic'
-  src: url('concourse_t8_italic-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T7 Regular'
-  src: url('concourse_t7_regular-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T7 Italic'
-  src: url('concourse_t7_italic-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T6'
-  src: url('concourse_t6_regular-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T6 Italic'
-  src: url('concourse_t6_italic-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T4'
-  src: url('concourse_t4_regular-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
-@font-face
-  font-family: 'Concourse T4 Italic'
-  src: url('concourse_t4_italic-webfont.woff') format('woff')
-  font-weight: normal
-  font-style: normal
-
 html, body
   margin: 0
   text-align: center
-  font-family: "Equity Text A"
+  font-family: Equity-Text
   font-size: 24px
   background-color: #f8f8f8
 
@@ -188,7 +34,7 @@ header
   h1
     // padding-top: 100px + $interPostPadding
     padding-top: $interPostPadding
-    font-family: "Concourse T3"
+    font-family: "Concourse-T3"
     font-size: 400%
 
   p
@@ -239,7 +85,7 @@ ol.posts
 .title
   display: block
   font:
-    family: "Concourse T6"
+    family: "Concourse-T6"
     size: 200%
 
 .description
@@ -255,7 +101,7 @@ ol.posts
   list-style-type: none
   padding-top: 0.5ex
   font:
-    family: "Concourse C4"
+    family: "Concourse-C4"
     size: 50%
   text:
     transform: uppercase
@@ -285,7 +131,7 @@ ol.posts
     color: $darkRed
     font:
       size: 200%
-      family: "Concourse T6"
+      family: "Concourse-T6"
 
   .month, .year
     color: #777
@@ -301,7 +147,7 @@ ol.posts
 .post
   h1
     font-size: 200%
-    font-family: "Concourse T6"
+    font-family: "Concourse-T6"
     padding: 1em 0 0.25em 0
     small
       display: block
@@ -310,7 +156,7 @@ ol.posts
       color: #777
   h2
     font-size: 150%
-    font-family: "Concourse T6"
+    font-family: "Concourse-T6"
     padding: 1em 0 0.25em 0
   h3
     padding: 1em 0 0.25em 0
