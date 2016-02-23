@@ -242,7 +242,7 @@ It's good Markdown, which may be enough if all you want is nice [prose diffs on 
 
 All of this just goes to show Markdown's age. It was designed as a human-readable markup language targeting HTML4. HTML4 lacks the HTML5 document-hierarchy tags we really want:
 
-{% highlight html %}
+```html
 <section id=License>
   <h1>License</h1>
   <p>Licensee shall be permitted to</p>
@@ -268,11 +268,11 @@ All of this just goes to show Markdown's age. It was designed as a human-readabl
   </section>
   <p>subject to <a href="#Prohibited Acts">Prohibited Acts</a></p>
 </section>
-{% endhighlight %}
+```
 
 Of course, you can fake it in HTML4 with `<div>` tags:
 
-{% highlight html %}
+```html
 <div class=section id=License>
   <h1>License</h1>
   <p>Licensee shall be permitted to</p>
@@ -298,11 +298,11 @@ Of course, you can fake it in HTML4 with `<div>` tags:
   </div>
   <p>subject to <a href="#Prohibited Acts">Prohibited Acts</a></p>
 </div>
-{% endhighlight %}
+```
 
 But nobody really wants to do either manually in Markdown:
 
-{% highlight html %}
+```markdown
 <section id=License>
 
 # License
@@ -350,7 +350,7 @@ within Germany
 subject to [Prohibited Acts](#Prohibited Acts)
 
 </section>
-{% endhighlight %}
+```
 
 This is worse than wrangling horizontal rules, and not all Markdown parsers and renderers will do the right thing.
 

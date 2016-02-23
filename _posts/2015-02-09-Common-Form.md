@@ -135,9 +135,9 @@ This is for human consumption:
 
 Here is what the system sees, formatted slightly for reading. Have a peek, it doesn't bite:
 
-{% highlight javascript %}
+```javascript
 {% include_relative commonform/form.json %}
-{% endhighlight javascript %}
+```
 
 There are exactly two technical points worth understanding at a high level about how Common Form represents Forms in software:
 
