@@ -8,7 +8,7 @@ tags:
 - Start-up Companies
 ---
 
-<!-- _This post made concurrently on [Ironclad, Inc.'s blog]()._ -->
+_This post made concurrently on [Ironclad, Inc.'s blog](http://blog.ironcladapp.com/company-blog/announcing-ironsides-open-source-incorporation-documents)._
 
 Startup legal structure is stuck in the Unix era, waiting for its “open” moment. We are happy to announce [Ironsides](https://ironsides.github.io/), a project for a truly open startup legal operating system. The project’s goals:
 
