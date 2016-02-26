@@ -17,6 +17,8 @@ Startup legal structure is stuck in the Unix era, waiting for its “open” mom
 3. Release revisions in a transparent, predictable, and verifiable manner, for free, on the Internet.
 4. Welcome and incorporate contributions from companies, lawyers, and other professionals, with startup companies’ interests in mind.
 
+<!--jump-->
+
 Why?
 
 # Startup Legal is Unix All Over Again

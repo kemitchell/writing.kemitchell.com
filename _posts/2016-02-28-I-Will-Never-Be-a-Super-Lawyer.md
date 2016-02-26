@@ -10,6 +10,8 @@ tags:
 
 I’ll never be a “Super Lawyer”, a “Rising Star”, or any such thing. Three reasons.
 
+<!--jump-->
+
 First, the megaton legal publishing conglomerates, Thomson Reuters and RELX (formerly Reed Elsevier), run nearly all the lawyerly “Who’s Who” programs. Those companies have conspired, by means fair and foul, to keep American court decisions, regulations, and statutory law behind paywalls for decades. I won’t have anything to do with them.
 
 Not every lawyer is so involved in the nuts and bolts of legal publishing, legal data, and distribution, or so primed to understand their implications. But I am. Armed with that knowledge, open access becomes a clear moral imperative for the profession in my lifetime. I can’t abide affiliation with its principle opponents.

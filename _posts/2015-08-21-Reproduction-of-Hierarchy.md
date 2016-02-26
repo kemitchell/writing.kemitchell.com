@@ -10,6 +10,8 @@ tags:
 
 [Tim Kempf](http://www.kemp59f.info/) recently invited me to explain why Markdown is not a great fit for American-style contracts. I gleefully took up him on the offer, and proceeded, more or less, to belly-flop on hard concrete. Let's try that again...
 
+<!--jump-->
+
 ## Contracts are hierarchical in structure.
 
 Consider a bit of toy contract structure. [Common Form](https://commonform.github.io) is built for this kind of thing:

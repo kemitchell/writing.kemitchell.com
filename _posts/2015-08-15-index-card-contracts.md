@@ -8,6 +8,8 @@ tags:
 ---
 A few folks have asked me to explain Common Form in "nontechie" terms. I'm more than happy to speak with those interested individually, but want to try at least one metaphor here.
 
+<!--jump-->
+
 ## A Thought Experiment
 
 Imagine it's 1930. You head an urban business law firm. You meet a man downtown who runs a back-office services firm. He offers to provide as many administrative assistants as you require, twenty-four hours a day, seven days a week, for the present-day equivalent of $100 per month.

@@ -13,6 +13,8 @@ Whether by accident or by design, these approaches sometimes remember how users 
 
 What is so different about Deep Data that a new, woefully abstract buzzword is needed to talk about it?
 
+<!--jump-->
+
 When companies move on a new category of Big Data, the need for a new privacy assessment is usually clear.  Are we comfortable sharing the locations of our cell phones?  Are we alright giving our bookseller a list of everything we’ve browsed and bought? Will we give the power company detailed information on when, how, and how much electricity we use? These aren’t easy questions, but the need to ask is often clear. Companies, for their part, are incentivized to announce new features with all the fanfare they can muster, shining their own light on such changes.
 
 Conversely, Deep Data changes are often technically subtle and practically invisible. It may not be clear at all that a new privacy trade-off is on offer.

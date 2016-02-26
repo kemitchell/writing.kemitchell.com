@@ -15,6 +15,8 @@ I've since done a few searches in my files, via Google, and on EDGAR, and found 
 
 This keeps me up at night.
 
+<!--jump-->
+
 ## What Does "Enumeration" Mean?
 
 When I read or hear "enumeration" in discussion of contracts, it means the way drafters break out and number items of lists within contract sections. If an American contract says...

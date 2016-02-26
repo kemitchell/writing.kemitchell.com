@@ -10,6 +10,8 @@ A few folks have expressed interest in hacking on Common Form. They've also expr
 
 Guilty as charged. Here's an overview.
 
+<!--jump-->
+
 # JavaScript and npm
 
 My own work on Common Form is exclusively in JavaScript, targeting web browsers, and, in the interim, [Node.js](https://nodejs.org). I make heavy use of [npm](https://npmjs.com), the package manager for Node.js.

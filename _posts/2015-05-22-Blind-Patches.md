@@ -18,6 +18,8 @@ Imagine a kind of [GitHub pull request][pull requests] that worked as follows:
 
 4. The author later self-identifies by signing a statement with their private key.
 
+<!--jump-->
+
 Git permits arbitrary, user-defined values for commits, including author name and e-mail. It also permits "signed tags", or annotations to commits that contain signatures to plain text that includes the commit hash. Those facilities can be used to add a commit without author-identifying metadata. Subsequent attribution could be implemented in GitHub, or otherwise in whatever overlay atop Git provides persistent identity independent of information in commits. It could happen in Git's command-line interface, as well.
 
 The upshot is that worthy authors who submit good patches could claim the reputation benefits of contribution without subjecting their proposal to biases that might attach to their person. Would-be contributors who for whatever reason couldn't be seen contributing to the project---due to politics at their current job or other reasons---could also contribute, and plan to claim later.

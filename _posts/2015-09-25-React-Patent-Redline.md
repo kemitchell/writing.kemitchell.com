@@ -12,6 +12,8 @@ After something of a backlash, Facebook revised the separate patent grant for it
 
 I've [converted both versions of the grant to Markdown for easy viewing on GitHub][repo], but the word-diff is still pretty hard to read. Here's a hand-tuned HTML redline for reference:
 
+<!--jump-->
+
 > Additional Grant of Patent Rights <ins>Version 2</ins>
 >
 > "Software" means the React software distributed by Facebook, Inc.

@@ -14,6 +14,8 @@ But ignoring for a moment the desire to translate existing forms to Common Form,
 
 This means that contracts could be modeled as [sets](https://en.wikipedia.org/wiki/Set_theory) of provisions, mere grab-bags of language without particular order, rather than as lists. Much as one marches the aisles of a supermarket chucking products into a shopping bag, one could stroll a database of available contract language, picking through exemplars of needed ingredients and tossing those most suitable into your contract as you go.
 
+<!--jump-->
+
 ## In No Particular Order
 
 An easy way to think about how drafting set-contracts would differ is to ask: If I randomized the order of provisions in my contracts, what would break? Assume, as in Common Form, that cross-references are corrected automatically. Assume, as in Common Form, that subsections remain within their containing sections. But sections of a document, their subsections, and on down to the items of every list, are reordered unpredictably. Any time you add new language, it's scrambled again. The order of provisions in your contract is constantly changing, and you can't predict how.

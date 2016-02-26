@@ -12,6 +12,8 @@ Consider the following condition in a ready-to-sign contract:
 
 > ... upon a Stock Sale or Asset Sale in connection with a Reorganization ...
 
+<!--jump-->
+
 Out of context, standing alone, this trigger is ambiguous. The structure might be:
 
 > ... upon either of

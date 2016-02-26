@@ -12,6 +12,8 @@ Basic contract law prevents lawyers from composing contracts out of interchangea
 
 Nearly everything made efficiently is made of parts that can be swapped out in that way. Software is written that way. Complex equipment is made that way. Buildings are constructed that way. Even food is increasingly made that way. More and poorer people can everyday afford those things. But all is not necessarily lost for private law.
 
+<!--jump-->
+
 First, the Bad News
 -------------------
 

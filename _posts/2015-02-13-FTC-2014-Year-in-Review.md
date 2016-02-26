@@ -20,6 +20,8 @@ By my count, the FTC brought 28 significant enforcement actions on the basis of 
 
 What should these enforcement actions teach the tech industry?
 
+<!--jump-->
+
 Renew your Safe Harbor self-certification.
 ------------------------------------------
 

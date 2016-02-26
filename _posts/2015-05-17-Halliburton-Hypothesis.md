@@ -11,6 +11,8 @@ tags:
 
 Sometime back, Ansel and I met at [Giordano Bros.][Giordano Bros.] on Columbus. Ansel had a new baby at home and the tired eyes to prove it. I'd just made the first preview release of the [Common Form][Common Form] command-line tools, and Ansel was kind enough to make time for me. I don't think anyone has helped me think as much about the confidentiality implications of ways to share Common Forms as Ansel.
 
+<!--jump-->
+
 Among his gems from that conversation (paraphrased):
 
 > In general, across negotiated agreements, the [edit distance][edit distance] between successive revisions of the agreement decreases as the parties converge on an agreement.

@@ -13,6 +13,8 @@ The problem boils down to whether Common Form should:
 1. Store hints about how to fill out fill-in-the-blanks in forms?
 2. Just store the blanks without any hints?
 
+<!--jump-->
+
 ## Current Practice
 
 Hints about how to fill in blanks are nice to have. Lawyers use them when they write forms like:

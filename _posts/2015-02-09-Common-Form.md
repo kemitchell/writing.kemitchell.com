@@ -14,6 +14,7 @@ tags:
 
 Long story short, [here it is in action](https://asciinema.org/a/16221), as it exists right now.
 
+<!--jump-->
 
 ## Ends
 

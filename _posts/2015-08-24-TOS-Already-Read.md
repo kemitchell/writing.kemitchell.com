@@ -16,6 +16,8 @@ There is a dark side to this openness. Many companies crib them. Just as we all 
 
 And a still darker side. The terms are always lopsided. It's a rule. Too lopsided to actually enforce across the board, mind you, but lopsided. So there is always a tinge of conspiracy against the public. I know users won't read them. Users admit they don't read them. Courts, both shockingly and unsurprisingly, continue to enforce them in all their inglorious detail.
 
+<!--jump-->
+
 # Good Works
 
 Consumer rights advocates---[EFF](https://eff.org), [EPIC](https://www.epic.org/)---together with a few some reporters on the beat, do their best to catch and publicize major power-grabs and slip-ups, raising awareness of the underlying issues. They mostly keep up with the big providers, the Google-Facebook-Amazons of the world. It's great work. But it doesn't scale. They'll never read all the terms that users don't, from the little companies and specialized services.

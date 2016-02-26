@@ -10,6 +10,8 @@ tags:
 
 Software-as-a-Service and API contracts are caught between two worlds, nowhere at home.
 
+<!--jump-->
+
 In the business-to-consumer space, companies rely on publicly posted terms of use and formalistic indications of consumer assent, like "I have read and agree to the terms" checkboxes. Courts recognize such contracts with reservations and skepticism. But courts seem reluctant to impose formalities clients might pantomime, or that would otherwise slow e-commerce to a crawl.
 
 In the business-to-business space, companies often license or even cross-license APIs and hosted software. Some of these deals are very expensive, but some are gratis or very cheap, with the parties reducing an agreement to writing primarily to address warranties, indemnity, intellectual property, and other "cap the risk" (in San Francisco: "contract condom") mechanisms. Apart from large vendors with widely known form agreements of their own, there is little good standardization in the agreements. Even routine deals take time to review and sign.

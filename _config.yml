@@ -5,6 +5,7 @@ permalink: :year/:month/:day/:title.html
 author: Kyle Mitchell
 homepage: http://kemitchell.com
 highlighter: rouge
+excerpt_separator: "<!--jump-->"
 gems:
 - jekyll-sass-converter
 - jekyll-feed

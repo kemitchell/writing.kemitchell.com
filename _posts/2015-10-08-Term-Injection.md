@@ -10,6 +10,8 @@ tags:
 
 [Common Form][commonform] describes pieces of reusable contract language that can contain fill-in-the-blanks. Any piece of text can be filled into those blanks when creating a ready-to-sign contract. This flexibility comes at a price: It opens Common Forms up to security problems analogous to [code injection][code injection] in software.
 
+<!--jump-->
+
 For example, given a Common Form for this clause:
 
 > As consideration for the Shares, Purchaser shall pay [price].
