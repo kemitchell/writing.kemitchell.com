@@ -30,9 +30,11 @@ Even stodgy, "traditional" deals lawyers implicitly recognize this fact. When a 
 
 Each document speaks its own language: finance for the finance people, network security for the network security people, and so on. Complex precedence and document-conflict rules in the legal terms quarantine any strangeness and limit each document to its purpose in the overall scheme.  Thus many fiefdoms are established, and each pays its tribute.
 
-This approach recognizes that there is efficiency in letting specialists speak on specialized topics for themselves.  But it also surrenders the utility of the lawyer, who may not navigate the weeds of the add-on terms at all, or only at a cursory level.  It's true that the value of the specialist outweighs the value of the lawyer on the specialized topic.  But the deals lawyer is in many ways a generalist, and rarely has nothing of value to add when it comes to describing obligations and setting up governance for a lasting commercial relationship.
+This approach recognizes that there is efficiency in letting specialists speak on specialized topics for themselves.  But it also surrenders the utility of the lawyer, who may not navigate the weeds of the add-on terms at all, or only at a cursory level.  It's true that the value of the specialist outweighs the value of the lawyer on the specialized topic.  But the deals lawyer is in many ways a generalist, and would usually add something of value whenever describing obligations or setting up governance is a goal.
 
-One approach to recouping lawyer value is to find and hire lawyers who are also specialists and sicking them on the specialized parts of the deal, too.  I've found some great business that way as a lawyer-programmer.  But people who screw up one profession and then pick law for round two are hard to come by.  "Find more mutant lawyer-specialists" isn't a strategy for mass effect.
+One approach to recouping lawyer value is to find and hire lawyers who are also passable specialists.  Because they talk they talk, you can sick such mutants on the specialized parts of the deal, too. It might be expensive, but it works.
+
+Yours truly has found a great deal of work that way, as a lawyer-programmer.  But people who screw up one profession and then pick law for round two are hard to come by.  "Breed more mutant lawyer-engineers" isn't a viable strategy.  Frankly, giving specialists baseline legal training is probably more viable.
 
 <!-- compare assemblies of small documents, each speaking its own jargon, with a single document where all facets are explained in plain English -->
 
