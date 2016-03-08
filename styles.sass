@@ -201,18 +201,21 @@ blockquote
 
 // Footnotes
 
-a.footnote
-  position: relative
-  top: -0.5em
-  font-size: 75%
-
 div.footnotes
   border-top: 1px solid #ccc
   border-bottom: 1px solid #ccc
   margin-top: 1em
+  ol
+    margin: 0
+    padding: 0.5em
+    list-style: decimal inside none
+    li
+      font-size: 75%
 
-div.footnotes li
-  padding: 0
+sup
+  position: relative
+  top: -0.5em
+  font-size: 80%
 
 ins
   text-decoration: underline
