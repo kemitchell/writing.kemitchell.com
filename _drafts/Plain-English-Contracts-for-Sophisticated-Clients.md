@@ -1,6 +1,6 @@
 ---
 title: Plain English Contracts for Sophisticated Clients
-description:
+description: The more complex a client, the more it needs plain English.
 layout: post
 tags:
 - Contracts
