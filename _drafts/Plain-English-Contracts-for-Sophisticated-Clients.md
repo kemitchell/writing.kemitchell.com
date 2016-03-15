@@ -37,3 +37,7 @@ Yours truly has found a great deal of work that way, as a lawyer-programmer.  Bu
 <!-- compare assemblies of small documents, each speaking its own jargon, with a single document where all facets are explained in plain English -->
 
 <!-- compare wikipedia, GitHub, etc. and lowering the barrier of entry to effective contribution, spotting bugs, etc. -->
+
+<!-- Highly educated speakers of English as a second language. -->
+
+<!-- Idiosyncratic expert-to-expert agreements expressed in jargon fall apart when the individuals involved in the negotiation move on. -->
