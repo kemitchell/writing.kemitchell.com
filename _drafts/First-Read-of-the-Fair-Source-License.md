@@ -60,6 +60,29 @@ I'd like to see that convention expanded just a tad, to make sure it's also clea
 
 > **License Grant.** Licensor hereby grants to each recipient of the Software ("you") a non-exclusive, non-transferable, royalty-free and fully-paid-up license, under all of the Licensor's copyright and patent rights, to use, copy, distribute, prepare derivative works of, publicly perform and display the Software, subject to the Use Limitation and the conditions set forth below.
 
+Very broadly speaking, there are two "styles" of license grant language in open-source licenses.
+
+One style is typical of the original "academic" licenses, like the MIT and BSD families. Those licenses use broad-reading language without specific legal meaning in intellectual property law to give broad permission without mentioning the kind of intellectual property---copyright, patent, trademark---being licensed.
+
+The other style is what I like to call the "contract-style" or "enterprisey" licenses, like [Apache 2.0] and [Eclipse 1.0]. Licenses in that style use more technical language typical of professionally drafted (often proprietary) software licenses. They address copyright, patent, and trademark rights in specific, separate provisions.
+
+[Eclipse 1.0]: https://www.eclipse.org/legal/epl-v10.html
+
+[GPL 2]: https://www.gnu.org/licenses/old-licenses/lgpl-2.0.txt
+
+"Plain talk" copyleft licenses, notably [GPL 2] and [GPL 3], fall somewhere in between. These licenses were drafted with very astute lawyer input, but with non-lawyer readability as a guiding principle. Whether they succeeded is a lively subject of debate among open-source licensing wonks.
+
+The Fair Source License is an interesting hybrid of these styles. On the one hand, it addresses both copyright and patent rights in one fell swoop, like an academic license. On the other hand, it uses terms with specific meaning among licensing lawyers, like "royalty-free and fully-paid-up".
+
+The Fair Source License also uses some terminology, like "prepare derivative works", directly from the United States Copyright Act's list of things that only copyright owners can give permission to do, in United States Code title 17, section 106. All of the verbs in The Fair Source License's license grant language allude to that statute, with one exception: "use".
+
+Licensing folks know "use" from the MIT License. In that context, many lawyers would argue that "use" implies both copyright and patent licenses broad enough to cover running the licensed software, at least as published, without additional changes, as those licensing intended. But "use" also appears in United States patent law's list of things you can get sued for under a patent, in United States Code title 35, section 271(a). The verbs there are "make", "use", "sell", "offer to sell", and "import into the United States".
+
+What kinds of licenses are implied where by what language is still mostly legal speculation. Even really good general theories may fall down in a specific case, since at least American courts will probably be very willing to look outside the terms of a license, to the surrounding context, with terms as short and fuzzy as those of the MIT License.
+
+With that said, I wonder whether using all the Copyright Act verbs, but only some of the Patent Act verbs, might limit the scope of the patent license under The Fair Source License. At a minimum, I think it is probably about as generous as The MIT License. But I don't think I'd advise a client accept this kind of license language for a paid software product.
+
+In counterbalance, the phrase "under all of the Licensor's copyright and patent rights" seems incredibly open-ended. Of course, in the most common, simple case, the Licensor probably has no patents. Most small companies, and certainly most independent programmers, don't have any patents, any money to get them, or any desire to get them if they could. As a result, I'd hesitate to recommend that any larger client with patents adopt The Fair Source License. Even if all the client's patents were held, say, by a special-purpose IP subsidiary, I think "Licensor" would likely be read to sweep in the patents, anyway.
 
 > **Use Limitation.** The license granted above allows use by up to the number of users per entity set forth above (the "Use Limitation"). For determining the number of users, "you" includes all affiliates, meaning legal entities controlling, controlled by, or under common control with you. If you exceed the Use Limitation, your use is subject to payment of Licensor's then-current list price for licenses.
 >
