@@ -8,7 +8,7 @@ tags:
 - Drafting
 ---
 
-[Sourcegraph] has released a new standard form license, [The Fair Source License]. The text was written by a professional hero of mine, [Heather Meeker], whose excellent books on open-source licensing I recommend to clients. The Fair Source License does not meet [The Open Source Definition], but it's billed as a substitute that's [MIT License] easy to apply and gets developers paid.
+[Sourcegraph] has released a new standard form license, [The Fair Source License]. The text was written by a professional hero of mine, [Heather Meeker], whose excellent books on open-source licensing I recommend to clients. The Fair Source License does not meet [The Open Source Definition], but it's billed as a substitute that's as easy as the [MIT License] to apply and gets developers paid.
 
 [MIT License]: https://spdx.org/licenses/MIT
 
