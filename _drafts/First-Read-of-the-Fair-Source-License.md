@@ -8,7 +8,7 @@ tags:
 - Drafting
 ---
 
-[Sourcegraph] has release a new standard form license, [The Fair Source License]. The text was written by a professional hero of mine, [Heather Meeker], whose excellent books on open-source licensing I often recommend to clients.
+[Sourcegraph] has release a new standard form license, [The Fair Source License]. The text was written by a professional hero of mine, [Heather Meeker], whose excellent books on open-source licensing I often recommend to clients. The Fair Source License is not an open-source license, but it's billed as an alternative to help developers get paid that's just as easy to apply to new work.
 
 [Sourcegraph]: https://sourcegraph.com
 
@@ -16,7 +16,7 @@ tags:
 
 [Heather Meeker]: https://www.omm.com/professionals/heather-j-meeker/
 
-Here's the text of version 0.9 from [fair.io], with my thoughts sprinkled interline.
+Here's the text of version 0.9 from [fair.io], with my thoughts sprinkled interline, stream-of-consciousness style.
 
 [fair.io]: https://fair.io
 
@@ -85,11 +85,49 @@ With that said, I wonder whether using all the Copyright Act verbs, but only som
 In counterbalance, the phrase "under all of the Licensor's copyright and patent rights" seems incredibly open-ended. Of course, in the most common, simple case, the Licensor probably has no patents. Most small companies, and certainly most independent programmers, don't have any patents, any money to get them, or any desire to get them if they could. As a result, I'd hesitate to recommend that any larger client with patents adopt The Fair Source License. Even if all the client's patents were held, say, by a special-purpose IP subsidiary, I think "Licensor" would likely be read to sweep in the patents, anyway.
 
 > **Use Limitation.** The license granted above allows use by up to the number of users per entity set forth above (the "Use Limitation"). For determining the number of users, "you" includes all affiliates, meaning legal entities controlling, controlled by, or under common control with you. If you exceed the Use Limitation, your use is subject to payment of Licensor's then-current list price for licenses.
->
+
+And here's the real heart of The Fair Source License. This kind of limitation is intriguing in its simplicity. In addressing corporate structure, its implementation very tastefully, and succinctly, brings in a key bit of learning about licenses based on usage.
+
+The Fair Source License is different than a "seat license", a very common license concept in proprietary software, in that up to a certain number of "users", which are analogous to "seats", the license is free-of-charge. But The Fair Source License faces the same challenge of making clear what counts as a "user" or "seat". In a deal for customer service chat software, can Bob use the same "seat" that Anna used last week? Does one "seat" cover Charlie installing both on his laptop, and on his desktop computer? This matters as much in proprietary seat licenses, where seats are often priced in "packs" of, say, 10 at a time, rather than individually. The number of seats in use may also affect volume discount and other terms. Whether the price is free from the get-go or not, the count matters.
+
+But not always. If you want to avoid getting sued for using Fair Source software, read "user" broadly, and start paying when any reading of "user" would put you above the Use Limitation. Or pay from the start. And, yes, a certain number of users will simply use the software past the Use Limitation without paying. Nobody should publish software under The Fair Source License without first accepting that a certain number of users will always skip on their license fees, and it simply won't be cost effective to track down and C&D any but the most blatant or visible offenders.
+
+But for certain kinds of software, "user" may be just too broad to allow any kind of serious, even exploratory use. To give a concrete example, consider a hypothetical JavaScript package that translates times of day between 12-hour, military, and other time formats. The author publishes the package to [npm] Fair Source 25. Can that package be bundled into a web application and served to website users without accumulating "users" of the package according to Fair Source? Each of the website's users will use the code in the package to display times and dates when visiting the website. That means, as a practical matter, that any use of the package on a public websites---or arguably even a broadly used internal corporate website---will trigger a payment obligation.
+
+[npm]: https://www.npmjs.com
+
+The same concerns apply to a package or library incorporated in back-end server software. Does Fair Source's "user" cover remote users in an [Affero GPL] "remote network interaction" sense?
+
+[Affero GPL]: https://www.gnu.org/licenses/agpl-3.0.txt
+
+Off-the-cuff, I suspect these concerns specialize The Fair Source License to self-contained programs and utilities. That could include developer-focused utilities as well as more consumer-friendly graphical applications and apps. But The Fair Source License doesn't seem a good fit for libraries, plugins, applications with third-party plugin interfaces, or any other kind of software intended primarily for use in or with software by others.
+
+Finally, I'd worry a bit about the very open-ended fees reference. The Fair Source License doesn't go to pains to make it clear where that pricing information can be found; you'd have to work backward from the Licensor identification to a website or direct contact. Even if you get that far, it may not be clear what "then-current list price" means. If the Licensor offers licenses only with add-on support or other services, do you have to pick one of those packages? If they offer a discount to nonprofit or academic institutions, does that apply to you if you fit the bill? What happens if the company goes bust, or changes its name, and nobody can find pricing information based on the license text any more?
+
 > **Conditions.** Redistribution in source code or other forms must include a copy of this license document to be provided in a reasonable manner. Any redistribution of the Software is only allowed subject to this license.
->
+
+An attribution requirement, then a downstream licensing restriction.
+
+I like "provided in a reasonable manner". That's intentionally vague, but in line with current laxity about the nuts and bolts of attribution in the open source world.
+
 > **Trademarks.** This license does not grant you any right in the trademarks, service marks, brand names or logos of Licensor.
->
+
+This sounds again in the "enterprisey" style of addressing each kind of relevant intellectual property---copyright, patent, and trademark---explicitly and separately. This is a nice, terse alternative to the three-clause BSD license's "Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission."
+
 > **DISCLAIMER.** THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OR CONDITION, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. LICENSORS HEREBY DISCLAIM ALL LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE.
->
+
+There's still no good alternative to ALL CAPS for "conspicuous" disclaimers of the implied warranties of the Uniform Commercial Code, at least when you know your license terms are going to end up in plain text, where bold and italics aren't possible.
+
+That gripe aside, I love how short this is. If there's one place I language piled on and on, not because it's necessary, but because the lawyer doesn't have or take the time to check whether it _is_ necessary, it's implied warranty disclaimers.
+
+In this particular license, I'm a bit troubled by the disclaimer of noninfringement. That means the self-styled licensor isn't on the hook to make sure it actually has the legal right to license the software; if you get sued by someone else who says it's their work, you're on your won. Lawrence Rosen, author of a few open-source licenses and an early legal hand at OSI, [has written about this](http://www.rosenlaw.com/html/GL14.pdf), and added copyright noninfringement warranties to his [Academic Free License] and [Open Software License] on the theory that even open-source contributors publishing their work gratis should accept responsibility for not making copyright problems for users.
+
+[Academic Free License]: https://spdx.org/licenses/AFL-3.0.html
+
+[Open Software License]: https://spdx.org/licenses/OSL-3.0.html
+
+It's no longer considered nuts to license even "enterprise" software without patent noninfringement warranties, at least when you're licensing on off-the-shelf terms without substantial sales support or negotiation. [GitHub's terms for Enterprise](https://enterprise.github.com/license) limit IP warranties to copyright and trade secret, for example. [Atlassian's terms](https://www.atlassian.com/customer-agreement/) similarly cover for "soft IP" problems until you hit a minimum in fees, at which a patent noninfringement warranty kicks in. But depending on the pricing once you bust the free "user" limit, I think I'd usually advise a client using Free Source licensed software to reach out to the licensor directly about a paid license with more protection. Worst case, a client dives right into using Free Source code on the "free tier" below the Use Limitation, without considering long-term licensing, only to get stuck engineering around or reimplementing that code so their company can offer the warranty terms on _their_ product that paying customers expect.
+
 > **Termination.** If you violate the terms of this license, your rights will terminate automatically and will not be reinstated without the prior written consent of Licensor. Any such termination will not affect the right of others who may have received copies of the Software from you.
+
+This language hooks the Use Limitation up to the license grant. It also reinforces the standard open-source "public license" concept that all licenses come direct from the owner, without any rights to "sublicense".
