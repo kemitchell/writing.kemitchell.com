@@ -38,7 +38,7 @@ The Fair Source License is a new tool in our lock picking toolkit. It's not magi
 
 More important---and still, sadly, rare---it's legal in the open. It shows lawyers are in still in the game to address community problems you won't spot on accounting statements. Everyone who sees themself on that team---yours truly included---just got challenged to publish. One reason that doesn't happen so much is that doing legal in the open is even more terrifying than starting to code in the open. For the record, peanut gallery is not my department. [Heather Meeker] fan club is my department, even more so after I finished reading.
 
-Pull a legal form apart, section by section, and you're going to find things to worry about. You'll also get lost in the details, and miss the context, which is where the people, money, and risk live. This is what I'm about to do. So I want to point out, up front that context for The Fair Source License includes at least the constraints of:
+Pull a legal form apart, section by section, and you're going to find things to worry about. You'll also get lost in the details, and miss the context, which is where the people, money, and risk live. This is what I'm about to do. So I want to point out up front that context for The Fair Source License includes at least the constraints of:
 
 1. three distinct areas of intellectual property law, all of which are still catching up with software
 2. the practicalities of modern software development tools, source code repositories, package managers, and workflow conventions
