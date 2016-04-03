@@ -3,7 +3,7 @@ description: Law, technology, and the space between
 url: https://writing.kemitchell.com
 permalink: :year/:month/:day/:title.html
 author: Kyle E. Mitchell
-homepage: http://kemitchell.com
+homepage: https://kemitchell.com
 highlighter: rouge
 excerpt_separator: "<!--jump-->"
 gems:
