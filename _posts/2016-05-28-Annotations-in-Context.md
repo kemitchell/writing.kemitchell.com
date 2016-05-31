@@ -20,7 +20,7 @@ This approach will show notes on specific language wherever the same language ap
 
 But context can be everything in a contract.  Rules of construction might make language unenforceable, or skew it toward one party, or ramp up the penalties for breach.  A note that says "This provision isn't enforceable in California." or "This is an aggressive ask from any seller." might become totally inaccurate when applied to exactly the same language in a different context.
 
-## Specifics
+## Generalized
 
 Let's make that a bit more general, in Common Form terms.
 
