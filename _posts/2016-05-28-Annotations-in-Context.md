@@ -66,13 +66,13 @@ X is the form as a whole.  X contains Y, Z, and F.  Y contains C.  F contains G 
 
 ## Mislead
 
-Alice runs across form X and reviews.  She notices that C, as written, isn't legally enforceable.  She adds an annotation to C, and shares it with the world:  "Not enforceable, but could be under such-and-such conditions".
+Alice runs across form X and reviews.  She notices that C, as written, isn't legally enforceable.  She adds an annotation to C, and shares it with the world:  "Not enforceable.".
 
     X
 
       Y
 
-        C [Alice: "Not enforceable, but..."]
+        C [Alice: "Not enforceable."]
 
       Z
 
@@ -88,7 +88,7 @@ Bob runs across form A.  Because Alice's annotation to C was labeled with its fi
 
       B
 
-        C [Alice: "Not enforceable, but..."]
+        C [Alice: "Not enforceable."]
 
         D (first of two conditions saving C)
 
@@ -118,7 +118,7 @@ Alice reviews form X and shares an annotation to C.  This time, Common Form labe
 
       Y
 
-        C [Alice: "Not enforceable, but..." in X]
+        C [Alice: "Not enforceable." in X]
 
       Z
 
@@ -156,7 +156,7 @@ Some time later, Charlie reviews form X.  He notices that G, which appears in bo
 
       Y
 
-        C [Alice: "Not enforceable, but..." in X]
+        C [Alice: "Not enforceable." in X]
 
       Z
 
@@ -210,7 +210,7 @@ When Felix reviews X after that, he will see Dynah's new annotation, since its c
 
       Y
 
-        C [Alice: "Not enforceable, but..." in X]
+        C [Alice: "Not enforceable." in X]
 
       Z
 
