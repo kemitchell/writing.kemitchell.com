@@ -6,6 +6,7 @@ author: Kyle E. Mitchell
 homepage: https://kemitchell.com
 highlighter: rouge
 excerpt_separator: "<!--jump-->"
+repository: kemitchell/writing
 gems:
 - jekyll-sass-converter
 - jekyll-feed

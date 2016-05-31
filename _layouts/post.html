@@ -1,7 +1,15 @@
 {% include top.html %}
 <article class='body post'>
-  <h1>{{ page.title }}<small>{{ page.description }}</small></h1>
+  <h1 id=title>{{ page.title }}<small>{{ page.description }}</small></h1>
   {{ content }}
-  <p class='signature'>[&bull;]</p>
+  <p class='signature'>
+    <a href="#title">top</a>
+    &mdash;
+    <a href="{{ site.github.repository_url }}/commits/gh-pages/{{ page.path }}">changes</a>
+    &mdash;
+    <a href="/">home</a>
+    &mdash;
+    [&bull;]
+  </p>
 </article>
 {% include bottom.html %}
