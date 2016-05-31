@@ -186,7 +186,7 @@ When Bob returns later to review A again, the system shows Charlie's annotation 
 
 ## The Margin
 
-Later on, Dynah notices that H, which is part of G, is redundant of part of G.  She shares an annotation "about H in the context of G".
+Later on, Dynah notices that H, which is part of F, is redundant of part of F.  She shares an annotation "about H in the context of F".
 
     A
 
