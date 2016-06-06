@@ -7,16 +7,22 @@ tags:
 - Lawyering
 ---
 
-I am an "impeding death of the legal profession" cynic.  I do not believe that technology---"AI", "machine learning", "expert systems", flavor du jour---will eat lawyerdom as we know it.
+I am an "impending death of the legal profession" cynic.  I do not believe that new technology---"expert systems", "AI", "machine learning", "deep neural networks"---will eat lawyerdom as we know it.
 
-Partly that's because I'm a practicing lawyer, and whatever intellectually pleasing but functionally impractical generalities I once entertained about law practice have long since boiled off.  If you asked me to draw up a loose functional spec for software that replaces even a single competent lawyer, I couldn't do it.  But it's mostly because I write software to try to solve some discrete problems in my own practice, and know from experience that success is far from inevitable.
+If you asked me to spec out what any such system would have to do to replace, rather than augment, the core value proposition of a single respected colleague, I couldn't deliver.  Nor is there a training set on hand.  Feed your net [Christensen](https://lccn.loc.gov/96010894) and [Susskind](https://lccn.loc.gov/96017176) and you will get ... more [Christensen](https://lccn.loc.gov/2011008440) and [Susskind](https://lccn.loc.gov/2012540370), or something like it.  As for what large networked systems can and will be trained to do: I look forward to using them.
 
-[unit tests]: https://en.wikipedia.org/wiki/Unit_testing
+Cynicism about the legal profession's efficacy, on the other hand, is mandatory.  The facts compel it.
 
-There's no sex in recognizing what technology hath really wrought over the past few decades:  It has given lawyers more of what they want, faster, and for less money.  The scriveners have been run out.  As have a great many paralegals, secretaries, mailpeople, clerks.  Increasingly, despite their valiant, self-induced evolution, also law librarians.  Is this a difference of kind, or a higher degree of what we had?  Is it making bad habits easier and cheaper to reinforce, or prompting systematic reassessment?
+Fortunately, all the fundamental technology required for an efficient, accessible, ethically laudable American legal profession---in law and in software---has existed for at least decades.  The legal system is held back by the technology lawyers _have_ adopted, sometimes enthusiastically and often at great voluntary expense, not by the tardiness of prophecized salvations for or from the profession.
 
-Consider how many of the systems lawyers actually employ to do their work translate directly back to the paper processes from which they evolved.  It's easy to pick on systems that spit out PDFs---the court and state agency filing system, case law research systems, secondary material archives---they're only the most obvious.  [Skeuomorphs] abound, from e-mail to word processors. There may be fewer papercraft gadgets on our desks these days, and Word Processing isn't what it used to be.  But mostly the things that have disappeared have reappeared in software somewhere on our other "desktops".  The icons we click to use them often allude to the actual devices we used to pick up and use.
+Cut, Copy, and Paste.  The humble plastic wands of their invocation---`Ctrl`, `C`, `X`, and `V`---glint, pearlescent from wear, on the keyboards of young and old.  In their twinkling reflections of above-head fluorescent light, you can nearly make out the tears of the bygone scrivener, run out of work.  The very symbol of law office dissent, Bartleby, vanquished!
+
+But Cut, Copy, and Paste were no revelations.  Their graphical manifestations---"icons" of scissors, clipboards, stacked pages---allude to their tangible predecessors.  The photocopier.  Spirit duplicators.  Mimeo.  Carbon paper.  The printing press.  The [polygraph].  All spewing fodder for diligent slicer-dicer-pasters, plus a few less diligent casualties.
+
+[polygraph]: https://en.wikipedia.org/wiki/Polygraph_(duplicating_device)
+
+Cheap copying precedes cheap networking in the history of the computer, if not in history at large.  The improvement was incremental.  The typewriter went electric.  The electric typewriter begat the word processor.  The word processor became a program on the terminal, the personal computer, your personal computer.
+
+Software has indeed "eaten" the office.  [Skeuomorphs] abound.  What member of the papercraft pantheon has not been "implemented", cloudified?  The filing cabinet.  The color-coded label.  The bookmark.  The highlighter.  The mailbox.  A new "industry" has rendered them all, lovingly, in one less dimension.
 
 [Skeuomorphs]: https://en.wikipedia.org/wiki/Skeuomorph
-
-But I am not without hope.
