@@ -224,7 +224,7 @@ Dynah's annotation was "about H in the context of F"---only a part of the broade
 
 ---
 
-The costs of labeling annotations with context, and filtering out annotations based on that context, is negligible.  To show all the relevant annotations for a form, a computer needs to pull up annotations labeled with the fingerprint of each piece that form contains.  Limiting by context means filtering out annotations, not adding more in.
+The costs of labeling annotations with context, and filtering out annotations based on that context, are negligible.  To show all the relevant annotations for a form, a computer needs to pull up annotations labeled with the fingerprint of each piece that form contains.  Limiting by context means filtering out annotations, not adding more in.
 
 The real balancing act is including useful annotations in a review context without overwhelming with useless annotations.  Reviewers are, for their part, incentivized to make good decisions about what context matters to their assessments.  If they're too restrictive, they won't reap the benefits of seeing their own conclusions again in other contexts.  User interface hints, like the "more context to review" asterisk, can help reviewers sift through lots of annotations without getting tricked.
 
