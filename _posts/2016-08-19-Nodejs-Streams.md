@@ -127,14 +127,15 @@ prototype._transform = function (chunk, encoding, callback) {
 }
 ```
 
-functions, for implementing Writable and Transform streams, respectively, trigger backpressure signals on callback.  Since implementing Writable and Transform streams involves a fair amount of boilerplate, helper packages help to clean things up, exposing the essential functional interface:
+functions, for implementing Writable and Transform streams, respectively, trigger backpressure signals on callback.  Since implementing and piping Writable and Transform streams involves a fair amount of boilerplate, helper packages help to clean things up, exposing the essential functional interface:
 
 ```javascript
 var through = require('through2')
+var pump = require('pump')
 var fs = require('fs')
 
-fs.createReadStream('original.txt', 'utf8')
-.pipe(
+pump(
+  fs.createReadStream('original.txt', 'utf8'),
   through(
 
     // Transform each chunk by capitalizing its characters.
@@ -154,12 +155,13 @@ And for a Writable stream:
 
 ```javascript
 var to = require('flush-write-stream')
+var pump = require('pump')
 var fs = require('fs')
 
 var buffer = []
 
-fs.createReadStream('original.txt', 'utf8')
-.pipe(
+pump(
+  fs.createReadStream('original.txt', 'utf8'),
   to(
 
     // Push each chunk to an array.
@@ -176,11 +178,13 @@ fs.createReadStream('original.txt', 'utf8')
 
 In essence, a Transform stream is a function that takes chunk arguments and calls back with transformed chunks.  A Writable stream is a function that takes chunk arguments and calls back once they're written.  Roughly speaking, calling back indicates readiness to process additional chunks.
 
-Node.js' streams prototypes, and the [through2] and [flush-write-stream] packages, hide generic buffer-management and backpressure-signaling logic.  They also emit events---`readable` on Readable streams and `drain` on Writable streams---that communicate backpressure signals.
+Node.js' streams prototypes, and the [through2], [flush-write-stream], and [pump] packages, hide generic buffer-management and backpressure-signaling logic.  They also emit events---`readable` on Readable streams and `drain` on Writable streams---that communicate backpressure signals.
 
 [through2]: https://www.npmjs.com/package/through2
 
 [flush-write-stream]: https://www.npmjs.com/package/flush-write-stream
+
+[pump]: https://www.npmjs.com/package/pump
 
 ## The "Stack"
 
