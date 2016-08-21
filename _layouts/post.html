@@ -12,4 +12,9 @@
     [&bull;]
   </p>
 </article>
+{% for js in page.js %}
+  <script type="text/javascript">
+    {% include {{ js }} %}
+  </script>
+{% endfor %}
 {% include bottom.html %}

@@ -2,13 +2,15 @@
 title: Emancipation by Reference
 description: I am just a copy of a copy of a copy.  Everything I say you have read before.
 layout: post
+js:
+- hash.js
 tags:
 - Common Form
 - Contracts
 - Lawyering
 ---
 
-I am a deals lawyer, and I write software.  I am an "impending death of the legal profession" apostate.  New technology---"expert systems", "AI", "machine learning", "deep neural networks"---will not "eat" lawyerdom, at least not as deals lawyers know it.  Deals lawyers know that deals lawyering has always lived, and taken responsibility, out ahead of what rote, lifeless systems can administer.  That a lawyer who's defined the client's problem has nine-tenths of the job done.
+I am a deals lawyer, and I write software.  I am an "impending death of the legal profession" apostate.  New technology---"expert systems", "AI", "machine learning", "deep neural networks"---will not "eat" lawyerdom, at least not as deals lawyers know it.  Deals lawyering has always lived, and taken responsibility, out ahead of what rote systems can administer.  Rote systems become problem solving table stakes.  And the lawyer who's defined the client's problem has nine-tenths of the job done.
 
 If you asked me to spec out what any artificial intelligence system would have to do to replace, rather than augment, the core value proposition of a single respected colleague tomorrow, I couldn't deliver, even with a perfect [training set] for yesterday on hand.  Feed your neural net [Christensen](https://lccn.loc.gov/96010894) and [Susskind](https://lccn.loc.gov/96017176) and you will get ... more [Christensen](https://lccn.loc.gov/2011008440) and [Susskind](https://lccn.loc.gov/2012540370), or uncanny simulacra.  As for what large networked systems can and will be trained to do: I look forward to declaring more of what I do today "drudgework", and delegating it to robots.  The common denominator will rise, and my responsibility will rise with it.  The "lawyering" I want to do is at the margin.
 
@@ -16,7 +18,7 @@ If you asked me to spec out what any artificial intelligence system would have t
 
 Cynicism about the legal profession's system-wide efficacy, on the other hand, is mandatory.  The facts compel it.  And a great deal of pain.
 
-Fortunately, all the fundamental technology required for an efficient, accessible, ethically laudable American deals law profession---in law and in software---has existed for at least decades.  The system is held back by the technology lawyers _have_ adopted, often enthusiastically, early, and at great expense, and not by the tardiness of prophecized salvation, either for or from the profession.
+Fortunately, all the fundamental technology required for an efficient, accessible, ethically laudable American deals law profession---in law and in software---has existed for decades.  The system is held back by the technology lawyers _have_ adopted, often enthusiastically, early, and at great expense, and not by the tardiness of prophecized salvation, either for or from the profession.
 
 ---
 
@@ -62,15 +64,15 @@ Reference, back in the day when the profession was busy getting its Word and Wor
 
 The copy-computers had proliferated.  They did not yet converse.  Copying was quick and cheap, networking still slow, limited, and expensive.  Resolving references, therefore, remained slow, limited, and expensive.
 
-But these days, the answer to "Where did you get your copy?" is always the same.  You got it from the Internet, a worldwide social club of relentlessly chatty computers, the same way you got the reference.  It's in your pocket, for Chrissake.  And the device in your pocket has less storage space---space for copies---than the desktop computer it replaced. 
+But these days, the answer to "Where did you get your copy?" is always the same.  You got it from the Internet, a worldwide social club of relentlessly chatty computers, the same way you got the reference.  It's in your pocket, for Chrissake.  And the device in your pocket has less storage space---space for copies---than the desktop computer it replaced.
 
-The short-term-memory machines in our pockets won out because Internet access is worth more than copy space.  We can refer to a practically infinite store of knowledge.  We need copy only little of that, and those copies can be ephemeral.  Speed---the ability to riffle the infinite in search of the relevant---ranks far higher than space no our newfangled professional hierarchy of needs.  You probably care more about 3G versus 4G than 8GB versus 16GB.
+The short-term-memory machines in our pockets won out because Internet access is worth more than copy space.  We can refer to a practically infinite store of knowledge.  We need copy only little of that, and those copies can be ephemeral.  Speed---the ability to riffle the infinite in search of the relevant---ranks far higher than space on our newfangled professional hierarchy of needs.  You probably care more about 3G versus 4G than 8GB versus 16GB.
 
 ---
 
 One way to identify by reference is to appeal to some stalwart, standardizing authority.  "Version such-and-such of the American Institute of Architect's such-and-such form."  "The such-and-such year revision of the ISDA Master Agreement."  "The FAR provisions at such-and-such C.F.R. such-and-such, as of current date."
 
-In relying on such a reference to lead to a particular set of terms---to _identify_ the terms intended---is to rely on the AIA, ISDA, the federal government, &c. to notice and mercilessly crush any miscreants brazen enough to pass counterfeits.  Realistically, there are better scams.  Very rarely will anyone try.  So this kind of reference already works well if you want to reference terms "off the shelf" and they are actually on a shelf somewhere.  Say, the Library of Congress.
+To rely on such a reference to lead to a particular set of terms---to _identify_ the terms intended---is to rely on the AIA, ISDA, the federal government, &c. to notice and mercilessly crush any miscreants brazen enough to pass counterfeits.  Realistically, there are better scams.  Very rarely will anyone try.  So this kind of reference already works well if you want to reference terms "off the shelf" and they are actually on a shelf somewhere.  Say, the Library of Congress.
 
 Of course you don't.  You need to mess with the standard.  Your particularly perverse, customized edit is the deal, because that's what your perverse client ordered, and we've broken you down low enough to give it to them.  How could we possibly identify and reference the degenerate customizations and expedient, extemporized scribblings of every competent practitioner?
 
@@ -89,42 +91,6 @@ Here is a box, where you can type anything:
 Out pops its hash:
 
 <pre class="highlight"><code id="hash"></code></pre>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  var input = document.getElementById('input')
-  input.addEventListener('input', onInput)
-  onInput({target: input})
-})
-
-function onInput(event) {
-  var value = event.target.value
-  var display = document.getElementById('hash')
-  if (value.length === 0) {
-    display.textContent = 'Hash will appear here.'
-  } else {
-    var buffer = new TextEncoder('utf-8').encode(value)
-    window.crypto.subtle.digest({name: 'SHA-256'}, buffer)
-    .then(function(hash){
-      display.textContent = toHex(hash)
-    })
-    .catch(function(error){
-      console.error(error)
-    })
-  }
-}
-
-function toHex(arrayBuffer) {
-  var hexadecimal = ''
-  var dataView = new DataView(arrayBuffer)
-  var length = dataView.byteLength
-  for (var index = 0; index < length; index++) {
-    var character = dataView.getUint8(index).toString(16)
-    hexadecimal += character
-  }
-  return hexadecimal
-}
-</script>
 
 The hash function can't hurt you.  Play with it!
 
@@ -235,9 +201,9 @@ That form as a whole, as well as every part of hit, can be requested by hash.  T
 
 There are only three tricks to this.
 
-First, the software standardizes a way to type out contracts and bits of contracts---from sections and headings to definitions and fill-in-the-blanks---before they go into the hash functions.  This makes it possible to break a form into pieces, hash each one, and make sure they fit together nicely when combined.
+First, the software standardizes a way to type out contracts and bits of contracts---from sections and headings to definitions and fill-in-the-blanks---before they go into the hash function.  This makes it possible to break a form into pieces, hash each one, and make sure they fit together nicely when combined.
 
-Second, I am not an illustrious, form-promulgating industry group.  But I do have an account that I can use to publish forms under a user name---mine is "kemitchell"---with all the same technology.  If you'd like an account for you, your own illustrious, form-promulgating industry group, or even just a project that deserves its own name, send me an e-mail.  Here's a [project of mine](https://commonform.org/publishers/goldplate), as an extra example.
+Second, I am not an illustrious, form-promulgating industry group.  But I gave myself an account that I can use to publish forms under a user name---mine is "kemitchell"---anyway.  If you'd like an account for you, your own illustrious, form-promulgating industry group, or even just a project that deserves its own name, send me an e-mail.  Here's a [project of mine](https://commonform.org/publishers/goldplate), as an extra example.
 
 Third and finally, notice the green lock next to the URL of the webpage in your web browser.  The server---commonform.org---is using encryption to keep Internet miscreants from snooping on which directories and forms you request and messing with the responses you get back.
 
@@ -245,7 +211,9 @@ Third and finally, notice the green lock next to the URL of the webpage in your 
 
 None of these systems will tell you what to write, how to write it, or whether it's what your client needs.  But they can help make the process of pulling together those terms a lot more like shopping than retreating to a mountain cabin to write a masterpiece.  Hashes and a standard way for computers to represent contracts make it easy, safe, and reliable to references and reuse others' work and share your own, without accumulating copies.
 
-As a side benefit, cluing computers in to contracts structure lets us offload the mechanical tasks of checking definitions, validating references, formatting, and, most crucially, filling the details of specific transactions into generic forms.  Rather than wait for lulls in our practices to prep new "model" forms or cobble together a CLE packet, we can work on generic forms as we go, sharing our work along the way.  We can all be legal publishers.
+As a side benefit, cluing computers in to contracts structure lets us offload the mechanical tasks of checking definitions, validating references, formatting, and, most crucially, filling the details of specific transactions into generic forms.  Rather than wait for lulls in our practices to prep new "model" forms or cobble together a CLE packet, we can work on generic forms as we go, sharing the generic bits along the way.  We can all be legal publishers.
+
+---
 
 I'm giving all my work on this away, free of charge and intellectual property restriction.  Partly because I think it's too important to get it right to impose all the additional challenges and constraints of a business venture.  Partly because it takes the form of software, and the best software is built in this open way.  Partly because, as a practitioner, I wouldn't trust the project long enough to understand if I had to wonder at the values and motivations of those involved.
 
