@@ -178,13 +178,13 @@ We can then ask around for the text of a form with the hash `bb1d...`, and check
 > -  SomeCo, Inc. is the Company.
 > -  The sales if for 100,000 shares of common stock at $0.05 per share.
 >
-> Bob Adviser  
-> /s/ Bob Adviser  
+> Bob Adviser
+> /s/ Bob Adviser
 > August 1, 2016
 >
-> SomeCo, Inc.  
-> /s/ Joe Founder  
-> Chief Executive Officer  
+> SomeCo, Inc.
+> /s/ Joe Founder
+> Chief Executive Officer
 > August 1, 2016
 
 If Bob decides he wants to make on we agreed to different terms later, he has to come up with terms that match the hash we agreed to.  Once he manages that, he might as well forget about our deal, pillage the payment system of his choice, and retire to a private island instead.
@@ -215,7 +215,7 @@ As a side benefit, cluing computers in to contracts structure lets us offload th
 
 ---
 
-I'm giving all my work on this away, free of charge and intellectual property restriction.  Partly because I think it's too important to get it right to impose all the additional challenges and constraints of a business venture.  Partly because it takes the form of software, and the best software is built in this open way.  Partly because, as a practitioner, I wouldn't trust the project long enough to understand if I had to wonder at the values and motivations of those involved.
+I'm giving all my work on this away, free of charge and intellectual property restriction.  Partly because I think it's too important to get it right to impose all the additional challenges and constraints of a business venture.  Partly because it takes the form of software, and the best software is built in this open way.  Partly because, as a practitioner, I wouldn't trust the project long enough to develop understanding if I had to wonder at the values and motivations of those involved.
 
 I call the project [Common Form], and it's already yours.
 
