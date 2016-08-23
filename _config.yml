@@ -10,3 +10,5 @@ repository: kemitchell/writing
 gems:
 - jekyll-sass-converter
 - jekyll-feed
+exclude:
+- vendor
