@@ -93,17 +93,18 @@ something, skip what I wrote and read the quotes:
 >
 > --- The Earl of Oxford's Case (1615) 1 Ch. 1, 21 E. R. 485.
 
-Early English common law was infamously complex, fiendishly exact, and
-coldly unfeeling.  At least in principle, it was not up to judge, jury,
-or attorney to account for the evident injustice of a properly derived
-legal result.  Like a great machine turning over, the courts were
-meant to receive the law, tracing its authority back to the king's,
-and apply it to cases as a mechanized brewery applies bottle caps to
-new brewskies.  The process was not entirely mechanical---the law came
-down and moved around in unstructured form, a mad babel of Law Latin,
-Law French, and bastard English, often unwritten---but the view of
-its proper function often was.  All in keeping with the elemental,
-if exception-ridden, notion of monarch as font of all property rights.
+Early English common law was infamously complex, fiendishly exact,
+and coldly unfeeling.  At least in principle, it was not up to judge,
+jury, or attorney to account for the evident injustice of a properly
+derived legal result.  Like a great machine turning over, the courts
+were meant to receive the law, tracing its authority back to the
+king's, and apply it to cases as a mechanized brewery applies bottle
+caps to new brewskies.  The process was not entirely mechanical---the
+law came down and moved around in unstructured form, a mad babel of
+Law Latin, Law French, and bastard English, often unwritten---but the
+view of its proper function often was mechanical.  All in keeping
+with the elemental, if exception-ridden, notion of monarch as font
+of all property rights.
 
 Those run over roughshod by the common law could appeal, as one might
 appeal today for review or a pardon, for the direct intercession of
@@ -134,8 +135,8 @@ part of a deal, transfer an interest in property, or refrain from
 specific conduct, all backed up by penalties for contempt of court.
 Old principles of equity, oft quipped as pithy "maxims", even in
 modern court decisions, still apply to some equitable remedies.
-He who comes into equity equity must come with clean hands.
-Equity will not allow a statute to be used as a cloak for fraud.
+He who comes into equity must come with clean hands.  Equity will
+not allow a statute to be used as a cloak for fraud.
 
 Both English and American legal systems have nominally collapsed law
 and equity into a single system, with courts hearing arguments based
@@ -144,8 +145,7 @@ of historically legal and equitable pedigrees.  A few states and
 federal subject areas maintain specific equity courts, some very much
 on theme, like United States bankruptcy courts, and others for more
 dubious and idiosyncratic reasons, like Delaware's Court of Chancery,
-which takes first pass at vitally important corporation law issues
-in the United States.
+which takes first pass at vitally important corporation law issues.
 
 In the main, the trend is toward single courts that do the business of
 justice without regard for the old dichotomy.  This is often far more
@@ -167,19 +167,19 @@ well past their expiration dates.  But as often as I'm a critic of
 current legal practice and style, I think there's something more to
 the particular holdover of law-versus-equity.  There is something
 intuitive, archetypical in the idea of salvation from a cold and
-unflinching rule.  I'm not sure one mind doing both can do as well
-as two minds, one doing each.
+unflinching rule.  I'm not sure one mind responsible for both can do
+as well as two minds, one framed to do each.
 
 How many Russian serfs must have cried out "If only the tsar knew!" in
 exasperation before 1905.  How many of us clamor now for a Snowden
 pardon in the twilight of another presidential term.  How many VC funds
 and other companies settle internal disputes by written compromise or
-amended their governing documents.  A long time ago, we discovered that
-rules and a predictable way to apply them make a powerful antidote to
-individual bias and corruption.  But we've yet to build any system on
-that first principle that doesn't chew through good people for bad
-people on a regular, if tolerably infrequent, basis.  We've always
-needed an escape valve, and omitted one at our collective peril.
+amending their governing documents.  A long time ago, we discovered
+that rules and a predictable way to apply them make a powerful antidote
+to individual bias and corruption.  But we've yet to build any system
+on that first principle that doesn't chew through good people for bad
+reasons on a regular, if tolerably infrequent, basis.  We've always
+needed an escape valve, and omitted one at our moral peril.
 
 ---
 
@@ -206,7 +206,7 @@ by a commendable respect for the limits of current knowledge and the
 dimensions of the problems they've opted not to skirt.
 
 To this lawyer's eye, the most interesting thread in that thinking
-has always been "proof of work" versus "proof of stake" systems.
+has always been "proof-of-work" versus "proof-of-stake" systems.
 
 The best-known programs of Ethereum's type, including Bitcoin, enforce
 rules requiring those who participate in deciding which valid decisions
@@ -224,7 +224,21 @@ often wasteful real-world challenges, like who can amass the most
 specialized computers or achieve the largest economy of scale in
 using them.  Facts the network wouldn't otherwise give a hoot about.
 
-Proof-of-work systems have proven plenty capable in many specific
+Proof-of-stake systems, by contrast, do not limit bad behavior
+by tying participation to a limited real-world resource.  Instead,
+proof-of-stake systems levy procedural penalties against participants
+proffering transactions the network refuses to honor, in the form
+of reduced credits or privileges tracked within the network itself.
+Rather than requiring participants to spend real-world assets,
+like computing power, to buy executive officer raffle tickets,
+proof-of-stake systems hand out raffle tickets, votes, or other powers
+to all, and punish their ill use after the fact, by a reduction
+in further right to participate.  If those involved value ongoing
+participation on equal footing, therein lies their incentive to play
+straight.  The effect is much like party discipline or adherence to
+rules of order at a meeting.
+
+Proof-of-stake systems have proven plenty capable in many specific
 applications, especially within organizations that hold other levers
 of control over diverse mechanisms and incentives, and wherever the
 risk of collusion among double-spending fraudsters is low, even if the
@@ -238,16 +252,17 @@ designed to leave payees empty-handed.  So, in a manner of speaking,
 are messages from an Ethereum users on different tines of the Ethereum
 DAO "fork".
 
-To my knowledge, only proof-of-work rules have succeeded at large
-scale in systems, like the Bitcoin and Ethereum networks, without
+However, to my knowledge, only proof-of-work rules have succeeded at
+large scale in systems, like the Bitcoin and Ethereum networks, without
 overarching checks and balances---derisively, "centralized authority".
-These individual use cases, in aggregate, probably make up the vast
-majority of proper applications of the underlying Bitcoin-esque
-technology.
+Such use cases, in the aggregate, probably make up the vast majority
+of useful applications of the underlying Bitcoin-esque technology.
+But for those of a more political bent, these are precisely the
+uninteresting, even repugnant ones.
 
-But lack of central authority without the wastefulness of proof-of-work
+Lack of central authority without the wastefulness of proof-of-work
 rules is the techno-political dream, in that it would make the system
-wholly self-contained, a kind of sealed Economic Bottle-Garden of
+wholly self-contained, a kind of sealed Economic Bottle Garden of
 Eden.  Such a system might be used to make agreements or administer
 organizations that interact with the real world, say by performing
 services or dealing in goods.  But their software-automated bits could
@@ -256,14 +271,14 @@ by the shared interest of others utilizing the network in accurate
 record keeping.
 
 In theory, that shared interest might be enough.  If it works
-there's no need to interlock the system with other possible sources
-of corrupting leverage---financial, technological, political.
-That being the case, the decentralized system clearly obviates
-all need for existing centralized, evidently corruptible analogs.
-It becomes both "disinterested" in the sense of being incapable of
-having an inherent, selfish interest in the outcomes it oversees,
-and incorruptible, in that no outside leverage can be implied to
-induce such a motive to create or harbor fraud.
+there's no need to interlock the system with other possible sources of
+corrupting leverage---financial, technological, political.  That being
+the case, the decentralized system clearly obviates all need for
+existing centralized, evidently corruptible analogs.  It becomes
+both "disinterested" in the sense of being incapable of having an
+selfish interest in the outcomes it oversees, and incorruptible in
+the sense that no outside leverage can be applied to induce such a
+selfish motive.
 
 ---
 
@@ -280,10 +295,10 @@ induce such a motive to create or harbor fraud.
 >
 > --- Thomas Jefferson to James Madison (1789)
 
-Buterin pointed out years ago that questions about proof of work
-and proof of stake boil down to broader questions about how much we
-value "decentralization"---freedom from overarching, "centralized"
-checkers and balancers that fail in manifold, sometimes obscure, ways.
+Buterin pointed out years ago that questions about proof-of-work and
+proof-of-stake systems boil down to broader questions about how much
+we value "decentralization"---freedom from overarching, "centralized"
+checkers and balancers that fail in manifold, often obscure, ways.
 Proof of work is expensive, but that expense may be worthwhile.
 Hope for a viable alternative would spare us that valuation riddle.
 What we can automate safely at low cost and negligible risk, we will
@@ -292,11 +307,16 @@ it or live with it.
 
 The prospect raises two important questions.
 
-If we find what appears to be a suitable sword, can we trust that
-it will do the job?  Every durable system of governance I know
-of---legal, political, governmental---has installed within itself
-an escape valve, a means of correction when established rules,
-predictably, fail to function adequately in unforeseen circumstances.
+If we find what appears to be a suitable sword, can we trust
+that it will do the job?  How can we verify that the job is done?
+Every durable system of governance I know of---legal, political,
+governmental---has installed within itself an escape valve, a means
+of correction when established rules, predictably, fail to function
+adequately in unforeseen circumstances.  Even such safeguards routinely
+fail.  It's no easier to architect the perfect mechanism of reform
+than it is to architect the perfect substantive rule you were after
+in the first place.  This is a humility every practicing deals lawyer
+learns, hard or easy.  The same can't be said for programmers.
 
 Equity's primacy over law.  Procedures for termination and amendment.
 The institution of the "dictator"---originally limited to a specific
@@ -326,22 +346,23 @@ the glossy-full-page-ad view of the computer once again.
 
 There is arguably no manipulation in today's politics so terrifyingly
 opaque and invasive, for those outside the loop, as the prospect
-of cryptoanarchists "engineering" others' incentives, binding
-them to structures so engineered by means obscure to anyone else.
-That's the kind of unchecked prerogative we expect, but don't approve,
-from ad-men, politicians, and financiers, who have been bad enough
-without the advantages of technical acuity.  It is frightfully easy
-to see the benefits and liberties unlocked by one's work, maddeningly
-difficult to even remember to look for the limitations and inequities.
+of cryptoanarchists "engineering" their incentives, binding them to
+structures obscure to everyone else, and only partially understood by
+any individual engineer.  That's the kind of unchecked prerogative we
+expect, but don't approve, from ad-men, politicians, and financiers,
+who have been bad enough without the advantages of technical acuity.
+It is frightfully easy to see the benefits and liberties unlocked by
+one's work, maddeningly difficult to even remember to look for the
+limitations and inequities.
 
 I support these experiments, and I support the experiment that was
 The DAO.  Finding a way to make these systems self-sufficient, by
-fully decentralized proof of stake or otherwise, would be a startling
-achievement.  But I worry that, if progress here catches hold of the
-really fundamental governance problems implicated, it will roll right
-over so much of what we know about governance more generally, some of
-which is truly ancient knowledge.  I worry that it will collide with
-strong institutions more by frenetic, Brownian motion that reasoned
-engineering, even if plenty of cryptoanarchists, young and old, will
-be ready to say that _this_, finally, is the blockchain they always
-wanted, and expected.
+fully decentralized proof-of-stake rules or otherwise, would be a
+startling achievement.  But I worry that, if progress here catches
+hold of the really fundamental governance problems implicated, it
+will roll right over so much of what we know about governance more
+generally, some of which is truly ancient knowledge.  I worry that
+it will collide with strong institutions more by frenetic, Brownian
+motion than reasoned engineering, even if plenty of cryptoanarchists,
+young and old, will be ready to say that _this_, finally, is the
+blockchain they always wanted and expected.
