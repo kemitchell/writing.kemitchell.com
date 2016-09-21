@@ -473,10 +473,10 @@ trees.
 > express or implied, including but not limited to the warranties of
 > merchantability, fitness for a particular purpose and noninfringement.
 
-Nearly every state in the United States has enacted a version
-of the Under the Uniform Commercial Code, a model statute of laws
-governing commercial transactions.  Article 2 of the UCC---"Division
-2" in California---governs contracts for sales of goods, from used
+Nearly every state in the United States has enacted a version of
+the Uniform Commercial Code, a model statute of laws governing
+commercial transactions.  Article 2 of the UCC---"Division 2"
+in California---governs contracts for sales of goods, from used
 automobiles bought off the lot to large shipments of industrial
 chemicals to manufacturing plants.
 
