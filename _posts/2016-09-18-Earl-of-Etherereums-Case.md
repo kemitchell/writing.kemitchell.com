@@ -151,16 +151,15 @@ In the main, the trend is toward single courts that do the business of
 justice without regard for the old dichotomy.  This is often far more
 efficient:  It's fairly clear where you ought to bring your lawsuit,
 and easier to juggle one set of rules, procedures, and schedules
-once you get there.  On the other hand, it's sometimes hard to
-tell whether a court is refining and applying rules for strict
-application or making room for itself to avoid an unjust result.
-This has been especially clear in contract law of late, with many
-courts straining to invalidate "contracts of adhesion", like dense
-online terms of service, and specific provisions, like commitments to
-arbitration that deny consumers access to the public courts, that irk
-judicial sensibilities.  Some courts have even seemed to play games
-with ambiguity and vagueness, seizing on whatever weakness they can
-manufacture to avoid doing The Wrong Thing.
+once you get there.  On the other hand, it's sometimes hard to tell
+whether a court is refining and applying rules for strict application
+or making room for itself to avoid an unjust result.  This has been
+especially clear in contract law of late, with many courts straining
+to invalidate "contracts of adhesion", like dense online terms of
+service, and specific provisions, like commitments to arbitration
+that deny consumers access to the public courts.  Some courts have
+even seemed to play games with ambiguity and vagueness, seizing on
+whatever weakness they can manufacture to avoid doing The Wrong Thing.
 
 Legal practice has a habit of deep-freezing vocabulary and ideas
 well past their expiration dates.  But as often as I'm a critic of
