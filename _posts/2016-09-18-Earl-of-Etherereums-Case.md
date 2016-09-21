@@ -207,11 +207,11 @@ dimensions of the problems they've opted not to skirt.
 To this lawyer's eye, the most interesting thread in that thinking
 has always been "proof-of-work" versus "proof-of-stake" systems.
 
-The best-known programs of Ethereum's type, including Bitcoin, enforce
-rules requiring those who participate in deciding which valid decisions
-count and when to solve difficult computer puzzles as a kind of raffle
-ticket for temporary executive officer.  These are called "proof
-of work" rules.
+The best-known programs of Ethereum's type, including Bitcoin,
+enforce rules requiring those who participate in deciding which valid
+decisions count and when to solve difficult computer puzzles as a kind
+of raffle ticket for temporary executive office.  These are called
+"proof-of-work" rules.
 
 The puzzles require lots of computer power, which costs lots of
 money.  The more computers participate in the network, the more
@@ -228,14 +228,13 @@ by tying participation to a limited real-world resource.  Instead,
 proof-of-stake systems levy procedural penalties against participants
 proffering transactions the network refuses to honor, in the form
 of reduced credits or privileges tracked within the network itself.
-Rather than requiring participants to spend real-world assets,
-like computing power, to buy executive officer raffle tickets,
-proof-of-stake systems hand out raffle tickets, votes, or other powers
-to all, and punish their ill use after the fact, by a reduction
-in further right to participate.  If those involved value ongoing
-participation on equal footing, therein lies their incentive to play
-straight.  The effect is much like party discipline or adherence to
-rules of order at a meeting.
+Rather than requiring participants to spend real-world assets, like
+computing power, to buy executive office raffle tickets, proof-of-stake
+systems hand out raffle tickets, votes, or other powers to all, and
+punish their ill use after the fact, by a reduction in further right
+to participate.  If those involved value ongoing participation on equal
+footing, therein lies their incentive to play straight.  The effect is
+much like party discipline or adherence to rules of order at a meeting.
 
 Proof-of-stake systems have proven plenty capable in many specific
 applications, especially within organizations that hold other levers
@@ -248,7 +247,7 @@ Ethereum program running haywire on a machine frazzled by hardware
 failure is a Byzantine fault.  So is a program masquerading as Bitcoin,
 but designed to convince others to confirm transactions in an order
 designed to leave payees empty-handed.  So, in a manner of speaking,
-are messages from an Ethereum users on different tines of the Ethereum
+are messages from Ethereum users on different tines of the Ethereum
 DAO "fork".
 
 However, to my knowledge, only proof-of-work rules have succeeded at
@@ -274,10 +273,10 @@ there's no need to interlock the system with other possible sources of
 corrupting leverage---financial, technological, political.  That being
 the case, the decentralized system clearly obviates all need for
 existing centralized, evidently corruptible analogs.  It becomes
-both "disinterested" in the sense of being incapable of having an
-selfish interest in the outcomes it oversees, and incorruptible in
-the sense that no outside leverage can be applied to induce such a
-selfish motive.
+both "disinterested" in the sense of being incapable of having a
+selfish interest in the outcomes it administers, and "incorruptible"
+in the sense that no outside leverage can be applied to induce such
+an interest.
 
 ---
 
@@ -321,13 +320,13 @@ Equity's primacy over law.  Procedures for termination and amendment.
 The institution of the "dictator"---originally limited to a specific
 dictate and extraordinary circumstances.  These mechanisms help to
 avoid the costs and uncertainties of rebuilding anything from an
-entirely clean slate, though that is always and implied possibility.
-As far as blockchains go, the answer is probably that failure in these
-early days is livable enough to warrant free experimentation.  If a
-system fails, we'll survive, and we can learn from it.  If the line
-of inquiry trails off, it won't have been the first honest fishing
-expedition.  Blockchain as a whole might be a fishing expedition,
-at least as far as the cryptoanarchists are concerned.
+entirely clean slate, though that is always a possibility.  As far
+as blockchains go, the answer is probably that failure in these early
+days is livable enough to warrant free experimentation.  If a system
+fails, we'll survive, and we can learn from it.  If the line of inquiry
+trails off, it won't have been the first honest fishing expedition.
+Blockchain as a whole might be a fishing expedition, at least as far
+as the cryptoanarchists are concerned.
 
 The harder questions is whether, having convinced ourselves that we've
 found a way to solve these governance problems in utter independence
@@ -355,7 +354,7 @@ by any individual cryptoanarchist.  That's the kind of unchecked
 prerogative we expect, but don't approve of, from ad-men, politicians,
 and financiers, who have been bad enough without the advantages of
 technical acuity.  It is frightfully easy to see the benefits and
-liberties unlocked by one's work, maddeningly difficult to even
+liberties unlocked by one's work, maddeningly difficult even to
 remember to look for the limitations and inequities.
 
 I support these experiments, and I support the experiment that was
