@@ -348,15 +348,15 @@ that are beginning to unwind the glossy-full-page-ad view of the
 computer once again.  Computers are seeming less cool all the time.
 
 There is arguably no manipulation in today's politics so terrifyingly
-opaque and invasive, for those outside the loop, as the prospect
+opaque and invasive, for those outside the cabal, as the prospect
 of cryptoanarchists "engineering" their incentives, binding them to
-structures obscure to everyone else, and only partially understood by
-any individual engineer.  That's the kind of unchecked prerogative we
-expect, but don't approve, from ad-men, politicians, and financiers,
-who have been bad enough without the advantages of technical acuity.
-It is frightfully easy to see the benefits and liberties unlocked by
-one's work, maddeningly difficult to even remember to look for the
-limitations and inequities.
+structures obscure to anyone else, and only partially understood
+by any individual cryptoanarchist.  That's the kind of unchecked
+prerogative we expect, but don't approve of, from ad-men, politicians,
+and financiers, who have been bad enough without the advantages of
+technical acuity.  It is frightfully easy to see the benefits and
+liberties unlocked by one's work, maddeningly difficult to even
+remember to look for the limitations and inequities.
 
 I support these experiments, and I support the experiment that was
 The DAO.  Finding a way to make these systems self-sufficient, by
