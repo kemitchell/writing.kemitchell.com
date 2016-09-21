@@ -333,9 +333,9 @@ All of these share a common purpose, and they all fail to achieve it
 reliably.  Fundamentally, drafters who use them try to have their cake
 and eat it to.  In The MIT License, that means  introducing specific
 examples of "dealing in the Software"---"use, copy, modify" and so
-on---without giving implying that licensee action has to be something
-like the examples given to count as "dealing in".  The trouble is
-that, if you end up needing a court to review and interpret the terms
+on---without implying that licensee action has to be something like
+the examples given to count as "dealing in".  The trouble is that,
+if you end up needing a court to review and interpret the terms
 of a license, the court will see its job as finding out what those
 fighting meant by the language.  If the court needs to decide what
 "deal in" means, it cannot "unsee" the examples, even if you tell
