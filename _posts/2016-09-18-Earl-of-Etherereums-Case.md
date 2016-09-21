@@ -243,7 +243,7 @@ of control over diverse mechanisms and incentives, and wherever the
 risk of collusion among double-spending fraudsters is low, even if the
 risk of malfunctioning software is real.  In the lingo, malfunctions
 and attempted fraud are both "Byzantine faults"---invalid messages
-that computers can't immediately recognizable as such.  A copy of the
+that computers can't immediately recognize as bunk.  A copy of the
 Ethereum program running haywire on a machine frazzled by hardware
 failure is a Byzantine fault.  So is a program masquerading as Bitcoin,
 but designed to convince others to confirm transactions in an order
