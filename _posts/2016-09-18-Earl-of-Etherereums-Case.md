@@ -315,7 +315,7 @@ adequately in unforeseen circumstances.  Even such safeguards routinely
 fail.  It's no easier to architect the perfect mechanism of reform
 than it is to architect the perfect substantive rule you were after
 in the first place.  This is a humility every practicing deals lawyer
-learns, hard or easy.  The same can't be said for programmers.
+learns, hard or easy.  The same can't be said for every programmer.
 
 Equity's primacy over law.  Procedures for termination and amendment.
 The institution of the "dictator"---originally limited to a specific
