@@ -337,13 +337,15 @@ The freedom-enabling, automobile-like elan of the computer is a
 late-model marketing invention.  The computer more generally made
 its debut as a tool of systematic dehumanization and oppression, the
 conscience-free mechanical lackey of indifferent captains of industry
-and McNamara-ite technocrats grinding less pliable Bartlebys into
-mincemeat.  Levy's _Hackers_ describes anti-war protests on the floor
-of MIT's AI Lab, then home to a Department of Defense-funded projects.
-Industry and government's current taste in sprawling systems accessed
-by low-margin consumers via relatively dumb devices has produced all
-kinds of security and privacy issues that are beginning to unwind
-the glossy-full-page-ad view of the computer once again.
+and McNamara-ite technocrats grinding the Bartlebys of the world
+into mincemeat.  Levy's _Hackers_ describes anti-war protests on the
+floor of MIT's AI Lab, then home to a Department of Defense-funded
+projects and hackers bewildered that their peers should associate
+computers with the war.  These days, industry and government's taste
+in sprawling systems accessed by low-margin consumers via relatively
+dumb devices has produced all kinds of security and privacy issues
+that are beginning to unwind the glossy-full-page-ad view of the
+computer once again.  Computers are seeming less cool all the time.
 
 There is arguably no manipulation in today's politics so terrifyingly
 opaque and invasive, for those outside the loop, as the prospect
