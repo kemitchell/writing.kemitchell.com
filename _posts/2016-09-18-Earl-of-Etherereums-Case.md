@@ -260,14 +260,14 @@ But for those of a more political bent, those use cases are precisely
 the uninteresting, even repugnant ones.
 
 Lack of central authority without the wastefulness of proof-of-work
-rules is the techno-political dream, in that it would make the system
-wholly self-contained, a kind of sealed Economic Bottle Garden of
-Eden.  Such a system might be used to make agreements or administer
-organizations that interact with the real world, say by performing
-services or dealing in goods.  But their software-automated bits could
-be verified and audited by the network independently, guaranteed
-by the shared interest of others utilizing the network in accurate
-record keeping.
+rules is the techno-political dream, in that it would make the
+system wholly self-contained, a kind of sealed Bottle Garden of
+Economic Eden.  Such a system might be used to make agreements or
+administer organizations that interact with the real world, say by
+performing services or dealing in goods.  But their software-automated
+bits could be verified and audited by the network independently,
+guaranteed by the shared interest of others utilizing the network in
+accurate record keeping.
 
 In theory, that shared interest might be enough.  If it works
 there's no need to interlock the system with other possible sources of
