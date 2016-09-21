@@ -11,12 +11,13 @@ license.  Here's how one lawyer reads it, line by line.
 
 ## Read the License
 
-If you haven't taken the time to actually read the license from top
-to bottom, you need to do so now.  The rest of this post will help
-you make sense of how it's written and the background it rests on.
-If you want the most out of the experience of this post, you need
-both the big picture in the back of your mind and the repetition of
-seeing parts again later:
+If you haven't taken the time to actually read the license from
+top to bottom---it's about 170 words total---you need to do so now.
+Especially if licenses aren't your day-to-day.  Make a mental note of
+anything that seems off or unclear, and keep trucking.  The point is to
+prime the whole text, as context.  I'll repeat the whole text again,
+in chunks and in order, with context and commentary.  The repetition
+is designed to strengthen your understanding.
 
 > The MIT License (MIT)
 >
@@ -33,25 +34,25 @@ seeing parts again later:
 > The above copyright notice and this permission notice shall be
 > included in all copies or substantial portions of the Software.
 >
-> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-> EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-> MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-> IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-> CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-> TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-> SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+> _The Software is provided "as is", without warranty of any kind,
+> express or implied, including but not limited to the warranties of
+> merchantability, fitness for a particular purpose and noninfringement.
+> In no event shall the authors or copyright holders be liable for any
+> claim, damages or other liability, whether in an action of contract,
+> tort or otherwise, arising from, out of or in connection with the
+> software or the use or other dealings in the Software._
 
 The license is arranged in five paragraphs, but logically it breaks down like this:
 
-- Header
-  - License Title
-  - Copyright Notice
-- License Grant
-  - Grant Scope
-  - Conditions
-    - Attribution and Notice
-    - Warranty Disclaimer
-    - Limitation of Liability
+- **Header**
+  - **License Title**: "The MIT License"
+  - **Copyright Notice**: "Copyright (c) ..."
+- **License Grant**: "Permission is hereby granted ..."
+  - **Grant Scope**: "... to deal in the Software ..."
+  - **Conditions**: "... subject to ..."
+    - **Attribution and Notice**: "The above ... shall be included ..."
+    - **Warranty Disclaimer**: "_The software is provided 'as is' ..._"
+    - **Limitation of Liability**: "_In no event ..._"
 
 Here we go:
 
@@ -71,8 +72,8 @@ formaldehyde, tracing an incremental and circuitous path of evolution.
 [Museum]: https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT
 
 Fortunately, the [Open Source Initiative][OSI] and [Software Package
-Data eXchange][SPDX] groups have standardized generic MIT-style
-license forms as "The MIT License".  OSI in turn has adopted SPDX'
+Data eXchange][SPDX] groups have standardized a generic MIT-style
+license form as "The MIT License".  OSI in turn has adopted SPDX'
 standardized [string identifiers][IDs] for common open-source
 licenses, with `MIT` pointing unambiguously to the standardized form
 "MIT License".  If you want MIT-style terms for a new project, use
@@ -175,10 +176,56 @@ to enforce license conditions that promote the values of contributors.
 
 [Eclipse CLAs]: https://wiki.eclipse.org/ECA
 
-In certain
-kinds of working relationships, especially employment relationships,
-but also some kinds of independent contractor relationships,
+These days, loads of projects without any kind of institutional or
+business owner use MIT-style license terms.  SPDX and OSI have helped
+these use cases by standardizing forms of licenses like MIT and ISC
+that don't refer to a specific entity or institutional copyright
+holder.  Armed with those forms, the prevailing practice of project
+authors is to fill their own name in the copyright notice of the form
+very early on ... and maybe bump the year here and there when they
+remember.  At least under United States copyright law, the resulting
+copyright notice doesn't give a full picture.
 
+The original owner of a piece of software retains ownership of their
+work.  But while MIT-style license terms give others right to build
+on and change the software, creating what the law calls "derivative
+works", they don't give the original author ownership of copyright in
+others' contributions.  Rather, each contributor has copyright in any
+[even marginally creative][Feist] contributions they make.
+
+[Feist]: https://en.wikipedia.org/wiki/Feist_Publications,_Inc.,_v._Rural_Telephone_Service_Co.
+
+Most of these projects also balk at the idea of taking contributor
+license agreements, to say nothing of signed copyright assignments,
+for each patch they take.  That's understandable.  But apart from the
+naive assumption of some newer open-source developers that sending a
+pull request on GitHub "automatically" licenses the contribution for
+distribution on the terms of the project's existing license---what
+Richard Fontana of Red Hat calls "inbound=outbound" licensing---United
+States law doesn't recognize any such rule in any reliable way.
+
+To fill the gap between legally effective, well-documented grants
+of rights in contributions and no paper trail at all, some projects
+have adopted the [Developer Certificate of Origin][DCO], a standard
+"statement" contributors allude to using `Signed-Off-By` metadata
+tags in their Git commits.  The Developer Certificate of Origin
+was developed for Linux kernel development in the wake of the
+infamous SCO lawsuits, which alleged that chunks of Linux' code
+derived from SCO-owned Unix source.  As a means of creating a paper
+trail showing that each line of Linux came from a contributor,
+the Developer Certificate of Origin functions nicely.  While the
+Developer Certificate of Origin isn't a license, it does provide
+lots of good evidence that those submitting code expected the
+project to distribute their code, and for others to use it under
+the kernel's existing license terms.  The kernel also maintains
+a machine-readable `CREDITS` file listing contributors with name,
+affiliation, contribution area, and other metadata.  I've done some
+[experiments][AUTHORS] adapting that approach for projects that don't
+use the kernel's development flow.
+
+[DCO]: http://developercertificate.org/
+
+[AUTHORS]: https://github.com/berneout/authors-certificate
 
 ## License Grant
 
