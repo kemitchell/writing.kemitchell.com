@@ -480,13 +480,13 @@ in California---governs contracts for sales of goods, from used
 automobiles bought off the lot to large shipments of industrial
 chemicals to manufacturing plants.
 
-Some of the UCC's rules about sales contracts are mandatory.
-These rules always apply, whether those buying and selling like them
-or not.  Others are just "defaults".  Those rules apply unless buyers
-and sellers opt out in writing, the UCC implies that they want the
-baseline rule found in the UCC's text for their deal.  Among the
-default rules are implied "warranties", or promises by sellers to
-buyers about the quality and usability of the goods being sold.
+Some of the UCC's rules about sales contracts are mandatory.  These
+rules always apply, whether those buying and selling like them or not.
+Others are just "defaults".  Unless buyers and sellers opt out in
+writing, the UCC implies that they want the baseline rule found in
+the UCC's text for their deal.  Among the default rules are implied
+"warranties", or promises by sellers to buyers about the quality and
+usability of the goods being sold.
 
 There is a big debate in open-source licensing about whether public
 licenses like The MIT License are contracts--enforceable agreements
