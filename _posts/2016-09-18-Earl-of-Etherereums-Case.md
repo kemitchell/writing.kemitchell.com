@@ -256,8 +256,8 @@ large scale in systems, like the Bitcoin and Ethereum networks, without
 overarching checks and balances---derisively, "centralized authority".
 Such use cases, in the aggregate, probably make up the vast majority
 of useful applications of the underlying Bitcoin-esque technology.
-But for those of a more political bent, these are precisely the
-uninteresting, even repugnant ones.
+But for those of a more political bent, those use cases are precisely
+the uninteresting, even repugnant ones.
 
 Lack of central authority without the wastefulness of proof-of-work
 rules is the techno-political dream, in that it would make the system
