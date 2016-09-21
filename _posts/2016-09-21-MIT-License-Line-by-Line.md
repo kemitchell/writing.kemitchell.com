@@ -489,27 +489,27 @@ the UCC's text for their deal.  Among the default rules are implied
 usability of the goods being sold.
 
 There is a big debate in open-source licensing about whether public
-licenses like The MIT License are contracts--enforceable agreements
+licenses like The MIT License are contracts---enforceable agreements
 between licensors and licensees---or just licenses, which go one
-way, but may come with strings attached.  There is less debate about
-whether software counts as "goods", triggering the UCC's rules. There
-is no debate among licensors, however, that they don't want to
-get sued for lots of money if the software they give away for free
-breaks, causes problems, doesn't work, or otherwise causes trouble.
-That's exactly the opposite of what three kinds of default rules for
-"implied warranties" do:
+way, but may come with strings attached, their conditions.  There is
+less debate about whether software counts as "goods", triggering the
+UCC's rules. There is no debate among licensors, however, that they
+don't want to get sued for lots of money if the software they give
+away for free breaks, causes problems, doesn't work, or otherwise
+causes trouble.  That's exactly the opposite of what three kinds of
+default rules for "implied warranties" do:
 
 1. The implied warranty of "merchantability" under [UCC section
-   2-314][UCC 2-314] is a promise that the goods---the Software---are
-   of at least average quality, properly packaged and labeled, and fit
-   for the ordinary purposes it is intended to serve.  This warranty
-   applies only if the one giving the software is a "merchant" with
-   respect to the software, meaning they deal in software and hold
-   themselves out as skilled in software.
+   2-314][UCC 2-314] is a promise that "the goods"---the Software---are
+   of at least average quality, properly packaged and labeled,
+   and fit for the ordinary purposes they are intended to serve.
+   This warranty applies only if the one giving the software is a
+   "merchant" with respect to the software, meaning they deal in
+   software and hold themselves out as skilled in software.
 
 2. The implied warranty of "fitness for a particular purpose" under
    [UCC section 2-315][UCC 2-315] kicks in when the seller knows the
-   buyer is relying on them to provide goods for a particular use.
+   buyer is relying on them to provide goods for a particular purpose.
    The goods need to actually be "fit" for that purpose.
 
 3. The implied warranty of "noninfringement" is not part of the UCC,
@@ -518,14 +518,14 @@ That's exactly the opposite of what three kinds of default rules for
    violated somebody else's intellectual property rights.  That would
    be the case if the software under The MIT License didn't actually
    belong to the one trying to license it, or if it fell under a
-   parent owned by someone else.
+   patent owned by someone else.
 
 [Section 2-316(3)][UCC 2-316] of the UCC requires language opting
 out of, or "excluding", implied warranties of merchantability and
 fitness for a particular purpose to be conspicuous.  "Conspicuous"
 in turn means written or formatted to call attention to itself, the
 opposite of microscopic fine print meant to slip past unwary consumers.
-State law often imposes a similar attention-grabbing requirement for
+State law may impose a similar attention-grabbing requirement for
 disclaimers of noninfringement.
 
 [UCC 2-314]: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2314.&lawCode=COM
@@ -538,9 +538,10 @@ Lawyers have long suffered under the delusion that writing anything
 in `ALL CAPS` meets the conspicuous requirement.  That isn't true.
 Courts have criticized the Bar for pretending as much, and most
 everyone agrees all caps does more to discourage reading than compel
-it.  All the same, most open-source-license form set their warranty
-disclaimers in all-caps.  I'd prefer to use asterisks or other ASCII
-art, but that ship sailed long, long ago.
+it.  All the same, most open-source-license forms set their warranty
+disclaimers in all-caps, in part because that's the only obvious way
+to make it stand out in plain-text `LICENSE` files.  I'd prefer to
+use asterisks or other ASCII art, but that ship sailed long, long ago.
 
 ### Limitation of Liability
 
@@ -551,20 +552,22 @@ art, but that ship sailed long, long ago.
 
 The MIT License gives permission for software "free of charge", but
 the law does not assume that folks receiving licenses free of charge
-give up their rights to sue when things go wrong and the licensor
-is to blame.  "Limitations of liability", often paired with "damages
+give up their rights to sue when things go wrong and the licensor is
+to blame.  "Limitations of liability", often paired with "damages
 exclusions", work a lot like licenses, as promises not to sue.
+But these are promises the _licensee_ gives the one providing the
+software.
 
 In general, courts read limitations of liability and damages exclusions
-warily, since they can shift an incredible amount of risk from one
-side to another.  To protect community's vital interest in giving
-folks a way to redress wrongs done in court, they "strictly construe"
-language limiting liability, reading it against the one protected by it
-where possible.  Limitations of liability have to specific to stand up.
+warily, since they can shift an incredible amount of risk from one side
+to another.  To protect community's vital interest in giving folks a
+way to redress wrongs done in court, they "strictly construe" language
+limiting liability, reading it against the one protected by it where
+possible.  Limitations of liability have to be specific to stand up.
 Especially in "consumer" contracts and other situations where those
 giving up the right to sue lack sophistication or bargaining power,
 courts have sometimes refused to honor language that seemed buried
-out of sight.  Partly for that reason, partly by shear momentum,
+out of sight.  Partly for that reason, partly by shear force of habit,
 lawyers tend to give limits of liability the all-caps treatment, too.
 
 Drilling down a bit, the "limitation of liability" part is a cap on
@@ -576,43 +579,46 @@ in the last 12-month period, though it's often negotiated.
 The "exclusion" part lists, specifically, the kinds of legal
 claims---reasons to sue for damages---the licensor cannot use.
 Like many, many legal forms, The MIT License mentions actions "of
-contract"---for breaching a contract---and "of tort".  Tor rules are
-general rules against carelessly or maliciously harming others.  If you
-run someone down on the road while texting, you have committed a tort.
-If your company sells faulty headphones that burn peoples' ears, your
-company has committed a tort.  If a contract doesn't specifically
-exclude tort claims, courts sometimes read the language to prevent
-contract claims only.  For good measure, The MIT License throws in
-"or otherwise", just to catch the odd admiralty law or other claim.
+contract"---for breaching a contract---and "of tort".  Tort rules
+are general rules against carelessly or maliciously harming others.
+If you run someone down on the road while texting, you have committed
+a tort.  If your company sells faulty headphones that burn peoples'
+ears off, your company has committed a tort.  If a contract doesn't
+specifically exclude tort claims, courts sometimes read exclusion
+language in a contract to prevent only contract claims.  For good
+measure, The MIT License throws in "or otherwise", just to catch the
+odd admiralty law or other, exotic kind of legal claim.
 
-"\[A\]rising from, out of or in connection with" is a recurring
-symptom of the legal draftsman's inherent insecurity.  The point is
-that any lawsuit having anything to do with the software is covered
-by the limitation and exclusions.  On the off change something can
-"arise from", but not "out of", or "in connection with", it feels
-better to have all three in the form, so pack 'em in.  Never mind
-that any court forced to split hairs in this part of the form will
-have to come up with different meanings for each, on the assumption
-that a professional drafter wouldn't use different words in a row to
-mean the same thing.  Never mind that in practice, where courts don't
-feel good about a limitation that's disfavored to begin with, they'll
-be more than ready to read the scope trigger narrowly.  But I digress.
-The same language appears in literally millions of contracts.
+The phrase "arising from, out of or in connection with" is a recurring
+tick symptomatic of the legal draftsman's inherent, anxious insecurity.
+The point is that any lawsuit having anything to do with the software
+is covered by the limitation and exclusions.  On the off chance
+something can "arise from", but not "out of", or "in connection
+with", it feels better to have all three in the form, so pack 'em in.
+Never mind that any court forced to split hairs in this part of the
+form will have to come up with different meanings for each, on the
+assumption that a professional drafter wouldn't use different words
+in a row to mean the same thing.  Never mind that in practice, where
+courts don't feel good about a limitation that's disfavored to begin
+with, they'll be more than ready to read the scope trigger narrowly.
+But I digress.  The same language appears in literally millions
+of contracts.
 
 ## Overall
 
-All these quibbles are a bit like spitting out gum on the way into
-church.  The MIT License is a legal classic.  The MIT License works.
-It is by no means a panacea for all software IP ills, in particular
-the software patent scourge, which it predates by many decades.
-But MIT-style licenses has served admirably, fulfilling a narrow
+All these quibbles are a bit like spitting out gum on the way
+into church.  The MIT License is a legal classic.  The MIT License
+works.  It is by no means a panacea for all software IP ills, in
+particular the software patent scourge, which it predates by decades.
+But MIT-style licenses have served admirably, fulfilling a narrow
 purpose---reversing troublesome default rules of copyright, sales,
 and contract law---with a minimal combination of discreet legal tools.
-In the greater context of computing, its longevity is astounding:
+In the greater context of computing, its longevity is astounding.
 The MIT License has outlasted and will outlast the vast majority of
 software licensed under it.  We can only guess how many decades of
-faithful legal service it will have given when it fades, especially
-to those who couldn't have afforded a lawyer.
+faithful legal service it will have given when it finally loses favor.
+It's been especially generous to those who couldn't have afforded
+their own lawyer.
 
 We've seen how The MIT Licenses grants permission for software to all,
 for free, subject to conditions that protect licensors from warranties
