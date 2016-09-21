@@ -322,10 +322,12 @@ The institution of the "dictator"---originally limited to a specific
 dictate and extraordinary circumstances.  These mechanisms help to
 avoid the costs and uncertainties of rebuilding anything from an
 entirely clean slate, though that is always and implied possibility.
-As far as blockchains go, the answer is probably that failure is
-livable enough to warrant free experimentation.  If a system fails,
-we'll survive, and we can learn from it.  If the line of inquiry
-trails off, it won't have been the first honest fishing expedition.
+As far as blockchains go, the answer is probably that failure in these
+early days is livable enough to warrant free experimentation.  If a
+system fails, we'll survive, and we can learn from it.  If the line
+of inquiry trails off, it won't have been the first honest fishing
+expedition.  Blockchain as a whole might be a fishing expedition,
+at least as far as the cryptoanarchists are concerned.
 
 The harder questions is whether, having convinced ourselves that we've
 found a way to solve these governance problems in utter independence
