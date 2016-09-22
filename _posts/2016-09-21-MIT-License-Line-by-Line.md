@@ -455,15 +455,19 @@ you can't pretend that the MIT code is your own proprietary code,
 or provided under some other license.  Those receiving get to know
 their rights under the "public license".
 
-Frankly, compliance with this condition is breaking down.  Makers of
-system and installed software often compile notice files or "license
-information" screens with license texts for libraries and components.
-Web developers rarely do, though there are plenty of tools to help
-automate this task, especially with highly structure dependency
-management, say via npm.  All the good JavaScript minifiers, for
-example, have a command-line flag for preserving license header
-comments.  Other tools will concatenate `LICENSE` files from package
-trees.
+Frankly, compliance with this condition is breaking down.  Nearly every
+open-source license has such an "attribution" condition.  Makers of
+system and installed software often understand they'll need to compile
+a notices file or "license information" screen, with copies of license
+texts for libraries and components, for each release of their own.
+The project-steward foundations have been instrumental in teaching
+those practices.  But web developers, as a whole, haven't got the
+memo.  It can't be explained away by a lack of tooling---there is
+plenty---or the highly modular nature of packages from npm and other
+repositories---which uniformly standardize metadata formats for license
+information.  All the good JavaScript minifiers have command-line flags
+for preserving license header comments.  Other tools will concatenate
+`LICENSE` files from package trees.  There's really no excuse.
 
 ### Warranty Disclaimer
 
