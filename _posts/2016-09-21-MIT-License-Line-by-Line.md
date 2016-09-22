@@ -166,7 +166,7 @@ the code.  Other institutions cribbed these licenses, replacing
 forms we have now.  This process repeated for other short-form
 institutional licenses of the era, notably the [original four-clause
 BSD License][BSD-4-Clause] for the University of California, Berkeley,
-now used in [three-clause][BSD-2-Clause] and [two-clause][BSD-2-Clause]
+now used in [three-clause][BSD-3-Clause] and [two-clause][BSD-2-Clause]
 variants, as well as [The ISC License][ISC] for the Internet Systems
 Consortium, an MIT variant.
 
