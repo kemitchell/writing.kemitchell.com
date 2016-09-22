@@ -309,7 +309,7 @@ the parties meant and understood by this language.  What the court
 will see is that the language is intentionally broad and open-ended.
 It gives licensees a strong argument against any claim by a licensor
 that they didn't give permission for the licensee to do _that_ specific
-thing with the software, even if the through clearly didn't occur to
+thing with the software, even if the thought clearly didn't occur to
 either side when the license was given.
 
 > including without limitation the rights to use, copy, modify, merge,
@@ -359,11 +359,11 @@ almost do or just plain don't:
    derivative inventions.
 
 -  _merge_ doesn't appear in either copyright or patent statute.
-   "Merger" has a specific meaning in copyright, but that's clear
+   "Merger" has a specific meaning in copyright, but that's clearly
    not what's intended here.  Rather, a court would probably read
    "merge" according to its meaning in industry, as in "to merge code".
 
--  _publish_ doesn't appear in either copyright of patent statute.
+-  _publish_ doesn't appear in either copyright or patent statute.
    Since "the Software" is what's being published, it probably hews
    closest to "distribute" under the [copyright statute][17 USC 106].
    That statute also covers rights to perform and display words
@@ -537,9 +537,9 @@ disclaimers of noninfringement.
 [UCC 2-316]: https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2316.&lawCode=COM
 
 Lawyers have long suffered under the delusion that writing anything
-in `ALL CAPS` meets the conspicuous requirement.  That isn't true.
+in `ALL-CAPS` meets the conspicuous requirement.  That isn't true.
 Courts have criticized the Bar for pretending as much, and most
-everyone agrees all caps does more to discourage reading than compel
+everyone agrees all-caps does more to discourage reading than compel
 it.  All the same, most open-source-license forms set their warranty
 disclaimers in all-caps, in part because that's the only obvious way
 to make it stand out in plain-text `LICENSE` files.  I'd prefer to
@@ -579,7 +579,7 @@ that limit is always no money at all, $0, "not liable".  By contrast,
 in commercial licenses, it's often a multiple of license fees paid
 in the last 12-month period, though it's often negotiated.
 
-The "exclusion" part lists, specifically, the kinds of legal
+The "exclusion" part lists, specifically, kinds of legal
 claims---reasons to sue for damages---the licensor cannot use.
 Like many, many legal forms, The MIT License mentions actions "of
 contract"---for breaching a contract---and "of tort".  Tort rules
