@@ -44,22 +44,21 @@ Started a couple of graduate programs; finished one.  Learned a
 language or two ... for fun.  Got into the fancy-pantsiest law school
 in town, though the town wasn't much for fancy pants.
 
-I milked those advantages for quite a lot.  I got the Big Law gig
-right out of school.  But for reasons I don't pretend to completely
-understand, I had the chance to take those pennants all the way to
-the big social bank downtown, to hold myself out and work my way up
-under them.  To look back for once and be proud of what I'd done,
+I milked those advantages for quite a lot.  I got the Big Law gig right
+out of school.  I had the chance to take those pennants all the way
+to the big social bank downtown, to hold myself out and work my way
+up under them.  To look back for once and be proud of what I'd done,
 which looked a lot like what folks are supposed to do.  But a reflex
 kicked in.  I didn't see it coming.  I pulled for the ejector seat.
 
 I wouldn't change my choice, but not because I think it's ideal.
 That I should proceed on one path so long, then make a sudden break
-... it's show some kind of defect at work.  Maybe that's the point
-where I screwed up.  Maybe I finally choked.  Maybe that was my
-family's chance to really take off, earn in, graduate to a grander
-playing field.  My grandfathers were soldiers, so my father could
-be a merchant, so I could be something patrician and heritable.
-But then I got romantic about folks who qualify for overtime.
+... it's some kind of defect at work.  Maybe that's the point where I
+screwed up.  Maybe I finally choked.  Maybe that was my family's chance
+to really take off, earn in, graduate to a grander playing field.
+My grandfathers were soldiers, so my father could be a merchant,
+so I could be something patrician and heritable.  But then I got
+romantic about folks who qualify for overtime.
 
 I don't pretend that the UPS guy or the office assistant does the same
 job I do.  I can't pretend that my responsibilities are well-defined,
@@ -70,23 +69,23 @@ Perhaps the ideal lawyer only threatens to exist as a partner of some
 kind of law firm.
 
 But I do understand the trap in letting myself believe that standards
-of hard, honest work are different from, rather a part of, the
-standards for practicing law.  That everybody's role, whether it's
-marketed as piece labor or "bespoke brains work" involves a fair bit of
-day-to-day that can and should be performed to a workmanlike standard.
-Creativity and improvisation don't excuse sloppy rudiments.  I was
-developed for the brains work.  But I've a lot to learn yet on those
-rudiments and how to perform them well.  I have a lot to learn yet
-about how to enjoy performing them.
+of hard, honest work are different from, rather than an important part
+of, the standards for practicing law.  That everybody's role, whether
+it's marketed as piece labor or "bespoke brains work" involves a fair
+bit of day-to-day that can and should be performed to a workmanlike
+standard.  Creativity and improvisation don't excuse sloppy rudiments.
+I was developed for the brains work.  But I've a lot to learn yet on
+those rudiments and how to perform them well.  I have a lot to learn
+yet about how to enjoy performing them.
 
 So "deal mechanic" it is.  Because more of what I aspire to now,
 and more of what inspires me, presents alive and well in the trades,
 in working folks, and among those whose roles don't come presoaked in
 heady fumes of Achievement and Social Station.  Because, in the end,
-my due as participant in a monopoly on essential services requires
-me to lop off as many aspects of my practice as are amenable to
-the hardworking, tradesmanlike standards we all understand and
-appreciate, and to make them workable that way.
+my duty as participant in a monopoly on essential services requires
+me to lop off as many aspects of my practice as are amenable to the
+hardworking, tradesmanlike standards we all understand and appreciate,
+and to make them workable that way.
 
 If that project succeeds---and if it does, mine will have been a very
 small part of the solution---perhaps I'll do my last deal in a country
