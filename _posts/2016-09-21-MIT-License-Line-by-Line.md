@@ -376,12 +376,12 @@ almost do or just plain don't:
    The right to sublicense means the right to give others licenses
    of their own, to do some or all of what you have permission to do.
    The MIT License's right to sublicense is actually somewhat unusual
-   in open-source licenses generally.  The norm is a "direct licensing"
-   approach where everyone who gets a copy of the software and its
-   license terms gets a license direct from the owner.  Anyone who
-   might get a sublicense under the MIT License will probably end
-   up with a copy of the license telling them they have a direct
-   license, too.
+   in open-source licenses generally.  The norm is what Heather
+   Meeker calls a "direct licensing" approach, where everyone who
+   gets a copy of the software and its license terms gets a license
+   direct from the owner.  Anyone who might get a sublicense under
+   the MIT License will probably end up with a copy of the license
+   telling them they have a direct license, too.
 
 -  _sell copies of_ is a mongrel.  It is close to "offer to sell" and
    "sell" in the [patent statute][35 USC 271], but refers to "copies",
