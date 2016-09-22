@@ -187,9 +187,8 @@ license that states a single copyright holder---[Apache 2.0] and
 [EPL 1.0]---backed up by contributor license agreements---[Apache
 CLAs] and [Eclipse CLAs]---to collect rights from contributors.
 Collecting copyright ownership in one place is even more important
-under "copyleft" licenses like the GPL, which rely on enforcement
-by copyright owners to enforce license conditions that promote
-software-freedom values.
+under "copyleft" licenses like the GPL, which rely on copyright owners
+to enforce license conditions to promote software-freedom values.
 
 [BSD-4-Clause]: http://spdx.org/licenses/BSD-4-Clause
 
