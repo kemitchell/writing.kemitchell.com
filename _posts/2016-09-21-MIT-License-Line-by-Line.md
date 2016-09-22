@@ -398,17 +398,16 @@ almost do or just plain don't:
 [17 USC 106]: https://www.gpo.gov/fdsys/pkg/USCODE-2015-title35/pdf/USCODE-2015-title35-partIII-chap28-sec271.pdf
 
 Lastly, as a result of this mishmash of legal, industry,
-general-intellectual-property, and general-use terms, it isn't actually
-clear that The MIT License includes a license to use any patentable
-inventions implemented in the software owned by the copyright holders.
-The general language "deal in" and some of the example verbs,
-especially "use", point toward a patent license, albeit a very
-unclear one.  The fact that the license comes from the _copyright
-holder_, who may or may not have patent rights in inventions in the
-software, as well as most of the example verbs  and the definition of
-"the Software" itself, all point strongly toward a copyright license.
-More recent permissive open-source license, like [Apache 2.0], address
-copyright, patent, and even trademark separately and specifically.
+general-intellectual-property, and general-use terms, it isn't clear
+whether The MIT License includes a patent license.  The general
+language "deal in" and some of the example verbs, especially "use",
+point toward a patent license, albeit a very unclear one.  The fact
+that the license comes from the _copyright holder_, who may or may not
+have patent rights in inventions in the software, as well as most of
+the example verbs and the definition of "the Software" itself, all
+point strongly toward a copyright license.  More recent permissive
+open-source licenses, like [Apache 2.0], address copyright, patent,
+and even trademark separately and specifically.
 
 ### Three License Conditions
 
