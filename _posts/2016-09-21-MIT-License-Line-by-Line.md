@@ -627,7 +627,7 @@ We've seen how The MIT Licenses grants permission for software to all,
 for free, subject to conditions that protect licensors from warranties
 and liability.
 
-We've seen how the The MIT License we know today means a specific,
+We've seen how the The MIT License we know today is a specific,
 standardized sets of terms, bringing order at long last to a chaos
 of institution-specific, haphazard variations.
 
