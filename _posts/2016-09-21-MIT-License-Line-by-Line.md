@@ -517,7 +517,7 @@ That's exactly the opposite of what three kinds of default rules for
 3. The implied warranty of "noninfringement" is not part of the UCC,
    but is a common feature of general contract law.  This implied
    promise protects the buyer if it turns out the goods they received
-   violated somebody else's intellectual property rights.  That would
+   infringe somebody else's intellectual property rights.  That would
    be the case if the software under The MIT License didn't actually
    belong to the one trying to license it, or if it fell under a
    patent owned by someone else.
@@ -561,16 +561,17 @@ But these are promises the _licensee_ gives the one providing the
 software.
 
 In general, courts read limitations of liability and damages exclusions
-warily, since they can shift an incredible amount of risk from one side
-to another.  To protect community's vital interest in giving folks a
-way to redress wrongs done in court, they "strictly construe" language
-limiting liability, reading it against the one protected by it where
-possible.  Limitations of liability have to be specific to stand up.
-Especially in "consumer" contracts and other situations where those
-giving up the right to sue lack sophistication or bargaining power,
-courts have sometimes refused to honor language that seemed buried
-out of sight.  Partly for that reason, partly by shear force of habit,
-lawyers tend to give limits of liability the all-caps treatment, too.
+warily, since they can shift an incredible amount of risk from
+one side to another.  To protect the community's vital interest in
+giving folks a way to redress wrongs done in court, they "strictly
+construe" language limiting liability, reading it against the one
+protected by it where possible.  Limitations of liability have to be
+specific to stand up.  Especially in "consumer" contracts and other
+situations where those giving up the right to sue lack sophistication
+or bargaining power, courts have sometimes refused to honor language
+that seemed buried out of sight.  Partly for that reason, partly by
+shear force of habit, lawyers tend to give limits of liability the
+all-caps treatment, too.
 
 Drilling down a bit, the "limitation of liability" part is a cap on
 the amount of money a licensee can sue for.  In open-source licenses,
