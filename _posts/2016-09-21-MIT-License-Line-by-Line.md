@@ -164,9 +164,9 @@ just one clear "copyright holder", the institution releasing
 the code.  Other institutions cribbed these licenses, replacing
 "MIT" with their own names, leading eventually to the generic
 forms we have now.  This process repeated for other short-form
-institutional licenses of the era, notably the [original 4-clause BSD
-License][BSD-4-Clause] for the University of California, Berkeley, now
-used in [three-clause][BSD-2-Clause] and [two-clause][BSD-2-Clause]
+institutional licenses of the era, notably the [original four-clause
+BSD License][BSD-4-Clause] for the University of California, Berkeley,
+now used in [three-clause][BSD-2-Clause] and [two-clause][BSD-2-Clause]
 variants, as well as [The ISC License][ISC] for the Internet Systems
 Consortium, an MIT variant.
 
