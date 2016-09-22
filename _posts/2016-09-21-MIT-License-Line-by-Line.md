@@ -217,7 +217,7 @@ At least under United States copyright law, the resulting copyright
 notice doesn't give a full picture.
 
 The original owner of a piece of software retains ownership of their
-work.  But while MIT-style license terms give others right to build
+work.  But while MIT-style license terms give others rights to build
 on and change the software, creating what the law calls "derivative
 works", they don't give the original author ownership of copyright in
 others' contributions.  Rather, each contributor has copyright in any
