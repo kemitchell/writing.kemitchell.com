@@ -251,10 +251,12 @@ code expected the project to distribute their code, and for others
 to use it under the kernel's existing license terms.  The kernel also
 maintains a machine-readable `CREDITS` file listing contributors with
 name, affiliation, contribution area, and other metadata.  I've done
-some [experiments][AUTHORS] adapting that approach for projects that
-don't use the kernel's development flow.
+[some][pledge] [experiments][AUTHORS] adapting that approach for
+projects that don't use the kernel's development flow.
 
 [DCO]: http://developercertificate.org/
+
+[pledge]: https://github.com/berneout/berneout-pledge
 
 [AUTHORS]: https://github.com/berneout/authors-certificate
 
