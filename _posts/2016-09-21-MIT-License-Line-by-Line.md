@@ -181,7 +181,7 @@ for hire][WMFH]" rules, that give employers and clients ownership of
 copyright in some work their employees and contractors do on their
 behalf.  These rules don't usually apply to distributed collaborators
 submitting code voluntarily.  This poses a problem for project-steward
-foundations, like the Eclipse Foundation and Apache Foundation, that
+foundations, like the Apache Foundation and Eclipse Foundation, that
 accept contributions from a more diverse group of contributors.
 The usual foundation approach thus far has been to use a house
 license that states a single copyright holder---[Apache 2.0] and
