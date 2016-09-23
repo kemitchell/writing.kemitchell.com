@@ -121,7 +121,7 @@ use the standard form text.  All of this can be [automated][licensor].
 Until the 1976 Copyright Act, United States copyright law required
 specific actions, called "formalities", to secure copyright in
 creative works.  If you didn't follow those formalities, your rights
-to sue others for unauthorized use of your work was limited, often
+to sue others for unauthorized use of your work were limited, often
 completely lost.  One of those formalities was "notice":  Putting
 marks on your work and otherwise making it known to the market that
 you were claiming copyright.  The &copy; is a standard symbol for
