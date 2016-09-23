@@ -118,15 +118,16 @@ use the standard form text.  All of this can be [automated][licensor].
 
 > Copyright (c) \<year\> \<copyright holders\>
 
-Until 1976, United States copyright law required specific actions,
-called "formalities", to secure copyright in creative works.  If you
-didn't follow those formalities, your rights to sue others for
-unauthorized use of your work was limited, often completely lost.
-One of those formalities was "notice":  Putting marks on your work
-and otherwise making it known to the market that you were claiming
-copyright.  The &copy; is a standard symbol for marking copyrighted
-works, to give notice of copyright.  The ASCII character set doesn't
-have the &copy; symbol, but `Copyright (c)` gets the same point across.
+Until the 1976 Copyright Act, United States copyright law required
+specific actions, called "formalities", to secure copyright in
+creative works.  If you didn't follow those formalities, your rights
+to sue others for unauthorized use of your work was limited, often
+completely lost.  One of those formalities was "notice":  Putting
+marks on your work and otherwise making it known to the market that
+you were claiming copyright.  The &copy; is a standard symbol for
+marking copyrighted works, to give notice of copyright.  The ASCII
+character set doesn't have the &copy; symbol, but `Copyright (c)`
+gets the same point across.
 
 The 1976 Copyright Act, which "implemented" many requirements
 of the international Berne Convention, eliminated formalities
