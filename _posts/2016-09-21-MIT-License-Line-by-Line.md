@@ -500,8 +500,8 @@ debate about whether software counts as "goods", triggering the UCC's
 rules. There is no debate among licensors on liability: They don't want
 to get sued for lots of money if the software they give away for free
 breaks, causes problems, doesn't work, or otherwise causes trouble.
-That's exactly the opposite of what three kinds of default rules for
-"implied warranties" do:
+That's exactly the opposite of what three default rules for "implied
+warranties" do:
 
 1. The implied warranty of "merchantability" under [UCC section
    2-314][UCC 2-314] is a promise that "the goods"---the Software---are
