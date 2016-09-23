@@ -341,7 +341,7 @@ of a license, the court will see its job as finding out what those
 fighting meant by the language.  If the court needs to decide what
 "deal in" means, it cannot "unsee" the examples, even if you tell
 it to.  I'd argue that "deal in the Software without restriction"
-alone would be better for licensees.  Also, shorter.
+alone would be better for licensees.  Also shorter.
 
 Second, the verbs given as examples of "deal in" are a hodgepodge.
 Some have specific meanings under copyright or patent law, others
