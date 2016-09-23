@@ -625,10 +625,6 @@ faithful legal service it will have given when it finally loses favor.
 It's been especially generous to those who couldn't have afforded
 their own lawyer.
 
-We've seen how The MIT Licenses grants permission for software to all,
-for free, subject to conditions that protect licensors from warranties
-and liability.
-
 We've seen how the The MIT License we know today is a specific,
 standardized sets of terms, bringing order at long last to a chaos
 of institution-specific, haphazard variations.
@@ -636,6 +632,10 @@ of institution-specific, haphazard variations.
 We've seen how its approach to attribution and copyright notice
 informed intellectual property management practices for academic,
 standards, commercial, and foundation institutions.
+
+We've seen how The MIT Licenses grants permission for software to all,
+for free, subject to conditions that protect licensors from warranties
+and liability.
 
 We've seen that despite some crusty verbiage and lawyerly affectation,
 one hundred and seventy one little words can get a hell of a lot of
