@@ -229,13 +229,12 @@ code as a starting point.
 
 Most of these projects also balk at the idea of taking contributor
 license agreements, to say nothing of signed copyright assignments.
-That's both naive and understandable.  Despite the assumption of some
-newer open-source developers that sending a pull request on GitHub
-"automatically" licenses the contribution for distribution on the
-terms of the project's existing license---what Richard Fontana of Red
-Hat calls "inbound=outbound"---United States law doesn't recognize any
-such rule.  Strong copyright _protection_, not permissive licensing,
-is the default.
+That's both naive and understandable.  Despite the assumption of
+some newer open-source developers that sending a pull request on
+GitHub "automatically" licenses the contribution for distribution
+on the terms of the project's existing license, United States law
+doesn't recognize any such rule.  Strong copyright _protection_,
+not permissive licensing, is the default.
 
 To fill the gap between legally effective, well-documented grants
 of rights in contributions and no paper trail at all, some projects
