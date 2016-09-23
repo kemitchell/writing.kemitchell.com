@@ -559,8 +559,8 @@ the law does not assume that folks receiving licenses free of charge
 give up their rights to sue when things go wrong and the licensor is
 to blame.  "Limitations of liability", often paired with "damages
 exclusions", work a lot like licenses, as promises not to sue.
-But these are promises the _licensee_ gives the one providing the
-software.
+But these are protections for the _licensor_ against from lawsuits
+by _licensees_.
 
 In general, courts read limitations of liability and damages exclusions
 warily, since they can shift an incredible amount of risk from
