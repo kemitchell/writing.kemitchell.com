@@ -572,7 +572,7 @@ specific to stand up.  Especially in "consumer" contracts and other
 situations where those giving up the right to sue lack sophistication
 or bargaining power, courts have sometimes refused to honor language
 that seemed buried out of sight.  Partly for that reason, partly by
-shear force of habit, lawyers tend to give limits of liability the
+sheer force of habit, lawyers tend to give limits of liability the
 all-caps treatment, too.
 
 Drilling down a bit, the "limitation of liability" part is a cap on
