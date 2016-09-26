@@ -368,7 +368,7 @@ almost do or just plain don't:
 -  _publish_ doesn't appear in either copyright or patent statute.
    Since "the Software" is what's being published, it probably hews
    closest to "distribute" under the [copyright statute][17 USC 106].
-   That statute also covers rights to perform and display words
+   That statute also covers rights to perform and display works
    "publicly", but those rights apply only to specific kinds of
    copyrighted work, like plays, sound recordings, and motion pictures.
 
