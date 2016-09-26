@@ -641,3 +641,58 @@ We've seen that despite some crusty verbiage and lawyerly affectation,
 one hundred and seventy one little words can get a hell of a lot of
 legal work done, clearing a path for open-source software through a
 dense underbrush of intellectual property and contract.
+
+---
+
+I'm so grateful for all who've taken the time to read this rather long
+post, to let me know they found it useful, and to help improve it.
+As always, I welcome your comments via [e-mail], [Twitter], and
+[GitHub].
+
+[e-mail]: mailto:kyle@kemitchell.com
+
+[Twitter]: https://twitter.com/kemitchell
+
+[GitHub]: https://github.com/kemitchell/writing/tree/master/_posts/2016-09-21-MIT-License-Line-by-Line.md
+
+<a name="further-reading"></a>A number of folks have asked where they
+can read more, or find run-downs of other licenses, like the GNU Public
+License or the Apache 2.0 license.  No matter what your particular
+continuing interest may be, I heartily recommend the following books:
+
+- Andrew M. St. Laurent's _[Understanding Open Source & Free Software
+  Licensing][Understanding]_, from O'Reilly.
+
+  I start with this one because, while it's somewhat dated, its
+  approach is also closest to the line-by-line approach used above.
+  O'Reilly has made it [available online][O'Reilly].
+
+  [Understanding]: https://lccn.loc.gov/2006281092
+
+  [O'Reilly]: http://www.oreilly.com/openbook/osfreesoft/book/
+
+- Heather Meeker's _[The Open Source Alternative][Alternative]_,
+  from Wiley.
+
+  In my opinion, by far the best writing on the GNU Public License
+  and copyleft more generally.  This book covers the history, the
+  licenses, their development, as well as compatibility and compliance.
+  It's the book I lend to clients considering or dealing with the GPL.
+
+  [Alternative]: https://lccn.loc.gov/2007034466
+
+- Larry Rosen's _[Open Source Licensing][Licensing]_, from Prentice Hall.
+
+  A great first book, also available for free [online].  This is
+  the best introduction to open-source licensing and related law for
+  programmers starting from scratch.  This one is also a bit dated
+  in some specific details, but Larry's taxonomy of licenses succinct
+  summary of open-source business models stands the test of time.
+
+  [Licensing]: https://lccn.loc.gov/2004050558
+
+  [online]: http://www.rosenlaw.com/oslbook.htm
+
+All of these were crucial to my own education as an open-source
+licensing lawyer.  Their authors are professional heroes of mine.
+Have a read! --- K.E.M
