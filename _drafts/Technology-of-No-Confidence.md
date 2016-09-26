@@ -23,7 +23,7 @@ tags:
 > Introduce as a supplement to the Federal Law of November 26, 1996,
 > Number 138-FZ ... the following changes:
 >
-> 1. in paragraph 35 of part 2 \["Ballots" --- K.E.M\], remove sentence
+> 1. in paragraph 35 of part 2 \["Ballots" --- K.E.M.\], remove sentence
 >    3 \["At the end of the list of candidates is placed a line
 >    'Against all candidates' with a blank box placed to its right."
 >    --- K.E.M.\];
@@ -73,16 +73,14 @@ can GOOD---Get Out of Dodge---and ... something, somewhere.
 
 [tactical]: http://lonelymachines.org/mall-ninjas/
 
----
-
 Guns are a peculiar issue; you won't find an argument for equivalent
 Best Coast fascination here.  Guns' inherent danger separates them
 from other objects of a political---or highly politicized---nature.
 It's intuitively wrong to class them with sit-ins, road blockades,
 even uninvited-hoodlums-in-hoodies-broke-some-windows "riots", and
 of course marijuana.  Cut-strength surrogates, like knives and other
-matte-black-and-angry miscellany, promise less killing power, but
-feed the same power-and-agency fantasies as antidote to world-gone-mad
+matte-black-and-angry miscellany promise less killing power, but feed
+the same power-and-agency fantasies as antidote to world-gone-mad
 anxiety.  This scrawny, cannon-fodder-grade specimen your humble author
 carries a pocket knife for apples and books-by-mail, and even _that_
 grandpa-whittles-nothing-caliber toothpick gets a bit of the Walter
@@ -144,28 +142,29 @@ The margin of error manifests in many ways.  By outward appearance,
 it's retrenchment, bunkering, survivalism.  Rather than meet your
 neighbors---in the neighborhood or in that "other" part of town---you
 cultivate contingency plans to repulse their attacks on your cache of
-canned food.  Rather than vote, you stockpile ammo for a revolution
+canned goods.  Rather than vote, you stockpile ammo for a revolution
 whose results would prove inevitably worse than what any combination
 of candidates on offer could muster.  Consciously or otherwise,
 you _secede_ politically.  To the extent you believe in any kind of
 civic duty, you _abdicate_ the application of reason to that duty.
-Should the worst somehow come to pass---an it hasn't, for quite some
+Should the worst somehow come to pass---and it hasn't, for quite some
 time---you will be historically vindicated, substantially to blame.
 As you might be for any individual behavior that you know, if repeated
 en masse by your peers, would hasten an avoidable tragedy.
 
-As remarked very often by the nonviolent set, there's a natural human
-bias toward seeing violence as unavoidable.  What begins as posturing
-naturally escalates, unchecked by restraint and practice, to a tussle.
-Even if you don't buy that _every_ confrontation yields a nonviolent
-solution---I have seen counterexamples I won't soon forget---you
-can conclude that the error rate of preparedness exceeds that of
-nonviolence.  It follows that architecting incentives to deescalate
-and redirect violent tendencies for oneself becomes a moral imperative
-when possible.  You can conclude that an imperfect situation warrants
-improvement, that both blanking the slate and rebuilding anew would
-exact impose incredible cost with a mere speculative chance of
-offsetting, eventual gain.
+As remarked very often by the nonviolence set, there's a natural
+human bias toward seeing violence as unavoidable.  What begins as
+posturing naturally escalates, unchecked by restraint and practice,
+to a tussle on whatever weapons come to hand.  Even if you don't
+buy that _every_ confrontation yields a nonviolent solution---I have
+seen counterexamples I won't soon forget---you can conclude that the
+moral error rate of preparedness to kill exceeds that of nonviolence.
+It follows that architecting incentives to deescalate and redirect
+violent tendencies for oneself becomes imperative whenever possible.
+You can conclude that an imperfect situation warrants improvement,
+that both blanking the slate and rebuilding anew would exact impose
+incredible cost with a mere speculative chance of offsetting,
+eventual gain.
 
 ---
 
@@ -184,34 +183,34 @@ that meant one-way functions---mathematical operations that are
 easy for computers to work from starting point to result, but
 impractically difficult for anyone to work backwards from result to
 starting point---and trapdoor functions---one-way functions that are
-easy to reverse with a specific hint.
+easy to reverse, but only with a specific hint.
 
 As it turns out, these tools combine to achieve all manner of useful
 tricks, from verifying the authenticity of documents to encrypting
 messages and creating forgery-proof digital signatures.  These tools
 embody natural power imbalances:  If John Q. Public uses [Transport
-Layer Security] to read a blog, the NSA and their billions can't
-find out whether he read the flan recipe or Revolutionary Council
-Meeting minutes.  If a lawyer encrypts a message to a client with
-[PGP], the other side can't read it without the key.
+Layer Security] to read a blog, the NSA and their billions can't find
+out whether he read the flan recipe or Revolutionary Council minutes.
+If a lawyer encrypts a message to a client with [PGP], the other side
+can't read it without the key.
 
 [Transport Layer Security]: https://tools.ietf.org/html/rfc5246
 
 [PGP]: http://openpgp.org/
 
-Those power imbalances can be deployed to redress irksome
-power imbalances preexisting in the world.  Among Cypherpunks and
-Cryptoanarchists, the imbalance of concern was that between individual
-and the state.  Its symptoms are censorship and surveillance,
-especially online.  There was also talk of proactive applications,
-notably voting.
+Those in-built power imbalances can be deployed to redress other,
+irksome power imbalances that precede us on the Pale Blue Dot.
+Among Cypherpunks and Cryptoanarchists, the imbalance of concern was
+that between individual and the state.  Its symptoms are censorship
+and surveillance, especially online.  There was also talk of proactive
+applications, notably voting.
 
 The Cypherpunks won a number of key battles, including legal battles,
 to ensure the availability of tools governments weren't known to
 circumvent.  They won widespread adoption for their approaches among
 companies, notably to secure Internet-based commerce.   They fell flat
 with tools for individual empowerment, which turned out to be finicky,
-opaque, and staunchly resistant to non-crypto-wonk comprehension.
+opaque, and staunchly resistant to non-wonk comprehension.
 
 As it turned out, they still lost.  Companies that adopted
 cryptography-based security to keep electronic commerce transactions
@@ -231,8 +230,17 @@ wrecked the place, and ran.
 As it turned out, the beaucoup data people were also busy applying many
 of the tools of Cryptoanarchism to more mundane problems of running
 data centers massive enough to base all the data in need of databasing.
-When you've more data to base than any computer---even the biggest
-hulk from IBM and friends---can handle, you have to use more than one
-computer.  Making sure all the data goes somewhere, and that somewhere
-can be found, is quite a trick.  But the same cryptographic tools
-that make it hard to work a puzzle backwards make it very hard to
+When you've more data to hold than any computer---even the biggest
+hulk from IBM and friends---can carry, you have to use more than
+one computer.  Making sure all the data goes on some computer, and
+that all those many computers play a nice, happy family, is quite
+a trick.  But the same cryptographic tools that make it hard to work
+a puzzle backwards give such computers to dance a bit data Horah
+without stepping on each others' toes.  Bits of data go in the one-way
+functions, and if the data's unique in the system, it's highly, highly
+unlikely a previous solution for some other chunk of data comes out.
+That shared bit of reliable coordination allows us to spread---or
+"distribute"---the task of sharing beaucoup data across beaucoup
+servers.
+
+As usual, this excellent insight happened elsewhere first.
