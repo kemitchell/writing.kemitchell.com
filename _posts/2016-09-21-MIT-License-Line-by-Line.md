@@ -696,3 +696,10 @@ continuing interest may be, I heartily recommend the following books:
 All of these were crucial to my own education as an open-source
 licensing lawyer.  Their authors are professional heroes of mine.
 Have a read! --- K.E.M
+
+---
+
+I license this article under a
+[Creative Commons Attribution-ShareAlike 4.0 license][license].
+
+[license]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
