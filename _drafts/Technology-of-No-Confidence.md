@@ -13,11 +13,10 @@ Translation\]:
 > decisions depriving a citizen of the Russian Federation of the right
 > to carry on a pre-election campaign against all candidates, if the
 > ballot contains the entry "against all"...
->
 
 [Decision]: http://www.echr.ru/documents/doc/12043020/12043020.htm
 
-[Federal Law of the Russian Federation "On ... changes in the form
+Federal Law of the Russian Federation "[On ... changes in the form
 of vote against all candidates..."][Law], signed into law July 12,
 2006 \[Original Translation\]:
 
@@ -27,8 +26,6 @@ of vote against all candidates..."][Law], signed into law July 12,
 > 1\. in paragraph 35 of part 2 \["Ballots"\], remove sentence 3
 > \["At the end of the list of candidates is placed a line 'Against
 > all candidates' with a blank box placed to its right."\];
->
-> \[Related changes to various Federal Laws follow.\]
 
 [Law]: http://pravo.gov.ru/proxy/ips/?docbody=&nd=102107858&rdk=&backlink=1
 
@@ -48,6 +45,7 @@ Dave Grossman, _On Combat_, 1996:
 Nutnfancy, pseudonymous host of prepper videos, "[Without Rule of Law:
 'Don't Hasten the Day'][hasten]", April 1, 2009:
 
+<!--
 > The implications of WROL \[Without Rule of Law\] are extremely
 > serious.  I think they're taken lightly due to some movies and some
 > video games that are out there that kind of paint a picture of, hey,
@@ -58,9 +56,7 @@ Nutnfancy, pseudonymous host of prepper videos, "[Without Rule of Law:
 > desperately thinks or certainly thinks that about WROL. And I'm here
 > to tell that this is extremely dangerous. It's a dangerous way to
 > think of it.  WROL means anarchy. The societal engine is busted.
->
-> ...
->
+-->
 > And this motor which powers society, we've had in operation for
 > a long time.  And again, it lulls us into that false sense of
 > security that that engine is always going to be working. And also,
@@ -138,15 +134,14 @@ everything.  It wasn't until I moved here, and to Oakland in
 particular, that I heard the term "direct action" in casual
 conversation. It took me a while to figure out, since there's not
 exactly a well-edited dictionary of East Bay organizer-speak to buy.
-And, let's be honest, you can't just ask.  Preserve thou cool!
-Act casual and squirrel off to Google it later.
+And, let's be honest, you don't just ask.
 
-As usual, because I'm from Texas, once I finally got it, I also got
-to bite another patch of scar tissue onto my tongue.  Though my
-East Bay friends would (will---Howdy, y'all!) take umbrage, the
-empowered, self-determining buzz "direct action" talk induces is a
-perfect analog to the high my Texas gun-nut, prepper, "[sheepdog]"
-friends are plinking diligently on their weekends to maintain.
+As usual, because I'm from Texas, once I finally got it, I also
+got to bite my tongue a while.  Though my East Bay friends would
+(will---Howdy, y'all!) take umbrage, the empowered, self-determining
+buzz "direct action" talk induces is a perfect analog to the high my
+Texas gun-nut, prepper, "[sheepdog]" friends are plinking diligently
+on their weekends to maintain.
 
 Texas has bad-ass, "Where'd 'ya get that stogie, Sarge?" abbreviations
 for everything.  Like the [Army].  Fortunately, talking and dressing
