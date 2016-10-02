@@ -5,37 +5,131 @@ layout: post
 tags:
 ---
 
+[Decision of the Constitutional Court of the Russian Federation dated
+November 14, 2005][Decision], section 4, second paragraph \[Original
+Translation\]:
+
 > \[A\] federal legislator has not the right to adopt normative
 > decisions depriving a citizen of the Russian Federation of the right
 > to carry on a pre-election campaign against all candidates, if the
 > ballot contains the entry "against all"...
 >
-> --- [Decision] of the Constitutional Court of the Russian Federation
-> dated November 14, 2005, section 4, second paragraph \[Original
-> Translation\]
 
 [Decision]: http://www.echr.ru/documents/doc/12043020/12043020.htm
 
+[Federal Law of the Russian Federation "On ... changes in the form
+of vote against all candidates..."][Law], signed into law July 12,
+2006 \[Original Translation\]:
+
+> Article 1.  Introduce as a supplement to the Federal Law of November
+> 26, 1996, Number 138-FZ ... the following changes:
+>
+> 1\. in paragraph 35 of part 2 \["Ballots"\], remove sentence 3
+> \["At the end of the list of candidates is placed a line 'Against
+> all candidates' with a blank box placed to its right."\];
+>
+> \[Related changes to various Federal Laws follow.\]
+
+[Law]: http://pravo.gov.ru/proxy/ips/?docbody=&nd=102107858&rdk=&backlink=1
+
 ---
 
-> Article 1.
->
-> Introduce as a supplement to the Federal Law of November 26, 1996,
-> Number 138-FZ ... the following changes:
->
-> 1. in paragraph 35 of part 2 \["Ballots" --- K.E.M.\], remove sentence
->    3 \["At the end of the list of candidates is placed a line
->    'Against all candidates' with a blank box placed to its right."
->    --- K.E.M.\];
->
-> \[More changes to various Federal Laws follow.\]
->
-> --- [Federal Law] of the Russian Federation "On ... changes in the form of
-> vote against all candidates...", signed into law by President V.V. Putin
-> July 12, 2006 \[Original Translation\]
+Dave Grossman, _On Combat_, 1996:
 
+> If you have no capacity for violence then you are a healthy
+> productive citizen: a sheep.  If you have a capacity for violence
+> and no empathy for your fellow citizens, then you have defined an
+> aggressive sociopath---a wolf.  But what if you have a capacity
+> for violence, and a deep love for your fellow citizens?  Then you
+> are a sheepdog, a warrior, someone who is walking the hero's path.
+> Someone who can walk into the heart of darkness, into the universal
+> human phobia, and walk out unscathed.
 
-[Federal Law]: http://pravo.gov.ru/proxy/ips/?docbody=&nd=102107858&rdk=&backlink=1
+Nutnfancy, pseudonymous host of prepper videos, "[Without Rule of Law:
+'Don't Hasten the Day'][hasten]", April 1, 2009:
+
+> The implications of WROL \[Without Rule of Law\] are extremely
+> serious.  I think they're taken lightly due to some movies and some
+> video games that are out there that kind of paint a picture of, hey,
+> it's gonna be kind of adventurous, kind of fun, you know, we'll have
+> our guns, we'll be able to protect ourselves, we'll pop some rounds,
+> and, overall, we'll be able to do whatever we want, kinda like,
+> you know, party time. And I think a lot of the younger generation
+> desperately thinks or certainly thinks that about WROL. And I'm here
+> to tell that this is extremely dangerous. It's a dangerous way to
+> think of it.  WROL means anarchy. The societal engine is busted.
+>
+> ...
+>
+> And this motor which powers society, we've had in operation for
+> a long time.  And again, it lulls us into that false sense of
+> security that that engine is always going to be working. And also,
+> it doesn't mean the engine is perfect.
+>
+> ...
+>
+> There are problems.  But I am a big advocate of working through
+> the system, as much as you possibly can. Write your representative,
+> write your congressman, be as politically active and work through
+> the mechanism that is there to affect changes.  And society will
+> always have problems.  And I would be very careful about recommending
+> that we just unbolt the engine and throw it into the bay, and start
+> walking.  'Cause if that's ... if you're advocating civil war to
+> rectify the loss of freedoms, that's what you're saying.  "I'm willing
+> to go into WROL to make this happen."
+>
+> I think the apple will drop from the tree all by itself.  ...
+> I think WROL will happen on its own.  And, unfortunately, I think
+> we will see the day in our lifetime when it happens.  And I think
+> it will be long-term.
+>
+> ...
+>
+> I do know that you've gotta maximize your time while things are good.
+> And right now, overall, things are pretty darn good.
+>
+
+[hasten]: https://www.youtube.com/watch?v=xPVSE5jg_LY
+
+---
+
+Satoshi Nakamoto, pseudonymous inventor of Bitcoin, "[Re: Bitcoin P2P
+e-cash paper][Satoshi]", November 7, 2008:
+
+> > \[Lengthy exposition of vulnerability of a systm to use-of-force
+> > monopolies ellided.\]
+> >
+> > You will not find a solution to political problems in cryptography.
+>
+> Yes, but we can win a major battle in the arms race and gain a new
+> territory of freedom for several years.
+>
+> Governments are good at cutting off the heads of a centrally
+> controlled networks like Napster, but pure P2P networks like Gnutella
+> and Tor seem to be holding their own.
+
+[Satoshi]: http://satoshi.nakamotoinstitute.org/emails/cryptography/4/
+
+Matt Levine, "[Blockchains, Teens and Hedge-Fund Hotels][Levine]",
+Bloomberg View, March 30, 2016:
+
+> > Matt Harris, of Bain Capital Ventures, said he had never seen
+> > such high-powered talent drawn to back end of bank technology in
+> > his 20 years in the space.
+>
+> That, to me, is the great magic of the blockchain.  There have
+> been back-office mechanisms for clearing and settling financial
+> transactions for about as long as there have been financial
+> transactions, and those mechanisms have been computerized for
+> about as long as there have been computers.  But they're called
+> "back office," because no one really wants to look at them.
+> The blockchain, with its romantic back story, techno-libertarian
+> bitcoin associations, high-end marketing by the likes of Blythe
+> Masters, and, sure, why not, technology that is superior to
+> conventional databases for many financial uses, has made the back
+> office the cool place to be.
+
+[Levine]: https://www.bloomberg.com/view/articles/2016-03-30/blockchains-teens-and-hedge-fund-hotels
 
 ---
 
