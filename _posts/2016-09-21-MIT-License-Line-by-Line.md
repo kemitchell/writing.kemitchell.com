@@ -426,7 +426,7 @@ Using the value of the software to the licensee to motivate compliance
 with conditions, even though the licensee paid nothing for the license,
 is the second great idea of open-source licensing.  The last, not
 found in The MIT License, builds off license conditions: "Copyleft"
-licenses like the [GNU Public License][GPL 3.0] use license conditions
+licenses like the [GNU General Public License][GPL 3.0] use license conditions
 to control how those making changes can license and distribute their
 changed versions.
 
@@ -673,7 +673,7 @@ continuing interest may be, I heartily recommend the following books:
 
 - Heather Meeker's _[Open (Source) for Business][For Business]_
 
-  In my opinion, by far the best writing on the GNU Public License
+  In my opinion, by far the best writing on the GNU General Public License
   and copyleft more generally.  This book covers the history, the
   licenses, their development, as well as compatibility and compliance.
   It's the book I lend to clients considering or dealing with the GPL.
