@@ -671,15 +671,14 @@ continuing interest may be, I heartily recommend the following books:
 
   [O'Reilly]: http://www.oreilly.com/openbook/osfreesoft/book/
 
-- Heather Meeker's _[The Open Source Alternative][Alternative]_,
-  from Wiley.
+- Heather Meeker's _[Open (Source) for Business][For Business]_
 
   In my opinion, by far the best writing on the GNU Public License
   and copyleft more generally.  This book covers the history, the
   licenses, their development, as well as compatibility and compliance.
   It's the book I lend to clients considering or dealing with the GPL.
 
-  [Alternative]: https://lccn.loc.gov/2007034466
+  [For Business]: https://www.amazon.com/dp/1511617772
 
 - Larry Rosen's _[Open Source Licensing][Licensing]_, from Prentice Hall.
 
