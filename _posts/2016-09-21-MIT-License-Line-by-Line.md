@@ -702,3 +702,7 @@ I license this article under a
 [Creative Commons Attribution-ShareAlike 4.0 license][license].
 
 [license]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+A [Japanese translation] is available.
+
+[Japanese Translation]: http://postd.cc/mit-license-line-by-line/
