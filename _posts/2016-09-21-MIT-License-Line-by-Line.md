@@ -422,13 +422,13 @@ permission the license offers.  So failing to do what the conditions
 say at least theoretically leaves you open to a lawsuit, probably a
 copyright lawsuit.
 
-Using the value of the software to the licensee to motivate compliance
-with conditions, even though the licensee paid nothing for the license,
-is the second great idea of open-source licensing.  The last, not
-found in The MIT License, builds off license conditions: "Copyleft"
-licenses like the [GNU Public License][GPL 3.0] use license conditions
-to control how those making changes can license and distribute their
-changed versions.
+Using the value of the software to the licensee to motivate
+compliance with conditions, even though the licensee paid nothing
+for the license, is the second great idea of open-source licensing.
+The last, not found in The MIT License, builds off license conditions:
+"Copyleft" licenses like the [GNU General Public License][GPL 3.0]
+use license conditions to control how those making changes can license
+and distribute their changed versions.
 
 ### Notice Condition
 
@@ -655,10 +655,11 @@ As always, I welcome your comments via [e-mail], [Twitter], and
 
 [GitHub]: https://github.com/kemitchell/writing/tree/master/_posts/2016-09-21-MIT-License-Line-by-Line.md
 
-<a name="further-reading"></a>A number of folks have asked where they
-can read more, or find run-downs of other licenses, like the GNU Public
-License or the Apache 2.0 license.  No matter what your particular
-continuing interest may be, I heartily recommend the following books:
+<a name="further-reading"></a>A number of folks have asked where
+they can read more, or find run-downs of other licenses, like the
+GNU General Public License or the Apache 2.0 license.  No matter what
+your particular continuing interest may be, I heartily recommend the
+following books:
 
 - Andrew M. St. Laurent's _[Understanding Open Source & Free Software
   Licensing][Understanding]_, from O'Reilly.
@@ -673,7 +674,7 @@ continuing interest may be, I heartily recommend the following books:
 
 - Heather Meeker's _[Open (Source) for Business][For Business]_
 
-  In my opinion, by far the best writing on the GNU Public License
+  In my opinion, by far the best writing on the GNU General Public License
   and copyleft more generally.  This book covers the history, the
   licenses, their development, as well as compatibility and compliance.
   It's the book I lend to clients considering or dealing with the GPL.
