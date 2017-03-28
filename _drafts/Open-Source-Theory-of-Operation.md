@@ -53,17 +53,39 @@ These limits on intellectual property are very important, but complex, unreliabl
 
 # Field Guide to Standard Open Source Licenses
 
-|                         | Permissive                      | Copyleft         |
-|-------------------------|---------------------------------|------------------|
-| Vague or Copyright-Only | MIT, BSD-2-Clause, BSD-3-Clause | GPL-2.0          |
-| Explicit Patent License | Apache-2.0                      | GPL-3.0, MPL-2.0 |
+|                         | Permissive                      | Copyleft                  |
+|-------------------------|---------------------------------|---------------------------|
+| Vague or Copyright-Only | MIT, BSD-2-Clause, BSD-3-Clause | GPL-2.0                   |
+| Explicit Patent License | Apache-2.0                      | GPL-3.0, MPL-2.0, EPL-1.0 |
 
-# Taxonomy of Open-Source Licenses
+# Taxonomy of Common Open-Source Licenses
 
 1.  Permissive Licenses
+    - The MIT License Family
+      - The MIT License
+      - The ISC License
+    - The BSD License Family
+      - BSD-2-Clause
+      - BSD-3-Clause
+    - The Artistic License Family
+      - Artistic-1.0
+      - Artistic-2.0
 2.  Copyleft Licenses
+    - The GNU General Public License Family
+      - The GNU General Public Licenses
+          - GPL-2.0
+          - GPL-3.0
+      - The GNU Lesser General Public License Family
+        - LGPL-2.0
+        - LGPL-2.1
+        - LGPL-3.0
+      - AGPL-3.0
+    - MPL-2.0
 3.  Waivers
+    - CC0-1.0
+    - The Unlicense
 4.  Contrarian Declarations
+    - WTFPL
 
 Some kinds of
 
