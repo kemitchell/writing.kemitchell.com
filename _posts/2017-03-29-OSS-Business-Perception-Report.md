@@ -12,14 +12,14 @@ How does business perceive specific form software public licenses in Q1 2017?  F
 <!--jump-->
 
 License        | Pain   | Confusion | Key Points
----------------|--------|-----------|-------------------------------------------------------------------------------
+---------------|--------|-----------|--------------------------------------------------------------------------------
 [AGPL-3.0]     | ! ! !  | ? ? ?     | Bugbear.  ASP loophole closure works; don't like it.  Relatively new form.
 [Apache-2.0]   | !      | ?         | Best permissive license.  Professionally drafted.  Explicit patent license.
 [Artistic-1.0] | !      | ? ?       | Niched to Perl.  Loosely drafted.  Applied in an important court case.
 [Artistic-2.0] | !      | ?         | Niched to Perl.  Explicit patent license.  Relicensing helps compatibility.
 [BSD-2-Clause] | !      | ? ?       | Ubiquitous.  Permissive.  Unclear if licenses patents.
 [BSD-3-Clause] | !      | ? ?       | Ubiquitous.  Permissive.  Unclear if licenses patents.
-[CC0-1.0]      | !      | ?         | Copyright-only.  Backstop license gives comfort.
+[CC0-1.0]      | !      | ?         | Copyright-only.  Backstop license gives comfort.  Not OSI-approved.
 [EPL-1.0]      | ! !    | ? ?       | Best copyleft license.  Clear patent license.  Professionally drafted.
 [GPL-2.0]      | ! !    | ? ?       | Most popular "community" copyleft license.  Can hire compliance pros.
 [GPL-3.0]      | ! !    | ? ? ?     | Less well understood than GPL-2.0.
