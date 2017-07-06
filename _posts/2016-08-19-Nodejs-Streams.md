@@ -205,7 +205,7 @@ Node.js streams are not the only way to implement streams, even in JavaScript.  
 
 [pull-stream]: https://www.npmjs.com/package/pull-stream
 
-pull-streams are freely translatable to and from current default and object-mode Node.js streams.  There helpful packages to do so.
+pull-streams are freely translatable to and from current default and object-mode Node.js streams.  There are helpful packages to do so.
 
 I like elemental JavaScript patterns, and have had my fair share of problems and "oh, duh" moments with Node.js streams.  But I also find the EventEmitter interface very intuitive, as a longer-serving client-side JavaScript programmer.  There is also something powerful in the way that Node.js streams "resonate" in the EventEmitter concept.  At least to my eye, event handler code and chained `.pipe()` pipelines hint the nature of the underlying operations being performed.
 
