@@ -63,7 +63,7 @@ Streams emit and consume `data` events bearing data payloads of manageable size.
 
 Node.js streams overlay expectations about the kind and ordering of events, as well as the kinds of data they will carry, on top of event emitters.  Once a `Readable` emits `close`, there will be no further `data` events.  Data events will provide `chunk` and `encoding` arguments.  And so on.
 
-That overlay breaks with a few DOM traditions.  Rather than put all the data relevant for an input, like a mouse click, in a single event payload, Node.js streams trickle the data in a succession of event payloads, using a common event name---`data`---so consumers can join them.  Rather than treat the DOM or the client networking API as a single, unitary source of events, bequeathed to JavaScript by the runtime, Node.js programs create and discard many event emitters, each encapsulating events relevant to particular source of data, like an HTTP response or file.  The latter was strongly foreshadowed by `XMLHttpRequest`.
+That overlay breaks with a few DOM traditions.  Rather than put all the data relevant for an input, like a mouse click, in a single event payload, Node.js streams trickle the data in a succession of event payloads, using a common event name---`data`---so consumers can join them.  Rather than treat the DOM or the client networking API as a single, unitary source of events, bequeathed to JavaScript by the runtime, Node.js programs create and discard many event emitters, each encapsulating events relevant to a particular source of data, like an HTTP response or file.  The latter was strongly foreshadowed by `XMLHttpRequest`.
 
 ## Backpressure
 
