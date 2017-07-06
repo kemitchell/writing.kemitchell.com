@@ -146,9 +146,9 @@ pump(
       done()
     }
 
-  )
+  ),
+  fs.createWriteStream('transformed.txt')
 )
-.pipe(fs.createWriteStream('transformed.txt'))
 ```
 
 And for a Writable stream:
