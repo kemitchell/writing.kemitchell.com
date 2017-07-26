@@ -8,7 +8,7 @@ tags:
 - Securities
 ---
 
-The Securities and Exchange Commission released a Report of Investigation of The DAO.  Here are a few takeaways, in the first twenty four hours.  I hope and expect my views to change as I think more on this.
+The Securities and Exchange Commission released a Report of Investigation of The DAO.  Here are a few takeaways, in the first twenty four hours.  I hope and expect my views will change as I think more on this.
 
 ## The Commission won't take Slock.it's heads.
 
