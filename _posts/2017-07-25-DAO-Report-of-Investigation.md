@@ -1,6 +1,6 @@
 ---
 title: Seven Takeaways from the SEC DAO Report
-description:  If the Commission sends a message we don't hear it, is it any less profound?
+description:  reading the tea leaves of the Commission's first major ICO report
 layout: post
 tags:
 - Blockchain
