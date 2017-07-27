@@ -328,7 +328,7 @@ trails off, it won't have been the first honest fishing expedition.
 Blockchain as a whole might be a fishing expedition, at least as far
 as the cryptoanarchists are concerned.
 
-The harder questions is whether, having convinced ourselves that we've
+The harder question is whether, having convinced ourselves that we've
 found a way to solve these governance problems in utter independence
 form the world around us, we _should_ use it.
 
