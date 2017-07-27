@@ -80,7 +80,7 @@ The Commission starts by emphasizing the public statements of Slock.it and other
 
 The Commission then turns to various structural features of The DAO, including the prebaked nature of the protocols, the curator mechanism, and the choice of curators, that took The DAO's governance model away from one of direct tokenholder voting control.  The Commission likes this line of reasoning so much that, after briefly mentioning the facts that show Slock.it and co-founders did _in fact_ act as managers, it returns to the curator structure, recasting the facts directly in the language of the case law.  This is the most legally rigorous, brief-like portion of the report.
 
-The back half of this in-depth analysis is a bit of curve ball.
+The back half of this in-depth analysis is a bit of a curve ball.
 
 > Second, the pseudonymity and dispersion of the DAO Token holders made it difficult for them to join together to effect change or to exercise meaningful control.
 
