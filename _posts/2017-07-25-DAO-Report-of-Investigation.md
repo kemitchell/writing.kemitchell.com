@@ -104,7 +104,7 @@ The _Howey_ test is not the SEC's only game.  Not by far.  They can't help point
 >
 > Note 38:  Because, in part, The DAO never commenced its business operations funding projects, this Report does not analyze the question whether anyone associated with The DAO was an “[i]nvestment adviser” under Section 202(a)(11) of the Investment Advisers Act of 1940 (“Advisers Act”). See 15 U.S.C. § 80b-2(a)(11). Those who would use virtual organizations should consider their obligations under the Advisers Act.
 
-The Investment Company Act of 1940 applies to many companies that take investment to make investment and share returns.  The Investment Advisors Act of 1940 applies to many professionals who advice on investment decisions by others.  Funds, fund managers, and investment advisors learn to play by these rules.
+The Investment Company Act of 1940 applies to many companies that take investment to make investment and share returns.  The Investment Advisors Act of 1940 applies to many professionals who advise on investment decisions by others.  Funds, fund managers, and investment advisors learn to play by these rules.
 
 Part of maximizing your jurisdiction---the natural reflex of all regulatory bodies---is to claim new territory at the borders of your authority.  Part of it is ceding no old ground, even as you seize new.  The SEC is major league, on offense and on defense.
 
