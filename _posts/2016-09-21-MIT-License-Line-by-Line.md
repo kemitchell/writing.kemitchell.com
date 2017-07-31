@@ -633,7 +633,7 @@ It's been especially generous to those who couldn't have afforded
 their own lawyer.
 
 We've seen how the The MIT License we know today is a specific,
-standardized sets of terms, bringing order at long last to a chaos
+standardized set of terms, bringing order at long last to a chaos
 of institution-specific, haphazard variations.
 
 We've seen how its approach to attribution and copyright notice
