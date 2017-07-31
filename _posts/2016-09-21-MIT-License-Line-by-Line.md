@@ -693,8 +693,8 @@ following books:
   A great first book, also available for free [online].  This is
   the best introduction to open-source licensing and related law for
   programmers starting from scratch.  This one is also a bit dated
-  in some specific details, but Larry's taxonomy of licenses succinct
-  summary of open-source business models stands the test of time.
+  in some specific details, but Larry's taxonomy of licenses and succinct
+  summary of open-source business models stand the test of time.
 
   [Licensing]: https://lccn.loc.gov/2004050558
 
