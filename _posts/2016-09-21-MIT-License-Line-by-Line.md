@@ -236,6 +236,13 @@ on the terms of the project's existing license, United States law
 doesn't recognize any such rule.  Strong copyright _protection_,
 not permissive licensing, is the default.
 
+_Update: GitHub later changed its site-wide terms of service to
+include an attempt to flip this default, at least on GitHub.com.
+I've written up some thoughts on that development, not all of them
+positive, in [another post][Nonobvious]._
+
+[Nonobvious]: https://writing.kemitchell.com/2017/02/16/Against-Legislating-the-Nonobvious.html
+
 To fill the gap between legally effective, well-documented grants
 of rights in contributions and no paper trail at all, some projects
 have adopted the [Developer Certificate of Origin][DCO], a standard
