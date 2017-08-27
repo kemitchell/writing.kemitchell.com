@@ -1,0 +1,47 @@
+---
+title: Nobody's Clients
+description:
+layout: post
+tags:
+- Legal Profession
+- Legal Technology
+- Personal Notes
+---
+
+Lawyers have a bad rap for technology adoption.  But I'd guess that lawyers, in general, have been willing to put _more_ time and _more_ money on technology than most, gladly lapping up incremental improvements as they come along.  It is relatively easy to sell a slightly faster printer-scanner-copier, a slightly better smartphone, or a slightly snappier research resource to a busy lawyer.  Easier still to a law firm of many lawyers, with capital to invest and decision makers aloft in the fluffy clouds of firm-wide accounting aggregates and business strategy books-of-the-week.
+
+So willingly has the law adopted the slightly better, next, new-old thing, that it has avoided any "crisis", any externally induced reset and rethink to jog its habits.  These are perennial rites in other industries, which alternately lag and leap-frog the law in perceived process modernity.  But law-doers get just enough faster, more reliable, and even more affordable to retain the prerogative to regulate themselves, and hold some cards to play when method comes up with clients.  Truly "game changing" technologies that strike like bolts of lightning out of the blue are few, far between, or just plain nonexistent, when we take into account not only promised benefits, but also the route to getting there, adoption costs.
+
+One must keep one's clients happy.  And their happiness is little dependent on recurring imposition of new and profound process revelations.  Competing with other lawyers comes mostly down to keeping face by keeping pace on the obvious upgrades, and humming at the same frequency as the current "revolutionary", technocratic buzz.
+
+I stand behind this view as accurate, but incomplete.
+
+For lawyers whose heartstrings run to their clients and stop, it holds.  For lawyers whose eyes wander, covetously, to other lawyers' clients, it also, mostly, holds.  But as soon as we look past the particular legally needy to whom we answer day-to-day, past the books of colleagues we strive to outshine, it breaks down.  If we allow conscience to recall nobody's clients---those who should have counsel, but wade the swamps alone---the crisis is real, persistent, and long-festered.  Longer than living memory.  But easy to forget.  Rarely do nobody's clients visit their frustrations upon not-their-lawyers.  A crisis hardly feels like a crisis when it bears constant self-reminder.
+
+So it's no wonder that, as a community, business lawyers haven't pulled any alarm, run for the exits, counted the dead, and engaged in a chastened rethink on the environmental precursors of the profession's posture---a bipolar distribution of big-dollar lawyers on one hand, mostly anonymous civic martyrs on the other, and a troubled middle drawn between them.  Tried some things for the sake of trying, without preconception, and found what stuck, empirically.
+
+This is no great revelation of mine.  In fact, there's even a catchy, arguably wore-out, term for it: "access to justice".  Perhaps the marketing pull of the coinage carries some weight; I wouldn't deny those who find courage to act from a rallying cry.  But as concerns the particular conscience that rides with me, I hang little hope on set phrases and generalities, even glittering ones.  Better to state it in plain terms, and if at all possible, to think in terms of concrete people.
+
+Here's a start:  Most of the people I grew up with, the people who raised me, couldn't afford my hourly rate.  Neither could the small and family businesses they helmed.  Until I became a lawyer, _I_ wasn't anyone who could afford my hourly rate.  The rate I'm told repeatedly, by friends, colleagues, and even clients, that I should have raised, years ago.
+
+For a time, I held out hope that enough investment in efficiency---automating broad swathes of my practice, from work product generation to billing and record-keeping---would enable me to fan out and address the moral challenge running parallel to the practical challenge of building a good practice.  I've made those investments, and they've payed off many-fold.  I have become, in large measure, a switchboard for all manner of software, systems, adaptable forms, and automation, presented in the user-friendly form of an attorney that clients can engage, call, and send e-mail.  But personally, I'm not built to liaise between clients and a fleet of automated systems, spitting out work product like a clever vending machine.  As I've "succeeded" on my original model, I've done more and more of that, and honestly, I'm bored stiff of it.  I've referred the work more and more often, to focus in on the more occasional, off-the-wall, creative legal projects I've been blessed to receive.  On the more important, client side of things, neither can I be lawyer to everyone who needs my kind of help, nor should everybody with a particular need get one lawyer's point of view.
+
+My first response to this has been to package up work and tools and make them available for free online.  If you want to do open-source license audit, [here you go](https://github.com/jslicense).  If you want to write contracts like I do, collaborate with other attorneys, and distribute your work, [here you go](https://commonform.github.io).  If you want my best forms, [here they are](https://forms.kemitchell.com), in many cases under a [public license](https://github.com/kemitchell/law-form-license/blob/master/LICENSE) written specifically to task.
+
+All have found use in others' hands.  And I like to think at least some of them have helped advance the state of my art.  But it is abundantly, painfully clear that both the work product and even the more general tools will remain niche curios if I don't take more active and direct responsibility for making them known, demonstrated, usable, and used.  In other words, while it's _possible_ to use them without going through me, as lawyer-operator, I need to accept that they're unlikely to make the kind of difference that I hope for if I leave finding and implementing as a daunting exercise for users.  If I believe in what I'm doing, and its potential to make any kind of real difference beyond my own clientele, I need to accept that I'm the one in best position to bring it out from behind my switchboard, perhaps out from behind any lawyer engaging traditionally and using new tooling internally, if that approach just isn't capable of moving the needle.
+
+I've already announced one project in this new vein, [RxNDA](https://rxnda.com), for commercial nondisclosure agreements, the cockroaches of contracts-law practice.  RxNDA will generalize, in time, to sign-and-send for any form contract published through [Common Form](https://commonform.org), adding fuel to the fire of contract standardization and commoditization.  I've [spoken publicly about Common Form more generally](https://www.youtube.com/watch?v=6TcLXMtNYpw), and plan to keep doing so.  There are other projects in the works, many coming out as small-dollar paid services.
+
+This is in direct conflict with two rules that I set for myself, leaving a large firm to start my own practice some years ago:
+
+_Don't write software for money._  In a past life, I wrote software for money. I started very young---seven or so---and kept my skills up through college and law school.  If I let myself return to software, the strong gravity of the San Francisco Bay Area would pull me away from law and back into the industry.
+
+If I was going to have downtime, starting out as a new solo attorney, I needed to fill that time by developing my law practice.  I needed to channel the anxiety that comes with downtime toward where I wanted to go, not where I came from.  The point was to find out if law practice was something I could do and enjoy in a sustainable way, which hadn't been true of independent coding, at least as I practiced it.  If code I must, I'd code to build the kind of law practice I wanted.
+
+_Write software for what you do._  I've lost track of how many pitches I've seen for glittering technologies aimed at law or legal practice that totally missed the  mark.  I've given a few.  It's easy to get excited about, promote, and sometimes even build up products and services that for some reason, obscure from the outside, clear as day on the inside, simply don't jive with legal and client reality, and then decry layers as techno-mules.
+
+To avoid that trap, I'd write software to do tasks that clients were already paying me to do.  Not write software and force my law practice---or clients---into its mold.  To play the law game wisely with software, I'd have to stay in the law game.
+
+Maybe these are exactly the principles that kept me afloat.  Certainly, as an actuarial matter, I should have failed out by now, and crawled back into software contracting to lick my wounds.  But despite the success I've had---success that friends and family have repeatedly encouraged me to celebrate, but for very deep-seated reasons I can't---holding my current pattern, or picking a few areas and embracing process refinement as a specialist, won't do it for me.  If the question was whether I could build a law practice that I could keep me happy-busy 'til they put me six feet under, so far, despite some amazing opportunities, the answer is no.
+
+I suspect nobody's clients have something to do with it.  I need to get real about how I plan to reach them.
