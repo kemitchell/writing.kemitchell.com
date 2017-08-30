@@ -92,8 +92,8 @@ Nutnfancy, pseudonymous host of prepper videos, "[Without Rule of Law:
 Satoshi Nakamoto, pseudonymous inventor of Bitcoin, "[Re: Bitcoin P2P
 e-cash paper][Satoshi]", November 7, 2008:
 
-> > \[Lengthy exposition of vulnerability of a systm to use-of-force
-> > monopolies ellided.\]
+> > \[Lengthy exposition of vulnerability of a system to use-of-force
+> > monopolies elided.\]
 > >
 > > You will not find a solution to political problems in cryptography.
 >
@@ -217,9 +217,10 @@ Why go cold-turkey if the fantasy wasn't hurting anyone?  Why deal
 with the withdrawal---like feeling "naked" without a wallet or
 keys, with a sprinkle of Imminent Death.  Because as overinflated
 as my nightmare-scenarios were and became, there was some kernel
-of truth in them.  Violence and crime are.  They have happened to
+of truth in them.  Violence and crime _are_.  They have happened to
 me and to others I know and love.  Our governments---local, state,
 and federal---do terrible things, much in need of tending and reform.
+
 The power high that comes from a gun as power object masks both the
 extent to which these concerns are grounded, and the extent to which
 they're not.  At worst, it's overkill, a massive dose of palliative,
@@ -233,13 +234,15 @@ neighbors---in the neighborhood or in that "other" part of town---you
 cultivate contingency plans to repulse their attacks on your cache of
 canned goods.  Rather than vote, you stockpile ammo for a revolution
 whose results would prove inevitably worse than what any combination
-of candidates on offer could muster.  Consciously or otherwise,
-you _secede_ politically.  To the extent you believe in any kind of
-civic duty, you _abdicate_ the application of reason to that duty.
-Should the worst somehow come to pass---and it hasn't, for quite some
-time---you will be historically vindicated, substantially to blame.
-As you might be for any individual behavior that you know, if repeated
-en masse by your peers, would hasten an avoidable tragedy.
+of candidates on offer could muster.
+
+Consciously or otherwise, you _secede_ politically.  To the extent
+you believe in any kind of civic duty, you _abdicate_ the application
+of reason to that duty.  Should the worst somehow come to pass---and
+it hasn't, for quite some time---you will be historically vindicated,
+and also substantially to blame.  As you might be for any individual
+behavior that you know, if repeated en masse by your peers, would
+hasten an avoidable tragedy.
 
 As remarked very often by the nonviolence set, there's a natural
 human bias toward seeing violence as unavoidable.  What begins as
@@ -314,7 +317,7 @@ government-cum-business skulduggery continued.  For a young man of
 your author's generation, shuffled out into the economy in 2009, it
 felt rather like the nation had been invaded by a Brooks Brothers-clad
 army---pols, bankers, bureaucrats---who'd grabbed what they could,
-wrecked the place, and ran.
+wrecked the place, and taken flight to gated communities.
 
 As it turned out, the beaucoup data people were also busy applying many
 of the tools of Cryptoanarchism to more mundane problems of running
@@ -324,9 +327,9 @@ hulk from IBM and friends---can carry, you have to use more than
 one computer.  Making sure all the data goes on some computer, and
 that all those many computers play a nice, happy family, is quite
 a trick.  But the same cryptographic tools that make it hard to work
-a puzzle backwards give such computers to dance a bit data Horah
+a puzzle backwards give such computers there wherewithal to dance a bit-data Horah
 without stepping on each others' toes.  Bits of data go in the one-way
-functions, and if the data's unique in the system, it's highly, highly
+functions, and if the data is unique in the system, it's highly, highly
 unlikely a previous solution for some other chunk of data comes out.
 That shared bit of reliable coordination allows us to spread---or
 "distribute"---the task of sharing beaucoup data across beaucoup
