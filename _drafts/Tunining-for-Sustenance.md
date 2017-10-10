@@ -29,11 +29,12 @@ known problems. Problems we're less confident we can solve.
 Don't get me wrong. As a beginner, if instead of making a
 choice I don't really understand, I get a sane default made
 or compellingly suggested for me, I'm that much more likely
-to find my feet and start walking. Making hard choices
-easier makes open source more accessible. Hiding error-prone
-complexity from those liable to trip and fall is progress.
-`npm init --yes` gets you The ISC License. The ISC License
-isn't wrong.
+to find my feet and start walking in software. Making hard
+choices easier makes open source more accessible. Hiding
+error-prone complexity from those liable to trip and fall is
+progress. `npm init --yes` gets you The ISC License. The ISC
+License isn't wrong. Especially if you didn't know
+"license?" would be one of the questions.
 
 But I've noticed that when it comes to community and
 collaboration matters---choice of revision control tool,
@@ -50,38 +51,39 @@ over configuration, version 2.0. Convention for how code
 gets made, rather than what code does, or how.
 
 Careful, experienced hands choosing conventions can
-massively empower greener folk following after them. To give
-a personal example, I'd be pretty embarrassed to admit just
-how much about SQL data stores I "learned" from DHH's Ruby
-on Rails screencasts. Things those screencasts seemed to
-assume I already knew. Things `rails create` assumed I
-wanted.
+massively empower greener folk following timidly after them.
+To give a personal example, I shudder to think just how much
+about SQL data stores I "learned" from DHH's Ruby on Rails
+screencasts. Things about data stores those screencasts
+seemed to assume I already knew. Things `rails create`
+assumed I wanted.
 
 I didn't know much of anything about SQL data stores back
 then. If I knew what I wanted, it probably wasn't very good.
 Oddly enough, now that I do know a thing or two, I find
-myself using SQL data stores less and less. I went from
-using SQL for everything under the sun, because it was what
-I knew, or what I felt good about knowing, and part of
+myself using SQL data stores less and less often. I went
+from using SQL for everything under the sun, because it was
+what I knew, or what I felt good about knowing, and part of
 package that impressed me, to a more nuanced view. SQL data
 stores weren't the "right answer", at least outside of the
 Rails mentality. For a time, however, I think SQL data
-stores, one of a bevy of Rails conventions, were better than
-whatever answer I'd have otherwise given.
+stores, one chapter in an obscure tome of Rails
+conventionality, were good for me, as a programmer.
 
-That's a good open source story, isn't it? I grew up in the
-middle of nowhere in Texas. I ended up in the San Francisco
-Bay Area, neck deep the open source community, putting one
-foot in front of the other. Having choices made for me.
-Making my own choices. Revisiting decisions I didn't know
-had been made for me. Full circle.
+That's a good open source story, isn't it? Starts in the
+middle of nowhere in Texas. Ends today, in the San Francisco
+Bay Area, neck deep in the open source community, paying the
+bills. One step in front of the other in between.  Having
+choices made for me. Making more and more choices on my own.
+Revisiting those that were made for me before. Full circle.
 
 Why can't governance, licensing, collaboration, community
 expectations, and the rest be part of that kind of story?
-Perhaps we should be less confident that the "best
-practices" we advocate today are truly and always best. But
-why impose that doubt on newcomers now, before they've had
-their own changes to come full circle?
+Perhaps we should be more careful, less willing to hold the
+"best practices" we advocate today out as truly and always
+best, more mindful to show our work on them. But why impose
+that doubt on newcomers now, before they've had their own
+chances to come all the way around?
 
 Because governance decisions, culture decisions, community
 decisions, and legal decisions are different.
