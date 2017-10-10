@@ -15,7 +15,8 @@ we resolve them, and what we leave behind, to be reevaluated
 later. Fundamentally, we're social engineering at a pretty
 grand scale, well intentioned or not, invited or not. Wisdom
 starts to look like hard trade-offs and self-doubt a lot
-more often here.  Certainty becomes a warning sign.
+more often here.  Certainty becomes a warning sign.  Some
+things won't be so easy to fix down the line.
 
 When I look at the defaults we're setting for open source
 these days, collectively, I see great cause for concern.  I
