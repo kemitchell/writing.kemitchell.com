@@ -24,9 +24,9 @@ resolve them, and what we leave behind, to show our work.
 If the defaults we pick merely replicate known
 sustainability problems for all the new blood flowing in,
 those who check our work down the line will wonder why we
-took so many choices away.  If we didn't have the answer,
-why didn't we let newcomers find their own way, as we did,
-before them?
+took so many choices away.  If we didn't have the answers,
+why didn't we let newcomers find their own, as we did,
+in our time?
 
 I couldn't call out a single contribution to the new
 "defaults" of open source as ill intentioned or glaringly
