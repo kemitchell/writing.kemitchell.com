@@ -162,10 +162,9 @@ connects those projects.
 
 ## Undefined
 
-We haven't got very far on this problem.  We've socialized a
-name for this problem---"sustainability"---but there's
-nothing like consensus on its definition.  It's very early
-days.
+We've socialized a name for it---"sustainability"---but
+that's about it. There's nothing like consensus on a
+definition.  It's very early days.
 
 When I say "open source sustainability", I think in terms of
 people who give into open source software getting at least
@@ -174,13 +173,13 @@ and happy productive life in software.
 
 That trades one load of definitional mess for another.  But
 it suffices to distinguish what I mean from other
-definitions floating around, express or implied.
+definitions floating around, express and implied.
 Sustainability as ensuring more and better free-to-use
 software keeps pouring out. Sustainability as continuous
-flow of new maintainers ready to take over swamped projects.
+flow of new maintainers ready to take over when others fall.
 I see "sustainability" from the bottom up, in terms of
-individuals adding up, rather than top down, in terms of
-public goods creation, or deduplication of effort,
+individual actions adding up, rather than top down, in terms
+of public goods creation, or deduplication of effort,
 distributed over individuals.
 
 And I see open source as a viable alternative to proprietary
@@ -188,4 +187,4 @@ software across the whole spectrum of what software can do.
 Not localized, say, to beginners training up in the
 community, at one extreme, and deduplication of big-company
 salaryman effort, on the other.  Not confined to the
-interchangeable bits of proprietary compositions.
+interchangeable bits of proprietary products and services.
