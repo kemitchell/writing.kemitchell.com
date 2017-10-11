@@ -180,12 +180,12 @@ software keeps pouring out. Sustainability as continuous
 flow of new maintainers ready to take over when others fall.
 I see "sustainability" from the bottom up, in terms of
 individual actions adding up.  Not from the top down, in
-terms of public goods creation, or deduplication of effort,
-distributed over individuals.
+terms of public goods creation distributed over individuals.
 
 And I see open source as a viable alternative to proprietary
 software across the whole spectrum of what software can do.
 Not localized, say, to beginners training up in the
 community, at one extreme, and deduplication of big-company
 salaryman effort, on the other.  Not confined to the
-interchangeable bits of proprietary products and services.
+generic, interchangeable bits of proprietary products and
+services.  The whole practice of software.
