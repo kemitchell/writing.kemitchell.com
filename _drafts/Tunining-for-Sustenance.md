@@ -28,8 +28,8 @@ took so many choices away.  If we didn't have the answers,
 why didn't we let newcomers find their own, as we did,
 in our time?
 
-I couldn't call out a single contribution to the new
-"defaults" of open source as ill intentioned or glaringly
+I wouldn't call out any single contribution to the new
+"defaults" of open source as ill-intentioned or glaringly
 daft.  But in the aggregate, we're reinforcing problems that
 we know hurt some parts and concepts of our community, and
 advantage others.  We keep ourselves busy confidently
@@ -65,7 +65,7 @@ license: (MIT) _
 ```
 
 Setting sane defaults, especially sane defaults aimed at
-expressing sane community expectations is very, very
+expressing sane community expectations, is very, very
 helpful.  On balance, toolmakers and service stewards are
 right to choose these kinds of defaults.  Even if we're
 willing to concede, when beginners ask, that we don't think
@@ -74,69 +74,71 @@ controversial, or that we don't totally understand all their
 ramifications in every detail.
 
 But I've noticed that when it comes to community and
-collaboration matters, we tend to skip right past "defaults"
-vocabulary, into more treacherous linguistic territory.  We
-reach more readily, not less, for absolutes and
-superlatives: "the norm", "the best way", "best practices".
-We imply not only confidence in the wisdom of our choices,
-borne of our experience in one corner or another of open
-source, but confidence in their exclusive and universal
-_correctness_, alone and in concert with other approaches.
-Often, sensibilities of correctness hold only as far as our
-corner is wide.
+collaboration matters, we tend to skip right past our native
+"defaults" vocabulary, into more treacherous, business-y
+linguistic territory.  We reach more readily, not less, for
+prescriptive absolutes and strident superlatives: "the
+norm", "the standard way", "best practices". We imply not
+only confidence in the wisdom of our choices, borne of our
+experience in one corner or another of open source, but
+confidence in their exclusive and universal _correctness_,
+alone and in a package set.  Often, our sensibilities of
+correctness hold only as far as our corner is wide.
 
-Long story short, what we're doing isn't "best practices",
-it's "defaults", or rather, "convention over configuration".
-Convention for how code gets made, rather than what it does,
-or how.
+What we're doing isn't preaching any gospel.  It's
+"convention over configuration" all over again.  Convention
+for how code gets made, rather than what it does, or how.
 
 I shudder to think just how much about SQL data stores I
 "learned" from DHH's Ruby on Rails screencasts.  Things
 about data stores those screencasts seemed to assume I
 already knew.  Things `rails create` assumed I wanted.  I
 didn't know much of anything about SQL data stores back
-then.  If I knew what I wanted, it probably wasn't very
-good.
+then.  What I knew I wanted, before Rails, wasn't as good as
+what Rails wanted for me.
 
-Oddly enough, now that I do know a thing or two, I find
-myself using SQL data stores less and less.  I went from
-using SQL for everything under the sun, because it was what
-I knew, or what I felt good about knowing, and part of a
-package that impressed me, to a more nuanced view.  SQL data
-stores weren't the "right answer", at least outside of the
-Rails mentality.  For a time, however, I think SQL data
-stores, one chapter in an obscure tome of Rails
+Oddly enough, now that I do know a thing or two, I happen to
+find myself using SQL data stores, and Rails, less and less.
+I went from using SQL for everything under the sun, because
+it was what I knew, or what I felt good about knowing, and
+part of a package that impressed me, to a more nuanced view.
+SQL data stores weren't the "right answer", at least outside
+of the Rails mentality.  For a time, however, I think SQL
+data stores, one chapter in an obscure tome of Rails
 conventionality, were good for me, as a programmer.
 
 That's a good open source story, isn't it? Starts in the
 middle of nowhere in Texas.  Runs up to today, in the San
 Francisco Bay Area, neck deep in the open source community,
 paying the bills.  From A to B, one small step at a time.
-Having choices made for me. Making more choices on my own.
-Revisiting choices. Those I made.  Those made for me.  A
-full, happy circle.
+Having choices made for me. Making ever more choices on my
+own.  Revisiting choices. Those I made.  Those made for me.
+A full, happy circle, each time.
 
 Why can't governance, licensing, collaboration, community
-norms, and the rest be part of that kind of story? Perhaps
+norms, and the rest slot into that kind of story?  Perhaps
 we should be more careful, less willing to hold the "best
 practices" we advocate today out as truly and always best,
 more mindful to show our work on them.  But why impose that
 doubt on newcomers now, before they've had their own chances
-to come all the way around?
+to come all the way around?  Before all that nuance can
+possibly do them any good?
 
 Because governance decisions, culture decisions, community
-decisions, and legal decisions are different.  Their medium
-is people, not code.  People are not so easily replaceable,
-so fundamentally mutable.  Neither are relationships among
-them. Collaborative relationships. Legal relationships.
-Power relationships.  "Normal".
+decisions, and legal decisions are different in kind, at
+least for now.  Their medium is people, directly.  Not code.
+People are not so easily replaceable, so fundamentally
+mutable. Neither are relationships among them. Collaborative
+relationships. Legal relationships. Power relationships.
+"Normal".
 
-Choices made for us have lasting, community-level effects.
-They aggregate in ways we cannot see, ways we respond to,
-sometimes viscerally, long before we understand them.
-Effects we're hard pressed to trace back to root causes,
-especially when the root causes are choices made for us,
-choices that never crossed our minds.
+These kinds of choices, made for us, have lasting,
+community-level effects.  They aggregate in ways we cannot
+see, ways we respond to, sometimes viscerally, long before
+we understand how and why.  They work effects we're hard
+pressed to trace back to root causes, especially when
+original sin was committed way back when, on our behalf.
+When the choice was hidden from us, for our convenience.
 
 ---
 
