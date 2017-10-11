@@ -164,7 +164,8 @@ connects those projects.
 
 We've socialized a name for it---"sustainability"---but
 that's about it. There's nothing like consensus on a
-definition.  It's very early days.
+definition.  It's very early days.  Or rather, we're really
+behind on this thing.
 
 When I say "open source sustainability", I think in terms of
 people who give into open source software getting at least
