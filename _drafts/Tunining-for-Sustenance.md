@@ -179,8 +179,8 @@ Sustainability as ensuring more and better free-to-use
 software keeps pouring out. Sustainability as continuous
 flow of new maintainers ready to take over when others fall.
 I see "sustainability" from the bottom up, in terms of
-individual actions adding up, rather than top down, in terms
-of public goods creation, or deduplication of effort,
+individual actions adding up.  Not from the top down, in
+terms of public goods creation, or deduplication of effort,
 distributed over individuals.
 
 And I see open source as a viable alternative to proprietary
