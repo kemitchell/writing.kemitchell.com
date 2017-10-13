@@ -1,5 +1,5 @@
 ---
-title: Tuning for Sustenance
+title: Unsustainability at Scale
 layout: post
 tags:
 - Open Source
@@ -25,7 +25,7 @@ sustainability problems up to a larger community, those who
 check us down the line will wonder why we prescribed so
 much.  If we didn't have the answers, why didn't we let
 newcomers find their own?  Didn't we grope in the dark, and
-find our own light, in our time?
+find our own way, in our time?
 
 I wouldn't call out any single contribution to the new
 "defaults" of open source as ill-intentioned or glaringly
@@ -33,7 +33,8 @@ daft.  But in the aggregate, we're reinforcing problems that
 we know hurt some parts and concepts of our community, and
 advantage others.  We keep ourselves happy and busy,
 confidently entrenching what we feel we've got down, instead
-of facing down what we don't.
+of facing down what we don't.  That can make the problem
+harder, not easier, to solve.
 
 I have been my own small part of the problem, for all the
 right reasons.  I'd like to talk about that problem, and
