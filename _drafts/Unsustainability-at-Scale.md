@@ -16,16 +16,17 @@ a recipe for the sustainability problem.  The sustainability
 problem we don't know how to solve.
 
 Our community is growing fast.  Part of making open source
-software welcoming to new folks is making more and more
-choices for them, at least to start.  Those of us in
-position to make choices for others should be very, very
-careful which choices we take away, how we resolve them, and
-how we show our work.  If our picks merely scale
+software welcoming to new folks is hiding, making, and
+consciously buying more and more choices for them, at least
+to start.  Those of us in position to guide choices for
+others should be very, very careful which choices we take
+away, how we resolve them, and how we show our work.  If our
+benevolent, friction-minimizing efficiencies merely scale
 sustainability problems up to a larger community, those who
-check us down the line will wonder why we prescribed so
-much.  If we didn't have the answers, why didn't we let
-newcomers find their own?  Didn't we grope in the dark, and
-find our own way, in our time?
+revisit our decisions and their consequences, down the line,
+will wonder why we prescribed so much.  If we didn't have
+the answers, why didn't we let newcomers find their own?
+Didn't we grope in the dark, and find a way, in our time?
 
 I wouldn't call out any single contribution to the new
 "defaults" of open source as ill-intentioned or glaringly
@@ -41,11 +42,12 @@ right reasons.  I'd like to talk about that problem, and
 some reasons.  I'd like to show some work behind choices
 made.  Behind what I'm doing now.
 
+This piece kicks off a series in which I'll try to do just
+that.
+
 ## Concretely
 
-Before we dive in, a concrete example of what I mean by
-"defaults" in open source.  An example that wasn't my call,
-but one I'd've called more or less the same way.
+What do I mean by taking decisions away, or hiding them?
 
 For a long time, `npm init --yes` set license metadata for a
 new JavaScript package to `ISC`, for The ISC License. The
@@ -62,39 +64,41 @@ if you didn't know what any good answers might be.
 On balance, at least in isolation, toolmakers and service
 stewards rightly choose these kinds of defaults.  Even if
 we're willing to concede, when beginners ask, that the
-choices we've baked in aren't perfect---ISC says nothing
-about patents---that they skate over controversy---ISC is a
-permissive license, not a copyleft license---that we don't
-totally understand their ramifications in every
-detail---what's the difference between ISC and MIT, anyway?
+choices we've baked in aren't perfect, that they skate over
+controversy, that we don't totally understand their
+ramifications in every detail.  ISC says nothing about
+patents.  It's a very, very permissive license.  What's the
+difference between ISC and MIT, anyway?
 
 But I've noticed that when it comes to community and
 collaboration matters, rather than more purely "technical"
-topics, we tend to skip right past our native "defaults"
-vocabulary.  We reach more readily for prescriptive
-absolutes and strident superlatives: "the norm", "the
-standard", "best practices". We imply not only confidence in
-the wisdom of our choices, borne of our experience in one
-corner or another of the broad and expanding universe of
-open source, but confidence in their exclusive and universal
-_correctness_, alone and as a package set.  Often, our
-sensibilities of correctness hold only as far as our
-perspectives span wide.  Nobody sees the whole picture.
+topics, we tend to skip past our native, quasi-technical
+vocabulary of defaults and trade-offs.  We reach more
+readily for prescriptive absolutes and strident
+superlatives: "the norm", "the standard", "best practices".
+We imply not only confidence in the wisdom of our choices,
+borne of experience in one corner of the broad and expanding
+universe of open source or another, but confidence in their
+exclusive and universal correctness, alone and as a package
+set.  We may not mean to take such bounding rhetorical
+leaps, but from the outside, and to many newcomers who can't
+yet tell we're code-switching, that's what we seem to do.
 
-We're not preaching any gospel.  We're doing "convention
-over configuration" all over again.  Convention for how code
-gets made, rather than what it does, or how.
+You don't have to scratch that veneer of certainty very deep
+to find doubt.  We're not preaching any gospel, or at least
+any widely accepted gospel.  What we we're doing is
+"convention over configuration" all over again.  Convention
+for how code gets made, rather than what it does, or how.
 
 ## The Wheel
 
-I shudder to think just how much about SQL data stores I
-"learned" from DHH's Ruby on Rails screencasts.  Things
-about data stores those screencasts seemed to assume I
-already knew.  Things `rails create` assumed I wanted.
+What's so bad about convention over configuration, then?
 
-I didn't know much of anything about SQL data stores.  I
-didn't know that was a thing I might want for small
-websites.
+For example, I shudder to think just how much about SQL data
+stores I "learned" from DHH's Ruby on Rails screencasts.
+Things about data stores those screencasts seemed to assume
+I already knew.  Things `rails create` assumed I wanted.
+Things I didn't know much of anything about.
 
 Oddly enough, now that I do know a thing or two, I happen to
 find myself using SQL data stores, and Rails, less and less.
@@ -106,32 +110,33 @@ Rails mentality.  For a time, however, I think SQL data
 stores, one chapter in a tome of Rails conventionality, were
 good for me, as a programmer.
 
-That's a good open source story, isn't it? Starts in the
-middle of nowhere in Texas.  Runs up to today, in the San
-Francisco Bay Area, neck deep in the open source community,
-paying the bills.  From A to B, one small step at a time.
-Having choices made for me. Making more choices on my own.
-Revisiting choices.  Those I made.  Those made for me. A
-full, happy circle, each time.  A progression.
+That's a good open source story, isn't it? Starts in rural
+Texas.  Runs up to today, in the San Francisco Bay Area,
+neck deep in the open source community, paying the bills.
+From A to B, one small step at a time. Having choices made
+for me. Making more choices on my own. Revisiting choices.
+Those I made.  Those made for me. A full, happy circle, each
+time.  A progression.
 
 ## Broken Spokes
 
 Why can't governance, licensing, collaboration, community
 norms, and the rest slot into that kind of story? Sure, we
-should be more careful, more mindful to document what we
+could be more careful, more mindful to document what we
 choose for others, so they can read up when the time comes.
-But why spread our doubts around on newcomers, before
-they've had their chance to do a spin of their own around
-ignorance-to-enlightenment wheel?
+But why spread as-yet irreducible doubt around on newcomers,
+before they've had their chance to do a spin of their own
+around ignorance-to-enlightenment wheel?
 
 Because governance decisions, culture decisions, community
 decisions, and legal decisions are different.  They're
 people decisions, not code decisions, even when we codify
 them in software.  People are not so easily replaceable, so
-fundamentally mutable, engineerable.  Neither are their
-relationships: collaborative relationships, legal
-relationships, relationships of authority, whatever "normal"
-or "open source" mean, and we how we all relate to that.
+fundamentally mutable, engineerable, mendable.  Neither are
+their relationships: collaborative relationships, legal
+relationships, work relationships, relationships of
+authority, whatever "normal" or "open source" mean, and how
+we all relate to that.
 
 We old hands aren't better engineers of community
 sustainability for having engineered a lot of software, or
@@ -141,10 +146,10 @@ motivated.  We know our way around.  Many of us care,
 deeply, about the problem and its casualties.  But it's new
 people, with all their perspective and diversity of
 experience, who are most likely to see the problem in new
-ways, and wander into solutions for a community that looks
-more and more like them.  Sure, they don't know their way
-around the code world quite so well yet.  But they're not so
-set in their ways, either.
+ways, wander into solutions for a community that will only
+look more and more like them.  Sure, they don't know their
+way around quite so well yet.  But they're not so set in the
+ways that make the problem, either.
 
 ## Toolmarks
 
