@@ -1,6 +1,6 @@
 ---
 title: Unsustainability at Scale
-description: teaching the problem
+description: replicating a known problem
 layout: post
 tags:
 - Open Source
@@ -28,9 +28,9 @@ benevolent, friction-minimizing efficiencies merely scale
 sustainability problems up to a larger community, those who
 revisit our decisions and their consequences down the line
 will wonder why we prescribed so much.  If we didn't know
-the way to sustainable outcomes, why didn't we let newcomers
-find their own, but rather confine them to a narrower and
-way, in our own time?
+the way, why didn't we let newcomers find their own, but
+rather confine them to a narrower and narrower?  Didn't we
+find our own way, grasping in the dark, in our time?
 
 I wouldn't call out any single contribution to the new
 "defaults" of open source as ill-intentioned or entirely
@@ -45,30 +45,30 @@ Baking in the ingredients is baking in the problem.
 
 I have been my own small part of the problem, for all the
 right reasons.  I'd like to talk about that problem, and
-some reasons.  I'd like to show some work behind choices
-made.  Behind what I'm doing now.  This post is a start.
+some reasons.  I'd like to show some work.  Here's a start.
 
 ## Concretely
 
 But what do I mean by guiding decisions?  An example's in
-order.  A guiding choice I didn't make myself, but might
-have made in more or less the same way.
+order.  A choice, baked into software, that I didn't make
+myself, but might have made in more or less the same way.
 
 For a long time, `npm init --yes` set license metadata for a
 new JavaScript package to `"ISC"`, for The ISC License. The
-ISC License is rare---except on npm, because it was the
-default---but it's not wrong. Especially if you didn't know
+ISC License is rare---except on npm, for reasons now
+apparent---but it's not wrong.  Especially if you didn't
+know
 
 ```shellsession
 license: _
 ```
 
 would be one of the prompts for a new package.  Especially
-if you didn't know what any good answers might be.
+if you didn't know what any other valid answers might be.
 
 This is one of scores of examples, some longstanding, some
-altogether pretty new of influence applied to other members
-of our community.  Creating a website per project.
+altogether pretty new, of tools obvious encouraging specific
+community behavior.  Creating a website per project.
 Organizing a chat channel for support. Publishing separate
 documentation. Accepting pseudonymous issues and patches.
 Using Git. Releasing many versions. Maximizing platform or
@@ -100,7 +100,7 @@ set.  We may not mean to take such bounding rhetorical
 leaps, but from the outside, and to many newcomers who can't
 yet recognize code-switching, that's the confidence we
 project.  That's the force of orthodoxy the new and insecure
-notice, and internalize.
+are wired to notice, to internalize.
 
 You don't have to scratch the veneer of certainty very deep
 to find doubt.  Doubt, I think, is part of what we're hiding
@@ -120,13 +120,14 @@ seemed to assume I already knew.  Things `rails create`
 assumed I wanted. Things I didn't know much of anything
 about.
 
-Oddly enough, now that I do know a thing or two, I happen to
-find myself using SQL data stores, and Rails, less and less.
-I went from using SQL for everything under the sun, because
-it was what I knew or felt good about knowing, and part of a
-package that impressed me, to a more nuanced view. SQL data
-stores weren't the inevitably right answer, at least outside
-the Rails mentality.  For a time, however, I think SQL data
+Oddly enough, now that I do know a thing or two, in large
+part thanks to the Rails team, I happen to find myself using
+SQL data stores, and Rails, less and less. I went from using
+SQL for everything under the sun, because it was what I knew
+or felt good about knowing, and part of a package that
+impressed me, to a more nuanced view. SQL data stores
+weren't the inevitably right answer, at least outside the
+Rails mentality.  For a time, however, I think SQL data
 stores, one chapter in a tome of Rails conventionality, were
 good for me, as a programmer.
 
@@ -142,21 +143,21 @@ progression.
 ## Exceptions
 
 Why can't governance, licensing, collaboration, community
-norms, and the rest slot into that kind of story? Sure, we
-could be more careful, more mindful to document what we
+norms, and the rest all slot into that kind of story?  Sure,
+we could be more careful, more mindful to document what we
 choose for others, so they can read up when the time comes.
 But why spread as-yet irreducible doubt around on newcomers,
-before they've had their chance to do a spin around
-ignorance-to-enlightenment merry-go-round?
+before they've had their chance to do at least one lap
+around the ignorance-to-enlightenment merry-go-round?
 
 Because governance decisions, culture decisions, community
 decisions, and legal decisions are different.  They're
-people decisions, unavoidably political decisions, not code
+people decisions, unavoidably political decisions.  Not code
 decisions, even when we codify them in software.  People are
 not so easily replaceable, so fundamentally mutable,
 engineerable, mendable.  Neither are their relationships:
 collaborative relationships, legal relationships, work
-relationships, relationships of authority and admiration,
+relationships, relationships of authority or admiration,
 whatever "normal" or "open source" mean, and how we all
 relate to that.  Code is not easy.  But code is the easy
 part when people are involved.
@@ -164,48 +165,57 @@ part when people are involved.
 The making-code conventions on the rise these days unify on
 a theme.  They maximize use of a project by means that
 entail added, ongoing maintenance and attention demands on
-maintainers early on, at the expense of long-term planning
-for commensurate support.  Support that follows no more
-readily from use alone than use follows readily from
-software quality alone. In other words, maximum up-front
-investment for traction, and maximum deferral on means of
-converting that traction into contribution to spread the
-load and fiscal support, to reward and sustain it.  The
-VC-funded startup model, missing just one thing: early and
-recurring shots of anybody else's capital.
+maintainers early and often, at the expense of long-term
+planning for commensurate outside support.  Support that
+follows no more readily from use alone than use follows
+readily from software quality alone.  Defer work on means of
+converting traction into contribution to spread the load and
+fiscal support, to reward and sustain it, until you have
+traction.  It's the VC-funded startup model, with one
+conspicuous omission: anybody else's capital.
 
-Unhelpfully, we speak of use from the very first in
-aspirational terms, as "adoption".  Adoption implies---by
-our choice of the term, assumes---the support and
-contribution we want to see.  Not the steep contributor-user
-amplification factor that defines a successful project in
-the current zeitgeist.
+Unhelpfully, in the jargon, we speak of use in aspirational
+terms from the very first.  We call it "adoption".  Adoption
+implies the support and contribution we want to see, but
+don't, not the steep contributor-user amplification factor
+that defines a successful project in the current zeitgeist.
 
-Unhelpfully, many of the choices we make early on, running
-the gamut from licensing to project scope to the
-expectations all these best practices engender in users,
-aren't readily reversible.  By the time you learn that
+A maintainer accidentally cuts a bad release.  The next
+morning, they find their inbox stuffed with user complaints.
+None of the users were known to the maintainer before the
+breakage.  In fact, the maintainer's shocked by the
+apparent, heretofore unknown popularity of their project.
+In no meaningful sense did those users "adopt" the project.
+They used it.  If all they offer now is specifications for
+more maintainer work, they are using the project.  And the
+maintainer.
+
+Unhelpfully, many of the choices that add up to these kinds
+of outcomes, from licensing to project scope to the
+expectations all these best practices engender in users, get
+made very early on, develop path-dependency over time, and
+defy later correction.  By the time you learn that
 "sustainability" was a whole class of known community
 problems waiting for you all along, you may have surrendered
-every good business model, or watched others take them up,
-and have a pack of rabidly entitled users nipping at your
-heels, baying to swap you out for fresher blood.  You've
-invested all you had, and you've no chips or leverage left
-to play.  Thank you for your service.  Begone.
+every good business model and have a pack of rabidly
+entitled users nipping at your heels, baying to swap you out
+for fresher blood.  You've invested all you had, and you've
+no chips or leverage left to play.  Thank you for your
+service.  Step aside.
 
-Unhelpfully, many old hands will readily tell you to pick
-and choose, to plot a more moderate course.  But the tools
-and services many of them build, guiding, hiding, and making
-those choices for you, assuredly do.  The message built into
+Unhelpfully, if you sit them down, many old hands will
+readily tell you to pick and choose, to plot a more moderate
+course.  But the tools and services many of them build,
+guiding, hiding, and making those choices for you, send a
+very different, implicit message.  The message built into
 those tools and services, their aggregate impression, is
 that best practice is to give more-more-more, ask
 essentially nothing back, and trust that when use outruns
 your wildest dreams, even a remarkably low-yield play
 converting use to sustenance, like begging for-profit
-corporations for money, will keep you going.  In the frame,
-all the practices fostered by the tooling read like a
-checklist, no a dinner menu.  Results are anything but
-moderate.  They go to one extreme.
+corporations for money, will keep you going.  In short, they
+read like a checklist, not a dinner menu.  Results are
+anything but moderate.  Developers go to the extreme.
 
 ## Humility
 
