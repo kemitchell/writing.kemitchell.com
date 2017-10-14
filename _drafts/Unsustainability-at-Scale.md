@@ -1,14 +1,12 @@
 ---
 title: Unsustainability at Scale
-description: replicating a known problem
+description: tomorrow's tools for yesterday's problems today
 layout: post
 tags:
 - Open Source
 - Business Models
 - Licensing
 ---
-
-_first in a series_
 
 Prevailing open source wisdom tells us to make every
 practical choice about projects, from revision control to
@@ -18,71 +16,69 @@ success. But single-minded focus on the adoption problem is
 a recipe for the sustainability problem.  The sustainability
 problem we don't know how to solve.
 
-Our community is growing fast.  Part of making open source
-software welcoming to new folks is guiding, hiding, and
-making some of newcomers' choices for them, at least to
-start.  Those of us in position to do so should be very
-careful which choices we take away, how we resolve them, and
-how we show our work.  If our benevolent,
-friction-minimizing efficiencies merely scale sustainability
-problems up to a larger community, those who revisit down
-the line will wonder why we prescribed so much.  If we
-didn't know the way, why didn't we let newcomers find their
-own?  Didn't we find our way, grasping in the dark, in our
-own time?
+Our community is growing fast.  Part of making open software
+welcoming to new folks is guiding, hiding, and making some
+of newcomers' choices for them, at least to start.  Those of
+us in a position to do so should be very careful which
+choices we take away, how we resolve them, and how we show
+our work. If our benevolent, friction-minimizing
+efficiencies merely scale sustainability problems up to a
+larger community, those who revisit down the line will
+wonder why we prescribed so readily.  If we weren't sure of
+the way, why didn't we let newcomers find their own?  Didn't
+we find our own way, in our own time?
 
 I wouldn't call out any single contribution to the new
 "defaults" of open source as ill-intentioned or entirely
 ill-considered.  But in the aggregate, we're reinforcing
 problems that we know hurt some concepts and constituencies
 of our community, and advantage others.  It's easy to stay
-happy-busy confidently entrenching the little things we feel
-we've got down, instead of facing down what we don't, and
-how it relates.  There will be no _deus ex machina_
-showering rent money and health insurance on maintainers.
-Baking in the ingredients is baking in the problem.
+happy-busy, confidently entrenching the little things we feel
+we've got down, instead of facing down the bigger knock-on
+effects we don't.  There won't be any _deus ex machina_
+showering rent money and health insurance on maintainers any
+time soon.  Meanwhile, baking in the ingredients is baking
+in the problem.
 
 I have been my own small part of the problem, for all the
 right reasons.  I'd like to talk about that problem, and
 some reasons.  I'd like to show some work.  Here's a start.
 
-## Concretely
+---
 
 But what do I mean by guiding decisions?  An example's in
 order.  A choice, baked into software, that I didn't make
 myself, but might have made in more or less the same way.
 
-For a long time, `npm init --yes` set license metadata for a
-new JavaScript package to `"ISC"`, for The ISC License. The
-ISC License is rare---except on npm, for reasons now
-apparent---but it's not wrong.  Especially if you didn't
-know
+For a long time, `npm init --yes` set the license for a new
+JavaScript package to The ISC License.  The ISC License is
+rare---except on npm, for reasons now obvious---but it's not
+wrong.  Especially if you didn't know
 
 ```shellsession
 license: _
 ```
 
 would be one of the prompts for a new package.  Especially
-if you didn't know what any valid answers might be.
+if you didn't know what any good answers might be.
 
 This is one of scores of examples, some longstanding, some
-altogether pretty new, of tools encouraging specific
-community behavior, setting a default.  Creating a website
+pretty recent, of tooling encouraging specific community
+behavior, setting a default.  Default license choice.
+Accepting pseudonymous issues and patches.  Others merely
+encourage additional, affirmative steps.  Creating a website
 per project. Organizing a chat channel for support.
-Publishing separate documentation. Accepting pseudonymous
-issues and patches. Using Git. Releasing many versions.
-Maximizing platform or language version compatibility. The
-list goes on and on.
+Releasing many versions.  The list goes on.
 
 On balance, at least in isolation, toolmakers and service
-stewards rightly facilitate these choices.  Even if we're
+stewards rightly facilitate such approaches.  Even if we're
 willing to concede, when asked, that the choices we
 encourage aren't surefire trade-offs, that they're easy to
 adopt, and hard to maintain, that they skate over
 controversy, that we don't totally understand their
 ramifications in every detail.  ISC is short, but it says
 nothing about patents. It's a very, very permissive license,
-and that's not the only kind.  What's the difference between
+and that's not the only kind. What's the difference between
 ISC and The MIT License, anyway?  And so on.
 
 But I've noticed that when it comes to community and
@@ -109,7 +105,7 @@ any universal gospel, and we know it.  We're doing
 "convention over configuration" again, but for how code gets
 made, rather than what it does, or how.
 
-## Circles
+---
 
 What's so bad about convention over configuration?
 
@@ -125,14 +121,14 @@ part thanks to the Rails team, I happen to find myself using
 SQL data stores, and Rails, less and less. I went from using
 SQL for everything under the sun, because it was what I knew
 or felt good about knowing, and part of a package that
-impressed me, to a more nuanced view. SQL data stores aren't
-the inevitably right answer, at least outside the Rails
-mentality.  For a time, however, I think SQL data stores,
-one chapter in a tome of Rails conventionality, were good
-for me, as a programmer.
+impressed me, to a more nuanced view. SQL data stores first
+aren't the inevitably right answer, at least outside the
+Rails mentality.  For a time, however, I think SQL data
+stores, one chapter in a tome of Rails conventionality, were
+good for me, as a programmer.
 
 That's a good open source story, isn't it? Starts in rural
-Texas, with nothing but a small pipe to the 'Net.  Runs up
+Texas, with nothing but a skinny pipe to the 'Net.  Runs up
 to today, in the San Francisco Bay Area, neck deep in the
 open source community, paying the bills. From A to B, one
 small step at a time. Having choices made for me. Making
@@ -140,7 +136,7 @@ more choices on my own. Revisiting choices. Those I made.
 Those made for me. A full, happy circle, each time.  A
 progression.
 
-## Exceptions
+---
 
 Why can't governance, licensing, collaboration, community
 norms, and the rest all slot into that kind of story?  Sure,
@@ -160,7 +156,7 @@ collaborative relationships, legal relationships, work
 relationships, relationships of authority or admiration,
 whatever "normal" or "open source" mean, and how we all
 relate to that.  Code is not easy.  But code is the easy
-part whenever people are involved.
+part wherever people are involved.
 
 The making-code conventions on the rise these days unify on
 a theme.  They maximize use of a project by means that
@@ -171,58 +167,74 @@ follows no more readily from use alone than use follows
 readily from software quality alone.  But defer work on
 converting traction into contribution, to spread the load,
 and fiscal support, to reward and sustain it, until you have
-traction, anyway.  It's the VC-funded startup model, with
-one conspicuous omission: anybody else's capital.
+traction, all the same.  It's the scattershot, VC-funded
+startup model, with one conspicuous omission: anybody else's
+capital.
 
-Unhelpfully, in the jargon, we dress use up in aspirational
-terminology from the very first.  We call use "adoption".
-Adoption implies the support and contribution we want to see
-in the end, but mostly don't.  Not the steep
-contributor-user leverage that defines a successful open
-project in the current zeitgeist.
+Unhelpfully, we dress use up in aspirational terminology
+from the very first.  We call use "adoption". Adoption
+implies the support and contribution we want and need to
+see, to make all the striving for traction worthwhile.  Not
+the steep leverage of maintainer to contributors and
+supports, the broad, one-way street that defines a
+successful open project in the current zeitgeist.
 
-A maintainer accidentally cuts a bad release.  The next
+So a maintainer accidentally cuts a bad release.  The next
 morning, they find their inbox stuffed with user complaints,
 redundant bug reports.  None of the complaining users were
 known to the maintainer before the breakage.  In fact, the
-maintainer's shocked by the apparent, heretofore unknown
+maintainer's shocked by the apparent, heretofore invisible
 popularity of their project.
 
-In no meaningful sense did those users "adopt" the project.
-They merely used it.  If all they offer now is marching
-orders for still more maintainer work, they are using the
-project, and its maintainer.  They are not "adopting"
-anything.
+Apparently "adoption" was high.  But in no meaningful sense
+did those users "adopt" the project.  They merely used it.
+If all they offer now is marching orders for still more
+maintainer work, stat, they are using the project, and its
+maintainer.  They are not adopting anything, or anyone.
 
 Unhelpfully, many of the choices that add up to these kinds
 of outcomes, from licensing to project scope to the
 expectations all these best practices engender in users, get
 made very early on, develop path-dependency over time, and
 defy later correction.  By the time you learn that
-"sustainability" was a whole class of known community
-problems waiting for you from commit one, you likely passed
-on every good business model.  You may have a pack of
+"sustainability" was a whole class of broadly felt community
+issues waiting for you from commit one, you may have passed
+on every good business model, by choices you never
+considered in that light.  You may have trained a pack of
 rabidly entitled users, nipping at your heels, baying to
-swap you out for fresher blood.  You've invested all you
-had, and you've no chips or leverage left to play.  Thank
-you for your service.  Step aside.
+swap you out for fresher blood.  You may have invested all
+you could afford to give, and more, with no chips or
+leverage left to play.
 
-Unhelpfully, if you sit them down, many old hands will
-readily tell you to pace yourself, pick and choose, plot a
-more moderate course.  But the tools and services many of
-them build send a very different message.  The direction
-built into those tools and services, their aggregate
-impression, is that best practice is to give more-more-more,
-ask essentially nothing back, and trust that when use
-exceeds your wildest dreams, even a remarkably low-yield
-play converting use to sustenance, like begging for-profit
-corporations for money, will keep you going, make you whole.
+Thank you for your service, your generosity.  In the moment,
+considering only the here and now, users outnumber you, and
+have no need of you, and see no use in you.  So step aside,
+pass the baton.
+
+Speaking to them privately, many old hands will readily tell
+you to avoid this trap. To pace yourself, pick and choose,
+plot a more moderate course.  But the tools and services
+many of them use and build send a very different message.
+The direction built into those tools and services, their
+aggregate impression, is that doing software in the open
+right means giving more and more, asking essentially nothing
+in return in the moment, and trusting that when use exceeds
+your wildest dreams, even a remarkably low-yield play
+converting use to sustenance, like begging for-profit
+corporations for money after establishing a willingness to
+work free over a long track record, will keep you going,
+make you whole.
+
 In short, the defaults and practices encouraged by tools and
-platforms may be intended as a menu, but the end up reading
-like a checklist.  Completionism kicks in.  Developers go to
-the extreme.  Harbor guilt if they don't.
+platforms may be intended as a menu, but they end up reading
+like a very costly, overkill-prone checklist.  Completionism
+kicks in. Developers go to the extreme, harbor guilt and
+insecurity when they don't.  Rush in like berserkers, all
+charge, no self-defense.  Last about as long, like
+disposable battering rams, supplanted by those who come to
+fortify the positions they establish.
 
-## Humility
+---
 
 We old hands aren't better engineers of community
 sustainability for having engineered a lot of software, or
@@ -240,16 +252,15 @@ now.  They may not even see the sustainability problem
 coming, or imagine it as a badge of success.  But they're
 not set in the ways that produce that problem, either.
 
-## Motive, Reformed
-
 All my current, public work---from [the blog] to
 [Switchmode] to [License Zero] and the [Berneout]
 experiments---tries to explain developer choices, and also
 to offer new ones.  All to put more informed choosers, and
-more choices, into the open source mix.  All for the chance
-of contributing a component to a new combination that solves
-the sustainability problem.  Not to prescribe existing
-approaches, or to reinforce defaults, that don't.
+more choices, into the open source mix.  All on the off
+chance I might contribute a missing component of a new
+combination that solves the sustainability problem.  Not to
+prescribe existing approaches, or to reinforce defaults,
+that don't.
 
 [the blog]: https://writing.kemitchell.com
 
@@ -265,20 +276,20 @@ nothing like consensus on a definition, even if there's
 broad agreement that certain well publicized episodes
 qualify or exemplify.
 
-My approach is consistent with how I read sustainability
+My approach is consistent with how I read sustainability,
 from the bottom up, in terms of individuals making good and
-rational decisions that add up in a good way.  I think in
-terms of people who give into open source software getting
-at least as much out, at times and in ways sufficient to
-keep them engaged, and rationally so.  In a sustainable open
-source world, developers would do the most valuable work
-they could do, the work they think most helpful to others,
-in the best ways they know how, without fretting they'll
-fall through some gap in a discontinuous value-in, value-out
-equation.  The free-rider problem isn't necessarily solved
-with academic rigor.  But it rarely if ever takes a
-casualty, by withholding or delaying a contributor support
-for so long that they tap out or implode.
+rational decisions that add up in a beneficial way.  I think
+in terms of people who give into open source software
+getting at least as much out, at times and in ways
+sufficient to keep them engaged, and rationally so.  In a
+sustainable open source world, developers would do the most
+valuable work they could do, the work they think most
+helpful to others, in the best ways they know how, without
+fretting they'll fall through some gap in a discontinuous
+value-in, value-out equation.  The free-rider problem isn't
+necessarily solved with all academic rigor.  But it rarely
+if ever takes a casualty, by withholding or delaying a
+contributor support for so long they tap out or implode.
 
 This is not a frivolous world, a socialized artists'
 paradise conscripting humdrum industries into patronage for
@@ -286,32 +297,33 @@ every speculative and fanciful endeavor of a cloistered
 elect. Rather, it's a world where humdrum profit sees its
 way to those producing not just finished products, but
 essential raw materials and components, as well.  A world
-where a good programmer can work, without becoming any
-noteworthy business aberration, from 18 to 80, making a good
-living and non-rivalrous goods all along the way, just as
-they might make a good living and nothing but proprietary
+where a good programmer can work, without becoming a
+celebrated curiosity, from 18 to 80, making a good living
+and non-rivalrous goods all along the way.  Just as they
+could make a good living and nothing but proprietary
 software today.
 
 In a way, I'm trading one blurry definitional mess for
 another.  But it's enough to distinguish my view from the
-other candidate vying for mindshare:  a definition of
+others vying for mindshare.  Not a definition of
 "sustainable" in aggregates, that's satisfied so long as
 more and better free-to-use software keeps falling from the
 sky, if only because naive or financially indifferent
 players can be convinced to keep making it rain.  Not a
 continuous procession of willing maintainers, ready to take
-over, one after another, as their predecessors fall.
+over, one after another, as their predecessors' moments of
+greatness inevitably flicker.
 
 It's hard to define "sustainability" without showing cards
-on the definition of "open source" or "the community"
-itself.  For me, the community will never be just an
-auxiliary to industry, an aggregate to be managed and
-theorized, harvested and leveraged, from the top and the
-outside.  Nor a mere mechanism for deduplication of
-salaryman effort, a demilitarized zone between industry
-giants that can afford to write off a few engineers.  I see
-open source as a viable alternative to proprietary software
-across the whole spectrum of what software can do. Not
-localized to beginners and the addicted.  Not confined to
-the generic, interchangeable bits of proprietary products
-and services.
+on the definition of "open source" or the community itself.
+For me, the community will never be just an auxiliary to
+industry, an aggregate to be managed and theorized,
+harvested and leveraged, from the top and the outside.  Nor
+a clever mechanism for deduplication of salaryman effort, a
+demilitarized zone between industry giants flush enough to
+write off a few engineers.  I see open development as a
+viable alternative to proprietary software across the whole
+spectrum of what software can do.
+
+For reasons I look forward to diving into soon, that
+viability is by no means far-fetched.
