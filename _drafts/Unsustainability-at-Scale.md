@@ -23,7 +23,7 @@ Stepping back, we all see where that leads, how the spread of outcomes will bene
 
 I have paved a turns or two myself, for all the right reasons.  I want to talk about that, and about some of the reasons.  I also want to unify some of the work I'm doing now.  To show some work behind it.
 
-Git workflow.  Identity on GitHub.  Metadata in npm.  Semantic versioning.  Webpage hosting.  License pickers.  Code of Conduct templates.  Continuous integration.  All of these are good things.  All of their implementations embody choices, conscious or incidental, independent of the core utility they deliver.  We can abstract those choices out, consider other permutations, and ask whether they'd add up to today's kind and extent of malfunction.
+Git workflow.  Identity on GitHub.  Metadata in npm.  Semantic versioning.  Webpage hosting.  License pickers.  Code of Conduct templates.  Continuous integration.  All of these are good things.  All of their implementations embody choices, conscious or accidental, independent of the core utility they deliver.  We can abstract those choices out, consider other permutations, and ask whether they'd add up to today's kind and extent of malfunction.
 
 Part of that is critical photojournalism, shining light into dark corners from new angles.  Part of it is being more careful about the language applied to social ills and their precursors.  Avoiding words that cast long shadows.
 
