@@ -21,7 +21,7 @@ In the coming weeks, I'll be looking at a number of tools, platforms, and practi
 
 Stepping back, we all see where that leads, how the spread of outcomes will benefit some parts and concepts of our community at the expense of others.  But as individual, uncoordinated communityfolk, it's so much easier, so much more personally rewarding, to share solutions to the small problems we've got down than to face the bigger, emergent problem we don't.  There's no conspiracy here.  We're paving a well trodden footpath to maintainer Hell one well-meaning patch, feature, and blog post at a time.
 
-I have paved a few turns myself, for all the right reasons.  I want to talk about that, and about some of the reasons.  I also want to unify some of the work I'm doing now.  To show some work behind it.
+I have paved a turns or two myself, for all the right reasons.  I want to talk about that, and about some of the reasons.  I also want to unify some of the work I'm doing now.  To show some work behind it.
 
 Git workflow.  Identity on GitHub.  Metadata in npm.  Semantic versioning.  Webpage hosting.  License pickers.  Code of Conduct templates.  Continuous integration.  All of these are good things.  All of their implementations embody choices, conscious or incidental, independent of the core utility they deliver.  We can abstract those choices out, consider other permutations, and ask whether they'd add up to today's kind and extent of malfunction.
 
