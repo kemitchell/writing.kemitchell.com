@@ -11,7 +11,7 @@ Prevailing open source wisdom tells us to make every practical choice about proj
 
 Our community is growing fast.  Part of making open software development welcoming to new folks is guiding, hiding, and making choices for them, at least to start.  Those of us in position to do so should be very careful which choices we take away, which choices we encourage, and especially which choices we hide.  We should take pains to show our work.
 
-If we merely scale the sustainability problem up to a larger community, help today's hackers replicate yesterday's failure mode  in record time, those who make it that far will revisit our choices down the line, and wonder.  That's where we're headed now.
+If we merely scale the sustainability problem up to a larger community, help today's hackers replicate yesterday's failure mode  in record time, those who make it that far will revisit our choices, and wonder.  That's where we're headed now.
 
 In the coming weeks, I'll be looking at a number of tools, platforms, and practices, each a part of the new, maladaptive "defaults" of open source, and the tolls they take.  But each of those studies will rest in the frame of two general observations:
 
