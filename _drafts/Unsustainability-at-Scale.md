@@ -13,13 +13,13 @@ Our community is growing fast.  Part of making open software development welcomi
 
 If we merely scale the sustainability problem up to a larger community, help today's hackers replicate yesterday's failure mode  in record time, those who make it that far will revisit our choices, and wonder.  That's where we're headed now.
 
-In the coming weeks, I'll be looking at a number of tools, platforms, and practices, each a part of the new, maladaptive "defaults" of open source, and the tolls they take.  But each of those studies will rest in the frame of two general observations:
+In the coming weeks, I'll be looking at a number of tools, platforms, and practices, each a part of the new, maladaptive "defaults" of open source, and the tolls they take.  But each of those studies will fit in the frame of two general observations:
 
 1.  Not a single one gives off the slightest whiff of malice, negligence, or foolishness.  One by one, independently, they hold up.
 
 2.  Collectively, they make a mighty offensive arsenal for stoking adoption, siphoning effort, and expanding scope, and little to nothing in the way of self-preservation or self-defense.  Plenty of ammo.  No life boats.
 
-Stepping back, we all see where that leads, how the spread of outcomes will benefit some parts and concepts of our community at the expense of others.  But as individual, uncoordinated communityfolk, it's so much easier, so much more rewarding, to share solutions to the small problems we've got down than to face the bigger, emergent problem we don't.  There's no conspiracy here.  We're paving a well trodden footpath to maintainer Hell one well-meaning patch, feature, and blog post at a time.
+Stepping back, we all see where that leads, how the spread of outcomes will benefit some parts and concepts of our community at the expense of others.  But as individual, uncoordinated communityfolk, it's so much easier, so much more personally rewarding, to share solutions to the small problems we've got down than to face the bigger, emergent problem we don't.  There's no conspiracy here.  We're paving a well trodden footpath to maintainer Hell one well-meaning patch, feature, and blog post at a time.
 
 I have paved a few turns myself, for all the right reasons.  I want to talk about that, and about some of the reasons.  I also want to unify some of the work I'm doing now.  To show some work behind it.
 
