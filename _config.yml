@@ -8,7 +8,7 @@ highlighter: rouge
 excerpt_separator: "<!--jump-->"
 repository: kemitchell/writing
 repository_url: "https://github.com/kemitchell/writing"
-gems:
+plugins:
 - jekyll-sass-converter
 - jekyll-feed
 exclude:
