@@ -245,7 +245,7 @@ around the ignorance-to-enlightenment merry-go-round?
 
 Because governance decisions, culture decisions, community
 decisions, and legal decisions are different.  They're
-people decisions, unavoidably political decisions, thatplay
+people decisions, unavoidably political decisions, that play
 out on long time scales.  Not code decisions, even when we
 codify them in software.  People are not so easily
 replaceable, so fundamentally mutable, engineerable,
