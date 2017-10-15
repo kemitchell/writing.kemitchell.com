@@ -25,9 +25,9 @@ choices we hide.  We should take pains to show our work.
 
 If we merely scale the sustainability problem up to a larger
 community, help today's hackers replicate yesterday's
-failure mode tomorrow, the ones who make it that far will
-revisit our choices down the line, and wonder.  That's where
-we're headed now.
+failure mode  in record time, the ones who make it that far
+will revisit our choices down the line, and wonder.  That's
+where we're headed now.
 
 In the coming weeks, I'll be looking at a number of tools,
 platforms, and practices, each a part of the new,
@@ -36,14 +36,13 @@ take.  But each of those studies will rest in the frame of
 two general observations:
 
 1. Not a single one gives off the slightest whiff of malice,
-   greed, negligence, or foolishness.  One by one, alone,
+   negligence, or foolishness.  One by one, independently,
    they hold up.
 
-2. Collectively, they make a mighty offensive arsenal---for
-   stoking adoption, siphoning effort, and expanding
-   scope---and little to nothing in the way of
-   self-preservation or self-defense.  Plenty of ammo.  No
-   life boats.
+2. Collectively, they make a mighty offensive arsenal for
+   stoking adoption, siphoning effort, and expanding scope,
+   and little to nothing in the way of self-preservation or
+   self-defense.  Plenty of ammo.  No life boats.
 
 Stepping back, we all see where that leads, how the spread
 of outcomes will benefit some parts and concepts of our
@@ -63,14 +62,15 @@ now.  To show some work behind it.
 Git workflow.  Identity on GitHub.  Metadata in npm.
 Semantic versioning.  Webpage hosting.  License pickers.
 Code of Conduct templates.  Continuous integration.  All of
-these are good things.  All of them embody choices,
-independent of the good they deliver.  We can abstract those
-choices out, consider other permutations, and ask whether
-they'd still add up to today's malfunction.
+these are good things.  All of their implementations embody
+choices, conscious or incidental, independent of the core
+utility they deliver.  We can abstract those choices out,
+consider other permutations, and ask whether they'd add up
+to today's kind and extent of malfunction.
 
-Part of that is photojournalism, shining light into dark
-corners from new angles.  Part of it is being more careful
-about the language applied to social ills and their
+Part of that is critical photojournalism, shining light into
+dark corners from new angles.  Part of it is being more
+careful about the language applied to social ills and their
 precursors.  Avoiding words that cast long shadows.
 
 ## "Sustainability"
@@ -90,33 +90,33 @@ Having said that, it's on me to show my cards.
 I don't think having engineered a lot of software, or having
 internalized the community as it is now, rife with the
 problem, makes anyone better qualified to name or implement
-the social changes needed to avoid the mess we're in.  We're
-motivated.  We know our way around. Many of us care, deeply,
-about open software and its casualties. But I believe it's
-new people, with all their newfangled sensibilities and
-diversity of experience, who are most likely to see the
-problem in new ways, try new approaches, and wander into
-what works for the community that will, in time, belong to
-them.  Sure, they need a little hand holding right now.
-They may not even see the sustainability problem coming, or
-imagine it as a badge of success.  But they're not set in
-the ways that produce that problem, either.
+the social changes needed to extract us from the mess we're
+in.  We're motivated.  We know our way around. Many of us
+care, deeply, about open software and its casualties. But I
+believe it's new people, with all their newfangled
+sensibilities and diversity of experience, who are most
+likely to see the problem in new ways, try new approaches,
+and wander into what works for the community that will, in
+time, belong to them.  Sure, they need a little hand holding
+right now. They may not even see the sustainability problem
+coming, or imagine it as a badge of success.  But they're
+not set in the ways that produce that problem, either.
 
 If you buy the ecosystem metaphor for the community, new
-people bring the diversity that make resilience.  We've hit
-an evolutionary challenge.  If the community overcomes the
-obstacle, it won't work the same as it does now.  Forcing
-new vitality onto well-vetted development paths, via
-standardization, tooling, or platforms, retards
-recombination, suppresses useful variation, hastens
-oblivion.
+people bring the diversity that makes resilience.  We've
+reached an evolutionary impasse.  If the community overcomes
+the obstacle, it will change in the process.  Forcing new
+vitality onto well-vetted development paths, via
+standardization, tooling, platforms, and social norms,
+suppresses variation, retards recombination, hastens crisis
+and, eventually, oblivion.
 
 All my current, public work---from [the blog] to
 [Switchmode] to [License Zero] and the [Berneout]
 experiments---explains developer choices, and offers new
 ones.  All to put more informed choosers, and more choices,
-into the mix.  All on the off one or the other might
-contribute an essential component of a new combination that
+into the mix.  All on the off chance one or the other might
+make an essential contribution to a new combination that
 makes open source projects rational and manageable,
 long-term.  Not to prescribe existing approaches, or to
 reinforce defaults, that don't.
@@ -210,14 +210,14 @@ the first place.  We don't.  Rarer still do the newbies.
 
 ## "Convention"
 
-Doubt, I think, is part of what we're hiding behind the dive
-toward daring diction.  Part of why we take such deep
-satisfaction in seeing our personal choices seconded by
-important platforms and tools.  We're not preaching any
-universal gospel or settled science of open development, and
-deep down, we know it.  We're doing "convention over
-configuration" all over again.  Convention for how code gets
-made, rather than what it does, or how.
+Doubt, I think, is part of what we're hiding behind the
+diversion toward more daring diction.  Part of why we take
+such deep satisfaction in seeing our personal choices
+seconded by important platforms and tools.  We're not
+preaching any universal gospel or settled science of open
+development, and deep down, we know it.  We're doing
+"convention over configuration" all over again.  Convention
+for how code gets made, rather than what it does, or how.
 
 What's so bad about convention over configuration?
 
@@ -258,7 +258,7 @@ part wherever people are involved.
 Sure, new people can turn out a lot of needed code and
 documentation.  But the edifice of open source social
 structure is not nearly so refined, or byzantine, as our
-code.  Beginner's minds, especially with other life
+code.  Beginners' minds, especially with other life
 experience,  are eminently qualified to weigh in on these
 policy challenges.
 
@@ -307,8 +307,8 @@ play.
 Speaking to them privately, many old hands will tell you to
 avoid this trap.  To pace yourself, pick and choose, plot a
 more moderate course.  But the tools and services many of
-them build broadcast a very different message.  The
-direction built into those tools and services, their
+them build broadcast a very different, all-channels message.
+The direction built into those tools and services, their
 aggregate impression, is that doing software in the open
 right means giving more and more, asking essentially nothing
 in return in the moment, and trusting that when use exceeds
@@ -316,13 +316,14 @@ your wildest dreams, even a remarkably low-yield play
 converting use to sustenance will keep you going, make you
 whole.  Like begging for-profit corporations with legally
 mandated financial controls for money, after establishing a
-long track record of willingness to work for free.
+long track record of willingness to work free.
 
 In short, the practices encouraged by tools and platforms
 may be intended as a menu or a toolkit, but they end up
 reading like a very costly, overkill-prone checklist.
 Gamified, completionism kicks in.  Developers go to the
-extreme, harbor guilt and insecurity when they don't.  Rush
-in like cannon fodder, all offense, no defense, last about
-as long, and get carried off the field, wounded, while the
-rear guard holds the new territory.
+extreme, harbor guilt and insecurity when they don't. They
+rush in like cannon fodder, all offense, no defense, last
+about as long, and get carried off the field, wounded, while
+the heavy infantry of the rear guard moves in to hold any
+newly acquired territory.
