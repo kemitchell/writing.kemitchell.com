@@ -18,7 +18,7 @@ A startup selling network surveillance infrastructure to repressive national gov
 
 At a local meetup, Dennis takes a turn at the mic, explaining that he's having trouble finding a paid start in programming, and would appreciate mentorship.  Back by the pizza, he gets the same advice twice:  contribute to open source.  Dennis misses the next meetup, searching "help wanted" issues instead.  An application turns up an interview, but he doesn't get past the code challenge.  The challenge seemed like real work, but they didn't offer any pay for his time on it.  The candidate with the longest GitHub streak gets the job.
 
----
+## ESOMETHING
 
 What's going on here?  Is open source malfunctioning?  If not open source, what's gone wrong?
 
@@ -26,7 +26,7 @@ These kinds of faults occur all the time.  If someone in a similar situation tri
 
 We're flying blind.  The platform we've flocked to hides the context needed to recognize and avoid these wrongs.  With even less of the overall picture than I've sketched in vignette above, we just don't know any better.  We may have the moral equipment to do right, but we don't see when we ought to use it.
 
----
+## @everybone
 
 [I have been @kemitchell since February 18, 2010.](https://api.github.com/users/kemitchell)  During that time, I've marched under many flags---of clients, employers, universities, and foundations---sometimes a few at a time.  But [@kemitchell](https://github.com/kemitchell) I have been, and shall remain.  Not k.e.mitchell@someco.com last week.  Not @otherco/kyle next week.
 
@@ -40,7 +40,7 @@ Glaring in that frame, but otherwise, apparently not.  Sometimes folks bring it 
 
 When I deal with people who know me---personally, professionally, or even exclusively as @kemitchell---they identify @kemitchell with their experience.  They may even project their feelings about @kemitchell onto my affiliations.  If @kemitchell's not so bad, perhaps whoever he's willing to work for couldn't be so bad, either.  I do the same with others.
 
----
+## Hired Guns
 
 In that way, I'd like to think GitHub brings some of the transitive, mercenary rapport characteristic of independents---coders, designers, writers, and independent professionals---to the world of the traditionally employed.  That it draws some of the [W-2](https://en.wikipedia.org/wiki/Form_W-2) masses closer to a midpoint between lifer and freelancer.
 
@@ -64,7 +64,7 @@ These are classic solutions to basic collective action problems, passed down by 
 
 The primary mode of online identity for many of us has ricocheted from the relative context-richness of something like kyle@someco.com, which calls attention to business and business expectations even when they shouldn't matter, to the context-freedom of something like @kemitchell, which doesn't hint any affiliation or pecuniary interest even when it should.  The longest-experienced, most reflective old-timer can make greenhorn mistakes with blinders on.  The same blinders make it damn hard to spot predators, drawn to any margin they can squeeze as to the scent of blood.
 
----
+## Checklists
 
 Meanwhile, a whole new generation is coming up.  They're on GitHub well before their first jobs.
 
@@ -86,7 +86,7 @@ Where I see exceptions, it's usually pretty easy to spot the developers with mea
 
 On the flip side, students, hobbyists, and employees sufficiently insulated from "the business end of business" tend to say nothing at all about money or any other kind of exchange on GitHub, ever.  Why would they?  Those they know are trying to learn, or toying around, or on salary.  Time is never lost.  Experience and dopamine are only gained.  Talking money makes more awkwardness and delay, not more right.  When you're insulated from those concerns, it's nice to stay that way, and easy to forget that others aren't.
 
----
+## Nonzero
 
 In informal, non-business situations, which even the businessiest of businesspeople preserve in their private lives, we trust these imbalances to work themselves out.  We expect any aggregate loss to be offset by something we can't or don't bother counting.  I close your PR.  Later on, you'll close one of mine.  Or one of my friend's, whose time I sopped up on a bug.
 
@@ -96,7 +96,7 @@ Stepping back, we all know the asymmetries that make zeroes unlikely.  We know t
 
 We know, in short, that we could probably count up the gives and takes for all of our friends' hobby work on GitHub, and end up near zeroes as far as we go.  But there are other accounts out there drawn deeply in the negative.  The credits offsetting those debits don't count for less being spread across many volunteers.  Volunteers who couldn't have been worked legally, and ethically, even as interns, for nothing.  Volunteers who would never describe other work directly benefiting for-profit firms with the v-word.
 
----
+## Promo
 
 Other social networks have weathered major storms of controversy about sponsored content, product placements, and other ways business sneaks by in stealth.  Conscientious users settled on norms of disclosure to fill the void.  Conscientious platforms built disclosure right into the interface, into policy.  In part because regulators came around asking questions.
 
