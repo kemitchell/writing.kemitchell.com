@@ -1,6 +1,6 @@
 ---
 title: Mercenary Rapport
-description: social-media identity blinds the conscience of open source
+description: moral blindness in open source as social media
 layout: post
 tags:
 - Open Source
@@ -10,7 +10,7 @@ tags:
 
 _Part of a series, [Unsustainability at Scale](https://writing.kemitchell.com/2017/10/15/Unsustainability-at-Scale.html)_
 
-It's Thursday afternoon.  Javier, Senior Engineer, opens a pull request on the company's open source framework of choice.  It will take six hours of maintainer time to amend and merge, over two weeknights and the weekend.  The pull request adds a feature of immediate use only to the company, which hires a consultancy to roll it out.  The consultancy bills eight hours.  Meanwhile, Javier spends 20% Friday on his own, as-yet unreleased framework.
+It's Thursday afternoon.  Javier, Senior Engineer, opens a pull request on the company's open source framework of choice.  It will take six hours of maintainer time to amend and merge, over two weeknights and the weekend.  The pull request adds a feature of immediate use only to the company, which hires a consultancy to roll it out.  The consultancy bills eight hours.  Meanwhile, Javier spends 20% Friday on his own unreleased framework.
 
 Andy and Marie are Internet friends.  They hack on 3D rendering software together.  Andy has a new job at a design studio doing interactive work, but Marie's still starving for her art.  Andy uses one of Marie's libraries on a work project, and sends her a request to support another file format.  Marie assumes another Andy side project.  She writes the patch, but in no particular hurry.  Andy misses the client deadline.
 
@@ -24,7 +24,7 @@ What's going on here?  Is open source malfunctioning?  If not open source, what'
 
 These kinds of faults occur all the time.  If someone in a similar situation makes your next GitHub notification, will you recognize them?  How?
 
-We're flying blind.  The platform we've flocked to hides the context needed to recognize and avoid these wrongs.  With even less of the overall picture than I've sketched in vignette above, we just don't know any better.  We may have the moral equipment to do right, but we don't see when we ought to use it.
+We're flying blind.  The platform we've flocked to hides the context needed to recognize and steer clear of these wrongs.  With even less of the overall picture than I've sketched in vignette above, we just don't know any better.  We may have the moral equipment to do right, but we don't see when we ought to use it.
 
 ## @everyone
 
@@ -104,4 +104,4 @@ GitHub is for making as well as consuming, and much of what gets made there is f
 
 We could get more good done, and do less wrong, by transparently acknowledging which hat we wear when asking and giving work on open source software.  We should accept the momentary awkwardness, an awkwardness that will pass in time, in posing questions about others' affiliations and support.  Bringing that information out into the open, more of us would be able to make better choices, more of the time.  Choices that would make open source a better lived experience for individuals, and better open source code in the long run, besides.
 
-Socialize a clear, visual language for project support status.  Mention in our pull requests whether we're working, and for whom.  Disclose when our preferences in tools, frameworks, and services follow our business allegiances.  Ask people we do and don't know whether they need financial help, and whether they have help to give to keep the code getting better.  To keep making code in the open a sane, just, and positive life experience.
+Socialize a clear, visual language for project support status.  Mention in our pull requests whether we're working, and for whom.  Disclose when our preferences in tools, frameworks, and services follow our business interests.  Ask people we do and don't know whether they need financial help, and whether they have help to give, to keep the code getting better and the choice to contribute a sane, just, and positive life experience.
