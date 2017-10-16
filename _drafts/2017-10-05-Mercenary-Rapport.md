@@ -7,7 +7,7 @@ tags:
 - GitHub
 ---
 
-_It's Thursday afternoon.  An employee at a large company opens a pull request on the company's preferred open source framework.  It takes six hours of maintainer time to close, over two weeknights and the weekend.  The pull request adds a feature of immediate use only to the company, which hires a consultancy to incorporate and deploy the change.  The consultancy bills eight hours.  Meanwhile, the employee uses their 20% Friday to work on their own, unfinished framework._
+_It's Thursday afternoon.  An employee at a large company opens a pull request on the company's open source framework of choice.  It takes six hours of maintainer time to close, over two weeknights and the weekend.  The pull request adds a feature of immediate use only to the company, which hires a consultancy to incorporate and deploy the change.  The consultancy bills eight hours.  Meanwhile, the employee uses their 20% Friday to work on their own, unfinished framework._
 
 _Andy and Marie are Internet friends.  They hack on 3D rendering software together.  Andy lands a job at a design studio doing interactive work.  Marie's still in starving-artist mode.  Andy uses one of Marie's libraries on a work project, and sends her a request to support another file format.  Andy's so busy, he doesn't think to ask his boss about supporting Marie's work.  Meanwhile, Marie assumes it's for another Andy side project.  She writes the patch, but in no particular hurry.  Andy misses his deadline._
 

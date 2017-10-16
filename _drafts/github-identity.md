@@ -9,7 +9,7 @@ tags:
 
 _Part of a series, [Unsustainability at Scale](https://writing.kemitchell.com/2017/10/15/Unsustainability-at-Scale.html)_
 
-It's Thursday afternoon.  An employee at a large company opens a pull request on the company's preferred open source framework.  It takes six hours of maintainer time to amend and merge, over two weeknights and the weekend.  The pull request adds a feature of immediate use only to the company, which hires a consultancy to roll it out.  The consultancy bills eight hours.  Meanwhile, the employee spends 20% Friday on their own, unfinished framework.
+It's Thursday afternoon.  An employee at a large company opens a pull request on the company's open source framework of choice.  It takes six hours of maintainer time to amend and merge, over two weeknights and the weekend.  The pull request adds a feature of immediate use only to the company, which hires a consultancy to roll it out.  The consultancy bills eight hours.  Meanwhile, the employee spends 20% Friday on their own, unfinished framework.
 
 Andy and Marie are Internet friends.  They hack on 3D rendering software together.  Andy has a new job at a design studio doing interactive work, but Marie's still starving for her art.  Andy uses one of Marie's libraries on a work project, and sends her a request to support another file format.  She writes the patch, but in no particular hurry.  Andy misses the client deadline.
 
