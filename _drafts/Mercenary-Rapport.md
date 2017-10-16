@@ -10,23 +10,23 @@ tags:
 
 _Part of a series, [Unsustainability at Scale](https://writing.kemitchell.com/2017/10/15/Unsustainability-at-Scale.html)_
 
-It's Thursday afternoon.  An employee at a large company opens a pull request on the company's open source framework of choice.  It takes six hours of maintainer time to amend and merge, over two weeknights and the weekend.  The pull request adds a feature of immediate use only to the company, which hires a consultancy to roll it out.  The consultancy bills eight hours.  Meanwhile, the employee spends 20% Friday on their own, unfinished framework.
+It's Thursday afternoon.  Javier, Senior Engineer, opens a pull request on the company's open source framework of choice.  It will take six hours of maintainer time to amend and merge, over two weeknights and the weekend.  The pull request adds a feature of immediate use only to the company, which hires a consultancy to roll it out.  The consultancy bills eight hours.  Meanwhile, Javier spends 20% Friday on his own, as-yet unreleased framework.
 
 Andy and Marie are Internet friends.  They hack on 3D rendering software together.  Andy has a new job at a design studio doing interactive work, but Marie's still starving for her art.  Andy uses one of Marie's libraries on a work project, and sends her a request to support another file format.  Marie assumes another Andy side project.  She writes the patch, but in no particular hurry.  Andy misses the client deadline.
 
-A startup selling network surveillance infrastructure to repressive national governments needs deployment orchestration.  Fortunately, they find a promising, MIT-licensed tool online.  The tool embodies a year's worth of engineer work.  The lead contributor sports an EFF sticker on her laptop during her latest recorded conference talk.  She ends with a plea for financial support; she'd made the conference on her own time and dime.
+A startup selling network surveillance infrastructure to repressive national governments needs deployment orchestration.  Fortunately, they find a promising, MIT-licensed tool online.  The tool embodies a year's worth of very capable engineer work.  The lead contributor sports an EFF sticker on her laptop during her latest recorded conference talk.  She ends with a plea for financial support.  She'd made the conference on her own time and dime.
 
-At a local meetup, Dennis takes a turn at the mic, explaining that he's having trouble finding a paid start in programming, and would appreciate mentorship.  Back by the pizza, he gets the same advice twice:  contribute to open source.  Dennis misses the next meetup, searching "help wanted" issues instead.  An application turns up an interview, but he doesn't get past the code challenge.  The challenge seemed like real work, but they didn't offer any pay for his time on it.  The candidate with the longest GitHub streak gets the job.
+At a local meetup, Dennis takes a turn at the mic, explaining that he's having trouble finding a paid start in programming, and would appreciate mentorship.  Back by the pizza, he gets the same advice twice:  contribute to open source.  Dennis misses the next meetup, searching "help wanted" issues instead.  An application turns up an interview, but he doesn't get past the code challenge.  The challenge seemed like real work, but they didn't offer any pay for his time on it.  The candidate with the degree gets the job.
 
 ## ESOMETHING
 
 What's going on here?  Is open source malfunctioning?  If not open source, what's gone wrong?
 
-These kinds of faults occur all the time.  If someone in a similar situation triggers your next GitHub notification, will you recognize them?  How?
+These kinds of faults occur all the time.  If someone in a similar situation makes your next GitHub notification, will you recognize them?  How?
 
 We're flying blind.  The platform we've flocked to hides the context needed to recognize and avoid these wrongs.  With even less of the overall picture than I've sketched in vignette above, we just don't know any better.  We may have the moral equipment to do right, but we don't see when we ought to use it.
 
-## @everybone
+## @everyone
 
 [I have been @kemitchell since February 18, 2010.](https://api.github.com/users/kemitchell)  During that time, I've marched under many flags---of clients, employers, universities, and foundations---sometimes a few at a time.  But [@kemitchell](https://github.com/kemitchell) I have been, and shall remain.  Not k.e.mitchell@someco.com last week.  Not @otherco/kyle next week.
 
