@@ -7,7 +7,7 @@ tags:
 - Sustainability
 ---
 
-[Also on Medium](https://medium.com/licensezero/unsustainability-at-scale-8d37b3bedccb)
+[_Also on Medium_](https://medium.com/licensezero/unsustainability-at-scale-8d37b3bedccb)
 
 Prevailing open source wisdom tells us to make every practical choice about projects, from revision control to licensing and distribution, to maximize adoption.  Adoption was the community's last great challenge, and remains its latest great success.  But single-minded focus on the adoption problem is a recipe for the sustainability problem. The sustainability problem for which we've no general solution.
 
