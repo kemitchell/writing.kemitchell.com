@@ -36,7 +36,7 @@ Identity that's constant in the social-network way---a consequence of being flui
 
 Folks use GitHub accounts for work all the time.  And when we collaborate with others, we'd be right to ask:  Is this hobby stuff?  Is this for work at a company?  For some paying client?  Your @handle doesn't say.  You may or may not list a job on your profile page, which I have to click for, and that relationship may or may not factor here.  Compared to many popular, public-Internet identity systems of the past, that's a glaring omission.
 
-Glaring in that frame, but otherwise, apparently not.  Sometimes folks bring it up.  But mostly, we just don't.  We don't feel it necessary.  The appliance, its interface, and its model of identity all discourage such feelings.  There's lower friction that way.  Achievement and reputation are more portable that way.
+Glaring in that frame, but otherwise, apparently not.  Sometimes folks bring it up.  But mostly, we just don't.  We don't feel it necessary.  The appliance, its interface, and its model of identity all discourage such feelings.  There's lower friction that way.  Achievement and reputation are more portable that way.  We're comfortable asking much, much more that way.
 
 When I deal with people who know me---personally, professionally, or even exclusively as @kemitchell---they identify @kemitchell with their experience.  They may even project their feelings about @kemitchell onto my affiliations.  If @kemitchell's not so bad, perhaps whoever he's willing to work for couldn't be so bad, either.  I do the same with others.
 
@@ -44,9 +44,9 @@ When I deal with people who know me---personally, professionally, or even exclus
 
 In that way, I'd like to think GitHub brings some of the transitive, mercenary rapport characteristic of independents---coders, designers, writers, and independent professionals---to the world of the traditionally employed.  That it draws some of the [W-2](https://en.wikipedia.org/wiki/Form_W-2) masses closer to a midpoint between lifer and freelancer.
 
-Freelance is how I got my start, and I'm biased.  But the improvement I see isn't nudging people closer to a romanticized, unbeholden Zen of [1099](https://en.wikipedia.org/wiki/Form_1099).  Standing in the middle, and transitioning from one extreme toward another, demonstrates the continuum between, reveals choices made and to be made.  GitHub could do identity any number of ways.  We as a community can layer norms and conventions on top.
+Freelance is how I got my start, and I'm biased.  But the improvement I see isn't nudging people closer to a romanticized, unbeholden Zen of [1099](https://en.wikipedia.org/wiki/Form_1099).  Standing in the middle, and transitioning from one extreme toward another, demonstrates the continuum between, reveals choices made and to be made.  Our platform of choice could do identity any number of ways.  We as a community can layer any number of expectations and conventions on top of that.
 
-GitHub's implementation of social-network identity gives everyone on the platform a bit of the lived experience of the hired-gun coder, but not necessarily any of the education, moral or practical, that comes with it.  None of the kind that would help us make the choices left to us.  The vignettes at the top of this post offend the sense of propriety, the set of conscientious instincts, that I learned as a contractor, fluttering between clients:
+GitHub's implementation of social-network identity gives everyone on the platform a bit of the lived experience of the hired-gun coder, but not necessarily any of the education, moral or practical, that comes with it.  None of the kind that would help us make the choices left to us.  The vignettes at the top of this post offend the sense of propriety, the conscientious instincts, that I learned as a contractor:
 
 > Give as you take.
 >
@@ -60,11 +60,11 @@ GitHub's implementation of social-network identity gives everyone on the platfor
 >
 > Honest pay for honest work.
 
-These are classic solutions to basic collective action problems, passed down by repeat players, and reproduced by each new working generation.  Rules you do your part to enforce, by reputation and occasionally sanction.  Maxims you observe in dealings with your fiercest competitors, because nobody wants to be market leader of a scorched interpersonal wasteland.  General moral principles in specialized application to matters involving money.
+These are classic solutions to basic collective action problems, passed down by repeat players, and reproduced by each new working generation.  Rules you do your part to enforce, by reputation and occasional sanction.  Maxims you observe in dealings with your fiercest competitors, because nobody wants to be market leader of a scorched interpersonal wasteland.  General moral principles in specialized application to matters involving money.
 
-The primary mode of online identity for many of us has ricocheted from the relative context-richness of something like kyle@someco.com, which calls attention to business and business expectations even when they shouldn't matter, to the context-freedom of something like @kemitchell, which doesn't hint any affiliation or pecuniary interest even when it should.  The longest-experienced, most reflective old-timer can make greenhorn mistakes with blinders on.  The same blinders make it damn hard to spot predators, drawn to any margin they can squeeze as to the scent of blood.
+The primary mode of online identity for many of us ricocheted from the relative context-richness of something like kyle@someco.com, which calls attention to business and business expectations even when they shouldn't matter, to the context-freedom of something like @kemitchell, which doesn't hint any affiliation or pecuniary interest even when it should.  The longest-experienced, most reflective old-timer can make greenhorn mistakes with blinders on.  The same blinders make it damn hard to spot predators, drawn to any margin they can squeeze, as if by the scent of blood.
 
-## Checklists
+## School
 
 Meanwhile, a whole new generation is coming up.  They're on GitHub well before their first jobs.
 
