@@ -7,6 +7,8 @@ tags:
 - Sustainability
 ---
 
+[Also on Medium](https://medium.com/licensezero/unsustainability-at-scale-8d37b3bedccb)
+
 Prevailing open source wisdom tells us to make every practical choice about projects, from revision control to licensing and distribution, to maximize adoption.  Adoption was the community's last great challenge, and remains its latest great success.  But single-minded focus on the adoption problem is a recipe for the sustainability problem. The sustainability problem for which we've no general solution.
 
 Our community is growing fast.  Part of making open software development welcoming to new folks is guiding, hiding, and making choices for them, at least to start.  Those of us in position to do so should be very careful which choices we take away, which choices we encourage, and especially which choices we hide.  We should take pains to show our work.
