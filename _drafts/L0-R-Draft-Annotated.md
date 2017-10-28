@@ -183,23 +183,29 @@ L0-R tries to cover these cases correctly as succinctly as possible.
     3. If you modify or extend this software, you must release
        source code for your modification or extension.
 
-Up to this point, L0-R mostly says what other open source licenses have already said, in some new ways.
+Up to this point, L0-R mostly says what other open source licenses have already said before, in some new way.  Condition 3 says something new.
 
-Condition 3 says something new.
-
-"Release" is [defined later in the license](#license).  In essence, it boils down to publishing your source code as open source.  So L0-R allows modification and extension, as long as you share back to the community.
-
-That makes condition 3 is a kind of "copyleft", "reciprocity", or "share-alike" condition.  It uses the power of copyright, including the power to say whether and how others can change copyrighted code, to require that they share their code and give others permission to do likewise.
+"Release" is [defined later in the license](#license).  In essence, it boils down to publishing your source code as open source.  So L0-R allows modification and extension, as long as you share back.  That makes 3 a "copyleft", "reciprocity", or "share-alike" condition.  It uses the power of copyright, the power to say whether and how others can change copyrighted code, to require that they share their code and give others permission to do so.
 
 L0-R condition 3 differs from existing copyleft implementations in a few ways.
 
 Prior copyleft conditions like GPL, AGPL, and MPL, trigger the requirement to share code and apply license terms when you give changed copies of software to others.  They use terms like "distribute", "convey", and "modifications" to set up these triggers.
 
-Under the United States' Copyright Act and other countries' copyright laws, distributing copies is just one of the exclusive rights of copyright holders, just one of the actions copyright holders can sue others for doing without permission.  The Copyright Act's list of rights also include making copies and preparing derivative works.
+Under the United States' Copyright Act, and other countries' copyright laws, distributing copies is just one of the exclusive rights of copyright holders, just one of the actions copyright holders can sue others for doing without permission.  The Copyright Act's list of rights also include making copies and "preparing derivative works", or modifying copies you have.
 
 L0-R condition triggers its requirement to share source code on modification alone, not modification and distribution, or modification and making a copy, or modification and any other kind of action.
 
-The open source community puts a lot of value on the ability to modify software.
+The open source community puts a lot of value on the ability to modify software.  As it does on the ability to distribute changes.  The idea of putting conditions on those freedoms isn't new; that's copyleft.  At a higher level, copyleft is the idea that those kinds of conditions, on freedoms like copying, running, modifying, and distributing, can actually help the community overall.  They can help ensure that more people end up with the freedom to work with the software that matters to them.  They can stop others from taking software from the community, and passing on less freedom on than what they themselves received.
+
+L0-R asks the question:  Why can't copyleft use _more_ of the power of copyleft, more than conditions on distribution with modifications, to require sharing source code and the freedom to work with it?
+
+Proprietary software licenses sure don't limit themselves like that.  Often, when a proprietary software license restricts use to so many concurrent users, or so many installed instances, or running on so many processors, it doesn't say anything at all about which exact exclusive rights of copyright holders are involved.  It's understood, and accepted, that using the software will involve some or maybe all of them---distributing to the contractor or platform provider that will run it for you, copying to put it on the machine that will actually run it, modifying to work in a new environment, copying into memory, and so on.  Proprietary software vendors don't want to create technical loopholes to get out of their limits, based on legal technicalities.  Why should copyleft licenses?
+
+We could answer that question two ways.
+
+On the one hand, we could ask whether we're alright calling a license that uses that kind of legal power an "open source license".  Usually, we think of open source licensing as opting out of legal rules, especially IP rules.  And that's true of many permissive licenses, like MIT and Apache 2.0.  But licenses that use copyright to protect openness have long been a part of our community.
+
+On the other hand, we could ask whether driving that hard a bargain is a good idea, even if it's open source.
 
 ### Sharing Incorporating Programs
 
