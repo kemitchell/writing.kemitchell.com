@@ -1,0 +1,10 @@
+digraph {
+  rankdir=LR;
+  bgcolor="transparent";
+  nodesep=1.5;
+  node[style=filled,fillcolor="white"];
+  "Able" -> "Repository" [label="Original\nSoftware\n(GPL)"];
+  "Repository" -> "BetaCo" [label="Original\nSoftware\n(GPL)"];
+  "BetaCo" -> "Charlene" [label="Patched\nSoftware\n(GPL)"];
+  "Charlene" -> "Able" [label="Patched\nSoftware\n(GPL)",style=dashed];
+}
