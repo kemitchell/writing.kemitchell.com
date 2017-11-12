@@ -30,7 +30,7 @@ The comparison below starts with the [Debian Free Software Guidelines in the ori
 >
 > 4.  Integrity of The Author's Source Code
 >
->     The license may restrict source-code from being distributed in modified form only if the license allows the distribution of "patch files" with the source code for the purpose of modifying the program at build time. The license must explicitly permit distribution of software built from modified source code. The license may require derived works to carry a different name or version number from the original software. <del>(This is a compromise. The Debian group encourages all authors to not restrict any files, source or binary, from being modified.)</del>
+>     The license may restrict source-code from being distributed in modified form <em>only</em> if the license allows the distribution of "patch files" with the source code for the purpose of modifying the program at build time. The license must explicitly permit distribution of software built from modified source code. The license may require derived works to carry a different name or version number from the original software. <del>(This is a compromise. The Debian group encourages all authors to not restrict any files, source or binary, from being modified.)</del>
 >
 > 5.  No Discrimination Against Persons or Groups
 >
