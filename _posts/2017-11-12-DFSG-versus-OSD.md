@@ -52,7 +52,7 @@ The comparison below starts with the [Debian Free Software Guidelines in the ori
 >
 >     The license must not place restrictions on other software that is distributed along with the licensed software. For example, the license must not insist that all other programs distributed on the same medium must be <del>free</del> <ins>open-source</ins> software.
 >
-> 10. <a id="number-10"></a><del>Example Licenses</del> <ins>License Must Be Technology-Neutral</ins><a id=number=10></a>
+> 10. <a id="number-10"></a><del>Example Licenses</del> <ins>License Must Be Technology-Neutral</ins>
 >
 >     <del>The "GPL", "BSD", and "Artistic" licenses are examples of licenses that we consider "free".</del>
 >     <ins>No provision of the license may be predicated on any individual technology or style of interface.</ins>
