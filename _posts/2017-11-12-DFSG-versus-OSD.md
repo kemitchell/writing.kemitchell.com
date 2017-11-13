@@ -50,7 +50,7 @@ The comparison below starts with the [Debian Free Software Guidelines in the ori
 >
 > 9.  License Must Not <del>Contaminate</del> <ins>Restrict</ins> Other Software
 >
->     The license must not place restrictions on other software that is distributed along with <del>with</del> the licensed software. For example, the license must not insist that all other programs distributed on the same medium must be <del>free</del> <ins>open-source</ins> software.
+>     The license must not place restrictions on other software that is distributed along with the licensed software. For example, the license must not insist that all other programs distributed on the same medium must be <del>free</del> <ins>open-source</ins> software.
 >
 > 10. <del>Example Licenses</del> <ins>License Must Be Technology-Neutral</ins>
 >
