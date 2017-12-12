@@ -13,3 +13,9 @@ plugins:
 - jekyll-feed
 exclude:
 - vendor
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      is_post: true

@@ -8,6 +8,17 @@
     <link rel=stylesheet href=/styles.css type=text/css>
     <link rel=stylesheet href=/pygments.css type=text/css>
     <link rel=alternate href=/feed.xml type=application/rss+xml>
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    {% if page.is_post == true %}
+    <meta name="twitter:title" content="{{page.title}}">
+    <meta name="twitter:description" content="{{page.description}}">
+    {% else %}
+    <meta name="twitter:title" content="{{site.name}}">
+    <meta name="twitter:description" content="{{site.description}}">
+    {% endif %}
+    <meta name="twitter:image" content="https://writing.kemitchell.com/placeholder-on-white.png">
+    <meta name="twitter:creator" content="@kemitchell">
   <body>
     <header>
       <a href=/>
