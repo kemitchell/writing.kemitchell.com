@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!doctype html>
-<html lang='en'>
+<html lang=en>
   <head>
-    <meta charset='utf-8'/>
+    <meta charset=utf-8>
     <title>{{ site.name }} {{ page.title }}</title>
-    <link rel='stylesheet' href='/reset.css' type='text/css'/>
-    <link rel='stylesheet' href='/fonts.css' type='text/css'/>
-    <link rel='stylesheet' href='/styles.css' type='text/css'/>
-    <link rel='stylesheet' href='/pygments.css' type='text/css'/>
-    <link href="/feed.xml" rel="alternate" type="application/rss+xml"/>
+    <link rel=stylesheet href=/reset.css type=text/css>
+    <link rel=stylesheet href=/fonts.css type=text/css>
+    <link rel=stylesheet href=/styles.css type=text/css>
+    <link rel=stylesheet href=/pygments.css type=text/css>
+    <link rel=alternate href=/feed.xml type=application/rss+xml>
   <body>
     <header>
-      <a href="/">
-        <img src='/placeholder.png' alt='placeholder'/>
+      <a href=/>
+        <img src=/placeholder.png alt=placeholder>
       </a>
-      <h1>{{ site.name }}</h1>
-      <p class='siteDescription'>&gt;&gt; {{ site.description }}</p>
-      <p class='siteAuthor'>
+      <h1>{{ site.name | smartify}}</h1>
+      <p class=siteDescription>&gt;&gt; {{ site.description | smartify}}</p>
+      <p class=siteAuthor>
         All content by
-        <a href='{{ site.homepage }}'>{{ site.author }}</a>,
+        <a href="{{ site.homepage }}">{{ site.author | smartify}}</a>,
         who is not your attorney.
       </p>
     </header>

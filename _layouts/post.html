@@ -1,18 +1,18 @@
 {% include top.html %}
-<article class='body post'>
+<article class="body post">
   <h1 id=title>{{ page.title }}<small>{{ page.description
       }}</small></h1>
   {{ content }}
-  <p class='signature'>
-    <a href="/">more articles</a>
+  <p class=signature>
+    <a href=/>more articles</a>
     &mdash;
     <a href="{{ site.repository_url }}/commits/master/{{ page.path }}">revision history</a>
     &mdash;
-    <a href="#title">back to top</a>
+    <a href=#title>back to top</a>
   </p>
 </article>
 {% for js in page.js %}
-  <script type="text/javascript">
+  <script type=text/javascript>
     {% include {{ js }} %}
   </script>
 {% endfor %}
