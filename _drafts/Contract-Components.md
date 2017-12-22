@@ -1,6 +1,6 @@
 ---
 title: Contract Components
-description: Don't give lawyers abstraction. Devil knows what they'll do with it.
+description: means of abstraction in legal drafting
 layout: post
 tags:
 - Common Form
@@ -146,13 +146,13 @@ We can do this whether we copy the terms of Components we use directly into our 
 >
 > apply in the terms at
 >
-> https://commonform.org/publications/kemitchell/orthodox-software-copyright-license/1e
+> <https://commonform.org/publications/kemitchell/orthodox-software-copyright-license/1e>
 >
 > which the parties include as a Component of this agreement.
 
 ## Subcomponents
 
-The mechanisms used so far, limiting definitions to the components that define them and passing definitions down from agreement to component, work just as well when building components out of other components.
+The mechanisms used so far---limiting definitions to the components that define them and passing definitions down from agreement to component---work just as well when building components out of other components.
 
 Consider a component that combines copyright licensing with a warranty disclaimer and a limit on liability:
 
@@ -183,3 +183,7 @@ Consider a component that combines copyright licensing with a warranty disclaime
 >     2.  This limit applies even if Seller is advised of the possibility of damages in excess of the Damages Cap.
 
 The same Common Form that helps us identify undefined terms today can calculate exactly which terms we need to pass down to this component to make it complete: "Program", "Vendor", "Customer", and "Damages Cap". Undefined terms used in a Component act like fill-in-the-blanks.
+
+## Composition
+
+The upshot of this kind of convention about Components, how to read them, and how to complete them, will give Common Form all the elements of a computer programming language.
