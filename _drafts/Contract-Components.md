@@ -45,8 +45,99 @@ Common Form provides tools to address at least the structural collisions that co
 
 ## Components
 
-We've identified two ways in which snippets of Common Forms terms fall short of component-style reuse:
+We've identified two ways snippets of legal terms fall short of component-style reuse:
 
-1.  Conventions for reading definitions and interpretation rules to apply throughout an agreement by default allow create conflicts between snippets that we combine in new ways.
+1.  Conventions that apply definitions and interpretation rules throughout an agreement, unless otherwise noted, lead to ambiguities and conflicts among snippets that we combine in new ways.
 
-2.  When snippets differ in the terms they use to refer to parties and other aspects of a deal, we have to change the snippets, or add new definitions, to make them work together.
+2.  When snippets differ in the terms they use to refer to aspects of a deal, we have to change the snippets, or add new definitions, to make them work together.
+
+To address the first issue, we can define a new aspect of our agreements, akin to exhibits, called "components".  Within components, we'll flip the conventions about definitions and interpretation rules, to avoid collisions between components:
+
+> These interpretation rules apply to each "**Component**" of this agreement:
+>
+> 1.  Definitions in the _Component_ apply only in that _Component_.
+>
+> 2.  Interpretation rules in a _Component_ apply only in that _Component_.
+
+This language allows us to turn any section of our agreement into a Component:
+
+> "**Company**" and "**Contractor**" agree:
+>
+> 1.  __Components__.  These interpretation rules apply to each "**Component**" of this agreement:
+>     1.  Definitions in the _Component_ apply only in that _Component_.
+>     2.  Interpretation rules in a _Component_ apply only in that _Component_.
+> 2.  __Services__. As a _Component_ of this agreement:
+>     1.  __Work__.  _Contractor_ will do the work described in each "**Statement of Work**" cosigned with _Company_ under this agreement.
+>     2.  __Payment__.  _Company_ will pay each correctly billed amount within 30 calendar days of receiving the bill.
+> 3.  __Relationship__.  As a _Component_ of this agreement:
+>     1.  __Independence__.  _Contractor_ will decide when, where, and how to work under this agreement, with the discretion of an independent contractor.
+>     2.  __No Benefits__.  _Contractor_ will not receive any employee benefits from _Company_.
+>     3.  "**Company**" includes any subsidiaries and parent companies of _Company_.
+
+The rules for Components occupy the missing middle ground between practices commonly seen today.  On one hand, drafters treat definitions and other interpretation rules as applying throughout an agreement, unless they say otherwise.  On the other hand, drafters sometimes call out specific definitions as applying only within a specific section or other formatting part of the agreement.  Our rules for Components limit every interpretation rule in a Component with an implicit "for purposes of this Component..." qualifier.  The effect is the much the same as putting each Component's terms in an attached form agreement, with an obligation of the parties to sign.
+
+These interpretation rules do _not_ solve the problem of prewritten components using different defined terms.  Take the example above again, but consider what happens if one of the components uses "Client" instead of "Company" and "Consultant" instead of "Contractor":
+
+> "**Company**" and "**Contractor**" agree:
+>
+> 1.  __Components__. [Omitted]
+> 2.  __Services__. As a _Component_ of this agreement:
+>     1.  __Work__.  _Consultant_ will do the work described in each "**Statement of Work**" cosigned with _Client_ under this agreement.
+>     2.  __Payment__.  _Client_ will pay each correctly billed amount within 30 calendar days of receiving the bill.
+> 3.  __Relationship__. [Omitted]
+
+We could address the mismatches by defining "Client" for the Component that uses that term:
+
+> "**Company**" and "**Contractor**" agree:
+>
+> 1.  __Components__. [Omitted]
+> 2.  __Services__. These definitions:
+>     1.  "**Client**" means _Company_.
+>     2.  "**Consultant**" means _Contractor_.
+>
+>     apply in this _Component_:
+>     1.  __Work__.  _Consultant_ will do the work described in each "**Statement of Work**" cosigned with _Client_ under this agreement.
+>     2.  __Payment__.  _Client_ will pay each correctly billed amount within 30 calendar days of receiving the bill.
+> 3.  __Relationship__. [Omitted]
+
+This is long and somewhat cumbersome to read, but effective.  Effective, in fact, even for Components that we incorporate from elsewhere, rather than paste in:
+
+> "**Company**" and "**Contractor**" agree:
+>
+> 1.  __Components__. [Omitted]
+> 2.  __Services__. These definitions:
+>     1.  "**Client**" means _Company_.
+>     2.  "**Consultant**" means _Contractor_.
+>
+>     apply in a _Component_ with the terms published at [URL].
+> 3.  __Relationship__. [Omitted]
+
+If we need or want to paste the terms in, our choice of definitions for the purpose of the Component, which simply equate a term in the Component with a term in the larger agreement, can allow Common Form to make replacements accordingly:
+
+> "**Company**" and "**Contractor**" agree:
+>
+> 1.  __Components__. [Omitted]
+> 2.  __Services__. As a _Component_ of this agreement:
+>     1.  __Work__.  _Consultant_→_Contractor_ will do the work described in each "**Statement of Work**" cosigned with _Client_→_Company_ under this agreement.
+>     2.  __Payment__.  _Client_→_Company_ will pay each correctly billed amount within 30 calendar days of receiving the bill.
+> 3.  __Relationship__. [Omitted]
+
+In each case, meaning is preserved and conflict among Components is avoided.  The fact that the relationship Component defines "Company" to include parents and subsidiaries does not affect the language of the services component.  The fact that the language of the services component was originally written for a "Consultant" and a "Client" does not stop us from combining with relationship Component, originally written for "Company" and "Contractor".
+
+Thanks to these mechanisms, we'd be free to swap out either Component for a different one achieving a different purpose, or in a different way.  We'd be free to add more Components, achieving different aspects of our deal, without fear of conflicts between them.
+
+These mechanisms don't just enable combining simple Components in agreements.  They work equally well for Components made of Components in turn.
+
+> "**Company**" and "**Contractor**" agree:
+>
+> 1.  __Components__. [Omitted]
+> 2.  __Services__. As a _Component_:
+>     1.  __Work__.  _Contractor_ will do the work described in each "**Statement of Work**" cosigned with _Company_ under this agreement.
+>     2.  __Payment__.  As a _Component_:
+>         1.  __Deadline__.  _Company_ will pay each correctly billed amount within 30 Days of receiving the bill.
+>         2.  __Errors__.  _Company_ will notify _Contractor_ of any suspected error on a bill within 14 Days of receiving the bill.
+>         3.  __Late Payments__.  _Company_ will pay _Contractor_ 1.5% interest on late bill payments, compounded monthly.
+>         4.  "**Days**" means calendar days.
+> 3.  __Relationship__. [Omitted]
+
+A long document of Components containing Components can make a short document more complex.  But as an offsetting benefit, the new conventions for interpretation of Components, and substitution of terms within them, make it possible to draft them separately, and reuse them widely.
