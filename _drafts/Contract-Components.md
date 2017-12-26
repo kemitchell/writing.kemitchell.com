@@ -43,7 +43,7 @@ Potential for conflict and ambiguity forces us to treat would-be components as c
 
 Common Form provides tools to address at least the structural collisions that copied snippets can create.  That is not enough.  To facilitate efficient use of drafted language, even language that we have drafted ourselves, reused in different forms we maintain, Common Form must provide a set of conventions that steer us clear of problems when components combine in new ways.  Components need to be well behaved, achieving their purposes without affecting other components.  To work well together, they must work independently, without interference.
 
-## Convention
+## Counterconvention
 
 We've identified two ways snippets of legal terms fall short of component-style reuse:
 
@@ -51,7 +51,7 @@ We've identified two ways snippets of legal terms fall short of component-style 
 
 2.  When snippets differ in the terms they use to refer to aspects of a deal, we have to change the snippets, or add new definitions, to make them work together.
 
-To address the first issue, we can define a new aspect of our agreements, akin to exhibits, called "components".  Within components, we'll flip the conventions about definitions and interpretation rules, to avoid collisions between components:
+To address the first issue, we can define a new organization unit of our terms, akin to exhibits, called "Components".  Within Components, we'll flip the usual conventions about definitions and interpretation rules, to avoid collisions between Components:
 
 > These interpretation rules apply to each "**Component**" of this agreement:
 >
@@ -83,7 +83,9 @@ This language allows us to turn any section of our agreement into a Component:
 >
 >     3.  "**Company**" includes any subsidiaries and parent companies of _Company_.
 
-The rules for Components occupy the missing middle ground between practices commonly seen today.  On one hand, drafters treat definitions and other interpretation rules as applying throughout an agreement, unless they say otherwise.  On the other hand, drafters sometimes call out specific definitions as applying only within a specific section or other formatting part of the agreement.  Our rules for Components limit every interpretation rule in a Component with an implicit "for purposes of this Component..." qualifier.  The effect is the much the same as putting each Component's terms in an attached form agreement, with an obligation of the parties to sign.
+Note that the special definition of "Company" under the "Relationship" Component does not affect the meaning of the "Services" Component.
+
+The rules for Components occupy the missing middle ground between practices commonly seen today.  On one hand, drafters treat definitions and other interpretation rules as applying throughout an agreement, unless they say otherwise.  On the other hand, drafters sometimes call out specific definitions as applying only within a specific section or other organizational unit of the terms.  Our rules for Components limit every interpretation rule in a Component with an implicit "for purposes of this Component..." qualifier.  The effect is the much the same as putting each Component's terms in an attached form agreement, as an exhibit.
 
 These interpretation rules do _not_ solve the problem of prewritten components using different defined terms.  Take the example above again, but consider what happens if one of the components uses "Client" instead of "Company" and "Consultant" instead of "Contractor":
 
@@ -99,7 +101,7 @@ These interpretation rules do _not_ solve the problem of prewritten components u
 >
 > 3.  __Relationship__. [Omitted]
 
-We could address the mismatches by defining "Client" for the Component that uses that term:
+We could address the mismatches by defining "Client" and "Consultant" for the Component:
 
 > "**Company**" and "**Contractor**" agree:
 >
@@ -131,11 +133,11 @@ This is long and somewhat cumbersome to read, but effective.  Effective, in fact
 >
 >     2.  "**Consultant**" means _Contractor_.
 >
->     apply in a _Component_ with the terms published at [URL].
+>     apply in a _Component_ with the terms published at [permalink].
 >
 > 3.  __Relationship__. [Omitted]
 
-If we need or want to paste the terms in, our choice of definitions for the purpose of the Component, which simply equate a term in the Component with a term in the larger agreement, can allow Common Form to make replacements accordingly:
+If we need or want to paste the terms in, our choice of definitions for the purpose of the Component, which simply equate a term in the Component with a term in the larger agreement, can allow Common Form to make replacements automatically:
 
 > "**Company**" and "**Contractor**" agree:
 >
@@ -151,9 +153,9 @@ If we need or want to paste the terms in, our choice of definitions for the purp
 
 In each case, meaning is preserved and conflict among Components is avoided.  The fact that the relationship Component defines "Company" to include parents and subsidiaries does not affect the language of the services component.  The fact that the language of the services component was originally written for a "Consultant" and a "Client" does not stop us from combining with relationship Component, originally written for "Company" and "Contractor".
 
-Thanks to these mechanisms, we'd be free to swap out either Component for a different one achieving a different purpose, or in a different way.  We'd be free to add more Components, achieving different aspects of our deal, without fear of conflicts between them.
+Thanks to these mechanisms, we'd be free to swap out either Component for a different one achieving a different purpose, or in a different way.  We'd be free to add more Components, achieving different aspects of our deal, without fear of conflicts with other Components.  Once we understand what a Component achieves, legally, we can consider it as a unit, and turn out attention back to how those effects combine to achieve our clients' goals.
 
-These mechanisms don't just enable combining simple Components in agreements.  They work equally well for Components made of Components in turn:
+These mechanisms don't just enable combining simple Components in agreements.  They work equally well for Components made of other Components:
 
 > "**Company**" and "**Contractor**" agree:
 >
@@ -203,4 +205,4 @@ A deep, nested structure of Components can make a document longer and more compl
 >
 > 3.  __Relationship__. [Omitted]
 
-Using a term a in a Component without defining it essentially leaves a blank for work building on the Component to fill in.
+Using a term a in a Component without defining it essentially leaves a blank for work building on the Component to fill in.  The Components becomes parameterized, varying in effect, depending on the meaning given to the terms it uses, but does not define.
