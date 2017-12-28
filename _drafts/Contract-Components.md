@@ -14,7 +14,9 @@ I've drafted a bit of contract text, a generic, orthodox, permissive software co
 >
 > 2.  "**Derivative Works**" means any work that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
 
-The snippet defines _Derivative Works_.  It uses, but does not define, _Licensor_, _Licensee_, and _Program_.  We can use the snippet in a form agreement by providing those missing definitions:
+I'd like to reuse these terms in a variety of agreements.  I'd like to share the terms with others, to reuse in their agreements.  I'd like sharing and reusing the terms to be easy.  That's the point of [Common Form](https://commonform.github.io).
+
+The snippet defines _Derivative Works_.  It uses, but does not define, _Licensor_, _Licensee_, and _Program_.  So we can reuse the snippet in a form agreement by providing those missing definitions:
 
 > Customer, Inc. ("**Customer**") and Vendor, LLC ("**Vendor**") agree:
 >
@@ -27,9 +29,9 @@ The snippet defines _Derivative Works_.  It uses, but does not define, _Licensor
 >     3.  "**Program**" means _Licensor_'s Super Calculator software.
 >
 > 2.  **Permissive Software Copyright License**.
->     1.  _Licensor_ grants _Licensee_ a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare _Derivative Works_ of, publicly display, publicly perform, sublicense, and distribute the _Program_ and such _Derivative Works_ in _Source Form_ and _Object Form_.
+>     1.  _Licensor_ grants _Licensee_ a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare _Derivative Works_ of, publicly display, publicly perform, sublicense, and distribute the _Program_ and such _Derivative Works_.
 >
->     2.  "**Derivative Works**" means any work, whether in _Source Form_ or _Object Form_, that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
+>     2.  "**Derivative Works**" means any work that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
 
 Here's another snippet, a product warranty disclaimer:
 
@@ -37,8 +39,10 @@ Here's another snippet, a product warranty disclaimer:
 
 This snippet uses, but does not define, _Seller_ and _Goods_.
 
-We might like to combine our license and disclaimer snippets in a single agreement:
+We can combine these license and disclaimer snippets in a single agreement:
 
+> # Agreement
+>
 > Customer, Inc. ("**Customer**") and Vendor, LLC ("**Vendor**") agree:
 >
 > 1.  "**Software**" means _Vendor_'s Super Calculator software.
@@ -57,7 +61,7 @@ We might like to combine our license and disclaimer snippets in a single agreeme
 >
 >          1.  _Licensor_ grants _Licensee_ a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare _Derivative Works_ of, publicly display, publicly perform, sublicense, and distribute the _Program_ and such _Derivative Works_.
 >
->          2.  "**Derivative Works**" means any work, whether in _Source Form_ or _Object Form_, that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
+>          2.  "**Derivative Works**" means any work that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
 >
 > 3.  **Disclaimer**.
 >
@@ -68,10 +72,22 @@ We might like to combine our license and disclaimer snippets in a single agreeme
 >          2.  **Goods** means the _Software_.
 >
 >      2.  **As Is**.  ***Unless required by applicable law,*** **Seller** ***provides the*** **Goods** ***on an "as is" basis, without warranties or conditions of any kind, either express or implied, including, without limitation, any warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose.***
+>
+> [Signature pages follow.]
+>
+> ## Schedule A --- License Terms
+>
+> 1.  _Licensor_ grants _Licensee_ a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare _Derivative Works_ of, publicly display, publicly perform, sublicense, and distribute the _Program_ and such _Derivative Works_.
+>
+> 2.  "**Derivative Works**" means any work that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
+>
+> ## Schedule B --- Warranty Terms
+>
+> ***Unless required by applicable law,*** **Seller** ***provides the*** **Goods** ***on an "as is" basis, without warranties or conditions of any kind, either express or implied, including, without limitation, any warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose.***
 
-Using definitions in this way, we can reuse the snippets as drafted, without changing their text.  That means we could also incorporate them by reference, instead of copying their text in verbatim:
+Using definitions in this way, we can reuse the snippets as drafted, without changing their text.  That means we could also incorporate them by reference, instead of copying their text in place:
 
-> ## Agreement
+> # Agreement
 >
 > Customer, Inc. ("**Customer**") and Vendor, LLC ("**Vendor**") agree:
 >
@@ -98,28 +114,44 @@ Using definitions in this way, we can reuse the snippets as drafted, without cha
 >          2.  **Goods** means the _Software_.
 >
 >     2.  **As Is**.  The parties incorporate the terms attached as Schedule B here.
->
-> [Signature pages follow.]
->
-> ## Schedule A --- License Terms
->
-> 1.  _Licensor_ grants _Licensee_ a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare _Derivative Works_ of, publicly display, publicly perform, sublicense, and distribute the _Program_ and such _Derivative Works_.
->
-> 2.  "**Derivative Works**" means any work, whether in _Source Form_ or _Object Form_, that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
->
-> ## Schedule B --- Warranty Terms
->
-> ***Unless required by applicable law,*** **Seller** ***provides the*** **Goods** ***on an "as is" basis, without warranties or conditions of any kind, either express or implied, including, without limitation, any warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose.***
 
 This way of organizing terms mirrors the use of schedules to break up the terms of a complex agreement.  Each schedule can be given to a different attorney to draft, or reused in other forms that need similar terms.
 
-However, combining snippets of terms in this way doesn't allow us to ignore how the individual snippets are drafted. In particular:
+When a company, industry group, printing house, [Common Form user](https://commonform.org/publishers/kemitchell) makes the snippets publicly available, we can replace references to schedules with references elsewhere:
 
-1.  Two snippets might define the same term, like _Person_ or _Material Adverse Change_, in different ways.
+> Customer, Inc. ("**Customer**") and Vendor, LLC ("**Vendor**") agree:
+>
+> 1.  "**Software**" means _Vendor_'s Super Calculator software.
+>
+> 2.  **License**.
+>
+>     1.  **Definitions**.
+>
+>         1.  "**Licensor**" means _Vendor_.
+>
+>         2.  "**Licensee**" means _Customer_.
+>
+>         3.  "**Program**" means the _Software_
+>
+>     2.  **Permissive Software Copyright License**.  The parties incorporate the terms published at https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2 here.
+>
+> 3.  **Disclaimer**.
+>
+>      1.  **Definitions**.
+>
+>          1.  **Seller** means _Vendor_.
+>
+>          2.  **Goods** means the _Software_.
+>
+>     2.  **As Is**.  The parties incorporate the terms published at https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156 here.
 
-2.  The agreement itself might define a term in a different way than a snippet does.
+Combining snippets of terms in this way doesn't relieve us of the need to read those snippets, even if we've read them before, and know their legal effect:
 
-3.  The agreement and snippets might set other kinds of interpretation rules, like reading _or_ exclusively or clarifying statutory references as pertaining to a particular point in time.
+1.  Two snippets might define the same term, like _Person_ or _Material Adverse Change_, in different ways, creating ambiguity.
+
+2.  The agreement itself might define a term in a different way than a snippet does, creating ambiguity.
+
+3.  The agreement and snippets might set other kinds of interpretation rules, like reading _or_ exclusively or clarifying statutory references as pertaining to a particular point in time, that conflict or combine in unfortunate ways.
 
 These potential problems reflect contract drafting conventions:
 
@@ -127,11 +159,9 @@ These potential problems reflect contract drafting conventions:
 
 2.  Unless they say otherwise, other interpretation rules apply throughout an agreement, too.
 
-3.  Cross-references can point to any other part of the agreement, as a whole.
+Exceptions happen, but they're rare.  Drafters sometimes limit a definition or other interpretation rule to a specific organizational part of their agreement, such as the containing paragraph or a specific section.
 
-Of course, there are exceptions.  Drafters sometimes limit a definition or other interpretation rule to a specific organizational part of their agreement, such as the containing paragraph or a specific section.
-
-Drafters sometimes avoid the unhelpful organizational effects of these rules by attaching terms as separate agreements under one master agreement:
+Rather than litter agreements with "exclusively for the purposes of this section" and the like, drafters sometimes avoid the unhelpful organizational effects of these rules by attaching terms as separate agreements under one master agreement:
 
 > ## Master Agreement
 >
@@ -152,7 +182,7 @@ Drafters sometimes avoid the unhelpful organizational effects of these rules by 
 >
 > 1.  _Licensor_ grants _Licensee_ a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare _Derivative Works_ of, publicly display, publicly perform, sublicense, and distribute the _Program_ and such _Derivative Works_.
 >
-> 2.  "**Derivative Works**" means any work, whether in _Source Form_ or _Object Form_, that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
+> 2.  "**Derivative Works**" means any work that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
 >
 > [Signature pages follow.]
 >
@@ -164,8 +194,8 @@ Drafters sometimes avoid the unhelpful organizational effects of these rules by 
 >
 > [Signature pages follow.]
 
-Agreements attached as exhibits can explicitly reference, or incorporate definitions from, the master agreement or other exhibit agreements.  But those would be exceptions to the general rule that agreements independently.  Each agreement develops a vocabulary of defined terms, set of interpretation rules, and numbering scheme all its own.
+Agreements attached as exhibits can explicitly reference, or incorporate definitions from, the master agreement or other exhibit agreements.  But those would be exceptions to the general rule to read agreements independently.  Each agreement develops a vocabulary of defined terms, set of interpretation rules, and numbering scheme all its own.  It can borrow from other agreements and documents from there.
 
 Drafters separate many kinds of complex transactions into multiple agreements in this way.  Changing the rule from sharing all definitions and interpretation rules across all terms of the deal to sharing only those referenced explicitly helps lawyers prepare, review, and negotiate many kinds of complex transactions more reliably and efficiently, in more manageable pieces.  A change to any particular agreement requires less work reviewing other terms to see if they require conforming changes.  Counsel more readily find needed terms to review or revise, by searching in the agreement addressing that subject matter.  Drafters more readily reuse agreements with utility across diverse deal structures, such as purchase agreements, voting agreements, intellectual property agreements, and nondisclosure agreements.  Deal teams more readily delegate large parts of the overall drafting burden, in the form of agreements, to specialists and associates.
 
-These benefits offset the costs of splitting a deal's terms into multiple agreements.  Separate agreements naturally duplicate terms, from definitions to interpretation rules,  to general contract terms, creating a longer deal packet overall.  It takes some work to ensure that the master agreement correctly incorporates all exhibit agreements.  Clients end up signing many agreements, at one time, to do one deal.
+These benefits offset the costs of splitting a deal's terms into multiple agreements.  Separate agreements naturally duplicate terms, from definitions to interpretation rules,  to general contract terms, creating a fatter closing volume overall.  It takes some work to ensure that the master agreement correctly incorporates all exhibit agreements.  Clients end up signing many agreements, at one time, to do one deal.
