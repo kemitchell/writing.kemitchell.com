@@ -100,13 +100,13 @@ Using definitions in this way allows us to reuse the snippets without changing t
 >          2.  "**Goods**" means the _Software_.
 >
 >     2.  **As Is**.  The parties include the terms attached as Schedule B here.
->
+
 > ## Schedule A --- License Terms
 >
 > 1.  _Licensor_ grants _Licensee_ a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare _Derivative Works_ of, publicly display, publicly perform, sublicense, and distribute the _Program_ and such _Derivative Works_.
 >
 > 2.  "**Derivative Works**" means any work that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
->
+
 > ## Schedule B --- Warranty Terms
 >
 > ***Unless required by applicable law,*** **Seller** ***provides the*** **Goods** ***on an "as is" basis, without warranties or conditions of any kind, either express or implied, including, without limitation, any warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose.***
@@ -172,18 +172,17 @@ Sometimes these conventions make organizing a long set of terms difficult.  Rath
 > 3.  **Disclaimer**.  _Customer_ and _Vendor_ will concurrently enter into the Warranty Disclaimer Agreement attached as Exhibit B, with _Vendor_ as "Seller", _Customer_ as "Buyer", and the _Software_ as the "Goods" under that agreement.
 >
 > [Signature pages follow.]
->
+
 > ## Exhibit A --- License Agreement
 >
 > Customer, Inc. ("**Licensee**") and Vendor, LLC ("**Licensor**") agree as follows.  In this agreement, "**Program**" has the same meaning as "Software" in the Master Agreement.
->
 >
 > 1.  _Licensor_ grants _Licensee_ a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare _Derivative Works_ of, publicly display, publicly perform, sublicense, and distribute the _Program_ and such _Derivative Works_.
 >
 > 2.  "**Derivative Works**" means any work that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
 >
 > [Signature pages follow.]
->
+
 > ## Exhibit B --- Warranty Disclaimer Agreement
 >
 > Customer, Inc. ("**Buyer**") and Vendor, LLC ("**Seller**") agree as follows.  In this agreement, "**Goods**" has the same meaning as "Software" in this Master Agreement.
