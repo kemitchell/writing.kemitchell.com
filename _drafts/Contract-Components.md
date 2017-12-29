@@ -14,9 +14,9 @@ I've drafted a bit of contract text, a generic, orthodox, permissive software co
 >
 > 2.  "**Derivative Works**" means any work that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
 
-I'd like to reuse these terms in a variety of agreements.  I'd like to share the terms with others, to reuse in their agreements.  I'd like sharing and reusing the terms to be easy.  That's the point of [Common Form](https://commonform.github.io).
+I'd like to reuse these terms in a variety of agreements.  I'd like to share the terms with others, to reuse in their agreements.  I'd like sharing and reusing the terms to be easy.  I'd like disseminating revisions to be easy.  That's the point of [Common Form](https://commonform.github.io).
 
-The snippet defines _Derivative Works_.  It uses, but does not define, _Licensor_, _Licensee_, and _Program_.  So we can reuse the snippet in a form agreement by providing the missing definitions:
+The snippet defines _Derivative Works_ for itself.  It uses, but does not define, _Licensor_, _Licensee_, and _Program_.  So we can reuse the snippet in a form agreement by providing the missing definitions:
 
 > Customer, Inc. ("**Customer**") and Vendor, LLC ("**Vendor**") agree:
 >
@@ -53,7 +53,7 @@ We can combine these license and disclaimer snippets in a single agreement, by t
 >
 >         2.  "**Licensee**" means _Customer_.
 >
->         3.  "**Program**" means the _Software_
+>         3.  "**Program**" means the _Software_.
 >
 >     2.  **Permissive Software Copyright License**.
 >
@@ -87,7 +87,7 @@ Using definitions in this way allows us to reuse the snippets without changing t
 >
 >         2.  "**Licensee**" means _Customer_.
 >
->         3.  "**Program**" means the _Software_
+>         3.  "**Program**" means the _Software_.
 >
 >     2.  **Permissive Software Copyright License**.  The parties incorporate the terms attached as Schedule A here.
 >
@@ -113,7 +113,7 @@ Using definitions in this way allows us to reuse the snippets without changing t
 
 This way of organizing terms mirrors the use of schedules to break up the terms of a complex agreement.  A different attorney can draft each schedule.  Drafters can reuse schedules in other deals that need similar terms.
 
-When a company, industry group, printing house, or [Common Form user](https://commonform.org/publishers/kemitchell) publishes the snippets, we can replace references to schedules with references to the publications:
+When a company, industry group, vendor, or [Common Form user](https://commonform.org/publishers/kemitchell) publishes the snippets, we can replace references to schedules with references to the publications:
 
 > Customer, Inc. ("**Customer**") and Vendor, LLC ("**Vendor**") agree:
 >
@@ -127,10 +127,9 @@ When a company, industry group, printing house, or [Common Form user](https://co
 >
 >         2.  "**Licensee**" means _Customer_.
 >
->         3.  "**Program**" means the _Software_
+>         3.  "**Program**" means the _Software_.
 >
->     2.  **Permissive Software Copyright License**.  The parties incorporate the terms published at
->         [https://commonform.org/forms/3279...](https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156)
+>     2.  **Permissive Software Copyright License**.  The parties incorporate the terms published at [https://commonform.org/forms/3279...](https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156)
 >
 > 3.  **Disclaimer**.
 >
@@ -140,10 +139,9 @@ When a company, industry group, printing house, or [Common Form user](https://co
 >
 >          2.  "**Goods**" means the _Software_.
 >
->     2.  **As Is**.  The parties incorporate the terms published at
->         [https://commonform.org/forms/a7a8...](https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2)
+>     2.  **As Is**.  The parties incorporate the terms published at [https://commonform.org/forms/a7a8...](https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2)
 
-Combining snippets of terms in this way doesn't relieve us of the need to read those snippets, even if we've read them before, and know their legal effect.  Even if each snippet does what we expect in substance, the way they're drafted may cause structural issues:
+Combining snippets of terms this way doesn't relieve us of the need to read those snippets, even if we've read them before, and know their legal effect.  Even if each snippet does what we expect in substance, the way they're drafted may cause structural issues:
 
 1.  Two snippets might define the same term, like _Person_ or _Material Adverse Change_, in different ways, creating ambiguity.
 
@@ -230,22 +228,26 @@ Armed with this definition:
 >
 >     4.  Interpretation rules outside the _Component_ apply in the _Component_ only if they specifically say they do.
 >
-> 3.  **License**.  The parties incorporate the terms published at
->     [https://commonform.org/forms/3279...](https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156)
->     as a _Component_ of this agreement.  In that _Component_:
+> 3.  **License**.  The parties incorporate the terms published at [https://commonform.org/forms/3279...](https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156) as a _Component_ of this agreement.  In that _Component_:
 >
 >     1.  "**Licensor**" means _Vendor_.
 >
 >     2.  "**Licensee**" means _Customer_.
 >
->     3.  "**Program**" means the _Software_
+>     3.  "**Program**" means the _Software_.
 >
-> 4.  **Disclaimer**.  The parties incorporate the terms published at
->     [https://commonform.org/forms/a7a8...](https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2)
->     as a _Component_ of this agreement.  In that _Component_:
+> 4.  **Disclaimer**.  The parties incorporate the terms published at [https://commonform.org/forms/a7a8...](https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2) as a _Component_ of this agreement.  In that _Component_:
 >
 >     1.  "**Seller**" means _Vendor_.
 >
 >     2.  "**Goods**" means the _Software_.
 
-In essence, the interpretation rules for Components mirror the conventions for interpreting agreements.
+In essence, these interpretation rules for _Components_ codify the conventions for exhibit-agreements, and make them applicable to any section or other organizational subdivision of a single agreement.  As a consequence:
+
+1.  _Components_ can define whatever terms they like for their own purposes.  If they happen to define the same term in different ways, no ambiguity results.  Each _Component_ gets its own definition.
+
+2.  _Components_ can set whatever interpretation rules they like for their own purposes.  If they happen to set conflicting rules, or rules that combine in an unfortunate way, no problem results.  Each _Component_ gets its own interpretation rules.
+
+3.  As a contract drafter, I can mix and match _Components_ that achieve the aspects of the deal I have in mind.  If I remember the goal a _Component_ achieves, I can forget how it was written as I combine it with other _Components_ to achieve more complex goals.
+
+4.  As a contract drafter, I can easily write _Components_ that others can reuse, drafting just the terms I need to achieve the purpose of the _Component_, leaving terms for parties, amounts, and other details undefined for containing agreements to provide.
