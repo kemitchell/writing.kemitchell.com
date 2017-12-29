@@ -251,3 +251,9 @@ In essence, these interpretation rules for _Components_ codify the conventions f
 3.  As a contract drafter, I can mix and match _Components_ that achieve the aspects of the deal I have in mind.  If I remember the goal a _Component_ achieves, I can forget how it was written as I combine it with other _Components_ to achieve more complex goals.
 
 4.  As a contract drafter, I can easily write _Components_ that others can reuse, drafting just the terms I need to achieve the purpose of the _Component_, leaving terms for parties, amounts, and other details undefined for containing agreements to provide.
+
+In the coming weeks, I'll be writing more tools and services, under the [Common Form](https://commonform.github,io) umbrellas, to make writing, sharing, and combining _Components_ easier.  This will bring the Common Form the element that I now see was missing: what computer scientists call _means of abstraction_.
+
+Contract drafters already understand means of abstraction.  Putting terms in separate agreements, attached as exhibits, is a means of abstraction.  Separating exhibit-agreements, and _Components_ under the rules above, allow reuse of terms as functional units, or black boxes, without concern for the specifics of exactly how they were drafted.  Suppressing those details allows drafters to focus on the more complex terms created by combining existing _Components_.  Making those details irrelevant to users allows _Component_ authors freedom to refine and improve _Components_ without creating undue headaches for users.
+
+Other professionals understand the benefits of means of abstraction, too.  Computer programmers build programs out of reusable, abstract parts.  Engineers develop new devices out of [jelly bean components](https://en.wikipedia.org/wiki/Jelly_bean#Slang).  Architects design projects for [modular construction](https://en.wikipedia.org/wiki/Modular_building).
