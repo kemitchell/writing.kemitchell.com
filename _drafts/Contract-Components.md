@@ -65,9 +65,9 @@ We can combine these license and disclaimer snippets in a single agreement, by t
 >
 >      1.  **Definitions**.
 >
->          1.  **Seller** means _Vendor_.
+>          1.  "**Seller**" means _Vendor_.
 >
->          2.  **Goods** means the _Software_.
+>          2.  "**Goods**" means the _Software_.
 >
 >      2.  **As Is**.  ***Unless required by applicable law,*** **Seller** ***provides the*** **Goods** ***on an "as is" basis, without warranties or conditions of any kind, either express or implied, including, without limitation, any warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose.***
 
@@ -95,9 +95,9 @@ Using definitions in this way allows us to reuse the snippets without changing t
 >
 >      1.  **Definitions**.
 >
->          1.  **Seller** means _Vendor_.
+>          1.  "**Seller**" means _Vendor_.
 >
->          2.  **Goods** means the _Software_.
+>          2.  "**Goods**" means the _Software_.
 >
 >     2.  **As Is**.  The parties incorporate the terms attached as Schedule B here.
 >
@@ -129,17 +129,19 @@ When a company, industry group, printing house, or [Common Form user](https://co
 >
 >         3.  "**Program**" means the _Software_
 >
->     2.  **Permissive Software Copyright License**.  The parties incorporate the terms published at https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2 here.
+>     2.  **Permissive Software Copyright License**.  The parties incorporate the terms published at
+>         [https://commonform.org/forms/3279...](https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156)
 >
 > 3.  **Disclaimer**.
 >
 >      1.  **Definitions**.
 >
->          1.  **Seller** means _Vendor_.
+>          1.  "**Seller**" means _Vendor_.
 >
->          2.  **Goods** means the _Software_.
+>          2.  "**Goods**" means the _Software_.
 >
->     2.  **As Is**.  The parties incorporate the terms published at https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156 here.
+>     2.  **As Is**.  The parties incorporate the terms published at
+>         [https://commonform.org/forms/a7a8...](https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2)
 
 Combining snippets of terms in this way doesn't relieve us of the need to read those snippets, even if we've read them before, and know their legal effect.  Even if each snippet does what we expect in substance, the way they're drafted may cause structural issues:
 
@@ -212,13 +214,13 @@ In short, we use explicit language to apply the rules for separate agreements to
 >
 > 4.  Interpretation rules outside the _Component_ apply in the _Component_ only if they specifically say they do.
 
-Armed with this definition, and the ability to apply to sections and organizational parts of our agreements:
+Armed with this definition:
 
 > Customer, Inc. ("**Customer**") and Vendor, LLC ("**Vendor**") agree:
 >
 > 1.  "**Software**" means _Vendor_'s Super Calculator software.
 >
-> 2.  These interpretation rules apply to each "**Component**":
+> 2.  **Components**.  These interpretation rules apply to each "**Component**":
 >
 >     1.  Definitions in the _Component_ apply only in the _Component_.
 >
@@ -229,7 +231,7 @@ Armed with this definition, and the ability to apply to sections and organizatio
 >     4.  Interpretation rules outside the _Component_ apply in the _Component_ only if they specifically say they do.
 >
 > 3.  **License**.  The parties incorporate the terms published at
->     https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2
+>     [https://commonform.org/forms/3279...](https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156)
 >     as a _Component_ of this agreement.  In that _Component_:
 >
 >     1.  "**Licensor**" means _Vendor_.
@@ -239,10 +241,11 @@ Armed with this definition, and the ability to apply to sections and organizatio
 >     3.  "**Program**" means the _Software_
 >
 > 4.  **Disclaimer**.  The parties incorporate the terms published at
->
->     https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156
->
+>     [https://commonform.org/forms/a7a8...](https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2)
 >     as a _Component_ of this agreement.  In that _Component_:
->     1.  **Seller** means _Vendor_.
 >
->     2.  **Goods** means the _Software_.
+>     1.  "**Seller**" means _Vendor_.
+>
+>     2.  "**Goods**" means the _Software_.
+
+In essence, the interpretation rules for Components mirror the conventions for interpreting agreements.
