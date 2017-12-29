@@ -14,9 +14,9 @@ I've drafted a bit of contract text, a generic, orthodox, permissive software co
 >
 > 2.  "**Derivative Works**" means any work that is based on (or derived from) the _Program_ and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. _Derivative Works_ do not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the _Program_ and _Derivative Works_ of the _Program_.
 
-I'd like to reuse these terms in a variety of agreements.  I'd like to share the terms with others, to reuse in their agreements.  I'd like sharing and reusing the terms to be easy.  I'd like disseminating revisions to be easy.  That's the point of [Common Form](https://commonform.github.io).
+I'd like to reuse these terms in a variety of agreements.  I'd like to share the terms with others, to reuse in their agreements.  I'd like sharing and reusing the terms to be easy.  I'd like disseminating revisions to be easy.
 
-The snippet defines _Derivative Works_ for itself.  It uses, but does not define, _Licensor_, _Licensee_, and _Program_.  So we can reuse the snippet in a form agreement by providing the missing definitions:
+The snippet defines _Derivative Works_ for itself.  It uses, but does not define, _Licensor_, _Licensee_, and _Program_.  So we can reuse the snippet in an agreement by providing the missing definitions:
 
 > Customer, Inc. ("**Customer**") and Vendor, LLC ("**Vendor**") agree:
 >
@@ -71,7 +71,7 @@ We can combine these license and disclaimer snippets in a single agreement, by t
 >
 >      2.  **As Is**.  ***Unless required by applicable law,*** **Seller** ***provides the*** **Goods** ***on an "as is" basis, without warranties or conditions of any kind, either express or implied, including, without limitation, any warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose.***
 
-Using definitions in this way allows us to reuse the snippets without changing their text.  That means we could incorporate them by reference, instead of copying:
+Using definitions in this way allows us to reuse the snippets without changing their text.  That means we could include them by reference, instead of copying:
 
 > ## Agreement
 >
@@ -89,7 +89,7 @@ Using definitions in this way allows us to reuse the snippets without changing t
 >
 >         3.  "**Program**" means the _Software_.
 >
->     2.  **Permissive Software Copyright License**.  The parties incorporate the terms attached as Schedule A here.
+>     2.  **Permissive Software Copyright License**.  The parties include the terms attached as Schedule A here.
 >
 > 3.  **Disclaimer**.
 >
@@ -99,7 +99,7 @@ Using definitions in this way allows us to reuse the snippets without changing t
 >
 >          2.  "**Goods**" means the _Software_.
 >
->     2.  **As Is**.  The parties incorporate the terms attached as Schedule B here.
+>     2.  **As Is**.  The parties include the terms attached as Schedule B here.
 >
 > ## Schedule A --- License Terms
 >
@@ -111,9 +111,9 @@ Using definitions in this way allows us to reuse the snippets without changing t
 >
 > ***Unless required by applicable law,*** **Seller** ***provides the*** **Goods** ***on an "as is" basis, without warranties or conditions of any kind, either express or implied, including, without limitation, any warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose.***
 
-This way of organizing terms mirrors the use of schedules to break up the terms of a complex agreement.  A different attorney can draft each schedule.  Drafters can reuse schedules in other deals that need similar terms.
+Drafters often break up the terms of a complex agreement into schedules in just this way.  Different drafters can then handle each schedule, in parallel.  Drafters can crib schedules for and from other projects.
 
-When a company, industry group, vendor, or [Common Form user](https://commonform.org/publishers/kemitchell) publishes the snippets, we can replace references to schedules with references to the publications:
+Since we're still not _changing_ the terms of either snippet, we can go even further.  If we publish the snippets, via [Common Form](https://commonform.org/publishers/kemitchell) or otherwise, we can replace references to schedules with references to the published forms:
 
 > Customer, Inc. ("**Customer**") and Vendor, LLC ("**Vendor**") agree:
 >
@@ -129,7 +129,7 @@ When a company, industry group, vendor, or [Common Form user](https://commonform
 >
 >         3.  "**Program**" means the _Software_.
 >
->     2.  **Permissive Software Copyright License**.  The parties incorporate the terms published at [https://commonform.org/forms/3279...](https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156)
+>     2.  **Permissive Software Copyright License**.  The parties include the terms published at [https://commonform.org/forms/3279...](https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156)
 >
 > 3.  **Disclaimer**.
 >
@@ -139,15 +139,15 @@ When a company, industry group, vendor, or [Common Form user](https://commonform
 >
 >          2.  "**Goods**" means the _Software_.
 >
->     2.  **As Is**.  The parties incorporate the terms published at [https://commonform.org/forms/a7a8...](https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2)
+>     2.  **As Is**.  The parties include the terms published at [https://commonform.org/forms/a7a8...](https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2)
 
-Combining snippets of terms this way doesn't relieve us of the need to read those snippets, even if we've read them before, and know their legal effect.  Even if each snippet does what we expect in substance, the way they're drafted may cause structural issues:
+Combining snippets of terms this way doesn't stop us needing to read the snippets, even if we're familiar with them, have read them before, and know their legal effect.  The ways they're drafted may cause structural issues:
 
 1.  Two snippets might define the same term, like _Person_ or _Material Adverse Change_, in different ways, creating ambiguity.
 
 2.  The agreement itself might define a term in a different way than a snippet does, creating ambiguity.
 
-3.  The agreement and snippets might set other kinds of interpretation rules, like reading _or_ exclusively or clarifying statutory references as pertaining to a particular point in time, that conflict or combine in unfortunate ways.
+3.  The agreement and its snippets might set other kinds of interpretation rules that conflict or combine in unfortunate ways.
 
 These potential problems reflect contract drafting conventions:
 
@@ -155,11 +155,11 @@ These potential problems reflect contract drafting conventions:
 
 2.  Unless they say otherwise, other interpretation rules apply throughout an agreement, too.
 
-These are merely conventions, not rules.  Phrasing them this specifically overstates how broadly and particularly lawyers understand and apply them.
+These are merely conventions.  Phrasing them this explicitly overstates how broadly and consistently lawyers understand and apply them.  But they adequately reflect working expectations.
 
-Exceptions happen, but infrequently.  Drafters sometimes limit a definition or other interpretation rule to a specific organizational part of their agreement, such as the containing paragraph or a specific section.
+Exceptions happen, but infrequently.  Drafters sometimes limit a definition or other interpretation rule to a specific organizational part of their agreement, such as the containing paragraph or a specific section.  For example, we often see _control_ defined just for purposes of rules about assignment.
 
-Rather than litter agreements with "exclusively for the purposes of this section" and the like, drafters sometimes avoid the unhelpful organizational effects of these rules by attaching terms as separate agreements under one master agreement:
+Sometimes these conventions make organizing a long set of terms difficult.  Rather than litter agreements with "exclusively for the purposes of this section" and the like, drafters sometimes avoid the unhelpful organizational effects of these rules by attaching terms as separate agreements under one master agreement:
 
 > ## Master Agreement
 >
@@ -192,15 +192,17 @@ Rather than litter agreements with "exclusively for the purposes of this section
 >
 > [Signature pages follow.]
 
-Agreements attached as exhibits can explicitly reference, or incorporate definitions from, the master agreement or other exhibit agreements.  But those would be exceptions to the general rule to read agreements independently.  Each agreement develops a vocabulary of defined terms, set of interpretation rules, and numbering scheme all its own.  It can borrow from other agreements and documents from there.
+Agreements attached as exhibits can explicitly reference, or incorporate definitions from, the master agreement or other exhibit agreements.  In doing so, they make exceptions to the general rule of reading agreements' definitions and interpretation rules independently.  Each agreement develops a vocabulary of defined terms, a set of interpretation rules, and a numbering scheme all its own.  It can borrow from other agreements and documents from there.
 
-Drafters separate many kinds of complex transactions into multiple agreements in this way.  Changing the rule from sharing all definitions and interpretation rules across all terms of the deal to sharing only those referenced explicitly helps lawyers prepare, review, and negotiate many kinds of complex transactions more reliably and efficiently, in more manageable pieces.  A change to any particular agreement requires less work reviewing other terms to see if they require conforming changes.  Counsel more readily find needed terms to review or revise, by searching in the agreement addressing that subject matter.  Drafters more readily reuse agreements with utility across diverse deal structures, such as purchase agreements, voting agreements, intellectual property agreements, and nondisclosure agreements.  Deal teams more readily delegate large parts of the overall drafting burden, in the form of agreements, to specialists and associates.
+Drafters separate many kinds of complex transactions into multiple agreements in this way.  Changing the rule from sharing all definitions and interpretation rules across all terms of the deal to sharing only within special-purpose exhibit-agreements helps lawyers prepare, review, and negotiate many kinds of complex transactions more reliably and efficiently, in more manageable pieces.
 
-These benefits offset the costs of splitting a deal's terms into multiple agreements.  Separate agreements naturally duplicate terms, from definitions to interpretation rules,  to general contract terms, creating a fatter closing volume overall.  It takes some work to ensure that the master agreement correctly incorporates all exhibit agreements.  Clients end up signing many agreements, at one time, to do one deal.
+A change to any particular agreement requires less work reviewing other terms to see if they require conforming changes.  Counsel more readily find needed terms to review or revise, by searching in the specific exhibit-agreement dedicated to that subject matter.  Drafters more readily reuse common utility agreements, such as purchase agreements, voting agreements, intellectual property agreements, and nondisclosure agreements, across deals.  Deal teams more readily delegate large parts of the overall drafting burden, as exhibit-agreements or schedules, to specialists, associates, paralegals, and client personnel.
 
-The trade-off makes sense when the benefit of breaking terms up into more manageable pieces outweighs the cost of duplication and more agreements to handle.  The benefit is always good.  How do we drive the cost down, to make the benefit available even for deals with fewer terms?
+These benefits offset the costs of distributing a deal's terms across multiple documents.  Separate agreements naturally duplicate terms, from preambles to definitions to interpretation rules to general contract terms.  That makes for a fatter closing volume overall.  It takes some additional work to ensure that the master agreement correctly incorporates all exhibit agreements.  Clients end up signing many agreements, at one time, to do one deal.
 
-In short, we use explicit language to apply the rules for separate agreements to specific parts of even single agreements:
+The trade-off makes sense when the benefits of breaking terms up outweigh the costs of duplication and more agreements to handle.  Those benefits are always welcome.  Can we drive the costs down, to make the benefits available, no matter how complex the deal?
+
+We can.  If separate agreements and schedules benefit drafters thanks to implicit rules for reading them independently, we start by making those rules explicit and generic:
 
 > These interpretation rules apply to each "**Component**":
 >
@@ -212,7 +214,7 @@ In short, we use explicit language to apply the rules for separate agreements to
 >
 > 4.  Interpretation rules outside the _Component_ apply in the _Component_ only if they specifically say they do.
 
-Armed with this definition:
+That frees us to apply them not just to agreements and schedules, with all their handling and signing burdens, but to subdivisions of a single agreement, as well:
 
 > Customer, Inc. ("**Customer**") and Vendor, LLC ("**Vendor**") agree:
 >
@@ -228,7 +230,7 @@ Armed with this definition:
 >
 >     4.  Interpretation rules outside the _Component_ apply in the _Component_ only if they specifically say they do.
 >
-> 3.  **License**.  The parties incorporate the terms published at [https://commonform.org/forms/3279...](https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156) as a _Component_ of this agreement.  In that _Component_:
+> 3.  **License**.  The parties include the terms published at [https://commonform.org/forms/3279...](https://commonform.org/forms/32794793c0f5020799799b4b5d92e9d607fdab1337e0c805ec9c06e8b5bc3156) as a _Component_ of this agreement.  In that _Component_:
 >
 >     1.  "**Licensor**" means _Vendor_.
 >
@@ -236,24 +238,24 @@ Armed with this definition:
 >
 >     3.  "**Program**" means the _Software_.
 >
-> 4.  **Disclaimer**.  The parties incorporate the terms published at [https://commonform.org/forms/a7a8...](https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2) as a _Component_ of this agreement.  In that _Component_:
+> 4.  **Disclaimer**.  The parties include the terms published at [https://commonform.org/forms/a7a8...](https://commonform.org/forms/a7a809e0a612369296b06f86205aa752884b29713c32583e9a17760004360bf2) as a _Component_ of this agreement.  In that _Component_:
 >
 >     1.  "**Seller**" means _Vendor_.
 >
 >     2.  "**Goods**" means the _Software_.
 
-In essence, these interpretation rules for _Components_ codify the conventions for exhibit-agreements, and make them applicable to any section or other organizational subdivision of a single agreement.  As a consequence:
+These _Components_ interpretation rules codify conventions for exhibit-agreements, and make them applicable to any organizational subdivision of our terms documents.  As a consequence:
 
 1.  _Components_ can define whatever terms they like for their own purposes.  If they happen to define the same term in different ways, no ambiguity results.  Each _Component_ gets its own definition.
 
 2.  _Components_ can set whatever interpretation rules they like for their own purposes.  If they happen to set conflicting rules, or rules that combine in an unfortunate way, no problem results.  Each _Component_ gets its own interpretation rules.
 
-3.  As a contract drafter, I can mix and match _Components_ that achieve the aspects of the deal I have in mind.  If I remember the goal a _Component_ achieves, I can forget how it was written as I combine it with other _Components_ to achieve more complex goals.
+3.  As a contract drafter, I can mix and match _Components_ that achieve the aspects of the deal I have in mind.  If I remember what a _Component_ does, I can ignore how it does so---how it was written---as I combine it with other _Components_ to achieve more complex goals.
 
-4.  As a contract drafter, I can easily write _Components_ that others can reuse, drafting just the terms I need to achieve the purpose of the _Component_, leaving terms for parties, amounts, and other details undefined for containing agreements to provide.
+4.  As a contract drafter, I can easily write _Components_ that others can reuse, drafting just the terms I need to achieve the purpose of the _Component_, leaving terms for parties, amounts, and other details undefined for containing agreements to provide.  I can use _Components_ to build more _Components_, just as I can use _Components_ to build agreements.
 
-In the coming weeks, I'll be writing more tools and services, under the [Common Form](https://commonform.github,io) umbrellas, to make writing, sharing, and combining _Components_ easier.  This will bring the Common Form the element that I now see was missing: what computer scientists call _means of abstraction_.
+In the coming weeks, I'll be writing more tools and services, under the [Common Form](https://commonform.github,io) umbrella, to make writing, sharing, and combining _Components_ easier.  This will bring the Common Form the element that I now see was missing.  Common Form has great support for expressing the elemental language and structure of contracts, and for combining those elements in useful ways.  But it lacks what computer scientists call _means of abstraction_.
 
 Contract drafters already understand means of abstraction.  Putting terms in separate agreements, attached as exhibits, is a means of abstraction.  Separating exhibit-agreements, and _Components_ under the rules above, allow reuse of terms as functional units, or black boxes, without concern for the specifics of exactly how they were drafted.  Suppressing those details allows drafters to focus on the more complex terms created by combining existing _Components_.  Making those details irrelevant to users allows _Component_ authors freedom to refine and improve _Components_ without creating undue headaches for users.
 
-Other professionals understand the benefits of means of abstraction, too.  Computer programmers build programs out of reusable, abstract parts.  Engineers develop new devices out of [jelly bean components](https://en.wikipedia.org/wiki/Jelly_bean#Slang).  Architects design projects for [modular construction](https://en.wikipedia.org/wiki/Modular_building).
+The beneficial trade-off of means of abstraction is well known across trades and professions.  Computer programmers build programs out of reusable, abstract parts.  Engineers develop new devices out of [jelly bean components](https://en.wikipedia.org/wiki/Jelly_bean#Slang).  Architects design projects for [modular construction](https://en.wikipedia.org/wiki/Modular_building).  Contractors construct buildings and utility systems from standardized, interchangeable, prefabricated parts.
