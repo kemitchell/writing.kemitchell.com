@@ -267,4 +267,4 @@ Contract drafters already understand means of abstraction.  Putting terms in sep
 
 The beneficial trade-off of means of abstraction is well known across trades and professions.  Computer programmers build programs out of reusable, abstract parts.  Engineers develop new devices out of [jelly bean components](https://en.wikipedia.org/wiki/Jelly_bean#Slang).  Architects design projects for [modular construction](https://en.wikipedia.org/wiki/Modular_building).  Contractors construct buildings and utility systems from standardized, interchangeable, prefabricated parts.
 
-Controlling complexity allows simple creatures, like mortal contract drafters, to conquer complex needs.  It's high time the state of the art in complexity control came to contracts.
+Controlling complexity allows simple creatures, like mortal contract drafters, to conquer complex needs.  It's high time to bring the state of the art in complexity control to contract drafting.
