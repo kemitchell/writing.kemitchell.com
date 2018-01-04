@@ -70,7 +70,7 @@ While you're at it, make your new `README` thing a link
 to a new `CONTRACTS.md` file:
 
 ```markdown
-[![contracts available][1]](./CONTRACTS.json)
+[![contracts available][1]](./CONTRACTS.md)
 
 [1]: https://img.shields.io/badge/contracts-available-FF69B4.svg
 ```
