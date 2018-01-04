@@ -128,7 +128,7 @@ I've done some work [porting the DCO to GitHub-style development](https://github
 
 One thing about the approach should not change.  The tools save individual contributors from a lot of complexity and uncertainty.  But they do not and should not sacrifice respect for open source developers.  Every developer is worth educating on matters as fundamental to open source as licensing work effectively.  It's worth reminding ourselves and others that releasing source code under open source terms is exceptionally generous.  Seeing more and more of that kind of generosity in our trade doesn't make it normal, or expected.  It makes our trade exceptional.
 
-## Don't look to terms of service for virtue.
+## Terms of service do not a community make.
 
 ## Spreading unsustainability around.
 
