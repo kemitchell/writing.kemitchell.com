@@ -88,7 +88,7 @@ The proof in the pudding, as the Commission sees it, was the tokenholders' appar
 
 This point interests me for two reasons.
 
-First, I think it makes space space for new work---technical and regulatory---on the automation of governance, securities ownership, and other administrivia of business structure.  The recent legislation in Delaware, for example.
+First, I think it makes space for new work---technical and regulatory---on the automation of governance, securities ownership, and other administrivia of business structure.  The recent legislation in Delaware, for example.
 
 Interest groups have rushed to summarize the Commission's report in maximally enabling terms: "not all tokens are securities".  That's a fair contrapositive reading of the report's major conclusion, that one particular token _was_ a security, and it's worth going into why.  At the same time, it does substantial, if predictable, rhetorical abuse to the emphasis of the report and the direction of its conclusions.  No securities-savvy attorney with whom I've talked shop has argued a hard-line reading of the rules to make all tokens securities, just because they are tokens.  I wouldn't expect the Commission to take that kind of hard-line stance, either, even as headline-grabbing and gold-rush dynamics drown out work on the state of the art with the buzz of thinly disguised speculative investment runs.  And I wouldn't expect the Commission to pick a not-a-security case for its first big Report of Investigation.
 
