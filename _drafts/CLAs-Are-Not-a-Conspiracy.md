@@ -126,4 +126,12 @@ The end result is better tools and processes that solve problems with less and l
 
 I've done some work [porting the DCO to GitHub-style development](https://github.com/berneout/berneout-pledge).  The port offers additional benefits, such as requiring contributors to make a single statement about contributor licensing once for all work on GitHub, and making it very easy to check automatically whether a new contributor has made a statement.  The language and tooling are on GitHub, and I've received pull requests.  They're a marked improvement over past practice, and could certainly be improved a great deal more.
 
-One thing about the approach should not change.  The tools save individual contributors from a lot of complexity and uncertainty.  But they do not and should not sacrifice respect for open source developers.  Every developer is worth educating on matters as fundamental to open source as licensing work effectively.
+One thing about the approach should not change.  The tools save individual contributors from a lot of complexity and uncertainty.  But they do not and should not sacrifice respect for open source developers.  Every developer is worth educating on matters as fundamental to open source as licensing work effectively.  It's worth reminding ourselves and others that releasing source code under open source terms is exceptionally generous.  Seeing more and more of that kind of generosity in our trade doesn't make it normal, or expected.  It makes our trade exceptional.
+
+## Don't look to terms of service for virtue.
+
+## Spreading unsustainability around.
+
+> Beware any model of open source sustainability that boils down to a more efficient succession of willing martyrs.
+>
+> <https://twitter.com/kemitchell/status/905890664600158208>
