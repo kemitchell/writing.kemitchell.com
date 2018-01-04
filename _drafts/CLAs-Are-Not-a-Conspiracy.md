@@ -96,30 +96,34 @@ Overall, the most important function of CLAs is documenting some action, taken b
 
 ## Contributor licensing can be easy.
 
-CLAs have a bad rep because they've been done badly.  Ben mentions a glaring misstep: requiring written copies of CLA forms with handwritten signatures by mail.  It's perfectly possible to receive CLAs, or other records of similar effect, without printing, mailing, or hand-signing anything.
+CLAs have a bad rep because they've been done badly.  Ben mentions a glaring misstep, very common in the Bad Old Days: requiring written copies of contributor-license or copyright assignment forms with handwritten signatures by mail.  It's perfectly possible to receive CLAs, or other records of similar effect, without printing, mailing, or hand-signing anything.
 
-Consider the [Developer Certificate of Origin](https://developercertificate.org/).  The DCO isn't a "license agreement" per se.  It's a standardized statement made by contributors for the benefit of Linux kernel contributors and users.  The statement, or certificate, confirms that the contributor is licensing their work under the indicated license, and has the rights to do so, either because they did the work themself, or received permission from someone else.
+Consider the [Developer Certificate of Origin](https://developercertificate.org/).  The DCO isn't a "license agreement" per se.  It's a standardized statement made by contributors for the benefit of Linux kernel contributors and users.  The statement, or certificate, confirms that the contributor is licensing their work under the indicated license, and has the rights to do so, either because they did the work themself, or received permission from someone else.  Creating those records gives kernel developers evidence to fight back against claims that source code in the kernel came from someone else, who now wants to sue developers and users for infringement.  [SCO made such claims](https://en.wikipedia.org/wiki/SCO/Linux_controversies), and kernel developers adopted DCO in response.
 
 Nobody prints and signs the DCO.  Instead, developers refer to it by adding their name and a standardized `Signed-Off-By` tag to their Git commits.  Using `Signed-Off-By`, with a copy of the DCO in the repository, creates records of contributors licensing their contributions, and provides some assurance about their rights to do so.  Those records live in the code repository itself, in files and Git history.
 
-The DCO was written very specifically for Linux kernel development.  GitHub-style projects just starting out can adapt and simplify its approach by asking pull request authors about licensing before merging their work:
+The DCO was written very specifically for Linux kernel development workflow.  But it's not hard to adapt its approach to GitHub-style projects.  Simplest of all, GitHub-style maintainers can ask pull request authors about licensing before merging their work:
 
 > Do you license your contributions to this project under [Name of License], too?
 >
 > Do you have permission from any employer, a client, or other group you're working with to release your work this way?
 
-Affirmative replies create publicly accessible records on GitHub.  The records address three of the most important goals of CLAs:
+Affirmative replies create publicly accessible records on GitHub.  Those records address three of the most important goals of CLAs: confirming license terms for each contribution, confirming rights to give the licenses, and creating records of affirmative action by contributors.  For projects under permissive open source licenses, like The MIT License and BSD-style licenses, those are often the most important.
 
-- confirming license terms for each contribution
+Many open source developers probably wouldn't think to call this kind of process a "CLA", in part because so many associate "CLA" first and foremost with the hassle of bad CLA implementations, rather than their function.  But the very informal, "starter" CLA process described above is a process by which a contributor (C) agrees (A) to license (L) their contributions.  It achieves much the same result as, say, an Apache Individual Contributor License Agreement, but uses process formalities familiar to developers---Git branches and pull request messages---rather than to lawyers---documents and signature pages.
 
-- confirming rights to give license
+We could tune the starter process for more clarity, user confidence, or better record keeping, at the price of some more friction.  For example, we could require contributors to push a commit "signing" a file with their name in the Git repository, creating a record in the repository itself.  We could ask them to add licensing statements to source files they modify, already a common practice in some open source communities.  We could do either in Git metadata, rather than files.  We could ask contributors to provide their legal names, and perhaps the name of any employer or client that has given permission to release.  We could require more traditional-feeling electronic signature, with cryptographic tools or an e-sign service.
 
-- creating records of affirmative action by contributors
+Those kinds of choices could add up to a contributor licensing process with a great deal more friction.  It's up to a project to decide what works for the project, at the current stage of its development.  But it's entirely possible to create meaningful records about contribution licensing without great friction.  And it's possible to change the CLA process over time, for new contributions, going forward.  It often _won't_ be possible to go back and get contributor licensing records for old commits for which none was recorded.
 
-For projects under permissive open source licenses, like The MIT License and BSD-style licenses, those are often the most important.
-
-Many open source developers probably wouldn't think to call this kind of process a CLA, in part because so many associate CLAs first and foremost with the hassle of bad CLA processes, rather than their function.  But this is a process by which contributors agree to license their contributions.
-
-I've done some work [porting the DCO to GitHub-style development](https://github.com/berneout/berneout-pledge).  That approach offers additional benefits, requiring contributors to address the issue just once, and making it very easy to automate checks.
+Ben is absolutely right that pointless friction ought to be avoided, and that maintainers should consider the effects of added process on contributor communities.  But compared to other hurdles---learning Git, signing up for GitHub, grokking its conventions, figuring out project flow---contributor licensing processes can be relatively simple, transparent, and maintainer-guided.  They're amenable to optimization and automation.
 
 ## Contributor licensing can be even easier.
+
+A major benefit of using even a very informal, low-friction contributor licensing processes is education.  Even new developers who've figured out Git, GitHub, and project conventions end up learning a ton from the process of proposing and landing contributions.  Whether it's public licensing, code style, testing, documentation, or some other aspect of programming practice, contributors to projects that teach about these practices, rather than hide or ignore them for the sake of low friction, become community members who can understand and improve tools and techniques for all.
+
+The end result is better tools and processes that solve problems with less and less friction.  The alternative is gaps in standard practice, unrecognized by vast swathes of the community, that widen over time.  We've seen such gaps with patent licensing.  We're currently facing a gap with works made for hire and IP ownership.  Experience teaches that the risk to any particular open source project of a licensing problem is low, especially during good times for the industry.  But the more vulnerable projects we create, the higher the risk any one of them will have a significant issue.  We need herd immunity.  We need to immunize or projects against known problems, like SCO-style accusations, as a matter of course.
+
+I've done some work [porting the DCO to GitHub-style development](https://github.com/berneout/berneout-pledge).  The port offers additional benefits, such as requiring contributors to make a single statement about contributor licensing once for all work on GitHub, and making it very easy to check automatically whether a new contributor has made a statement.  The language and tooling are on GitHub, and I've received pull requests.  They're a marked improvement over past practice, and could certainly be improved a great deal more.
+
+One thing about the approach should not change.  The tools save individual contributors from a lot of complexity and uncertainty.  But they do not and should not sacrifice respect for open source developers.  Every developer is worth educating on matters as fundamental to open source as licensing work effectively.
