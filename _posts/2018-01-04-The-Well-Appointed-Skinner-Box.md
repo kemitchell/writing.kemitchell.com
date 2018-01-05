@@ -24,7 +24,7 @@ Alas, there's just enough social media in what would otherwise be a very pleasan
 
 My best mistake of the last few years may have been setting up this blog, [writing.kemitchell.com](https://writing.kemitchell.com), without Google Analytics or other tracking.  I get zero numeric feedback on my writing here, except when traffic occasionally brings the site down.
 
-That choice was intentional, but not entirely voluntarily.  Frankly, I couldn't imagine setting up a website for my practice without terms and a privacy policy, and I didn't want to write a privacy policy for sharing data with any third-party services.  I preferred to spend the time on [my first post](https://writing.kemitchell.com/2014/10/23/deep-data-privacy-risk.html).  I haven't revisited that choice until now.
+That choice was intentional, but not entirely voluntary.  Frankly, I couldn't imagine setting up a website for my practice without terms and a privacy policy, and I didn't want to write a privacy policy for sharing data with any third-party services.  I preferred to spend the time on [my first post](https://writing.kemitchell.com/2014/10/23/deep-data-privacy-risk.html).  I haven't revisited that choice until now.
 
 As it turns out, it was the right choice, for the wrong reason.  Writing this way, my only feedback is from folks who bother to write an e-mail or reach out in some other way.  I'm so grateful for those who've written.  As a whole, notes from out of the blue have been excellent.  Thanks so much to all who've taken time to send.
 
@@ -32,6 +32,6 @@ Meanwhile, it's become glaringly apparent that "retweets", "likes", "claps", and
 
 To Hell with all that.
 
-There's no substitute for other people's views, especially when facing hard problems.  I like to think I take some hard problems.  But nobody's hard on me like I'm hard on myself.  I would rather focus on developing my own standards, and posts that meet them, and miss out on low-friction feedback, than to embrace gamification of my writing under someone else's rules.  I'd rather focus on well developed posts that warrant well developed responses, and [useful works worth maintaining over time](https://oss.kemitchell.com/).
+There's no substitute for other people's views, especially when facing hard problems.  I like to think I take on some hard problems.  But nobody's hard on me like I'm hard on myself.  I would rather focus on developing my own standards, and posts that meet them, and miss out on low-friction feedback, than to embrace gamification of my writing under someone else's rules.  I'd rather focus on well developed posts that warrant well developed responses, and [useful works worth maintaining over time](https://oss.kemitchell.com/).
 
 Thanks for reading along.  A great deal more to come soon.
