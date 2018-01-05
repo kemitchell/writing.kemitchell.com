@@ -1,13 +1,16 @@
 ---
 title: CLAs are Not a Conspiracy
 layout: post
+tags:
+- Open Source
+- Licensing
 ---
 
-Earlier this week, I read Ben Balter's [_Why you probably shouldn't add a CLA to your open source project_](https://ben.balter.com/2018/01/02/why-you-probably-shouldnt-add-a-cla-to-your-open-source-project/).  I saw the article because I subscribe to Ben's blog.  I subscribe to Ben's blog because I really respect Ben, his writing, and his work at GitHub.  But I fundamentally disagree with his post, on points general and specific.  I'd like to give an alternative point of view.
+Earlier this week, I read Ben Balter's [_Why you probably shouldn't add a CLA to your open source project_](https://ben.balter.com/2018/01/02/why-you-probably-shouldnt-add-a-cla-to-your-open-source-project/).  I really respect Ben, his writing, and his work at GitHub.  But I fundamentally disagree with his post, on points general and specific.  I'd like to give an alternative point of view.
 
 As I understand Ben's argument:
 
-1.  Open source stewards prioritize attracting contributors.
+1.  Open source stewards should put attracting contributors first.
 2.  CLAs increase friction for new contributors.
 3.  Plenty of open source projects seem to get by without CLAs.
 4.  So by default, don't use them.
@@ -18,15 +21,15 @@ I'll quibble with each link in that chain, as well as with the conclusion overal
 2.  CLAs are mostly cover-your-ass maneuvers for steward-companies.
 3.  GitHub's recently updated site-wide terms of service better solve the underlying problem.
 
-We see differently on those points, too, and that probably explains at least part of why we disagree on CLAs.
+We see differently on those points, too.  That probably goes a long way to explaining why we disagree on CLAs.
 
 Overall, my view boils down to:
 
 1.  Creating records of contributor license grants solves real legal problems.
 2.  Educating contributors about those problems, and making them potential contributors to better solutions, is part of what open source should teach.
 3.  Contributor licensing needn't cause high friction.
-4.  It's often impossible to go back and get contributor licensing records for past contributions.
-5.  So by default, when taking your first contributions to a new project, ask for and keep records about contributor licensing from the get-go.
+4.  It's often impossible to go back and get contributor licensing records for past contributions, and hard to start collecting records when you've done without before.
+5.  So by default, when starting a new project, ask for and keep records about contributor licensing from the get-go.
 
 ## Your lawyer is not the enemy.
 
@@ -38,7 +41,7 @@ Ben writes:
 
 I respectfully disagree.
 
-Any transactional lawyer that takes a question from a client, catalogs every conceivable risk, prescribes the maximally effective mitigation for each one, and calls the matter resolved has failed to do their job.  They should expect follow-up questions on the likelihoods and practical costs of the risks they've identified, the costs of the defenses they've described, and alternative preventive measures that accept more risk for less cost.  In a developed attorney-client relationship, the lawyer should come to the question with a sense of the client's taste in risk, their financial picture, strategy, and timing, and tailor advice accordingly.  For scrappy upstarts, they should proactively address whether the client can defer a cost until later.   Can they fix it later at reasonable, if greater, cost?  Can they get a deal closed quicker or cheaper by omitting provisions for unlikely risks?
+Any transactional lawyer that takes a question from a client, catalogs every conceivable risk, prescribes the maximally effective mitigation for each one, ignoring cost, and calls the matter resolved has failed to do their job.  They should expect follow-up questions on the likelihoods and practical costs of the risks they've identified, the costs of the defenses they've described, and alternative preventive measures that accept more risk at lesser cost.  In a developed attorney-client relationship, the lawyer should come to the question with a sense of the client's taste in risk, their financial picture, strategy, and timing, and tailor advice accordingly.  For scrappy upstart clients, lawyers should proactively address whether the client can defer a cost until later.   Can they fix it later at reasonable, if greater, cost?  Can they get a deal closed quicker or cheaper by omitting provisions for unlikely risks?
 
 It's also unclear why Ben thinks maintainers rank experts in open source community management.  Whether Ben means "maintainer" in the sense of a steward-company, as he does elsewhere, or individuals, my experience doesn't bear out much expertise in community shepherding.  I know a number of individuals, and a few foundations, with deep experience developing or managing open source project communities.  But most lead maintainers and BDFLs start out as reluctant leaders.  They see themselves first and foremost as experts in software development or computer science, not management or public relations.
 
@@ -88,15 +91,21 @@ These goals correspond to common licensing issues:
     - Relicensing onto different license terms is also much easier when a single copyright owner can take the decision to relicense, without tracking down and securing agreement from each contributor.
 4.  _Records_:  Contributor licenses only protect users if they can find written evidence showing they were granted, on what terms, and for what intellectual property.
 
-Some of these issues directly affect users, and also indirectly affect project stewards, who might get sued by users for leading users into intellectual property problems.  That means what looks like CYA for project stewards may also afford meaningful protection for project users.
+All of these issues directly affect users.  They also indirectly affect project stewards, who might get sued by users for leading users into intellectual property problems.  That means what looks like CYA for project stewards may also afford meaningful protection for users.
 
-For example, most common CLA forms require contributors to guarantee that they have the legal right to license intellectual property in their contributions.  With rare exception, notably the [Open Software License](https://opensource.org/licenses/OSL-3.0) and [Academic Free License](https://opensource.org/licenses/AFL-3.0), open source licenses don't make any such guarantees.  (Some states' and countries' laws require, and imply, such a guarantee, regardless.)  As a result, a project steward that uses Apache-style terms gets more assurance about rights to license from contributors, under its CLAs, than it gives users, under [The Apache License](https://apache.org/licenses/LICENSE-2.0).  Having CLAs on file for a project gives the steward evidence with which to fight back against lawsuits for direct or indirect infringement.  But the process of requiring and collecting those documents also gives project users better assurance that they won't be liable for infringement than they'd receive from an open source license alone.  Giving the steward robust intellectual property provenance protection protects the foundation, which in turn protects its ability to coordinate, support, and compensate contributors to the project, improving it for users.
+For example, most common CLA forms require contributors to guarantee that they have the legal right to license intellectual property in their contributions.  With rare exception, notably the [Open Software License](https://opensource.org/licenses/OSL-3.0) and [Academic Free License](https://opensource.org/licenses/AFL-3.0), open source licenses don't make any such guarantees.  (Some states' and countries' laws require, and imply, such a guarantee, regardless.)  As a result, a project steward that uses Apache-style terms gets more assurance about rights to license from contributors, under its CLAs, than it gives users, under [The Apache License](https://apache.org/licenses/LICENSE-2.0).
+
+Having CLAs on file for a project gives the steward evidence with which to fight back against lawsuits for direct or indirect infringement.  But the process of requiring and collecting those documents also gives project users better assurance that they won't be liable for infringement than they'd receive from an open source license alone.  Giving the steward robust intellectual property provenance protection protects the foundation, which in turn protects its ability to coordinate, support, and compensate contributors to the project, improving it for users.
 
 Overall, the most important function of CLAs is documenting some action, taken by each contributor, that shows they license intellectual property rights in their contributions on specific open source terms.  That evidence fills the gap between expectation of "inbound=outbound"---that contributors license their work under the same license already used for the project---and the law.
 
-I'm not aware of any legal rule that reliably implies licenses for contributions to open source projects on the same license terms that the original developer licensed their work to the public.  The arguments for creating explicit records that contributors license their terms under the project's public license are the same as for ensuring that a project has license terms to begin with.
+I'm not aware of any legal rule that reliably implies licenses for contributions to open source projects on the same license terms that the original developer licensed their work to the public.  The arguments for creating explicit records that contributors license their terms under the project's public license are the same as for ensuring that a project has license terms to begin with.  Putting a project's source on GitHub probably means you're alright with other folks running wild with it, but the lack of license terms is enough to give mindful, deep-pocket, and well-known potential users pause.  The situation for outside contributions differs only by the fact that someone else put notice of license in the repository for their work first.
 
-Ben analogizes open source projects to take-a-penny, leave-a-penny trays in stores.  I wish that analogy were compelling, but I fear it's not.  Cash is fundamentally different from intellectual property licenses.  Pennies are physical items of specific value freely spent by those who hold them.  Copyright and patent licenses are intangible rights, whose scopes have to be set out in terms, that trace back to specific owners.  Placing a penny in a penny tray manifests a much more specific intent about the penny and what others can do with it than placing code on GitHub.  On top of that, pennies are as close to worthless as cash can be.  Licensing a patent covering a contribution under an open source license, on the other hand, can be a decision, or mistake, of multi-million-dollar proportions.  We shouldn't expect courts to imply licenses easily.  If and when they do, we should expect them to scope those licenses narrowly, in keeping with the policy choices behind the copyright laws, not the permissive bent of the open source licensing counterculture.
+Ben analogizes open source projects to take-a-penny, leave-a-penny trays in stores.  I wish that analogy were compelling, but I fear it's not.  Cash is fundamentally different from intellectual property licenses.  Pennies are physical items of specific value freely spent by those who hold them.  Copyright and patent licenses are intangible rights, whose scopes have to be set out in terms, that trace back to specific owners.  Placing a penny in a penny tray manifests a much more specific intent about the penny and what others can do with it than placing code in a public GitHub repository.
+
+On top of that, pennies are as close to worthless as American coins can be.  There are strong arguments for [abolishing the penny](https://en.wikipedia.org/wiki/Penny_debate_in_the_United_States), to spare the country the hassle of dealing with them.  Licensing a patent covering a contribution under an open source license, on the other hand, can be a decision---or mistake---of multi-million-dollar proportions.  We shouldn't expect courts to imply licenses easily, and case law indicates that they don't.  When they do, we should expect them to scope those licenses narrowly, in keeping with the policy thrusts of copyright and patent laws, not the permissive bent of the open source licensing counterculture.
+
+Long story short, proprietary is the default for software under copyright law.  It takes an open source license to turn proprietary-by-default software into open source software.  Many open source community members expect others to license their contributions as others have licensed before them.  Courts are capable of implying licenses from things that copyright holders do, but it is not enough to show that others expected to receive a license.  The rules about implied licenses are in some ways even less clear than rules about fair use, and we should expect courts to .
 
 ## Contributor licensing can be easy.
 
@@ -139,3 +148,22 @@ One thing about the approach should not change.  The tools save individual contr
 > Beware any model of open source sustainability that boils down to a more efficient succession of willing martyrs.
 >
 > <https://twitter.com/kemitchell/status/905890664600158208>
+
+
+---
+
+> # United States Courts for the Ninth Circuit Manual of Model Civil Jury Instructions
+>
+> ## 17.25. Copyright---Affirmative Defense---Implied License
+>
+> ...
+>
+> ## Comment
+>
+> ...
+>
+> Although this model instruction accurately captures one recurring set of implied license facts, implied licenses arise in a wide variety of circumstances, including many---such as express contracts that fail because of the statute of frauds or partnership arrangements---for which the elements of an implied license will be different.
+>
+> Implied license is an affirmative defense to copyright infringement.  _Asset Mktg._, 542 F.3d at 754.  When a plaintiff contributes copyrightable work to the defendant in exchange for some benefit (such as a share in partnership profits, a fee, or a salary), a license for the defendant to use plaintiff’s work may be implied.  _See_ _U.S. Auto Parts_, 692 F.3d at 1019-0 (discussing existence of implied license in context of employment relationship); _Asset Mktg._, 542 F.3d at 750, 754-5 (involving independent contractor relationship); _Oddo v. Ries_, 743 F.2d 630, 634 (9th Cir.1984) (involving partnership relationship). A license is often implied when "without such a license, [the plaintiff’s compensated] contribution…would have been of minimal value." _Id._
+>
+> An implied license may be implied by conduct.  _See_ _Foad Consulting Grp., Inc. v. Azzalino_, 270 F.3d 821, 825 (9th Cir.2001).  It may be unlimited in scope or restricted to certain specific rights.  _Compare_ _Asset Mktg._, 542 F.3d at 757 (finding that plaintiff granted defendant "unlimited" implied license "to retain, use, and modify" work), with _Oddo_, 743 F.2d at 634 (plaintiff granted defendant implied license to use work in manuscript and not "in any work other than the manuscript itself").  The defendant bears the burden of proof as to the scope and existence of an implied license.  _Id._ at 634 & n.6.  Limitations on the scope of an implied license may be strictly construed.  _See_ _id._ at 634 (finding that implied license to use copyrighted work in a manuscript does not imply "the right to use the [copyrighted work] in any work other than the manuscript itself"); _cf._ _Asset Mktg_, 542 F.3d at 757 (finding plaintiff granted defendant "unlimited" implied license "to retain, use, and modify" work when plaintiff previously evinced no intent to limit the scope of defendant’s use).
