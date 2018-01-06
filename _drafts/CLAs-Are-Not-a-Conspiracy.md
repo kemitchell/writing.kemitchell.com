@@ -180,4 +180,4 @@ A great deal of the community's strength comes of accepting, and channeling, div
 
 > At the end of the day, it’s possible to have a successful and sustainable open source project without a CLA. It’s not possible, however, to have a successful or sustainable open source project without a strong influx of new contributors.
 
-That embodies definitions of "success" and "sustainable" with which I suspect I disagree.
+That implies definitions of "success" and "sustainable" that are not universally shared.  Single-contributor projects are the norm, and some give faithful service, over decades, with few if any outside patches.  Projects that chew through lead maintainers, new blood stepping in as old burns out and steps away, are sustainable only for a very narrow definition of sustainable, seeing exclusively from users' point of view.
