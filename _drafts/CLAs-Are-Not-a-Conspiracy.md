@@ -170,7 +170,7 @@ Second, and more importantly, this approach encourages hiding contributor licens
 
 Open source contributions should be acknowledged and celebrated.  It's one thing to invite others to join the party.  It's quite another to make it not just expected but mandatory, the price of an entry ticket, via website terms, to a popular platform.  Especially when choice of license terms, from a diverse array of accepted licenses, is such an established medium of ideological, even political, self-expression and self-identification.
 
-## Company's no cure for misery.
+## Company's no misery cure.
 
 Ben and I haven't had a good sit-down talk about open source sustainability.  I'd sure love the chance.  In the meantime, I don't want to jump to any conclusions about how he sees the problem.  But reading through his post, I can't help seeing concepts of what open source is, or ought to be, running through it.
 
@@ -182,7 +182,7 @@ Closing out his post on CLAs, Ben writes:
 
 > At the end of the day, it’s possible to have a successful and sustainable open source project without a CLA. It’s not possible, however, to have a successful or sustainable open source project without a strong influx of new contributors.
 
-I'm at serious risk of projecting here, but I can't help thinking this implies definitions of "success" and "sustainable" that are valid, but by no means universally shared.  Projects largely attributable to a single contributor are the norm, and some give faithful service over decades, with few outside patches.  Projects that chew through lead maintainers, leaving a trail of burnout victims in `CHANGELOG` behind them, are sustainable only for a very narrow definition of sustainable, seeing only from the user point of view.
+I'm at serious risk of projecting here, but I can't help thinking this implies definitions of "success" and "sustainable" that are valid, but by no means universally shared.  Projects largely attributable to a single contributor are the norm, and some give faithful service over decades, with few outside patches.  Projects that chew through lead maintainers, leaving a trail of once-eager burnout casualties in `CHANGELOG` behind them, are sustainable only for a very narrow definition of sustainable, seeing only from the user point of view.
 
 The meaning of "open source" is changing.  [I welcome that change.](https://writing.kemitchell.com/2016/05/13/What-Open-Source-Means.html)  GitHub, the kind of development that emerged there, and the approach GitHub itself increasing encourages, have done a lot stir things up.  As for the loss of whatever clarity preceded it, I've written:
 
