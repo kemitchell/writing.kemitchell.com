@@ -132,7 +132,7 @@ On the other hand, without a process in place, it's often very hard to establish
 
 Ben is absolutely right that pointless friction ought to be avoided, and that maintainers should consider the effects of every process decision on contributor communities and new developers.  If every contributor licensing process had to be as clunky, archaic, and alien as they often were in the early 2000s, I might agree with foregoing them, generally.  But they don't.  Compared to other hurdles---learning Git, signing up for GitHub, agreeing to its terms, grokking platform conventions, figuring out project flow---contributor licensing can be simple, jargon-free, and easy to facilitate.
 
-## Contributor licensing can be even easier.
+## Contributor licensing can be easier still.
 
 A major benefit of using even very informal, minimal-friction contributor licensing processes is education.  Even new developers who've figured out Git, GitHub, and project conventions from GitHub's guides and training programs end up learning far more, by volume, from experience proposing and landing patches.  Whether it's public licensing, code style, testing, documentation, or some other aspect of programming practice, contributors to projects that teach these practices, rather than suppress or ignore them, become community members capable of understanding and improving tools and techniques for all.
 
