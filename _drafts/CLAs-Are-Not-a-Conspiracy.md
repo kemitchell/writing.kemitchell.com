@@ -184,7 +184,7 @@ Closing out his post on CLAs, Ben writes:
 
 I'm at serious risk of projecting here, but I can't help thinking this implies definitions of "success" and "sustainable" that are valid, but by no means universally shared.  Projects largely attributable to a single contributor are the norm, and some give faithful service over decades, with few outside patches.  Projects that chew through lead maintainers, leaving a trail of burnout victims in `CHANGELOG` behind them, are sustainable only for a very narrow definition of sustainable, seeing only from the user point of view.
 
-The meaning of "open source" is changing.  [I welcome that change.](https://writing.kemitchell.com/2016/05/13/What-Open-Source-Means.html)  GitHub, the kind of development that developed there, and the kind of development GitHub increasing encourages, have done a lot stir things up.  As for the loss of whatever clarity preceded it, I've written:
+The meaning of "open source" is changing.  [I welcome that change.](https://writing.kemitchell.com/2016/05/13/What-Open-Source-Means.html)  GitHub, the kind of development that emerged there, and the kind of development GitHub increasing encourages, have done a lot stir things up.  As for the loss of whatever clarity preceded it, I've written:
 
 > It's all a meager price to pay if "open source" becomes an inclusive identity badge for lots of people trying to do software together on the Internet, rather than a resharpened wedge or a well-demarcated historical curiosity.
 
