@@ -160,15 +160,15 @@ GitHub's terms try to have it both ways by declaring that inbound=outbound _is_ 
 
 > Isn't this just how it works already? Yep. This is widely accepted as the norm in the open-source community; it's commonly referred to by the shorthand "inbound=outbound". We're just making it explicit.
 
-As evidence for an implied license, GitHub _telling_ that inbound=outbound is the norm is not the same, or as good, as _showing_ that lots of open source developers expect and follow it.  It matters _who_ sends the message, not just that the message is inbound=outbound.
+As evidence for an implied license, GitHub _telling_ that inbound=outbound is the norm is not the same, or as good, as _showing_ that lots of open source developers expect and follow it.
 
-The two are in tension.  If relying on the GitHub terms of service fallback becomes the norm for contribution licensing, contributors will say and learn less and less about what they expect as community members, and less and less about contribution licensing overall.  As it stands, I don't think a thought like inbound=outbound has crossed most open source developer's minds.  They've simply never thought of the matter.
+The two are in tension.  If relying on the GitHub terms of service fallback becomes the norm for contribution licensing, contributors will say and learn less and less about what they expect as community members, and less and less about contribution licensing overall.  As it stands, I don't think a thought like inbound=outbound has crossed most open source developer's minds.  They've simply never thought about it.
 
 More immediately, trying to legislate inbound=outbound in terms of service begs questions: If inbound=outbound was already consensus, why was it necessary to codify it?  Taking that for granted, how can we be sure GitHub codified it correctly?  In other words, if inbound=outbound were the law, or "how it works already", there'd be no point writing it out in terms of service.
 
-Second, and more importantly, this approach encourages hiding contributor licensing out of sight and out of mind.  Much has been said of open source becoming the new "normal", at least for certain kinds of code used to build software that is not open source.  But open source is exciting because open source is _not_ normal.  Proprietary, closed-source software is the legal and business default.  Giving away valuable work for literally anyone to run with is extraordinary.
+Second, and more importantly, this approach encourages hiding contributor licensing out of sight and out of mind.  Much has been said of open source becoming the new "normal", at least for certain kinds of code used to build software that is not open source.  But open source is exciting because it's delightfully abnormal.
 
-Open source contributions should be acknowledged and celebrated.  It's one thing to invite others to join the party.  It's quite another to make it not just expected but mandatory, the price of an entry ticket, via website terms.  Especially when choice of license terms, from a diverse array of accepted licenses, is such an established medium of ideological, even political, self-expression and self-identification.
+Open source contributions should be acknowledged and celebrated.  It's one thing to invite others to join the party.  It's quite another to make it not just expected but mandatory, the price of an entry ticket, via website terms, to a popular platform.  Especially when choice of license terms, from a diverse array of accepted licenses, is such an established medium of ideological, even political, self-expression and self-identification.
 
 ## Spreading unsustainability around.
 
