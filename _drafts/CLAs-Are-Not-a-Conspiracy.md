@@ -160,7 +160,7 @@ GitHub's terms try to have it both ways by declaring that inbound=outbound _is_ 
 
 > Isn't this just how it works already? Yep. This is widely accepted as the norm in the open-source community; it's commonly referred to by the shorthand "inbound=outbound". We're just making it explicit.
 
-As evidence for an implied license, GitHub _telling_ that inbound=outbound is the norm is not the same, or as good, as _showing_ that lots of open source developers expect and follow it.
+As evidence for an implied license, GitHub _telling_ that inbound=outbound is the norm is not the same, or as good, as _showing_ that lots of open source developers expect and follow it.  It matters _who_ sends the message, not just that the message is inbound=outbound.
 
 The two are in tension.  If relying on the GitHub terms of service fallback becomes the norm for contribution licensing, contributors will say and learn less and less about what they expect as community members, and less and less about contribution licensing overall.  As it stands, I don't think a thought like inbound=outbound has crossed most open source developer's minds.  They've simply never thought of the matter.
 
