@@ -190,4 +190,4 @@ The meaning of "open source" is changing.  [I welcome that change.](https://writ
 
 If a company takes their product open source, solicits outside contribution, and actively recruits those contributing, as MySQL did in its early days, even heavy-duty CLAs might make perfect sense.  Programmers on payroll---sustaining their contributions in a refreshingly direct, rational way---is worth protecting, and vigorously.  We know from experience such projects can succeed.  That's definitely not the only way to to do open source, or perhaps the most exciting or fashionable way.  But it is open source.
 
-It's damn hard to give general prescriptions for all of open source in its diversity, or to define "success", "sustainability", or "quality" without slighting someone, somewhere, making great software differently.  But it's important to keep trying, and refining, in the open.
+It's damn hard to give general prescriptions for all of open source, or to define "success", "sustainability", or "quality" without slighting someone, somewhere, making great open source in a different way.  But it's important to keep trying, and refining, in the open.
