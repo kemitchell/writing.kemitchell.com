@@ -54,7 +54,7 @@ Granted, if company counsel doesn't take the time to [read up on open source](ht
 
 ## Your company is not the enemy.
 
-Ben asks developers to argue that company cost-benefit analysis of CLAs "should be resolved in favor of contributors, not the corporation".  Making cost-benefit decisions against their own interests is not what corporations are for.  Of course lawyers become natural antagonists to this kind of line, because it's their duty to put client interests first.  The same goes for managers.
+Ben asks developers to argue that company cost-benefit analysis of CLAs "should be resolved in favor of contributors, not the corporation".  Making cost-benefit decisions against their own interests is not what corporations do.  Of course lawyers become natural antagonists to this kind of line, because it's their duty to put client interests first.  The same goes for managers.
 
 If we want more quality open source software out of companies, and more company support for contributions from others, we need to show and tell that stewarding open source projects is to their benefit.  We need to show that open source savvy developers aren't potential turncoats, but guides to previously untapped opportunity.  Casting steward-community relations as a zero-sum game between company and community, then encouraging employees to bat for the other team, only stokes unwarranted suspicion toward open source and allied programmers.
 
