@@ -156,7 +156,7 @@ I published [concerns about this addition](https://writing.kemitchell.com/2017/0
 
 First, if what we really want is legal recognition of inbound=outbound as a reliable theory of implied copyright and patent license, not just on GitHub but throughout open source, we get there by producing a long, public record of community consensus, not centralized pronouncements that consensus has been achieved.
 
-GitHub's terms try to get around this by declaring that inbound=outbound is consensus:
+GitHub's terms try to have it both ways by declaring that inbound=outbound _is_ consensus:
 
 > Isn't this just how it works already? Yep. This is widely accepted as the norm in the open-source community; it's commonly referred to by the shorthand "inbound=outbound". We're just making it explicit.
 
