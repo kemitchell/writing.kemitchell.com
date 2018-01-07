@@ -170,7 +170,7 @@ Second, and more importantly, this approach encourages hiding contributor licens
 
 Open source contributions should be acknowledged and celebrated.  It's one thing to invite others to join the party.  It's quite another to make it not just expected but mandatory, the price of an entry ticket, via website terms, to a popular platform.  Especially when choice of license terms, from a diverse array of accepted licenses, is such an established medium of ideological, even political, self-expression and self-identification.
 
-## Company's no misery cure.
+## Company's no cure for misery.
 
 Ben and I haven't had a good sit-down talk about open source sustainability.  I'd sure love the chance.  In the meantime, I don't want to jump to any conclusions about how he sees the problem.  But reading through his post, I can't help seeing concepts of what open source is, or ought to be, running through it.
 
