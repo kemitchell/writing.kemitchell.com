@@ -21,11 +21,11 @@ As I understand Ben's argument:
 I'll quibble with each link in that chain, as well as the overall conclusion.  But I also want to address some themes cutting across Ben's discussion:
 
 - Lawyers are biased against, or incapable of, practical advice on open source licensing and community matters.
--Programmers at steward-companies should regard advice about company risk with suspicion, and push back against it on behalf of outside contributors.
+- Programmers at steward-companies should regard advice about company risk with suspicion, and push back against it on behalf of outside contributors.
 - CLAs are mostly cover-your-ass maneuvers for steward-companies.
 - GitHub's recently updated site-wide terms of service better solve the underlying problem.
 
-We see differently on those underlying points, too.  Which partially explains why we come to different conclusions.
+We see differently on those underlying points, too.  Which partially explains our differing conclusions.
 
 How do I see things?
 
@@ -33,7 +33,7 @@ How do I see things?
 - Contributor licensing needn't cause high friction.
 - Open source should teach contributor licensing, not hide it.
 - It's very hard to put contributor licensing off.
-- So by default, set up a process from the get-go.
+- So by default, follow a process from the get-go.
 
 ## Your lawyer is not the enemy.
 
@@ -45,13 +45,13 @@ Ben writes:
 
 I respectfully disagree.
 
-Any transactional lawyer that takes a question from a client, catalogs every conceivable risk, prescribes the maximally effective mitigation for each, and calls it a day has failed to practice law.  Expect follow-up questions on the likelihoods and practical costs of risks identified, costs of defenses described, and alternatives that accept more risk at lesser cost.  In a developed attorney-client relationship, the lawyer should come to the question with a sense of the client's taste in risk, their financial picture, strategy, and timing, and tailor advice accordingly.  Not hold a hard line calling for Pyrrhic victory, in open source licensing or any other area.
+Any transactional lawyer that takes a question from a client, catalogs every conceivable risk, prescribes the maximally effective mitigation for each, and calls it a day has failed to practice law.  Expect follow-up questions on the likelihoods and practical costs of risks identified, costs of defenses described, and alternatives that accept more risk at lesser cost.  In a developed attorney-client relationship, the lawyer should come to the question with a sense of the client's taste in risk, their financial picture, strategy, and timing, and tailor advice accordingly.  Not march blindly to Pyrrhic victory, in open source licensing or anywhere else.
 
 On the other hand, I don't think maintainers rank experts in all aspects of holistic open source community management.  I know a number of hackers, and a few foundations, consciously focused on developing and facilitating open source projects.  But most popular-project maintainers I see start out as reluctant leaders, at the reins of work attracting far more interest than any of their previous efforts.  Those folks see themselves as experts in software, not management or public relations.
 
-Even seasoned project leaders don't immerse themselves in intellectual property law or the state of the art in open source licensing.  They tap lawyers with that knowledge when they need it.  When help comes care of a company, it's absolutely true that the lawyer's professional duty is seeing after company interests.  That's what companies expect when they pay people generally, whether to write legal advice or software.  Fortunately, when a company decides that its interest is in building and supporting an active open source project community, there's no inherent conflict between what the project needs and what its lawyers, or its programmers, ought to recommend.
+Even seasoned project leaders don't immerse themselves in intellectual property law or the state of the art in open source licensing.  They tap lawyers with that knowledge when they need it.  When help comes care of a company, it's absolutely true that the lawyer's professional duty is seeing after company interests.  That's what companies expect when they pay people generally, whether to write legal advice or software.  Fortunately, when a company decides that its interest is in building and supporting an active open source project community, there's no inherent conflict between what the project needs and what its lawyers, or its programmers, ought to recommend.  Just costs and benefits to reckon.
 
-Granted, if company counsel doesn't take the time to [read up on open source](https://www.amazon.com/dp/1544737645/), or to understand how it fits into the company's overall strategy, employees should encourage them to do so, or encourage management to find someone who already has.  There are many good open source lawyers to choose from.  Having an eye for risk doesn't blind them to opportunities or trade-offs, any more than GitHub's interest in signing up new users blinds Ben.  Legal calls are judgment calls.  It's still important to focus on arguments about CLAs that all can acknowledge, and to avoid generalizing the motivations of who's arguing.
+Granted, if company counsel doesn't take the time to [read up on open source](https://www.amazon.com/dp/1544737645/), or to understand how it fits into the company's overall strategy, employees should encourage them to do so, or encourage management to find someone who will.  There are many good open source lawyers to choose from.  Having an eye for risk doesn't blind them to opportunities or trade-offs, any more than GitHub's interest in signing up new users blinds Ben's independent judgment.  Legal calls are judgment calls.  It's still important to focus on arguments about CLAs that all can acknowledge, and to avoid generalizing the motivations of who's arguing.
 
 ## Your company is not the enemy.
 
@@ -59,13 +59,13 @@ Ben asks developers to argue that company cost-benefit analysis of CLAs "should 
 
 If we want more quality open source software out of companies, and more company support for contributions from others, we need to show and tell that stewarding open source projects accrues to their benefit.  We need to show that open source savvy developers aren't potential turncoats, but guides to previously untapped opportunity.  Casting steward-community relations as a zero-sum game between company and community, then encouraging employees to bat for the other team, only stokes unwarranted suspicion toward open source and allied programmers.
 
-As with coder-lawyer relations, the better frame for coder-company relations is enlightened self-interest.  Argue that companies benefit overall by running without CLAs, accepting the risk they'd otherwise mitigate, in exchange for a better chance of benefits flowing back from the project as outside contributions.  I don't think that particular argument holds in most cases, for reasons to come, but it's valid and rhetorically clean.  It points to the cost-benefit analysis, which is the real debate, without making in-house counsel out as paper-hungry paranoids, or developers out as would-be double agents.
+As with coder-lawyer relations, the better frame for coder-company relations is enlightened self-interest.  Argue that companies benefit overall by running without CLAs, accepting the risk they'd otherwise mitigate, in exchange for a better chance of benefits flowing back from the project as outside contributions.  I don't think that particular argument holds in most cases, for reasons to come, but it's valid and rhetorically clean.  It points to the cost-benefit analysis, which is the real debate, without making in-house counsel out as paper-hungry paranoids, or developers out as double agents.
 
 ## CLAs solve real legal problems.
 
-Copyright law gives software authors the right to sue others for copying, changing, and distributing their code without permission.  Open source licenses [reverse those defaults](https://oss.kemitchell.com/#defaults-and-overrides), so everyone is free to use, share, and build on the software.  Every contributor of copyrightable work to a project needs to apply an open source license to their work to make the whole open source.  They need to create specific, written records of doing so, to give users confidence.
+Copyright law gives software authors the right to sue others for copying, changing, and distributing their code without permission, whether they want it or not.  Open source licenses [reverse those defaults](https://oss.kemitchell.com/#defaults-and-overrides), so everyone is free to use, share, and build on the software.  Every contributor of copyrightable work to a project needs to apply an open source license to their work to make the whole open source.  They need to create specific, written records of doing so, to give users confidence.
 
-"CLA" stands for "Contributor License Agreement".  But among programmers, CLA has come to stand for nearly any legal tool that contributors handle for submission of contributions to projects stewarded by others.  CLA forms aren't formally standardized in the same way open source public licenses are, but a few forms get widely reused and adapted, over and over again:
+"CLA" stands for "Contributor License Agreement".  But among programmers, CLA has come to stand for nearly any legal tool that contributors handle for submission of contributions to projects stewarded by others.  CLA forms aren't formally standardized in the same way open source public licenses are, but a few get widely reused and adapted, over and over again:
 
 - the Apache Foundation's [corporate](https://www.apache.org/licenses/cla-corporate.pdf) and [individual](https://www.apache.org/licenses/icla.pdf) CLAs, from which Google derived its [individual](https://cla.developers.google.com/about/google-individual) and [corporate](https://cla.developers.google.com/about/google-corporate) forms
 - the [Developer Certificate of Origin](https://developercertificate.org/), developed for the Linux kernel, now applied by other large projects, such as [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#developers-certificate-of-origin-11)
@@ -95,7 +95,7 @@ All of these issues directly affect risks to users.  They also indirectly affect
 
 For example, most common CLA forms require contributors to guarantee to project stewards they have the legal right to license intellectual property in their contributions.  With rare exception, notably the [Open Software License](https://opensource.org/licenses/OSL-3.0) and [Academic Free License](https://opensource.org/licenses/AFL-3.0), open source licenses don't make any such guarantees to users.  (Some legal systems require and imply such a guarantee, regardless.)  As a result, a project steward that uses Apache-style terms often gets more assurance about rights to license from contributors, through CLAs, than it gives users, under the [Apache License](https://apache.org/licenses/LICENSE-2.0).
 
-Having CLAs on file for a project gives the steward evidence, in addition to records about its own personnel, with which to fight back against lawsuits for direct or indirect infringement.  But the process of requiring and collecting those documents also gives project users better assurance that they won't be liable for infringement.  Giving the steward robust intellectual property provenance protection protects the steward.  The steward is often the one doing the most to coordinate, support, and promote the project, benefiting users.
+Having CLAs on file for a project gives the steward evidence, in addition to records about its own personnel, with which to fight back against lawsuits for direct or indirect infringement.  But the process of requiring and collecting those documents also gives project users better assurance that they won't be liable for infringement. Partly because of the responses, but partly just by alerting contributors to the idea that rights in their work may not belong to them.  Giving the steward robust intellectual property provenance protection protects the steward.  But the steward is often the one doing the most to coordinate, support, and promote the project, benefiting users.
 
 Overall, the most important function of CLAs is documenting some action, taken by each contributor, about licensing.  That evidence fills the gap between expectation of "inbound=outbound"---that contributors license their work under the same license already used for the project---and the law.
 
