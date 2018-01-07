@@ -1,5 +1,6 @@
 ---
-title: CLAs are Not a Conspiracy
+title: CLAs are Not a Sham
+description: licensing with friends, improved and improving
 layout: post
 tags:
 - Open Source
