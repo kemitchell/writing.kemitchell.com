@@ -44,6 +44,8 @@ We need a rule to resolve those conflicts:
 
 > Where this document uses a term defined more than once, the definition nearest the use takes precedence. To find the nearest definition, look for a definition in the organizational subdivision where the term is used, then in the subdivision containing that subdivision, then in the subdivision containing that subdivision, and so on.
 
+(To see my latest revision of this language, check it out [on commonform.org](https://commonform.org/publications/kemitchell/lexical-scope/latest).)
+
 This rule follows my proposal in _[Lexical Scope for Contracts]_ by reusing the organizational structure of the document itself to create boundaries for scopes.  It differs from prior rules by doing no more than necessary.  The rule _only_ applies to, and addresses, situations where a term is defined more than once.  It does _not_ change the general rule of definition scope in any way.
 
 ## Tuning
