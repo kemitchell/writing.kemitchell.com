@@ -1,5 +1,5 @@
 ---
-title: Mothflames: User Generated Content
+title: "Mothflames: User Generated Content"
 layout: post
 tags:
 - mothflames
