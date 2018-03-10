@@ -1,8 +1,10 @@
 ---
 title: Proseline
-description:
+description: peer to peer prose editing
 layout: post
 tags:
+- Software
+- Peer-to-Peer
 ---
 
 The most important thing for my work is good focus.  The second most important thing is good distractions.  My latest focus-promoting distraction is [Proseline](https://proseline.com), a new way to write with others.
