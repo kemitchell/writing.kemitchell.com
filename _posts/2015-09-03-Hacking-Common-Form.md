@@ -158,7 +158,7 @@ If you'd like to try a small project with Common Form to get your head around Ja
 [commonform-serve]: https://npmjs.com/packages/comonform-serve
 [commonform-terminal]: https://npmjs.com/packages/commonform-terminal
 [commonform-tex]: https://npmjs.com/packages/commonform-tex
-[commonform-treeify-annotations]: commonform-treeify-annotations
+[commonform-treeify-annotations]: https://npmjs.com/packages/commonform-treeify-annotations
 [commonform-validate]: https://npmjs.com/packages/commonform-validate
 [decimal-numbering]: https://npmjs.com/packages/decimal-numbering
 [level-commonform]: level-commonform
