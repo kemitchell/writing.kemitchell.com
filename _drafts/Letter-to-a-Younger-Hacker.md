@@ -7,7 +7,7 @@ Facebook's in trouble, but you knew Facebook was trouble.  You closed your accou
 
 Your credit card and tax numbers are all for sale.  Target.  Equifax.  Dozens more.  You couldn't opt out of all those systems if you tried.  It was a matter of time.  You knew it was a matter of time.
 
-You're still on Twitter.  You're halfway to quitting, too.  Only half way.  Because you have it easy there.  You see friends who have it harder.  Harassment gangs, gamifications, the posturing, public anxiety of it all.  You and your friends, you're helping each other cope.  Wouldn't it be easier to help each other quit?  Wouldn't it be easier to build your own?
+You're still on Twitter.  You're halfway to quitting, too.  Only half way.  Because you have it easy there.  You see friends who have it harder.  Harassment gangs, gamifications, the posturing, public anxiety of it all.  You and your friends, you're helping each other cope.
 
 Software freedom brought you up.  Set the foundation of everything you've built since.  But you don't think much on software freedom these days.  In some dusty, even nostalgic place, you still believe.  But it's a silent place.  Software freedom is only something you believe, something with which you identify, something, perhaps, through which you relate.  But not something you act out.  Not anymore.
 
@@ -26,3 +26,5 @@ Networks have gravity.  Social networks.  Payment networks.  Culture networks.  
 The Free Software Movement, for what it's worth, is a network, and also has pull.  It's so much easier to port GCC than to write a compiler.  It's so much easier to tweak WordPress than to build your own CMS.  It's so much easier to download that library than to build it yourself.
 
 Network power is pervasive power.  The free software network affects not just the software sympathetic hackers build, but the software sympathetic hackers don't build, and can't effectively opt out of.  Free software networks implement a policy, a position on software, on how it should be made and used.  They don't enforce that policy, emphasis _force_, but encourage and subsidize it.  Life is better in the network.  Come on in.
+
+Software freedom's influence has been increasingly sequestered.  From the proprietary perspective, a successful campaign of containment.  Some say that "open source" and "free software" are the same.  But open source has won, and software freedom hasn't.
