@@ -711,6 +711,8 @@ I license this article under a
 
 [license]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-A [Japanese translation] is available.
+[Russian] and [Japanese] translations are available.
 
-[Japanese Translation]: http://postd.cc/mit-license-line-by-line/
+[Russian]:  http://www.opensourceinitiative.net/edu/MIT-License/
+
+[Japanese]: http://postd.cc/mit-license-line-by-line/
