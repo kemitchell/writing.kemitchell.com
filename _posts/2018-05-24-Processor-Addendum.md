@@ -5,6 +5,8 @@ layout: post
 tags:
 - Forms
 - Contracts
+- Privacy
+- GDPR
 ---
 
 I've published [a plain-language contract addendum for GDPR processors][github] that covers processor requirements, and incorporates standard clauses for transfer as needed.
