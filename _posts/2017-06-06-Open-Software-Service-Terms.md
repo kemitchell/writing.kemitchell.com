@@ -8,7 +8,7 @@ tags:
 - Open Source
 ---
 
-I'm pleased to announce publication of freely available, generic license terms for hosted and licensed software services.  The current draft is available [on commonform.org](https://commonform.org/publications/kemitchell/generic-software-service-terms/latest), as well [on GitHub](https://github.com/kemitchell/software-service-terms/releases), where issues and pull requests are welcome.
+I'm pleased to announce publication of freely available, generic license terms for hosted and licensed software services.  The current draft is available [on commonform.org](https://commonform.org/kemitchell/generic-software-service-terms/latest), as well [on GitHub](https://github.com/kemitchell/software-service-terms/releases), where issues and pull requests are welcome.
 
 <!--jump-->
 

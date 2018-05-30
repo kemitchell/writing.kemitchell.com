@@ -79,7 +79,7 @@ Programs that _do_ focus on the natural language, but only in discrete chunks, l
 
 The result is a pretty compelling suite of `lint`-like tools that compose nicely and make the freeform nature of contract drafting a lot more manageable.  I have personally made countless changes to my own contracts under the unflinching eye of these programs, many of which I wrote myself.  To get a sense, click a few flags in the margin of this decidedly old-school contract form:
 
-<https://commonform.org/publications/kemitchell/orthodox-california-release-for-payment/latest>
+<https://commonform.org/kemitchell/orthodox-california-release-for-payment/latest>
 
 I've released quite a few open legal forms that I'm very proud of.  Most of these involved so much original writing, or so much rewriting and restructuring, that I couldn't imagine finishing or having sufficient confidence in them to make a viable project.  The capacity for reuse, recombination, and a kind of software-enabled continuous integration of sorts rings all the programming bells.
 

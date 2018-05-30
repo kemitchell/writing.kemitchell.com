@@ -8,7 +8,7 @@ tags:
 - Open Source
 ---
 
-I'm pleased to announce publication of the Switchmode Developer Agreement, a freely available form contract for open-source developers doing a mix of open- and closed-project work for paying clients.  The most recent drafts are available on [commonform.org](https://commonform.org/publications/kemitchell/switchmode/latest) and [GitHub](https://github.com/kemitchell/switchmode/releases).
+I'm pleased to announce publication of the Switchmode Developer Agreement, a freely available form contract for open-source developers doing a mix of open- and closed-project work for paying clients.  The most recent drafts are available on [commonform.org](https://commonform.org/kemitchell/switchmode/latest) and [GitHub](https://github.com/kemitchell/switchmode/releases).
 
 <!--jump-->
 

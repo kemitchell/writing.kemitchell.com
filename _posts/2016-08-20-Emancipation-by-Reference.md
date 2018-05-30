@@ -193,9 +193,9 @@ If Bob decides he wants to make on we agreed to different terms later, he has to
 
 The infrastructure for all of this has already been built.
 
-Here is a directory of forms I have published under my own name: [commonform.org/publishers/kemitchell](https://commonform.org/publishers/kemitchell)
+Here is a directory of forms I have published under my own name: [commonform.org/kemitchell](https://commonform.org/kemitchell)
 
-Here is the first edition of a debt finance instrument I've prepared: [commonform.org/publications/kemitchell/safe-cap-discount/1e](https://commonform.org/publications/kemitchell/safe-cap-discount/1e)
+Here is the first edition of a debt finance instrument I've prepared: [commonform.org/kemitchell/safe-cap-discount/1e](https://commonform.org/kemitchell/safe-cap-discount/1e)
 
 That form as a whole, as well as every part of hit, can be requested by hash.  The notice provision, for example, is [7af48f3af1997f7ad8c11d386727fb232ed430f34ef860a99ec7eb6d1fa2e59f](https://commonform.org/forms/7af48f3af1997f7ad8c11d386727fb232ed430f34ef860a99ec7eb6d1fa2e59f)
 
@@ -203,7 +203,7 @@ There are only three tricks to this.
 
 First, the software standardizes a way to type out contracts and bits of contracts---from sections and headings to definitions and fill-in-the-blanks---before they go into the hash function.  This makes it possible to break a form into pieces, hash each one, and make sure they fit together nicely when combined.
 
-Second, I am not an illustrious, form-promulgating industry group.  But I gave myself an account that I can use to publish forms under a user name---mine is "kemitchell"---anyway.  If you'd like an account for you, your own illustrious, form-promulgating industry group, or even just a project that deserves its own name, send me an e-mail.  Here's a [project of mine](https://commonform.org/publishers/goldplate), as an extra example.
+Second, I am not an illustrious, form-promulgating industry group.  But I gave myself an account that I can use to publish forms under a user name---mine is "kemitchell"---anyway.  If you'd like an account for you, your own illustrious, form-promulgating industry group, or even just a project that deserves its own name, send me an e-mail.  Here's a [project of mine](https://commonform.org/goldplate), as an extra example.
 
 Third and finally, notice the green lock next to the URL of the webpage in your web browser.  The server---commonform.org---is using encryption to keep Internet miscreants from snooping on which directories and forms you request and messing with the responses you get back.
 

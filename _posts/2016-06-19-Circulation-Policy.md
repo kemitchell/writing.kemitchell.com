@@ -84,7 +84,7 @@ For example:
 - One of those projects is `indemnification-agreement`.  We can view a list of published _editions_ of that project [here](https://api.commonform.org/publishers/ironsides/projects/indemnification-agreement/publications).
 - One _edition_ of `ironsides`' `indemnification-agreement` is `1e4d`, for "first edition, fourth draft".  We can view the publication record [here](https://api.commonform.org/publishers/ironsides/projects/indemnification-agreement/publications/1e4d).
 - The publication record has a `digest` property showing the fingerprint of the Common Form in storage.
-- Requesting that Common Form by fingerprint [gets us the Common Form](https://commonform.org/forms/36dd29b8332ea655a47bcba51ae5229e1a3bd69769aec9c8e0c3bf12a27013db).  You'll notice the web interface handily points out that this particular form has been published.  We might also [link to a URL with the project details](https://commonform.org/projects/ironsides/indemnification-agreement/1e4d) and get redirected to the Common Form.
+- Requesting that Common Form by fingerprint [gets us the Common Form](https://commonform.org/forms/36dd29b8332ea655a47bcba51ae5229e1a3bd69769aec9c8e0c3bf12a27013db).  You'll notice the web interface handily points out that this particular form has been published.  We might also [link to a URL with the project details](https://commonform.org/ironsides/indemnification-agreement/1e4d) and get redirected to the Common Form.
 
 Like donations, publications are permanent.  Once a patron publishes a Common Form, they can't "unpublish", though they can publish later editions.  The library server makes it easy to find the latest or most-recently-published edition of any project.
 

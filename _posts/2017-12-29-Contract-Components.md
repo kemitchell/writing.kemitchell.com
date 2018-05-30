@@ -113,7 +113,7 @@ Using definitions in this way allows us to reuse the snippets without changing t
 
 Drafters often break up the terms of a complex agreement into schedules in just this way.  Different drafters can then handle each schedule, in parallel.  Drafters can crib schedules for and from other projects.  Terms can change, growing longer or shorter, changing in structure and specifics, over time.
 
-Since we're still not changing the terms of either snippet, we can go even further.  If we publish the snippets, via [Common Form](https://commonform.org/publishers/kemitchell) or otherwise, we can replace references to schedules with references to the publications:
+Since we're still not changing the terms of either snippet, we can go even further.  If we publish the snippets, via [Common Form](https://commonform.org/kemitchell) or otherwise, we can replace references to schedules with references to the publications:
 
 > Customer, Inc. ("**Customer**") and Vendor, LLC ("**Vendor**") agree:
 >
