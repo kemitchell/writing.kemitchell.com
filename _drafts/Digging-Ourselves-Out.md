@@ -36,9 +36,7 @@ To enlist the computer's help, we need a way to tell it about structure, and not
 
 For example, a definition from a data processing agreement under GDPR:
 
-```text
-""Restricted Transfer"" means a transfer of <Company Personal Data> from any <Company Group Member> to a <Contracted Processor>, or an onward transfer of <Company Personal Data> from a <Contracted Processor> to a <Contracted Processor>, or between two establishments of a <Contracted Processor>, in each case, where such transfer would be prohibited by <Data Protection Laws> (or by the terms of data transfer agreements put in place to address the data transfer restrictions of <Data Protection Laws>) in the absence of the <Standard Contractual Clauses> too be established under {Terms for Restricted Transfers} or {Restricted Transfers}.
-```
+> \"\"Restricted Transfer\"\" means a transfer of \<Company Personal Data\> from any \<Company Group Member\> to a \<Contracted Processor\>, or an onward transfer of \<Company Personal Data\> from a \<Contracted Processor\> to a \<Contracted Processor\>, or between two establishments of a \<Contracted Processor\>, in each case, where such transfer would be prohibited by \<Data Protection Laws\> (or by the terms of data transfer agreements put in place to address the data transfer restrictions of \<Data Protection Laws\>) in the absence of the \<Standard Contractual Clauses\> too be established under {Terms for Restricted Transfers} or {Restricted Transfers}.
 
 Terms in double-double quotes, like `""Restricted Transfer""`, indicate definitions.  "Restricted Transfer" is being defined.
 
@@ -48,29 +46,15 @@ Terms in curly braces, like `{Terms for Restricted Transfers}`, indicate referen
 
 Some provisions, such as this buy-sell clause from a stock purchase agreement, need fill-in-the-blanks:
 
-```text
-Subject to this agreement, on the date of this agreement or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <You>, and <You> shall buy from the <Company>, [Number of Shares] shares of the <Company>'s common stock (""Your Shares"").
-```
+> Subject to this agreement, on the date of this agreement or on another date agreed on by the parties (the \"\"Purchase Date\"\"), the \<Company\> shall issue and sell to \<You\>, and \<You\> shall buy from the \<Company\>, \[Number of Shares\] shares of the \<Company\>'s common stock (\"\"Your Shares\"\").
 
 Placeholders in square brackets, like `[Number of Shares]`, indicate fill-in-the-blanks.  Here, the number of shares bought and sold.
 
 These conventions enable computers to check that all the terms you try to use are defined, that you define each term only once, and that every section you reference exists in your document.  With data indicating the section-and-heading structure of your document, computers can number and format documents automatically.  Upshot: No more technical edits.  No more of the dumbest---and most common---technical errors.
 
-For an example, here is a commercial NDA with all its structural elements typed out:
+For an example, here is [a commercial NDA with all its structural elements typed out](https://commonform.org/edit?from=ad495b6fc0492c7faa7d95d3e24df376972219fd4c436b51bc1d3dcc022e9237).  Here's [the same form, formatted handsomely for the World Wide Web.](https://commonform.org/rxnda/b-2w-b2b/1e1c)  And [the same again, automatically formatted for Word, on demand.](https://commonform.org/rxnda/b-2w-b2b/1e1c?format=docx)
 
-<https://commonform.org/edit?from=ad495b6fc0492c7faa7d95d3e24df376972219fd4c436b51bc1d3dcc022e9237>
-
-Here's the same form, formatted handsomely for the World Wide Web:
-
-<https://commonform.org/rxnda/b-2w-b2b/1e1c>
-
-And the same again, automatically formatted for Word, on demand:
-
-<https://commonform.org/rxnda/b-2w-b2b/1e1c?format=docx>
-
-We can go further, and use the computer to perform routine checks on content.  Here's an orthodox settlement agreement under California law, automatically annotated with feedback about archaic terms, wordy phrases, and guidance from _A Manual of Style for Contract Drafting_:
-
-<https://commonform.org/forms/6e9a4a77f935b30123b86047fab3e56a5fa561a63c0e6a6789e527b473567ebb>
+We can go further, and use the computer to perform routine checks on content.  Here's [an orthodox settlement agreement under California law, automatically annotated with feedback about archaic terms, wordy phrases, and guidance from _A Manual of Style for Contract Drafting_](https://commonform.org/forms/6e9a4a77f935b30123b86047fab3e56a5fa561a63c0e6a6789e527b473567ebb).
 
 Anybody's computer can perform those checks in real time, as they draft.  That real-time experience will change the way you draft contracts.  Forget about formatting.  Forget about numbering.  Forget about keeping lists of defined terms, or a table of contents.  Computers are better at those things than you are, no matter who you are.  You have better things to think about.  And you'll find yourself making fewer and fewer mistakes anyway, with an automatic sparring partner.
 
@@ -86,13 +70,9 @@ Folks with accounts on [commonform.org](https://commonform.org) can save work to
 
 I published each of those forms under my account name, as well as a project name.  Some of those forms, like `safe-discount`, a startup investment instrument, and `slipstream`, an agreement for software-as-a-service and licensing, are complete documents.  But other publications are mere snippets, meant to be reused as components of many forms.
 
-For example, here is copyright "work made for hire" clause, with an exception to avoid unexpected results under peculiar California employment law:
+For example, here is [a copyright "work made for hire" clause, with an exception to avoid unexpected results under peculiar California employment law](https://commonform.org/kemitchell/work-made-for-hire-unless-employment/1e1c).
 
-<https://commonform.org/kemitchell/work-made-for-hire-unless-employment/1e1c>
-
-I've used that component in the intellectual property section of one of my forms, `fairshake`, a plain-language independent contractor-consultant contract:
-
-<https://commonform.org/kemitchell/fairshake/1e1u2d#heading:Intellectual%20Property>
+I've used that component in the intellectual property section of one of my forms, [`fairshake`, a plain-language independent contractor-consultant contract](https://commonform.org/kemitchell/fairshake/1e1u2d#heading:Intellectual%20Property).
 
 The site displays not just the text of the component, but also a note that it _is_ a component.
 
