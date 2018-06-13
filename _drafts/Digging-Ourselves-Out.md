@@ -88,6 +88,16 @@ What about revisions that result in new editions or updates, rather than correct
 
 Anyone with a [commonform.org](https://commonform.org) account can subscribe to notifications about the forms they publish.  When a component used in the form gets revised, the site sends a notification e-mail.  The publisher can [compare new language to old online](https://commonform.org/compare/5fd90cf89aa4ee976583c0183dd6660a72bf22e86a3be0e8913f6622328fe24a/1b048f6c4cf0df69e364dd8bcc93a792b644aef243398d463a6202d1a0dbd43c), and decide whether or not to upgrade in their form.  In the next few weeks, I'll be working on simple pages that show possible upgrades and make it simple to upgrade with just a few clicks.
 
+## Collaboration
+
+Typing conventions, components, and Reviewers Editions give us the tools to manage change to bits of contract text over time.  But they don't help us discover how or why to update our language.  They aren't collaboration tools, but tools for production and use.
+
+But given that [commonform.org](https://commonform.org) knows the structure of contract language is stores, it's straightforward to facilitate commentary and discussion on bits of language, large and small.
+
+Here is [the work-made-for-hire provision mentioned earlier](https://commonform.org/forms/edacc19fe413afb3ae92bed1b7bf87993baf07960cfe5a0d6c860e88a83a01b0), showing annotations I've made to specific parts online.  Publishers are free to respond to those comments, or add their own.
+
+Much as [commonform.org](https://commonform.org) sends e-mail notifications about new components, the system also notifies users of how language gets reused in other projects, as well as when they're mentioned, `@kemitchell`-style, in comments from others.
+
 # Why?
 
 As transactional lawyers, we understand the piece-part structure of contracts.  That understanding is widely held, but not really shared, and not effectively leveraged.  The most glaring manifestation is our failure to collaborate even with ourselves, on an individual basis, over time.  The costs of remembering what I've done before, and actually redeploying it, often outweigh the benefit I expect from replacing probably-good-enough with my current best.  Which is how so many of us end up hocking contracts, made to order, but from wilted, rotten language, and feeling like circumstance robs us of the chance to feel personally expressed in our work.  Even while our clients wince at the cost.
