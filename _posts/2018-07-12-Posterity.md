@@ -2,6 +2,9 @@
 title: The Posterity Public License
 description: a strong-attribution open source license
 layout: post
+tags:
+- open source
+- licenses
 ---
 
 I'm no great legal talent.  But I hang out with the kind of people I represent.  Occasionally, I manage to shut up and listen to them.
