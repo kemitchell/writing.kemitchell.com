@@ -9,7 +9,9 @@ tags:
 
 I'm no great legal talent.  But I hang out with the kind of people I represent.  Occasionally, I manage to shut up and listen to them.
 
-This week, one of the people talking was [Dominic Tarr](https://twitter.com/dominictarr).  Dominic was kind enough to read an update on my [License Zero](https://licensezero.com) project announcing the release of some revised licenses, including [Parity](https://licensezero.com/licenses/parity), a very strong share-alike software license.  Dominic expressed an interest in a similarly strong license that puts its muscle behind _attribution_, or giving credit, rather than requiring release of source code.
+This week, one of the people talking was [Dominic Tarr](https://twitter.com/dominictarr).  Dominic was kind enough to read an update on my [License Zero](https://licensezero.com) project announcing the release of some revised licenses, including [Parity](https://licensezero.com/licenses/parity), a very strong share-alike software license.  Dominic expressed an interest in a similarly strong license that puts its muscle behind _attribution_, or giving credit, rather than requiring release of source code.  In other words, a license that plugs the infamous "ASP Loophole" for attribution.
+
+Fascinating.
 
 ## Behind the Scenes
 
