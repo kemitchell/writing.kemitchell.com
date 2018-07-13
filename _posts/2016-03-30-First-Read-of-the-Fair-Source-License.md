@@ -84,7 +84,7 @@ I really like the idea of a template that calls out the need to actually identif
 
 > Use Limitation: \[number\] users
 
-The convention of referring to license terms like "Fair Source _n_", where _n_ is the number that goes in this blank, is very clever. It also helps reinforce that the number should be just a number, and not any kind of more complicated formula or schedule. If licensor are going to have to fill in blanks to use a license anyway, there's very little administrative cost to adding this kind of customizability.
+The convention of referring to license terms like "Fair Source _n_", where _n_ is the number that goes in this blank, is very clever. It also helps reinforce that the number should be just a number, and not any kind of more complicated formula or schedule. If licensors are going to have to fill in blanks to use a license anyway, there's very little administrative cost to adding this kind of customizability.
 
 I'd like to see the shorthand convention expanded a tad, to clarity also what version of the Fair Source Terms is on offer. Perhaps "Fair Source 0.9/25", "Fair Source 0.9 for 25", or similar to mean "The Fair Source License, version 0.9, Use Limitation: 25 users".
 
@@ -118,7 +118,7 @@ In potential counterbalance, the phrase "under all of the Licensor's copyright a
 
 > **Use Limitation.** The license granted above allows use by up to the number of users per entity set forth above (the "Use Limitation"). For determining the number of users, "you" includes all affiliates, meaning legal entities controlling, controlled by, or under common control with you. If you exceed the Use Limitation, your use is subject to payment of Licensor's then-current list price for licenses.
 
-And here's the real heart of The Fair Source License. This kind of limitation is intriguing in its simplicity. In addressing corporate structure, its implementation very tastefully, and succinctly, brings in a key bit of learning about licenses based on usage from the proprietary licensing space.
+And here's the real heart of The Fair Source License. This kind of limitation is intriguing in its simplicity. In addressing corporate structure, its implementation tastefully and succinctly brings in a key bit of learning about licenses based on usage from the proprietary licensing space.
 
 Economically, The Fair Source License is a very different proposition than a "seat license", a very common license concept in proprietary software. Up to a certain number of "users", which are analogous to "seats", The Fair Source License is a free-of-charge license to a full product, hopefully with source. But The Fair Source License faces the same drafting challenge of making clear what counts as a "user" or "seat", whatever it happens to be called.
 
@@ -126,7 +126,7 @@ If Bob uses Fair Source software in week one, and Anna uses it in week two, is t
 
 There are edge cases. If you want to avoid getting sued for using Fair Source software, read "user" broadly, and start paying when any sane reading puts you above the Use Limitation. Or pay from the start and don't think about it. Probably cheaper than chatting me up about it.
 
-If the software is any good, yes, some folks will use the software past the Use Limitation without paying. Nobody should publish software under The Fair Source License without first accepting both this fact and the reality that it simply won't be cost effective to track down and C&D any but the most blatant, visible, and solvent offenders.
+If the software is any good, yes, some folks will use the software past the Use Limitation without paying. Nobody should publish software under The Fair Source License without first accepting both this fact and the reality that it simply won't be cost effective to track down and cease-and-desist any but the most blatant, visible, and solvent offenders.
 
 Back on the licensee side, there is also some bad news. For certain kinds of software, "user" may be too broad in any reading to make Fair Source a worthy technical investment, even in speculative prototyping. Consider a hypothetical JavaScript package that displays photos with different artistic effects in web browsers. The author publishes the package to [npm] Fair Source 25. Can that package be bundled into a web application and served to website users without accumulating "users" under the Use Limitation? Are the developers building the website also "users" for that kind of software? Each of the website's users will use the code in the package to display photos when visiting the website. If they count as "users", any use of the package in client-side code for a public website---or even an internal corporate site used by enough employees---will trigger a payment obligation.
 
@@ -144,7 +144,7 @@ Off-the-cuff, I suspect these concerns specialize The Fair Source License to sel
 
 Finally, I'd worry a bit about the very open-ended fees reference. The Fair Source License doesn't pin down where that pricing information can be found; you'll have to work backward from the Licensor identification to a website or direct contact. Even if you get that far, it may not be clear what "then-current list price" means. If it's as simple as a flat yearly license fee, does that price lock in once you pay up the first time? How do you pay? If the Licensor offers licenses only with add-on support or other services, do you have to pick one of those packages? If they offer a discount to nonprofit or academic institutions, does that apply to you if you fit the bill? What happens if the company goes bust, or changes its name, and nobody can find pricing information based on the license text any more? Do you have to scrap any derivative you've worked up over numerous development cycles to clear copyright check?
 
-I suspect the potential licensees who care enough to pay for a license when they hit the limit would also care enough to paper a more robust proprietary license. [fair.io]'s commentary anticipates that reality, complete with a little bit of sales language. Would-be-licensee bargaining position at that point is not great, assuming the licensor is even willing to prepare or review new terms. The deal lawyer's advice is probably to hold your cards very tight to your chest.
+I suspect that potential licensees who care enough to pay for a license when they hit the limit would also care enough to paper a more robust proprietary license. [fair.io]'s commentary anticipates that reality, complete with a little bit of sales language. Would-be-licensee bargaining position at that point is not great, assuming the licensor is even willing to prepare or review new terms. The deal lawyer's advice is probably to hold your cards very tight to your chest.
 
 > **Conditions.** Redistribution in source code or other forms must include a copy of this license document to be provided in a reasonable manner. Any redistribution of the Software is only allowed subject to this license.
 
