@@ -3,11 +3,7 @@ title: Decentralization of Responsibility
 layout: post
 ---
 
-The joy and the agony of advising technical movements on the law is confronting the fact that people designing popular systems necessarily practice politics.  And not just politics in the little, metaphoric sense of engineers currying favor among peers.  Politics in the sense of competing national or even international policy positions.  Politics in the community at large.
-
-Consider an oft-recurring pattern.  A law applies to use of a software system.  The law is a product of process and compromise.  It may seem to achieve its goals only poorly, or not at all.  Those goals themselves may evidence corruption, confusion, or ignorance.  The organization hosting the software system is forced to comply, or even to over-comply, anyway.  Imposition wrecks the vibe that made their initial success.
-
-Law is a form of applied history.  "Decentralize the service to avoid the law" is ahistorical.
+Law is a kind of applied history.  "Decentralize the service to avoid the law" is ahistorical.
 
 Some laws put the government in charge of enforcement, as with criminal law or defense.  Other laws rely on private parties to enforce, as with copyright and the CFAA.  In either case, the game plays out largely the same.
 
