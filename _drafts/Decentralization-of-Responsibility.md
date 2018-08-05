@@ -3,11 +3,13 @@ title: Decentralization of Responsibility
 layout: post
 ---
 
-Law is applied history.  "Decentralize to avoid the law" is ahistorical.  Decentralization buys leverage, at least for those who last long enough to sit at the settlement table.  The result is compromise, not a bullet hole through public policy.
+Law is applied history.  "Decentralize to avoid the law" is ahistorical.  Decentralization buys leverage, at least for those who last long enough to sit at the settlement table.  But the end result _is_ settlement, not a bullet hole through public policy.
 
-The government enforces some laws, like criminal laws.  The government leaves private parties to enforce other laws, like most of the Copyright Act.  In either case, the game plays out largely the same:
+## The Decentralization Game
 
-- White:  Implements the system as simply as possible, under one company's operational and legal control.  Proves the concept, and delivers value.
+The government enforces some laws, like criminal laws.  The government leaves private parties to enforce other laws, like most of the Copyright Act.  The players are different, but the game is played the same:
+
+- White:  Implements the system as simply as possible, under one company's operational and legal control.  Proves the concept, and delivers value, partially illicit.
 
 - Black:  Sues or prosecutes the company for breaking the law and flaunting public policy.  Forces the company to shut the system down.
 
@@ -23,23 +25,28 @@ The government enforces some laws, like criminal laws.  The government leaves pr
 
 File sharing services and the entertainment industry played this game in my youth.  Websites posted music and video files online, but websites could be shut down with one fell legal stroke.  Napster distributed the burden of compiling and distributing content, but not peer discovery or search, and the music industry shut Napster down.  Second-generation P2P file sharing apps distributed peer discovery and search.  The courts held that technologies with substantial noninfringing uses could not be shut down for all users indiscriminately.  So the content industry publicly and ruthlessly sued individual users of file sharing applications.  In the end, companies like Apple and Amazon brokered deals for legal sales of media files in online stores, the combined seller-producer coalition promoted those stores, and users came to turn to them first.
 
-But the game has been played many times.  Printing presses.  Sheet music.  Piano rolls.  Phonograph recorders.  Tape recorders.  Video cassette recorders.  On and on.
+But the game has been played many times.  Printing presses.  Sheet music.  Piano rolls.  Phonograph recorders.  Tape recorders.  Video cassette recorders.  We will play it again in my lifetime.  Likely several times.
+
+## The Policy Game
 
 Looking back, we see that the game's politics follow a pattern, too:
 
-- White:  Decries the law poorly implemented, overreaching, technically ignorant, anti-competitive, and corrupt.
+- White:  Decries the law as poorly implemented, overreaching, technically ignorant, anti-competitive, and corrupt.
 
-- Black:  Counters that White wrongly short-shrifts, or even simply ignores, the policy thrust of the law, disrupting a settled compromise achieved through legitimate political process.
+- Black:  Counters that White wrongly short-shrifts, or simply ignores, the policy thrust of the law, disrupting a settled compromise achieved through legitimate political process.
 
-- White:  Pleads technical infeasibility, or accuses law of strangling an emerging technical advancement.
+- White:  Pleads technical infeasibility, and accuses law of strangling an emerging technical advancement.
 
 - Black:  Counters that White ducks responsibility for designing systems responsive to the thrust of the law, pointing to past examples of successful compromise systems.
 
-Pattern:
-1. Attempt the thing inside a big company.
-2. Fail, in part due to big-company controls and standards.
-3. Form a startup to do the thing.
-4. Ignore the controls and standards.
-5. Establish that the thing is profitable.
-6. Acquire the company.
-7. Negotiate with controllers and compliance officers from a position of strength.
+In rare cases, the leverage decentralization buys moves policy.  But in the run of games, the law adapts to the technology, as by court decision, rather than forcing a rewrite of the legal regime or a revision of underlying public policy.  Napster begat case law about secondary copyright liability, the limits of responsibility for helping others infringe copyright.  But it didn't change the fundamental policy behind copyright law, or the basic written structure of the Copyright Act.
+
+## The Business Game
+
+Good tech is good business, and the rules of the operational, legal, and political decentralization games have etched themselves into business as we know it.  The prospects of a network technology change over time:  high in risk, with low probability of long-term reward, in the initial, centralized stage, then lower in risk and high in reward, in the similarly centralized, later compromise stage.
+
+A large business aims to catch the technical wave early enough to earn a seat at the settlement table, but not so early that the company, or its customers, catch Hell.  When a company steps in too early, it puts its whole value at stake, not just the value of the part dabbling with new tech.  That's often far more to risk than to gain.  So risk management---as compliance, accounting, legal, or business strategy---sets up all manner of internal controls and checkpoints to keep the would-be entrepreneurs on payroll from wagering the good corporate name to make their own.  But when a company steps in too late, it lacks the expertise and connections to hold itself out as a credible candidate for compromise counterparty.
+
+The middle stages, decentralized operation and facilitation, poorly match large enterprises' native work style.  Their instincts to capture and protect business value tend to strangle opportunities based on loose confederation.
+
+To bridge this gap, enterprises use start-up companies, and to a lesser extent autonomous subsidiaries and skunkworks projects.  Speculative projects don't have public money to safeguard, eschew risk management for focused, risky gambles, and harbor every incentive to fight the other scrappy dogs for the opportunity.  Then they sell to established companies with access to public capital, which are more than happy to foot the bill for the financiers---founders and venture capitalists---who kept the dog in the fight.
