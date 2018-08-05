@@ -3,11 +3,11 @@ title: Decentralization of Responsibility
 layout: post
 ---
 
-"Decentralize to avoid the law" is ahistorical.  Decentralization buys leverage for those who last long enough to sit at the settlement table.  But the end result _is_ settlement with those affected by the law, not a gaping bullet hole through public policy.
+"Decentralize to avoid the law" is ahistorical.  Decentralization buys leverage for those who last long enough to sit at the settlement table.  But the end result _is_ settlement with tied up in the current legal compromise, not a gaping bullet hole through public policy.
 
 ## The Decentralization Game
 
-The government enforces some laws, like criminal laws.  The government leaves private parties to enforce others, like most of the Copyright Act.  The players are different, but the game is played the same:
+The government enforces some laws, like criminal laws.  The government leaves private parties to enforce others, like most of the Copyright Act.  The players are different, but the game is played  mostly the same:
 
 - White:  Implements the system as simply as possible, under one company's operational and legal control.  Proves the concept, and delivers value, partially illicit.
 
@@ -25,7 +25,7 @@ The government enforces some laws, like criminal laws.  The government leaves pr
 
 File sharing services and the entertainment industry played this game in my youth.  Websites posted music and video files online, but websites could be shut down with one fell legal stroke.  Napster distributed the burden of compiling and distributing content, but not peer discovery or search, and the music industry shut Napster down.  Second-generation P2P file sharing apps distributed peer discovery and search.  The courts held that technologies with substantial noninfringing uses could not be shut down for all users indiscriminately.  So the content industry publicly and ruthlessly sued individual users of file sharing applications.  In the end, companies like Apple and Amazon brokered deals for legal sales of media files in online stores, the combined seller-producer coalition promoted those stores, and users came to turn to them first.
 
-But the game has been played many times.  Printing presses.  Sheet music.  Piano rolls.  Phonograph recorders.  Tape recorders.  Video cassette recorders.  We will play it again in my lifetime.  Likely several times.
+But the game has been played many times.  Printing presses.  Sheet music.  Piano rolls.  Phonograph recorders.  Tape recorders.  Video cassette recorders.  We will play it again in my lifetime.  Likely several times.  Private communication.  Sex trafficking.  Data privacy.
 
 ## The Policy Game
 
@@ -57,4 +57,6 @@ Acquisition begins a process of reconciliation.  From a public policy standpoint
 
 ## Metagame
 
-This system "works", at least for those who benefit by venture-backed multiples and entrenched public-company compromise cease-fires.  It does not work for those who favor "decentralization", variously defined, because it favors autonomy and similar values, structurally.
+This system works for those who benefit by venture-backed multiples and entrenched public-company compromise cease-fires.  It does not work for those who favor "decentralization", variously defined, because decentralization reinforces their values.  The endgame is centralized, if competitive, services.  Decentralization is but a catalyst, destabilizing the status quo long enough to recrystalize wealth and control in a different pattern among established interests, who prefer to deal with their peers.
+
+The moral for those who come to decentralization by their values is to wisen up.  Designing systems for popular use is politics.  Not politics in the small, or in some loose metaphorical sense.  Politics in the sense of public policy.
