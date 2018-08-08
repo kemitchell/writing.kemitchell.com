@@ -3,9 +3,9 @@ title: Decentralization of Responsibility
 layout: post
 ---
 
-"Decentralize around the law" is ahistorical. Decentralization can shake a status quo.  But in the end, competing interests seek stability, and decentralization leverage usually accrues to centralized enterprises willing and able to cut new, stable, coalition deals with incumbents. The end result is nearly always a new equilibrium within the established legal framework, not a gaping decentralization-shaped hole in public policy.
+"Decentralization kills bad law" is ahistorical. Decentralization can shake a status quo.  But in the end, competing interests seek stability, and decentralization leverage usually accrues to centralized enterprises willing and able to cut new, stable, coalition deals with incumbents. The end result is nearly always a new equilibrium within the established legal framework, not a gaping decentralization-shaped hole in public policy.
 
-If decentralization matters to you because centralization runs counter to your values, the lesson of history is to get wise.  If you run headlong at the law, without regard for the balance of interests it represents, and design your systems indifferently, you may get lucky and earn big for creating a chance to redistribute wealth, but you're unlikely to work lasting structural change.  To decentralize systems and keep them that way, we have to understand the steady states we challenge, and learn to build systems that take responsibility for balancing interests, from creator compensation to tax to public safety.  Decentralized systems have to offer liveable steady-state compromises to incumbents who lose out by decentralization, but don't simply disappear.
+If decentralization matters to you because centralization runs counter to your values, the lesson of history is to anticipate this failure mode.  If you run headlong at the law, without regard for the balance of interests it represents, and design your systems indifferently, you may get lucky and earn big for creating a chance to redistribute wealth, but you're unlikely to work lasting structural change.  To decentralize systems and keep them that way, we have to understand what we challenge, and learn to build systems that take responsibility for providing better balances of interests, not merely destabilizing what came before.
 
 ## The Decentralization Game
 
@@ -27,27 +27,29 @@ The government enforces some laws, like drug laws, and leaves private parties to
 
 File sharing services and the entertainment industry played this game in my youth.  Websites posted music and video files online, but websites could be shut down with one fell legal stroke.  Napster distributed the burden of compiling and distributing content, but not peer discovery or search, and the music industry shut Napster down.  Second-generation P2P file sharing apps distributed peer discovery and search.  The courts held that technologies with substantial noninfringing uses could not be shut down for all users indiscriminately.  So the content industry publicly and ruthlessly sued individual users of file sharing applications.  In the end, companies like Apple brokered deals for legal sales of media files in online stores, the combined seller-producer coalition promoted those stores, and users came to turn to them first.
 
-But the game has been played many times.  Printing presses.  Sheet music.  Piano rolls.  Phonograph recorders.  Tape recorders.  Video cassette recorders.  We will play it again in my lifetime.  Likely several times.  For e-commerce.  For social networks. And so on.
+This game has been played many times.  Printing presses.  Sheet music.  Piano rolls.  Phonograph recorders.  Tape recorders.  Video cassette recorders.
+
+We will play it several times more in my lifetime.  E-commerce.  Social networks. Financial services.  And so on.
 
 ## The Policy Game
 
-Looking back, we see that the game's politics follow a pattern, too:
+Politics connect policy to law.  Looking back, we see that the game's politics follow a pattern, too:
 
 - White:  Decries applicable law as poorly implemented, overreaching, technically ignorant, anti-competitive, and corrupt.
 
-- Black:  Counters that White wrongly short-shrifts, or outright ignores, the policy thrust of the law, disrupting a settled compromise achieved through established political process.
+- Black:  Counters that White wrongly short-shrifts, or outright ignores, the basic fairness and policy thrust of the law, disrupting a settled compromise achieved through established political process.
 
 - White:  Pleads technical infeasibility, and accuses law of strangling an emerging technical advancement.
 
-- Black:  Counters that White ducks responsibility for designing systems responsive to the thrust of the law, pointing to past examples of successful compromise systems.
+- Black:  Counters that White ducks responsibility for designing systems responsive to public policy, pointing to past examples of successful compromise systems.
 
-In rare cases, the leverage decentralization buys moves policy.  But in the run of games, the law adapts to the technology, as by court decision, rather than forcing a rewrite of the legal regime or a revision of underlying public policy.  Napster begat case law about secondary copyright liability, the limits of responsibility for providing others tools with which they could infringe.  But it didn't change the fundamental policy behind copyright law, or the basic written structure of the Copyright Act.
+In rare cases, the leverage decentralization buys moves policy itself.  But in the run of games, the law adapts to the technology, as by court decision, rather than forcing a rewrite of the legal regime or a revision of underlying public policy.  Napster begat case law about secondary copyright liability, the limits of responsibility for providing others tools with which they could infringe.  But it didn't change the fundamental policy behind copyright law, or the basic written structure of the Copyright Act.
 
 When decentralization _does_ affect policy, the effect usually comes at the compromise stage.  White and Black enshrine their compromise in the law.  Under the Copyright Act, we see that in provisions like compulsory licensing.
 
-Law changes this way, rather than bowing to new technology, because the people and interest groups invested in the prior compromise, embedded in the law and the systems built up around it, don't disappear.  In fact, they're often far better at expressing themselves through the policy-making process than upstart newcomers.
+Law changes this way, rather than bowing to new technology, because the people and interest groups invested in the prior compromise, embedded in the law and the systems built up around it, don't disappear.  In fact, they're often far better at expressing themselves through the policy-making process than upstart newcomers.  When decentralizers present themselves as a threat, as shock troops, it's that much easier to rally incumbents to a common cause.
 
-Politics and lobbying aside, fundamental interests don't usually change.  Authors still need protection to secure compensation for their work.  Companies set up to consolidate and administer artists' financial interests don't turn tail at first sign of compelling new technology.
+Authors still need protection to secure compensation for their work.  Companies set up to consolidate and administer artists' financial interests don't turn tail at first sign of compelling new technology.  Decentralization is fundamentally a question of _how_ we do what we want to do.  It affects only incidentally, or in edge cases, the question of whether what we want to do is just, or should be allowed.  In other words, decentralization means a change in implementation details.
 
 ## The Business Game
 
