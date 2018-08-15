@@ -1,6 +1,6 @@
 ---
 title: The Decentralization Game
-description: a few tips for values-focused reformers
+description: a few tips for values-forward reformers
 layout: post
 ---
 
