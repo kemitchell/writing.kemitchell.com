@@ -96,7 +96,7 @@ Minimize collateral damage by approaching the game as a negotiation, not a conqu
 
 As in any negotiation, you want to study your starting point and prior deals.  That includes prior cycles of decentralization. _Why_ is the system the way it is now, that irks you so?  Sometimes, the answer will be at least partially, plainly illegitimate: unexamined tradition, practical miscalculation, corruption, changed circumstances.  But one fault doesn't damn the whole structure.  In the end, the test is whether a political solution endures, not whether it was conceived in blameless innocence.
 
-So identify as many groups affected as you can, and feel out how the current normal balances tension between them, statically and dynamically.  It's damn difficult mapping out all the stakeholder constituencies like that, especially when they've been on quiet ceasefire for some time, rather than fighting loudly in court or the press.  But that is exactly the map you need to navigate to a new compromise.  Take pains to show understanding and respect for others' stakes in the game.  Know their points of view well enough to avoid pointless antagonism.
+So identify as many groups affected as you can, and feel out how the current normal balances tension between them, statically and dynamically.  It's damn difficult mapping out all the stakeholder constituencies like that, especially when they've been on quiet ceasefire for some time, rather than fighting loudly in court or the press.  But that is exactly the map you need to navigate to a new compromise.  Take pains to show understanding and respect for others' stakes in the game.  Know their points of view well enough to avoid pointlessly antagonizing them.
 
 ### Fight Target Fixation
 
