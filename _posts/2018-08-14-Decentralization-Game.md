@@ -108,7 +108,7 @@ Even if you think it's broken, mismanaged, corrupt, and stupid, if the stakes in
 
 This is just a specific case of a well known pitfall of activism.  Ooze enthusiasm, but don't assume anyone cares as much about your values, or your approach to practicing them, as you do.  You will probably need some users who don't share your religion to field a full team.  You will probably need to make some new converts, by convincing them more or less from scratch, as well.
 
-If it's worth decentralizing, there are probably lots of folks using it who have never heard the word "decentralization".  You have some work to do.  And not necessarily by sharing the good news of decentralization.  You may believe in the means.  Many will join and stay only for benefits.
+If it's worth decentralizing, there are probably lots of folks using it who have never heard the word "decentralization".  You have some work to do.  And not necessarily by sharing the good news of decentralization.  You may believe in the means.  Many will join and stay only for the benefits.
 
 ### Mind Business
 
