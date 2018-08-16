@@ -84,7 +84,7 @@ The decentralization game as we know it plays great for those served well by spe
 
 The decentralization game does _not_ play well for those who favor decentralization because decentralization favors values like end-user privacy and autonomy.  Whatever gains the decentralization game achieves for those values rolls back when systems recentralize.  Decentralization serves as a transient catalyst, dissolving the status quo long enough to recrystalize wealth, control, and information in a slightly different lattice.  Maybe that redistribution has value-positive secondary effects.  Often, when at all, by happenstance.
 
-I don't think that's inevitable.  Especially when coordinated and facilitated by a cohesive group, I don't see any limit on decentralizers' capacity to broken stable compromises.
+I don't think that's inevitable.  Especially when coordinated and facilitated by a cohesive group, I don't see any limit on decentralizers' capacity to broker stable compromises.
 
 A few more hopeful thoughts, along those lines.
 
