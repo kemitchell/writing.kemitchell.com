@@ -1,5 +1,5 @@
 ---
-title: Revoking Permissive Licenses
+title: Manual Licensing
 layout: post
 ---
 
