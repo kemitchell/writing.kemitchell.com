@@ -25,4 +25,4 @@ I plan to offer a service that makes Proseline work available whether you're onl
 
 ---
 
-I license this article under a [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+I license this post under a [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
