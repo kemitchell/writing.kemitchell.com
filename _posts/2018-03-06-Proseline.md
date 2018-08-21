@@ -22,3 +22,7 @@ Each collaborator can also create markers, which give names to drafts.  The coll
 Unlike Google Docs, Dropbox, or another file sharing service, users of Proseline need to be online, and have Proseline open in their browsers, to share their work with others.  Closing your browser doesn't lose your work, but your work won't be shared with others unless you have Proseline open.
 
 I plan to offer a service that makes Proseline work available whether you're online or offline, for a low monthly fee.  Paying, say, $5 a month would allow you to work on Proselines, close your browser, and still share your work with your collaborators who are online when you're not.  The price would cover the cost of running servers to store and share the data.
+
+---
+
+I license this article under a [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
