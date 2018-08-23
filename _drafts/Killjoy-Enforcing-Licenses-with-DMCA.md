@@ -3,7 +3,7 @@ title: Enforce Open Source Licenses with the DMCA
 layout: post
 ---
 
-This is the first in a series, _The Spoilsport's Guide to Open Source_, where I'll examine unorthodox, unwelcome solutions to nagging open source problems.
+This is the first in a series, _Killjoy's Guide to Open Source_, where I'll examine unorthodox, unwelcome solutions to nagging open source problems.
 
 ---
 
