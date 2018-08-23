@@ -6,7 +6,7 @@ layout: post
 
 _Open source_ is one of those marvelous, vacuous phrases, like _freedom_ and _maturity_, with so many meanings we can't keep 'em straight, and such a positive vibe we can't really take it seriously.  Open source is an idealistic political movement.  Or canned lawyer repellent.  Or a development methodology.  Or a community.  A right to self-help.  A right to help from others.  The most modern form of philanthropy.  The craftiest business model.
 
-All of those things sound great.  Which is why open source rides so high.  But they can't all be true, or all good, for all involved, all the time.
+All of those are good things.  Which is why open source rides so high.  But they can't all be true, for all involved, all the time.
 
 Talking about open source means being selective.  When we want something from open source, or from other people under cover of open source, we summon the story of open source that supports our claim in the moment.  In other words, we _arbitrage_ models of open source.  When I want help with software for my business, open source means the hobbyist maintainer should help me.  When someone else wants free work for their hobby project, open source means they should help themself, and be grateful my company chose to afford the rights and means.  When I'm irked by a GPL license, open source means they ought to relicense MIT.  When I'm irked by WTFPL, open source means they ought to be GPL.  And so on, a thousand different ways.
 
