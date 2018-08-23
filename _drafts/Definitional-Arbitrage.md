@@ -4,7 +4,7 @@ description: defining open source, for fun but mostly profit
 layout: post
 ---
 
-_Open source_ is one of those marvelous, vacuous phrases, like _freedom_ and _maturity_, used so many ways nobody's ever really sure what it means, and with such a consistently positive vibe that serious use breeds suspicion.  Open source is an idealistic political movement.  Or canned lawyer repellent.  Or a development methodology.  Or a community.  A right to self-help.  A right to help from others.  The most modern form of philanthropy.  The craftiest business model.
+_Open source_ is one of those marvelous, vacuous phrases, like _freedom_ and _maturity_, with so many meanings we can't keep 'em straight, and such a positive vibe we can't really take it seriously.  Open source is an idealistic political movement.  Or canned lawyer repellent.  Or a development methodology.  Or a community.  A right to self-help.  A right to help from others.  The most modern form of philanthropy.  The craftiest business model.
 
 All of those things sound great.  Which is why open source rides so high.  But they can't all be true, or all good, for all involved, all the time.
 
