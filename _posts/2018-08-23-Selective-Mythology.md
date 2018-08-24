@@ -2,6 +2,9 @@
 title: Selective Mythology
 description: defining open source for fun and profit, in the shadow of the enterprise
 layout: post
+tags:
+- open source
+- procurement
 ---
 
 _Open source_ is one of those marvelous, vacuous phrases, like _freedom_ or _maturity_, with so many meanings we can't ever really be sure what it means, and such a positive sheen that we can't possibly take it too seriously.  Open source is an idealistic political movement.  Pragmatic lawyer repellent.  A kind of license.  A kind of process.  A development methodology.  A community.  A right to self-help.  A right to help from others.  The most modern form of philanthropy.  The cutting-edge business model of tomorrow.
@@ -20,7 +23,7 @@ Every compelling story of open source describes, and matters to, somebody.  But 
 
 Currently, no meaning of open source works more influence on those I advise, be they pious idealists or hard-nosed entrepreneurs, than open source as _free pass through corporate procurement_.  If it's open source, I can probably get it into my company.  If I make it open source, I can probably get it into _your_ company.  The deeper open source penetrates industry, the more open source's value reflects the value of access to industry attention and capital.  The more open source, as a vehicle, takes you closer to the money.
 
-But of course "open source" is no "open sesame" to the corporate coffers.  Firms know that what they have makes them targets, from within and without.  So managers set up all manner of corporate defensive controls around the money they pay and the legal terms they accept.  _Procurement_ is the process of running those gauntlets.  Net effect, selling software into even a medium-sized company often takes a combined marketing, sales, legal, management, and internal-champion team months.  It's often just as challenging for the person _inside_ the enterprise, who wants to buy the thing, as for the folks on the other side, with the vendor, who want to sell it.  
+But of course "open source" is no "open sesame" to the corporate coffers.  Firms know that what they have makes them targets, from within and without.  So managers set up all manner of corporate defensive controls around the money they pay and the legal terms they accept.  _Procurement_ is the process of running those gauntlets.  Net effect, selling software into even a medium-sized company often takes a combined marketing, sales, legal, management, and internal-champion team months.  It's often just as challenging for the person _inside_ the enterprise, who wants to buy the thing, as for the folks on the other side, with the vendor, who want to sell it.
 
 In the past, open source software had to endure pretty much the same ordeal as anything else with legal terms.  The lack of a bill didn't matter, since legal terms alone can _obligate_ companies to pay, which can be a whole lot worse.  To this day, free trials of proprietary software products go through procurement processes.  But in time, facing pressure both internally, from engineers, and externally, from vendors, companies began to set up parallel open source approval processes.
 
