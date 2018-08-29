@@ -1,6 +1,10 @@
 ---
 title: Unhappy Coincidences
 layout: post
+tags:
+- Open Source
+- Licenses
+- Drafting
 ---
 
 Relatively few people write and review open source software licenses.  A great many more use them.  That is the story of open source terms as we know them:  Mostly, we don't.  Rather, we see how they work for others, and reuse the same terms for the same effect.  Even if that legal "functionality" was never in spec.
