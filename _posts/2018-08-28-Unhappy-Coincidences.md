@@ -12,7 +12,7 @@ Relatively few people write and review open source software licenses.  A great m
 
 Like all appropriations, open source license terms written for one reason and redeployed for another bear unintended consequences.  It's easy to cast adoption of a license for an unanticipated purpose, like requiring patches from developers, as evidence of support for the official goal, like software freedom for users.  Moreover, the institutional thrust of a license gets a kind of marketing-legitimacy bonus, like the Free Software Foundation's take on GPL.  Meanwhile, contributors' mental models of licenses and the actual effects of their terms wander apart, unless and until a dramatic reckoning.  Then the misunderstanding, which is what these happy accidents obscure, flips from happy to hostile, as with Linus and GPLv3.
 
-It's worth identifying these latent conflicts, calling them out, and asking how parallel develops have affected them.  As it turns out, many predate widespread Internet adoption.  Some really just shouldn't matter anymore.
+It's worth identifying these latent conflicts, calling them out, and asking how parallel developments have affected them.  As it turns out, many predate widespread Internet adoption.  Some really just shouldn't matter anymore.
 
 ## Software Freedom Doesn't Mean Patches Back
 
