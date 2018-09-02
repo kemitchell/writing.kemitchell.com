@@ -269,3 +269,20 @@ table
 mark
   font-weight: normal
   font-style: normal
+
+h1.tag
+  position: relative
+  font-size: 200%
+  font-family: "Concourse-T6"
+  line-height: 1.0
+  padding-top: 1em
+  padding-bottom: 0.25em
+  padding-left: $dateWidth + $datePadding + $interPostPadding
+  &:before
+    content: 'Series'
+    color: $darkRed
+    display: block
+    text-align: right
+    width: $dateWidth + $interPostPadding
+    left: 0
+    position: absolute
