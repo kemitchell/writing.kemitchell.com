@@ -80,7 +80,7 @@ Many open source developers gather, from experience, that open source means cred
 
 Giving credit isn't difficult or expensive.  It's the least open source users can do for open source contributors.  We can express the requirement to give proper credit in license terms.  So we should stop pretending that existing license terms achieve the same goal, and setting contributors up for disappointment.
 
-## `LICENSE` Means Internet Compatible
+## `LICENSE` Doesn't Mean Internet Compatible
 
 Open source licensing embodies a few truly great ideas.  One of those is in-band licensing: Put license terms in a file, like `LICENSE`, that travels in digital form with the software it applies to, wherever that software may go.  In-band licensing lets us share software via channels like GitHub, a revision-control repository, and npm, a build-artifact repository, seamlessly.  Wherever the code goes, so goes data about the license terms that apply to it.
 
