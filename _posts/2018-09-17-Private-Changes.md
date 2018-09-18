@@ -1,6 +1,11 @@
 ---
 title: Private Changes in Free Software Copyleft Licenses
+description: Where's the fifth freedom?
 layout: post
+tags:
+- Open Source
+- Free Software
+- Licenses
 ---
 
 I've written [elsewhere](https://blog.licensezero.com/2018/09/14/free-to-take-freedom.html#extra-freedom) that the Free Software Foundation apparently expounds _five_ software freedoms, not four.  The fifth is _private changes_:
