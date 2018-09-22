@@ -32,11 +32,11 @@ Step-by-step:
 
 6.  If you're not acquired for gobs, and money runs out, shut the company down and move on.  Keep your reputation, experience, and even your code, which your former company now licenses to you or your new employer on the terms you yourself picked.
 
-If you've managed to run this plan accidentally, setting out from the get-go to make 10&times;, but ending up insolvent or "merely" self-sufficient, congratulations.  You are not alone.  Keep trying.
+If you've managed to run this plan accidentally, setting out from the get-go to make 10&times; and conquer the known business universe, but ending up insolvent or "merely" self-sufficient, congratulations.  You are not alone.  Keep trying.
 
 If you've managed to run this plan negligently or cynically, you're the problem.  Enjoy this blog post.
 
-If you've managed to fund this plan, I'd ask you to think on what you can do to avoid doing so again.  I love open software, and spend nearly every day working to get developers paid ... for the right reasons.  Money for the wrong reasons, or no reason, is not success.  Success is when you win, too, and want to fund another winning play.  Success is a good outcome and a generalizable solution to the very general open source funding problem.
+If you've managed to fund this plan, I'd ask you to think on what you can do to avoid doing so again.  I love open software, and spend nearly every day working to get its producers paid ... for the right reasons.  Money for the wrong reasons, or no reason, doesn't help.  Success is a good outcome and a generalizable solution to the very general open source funding problem.  Success is when angels funding open source is good for angels, too, and keeps them coming.
 
 ## Hail, SAFE!
 
@@ -91,8 +91,8 @@ But the point isn't that angels should suck it up, stop funding open source comp
 > 3.  ?
 > 4.  Profit
 
-isn't much better than [Underpants Gnome](http://southpark.cc.com/clips/151040/the-underpants-business).  Don't feed Underpants Gnomes.
+isn't much better than the [Underpants Gnomes](http://southpark.cc.com/clips/151040/the-underpants-business).  Don't feed the Underpants Gnomes.
 
-Angels should fund those who know and show better.  Making software is never easy, but compared to making a self-sufficient business, achieving popularity by giving valuable things away for free isn't that hard, especially if you don't have to think about money.   When it _is_ hard, it is hard in very different ways than business.  It's important to identify teams that can see broadly felt needs, or create new ones, and fulfill them efficiently in good software.  But when open source is involved, conversations on making money can't wait until the seed round.
+Angels should fund those who know and show better.  Making software is never easy, but compared to making a self-sufficient business, achieving popularity by giving valuable things away for free isn't that hard, especially if you're funded the whole time.   When it _is_ hard, it is hard in very different ways than business.  It's important to identify teams that can see broadly felt needs, or create new ones, and fulfill them efficiently in good software.  But when open source is involved, conversations on making money can't wait until the seed round.  Open source breaks the obvious connection between need fulfilled and money earned.
 
-Making open source a business is a downright momentous decision.  It means embracing a much harder combination of problems, with a lot less business prior art.  Those inspired to shoulder the double burden of that complexity and run with it are great candidates for early-stage financial support.  Every angel dollar fed to those who ignore the complexity of that problem set, or especially to those who consciously downplay or fib their way around it, is a dollar that could have gone to someone actually fired up to work on that hard business problem.
+Making open source a business is a downright momentous decision.  It means embracing a much harder combination of problems, with a lot less business prior art.  Those inspired to shoulder the double burden of that complexity and run with it are great candidates for early-stage, high-resolution investment.  Every angel dollar fed to those who ignore the complexity of that problem set, or especially to those who consciously downplay or fib their way around it, is a dollar that should have gone to someone attacking the problems business doesn't yet know how to reliably solve.
