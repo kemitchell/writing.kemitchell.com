@@ -26,7 +26,7 @@ Step-by-step:
 
 3.  Use the money to pay salaries and benefits for yourself and your open source friends.  Stretch it out.
 
-4.  Amass reputation and experience in public work.  If you like, allocate a marketing budget.
+4.  Amass reputation and experience in public work.  If you like, allocate a marketing budget for telling the world how great you are.
 
 5.  Release everything under the permissive open source terms _you_ would want for the project.
 
@@ -36,7 +36,7 @@ If you've managed to run this plan accidentally, setting out from the get-go to 
 
 If you've managed to run this plan negligently or cynically, you're the problem.  Enjoy this blog post.
 
-If you've managed to fund this plan, I'd ask you to think on what you can do to avoid doing so again.  I love open software, and spend nearly every day working to get its producers paid ... for the right reasons.  Money for the wrong reasons, or no reason, doesn't help.  Success is a good outcome and a generalizable solution to the very general open source funding problem.  Success is when angels funding open source is good for angels, too, and keeps them coming.
+If you've managed to fund this plan, I'd ask you to think on what you can do to avoid doing so again.  I love open software, and spend nearly every day working to get its producers paid ... for the right reasons.  Money for the wrong reasons, or no reason, doesn't help.  Success is a good outcome and a generalizable solution to the very general open source funding problem, not any check in the bank, by any means.  Success is when angels funding open source is good for angels, too, and keeps them coming.
 
 ## Hail, SAFE!
 
@@ -70,15 +70,15 @@ Corporations frequently develop software under such permissive open-source terms
 
 It doesn't work like that.  If it doesn't work long enough, the company will fold.  But when the company folds, any number of developers---at other companies, at competitor companies, the _departed startup founders themselves_---receive the public open source license the company granted while it lived.  It can be very difficult to revoke those licenses, legally and practically.  Often, the liquidation potential just isn't worth it, and rights in the code ends up legally orphaned, without any clear owner.  Nobody really knows who owns the code.  But it doesn't matter, since the open source license gives all their exclusive rights in the code away to everybody else, and licenses persist through changes in underlying intellectual property ownership.
 
-## Damn Shame
+## Crying Shame
 
-The shame in all of this, on both the founder side and the investor side, is that there are plenty-good business models for open source, both for early stages, and to grow into.  There's a lot of work to be done, trying out new models and variations, and figuring out what works.  All of that is opportunity.
+The shame in all of this, on both the founder side and the investor side, is that there are plenty-good business models for open software, both for early stages, and to grow into.  There's a lot of work to be done, trying out new models and variations, and figuring out what works.  All of that is opportunity.
 
 Dual-license under a strong-copyleft license.  Build a "closed shell" around an existing, permissively licensed open core.  Start source-available, and transition to open source once you've done enough market research to launch a new paid offering.  Sell hosting, and run hyper-lean.  That is by no means an exhaustive list.  Read around.
 
 Open source is a financial handicap under traditional business models.  By giving the ability to use your software away for free, you forgo the means of compensation best aligned with value delivered.  But open source can be an opportunity multiplier overall, if you can think your way out beyond traditional models, and have the guts to stray from the herd.  It depends on the kind of software involved.  It depends on other practical needs, like technical or regulatory requirements.  It depends on the state of the preexisting market.
 
-Overall, open source in business planning needs to feel like a coincidence:  open source distribution _happens to solve_ the system of equations facing your business.  There are no points for forcing open source onto your problem, because you want to do open source first, and a business takes customers.  There are no points for avoiding this conversation, or postponing it, especially to a hypothetical acquirer that does not yet, and may never, exist.
+Overall, open source in business planning needs to feel like a coincidence:  open source distribution _happens to solve_ the system of equations facing your business.  There are no points for forcing open source onto your problem, because you want to do open source first, and a business takes customers.  There are no points for avoiding this conversation, postponing it, or delegating it, especially to a hypothetical acquirer you can't yet name, and may never meet.
 
 ## Get Wise, Pick Wise
 
@@ -96,3 +96,5 @@ isn't much better than the [Underpants Gnomes](http://southpark.cc.com/clips/151
 Angels should fund those who know and show better.  Making software is never easy, but compared to making a self-sufficient business, achieving popularity by giving valuable things away for free isn't that hard, especially if you're funded the whole time.   When it _is_ hard, it is hard in very different ways than business.  It's important to identify teams that can see broadly felt needs, or create new ones, and fulfill them efficiently in good software.  But when open source is involved, conversations on making money can't wait until the seed round.  Open source breaks the obvious connection between need fulfilled and money earned.
 
 Making open source a business is a downright momentous decision.  It means embracing a much harder combination of problems, with a lot less business prior art.  Those inspired to shoulder the double burden of that complexity and run with it are great candidates for early-stage, high-resolution investment.  Every angel dollar fed to those who ignore the complexity of that problem set, or especially to those who consciously downplay or fib their way around it, is a dollar that should have gone to someone attacking the problems business doesn't yet know how to reliably solve.
+
+Should have for the founder's sake.  Should have for open software's sake.  Should have for the angel's sake.
