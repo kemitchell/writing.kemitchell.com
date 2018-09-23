@@ -1,11 +1,11 @@
 ---
 title: Patents for Software Freedom
-description: gun-shy insurgency and the heavy weapons of IP law
+description: gun-shy insurgents and the heavy weapons of IP law
 layout: post
 tags:
 - Killjoy
-- Patents
 - Open Source
+- Patents
 - Software Freedom
 ---
 
@@ -15,7 +15,7 @@ This is the third in a series, [_Killjoy_](/series/Killjoy), in which I sketch u
 
 Patents are a natural strategic fit for software freedom activism, especially in desperation.
 
-Free software is an _insurgency_: a small core of motivated hackers rebelling against the technology industry and its supporting legal regime.  Like any insurgency, free software relies on _leverage_: tactics that transform relatively small efforts by relatively small groups into outsize subversive or corrective impacts.  Patents afford enormous leverage.  They are the heavy weapons of intellectual property law.
+Free software is an _insurgency_: a small core of motivated hackers rebelling against the technology industry and its supporting legal regime.  Like any insurgency, free software relies on _leverage_: tactics that transform relatively small efforts by relatively small groups into outsize subversive or corrective effects.  Patents afford enormous leverage.  They are the heavy weapons of intellectual property law.
 
 To date, software freedom has relied largely on the lesser leverage of copyright.  Copyright gives individual developers power over the use of original software they write, backed by the ability to sue, secure court orders, and collect substantial money damages.  Individual decisions to apply copyleft licenses to software, joined by others required to do the same, by their terms, create networks of computer code under rules that organizations like the Free Software Foundation and Software Freedom Law Center can enforce against even very large corporations.
 
@@ -33,8 +33,8 @@ Compared to copyrights, patents are more difficult to acquire.  Copyright applie
 
 Hiring a professional patent attorney to prepare, file, and "prosecute" a patent application for you can cost significant money, on the order of a new car.  But the United States Patent and Trademark Office also allows inventors to file on their own, without professional help, and provides some limited assistance for those doing so.  Inventor-filed patents tend to be of lesser strategic rigor and legal quality than professionally drafted patents.  But diligently inventor-prosecuted patents can nonetheless be lethal weapons.
 
-In any event, as many companies have learned from dealing with "patent trolls", the sky-high cost of _defending_ a patent suit itself creates leverage.  Many companies pay settlements to holders of even fairly dubious patents, to avoid the costs of arguing they're invalid, and disclosing the possibility of disruptive injunctions and sky-high damages to investors.  In that game, release as Free Software could likewise serve as a quick and _relatively_ cheap out.
+In any event, as many companies have learned from dealing with "patent trolls", the sky-high cost of _defending_ a patent suit itself creates leverage.  Many companies pay settlements to holders of even fairly dubious patents, to avoid the costs of arguing they're invalid, and disclosing the possibility of disruptive injunctions and sky-high damages to investors.  In that game, release as free software could likewise serve as a quick and _relatively_ cheap out.
 
-As a matter of philosophical proclivity, software freedom advocates recoil from legal mechanisms that exert power over software.  In a perfect, free-software world, they wouldn't exist.  But power over software is precisely what software freedom activists need to influence the software business.  Every weapon that industry utilizes to restrict software freedom has to be assessed for its potential to be turned back on the industry, and used as as weapon to promote software freedom, instead.
+As a matter of philosophical proclivity, software freedom advocates recoil from legal mechanisms that exert power over software.  In their perfect, free-software world, such weapons wouldn't exist, and no one would live in fear of them.  But power over software is precisely what software freedom activists need to influence the software business.  Every weapon that industry utilizes to restrict software freedom has to be assessed for its potential to be turned back on the industry, and used as as weapon to promote software freedom, instead.
 
 That is the story of copyright and the GPL.  Why is there no such story in patent?  Or in trademark, for that matter?
