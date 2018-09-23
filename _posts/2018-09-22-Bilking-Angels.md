@@ -42,7 +42,7 @@ If you've managed to fund this plan, I'd ask you to think on what you can do to 
 
 In ye olden days, early-stage startup companies raised money using agreements called _convertible notes_.  These were essentially small-business loans that defined success in terms of raising money from more demanding venture capitalists, instead of near-term profit.
 
-If the debtor-company managed to raise money from VCs, the amount invested on the note would transform into the same kind of preferred stock the VCs bought in the financing, rather than cash.  Hence _convertible_.  Conversely, if the company stayed in business for a a number of years, but never raised VC, the notes came due like a loan, with interest.  Hence _note_.  In a nutshell, the convertible note bound the company either to raise venture capital or to buy make enough money on its own to pay the investor off.
+If the debtor-company managed to raise money from VCs, the amount invested on the note would transform into the same kind of preferred stock the VCs bought in the financing, rather than cash.  Hence _convertible_.  Conversely, if the company stayed in business for a a number of years, but never raised VC, the notes came due like a loan, with interest.  Hence _note_.  In a nutshell, the convertible note bound the company either to raise venture capital or to make enough money on its own to pay the investor off.
 
 The SAFE, promulgated by Y Combinator, the leading startup accelerator program, changed that norm.  Riding promises to be neither voting stock nor equity, the SAFE swept the land as the easy, standardized, early-money investment vehicle of choice.
 
