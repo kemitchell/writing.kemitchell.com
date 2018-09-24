@@ -3,7 +3,7 @@ title: Manual Licensing
 layout: post
 ---
 
-This is a post in a series, _Killjoy_, in which I examine unorthodox, unwelcome solutions to nagging open source problems.
+This is a post in a series, [_Killjoy_](/series/Killjoy.html), in which I examine unorthodox, unwelcome solutions to nagging open source problems.
 
 ---
 

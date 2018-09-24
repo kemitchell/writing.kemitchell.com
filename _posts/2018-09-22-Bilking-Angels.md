@@ -8,7 +8,7 @@ tags:
 - Funding
 ---
 
-This is the second in a series, [_Killjoy_](/series/Killjoy), in which I sketch unorthodox and unwelcome solutions to nagging open source problems.
+This is the second in a series, [_Killjoy_](/series/Killjoy.html), in which I sketch unorthodox and unwelcome solutions to nagging open source problems.
 
 ---
 

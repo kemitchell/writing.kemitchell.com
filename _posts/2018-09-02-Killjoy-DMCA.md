@@ -9,7 +9,7 @@ tags:
 - DMCA
 ---
 
-This is the first in a series, [_Killjoy_](/series/Killjoy), in which I'll sketch unorthodox and unwelcome solutions to nagging open source problems.
+This is the first in a series, [_Killjoy_](/series/Killjoy.html), in which I'll sketch unorthodox and unwelcome solutions to nagging open source problems.
 
 ---
 
