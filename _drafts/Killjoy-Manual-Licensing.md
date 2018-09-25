@@ -1,16 +1,48 @@
 ---
-title: Manual Licensing
+title: Direct Licensing
 layout: post
+tags:
+- Killjoy
 ---
 
 This is a post in a series, [_Killjoy_](/series/Killjoy.html), in which I examine unorthodox, unwelcome solutions to nagging open source problems.
 
 ---
 
-One of the great innovations in open source licensing is _putting public license terms in files that follow the source code around_.  Files like `LICENSE`.  This practice goes back to software distributions on physical media, like tape drives.  Wherever the software went, so went a copy of its license terms.  The license terms required new copies, compiled or source, to traveled along with copies of the license terms, too.
+Flying blind, wondering how many folks are using your software?  Looking to keep a roster of users, to bug for support when you need it?  Looking to turn your open source work into employment at a company in the field, AYTBD?  Want to sell licenses, rather than give them away?
 
-Now we have the Internet.  The Internet lets us replace copies of things with access to things.  Like licenses.
+Delete your `LICENSE` file, and replace it with a note about how to get in touch with you for a license, via the Internet.  Perhaps your e-mail address.  Perhaps a link to a web store.  When folks get in touch, offer them licenses on whatever terms you please, directly.  For sale.  For free.  Whatever works for you and your project.
 
-Flying blind, wondering how many folks are using your open source software, and how they are?  Looking to keep a roster of users, to bug for support when spending your time on maintenance doesn't make financial sense?  Looking to turn your open source work into employment at a company in the field?  Want to sell licenses, rather than give them away?
+## Tape by Mail
 
-Delete your `LICENSE` file, and replace it with a note about how to get in touch with you for a license via the Internet.  When folks get in touch, offer them licenses on whatever terms you please, directly.  For sale.  For free.  Whatever works for you and your project.
+One of the great innovations in open source licensing is putting public license terms in files that follow the software around.  Putting license terms in files like `LICENSE`, right next to `README` and `main.c`.  Piggybacking license distribution on software distribution.
+
+This practice goes back to software distributions on physical media, like tape drives.  Wherever the software went, so went a copy of its license terms.  Software on the tape drive, license on the tape drive.  Software on diskette, license on diskette.  Software on CD, license on CD.  Software in the tarball, license in the tarball.
+
+The license terms, in turn, required new copies, compiled or source, to also contain the license terms.  If you got the software, you got the license terms.  Even if your copy was a copy of a copy of a copy.  Even if someone else had long since ripped off the shrinkwrap.
+
+This practical innovation in license distribution paralleled a legal innovation in license granting: _direct licensing_.  All common open source licenses work by direct licensing, most of them by direct licensing only.  Say Dana releases open source software, and Alice downloads it and gives a copy to Bob.  Alice doesn't give Bob a license, legally speaking.  She doesn't _sublicense_ Bob.  Rather, Alice gives Bob a copy of Dana's license terms.  Those terms say that Dana gives Bob his license directly.  That way, legally speaking, if Alice's license terminates for some reason, Bob's license won't be affected.  Licensing-wise, from Bob's point of view, Alice isn't involved.
+
+Taken together, packaging license terms with software allowed license terms to travel with software.  The terms themselves ensured copies would _always_ travel with software, and that it wouldn't matter, as a user, whether you got your copy direct from the developer, or from others.  You ended up with software, license terms, and a license that didn't depend on how you got your copy.  Job done.
+
+Now we have the Internet.  The Internet lets us replace copies of things with addresses of things.  Like license terms.  We see this in dependency manifest files that summon tarballs from well known package registries and source repository hosts.  We see this in instructions for using licenses, like [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0#apply):
+
+> To apply the Apache License to your work, attach the following boilerplate notice....
+>
+> > Copyright \[yyyy\] \[name of copyright owner\]
+> >
+> > Licensed under the Apache License, Version 2.0 (the "License");
+> > you may not use this file except in compliance with the License.
+> > You may obtain a copy of the License at
+> >
+> > <http://www.apache.org/licenses/LICENSE-2.0>
+> >
+> > ...
+
+When a developer follows these instructions, and includes a link to the Apache license, rather than a copy of it, it becomes possible to receive a copy of software, with notice that the software comes with a license, but without a copy of the license terms.  Fortunately, the terms are but one quick Web request away.  You know you _have_ a license.  But you don't necessarily know what it says until you click the link.
+
+We can replace notice that you have a license with a link, as well.
+
+If that gets tiresome, if you find yourself sending out a lot of free licenses, for folks and uses you want to support, do both.  Put terms in `LICENSE` that give free licenses to those you want to use for free.  For everyone else, include a link for how to request or buy a license.  You're dual-licensing now.
+
+With a few more tricks---namely, cryptographic signatures---you're looking at [License Zero](https://licensezero.com) now.  License Zero provides a couple public `LICENSE` options, with terms that won't satisfy all users.  For those not covered by `LICENSE`, [licensezero.com](https://licensezero.com) vends licenses automatically, like a [vending machine](https://licensezero.com/vending-machine.svg).  License Zero projects include metadata, piggybacking on distribution for the software, that point to that vending machine.  Software can read that metadata, and set you up to buy the license you need.
