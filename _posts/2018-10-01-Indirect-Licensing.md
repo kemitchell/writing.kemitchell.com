@@ -4,6 +4,7 @@ description: dispensing software licenses in the Internet era
 layout: post
 tags:
 - Killjoy
+- Open Source
 - Licensing
 ---
 
@@ -98,3 +99,5 @@ On the other hand, you might decide that you either don't need support from user
 In the end, giving _everyone_ free license permission with a terms like MIT or Apache 2.0 might create more opportunity of a kind you're now capable of assessing and ready to seize---hosting, service or support contracts, paid feature development, nonfree add-ons, and so on.  In other words, throwing licensing wide open, minimizing friction, can improve your project's performance as a loss leader.  But by this point, your loss leader actually leads somewhere.  By licensing directly, you kept your ability to make money early on, to meet and communicate with users who valued your work at every step along the way, and to evolve your license approach with your project and alternative means of support.  You gave yourself the tools to build up to a rational open source loss leader play.
 
 If you start this journey as an established company offering products or services for which your project drives demand, it's perfectly possible to skip prior steps, right to the end, and lead loss from day one.  But if you start without products, services, or revenue, and skip straight to incurring losses that lead nowhere, expect to have a hard time, especially if you're going it alone.  You're following in the footsteps of great open source success stories, but you're doing so walking backwards.
+
+Of course, if offering some freebies in `LICENSE` and selling the rest online is working for you, you don't have to change a thing.  That's a perfectly viable model in its own right.  The key is fitting your needs, your user's needs, and the software you can deliver together, in a way that serves all involved.  That is the goal, the balance to strike, however you manage to strike it.
