@@ -70,7 +70,7 @@ For information about licenses for this software,
 contact John Smith at john.smith@example.com.
 ```
 
-Call it <dfn>indirect licensing</dfn>: telling everyone who receives a copy of your software not that they have a license, but where they can get one.
+Call it <dfn>indirect licensing</dfn>: telling everyone who receives a copy of your software not that they have a license, but how they can get one.
 
 Without a license from you, many folks can't use your software. Using your software without a license means risking a lawsuit for copyright infringement, and that's risk they or their boss don't want to take. Those that care about lawsuits for copyright infringement---those worth suing in the first place---have an incentive to reach out to you, if they'd rather use your software that rebuild it themselves.  At that point, you can respond however you please.
 
