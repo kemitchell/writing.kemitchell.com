@@ -52,7 +52,7 @@ We see that new normal in dependency manifest files that summon tarballs from we
 > >
 > > ...
 
-When a developer follows these instructions, and includes a link to the Apache license, rather than a copy of it, it becomes possible to receive a copy of software, with notice that the software comes with a license, but without a copy of the license terms.  Fortunately, the terms are but one quick Web request away.  You know you _have_ a license.  But you don't necessarily know what it says until you click the link.
+When a developer follows these instructions, and includes a link to the Apache license, rather than a copy of it, it becomes possible to receive a copy of software, with notice that the software comes with a license, but without a copy of the license terms.  Fortunately, the terms are but one quick Web request away.  You know you _have_ a license.  But you don't necessarily know on what terms until you click the link.
 
 We can replace copies of software with addresses.  And we can replace copies of legal terms with addresses.  What about copies of the text that says you have a license, on those terms?  What about the magic words that grant the license, directly?
 
