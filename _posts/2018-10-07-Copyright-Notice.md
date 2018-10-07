@@ -9,13 +9,13 @@ tags:
 
 I'm tired of watching open software developers wring hands, speculate, and confuse themselves about copyright notices for MIT- and BSD-style license terms.
 
-***The following general recommendation is a preliminary draft, published for comment.  If you want a more definitive recommendation, ask other intellectual property lawyers you know to review this post and send me feedback at <kyle@kemitchell.com>.***  If I gain enough confidence in its generality, with or without changes, I'll spin up a one-page site, version the text, and announce here on the blog.
+***The following recommendation is a preliminary draft, published for comment.  If you want a more definitive recommendation, ask other intellectual property lawyers you know to review this post and send me feedback at <kyle@kemitchell.com>.***  If I gain enough confidence in its generality within scope, with or without changes, I'll spin up a one-page site, version the text, and announce here on the blog.
 
-Even if this recommendation matures, it will always bear a disclaimer:  ***If you need legal advice, speak to a lawyer.***  No general recommendation will always be right, and I won't be professionally responsible to you if and when this one isn't.  If I had to take that risk, I couldn't afford to publish any recommendation at all, even with perfect confidence that it would help avoid headaches and legal problems 99.9+% of the time.
+Even if this recommendation matures, it will always bear a disclaimer:  ***If you need legal advice, speak to a lawyer.***  No recommendation will always be right, and I won't be professionally responsible to you if and when this one isn't.  If I had to take that risk, I couldn't afford to publish any recommendation at all, even with perfect confidence that it would help avoid headaches and legal problems 99.9+% of the time.
 
 ## <a id="purpose"></a>Purpose
 
-The purpose of this recommendation is to ensure that everyone who gets a copy of the software gets a list of _both_ all the contributors to the project _and_ all the parties---people and entities---granting licenses for work in the project.
+The purpose of this recommendation is to ensure that everyone who gets a copy of the software gets a list showing _both_ all the contributors to the project _and_ all the parties---people and entities---granting licenses for work in the project.
 
 That purpose serves two constituencies.  Developers get credit for the work they do.  Users get records of where their licenses come from.
 
@@ -27,25 +27,29 @@ This recommendation applies _only_ to projects that meet these criteria:
 
 2.  The project puts licensing information in a single `LICENSE` or similar file.  The project may also code its license in package metadata, like `package.json`.
 
-3.  The project does not add or maintain license-header comments in original source files.
+3.  The project does not add or maintain license-header comments in original source files.  The project may do so for source files copied in from other projects.
 
-4.  The project uses a revision control system that preserves author name, e-mail, and date and time for each change.
+4.  The project uses a revision control system that preserves author name, e-mail, and date and time for each change, like Git.
 
 5.  The project publishes its revision-control data online.
 
-6.  The project includes the address of its online revision-control repository in all distributed artifacts.
+6.  The project includes the address of its online revision-control repository in all distributed artifacts, like package tarballs.
 
 7.  The project includes its `LICENSE` or similar file in distributed artifacts.
 
 8.  The project is _not_ stewarded by a company, foundation, or other organization with its own open source or intellectual property policy.  Follow that policy instead.
 
+9.  The project does _not_ use contributor license agreements.
+
 ## <a id="recommendation"></a>Recommendation
 
-Read all three of the subsections that follow.  [The last one](#organizations) applies to all contributors.
+Do not skip [the last subsection below](#organizations), which applies to all contributors.
 
 ### <a id="initial"></a>Initial Contributor
 
 The initial contributor to a project should copy the terms of their chosen license verbatim from <https://www.spdx.org/licenses/>.
+
+The initial contributor to a project should only format the terms of their chosen license, if at all, with a software tool, like `fmt -w65`.  Don't edit license text manually.
 
 The initial contributor to a project should replace the copyright notice line of the standard terms, and only that line.  For example:
 
@@ -77,11 +81,17 @@ Each additional contributor should add a line-item to the copyright notice with 
 +           Alice Smith <alice@example.com>
 ```
 
-Follow [the rules for organizations](#organizations).
+Follow [the rules for organizations](#organizations).  For example:
+
+```diff
+  Copyright Bob Johnson <bob@example.com>
++           Alice Smith <alice@charlie.com>
++             for Charlie Computer Corporation
+```
 
 ### <a id="organizations"></a>Organizations
 
-Any contributor submitting work that likely belongs to an employer, client, or other entity, as work made for hire or by assignment, should note that affiliation in a copyright-notice line-item:
+Any contributor submitting work that likely belongs to an employer, client, or other entity, as work made for hire or by assignment, should note that affiliation in a copyright-notice line-item.  For example:
 
 ```diff
   Copyright Alice Smith <alice@example.com>
