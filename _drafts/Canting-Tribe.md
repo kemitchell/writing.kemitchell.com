@@ -11,23 +11,23 @@ tags:
 
 What do we _do_ about pointless, inefficient variation in basic business contracts?  What do we _do_ once we've felt smart for calling out obvious inefficiency, and realize we're still stuck with the problem?  What do we _do_ about hours wasted, reviewing the same old kind of contract again and again, or waiting for review, only to hear that, yes, it was exactly as we expected?
 
-Here is an answer: Join the [Canting Tribe](https://cantingtribe.com), an open, voluntary, Internet-enabled network for legal form standardization.  Its first project is [The Canting Tribe NDA](https://nda.cantingtribe.com), a bog standard, mutual nondisclosure agreement for general business use, specifically designed to stop waste with network effects.
+Here is an answer: Join the [Canting Tribe](https://cantingtribe.com), an open, voluntary, Internet-enabled network for legal form standardization.  Its first project is [The Canting Tribe NDA](https://nda.cantingtribe.com), a bog standard, certifiably boring mutual nondisclosure agreement for general business use, specifically designed to stop the waste with network effects.
 
 ## Building a Standard-Form Network
 
-Many good lawyers have published boring MNDAs for free.  The Canting Tribe NDA is another one.  It differs not in how it solves the "we need terms for sharing confidential information" problem, but in how it attacks the problem of having to read and reread terms that solve that problem, over and over and over again.  There is one, primary, critical goal:
+Many good lawyers have published boring MNDAs for free.  The Canting Tribe NDA is another one.  It differs not in how it solves the "we need terms for sharing confidential information" problem, but in how it attacks the problem of having to read and reread terms that solve that problem over and over and over again.  There is one, primary, critical goal:
 
 > Bootstrap a network of a companies that propose, accept, and spread word of the Canting Tribe NDA, to maximize in-network, no-review-needed NDA transactions.
 
-If you want to stop waste in orthodox, predictable mutual NDAs, you need network effects.  You need a user community structured in a way that grows itself, without taking all the burden of spreading word and enforcing uniformity on you, your company, or any small group.  Canting Tribe is a conduit, a means, of bringing the solution to the problem.
+If you want to stop time waste in orthodox, predictable mutual NDAs, you need network effects.  You need a user community structured in a way that spreads standardization by its nature, without taking all the burden of spreading word and enforcing uniformity on you, your company, or any small group.  Canting Tribe is a conduit, a means, of bringing the solution to the problem.
 
 The Canting Tribe's tools for network building are intentionally few, simple, and complimentary:
 
 1.  Revisions of the Canting Tribe NDA are rigorously versioned.  Version 1.0.0 has been published.  _Version 1.0.0 will never change_.  Improvements will come with new, unique version numbers.  Like software.
 
-2.  Copies of the Canting Tribe NDA come with an additional signature page, from the side proposing the terms.  The one proposing signs that page to fill in key blanks in the form, but also as a kind of certificate, guaranteeing that the terms proposed exactly match those of an official version of the Canting Tribe NDA published at <https://nda.cantingtribe.com>.
+2.  Copies of the Canting Tribe NDA come with an additional signature page, from the side proposing the terms.  The one proposing signs that page to fill in key blanks in the form, but also as a kind of certificate, guaranteeing that the terms proposed exactly match those of an official version of the Canting Tribe NDA published at [nda.cantingtribe.com](https://nda.cantingtribe.com).
 
-3.  Companies that review and approve the Canting Tribe NDA can add their names to a growing register of users that appears on <https://nda.cantingtribe.com>.  That register has the network-promoting effect of reassuring those receiving proposals to sign the Canting Tribe NDA for the first time, by presenting social proof on the website mentioned on the certificate.
+3.  Companies that review and approve the Canting Tribe NDA can add their names to a growing register of users that appears at [nda.cantingtribe.com](https://nda.cantingtribe.com).  That register has the network-promoting effect of reassuring those receiving proposals to sign the Canting Tribe NDA for the first time, by presenting social proof on the website mentioned on the certificate.  It brings private use of a standard agreement about secrecy out into the light, without disclosing who is using the form with who, or about what.
 
 This is enough to close a positive-feedback loop for adoption.  Rigorous versioning makes it possible for companies to join the register, and for certificates to guarantee authenticity.  Certificates and the register allows new companies to review and rely on the terms.  Reliance demonstrates the benefit of joining the network.  Demonstrated benefit leads more companies to join the register.  The more companies review, rely, and join the register, the larger the network grows.  The larger the network grows, the more opportunities it creates to sign mutual nondisclosure agreements on standard terms, without wasting time.
 
