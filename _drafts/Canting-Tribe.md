@@ -29,19 +29,21 @@ The Canting Tribe's tools for network building are intentionally few, simple, an
 
 3.  Companies that review and approve the Canting Tribe NDA can add their names to a growing register of users that appears at [nda.cantingtribe.com](https://nda.cantingtribe.com).  That register has the network-promoting effect of reassuring those receiving proposals to sign the Canting Tribe NDA for the first time, by presenting social proof on the website mentioned on the certificate.  It brings private use of a standard agreement about secrecy out into the light, without disclosing who is using the form with who, or about what.
 
-This is enough to close a positive-feedback loop for adoption.  Rigorous versioning makes it possible for companies to join the register, and for certificates to guarantee authenticity.  Certificates and the register allows new companies to review and rely on the terms.  Reliance demonstrates the benefit of joining the network.  Demonstrated benefit leads more companies to join the register.  The more companies review, rely, and join the register, the larger the network grows.  The larger the network grows, the more opportunities it creates to sign mutual nondisclosure agreements on standard terms, without wasting time.
+This is enough to close a positive-feedback loop.  Rigorous versioning makes it possible for companies to join the register, and for certificates to guarantee authenticity.  Certificates and the register allows new companies to review and rely on the terms.  Reliance demonstrates the benefit of joining the network.  Demonstrated benefit leads more companies to join the register.  The more companies review, rely, and join the register, the larger the network grows.  The larger the network grows, the more opportunities it creates to sign mutual nondisclosure agreements on standard terms, without wasting time.
 
-## Death to the Cockroach Dragon
+## The Dragon
 
-But why _yet another_ NDA cure?  _That is exactly why_.  The nondisclosure agreement is [the cockroach of contracts](http://www.adamsdrafting.com/abuse-of-nondisclosure-agreements/) that will not die.  It is the dragon at the mouth of the cave of deals-law optimizations.  No other kind of agreement causes so much frustration with the state of routine business law practice.  No other kind of agreement begs so loudly for a better way.  No other kind of agreement has left the bones and armor of so many would-be reformers strewn about its lair.  I have fought the this fight with different weapons, and lost.  A few times.
+But why yet another NDA cure?  _That is exactly why_.
 
-Those of us who care about legal productivity _have_ to attack the NDA problem, and keep attacking it.  Slaying that dread beast of inefficiency would be the surest proof that business law can overcome obvious, festering coordination challenges, and the surest path to a bit of redemption.
+No other kind of agreement causes so much frustration with the state of routine business law practice.  No other kind of agreement begs so loudly for a better way.  The nondisclosure agreement is the dragon at the mouth of the cave of deals-law optimizations.  It has left the bones and armor of so many would-be reformers strewn about its lair.  I have fought this very dragon, with different weapons, and lost.  A few times.
 
-If the Canting Tribe NDA succeeds, there will be more forms.  I'd particularly like to tackle Web-served software as a service.  But more important than any form could, there will be a new model of voluntary legal standardization, without the slow pace, overhead, and specialization of existing industry-group efforts or the unilateral, top-down dynamics of promulgation by foundation.  Success will come easier, after the first.
+Those of us who care about legal productivity in transactions _have_ to attack the NDA problem, and keep attacking it.  Slaying that dread beast of inefficiency would be the surest proof that business law can overcome obvious, festering coordination challenges.  It would be the clearest first step on a path to professional redemption.
+
+If the Canting Tribe NDA succeeds, there will be more forms.  I'd particularly like to tackle Web-served software as a service.  But more important than any form, there will be a new model of voluntary legal standardization, without the slow pace, overhead, and specialization of existing industry-group efforts, or the unilateral, top-down dynamics of promulgation by foundation.  Success will come easier, after the first.  But there must be a first.  And it must address a very widespread pain.
 
 ## What to Do
 
-I'll be reaching out to friends, colleagues, and clients about using the Canting Tribe NDA and joining the register of adopting companies.  If you want to do something about the problem, do the same.
+I'm be reaching out to friends, colleagues, and clients about using the Canting Tribe NDA and joining the register of companies.  If you want to do something about the problem, do the same.
 
 [Instructions for registering are here](https://nda.cantingtribe.com/#listing).  [Questions and answers are here](https://nda.cantingtribe.com/#questions).  The e-mail address for feedback on the form is <comments@cantingtribe.com>.
 
@@ -51,10 +53,10 @@ I am pursuing this project through RxNDA, the LLC I formed for <https://rxnda.co
 
 For now, I won't be charging anything related to Canting Tribe or the Canting Tribe NDA.  In the future, if the project succeeds, I may charge for maintaining listings for large companies on the register, to cover time and expenses and fund further professional review, revision, and commentary on the terms of the form itself.
 
-The Canting Tribe NDA is currently available to download in a variety of common formats.  If it succeeds, I'll likely offer a site for sending and e-signing, with additional administrative and technical features along the lines of [rxnda.com](https://rxnda.com).
+The Canting Tribe NDA is currently available to download in a variety of common formats.  If it succeeds, I'll likely offer a site for sending and e-signing, with additional administrative and technical features along the lines of [rxnda.com](https://rxnda.com).  But as with the prior effort, that will be in addition to, not instead of, more traditional, orthodox publication of the forms.
 
 ## About the Name
 
 "Canting Tribe" comes from the name of [a famous 17th-century dictionary](https://en.wikipedia.org/wiki/A_New_Dictionary_of_the_Terms_Ancient_and_Modern_of_the_Canting_Crew) of [thieves' cant](https://en.wikipedia.org/wiki/Thieves%27_cant) and slang.
 
-A name like "Canting Tribe NDA" can _mean_ a specific set of standardized terms within a community.  Any dealmaker that learns, uses, and recognizes that vocabulary joins the community.  By learning a shared language, companies can learn to talk the basic phrases of business legal, fast.
+A name like "Canting Tribe NDA" can _mean_ a specific set of standardized terms within a community.  Any dealmaker that learns, uses, and recognizes that vocabulary joins the community.  By sharing a language, companies can speak and understand the rudiments of business legal fluently.
