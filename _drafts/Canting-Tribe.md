@@ -1,6 +1,6 @@
 ---
 title: A Canting Tribe Are We
-description: network effects and standardization can slay the NDA dragon
+description: attacking the NDA problem with standards networks
 layout: post
 tags:
 - Contracts
