@@ -16,7 +16,7 @@ Imagine if CSPAN not only had cameras at oral arguments and trials, but also in 
 
 [BDFL]: https://en.wikipedia.org/wiki/Benevolent_dictator_for_life
 
-At least in the circles I travel, this is how software people want their community to function.  Their are some very well known examples---recent [OpenSSL] vulnerabilities like [Heartbleed] come to mind---showing that reviewable and improvable aren't sufficient.  But on the whole, at the level of ideals, culture, and values, software born of a process deemed closed or opaque publicity at nearly any stage---"proprietary software"---is inherently suspect.  As are programmers who don't submit their work to the public ordeal, which is all kinds of performance anxiety inducing when you start out.
+At least in the circles I travel, this is how software people want their community to function.  There are some very well known examples---recent [OpenSSL] vulnerabilities like [Heartbleed] come to mind---showing that reviewable and improvable aren't sufficient.  But on the whole, at the level of ideals, culture, and values, software born of a process deemed closed or opaque publicity at nearly any stage---"proprietary software"---is inherently suspect.  As are programmers who don't submit their work to the public ordeal, which is all kinds of performance anxiety inducing when you start out.
 
 [OpenSSL]: https://www.openssl.org
 
