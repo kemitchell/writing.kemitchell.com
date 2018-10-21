@@ -88,21 +88,35 @@ I've heard other lawyers explain that the difference alludes to remedies: what y
 
 Even if there is a clear legal distinction, based on remedies or otherwise, it's not clear that the Open Source Definition means "restrict" in a particular legal way.  The Definition wasn't written by lawyers.  It addresses a legal topic, license terms, but uses different terms than an English-speaking copyright lawyer would.
 
-### Reproduction, Distribution, and Derivative Works
+### Use, Explicit or Implicit
 
-Conditions in open source licenses are almost always written to apply to actions like "distribution", "making changes", or both.  The triggers in the earliest copyleft licenses were also written in terms of those actions.  Distributing and making changes correspond to two out of three of the actions copyright law enables copyright holders to control, through licensing:
+Conditions in open source licenses are almost always written to apply to "distribution" and "making changes".  The triggers in the earliest copyleft licenses were also written only in terms of those actions.  Newer copyleft licenses, in particular copyleft licenses addressing the use of software to provide services over a network, go beyond those actions, explicitly or implicitly.  Some practitioners read those newer conditions to affect "use".
+
+Copyright law enables copyright holders to control three kinds of actions through licensing:
 
 1. reproduction of their software in copies
 2. distribution of copies of their software to the public
 3. preparation of derivative works, or works based on, their software
 
-It wasn't until copyleft triggers began trying to cover running software to provide network services that they seemed to rely on control of the first, making copies, as well.
+Under copyright law, owners of copyright do _not_ have an explicit right to control and license use, or execution, of their software.  However, creating a copy of software---for installation, loading into RAM for execution, and so on---is an unavoidable step of running it.  That gives copyright holders indirect power to control how their software is run.
 
-Under copyright law, owners of copyright do not have an explicit right to control and license use, or execution, of their software, directly.  However, creating a copy of software---for installation, loading into RAM for execution, and so on---is an unavoidable part of running it.  That gives copyright holders indirect control of execution.
+Some licenses, like OSL, say "use" in their trigger language.  Other licenses, like AGPLv3, seem to take great pains to avoid saying "use".  Regardless of wording, a copyright license can only control the actions covered by copyright.  Providing services to others over a network is not distribution to the public or preparing a derivative work under copyright law.  When a copyright license puts conditions on that action, it puts a condition on reproduction in copies, and therefore indirectly on use.
 
 ### Field of Endeavor
 
 If we count copyleft rules as "restrictions", and accept that some copyleft triggers affect "use", we can still decide that proprietary software development doesn't count as a "field of endeavor".
+
+Field of endeavor isn't an intellectual property law term of art.  The term is used in US immigration law, but again, there's no reason to believe the Definition meant to invoke that usage specifically.
+
+OSI and open source licensing history do provide a number of examples of fields of endeavor leading to rejection.  The Definition itself mentions business and genetic research.  OSI's annotated Definition emphasizes commercial use.  Software licenses prohibiting military use have also been rejected.
+
+As both OSI and groups like FSF have been quick to emphasize, "commercial", "business", and "proprietary" are not and need not be synonyms.  Many firms produce, distribute, and develop open source software for pay or other commercial advantage.  The dominant mode in the software industry remains proprietary.  Those firms discriminate against openness, both in what they consume, and in how they produce.  Copyleft licenses have long discriminated against proprietary developers.  To quote Stallman, from _Copyleft: pragmatic idealism_:
+
+> I make my code available for use in free software, and not for use in proprietary software, in order to encourage other people who write software to make it free as well.  I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+
+That is discrimination.  But evidently not the kind of discrimination OSD prohibits.
+
+Businesses, genetic researchers, and military personnel all employ open as well as closed software.  Licensing and distribution choices are evidently independent of those fields of endeavor.
 
 ## Person and Group Discrimination
 OSD criterion 5 reads:
@@ -111,7 +125,9 @@ OSD criterion 5 reads:
 >
 > The license must not discriminate against any person or group of persons.
 
-### Other Software Restriction
+For any field of endeavor, we could define a group: the group of people endeavoring in that field.  People developing closed software.  People working at firms developing closed software.  That reading would disqualify approved copyleft licenses, including GPLv2.  That reading can't be right.
+
+## Other Software Restriction
 
 OSD criterion 9 reads:
 
