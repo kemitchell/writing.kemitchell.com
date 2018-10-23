@@ -3,9 +3,9 @@ title: Copyleft Maintenance and the Open Source Definition
 layout: post
 ---
 
-What does the Open Source Definition have to say about how strong copyleft licenses can be?  As it turns out, little that is helpful, and a great deal that is not.  The Definition's criteria are at best mildly suggestive of where the proper limits of a copyleft license should be, a reflector for prior-held views.
+What does the Open Source Definition have to say about how strong copyleft licenses can be?  As it turns out, little that is helpful, and a great deal that is not.  The Definition's criteria are at best mildly suggestive of where the proper limits of a copyleft license should be, a reflection for prior-held views.
 
-Rather than lose ourselves in the precise minutiae of license terms, on the one hand, and the loose generalization of the Definition, on the other, we should focus on the reasons copyleft licenses were written and adopted to begin with.  We should acknowledge that those reasons were not always the same.
+Rather than lose ourselves in the precise minutiae of license terms, on the one hand, and the loose generalization of the Definition, on the other, we should focus on the reasons copyleft licenses were written and adopted to begin with.  We should acknowledge that those reasons were not always the same.  And we should ask whether the developers identify with the open source movement identify those goals with the proper scope of "open source".
 
 # Maintenance
 
