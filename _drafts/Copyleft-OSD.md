@@ -3,51 +3,76 @@ title: Copyleft Maintenance and the Open Source Definition
 layout: post
 ---
 
-What does the Open Source Definition have to say about how strong copyleft licenses can be?  As it turns out, little that is helpful, and a great deal that is not.  The Definition's criteria are at best mildly suggestive of where the proper limits of a copyleft license should be, a reflection for prior-held views.
+What does the Open Source Definition have to say about how strong copyleft licenses can be?  As it turns out, little that is helpful, and a great deal that is not.  The Definition's twenty-year-old criteria at best mildly suggest the proper limits of open source copyleft, without providing any framework or vocabulary or expressing them.
 
-Rather than lose ourselves in the precise minutiae of license terms, on the one hand, and the loose generalization of the Definition, on the other, we should focus on the reasons copyleft licenses were written and adopted to begin with.  We should acknowledge that those reasons were not always the same.  And we should ask whether the developers identify with the open source movement identify those goals with the proper scope of "open source".
+Rather than lose ourselves in the precise minutiae of license terms, on the one hand, and the broad generalizations of the Definition, on the other, we should focus on the reasons copyleft licenses are written and adopted to begin with.  We should acknowledge that drafters' and users' reasons have not always been the same.  And we should ask whether developers who participate in the open source movement see those goals within the proper scope of "open source".
 
-# Maintenance
+This post offers a vocabulary for discussing copyleft licenses and copyleft-license limits, as well as a case against prescriptive community-wide regulation of copyleft.
 
-Open source licenses, like open source programs, require maintenance.  Software, the tools and processes we use to make it, and the ways we use it change, and so does the law.  Changes in operating environment require changes in implementation, to keep achieving the functionality developers want.
+# Vocabulary
+
+In order to talk about copyleft licenses under the Open Source Definition, we have to be able to talk about copyleft licenses.  Here is a vocabulary for doing so.
+
+## Maintenance
+
+Open source licenses, like open source programs, require maintenance.  Software, the tools and processes we use to make it, and the ways we use it all change, and so does the law.  Changes in operating environment require changes in implementation, to keep achieving the effects developers want.
 
 Copyleft and permissive licenses share maintenance tasks in common, like modernization of notice conditions and response to patent threats.  Copyleft licenses face additional problems peculiar to the rules that distinguish them from permissive licenses.
 
-We can generalize copyleft rules as answering four questions:
+## Design
 
-1. _Trigger_: When must users share their software?
+We can generalize copyleft licenses as making four independent design choices:
+
+1. _Trigger_: When must users share software?
 2. _Sweep_: What software must users share?
-3. _Licensing_: How must users license their software?
-4. _Distribution_: How must users share source for their software?
+3. _Licensing_: How must users license that software?
+4. _Distribution_: How must users share source for that software?
 
-Different copyleft licenses answer these questions differently.  Generally, the more cases in which a copyleft rule triggers, the more code in its sweep, the more specific the license terms that must be applied to it, and the broader source must be distributed, the stronger we say that copyleft license is.  Over time, as circumstances change and reviewers find more bugs in the license's implementation, a license that began very strong may become weak.
+Different copyleft licenses answer these questions differently.
 
-# Strength
+## Strength
 
-Strong copyleft serves both activists and upstart companies.  Activists use strong copyleft to exclude proprietary software creators, whose practices they oppose, and with whom they compete, from the benefits of their work.  Companies also use strong copyleft to exclude competitors from the benefits of their work.  Some companies also use strong copyleft as the basis for "dual licensing" or "selling exceptions", selling private licenses that permit what their public license does not: use in proprietary software development.
+Generally, the more situations in which a copyleft implementation triggers, the more code it sweeps up, the more specific the license terms it requires, and the more broadly it requires source to be distributed, the _stronger_ we say that copyleft license is.  Calling a copyleft license "strong" gives us a general hint about its design, and the effects of that design in current circumstances.  Calling a copyleft license "strong" does _not_ tell us which particular design choices it made, or which current technical or legal circumstances its design depends upon.
 
-If a copyleft license's trigger is too weak to cover the most valuable use of a piece of software, the copyleft license becomes ineffective for these purposes.  For example, a copyleft trigger that fires on distribution of a library or code based on it to others, like GPLv2's, fails to trigger for use of that library to provide a web server application, since the web application's creator never distributes their software to others.  A stronger copyleft license with a stronger trigger, like OSL, makes copyleft work for the library.
+For example, AGPLv3 and OSL 3.0 are both considered very strong copyleft licenses.  Their triggers differ: AGPLv3 triggers on providing a network service only if the licensee made changes to the software as originally provided, while OSL triggers on "External Deployment" as a service over a network, with or without changes.  So do their sweeps: AGPLv3 sweeps up all "Corresponding Source", including "all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts", while OSL sweeps up only the work licensed and copyright "derivative works" of it.
+
+Over time, as circumstances change and reviewers find more bugs in a license's design and language, a license that began very strong may become weak or even ineffectual, especially in particular circumstances.  GPLv2 was once the strongest well known copyleft license.  Since the appearance of network-copyleft licenses like AGPL, GPLv2 no longer seems that strong.
+
+## Regulation
+
+The open development community as a whole, or groups within it, might choose to _regulate_ copyleft, restricting the acceptable design choices copyleft implementers can make, and therefore the strength of those licenses overall.  In theory, regulation could either weaken _or_ strengthen copyleft.  But as a practical matter, sufficiently weak copyleft licenses have the same effects as permissive licenses, and permissive licenses are broadly accepted.  So copyleft regulation functions to make community copyleft implementations weaker than they could be.
+
+The most important school of copyleft regulation has long been a form of self-regulation: "software freedom" as defined by the Free Software Foundation.  Most notably, the FSF has drafted its own licenses to permit the creation, use, and internal distribution of "private changes" by individuals, and even within very large organizations.  It has rejected stronger copyleft licenses from others---Plan 9, Open Watcom, and RPL---that do not.  The Open Source Initiative approved those licenses, indicating acceptance of looser copyleft regulation.
+
+The underlying law that software licenses invoke can also regulate copyleft.  That regulation might take the form of substantive limits on what copyleft licenses can accomplish, no matter how they're worded, as well as limits on specific wording or implementation, that lawyers can draft around.  For example, the doctrine of copyright misuse might regulate copyleft sweep, licensing, and distribution.  Courts currently disfavor copyright misuse, and have left it mostly unclear, but a clear development could impose a limit that drafters could not work around.  In contrast, take the fact that copyright licenses as such cannot control the right to use software, a regulation of copyleft triggers.  Drafters have worked around this limit, leveraging the fact that in order to use software, licensees have to copy it.  Copyleft drafters write their use rules as copying rules, whether they choose the word "use" or avoid it.
+
+## Purpose
+
+Strong copyleft serves both software freedom activists and businesspeople.  Activists use strong copyleft to exclude proprietary software creators, whose practices they condemn, and with whom they compete, from the benefits of their work.  Businesspeople also use strong copyleft to exclude competitors from the benefits of their work, while preserving access to some of the benefits of openness.  Some businesses also use strong copyleft as the basis for "dual licensing" or "selling exceptions": offering private licenses that permit what their public license does not, to use in proprietary software development.
+
+If a copyleft license's trigger is too weak to cover the most valuable use of a piece of software, the copyleft license becomes ineffective for these purposes.  For example, a copyleft trigger that fires on distribution of software and work based on it, like GPLv2's, fails to trigger for use of that library to provide a web server application, since the web application's creator never distributes software to others.  A stronger copyleft license with a stronger trigger, like OSL, restores copyleft effect for such a library.
 
 Even when a copyleft license's trigger is effective, weakness in sweep, licensing, and distribution rules can render it ineffective overall.  For example, if a copyleft license's trigger covers use of a library to provide a web application, but its sweep only covers the original library code and any changes to the library, not other parts of the web application, meeting the copyleft requirement may be trivial.  Licensees may continue denying software freedom by keeping the rest of their web application code proprietary, use the copyleft software to compete against its creator, or dodge the need to buy a proprietary-use license.
 
-# Prior Art
+## Prior Art
 
-Copyleft licenses have long been promoted and understood as "free for open" licenses: do as you please, but share software you make alike.  But that is not how they've been implemented.  Over time, changes in the law, changes in software practice, and broader understanding of the specific language of particular copyleft licenses has led to "free for open, except with specific loopholes".
+Copyleft licenses have long been promoted and understood as "free for open" licenses: do as you please, but share software you make alike.  But as a rule, that is not how they've actually been written.  Over time, changes in the law, changes in software practice, and broader understanding of the specific language of particular copyleft licenses has led, again and again, to "free for open, except for specific loopholes".
 
-From packaged software to software as a service.  From large projects and frameworks adapted by making changes to more modular libraries and components used almost entirely as released.  From libraries to APIs.  From industry behemoths producing software largely for sale, to industry behemoths producing software largely for internal use.  From three-step Makefiles to ever more baroque build, bundling, testing, analysis, deployment, monitoring, and debugging chains.  The history of copyleft licenses is largely a history of piecemeal progress, responding to each new development, rather specifically, to restore copyleft's practical strength.
+From packaged software to software as a service.  From large projects and frameworks adapted by making changes to more modular libraries and components used almost entirely without change.  From libraries to APIs.  From industry behemoths producing software largely for sale, to industry behemoths producing software largely for internal use.  From three-rule Makefiles to ever more baroque build, bundling, testing, analysis, deployment, monitoring, and debugging chains.  The history of copyleft licenses is largely a history of piecemeal progress, responding to each new development, specifically, to restore copyleft's practical effectiveness.
 
 In very general terms:
 
-| Year | License         | Trigger                                                      | Sweep                                                        | License              | Distribution         |
-| ---- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------- | -------------------- |
-| 1991 | GPLv2           | distribution of a copy                                       | original code and work based on it                           | same terms           | copies to recipients |
-| 1991 | LGPLv2          | distribution of a copy                                       | original code and work based on it, but not work merely using the library | same terms           | copies to recipients |
-| 2002 | Sybase (Watcom) | non-research, non-personal use                               | original code and work based on it                           | same terms           | publication          |
-| 2005 | OSL 3.0         | distribution of a copy or providing a network service, with or without changes | original code and work based on it                           | same terms           | copies to recipients |
-| 2007 | RPL 1.5         | non-research, non-personal use                               | original code, work based on it, _and code necessary to run work based on it | same terms           | publication          |
-| 2007 | GPLv3           | distribution of a copy                                       | original code, work based on it, and all code needed to run and develop work  based on it | same terms or AGPLv3 | copies to recipients |
-| 2007 | AGPLv3          | distribution of a copy or providing a network service with changes | original code, work based on it, and all code needed to run and develop work  based on it | same terms of GPLv3  | copies to recipients |
-| 2012 | MPL 2.0         | distribution of a copy                                       | original code and changes to it                              | same terms           | copies to recipients |
+| Year | License         | Trigger                                                      | Sweep                                                        | License              | Distribution                                         | Purpose               |
+| ---- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------- | ---------------------------------------------------- | --------------------- |
+| 1991 | GPLv2           | distribution of a copy                                       | original code and work based on it                           | same terms           | copies to recipients                                 | activist              |
+| 1991 | LGPLv2          | distribution of a copy                                       | original code and work based on it, but not work merely using the library | same terms           | copies to recipients                                 | activist (compromise) |
+| 2002 | AGPLv1          | distribution of a copy                                       | original code and work based on it                           | same terms           | copies to recipients and remote users of the program | activist              |
+| 2002 | Sybase (Watcom) | non-research, non-personal use                               | original code and work based on it                           | same terms           | publication                                          | business              |
+| 2005 | OSL 3.0         | distribution of a copy or providing a network service, with or without changes | original code and work based on it                           | same terms           | copies to recipients                                 | neutral               |
+| 2007 | RPL 1.5         | non-research, non-personal use                               | original code, work based on it, and code necessary to run work based on it | same terms           | publication                                          | business              |
+| 2007 | GPLv3           | distribution of a copy                                       | original code, work based on it, and all code needed to run and develop work  based on it | same terms or AGPLv3 | copies to recipients                                 | activist              |
+| 2007 | AGPLv3          | distribution of a copy or providing a network service with changes | original code, work based on it, and all code needed to run and develop work  based on it | same terms of GPLv3  | copies to recipients                                 | activist (compromise) |
+| 2012 | MPL 2.0         | distribution of a copy                                       | original code and changes to it                              | same terms           | copies to recipients                                 | activist (compromise) |
 
 Among these examples, the high water marks are:
 
@@ -57,13 +82,17 @@ Among these examples, the high water marks are:
 
 # OSD
 
-What does the Open Source Definition have to say about the four choices facing copyleft license drafters?  As it turns out, nothing very helpful.
+We could ask two questions about the Open Source Definition as a source of copyleft regulation:
 
-Most OSD criteria that seem to matter for copyleft terms, when read alone, haven't been read consistently to place any limits on copyleft choices.  One of them, OSD criterion 9, at least begs the important question of copyleft sweep, but offers no details or guiding principles.  History shows it was meant and understood to stop a much more basic form of license overreach.
+1. Does the Open Source Definition prohibit specific language in copyleft implementations?
+2. Does the Open Source Definition prohibit specific copyleft design choices?
+3. Does the Open Source Definition prohibit specific combinations of copyleft design choices?
+
+Most OSD criteria that seem to matter for copyleft terms, when read alone, haven't been read consistently to place any limits on copyleft choices.  One of them, OSD criterion 9, seems to beg the important question of copyleft sweep, but offers no meaningful guidance.
 
 ## You can't read the OSD alone.
 
-Ignoring history, it's possible to read several criteria of the Open Source Definition, straight off the page, to prohibit copyleft licenses entirely.  Those readings crop up each time a new copyleft license appears seeking to fix some maintenance problem or another, forcing large parts of the conversation to start from before square one, rather than focusing it on what is new.  That is not the fault of honest readers.  Recurring confusion on these basics points demonstrates how general, vague, and ambiguous the Open Source Definition's language remains.
+Ignoring history, it's possible to read several criteria of the Open Source Definition, straight off the page, to prohibit copyleft licenses entirely.  Those readings crop up each time a new copyleft license appears seeking to fix some maintenance problem or another, forcing large parts of the conversation to start from before square one, rather than focusing it on what is new.  That is not the fault of honest readers.  Recurring confusion on these basics points demonstrates how general, vague, and ambiguous the Open Source Definition's language was and has become after decades in service, without relevant change.
 
 Generality was intentional.  The Open Source Definition was adapted from the Debian Free Software Guidelines, part of the Debian Social Contract.  The Debian Project drafted and adopted the Guidelines to describe the kinds of licenses project participants recognized and accepted at the time, as a category.
 
@@ -159,4 +188,4 @@ The Debian Project distributes a lot of packages.  In that, Debian infrastructur
 
 License terms can break those rules.  They can grant permission only to distribute along with other open software, not proprietary.  They can require prominent billing on lists of contents of particular media on which they're reproduced.  Debian's infrastructure and software can't implement every rule-breaking license's terms in software, and ensure they're followed.  To prevent that explosion of complexity, which might make package distribution totally unworkable, Debian excluded software that creates those problems.
 
-# Breaking the Cycle
+# What Now?
