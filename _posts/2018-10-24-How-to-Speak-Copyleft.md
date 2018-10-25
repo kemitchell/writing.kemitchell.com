@@ -1,10 +1,11 @@
 ---
 title: How to Speak Copyleft
-description: the missing vocabulary of copyleft regulation
+description: the missing vocabulary of copyleft design
 layout: post
 tags:
 - Open Source
 - Licensing
+- Copyleft
 - SSPL
 ---
 
@@ -97,8 +98,8 @@ With this vocabulary in hand, we can generalize innovative copyleft licenses by 
 
 Among these examples, the strongest design choices are:
 
-- _Trigger_: Sybase, RPL, and OSL, which cover modified and unmodified use to provide to others, such as over a network
-- _Reach_: (A)GPLv3, which go beyond work based on the software to other work needed to use and develop it
-- _Distribution_: Sybase and RPL, which require publication of source, rather than just providing or offering to specific recipients
+- _Trigger_: Sybase, RPL, and OSL, which cover modified and unmodified use
+- _Reach_: (A)GPLv3, which reach beyond work based on the software to other work
+- _Distribution_: Sybase and RPL, which require publication, rather than just providing or offering downstream
 
 Among these examples, the strongest design approaches are RPL, Sybase/Wacom, OSL, and AGPLv3.
