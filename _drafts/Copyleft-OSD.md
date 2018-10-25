@@ -47,7 +47,7 @@ This language was copied from the Debian Free Software Guidelines without change
 
 Ignoring open source licensing history, it's possible to read OSD criterion 6 to prohibit all copyleft licenses.  After all, as a practical matter, copyleft terms prevent use of copyleft software in the creation of closed software, in at least some ways.  How can we square that plain reading with a long list of approved copyleft licenses?
 
-Different readers answer that question differently.  Some focus on "restriction".  Some focus on "use".  Some focus on "field of endeavor".
+Different readers answer that question differently.  Some focus on "restriction".  Some focus on "use".  Some focus on "field of endeavor".  Some downplay the specific terms used, and focus on overall intent.
 
 #### Restriction
 
@@ -85,7 +85,7 @@ If "use" in OSD 6 means specifically running the program, we need to dig a bit d
 
 Under copyright law, owners of copyright do _not_ have an explicit right to control and license running of their software.  However, copying software is an unavoidable step in running it, for installation, loading into RAM for execution, and so on.  Since copyright holders _can_ control copying of their software, they have indirect power to control running of their software.  A [specific section of US copyright law](https://www.gpo.gov/fdsys/search/pagedetails.action?granuleId=USCODE-2017-title17-chap1-sec117&packageId=USCODE-2017-title17&fromState=) makes an exception to this rule, for copies of software that users own, especially when purchased as a part of a package, with a computing device.  But [well known federal case law](https://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc.) indicates that having a license, especially with one with notable use restrictions, is not the same as owning a copy.
 
-Some strong copyleft licenses, like [OSL](https://opensource.org/licenses/OSL-3.0), say "use" in their trigger language.  Other licenses, like [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html), seem to take great pains to avoid saying "use".  Regardless of wording, a copyright license can only control the actions covered by copyright.  Providing services to others over a network is not sharing copies publicly or making changes or new work based on the software.  The only action governed by copyright left is copying.  When a copyright license makes rules about running a program, it makes rules about making copies as part of running the program.  Those rules require copying and sharing when licensees otherwise would not. 
+Some strong copyleft licenses, like [OSL](https://opensource.org/licenses/OSL-3.0), say "use" in their trigger language.  Other licenses, like [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html), seem to take great pains to avoid saying "use".  Regardless of wording, a copyright license can only control the actions covered by copyright.  Providing services to others over a network is not sharing copies publicly or making changes or new work based on the software.  The only action governed by copyright left is copying.  When a copyright license makes rules about running a program, it makes rules about making copies as part of running the program.  Those rules require copying and sharing when licensees otherwise would not.
 
 #### Specific Field of Endeavor
 
@@ -98,6 +98,10 @@ OSI and open source licensing history do provide a number of examples of specifi
 As both OSI and groups like FSF have been quick to emphasize, "commercial" and "proprietary" are not synonyms.  Many firms produce, distribute, and develop open source software for pay or other commercial advantage.
 
 Businesses, genetic researchers, and military personnel can employ open as well as closed software.  The choice to use or release open software stands independent of their choices to endeavor in those fields.
+
+### Generalist Readings
+
+<!-- TODO -->
 
 ### Person and Group Discrimination
 
