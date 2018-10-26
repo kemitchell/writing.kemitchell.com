@@ -9,21 +9,23 @@ This is the second in [a series inspired by MongoDB's Server Side Public License
 
 We could ask three questions about the Open Source Definition as a source of copyleft regulation:
 
-1. Does the Open Source Definition prohibit specific language in copyleft implementations?
-2. Does the Open Source Definition prohibit specific copyleft design choices?
-3. Does the Open Source Definition prohibit categories of copyleft design approaches?
+1. Does the Open Source Definition prohibit specific language in copyleft implementations, like the word "use"?
+2. Does the Open Source Definition prohibit specific copyleft design choices, like triggering on use of software to provide network services without making any changes?
+3. Does the Open Source Definition prohibit categories of copyleft design approaches, like licenses that trigger on network use and reach beyond derivative works of the licensed software, or copyleft licenses that seem too strong, in some other way?
 
-Most OSD criteria that seem to matter for copyleft, when read alone, haven't been read consistently to place any limits on copyleft choices.  One of them, OSD criterion 9, seems to some to imply a limit on copyleft reach, but offers no meaningful guidance for that limit.
+Most OSD criteria that seem to matter for copyleft, when read alone, haven't been read consistently to place any limits on copyleft maintenance.  One of them, OSD criterion 9, seems to some to imply a limit on copyleft reach, but offers no meaningful guidance for that limit.
+
+Overall, the OSD offers no actionable framework for regulating maintenance of copyleft licenses.
 
 ## You can't read the OSD alone.
 
-Ignoring history, it's possible to read several criteria of the Open Source Definition, straight off the page, to prohibit copyleft entirely.  Those readings crop up each time a new copyleft license appears seeking to fix some maintenance problem or another, forcing large parts of the conversation to start from before square one, rather than what is new.
+Ignoring history, it's possible to read several criteria of the Open Source Definition, straight off the page, to prohibit copyleft entirely.  Those readings crop up each time a new copyleft license appears seeking to fix some maintenance problem or another, forcing large parts of the conversation to start from before square one, rather than from where the debate left off, for the last strong-copyleft license.
 
-This is not the fault of honest readers.  Recurring confusion on these basics points demonstrates how general, vague, and ambiguous the Open Source Definition's language was and has become after decades in service, without relevant change.
+This is not the fault of earnest readers.  Recurring confusion on these basics points demonstrates how general, vague, and ambiguous the Open Source Definition's language was and has become after decades in service, without relevant change.  And it shows how little the Open Source Initiative and participants in the license-review process have done to consolidate and summarize the ways the Definition has been read and applied.
 
-Generality was intentional.  The Open Source Definition was adapted from the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines), part of the [Debian Social Contract](https://www.debian.org/social_contract).  The Debian Project drafted and adopted the Guidelines to describe the kinds of licenses project participants recognized and accepted at the time, as a category.
+Generality in the Definition was intentional.  In fact, it was the point.  The Open Source Definition was adapted from the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines), part of the [Debian Social Contract](https://www.debian.org/social_contract).  The Debian Project drafted and adopted the Guidelines to generalize the kinds of licenses project participants recognized and accepted at the time, as a category of license terms.
 
-That category included GPLv2, then a very strong activist copyleft license.   A section of the Guidelines entitled "Example Licenses", removed in the Definition but still a part of Guidelines, listed "GPL" first.  As a threshold matter, any reading of any part of the Open Source Definition that calls GPLv2 into question can't reflect the agreement that the Definition embodied at the time.  OSI approval of other copyleft licenses indicate readings of Definition criteria that permitted those licenses, when they were approved.
+That category included GPLv2, then considered a very strong, activist copyleft license.   A section of the Guidelines entitled "Example Licenses", removed in the Definition but still a part of Guidelines, listed "GPL" first.  Thus, as a threshold matter, any reading of any part of the Open Source Definition that calls GPLv2 into question can't reflect the agreement that the Definition embodied at the time.  OSI has since approved other, stronger copyleft licenses.  Reading of the Definition criteria that disqualify those licenses don't reflect how the criteria were read at those times.
 
 ## Discrimination
 
@@ -45,15 +47,28 @@ Criterion 6 of the Open Source Definition reads:
 
 This language was copied from the Debian Free Software Guidelines without change.
 
-Ignoring open source licensing history, it's possible to read OSD criterion 6 to prohibit all copyleft licenses.  After all, as a practical matter, copyleft terms prevent use of copyleft software in the creation of closed software, in at least some ways.  How can we square that plain reading with a long list of approved copyleft licenses?
+Ignoring open source licensing history, it's possible to read OSD criterion 6 to prohibit all copyleft licenses whatsoever.  After all, as a practical matter, copyleft terms prevent use of copyleft software in the creation of closed software, in at least some ways.  How can we square that plain reading with a long list of approved copyleft licenses?
 
-Different readers answer that question differently.  Some focus on "restriction".  Some focus on "use".  Some focus on "field of endeavor".  Some downplay the specific terms used, and focus on overall intent.
+Different readers answer that question differently.  Some focus on "restriction".  Some focus on "making use".  Some focus on "specific field of endeavor".  Some downplay the specific terms used, and focus on overall intent.  In outline:
+
+- Restriction
+  1. ordinary meaning
+  2. the opposite of "condition" among open source license specialists
+- Making Use
+  1. ordinary meaning, similar to "use" in patent law
+  2. any action governed by the license
+  3. running the program specifically
+- Specific Field of Endeavor
+  1. any activity
+  2. activities offering a choice between open and closed
 
 #### Restriction
 
-Copyright law gives copyright holders control over [a specific list of actions](https://www.gpo.gov/fdsys/search/pagedetails.action?granuleId=USCODE-2017-title17-chap1-sec106&packageId=USCODE-2017-title17&fromState=) that others might like to take with the copyrighted work.  Under US law, in general terms, those actions are making copies, sharing copies publicly, and making changes or new work based on the copyrighted work.
+> The license must not **restrict** anyone from making use of the program in a specific field of endeavor.
 
-Some open source license practitioners distinguish "restrictions", which hold back permission to take some of those actions, and "conditions", which allow those actions, but add requirements to meet after doing what's allowed.  Prohibitions on copying, sharing, or building for commercial purposes are almost always spoken of as restrictions.  Notice-retention rules, which require keeping copies of copyright notices and license terms with copies of software, are a kind of condition.  Copyleft rules are almost always spoken of as conditions.
+Copyright law gives copyright holders control over [a specific list of actions](https://www.gpo.gov/fdsys/search/pagedetails.action?granuleId=USCODE-2017-title17-chap1-sec106&packageId=USCODE-2017-title17&fromState=) that others might like to take with the copyrighted work.  Under US law, in general terms, those actions are making copies, distributing copies publicly, and making changes or new work based on the copyrighted work.
+
+Some open source license practitioners distinguish "restrictions", which hold back permission to take some of those actions, and "conditions", which permit those actions, but add requirements to meet after doing what's permitted.  Prohibitions on copying, distributing, or building for commercial purposes are almost always spoken of as restrictions.  Notice-retention rules, which require keeping copies of copyright notices and license terms with copies of software, are a kind of condition.  Copyleft rules are almost always spoken of as conditions.
 
 The terms "restriction" and "condition" are a part of open source licensing jargon.  But it's not clear they reflect any underlying legal difference.
 
@@ -61,9 +76,9 @@ To enforce a copyright license for software, copyright holders bring lawsuits fo
 
 In the end, a copyright license creates a list of things that a licensee can do with a work of copyrighted software.  Everything not covered by the license or an exception, like fair use, is infringement.  Either the license gave permission to do what the defendant did, or the defendant committed infringement.
 
-I've heard other lawyers explain the difference in terms of legal "remedies": what you can get a court to do for you, when you sue another for infringement and win.  All lawyers agree that successful infringement suits can lead to injunctions, or court orders, for the defendant to stop taking action with the software.  For example, most lawyers seem to agree that courts will issue orders to stop making and distributing proprietary software in a way that breaks a copyleft rule.  But most lawyers I've spoken to doubt that courts will grant court orders requiring defendants to fulfill conditions.  Courts won't issue orders forcing defendants to share their source code and license it as required to satisfy the copyleft rule.  Rather, courts will award the copyright holder money damages as compensation for infringement.  Legal confusion on this point contributed to the fear, uncertainty, and doubt about copyleft licenses as "viral" licenses that could force large companies to share their closed software.
+I've heard other lawyers explain the difference in terms of legal "remedies": what you can get a court to do for you, when you sue another for infringement and win.  All lawyers agree that successful infringement suits can lead to injunctions, or court orders, for the defendant to stop taking action with the software.  For example, most of my colleagues seem to agree that courts will issue orders to stop making and distributing proprietary software in a way that breaks a copyleft rule.  But most lawyers I've spoken to doubt that courts will grant court orders requiring defendants to fulfill conditions.  Courts won't issue orders forcing defendants to distribute their source code and license it as required to satisfy the copyleft rule.  Rather, courts will award the copyright holder money damages as compensation for infringement.  Legal confusion on this point contributed to the fear, uncertainty, and doubt about copyleft licenses as "viral" licenses that could force large companies to share their closed software.
 
-Even if there _were_ a clear legal distinction between restrictions and conditions, based on remedies or otherwise, it's not clear that the Open Source Definition means "restrict" in any particularly legal way.  The Definition wasn't written by lawyers.  It addresses a legal topic, license terms, but uses different terms than an English-speaking copyright lawyer would.  It never uses the word "condition", or even the word "copyright".
+Even if there _were_ a clear legal distinction between restrictions and conditions, based on remedies or otherwise, it's not clear that the Open Source Definition means "restrict" in such a legal way.  The Definition wasn't written by lawyers.  It addresses a legal topic, license terms, but uses different terms than an English-speaking copyright lawyer would.  It never uses the word "condition", or even the word "copyright".
 
 Neither is it clear that the Definition uses "restrict" in the way that open licensing specialists do, or that their peculiar use of "restriction" comes from the Definition.  More likely, the Definition was written---and more crucially, understood---to use "restrict" in the ordinary way.  Per OED:
 
@@ -71,35 +86,41 @@ Neither is it clear that the Definition uses "restrict" in the way that open lic
 >
 > To prohibit or prevent _from_.
 
-I would read "restrict anyone from making use of the program in a specific field of endeavor", in common, everyday English, to cover rules that make "use" in a "specific field of endeavor" copyright infringement.
+I would read "restrict anyone from making use of the program in a specific field of endeavor", in common, everyday English, to cover rules that turn "making use" in a "specific field of endeavor" copyright infringement.
 
-#### Use
+#### Making Use
 
-The everyday meaning of "use" is extremely general.   But some nonetheless read "use" in OSD 6 to mean specifically "use" in the sense of running a program, or perhaps "use" as under patent law.  Others read "use" in the sense of taking any of the actions governed by copyright.
+> The license must not restrict anyone from **making use** of the program in a specific field of endeavor.
 
-Conditions in open source licenses are almost always written to apply to sharing copies publicly, making changes or new software based on the licensed software, or both.  Triggers in the earliest copyleft licenses speak in terms of these actions.  Newer copyleft licenses, in particular "network copyleft" licenses that trigger on provision of the software as a service to others over a network, go beyond sharing, making changes, and building new software, explicitly or implicitly.
+The everyday meaning of "use" is extremely general, potentially covering anything licensees might do with software.   But some nonetheless read "making use" in OSD 6 to mean taking any of the actions controlled by the license.  Some read it even more specifically, taking "use" to mean only exercising actions controlled by the license implicated by running the software.
 
-If "use" in OSD 6 has its plain, everyday meaning, or alternatively if "use" has the same meaning as under patent law, "restrict anyone from making use of the program" would describe copyleft conditions that prevent licensees from distributing copyleft software with closed changes, when the copyleft license requires changes to be distributed under the same copyleft license terms.  The question would then become [whether distributing closed software is a "specific field of endeavor"](#field-of-endeavor).
+Condition trigger language in open source licenses are almost speaks in terms of distributing copies publicly, making changes or new software based on the licensed software, or both.  Triggers in the earliest copyleft conditions speak in terms of these actions.  Newer copyleft licenses, in particular "network copyleft" licenses that trigger on provision of the software as a service to others over a network, go beyond distributing, making changes, and building new software, explicitly or implicitly.
 
-If "use" in OSD 6 means specifically running the program, we need to dig a bit deeper.
+If "use" in OSD 6 has its plain, everyday meaning, "restrict anyone from making use of the program" would describe copyleft conditions that prevent licensees from distributing copyleft software with closed changes, or past of closed programs, or simply under different, closed terms, when the copyleft license requires that work to be distributed under specified license terms.  The question would then become [whether distributing closed software is a "specific field of endeavor"](#field-of-endeavor).
 
-Under copyright law, owners of copyright do _not_ have an explicit right to control and license running of their software.  However, copying software is an unavoidable step in running it, for installation, loading into RAM for execution, and so on.  Since copyright holders _can_ control copying of their software, they have indirect power to control running of their software.  A [specific section of US copyright law](https://www.gpo.gov/fdsys/search/pagedetails.action?granuleId=USCODE-2017-title17-chap1-sec117&packageId=USCODE-2017-title17&fromState=) makes an exception to this rule, for copies of software that users own, especially when purchased as a part of a package, with a computing device.  But [well known federal case law](https://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc.) indicates that having a license, especially with one with notable use restrictions, is not the same as owning a copy.
+If "use" in OSD 6 means specifically taking actions governed by license, we need to dig a bit deeper.
 
-Some strong copyleft licenses, like [OSL](https://opensource.org/licenses/OSL-3.0), say "use" in their trigger language.  Other licenses, like [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html), seem to take great pains to avoid saying "use".  Regardless of wording, a copyright license can only control the actions covered by copyright.  Providing services to others over a network is not sharing copies publicly or making changes or new work based on the software.  The only action governed by copyright left is copying.  When a copyright license makes rules about running a program, it makes rules about making copies as part of running the program.  Those rules require copying and sharing when licensees otherwise would not.
+Under copyright law, owners of copyright do _not_ have an explicit right to control and license running of their software.  However, copying software is an unavoidable step in running it, for installation, loading into RAM for execution, and so on.  Since copyright holders _can_ control copying of their software, they have indirect power to control running of their software.  A [specific section of US copyright law](https://www.gpo.gov/fdsys/search/pagedetails.action?granuleId=USCODE-2017-title17-chap1-sec117&packageId=USCODE-2017-title17&fromState=) makes an exception to this rule, for copies of software that users own outright, especially when purchased as a part of a package, with a computing device, to keep it running as purchased.  But [well known federal case law](https://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc.) indicates that having a license, especially one imposing notable use restrictions, is not the same as owning a copy outright.
+
+Some strong copyleft licenses, like [OSL](https://opensource.org/licenses/OSL-3.0), say "use" in their trigger language.  Other licenses, like [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html), seem to take great pains to avoid saying "use".  Regardless of wording, a copyright license can only control the actions covered by copyright.  Providing services to others over a network is not distributing copies publicly or making changes or new work based on the software.  The only action governed by copyright that remains, then, is copying.  When a copyright license makes rules about running a program, it makes rules about making copies, as one must to run the program.  Those rules require distributing copies when licensees otherwise haven't done so, and might prefer not to do so.
+
+Insofar as "use" might mean taking any of the actions controlled by the license, "restrict anyone from making use of the program" would describe copyleft conditions that prevent licensees from running the software in particular ways without sharing their work.  The question would again become whether distributing closed software is a "specific field of endeavor".
 
 #### Specific Field of Endeavor
 
-If we count copyleft rules as "restrictions" anyway, and accept that some copyleft licenses trigger on "use", we could still decide that proprietary software development doesn't count as a "specific field of endeavor".  That would explain how copyleft licenses haven't fallen afoul of OSD criterion 6.
+> The license must not restrict anyone from making use of the program in a **specific field of endeavor**.
 
-The term "field of endeavor" has no specific meaning in intellectual property law.  The term does appear in US immigration law, but again, there's no reason to believe the Definition means to invoke that usage specifically, or any legal definition.
+If we count copyleft rules as "restrictions", and accept that copyleft licenses trigger on "use", we could still decide that proprietary software development doesn't count as a "specific field of endeavor".  That would explain how approved copyleft licenses didn't run afoul of OSD criterion 6.
 
-OSI and open source licensing history do provide a number of examples of specific fields of endeavor leading to rejection.  The Definition itself mentions business and genetic research.  OSI's annotated Definition emphasizes commercial use.  Software licenses prohibiting military use have also been rejected.
+The term "field of endeavor" has no specific meaning in intellectual property law.  The term does appear in US immigration law, but again, there's no reason to believe the Definition means to invoke that usage specifically, or any legal definition to begin with.
 
-As both OSI and groups like FSF have been quick to emphasize, "commercial" and "proprietary" are not synonyms.  Many firms produce, distribute, and develop open source software for pay or other commercial advantage.
+OSI and open source licensing history do provide a number of examples of specific fields of endeavor leading to rejection.  The Definition itself mentions business and genetic research.  OSI's annotated Definition reemphasizes commercial use.  Software licenses prohibiting military use have been widely considered non-conforming.
 
-Businesses, genetic researchers, and military personnel can employ open as well as closed software.  The choice to use or release open software stands independent of their choices to endeavor in those fields.
+As both OSI and groups like FSF have been quick to emphasize, "commercial" and "proprietary" are not synonyms.  Many firms, in many industries, produce, distribute, and develop open source software for pay or other commercial advantage.  Thus businesses, genetic researchers, and military personnel can employ open as well as closed software.  The choice to use or release open software stands independent of their choices to endeavor in those fields.
 
-### Generalist Readings
+Some firms are directly in the business of software development.  Many develop closed software exclusively.  But they also face a choice of whether to make their work available on open or closed terms.  Activist copyleft was designed to create incentives to choose open.
+
+#### Generalist Readings
 
 <!-- TODO -->
 
