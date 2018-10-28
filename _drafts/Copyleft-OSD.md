@@ -1,41 +1,71 @@
 ---
 title: Open Source Definition as Copyleft Regulation
 layout: post
+tags:
+- SSPL
+- Open Source
+- Licensing
 ---
 
-This is the second in [a series inspired by MongoDB's Server Side Public License](/series/SSPL.html) and ensuing debate.  It builds on [the first](https://writing.kemitchell.com/2018/10/24/How-to-Speak-Copyleft.html), which sets out a vocabulary of copyleft design and regulation used here.
+This is the second in [a series inspired by MongoDB's Server Side Public License](/series/SSPL.html) and ensuing debate.  It builds on [the first](https://writing.kemitchell.com/2018/10/24/How-to-Speak-Copyleft.html), which sets out a vocabulary of copyleft design and regulation to make this post possible.
 
 ---
 
-We could ask three questions about the Open Source Definition as a source of copyleft regulation, or rules that limit the strength of copyleft:
+We could ask three questions about the [Open Source Definition](https://www.opensource.org/osd) as a source of copyleft regulation, or rules that limit the strength of copyleft:
 
-1. Does the Open Source Definition prohibit specific language in copyleft implementations, like the word "use"?
-2. Does the Open Source Definition prohibit specific copyleft design choices, like triggering on running software to provide network services without making any changes?
-3. Does the Open Source Definition prohibit categories of copyleft design approaches, like designs that trigger on network use and reach beyond derivative works of the licensed software, or designs that seem too strong, in some other way?
+1. Does the Open Source Definition prohibit specific language in copyleft implementations?
 
-Most OSD criteria that seem to matter for copyleft, when read alone, haven't been read consistently to place any particular limits on copyleft maintenance.  One of them, OSD criterion 9, seems to some to imply a limit on copyleft reach, but offers no meaningful guidance for that limit.
+   For example:  Does OSD prohibit use of the term "restriction"?
 
-Overall, the OSD offers no actionable framework for regulating maintenance of copyleft licenses.
+2. Does the Open Source Definition prohibit specific copyleft design choices?
 
-## You can't read the OSD alone.
+   For example:  Does OSD prohibit triggering on running software to provide network services without making any changes first?
 
-Ignoring history, it's possible to read several criteria of the Open Source Definition, straight off the page, to prohibit copyleft entirely.  Those readings crop up each time a new, stronger copyleft license appears, forcing large parts of the conversation to start from before square one, rather than from where the debate left off the last time.
+3. Does the Open Source Definition prohibit categories of copyleft design approaches?
 
-This is not the fault of earnest readers.  Recurring confusion on these basics points demonstrates how general, vague, and ambiguous the Open Source Definition's language was and has become after decades without relevant change.  And it shows how little has been done to summarize and publicize the ways the Definition has been read and applied over that time.
+   For example:  Does OSD prohibit designs that trigger on network use and reach beyond derivative works of the licensed software?  Designs that seem too strong, in some other way?
 
-Generality in the Definition was intentional.  In fact, generalization was the point.  The Open Source Definition was adapted from the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines), part of the [Debian Social Contract](https://www.debian.org/social_contract).  The Debian Project drafted and adopted the Guidelines to describe the kinds of licenses project participants recognized and accepted at the time, as a category of license terms.
+Most Definition criteria that seem to matter for copyleft, when read alone, haven't been read consistently to place any specific limits.  One of them, criterion 9, seems to some to imply a limit on copyleft reach, but offers no meaningful guidance on where that limit lies.
 
-That category included GPLv2, then considered a very strong activist copyleft license, and a very popular choice.  A section of the Guidelines entitled "Example Licenses", removed in the Definition but still a part of Guidelines, lists "GPL" first.  Thus, as a threshold matter, any reading of any part of the Open Source Definition that calls GPLv2 into question can't reflect the view the Definition embodied at the time.  OSI has since approved other, stronger copyleft licenses.  Reading of the Definition criteria that disqualify those licenses don't reflect how the criteria were read at those times.
+The Definition was written to generalize a class of public software licenses that included, at the time, just one general-purpose copyleft example.  Perhaps as a consequence, the Definition offers no actionable framework for regulating maintenance of copyleft licenses.  To see why, we'll first review a couple [common mistakes](#common-mistakes) that lead to implausible interpretations setting specific limits.  Then we'll dive into the [discrimination](#discrimination) and [contamination](#contamination) criteria one by one.
+
+## Common Mistakes
+
+The text of Open Source Definition is admirably terse and inevitably ambiguous, affording several plausible readings of each criterion.  There is not enough in the Definition itself to narrow down to just one evidently correct meaning per criterion.  To select from among plausible meanings, we have to look beyond the text.
+
+Some readers forget to look _outside_ the text, and fixate on readings that don't make sense in the context of the Definition's history.  Others read between the lines, arguing that admittedly general text nonetheless has very specific meaning.
+
+### Excluding Copyleft Generally
+
+Ignoring history, it's possible to read several criteria of the Open Source Definition, straight off the page, to prohibit copyleft licenses entirely.  Those readings crop up each time a new, stronger copyleft license appears, forcing large parts of the conversation to start from before square one, rather than from where the debate left off the last time.  The generality of the Definition invites these readings.
+
+Generality was intentional.  In fact, generalization was the point.  The Open Source Definition was adapted from the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines), made part of the [Debian Social Contract](https://www.debian.org/social_contract) in 1997.  The Debian Project drafted and adopted the Guidelines to describe the kinds of licenses project participants recognized and accepted at that time, as a category of license terms.
+
+That category included [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html), then considered a very strong activist copyleft license, and a very popular license choice.  A section of the Guidelines entitled "Example Licenses", removed in the Definition but still a part of Guidelines, lists "GPL" first.  The Open Source Initiative approved GPLv2 under its adaptation of the Guidelines.
+
+As a threshold matter, any reading of any criterion of the Open Source Definition that excludes GPLv2 can't reflect the meaning of the Definition.  The Open Source Initiative has since approved other, stronger copyleft licenses.  Readings of the Definition criteria that exclude those licenses can't reflect how the Definition has been understood since.
+
+### Oddly Specific Readings of General Language
+
+Starting from a reading of some Definition criterion that limits copyleft, paring back to avoid GPLv2 or subsequently approved licenses, it's possible to end up with a very specific reading that limits open source copyleft in a very specific way.  But it is only the history that leads to specificity.  The text of the Definition remains as general as it was the day it was published.  The path from general text to highly specific meaning is not apparent or inevitable, starting from the text.
+
+This error often manifests as the position that the limit of open source copyleft is what the last strong-copyleft license approved happened to be, damning every new, stronger copyleft license proposed, in turn.  Starting from what's new is better than starting from the question of whether copyleft can ever conform to the Definition as a general matter.  But looking back at a general Definition, plus a history of progressively stronger approved copyleft licenses, it never follows that the last approved strong-copyleft license has to be the strongest copyleft license ever approved.  That debate has to reach beyond the Definition and even OSI itself, to the industry, community, and history of the movement.
+
+The concept of precedent in any official sense remains highly controversial among participants in OSI's license-review process.  Some approved licenses, especially lesser-known licenses, continue to spark controversy.  However, nobody seems to want to remove or deprecate licenses already on the approved list.
+
+I've personally become very frustrated with this situation.  I fear its consequences, in legitimacy terms.  But the point here is narrower:  For any hard, specific limit on open source copyleft, there may or may not be strong arguments.  But the idea that the highly general Definition sets a highly specific limit isn't one of them.
 
 ## Discrimination
+
+Two Definition criteria, numbers 5 and 6, prohibit licenses that discriminate against "specific fields of endeavor" and "any person or group of persons".  Those criteria can't be read in a consistent way to prohibit copyleft, even though copyleft is inherently discriminatory.
 
 Quoting Richard Stallman, from _Copyleft: pragmatic idealism_:
 
 > I make my code available for use in free software, and not for use in proprietary software, in order to encourage other people who write software to make it free as well.  I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 
-That is discrimination.  We might call it reciprocity, fair play, or the golden rule in action.  But it is discrimination.
+That is discrimination.  We might also call it reciprocity, fair play, or the golden rule in action.  But it is discrimination.
 
-Evidently not the kind of discrimination OSD prohibits.  OSI has approved all of the major licenses drafted by the Free Software Foundation, which Stallman founded, despite two nondiscrimination criteria.
+Evidently not the kind of discrimination the Definition prohibits.  The Open Source Initiative has approved all of the major licenses drafted by the Free Software Foundation, which Stallman founded, despite two nondiscrimination criteria.  Those criteria do not limit copyleft.
 
 ### Field of Endeavor Discrimination
 
@@ -45,22 +75,22 @@ Criterion 6 of the Open Source Definition reads:
 >
 > The license must not restrict anyone from making use of the program in a specific field of endeavor.  For example, it may not restrict the program from being used in a business, or from being used for genetic research.
 
-This language was copied from the Debian Free Software Guidelines without change.
+This language was copied from the Debian Free Software Guidelines verbatim.
 
-Ignoring open source licensing history, it's possible to read OSD criterion 6 to prohibit all copyleft licenses whatsoever.  After all, as a practical matter, copyleft terms prevent use of copyleft software in the creation of closed software.  How can we square that reading with a long list of approved copyleft licenses?
+Ignoring open source licensing history, it's possible to read criterion 6 to prohibit all copyleft licenses whatsoever.  After all, as a practical matter, copyleft terms prevent use of copyleft software in the creation of closed software.  How can we square that reading with a long list of approved copyleft licenses?
 
 Different readers answer that question differently.  Some focus on "restriction".  Some focus on "making use".  Some focus on "specific field of endeavor".  Some downplay the specific wording, and focus on overall intent.  In outline:
 
 - Restriction
-  1. ordinary meaning
-  2. "restriction" versus "condition" among licensing specialists
+  1. Ordinary meaning excludes GPL
+  2. Reading as a reference "restriction" versus "condition" as used among open licensing specialists is oddly specific, and makes no practical or legal difference.
 - Making Use
-  1. ordinary meaning, similar to "use" in patent law
-  2. any action governed by the license
-  3. running the program specifically
+  1. Ordinary meaning excludes GPL.
+  2. Any action governed by the license is oddly specific, and still excludes GPL.
+  3. Executing the program is very specific, and still excludes approved copyleft licenses.
 - Specific Field of Endeavor
-  1. any activity at all
-  2. fields that use and make both open and closed software
+  1. Any activity at all excludes GPL.
+  2. Limiting to fields that use and make both open and closed software sets no specific limit on copyleft.
 
 #### Restriction
 
@@ -136,7 +166,7 @@ This language was brought over from the Debian Free Software Guidelines without 
 
 For any field of endeavor, we could define a group: the group of people endeavoring in that field.  People developing closed software.  People working at firms developing closed software.  That reading would disqualify approved copyleft licenses, including GPLv2.  But history shows that is not the consensus the Open Source Definition was meant to express.
 
-## Other Software Restriction
+## Contamination
 
 The only significant change to turn DFSG criterion 9 into OSD criterion 9 was a single word in the heading:
 
