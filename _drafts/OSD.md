@@ -93,23 +93,23 @@ Ignoring history, it's possible to read several criteria of the Open Source Defi
 
 Generality was intentional.  In fact, generalization was the point.  The Open Source Definition was adapted from the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines), which were made part of the [Debian Social Contract](https://www.debian.org/social_contract) in 1997.  The Debian Project drafted and adopted the Guidelines to describe the kinds of licenses project participants recognized and accepted at that time, as a category of license terms.
 
-That category included [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html), then considered a very strong activist copyleft license, and a very popular choice.  A section of the Guidelines entitled "Example Licenses", removed in the Definition but still a part of Guidelines, lists "GPL" first.  The Open Source Initiative approved GPLv2 under its adaptation of the Guidelines.
+That category included [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html), then considered a very strong activist copyleft license, and a very popular choice.  A section of the Guidelines entitled "Example Licenses", removed in the Definition but still a part of Guidelines, lists "GPL" first.  The Open Source Initiative approved GPLv2 under its adaptation of the Guidelines.  Thus, as a threshold matter, any reading of any criterion of the Open Source Definition that excludes GPLv2 can't reflect the meaning of the Definition.
 
-As a threshold matter, any reading of any criterion of the Open Source Definition that excludes GPLv2 can't reflect the meaning of the Definition.  The Open Source Initiative has since approved other, stronger copyleft licenses.  Readings of the Definition criteria that exclude those licenses can't reflect how the Definition was understood since.  They don't reflect how OSI has continued to approve new copyleft licenses in substance, even as it tended to downplay their ideological style.
+The Open Source Initiative has since approved other, stronger copyleft licenses.  Readings of the Definition criteria that exclude those licenses can't reflect how the Definition has been understood since.
 
 ### Oddly Specific Readings of Very General Language
 
 Starting from a reading of some Definition criterion that limits copyleft and paring back to avoid GPLv2 or subsequently approved licenses, it's possible to end up with a very specific reading that limits open source copyleft in a very specific way.  But it is only the history that leads to that specificity.  The text of the Definition remains as general as it was the day it was published.  The path from general text to highly specific meaning is not apparent or inevitable, starting from the text.
 
-This error often manifests as the position that the outer limit of open source copyleft is whatever the last approved stronger-copyleft license happened to be, damning every new, yet stronger copyleft proposal, in succession.  Starting from what's new is better than starting from the question of whether copyleft can ever conform to the Definition.  But looking back at a general Definition, plus a history of progressively stronger approved copyleft licenses, it never follows that the last approved strong-copyleft license has to be the strongest copyleft license ever.  That debate has to reach beyond the Definition and even OSI itself, to the industry, community, and history of the movement.  It has to take into account that OSI only definitively accepts licenses, declines to approve many licenses that conform to the Definition, and never affirmatively and finally rejects any license.
+This error often manifests as the position that the outer limit of open source copyleft is whatever the last approved stronger-copyleft license happened to be, damning every new, yet stronger copyleft proposal, in succession.  Starting from what's new is better than starting from the question of whether copyleft can ever conform to the Definition.  But looking back at a general Definition, plus a history of progressively stronger approved copyleft licenses, it never follows from the Definition itself that the last approved strong-copyleft license has to be the strongest copyleft license ever.  That debate has to reach beyond the Definition and even Open Source Initiative history, to the industry, community, and history of the movement.  It has to take into account that the Open Source Initiative only definitively accepts licenses, declines to approve many licenses that conform to the Definition, and never affirmatively and finally rejects any terms.
 
-The concept of precedent proper remains highly controversial among OSI license-review participants.  On the other hand, there doesn't seem to be any strong will to remove or deprecate licenses approved in the past.  It's clear that past decisions, and especially use of approved licenses in apparent reliance on OSI approval, always seems to matter for new submissions.  It's not clear how.
+The concept of precedent proper remains highly controversial among license-review participants.  On the other hand, there doesn't seem to be any strong will to remove or deprecate licenses approved in the past.  It's clear that past decisions, and especially use of approved licenses in apparent reliance on Open Source Initiative approval, always seems to matter for new submissions.  It's just not clear how.
 
-The error made with highly specific readings of admittedly general Definition text that rely on past decisions and history isn't that they can't be right.  The error is in claiming that the existence or wording of the Definition supports them.  There may be very good reasons for specific copyleft regulation, but the Definition doesn't provide them in any explicit way.
+The error made with highly specific readings of admittedly general Definition text that rely on past decisions and history isn't that they can't be right for some other reason.  The error is in claiming that the existence or wording of the Definition supports them.  There may be very good reasons for specific copyleft regulation, but the Definition doesn't provide it.
 
 ## Discrimination
 
-Two Definition criteria, numbers 5 and 6, prohibit licenses that discriminate against "specific fields of endeavor" and "any person or group of persons".  Those criteria can't be read in a consistent way to prohibit copyleft, even though copyleft is inherently discriminatory.
+Two Definition criteria, 5 and 6, prohibit licenses that discriminate against "specific fields of endeavor" and "any person or group of persons".  Those criteria can't be read in a consistent way to prohibit copyleft, even though copyleft is inherently discriminatory.
 
 Quoting Richard Stallman, from _Copyleft: pragmatic idealism_:
 
@@ -117,19 +117,19 @@ Quoting Richard Stallman, from _Copyleft: pragmatic idealism_:
 
 That is discrimination.  We might also call it reciprocity, fair play, or the golden rule in action.  But it is discrimination.
 
-Evidently not the kind of discrimination the Definition prohibits.  The Open Source Initiative has approved all of the major licenses drafted by the Free Software Foundation, which Stallman founded, despite two nondiscrimination criteria.  Those criteria do not limit copyleft.
+Evidently not the kind of discrimination the Definition prohibits.  The Open Source Initiative has approved all of the major licenses drafted by the Free Software Foundation, which Stallman founded, despite two nondiscrimination criteria.  Those criteria exclude other kinds of licenses.
 
 ### Field of Endeavor Discrimination
 
 Criterion 6 of the Open Source Definition reads:
 
-> **No Discrimination Against Fields of Endeavor**
+> **6. No Discrimination Against Fields of Endeavor**
 >
 > The license must not restrict anyone from making use of the program in a specific field of endeavor.  For example, it may not restrict the program from being used in a business, or from being used for genetic research.
 
 This language was copied from the Debian Free Software Guidelines verbatim.
 
-Ignoring open source licensing history, it's possible to read criterion 6 to prohibit all copyleft licenses whatsoever.  After all, as a practical matter, copyleft terms prevent use of copyleft software in the creation of closed software.  That tracks the general meaning of "discriminate":
+Ignoring open source licensing history, it's possible to read criterion 6 to prohibit all copyleft licenses whatsoever.  After all, as a practical matter, copyleft terms prevent use of copyleft software in the creation of closed software.  That tracks the general meaning of "discriminate".  Per the Oxford English Dictionary:
 
 >  _intransitive_. _Economics_ (orig. _U.S._). To treat goods, trading partners, etc., more or less favourably according to circumstances.  Frequently with _against_ (also _in favour of_). Also in prepositional passive with _against_.
 
@@ -138,15 +138,15 @@ How can we square that reading with a long list of approved copyleft licenses?
 Different readers answer that question differently.  Some focus on "restriction".  Some focus on "making use".  Some focus on "specific field of endeavor".  In outline:
 
 - [Restrict](#restrict)
-  - [Ordinary meaning](#ordinary-meaning-of-restrict), the most compelling, catches GPL.
+  - [Ordinary meaning](#ordinary-meaning-of-restrict), the most compelling, natural meaning, catches GPLv2.
   - Reading as [a reference to how "restriction" and "condition" are used by open licensing specialists](#restriction-versus-condition) is oddly specific, and makes no practical or legal difference.
 - [Making Use](#making-use)
-  - [Ordinary meaning](#ordinary-meaning-of-making-use), the most compelling, catches GPL.
-  - [Any action governed by the license](#actions-governed-by-the-license) is oddly specific, and still excludes GPL.
+  - [Ordinary meaning](#ordinary-meaning-of-making-use), the most compelling, natural meaning, catches GPLv2.
+  - [Any action governed by the license](#actions-governed-by-the-license) is oddly specific, and still catches GPLv2.
   - [Running the software](#running-the-software) is very, very specific, and still excludes approved copyleft licenses.
 - [Specific Field of Endeavor](#specific-field-of-endeavor)
-  - Any activity at all](#any-activity-at-all) catches GPL.
-  - Limiting to [fields that use and make both open and closed software](#fields-with-choice-of-open-or-closed), matches examples given, but sets no specific limit on copyleft.
+  - [Any activity at all](#any-activity-at-all), arguably the most compelling and most natural meaning, catches GPLv2.
+  - Limiting to [fields that use and make both open and closed software](#fields-with-choice-of-open-or-closed) accords with given examples, but sets no specific limit on copyleft.
 
 #### Restrict
 
