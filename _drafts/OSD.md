@@ -279,6 +279,20 @@ When discussing criterion 9, I find it's useful to bring all the boundaries for 
 4. Reaching now into history, criterion 9 can't exclude network-copyleft licenses like AGPL and OSL.
 5. More controversially, criterion 9 evidently didn't exclude stronger-trigger copyleft or "reciprocal" licenses such as Plan 9, Open Watcom, and RPL, which were approved by the Open Source Initiative but rejected by the Free Software Foundation.
 
+### Restrictions
+
+As [noted earlier on](#restriction-versus-condition), it's tempting to fall back on an informal or even legal distinction between "restriction" and "condition", but there's no cause to read Open Source Definition language in that way.
+
+### Distributed
+
+With "distributed", we have much the same interpretive problem as "use" in condition 6.  We could read it informally, to mean sharing software, or as a legal allusion to distribution to the public under copyright law, or something in between.
+
+But "distributed" in criterion 9 is more troublesome that "use" in condition 6, considering GPLv2.  Reading "use" to mean running software, and making copies, on the legal side, pointed to an action with software that GPLv2 did _not_ use in its copyleft trigger.  Even if we read "distributed" in criterion 9 in an oddly specific, legal way, that action is very much a part of GPLv2's copyleft trigger.  In other words, reading "use" specifically takes language _away_ from GPLv2, but reading "distribute" specifically still covers it.
+
+### Other Software
+
+
+
 ---
 
 The last paragraph of GPLv2 section 2 reads:
