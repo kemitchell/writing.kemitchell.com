@@ -141,19 +141,17 @@ Open Source Definition criterion 1 reads more or less as criterion 1 of the Debi
 
 <blockquote><p><strong>1. Free Redistribution</strong></p><p>The license <del>of a Debian component</del> <del>may</del> <ins>shall</ins> not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license <del>may</del> <ins>shall</ins> not require a royalty or other fee for such sale.</p></blockquote>
 
-We could strain to read criterion 1 as a rule against licenses whose reach and licensing terms create license compatibility issues.  In other words, copyleft rules that create conflicts with other copyleft rules, preventing developers who combine work under both licenses from licensing the combination together.
+We could strain to read criterion 1 as a rule against licenses whose reach and licensing terms create license compatibility issues.  In other words, copyleft rules that create conflicts with other copyleft rules, preventing developers who combine work under both licenses from sharing the combination together.
 
-We'd have to read "component" and "aggregate software distribution" to cover changed versions and programs based on the licensed work.  Considering that "derived works" gets used for this meaning in other criteria, that seems a stretch.  I don't think developers in practice would go out of their way to say "component of an aggregate software distribution" when they meant "module of a new program" or "basis of a new version".
+We'd have to read "component" and "aggregate software distribution" to cover changed versions and programs based on the licensed work.  Considering that "derived works" gets used for this meaning in another, dedicated criterion, that seems a stretch.  And I don't think developers in practice would go out of their way to say "component of an aggregate software distribution" when they meant "module of a new program" or "framework for an application" or "starting point for a new version".
 
-But even if we accepted that interpretation, we'd end up with an [oddly specific reading](#oddly-specific-readings-of-very-general-language) that we'd have to pare back to save GPLv2.  GPLv2 has created plenty of compatibility problems.  But there's no basis in the text for paring the broad reading back in any such specific way.
+But even if we accepted that interpretation, we'd end up with an [oddly specific reading](#oddly-specific-readings-of-very-general-language) that we'd have to pare back to save GPLv2.  GPLv2 has created plenty of compatibility problems.  Arguably, it invented license modern incompatibility.  But there's no basis in the text for paring the broad reading back in any such specific way.  Criterion 1 says "restrict", and GPLv2 is full of "conditions".  But as [described above](#restriction-versus-condition), there's no good reason to read the specialist distinction between "restrictions" and "conditions" into the Definition generally, or condition 1 specifically.
 
-As [described above](#restriction-versus-condition), there's no good reason to read the specialist distinction between "restrictions" and "conditions" into the Definition generally, or condition 1 specifically.
-
-Overall, "redistribution" here seems to mean something far more like sharing software than making it.  We'll see that again in the [contamination](#contamination) criterion.
+Overall, "redistribution" here seems to mean something far more like sharing collections of software than changing or building it.  We'll see that again in the [contamination](#contamination) criterion, later on.
 
 ## Discrimination
 
-Two Definition criteria, 5 and 6, prohibit licenses that discriminate against "specific fields of endeavor" and "any person or group of persons".  Those criteria can't be read in a consistent way to prohibit copyleft, even though copyleft is inherently discriminatory.
+Two Open Source Definition criteria, 5 and 6, prohibit discrimination, the first against "any person or group of persons", the second against "specific fields of endeavor".  Yet those criteria don't prohibit copyleft, even though copyleft is inherently discriminatory.
 
 Quoting Richard Stallman, from _Copyleft: pragmatic idealism_:
 
@@ -161,7 +159,7 @@ Quoting Richard Stallman, from _Copyleft: pragmatic idealism_:
 
 That is discrimination.  We might also call it reciprocity, fair play, or the golden rule in action.  But it is discrimination.
 
-Evidently not the kind of discrimination the Definition prohibits.  The Open Source Initiative has approved all of the major licenses drafted by the Free Software Foundation, which Stallman founded, despite two nondiscrimination criteria.  Those criteria exclude other kinds of licenses.
+Evidently not the _kind_ of discrimination the Definition prohibits.  The Open Source Initiative has approved all of the major licenses drafted by the Free Software Foundation, which Stallman founded, despite two nondiscrimination criteria.  Those criteria exclude other kinds of licenses.
 
 ### Field of Endeavor Discrimination
 
@@ -177,20 +175,9 @@ Ignoring open source licensing history, it's possible to read criterion 6 to pro
 
 >  _intransitive_. _Economics_ (orig. _U.S._). To treat goods, trading partners, etc., more or less favourably according to circumstances.  Frequently with _against_ (also _in favour of_). Also in prepositional passive with _against_.
 
-How can we square that reading with a long list of approved copyleft licenses?
+How can we square that reading with a long list of approved copyleft licenses? Different readers answer that question differently.  Some focus on "restriction".  Some focus on "making use".  Some focus on "specific field of endeavor".
 
-Different readers answer that question differently.  Some focus on "restriction".  Some focus on "making use".  Some focus on "specific field of endeavor".  In outline:
-
-- [Restrict](#restrict)
-  - Ordinary meaning, the most compelling reading, catches GPLv2.
-  - Reading as [a reference to how "restriction" and "condition" are used by open licensing specialists](#restriction-versus-condition) is oddly specific, and makes no practical or legal difference.
-- [Making Use](#making-use)
-  - [Ordinary meaning](#ordinary-meaning-of-making-use), the most compelling reading, catches GPLv2.
-  - [Any action governed by the license](#actions-governed-by-the-license) is oddly specific, and still catches GPLv2.
-  - [Running the software](#running-the-software) is very, very specific, and still excludes approved copyleft licenses.
-- [Specific Field of Endeavor](#specific-field-of-endeavor)
-  - [Any activity at all](#any-activity-at-all), arguably the most compelling reading, catches GPLv2.
-  - Limiting to [fields that use and make both open and closed software](#fields-with-choice-of-open-or-closed) accords with given examples, but sets no specific limit on copyleft.
+Overall, natural readings of "restrict" and "making use" are very broad.  So broad, in fact, that they catch GPLv2.  But "specific field of endeavor" doesn't have a natural meaning.  If we read it broadly, it works with the other key terms to exclude GPLv2, which can't be right.  But if we track the examples, focusing on endeavors where open or closed is a choice, we end up with a rule that works.
 
 #### Restrict
 
@@ -202,7 +189,7 @@ In ordinary English, the meaning of "restrict" is very broad.  Per the Oxford En
 >
 > To prohibit or prevent _from_.
 
-Applied this ordinary meaning, “restrict anyone from making use of the program in a specific field of endeavor” would cover rules that turn “making use” in a “specific field of endeavor” into infringement, however that’s accomplished, legally or practically.  Considering GPLv2, the question would then become how we read “making use” and “specific field of endeavor”.
+Applying this ordinary meaning, “restrict anyone from making use of the program in a specific field of endeavor” would cover rules that turn “making use” in a “specific field of endeavor” into infringement, however that’s accomplished, legally or practically.  Considering GPLv2, the question would then become how we read “making use” and “specific field of endeavor”.
 
 As [described earlier](#restriction-versus-condition), it's hard to argue that the general distinction between "restrictions" and "conditions" among licensing specialists applies in criterion 6, instead of the ordinary meaning.
 
@@ -240,23 +227,25 @@ Taking "making use" to mean specifically running the program, but not publicly p
 
 > The license must not restrict anyone from making use of the program in a **specific field of endeavor**.
 
-If we count copyleft rules as “restrictions”, and accept that open source copyleft licenses trigger on “use”, we could still decide that proprietary software development doesn’t count as a “specific field of endeavor”.  That would explain how approved copyleft licenses from GPLv2 conform to criterion 6.
-
-The term “field of endeavor” has no specific meaning in intellectual property law.  The term does appear in US immigration law, but again, there’s no reason to believe the Definition means to invoke that usage specifically, or any legal definition to begin with.
+If we count copyleft rules as “restrictions”, and accept that open source copyleft licenses trigger on “use”, we could still decide that proprietary software development doesn’t count as a “specific field of endeavor”.  That would explain how approved copyleft licenses from GPLv2 on conform to criterion 6.
 
 ##### Any Activity at All
 
 If we read "specific field of endeavor" to mean any specified activity at all, at any level of generality, it comes to include development and distribution of closed software.  Unless we adopt one of the improbable meanings of "restrict" or "making use", such a broad meaning of "specific field of endeavor" would exclude GPLv2, the license that both the Guidelines and the Definition clearly meant to include.
 
+##### Legal Meaning
+
+The term “field of endeavor” has no specific meaning in intellectual property law.  The term does appear in US immigration law, but again, there’s no reason to believe the Definition means to invoke that usage specifically, or any legal meaning, to begin with.
+
 ##### Fields with Choice of Open or Closed
 
-If we read "restrict" and "make use" in the ordinary, natural ways, "specific field of endeavor" can't mean closed development.  At a minimum, GPLv2 restricts companies from using GPLv2 code in closed sourced that they distribute to others.  Later, stronger copyleft licenses restrict companies from using copyleft code in closed source in other ways.
+If we read "restrict" and "make use" in the ordinary, natural ways, "specific field of endeavor" can't mean closed development.  At a minimum, GPLv2 restricts companies from using GPLv2 code in closed sourced that they distribute to others.  Later, stronger copyleft licenses restrict companies from using copyleft code in closed source in other ways, like providing network services.
 
-The Definition and software licensing history provide a number of examples of specific fields of endeavor that accord with the history of copyleft approvals.  The Definition itself mentions business and genetic research.  Software licenses prohibiting military use have been widely considered non-conforming, as have licenses prohibiting use in violation of human rights.
+The Open Source Definition and software licensing history provide a number of examples of specific fields of endeavor that fit the history of copyleft approvals.  Criterion 6 mentions business and genetic research.  Software licenses prohibiting military use have been widely considered non-conforming, as have licenses prohibiting use in violation of human rights.
 
-OSI's annotated Definition reemphasizes commercial use.  As all major open advocacy groups, including OSI and FSF, have enthusiastically pointed out, "commercial" and "proprietary" are not synonymous.  Many people and firms, in many industries, produce, distribute, and develop open source software for pay or other commercial advantage.  Businesses, genetic researchers, and military personnel can employ and make open as well as closed software.  Software is but a means to those endeavors.  The choice of open or closed, as user or developer, stands independent of the choice to endeavor in those fields.
+OSI's annotated Definition reemphasizes commercial use.  As all major open advocacy groups, including OSI and FSF, have enthusiastically urged, "commercial" and "closed" are not synonymous, any more than "noncommercial" and "open".  Many people and firms, in many industries, produce, distribute, and develop open source software for pay or other commercial advantage.  Business firms, genetic researchers, and military personnel can employ and make open as well as closed software.  Software is but a means to those endeavors.  The choice of open or closed, as user or developer, stands independent of the choice to endeavor in those specific fields.
 
-Some firms do business in software development specifically.  Many of those develop or consume closed software exclusively, for a variety of industries or other use cases.  But all firms face a choice of whether to take or make work on open or closed terms.  Activist copyleft was designed to create incentives to choose open, by excluding firms that choose closed.  The Definition was written in large part to describe one of those licenses.
+Some firms do business in software development primarily.  Many of those develop or consume closed software exclusively, for a variety of industries or other use cases.  But all firms face a choice of whether to take or make work on open or closed terms.  Activist copyleft was designed to create incentives to choose open, by excluding firms that choose closed.  The Definition was written in large part to describe one of those licenses.
 
 ### Person and Group Discrimination
 
@@ -266,26 +255,28 @@ Open Source Definition criterion 5 reads:
 >
 > The license must not discriminate against any person or group of persons.
 
-This language was brought over from the Debian Free Software Guidelines without any changes.  It has typically been used to exclude licenses that blacklist particular people or firms by name or general category, such as lists of firms or particular national governments.
+This language was brought over from the Debian Free Software Guidelines without any changes.
 
-For any field of endeavor, we could define a group: the group of people endeavoring in that field.  For example, people developing closed software, or people working at firms developing closed software.  Discriminating against those people and groups, by requiring them to share software as open when they choose not to, or cannot, would disqualify approved copyleft licenses, including GPLv2.  But history shows that is not the consensus the Definition was meant to express.
+Criterion 5 has typically been used to exclude licenses that blacklist particular people or firms by name or general category, such as lists of firms or particular national governments.  Sometimes developers provided reasons for these lists.  Sometimes they turned the reasons into rules, sweeping up more than just those listed.
 
-Approved licenses of all kinds---permissive and copyleft---discriminate against other people and groups on the basis of their choices.  Perhaps most notably, the defensive termination provisions of many licenses terminate permissions granted by licenses to those who sue developers or users under patents.  Those rules are highly discriminatory against firms that actively enforce their patents.  They're especially discriminatory against specific firms whose primary business involves acquiring and suing on patents.  Those are evidently not the kinds of people or groups of people criterion 5 is meant to protect.
+For any activity, we could define a group: the group of people performing that activity.  The activity needn't be a "specific field of endeavor" referred to in criterion 6.  For example, we could define a group of people developing closed software, or people working at firms developing closed software.  Discriminating against those people in those groups, by requiring them to share software as open when they choose not to, or cannot, would disqualify approved copyleft licenses, including GPLv2.  That can't be right.
 
-The most recent example of a license running afoul of criterion 5 was the custom license briefly applied to the Lerna project.  That licenses consisted of standard MIT license terms, plus additional language meant to prevent license from applying to a list of companies implicated in providing products and services to U.S. Immigration and Customs Enforcement, then embroiled in a scandal about mistreatment of immigrants and refugees, especially children.
+Approved licenses of all kinds---permissive and copyleft---discriminate against other people and groups on the basis of their choices.  Perhaps most notably, the defensive termination provisions of many licenses take back permissions granted by licenses to those who sue developers or users under patents.  Those rules are highly discriminatory against firms that actively enforce their patents.  They're especially discriminatory against firms that primarily acquire and sue on patents.  Those are evidently not the kinds of people or groups of people criterion 5 is meant to protect.
 
 ## Contamination
 
-The major change Debian Free Software Guideline's criterion 9 to Open Source Definition criterion 9 was a single word in the heading:
+The only significant change from Debian Free Software Guideline's criterion 9 to Open Source Definition criterion 9 was a single word in the heading:
 
 <blockquote><p><strong>License Must Not <del>Contaminate</del><ins>Restrict</ins> Other Software</strong></p><p>The license must not place restrictions on other software that is distributed along with the licensed software. For example, the license must not insist that all other programs distributed on the same medium must be <del>free</del><ins>open-source</ins> software.</p></blockquote>
 
-There's a bit more going on in criterion 9 than the discrimination criteria.  As a result, I find it's useful to bring all the interpretive boundaries up front:
+I've seen criterion 9 read to regulate copyleft reach and licensing.  But for the reasons that follow, I don't see those readings in the text and its history.
 
-1. However we read the first sentence of criterion 9, it needs to accord with the same-media example in the second sentence.
+When discussing criterion 9, I find it's useful to bring all the boundaries for interpretation up front:
+
+1. However we read the first sentence of criterion 9, it needs to accord with the same-media example in its second sentence.
 2. We can't read criterion 9 to exclude GPLv2, since the Definition was written to describe, not exclude, that copyleft license.  GPLv2 includes some language that goes directly to the example in criterion 9.
 3. We can't read criterion 9 in such a way as to imperil the Debian Project's distribution system, volunteer and commercial.
-4. Reaching now into Open Source Initiative history, criterion 9 can't exclude network-copyleft licenses like AGPL and OSL.
+4. Reaching now into history, criterion 9 can't exclude network-copyleft licenses like AGPL and OSL.
 5. More controversially, criterion 9 evidently didn't exclude stronger-trigger copyleft or "reciprocal" licenses such as Plan 9, Open Watcom, and RPL, which were approved by the Open Source Initiative but rejected by the Free Software Foundation.
 
 ---
@@ -305,3 +296,13 @@ Debian remains a large and popular Linux distribution.  As a matter of policy, t
 The Debian Project distributes a lot of packages.  In that, Debian infrastructure and programs function a bit like a shipping network.  To make that network function efficiently, without creating risk for itself or volunteers providing infrastructure, Debian packages must follow rules quite a bit like rules for containerized shipping.  Packages must act as interchangeable units.  It cannot matter where they're stored, how they're shipped, or what they're stacked next to.
 
 License terms can break those rules.  They can grant permission only to distribute along with other open software, not proprietary.  They can require prominent billing on lists of contents of particular media on which they're reproduced.  Debian's infrastructure and software can't implement every rule-breaking license's terms in software, and ensure they're followed.  To prevent that explosion of complexity, which might make package distribution totally unworkable, Debian excluded software that creates those problems.
+
+## Takeaways
+
+The Open Source Definition is made to do more and different work than it was ever intended to do.  Sitting nominally at the center of the Open Source Initiative process, proposers and reviewers look to it as the framework for license analysis, describing and debating in its terms.  But when those debates reach copyleft design choices that the Open Source Definition simply does not explicitly address, we're at a loss.  We begin to force-fit our own broader thoughts and instincts about copyleft regulation, valid as those may be, into an framework that neither made space or support for them.  That makes writing about copyleft regulation much harder than it already is.  The vocabulary isn't suited to task.
+
+We should accept that the Open Source Definition was written to generalize a broad category of licenses when very few strong copyleft examples were available, and cohesion around one of them, GPLv2, was very strong.  We should accept that in its time, for its purpose, projecting forward to anticipate and resolve as yet theoretical problems in copyleft design would have been wasteful, foolish, and potentially dangerous to the movement then coalescing.  We should accept that the Open Source Definition offers at best a mostly incomplete approach to regulating copyleft within open source, and no particularly good vocabulary for expressing one.
+
+I agree with colleagues, some of whom rejected my own strong-copyleft submission, The License Zero Reciprocal Public License, that the Open Source Definition is too narrow to serve as the only basis for assessment of new terms.  But I still maintain that the way forward from there is accepting that licenses written to the criteria---whether in 2017 or 2002---conform to the Open Source Definition.  I believe that setting the Open Source Definition down, and picking up a more specialized tool, must begin with recognizing that for a specific license, the Open Source Definition's job is done.
+
+In more posts in this series, I'll set out guideposts for comprehensive regulation of copyleft in open source licenses.  I don't anticipate immediate, unanimous agreement on every point in those posts.  But I hope others will come to appreciate how exemption from the need to wind back to some or other Open Source Definition criterion for each meaningful point, by exegesis fair or foul, makes the task seem both manageable and writable.
