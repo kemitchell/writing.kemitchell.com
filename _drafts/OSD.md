@@ -281,7 +281,7 @@ When discussing criterion 9, I find it's useful to bring all the boundaries for 
 
 ### Restrictions
 
-As [noted earlier on](#restriction-versus-condition), it's tempting to fall back on an informal or even legal distinction between "restriction" and "condition", but there's no cause to read Open Source Definition language in that way.
+As [noted earlier on](#restriction-versus-condition), it's tempting to fall back on an informal or potential legal distinction between "restriction" and "condition", but there's no cause to read Open Source Definition language in either of those specific ways.  The natural reading of "restrictions" is broad.
 
 ### Distributed
 
@@ -290,6 +290,17 @@ With "distributed", we have much the same interpretive problem as "use" in condi
 But "distributed" in criterion 9 is more troublesome that "use" in condition 6, considering GPLv2.  Reading "use" to mean running software, and making copies, on the legal side, pointed to an action with software that GPLv2 did _not_ use in its copyleft trigger.  Even if we read "distributed" in criterion 9 in an oddly specific, legal way, that action is very much a part of GPLv2's copyleft trigger.  In other words, reading "use" specifically takes language _away_ from GPLv2, but reading "distribute" specifically still covers it.
 
 ### Other Software
+
+Straining to make a copyleft regulation out of criterion 9 is a lot of work for little reward: "other software" would become the limit of copyleft reach.  That's not much to go on, and would also run immediately into problems with approved-license history.
+
+GPLv3 reaches beyond the software itself:
+
+> The “Corresponding Source” for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities. However, it does not include the work's System Libraries, or general-purpose tools or generally available free programs which are used unmodified in performing those activities but which are not part of the work. For example, Corresponding Source includes interface definition files associated with source files for the work, and the source code for shared libraries and dynamically linked subprograms that the work is specifically designed to require, such as by intimate data communication or control flow between those subprograms and other parts of the work.
+>
+
+So does RPL 1.5:
+
+> 1.12 "Required Components" means any text, programs, scripts, schema, interface definitions, control files, or other works created by You which are required by a third party of average skill to successfully install and run Licensed Software containing Your Modifications, or to install and run Your Derivative Works. 
 
 
 
@@ -319,4 +330,4 @@ We should accept that the Open Source Definition was written to generalize a bro
 
 I agree with colleagues, some of whom rejected my own strong-copyleft submission, The License Zero Reciprocal Public License, that the Open Source Definition is too narrow to serve as the only basis for assessment of new terms.  But I still maintain that the way forward from there is accepting that licenses written to the criteria---whether in 2017 or 2002---conform to the Open Source Definition.  I believe that setting the Open Source Definition down, and picking up a more specialized tool, must begin with recognizing that for a specific license, the Open Source Definition's job is done.
 
-In more posts in this series, I'll set out guideposts for comprehensive regulation of copyleft in open source licenses.  I don't anticipate immediate, unanimous agreement on every point in those posts.  But I hope others will come to appreciate how exemption from the need to wind back to some or other Open Source Definition criterion for each meaningful point, by exegesis fair or foul, makes the task seem both manageable and writable.
+In more posts in this series, I'll set out guideposts for comprehensive regulation of copyleft in open source licenses.  I don't anticipate immediate, unanimous agreement on every point in those posts.  But I hope others will come to appreciate how exemption from the need to wind back to some or other Open Source Definition criterion for each meaningful point, by exegesis fair or foul, makes the project seem manageable, and the results potentially writable.
