@@ -279,11 +279,16 @@ Open Source Definition criterion 9 involved a slight heading change:
 
 I've seen criterion 9 read to regulate copyleft reach and licensing.  But for the reasons that follow, I don't see those readings in the text and its history.
 
-When discussing criterion 9, I find it's useful to bring all the boundaries for interpretation up front:
+When discussing criterion 9, I find it's useful to bring all the interpretive boundaries up front:
 
 1. However we read the first sentence of criterion 9, it needs to accord with the same-media example in its second sentence.
-2. We can't read criterion 9 to exclude GPLv2, since the Definition was written to describe, not exclude, that copyleft license.  GPLv2 includes some language that goes directly to the example in criterion 9.
+
+2. We can't read criterion 9 to exclude GPLv2, since the Definition was written to describe, not exclude, that copyleft license.  The last paragraph of GPLv2 section 2 mirrors the example in criterion 9:
+
+   > In addition, mere aggregation of another work not based on the Program with the Program (or with a work based on the Program) on a volume of a storage or distribution medium does not bring the other work under the scope of this License.
+
 3. Reaching now into history, criterion 9 can't exclude network-copyleft licenses like AGPL and OSL.
+
 4. More controversially, criterion 9 evidently didn't exclude stronger-trigger copyleft or "reciprocal" licenses such as Plan 9, Open Watcom, and RPL, which were approved by the Open Source Initiative but rejected by the Free Software Foundation.
 
 ### Restrictions
@@ -311,30 +316,14 @@ So does RPL 1.5:
 
 ### Derived Work
 
----
-
-The last paragraph of GPLv2 section 2 reads:
-
-> In addition, mere aggregation of another work not based on the Program with the Program (or with a work based on the Program) on a volume of a storage or distribution medium does not bring the other work under the scope of this License.
-
----
-
-This criterion can also be written to exclude copyleft, and in particular GPLv2-style copyleft.  After all, GPLv2 triggers specifically on distribution of GPLv2-licensed code alone with new changes or other "work based on the Program".  Since the Guidelines and Definition were meant to describe GPLv2, not exclude it, that can't be what criterion 9 meant.  And it doesn't accord with the example in the text.
-
-This criterion speaks the most of the Definition's roots in Debian's Guidelines.
-
-Debian remains a large and popular Linux distribution.  As a matter of policy, the Debian project turns a great many pieces of software, from large to very small, into "packages".  Debian packages get distributed through a worldwide network of official, mirror, and specialized repositories, ready to be installed through Debian's package management tool, `apt`.  Debian still makes system installers and packages available via physical media, often CD-ROMs, DVD-ROMs, and flash-based USB hard drives.
-
-The Debian Project distributes a lot of packages.  In that, Debian infrastructure and programs function a bit like a shipping network.  To make that network function efficiently, without creating risk for itself or volunteers providing infrastructure, Debian packages must follow rules quite a bit like rules for containerized shipping.  Packages must act as interchangeable units.  It cannot matter where they're stored, how they're shipped, or what they're stacked next to.
-
 License terms can break those rules.  They can grant permission only to distribute along with other open software, not proprietary.  They can require prominent billing on lists of contents of particular media on which they're reproduced.  Debian's infrastructure and software can't implement every rule-breaking license's terms in software, and ensure they're followed.  To prevent that explosion of complexity, which might make package distribution totally unworkable, Debian excluded software that creates those problems.
 
 ## Takeaways
 
-We're asking the Open Source Definition to do more and different work than it was written to do.  Sitting nominally at the center of the Open Source Initiative process, reviewers look to it as the total framework for license analysis, describing and debating in its terms.  But when those debates reach copyleft design choices that the Open Source Definition simply does not address, its structure boxes discussion in, rather than structuring or supporting it.  We begin to force-fit our own broader thoughts and instincts about copyleft regulation, valid as those may be, into odd nooks and crannies, because they have to fit somewhere.  All of this makes writing about copyleft regulation, and reading what others have to say, even harder.
+We're asking the Open Source Definition to do more and different work than it was written to do.  Sitting nominally at the center of the Open Source Initiative process, reviewers look to it as the total framework for license analysis, describing and debating in its terms.  But when those debates reach copyleft design choices that the Open Source Definition simply does not address, its structure boxes discussion in, rather than structuring or supporting it.  We begin to force-fit our own broader thoughts and instincts about copyleft regulation---as I've been tempted to do throughout this post---into odd nooks and crannies, because they have to go somewhere.  All of this makes writing about copyleft regulation, and reading what others have to say, even harder.
 
-We should accept that the Open Source Definition was written to generalize a broad category of licenses when very few strong copyleft examples were available, and cohesion around one of them, GPLv2, was very strong.  We should accept that in its time, for its purpose, projecting forward to anticipate and resolve as yet theoretical problems in copyleft design would have been wasteful, foolish, and potentially dangerous to the movement then coalescing.  We should accept that the Open Source Definition offers at best an incomplete approach to regulating copyleft within open source, and no particularly good vocabulary for expressing a complete one.
+We should accept that the Open Source Definition was written to generalize a broad category of licenses with very few strong copyleft examples, and strong cohesion around GPLv2.  We should accept that in its time, for its purpose, anticipating and resolving as yet theoretical problems in copyleft design would have been wasteful, foolish, and potentially dangerous to the movement then coalescing.  We should accept that the Open Source Definition offers at best an incomplete approach to regulating copyleft, and no particularly good vocabulary for expressing a complete one.
 
-I agree with colleagues, some of whom rejected my own recent strong-copyleft submission, that the Open Source Definition alone can't suffice as the whole basis for assessing new strong-copyleft licenses.  But I disagree strongly with the idea that any meaningful consensus.  The way forward is acknowledging that licenses written to the criteria---in 2002 or 2017---conform to the Definition.  That doesn't mean the job of assessing the advisability of a license is done.  It means it's time to put down the Open Source Definition, as a tool, and pick up or fashion a more specialized one, for the more specialized job of assessing new copyleft designs.
+I agree with colleagues, some of whom reject strong-copyleft licenses I've drafted, that the Open Source Definition alone can't suffice as the whole basis for assessing new strong-copyleft licenses.  But I disagree strongly with the idea that an unwritten consensus on the limits of copyleft is latent in the Definition, for an elect who can see it, or that the Open Source Initiative or any other group should graft one onto the Definition, exclude those who disagree, and call the remainder consensus.  The way forward is acknowledging that licenses written to the Definition---in 2002 or 2017---conform to the Definition.  That doesn't mean the job of assessing the advisability of a license is done.  It means it's time to put down the Open Source Definition, as a tool, and either pick up or fashion a more specialized one, for the more specialized job of assessing new copyleft designs.
 
 In posts to come, I'll set out guideposts for comprehensive regulation of copyleft in open source licenses.  I don't anticipate immediate, unanimous acclaim for every point in those posts.  But I hope even those who disagree will come to appreciate how freedom from the task of torturing copyleft rules into Open Source Definition, by exegesis fair or foul, makes the task writable.
