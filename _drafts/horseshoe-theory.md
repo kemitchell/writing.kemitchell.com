@@ -11,10 +11,22 @@ This may feel new.  But its history is as old as open source itself, nearly as o
 
 Even newcomers know that open source can be permissive or copyleft.  But that is not the whole story.  The reasons for those license choices vary more broadly than choice of license suggests.  Licenses implement functionality, as software implements functionality.  Software producers use permissive and copyleft implementations to achieve different goals.
 
-The permissive license user group traditionally comprises two camps.
+## Permissive
+
+The permissive license user community comprises two recognizable camps.
 
 The BSD School of hackerdom rejects intellectual property and the hassles it creates.  Ideally, BSD School hackers wouldn't need or use licenses at all.  Software would simply be free to use, change, share, and so on.  Permissive licenses like BSD and MIT offer the closest practical approximation.
 
-Established and well capitalized businesses seek free passage through other companies' procurement and compliance protections for their software.  Ideally, software that these businesses provide as loss leaders, share to defray development costs, or popularize for strategic advantage would be easy to adopt in any other firm.  Permissive licenses like Apache 2.0 come as close as possible to zero friction in corporate exchange of software.
+Meanwhile, established and well capitalized businesses seek free passage through other firms' procurement and compliance protections.  Ideally, software that these businesses provide as loss leaders, share to defray development costs, or popularize for strategic advantage would be easily adopted by any other firm.  Permissive licenses like Apache 2.0 come as close as possible to zero friction in corporate exchange of software.
 
-Both BSD School hackers and well supported companies both use permissive licenses.  But we see them diverge in various ways.  The BSD School and established companies diverge in two ways.  BSD School hackers on extreme variants like the Free Public License, and antilicenses like Unlicense and WTFPL, 
+Both BSD School hackers and enterprises use permissive licenses.  But we see their underlying differences show through in various ways.
+
+Factions of the BSD School choose radically stripped-down versions of old academic licenses like 0BSD and Unlicense, or even grating antilicenses like WTFPL.  Their tone and content scare some enterprise contributors and users away.
+
+Enterprises prefer contract-style licenses that only their lawyers can read, especially those with robust patents terms, including defensive termination terms that give them back their rights to nuclear, if they end up in a standoff.  Length, style, and patent terms rankle BSD School hackers, who like things short and think software patents are evil.
+
+BSD School hackers reject the very legal and contractual regimes that make most enterprise software company's business models possible.  Enterprises abide BSD School hackers' insistence on open software, until it comes to the software they sell.  But both BSD School hackers and enterprises want open source licenses that [reverse legal defaults restricted work with software and source code](https://oss.kemitchell.com/).  Despite deep underlying tensions, the coalition of permissive license users groups remains pretty strong.
+
+## Copyleft
+
+The copyleft license user community also comprises two recognizable camps.
