@@ -80,9 +80,19 @@ As the value of software under AGPL grew, so did incentives to find new loophole
 
 That is the complaint we hear from many companies drafting and adopting new licenses terms now.  Some of those terms, like Commons Clause, eschew the complexity of copyleft and open source neutrality by writing direct prohibitions on what their competitors are doing that they don't want to allow.  Some of those terms, like Mongo's Server Side Public License, strengthen copyleft, relying on a requirement to share code back to exclude competitors, who happen to be proprietary software companies.
 
+## Commercial Open Source
+
 At the same time, we see many of these firms attempting to carve out permissive-license safe zones within otherwise strong copyleft licenses.  Both Commons Clause and SSPL aim to allow continued use of applications like databases as integrated in broader proprietary applications, like web applications, while simultaneously requiring service offerings of those applications be made open.  A license that does that clearly and effectively could have a best-of-both-worlds effect for some license users, offering a passport to broad corporate adoption, the established business pleasing benefit of a permissive terms, as well as a competitor-excluding "open for open source" rule, the competitive upstart pleasing benefit of strong copyleft.  At least for kinds of software for which they scope of the copyleft terms tracks uses of the software its creator finds competitive.
 
 Such an approach spans permissive and copyleft user groups selectively.  It caters to the business user camp, not the activist camp, on each side.  BSD School hackers will not want even more complex quasi-copyleft licenses.  Software freedom advocates will not want ideology-tramping quasi-permissive licenses.
+
+Trouble is, there's inherent tension in this new, theoretical coalition, as well.  A business conflict of interest.  Many of the firms rushing to adopt new competitor-excluding terms do so to protect themselves against incumbent software companies with insurmountable business advantages.  Database developers, for example, are adopting new terms as defensive measures against platform-as-a-service providers offering their databases.  Those incumbent cloud providers are heavy users of permissive licenses, applied selectively to software that leads to paying opportunity, creates strategic advantage, and spreads maintenance cost.  At least short term, those incumbent software companies would really rather get databases under permissive licenses, thank you very much.
+
+A license experiment like Commons Clause sparks far less interest, community-wise and even theoretically, for openly departing from open source practice.  But in the ongoing dialog between competitive upstarts and established companies in software, it serves an indispensable function.  Companies adopting Commons Clause, clumsy, strange, and hackish as it may be, demonstrate that they won't succumb to pressure to license more permissively, giving incumbents effective free reign.  They'll defect, go source-available, or even straight "open core" proprietary.  They'll take the community heat from BSD School hackers.  They'll take the heat from software freedom activists.  And they'll take the heat from open source gatekeepers, notably the Open Source Initiative, which counts all three major platform-as-a-service providers among its marquee sponsors.
+
+Establishing that competitive upstarts will take the heat secures a platform for the one argument that could really unite a mixed permissive-copyleft, small-to-huge-business, "commercial open source" coalition: enlightened self-interest.  Do established software business want to ensure upstarts access to a ready mix of community development benefits and leverage to command financial compensation?  Does that produce more valuable software for established providers to offer on a service or other basis?
+
+## Radicalism
 
 ## Acclaim
 
@@ -91,4 +101,3 @@ Such an approach spans permissive and copyleft user groups selectively.  It cate
 ## Radicalism
 
 <!-- TODO: simple, radical terms without carve-outs can reunify the strong-copyleft user base -->
-
