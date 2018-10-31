@@ -108,4 +108,4 @@ Where does all this leave everybody who _isn't_ at a big company, and doesn't wa
 
 My own experiments in strong copyleft licensing, embodies in [Parity](https://licensezero.com/licenses/parity), take a different tack.  I would bring radical, uncompromising software freedom activists and competitive upstarts back together.  And I'd do so in a way far more responsive to the needs, tastes, and valid points of the BSD School.
 
-Simplicity is key.  And simple ideas, eschewing compromise, have a way of becoming radical.
+Simplicity is key.  And simple ideas, eschewing compromise, have a way of becoming radical.  That is what Parity aimed to do:  write "free for free software" as simply as possible, and therefore as radically as possible.
