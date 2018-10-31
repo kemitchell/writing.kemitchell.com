@@ -1,5 +1,6 @@
 ---
 title: Rebalancing
+description:
 layout: post
 ---
 
@@ -7,9 +8,11 @@ What's going on with new license terms for businesses?
 
 [Redis Labs has some.](https://redislabs.com/community/licenses/)  [Vespene, too.](https://medium.com/@michaeldehaan/going-with-the-commons-clause-1bdab4c15e5d)  [Mongo has some.](https://www.mongodb.com/licensing/server-side-public-license)  [I've written two.](https://licensezero.com/licenses#public)   [A spiffy new "commercial open source" VC firm wants even more.](https://changelog.com/podcast/320)  Why?
 
-This may feel new.  But its history is as old as open source itself, nearly as old as free software before it.  We are witnessing the natural outcome of a number of long trends in the movements that came together in what we now know as open source.  We are witnessing a self-correcting mechanism at work, responding to imbalances in that movement's recent history.
+In short: Because once again in open source history, we're seeing the two great camps of copyleft license users---software freedom activists and competitive upstarts---part ways on strong copyleft licensing.  The lack of a cohesive copyleft user community threatens to further imbalance the movement towards the interests of permissive license users, destabilizing the coalition that made and still makes open source broad-based.
 
-Even newcomers know that open source can be permissive or copyleft.  But that is not the whole story.  The reasons for those license choices vary more broadly than choice of license suggests.  Licenses implement functionality, as software implements functionality.  Software producers use permissive and copyleft implementations to achieve different goals.
+Business firms and small players writing new, demanding licenses may feel new.  But its history is as old as open source itself, nearly as old as free software before it.  We are witnessing the natural outcome of a number of long trends in the movements that came together in what we now know as open source.  We are witnessing a self-correcting mechanism at work, responding to imbalances in that movement's recent history.
+
+Even newcomers know that open source can be permissive or copyleft.  But that is not the whole story.  The reasons for those license choices vary more than choice of license suggests.  Licenses implement functionality, as software implements functionality.  Software producers use permissive and copyleft implementations to achieve different goals.
 
 ## Permissive
 
@@ -53,16 +56,39 @@ Why?
 
 Ask people affiliated with the Open Source Initiative about free software, and many will tell you that open source isn't really any different from free software.  Free software just preached too much fire and brimstone, missed the rebrand, and lost out.
 
-Ask folks affiliated with the Free Software Foundation about open source, and many will jump to tell how different they are.  Open source strips free software of its values, pandering to the nonfree industry with promises of better, cheaper code, which doesn't happen without unifying community spirit.
+Ask folks affiliated with the Free Software Foundation about open source, and many will jump to tell just how different they are.  Open source strips free software of its values, pandering to the nonfree industry with promises of better, cheaper code, which doesn't happen without unifying community spirit.
 
-That is the common narrative of the Open Source Initiative, the coining of "open source", and the wooing of business.  It's a story told from the points of view of its main characters---OSI and FSF---and their partisans.  Not the users of free software and open source licenses.
+That is the popular narrative of the Open Source Initiative, the coining of "open source", and the wooing of big business to the scene.  It's a story told from the points of view of its main characters---OSI and FSF---and their partisans.  Not the users of free software and open source licenses.
 
-The history of bringing open source to companies, and companies to open source, has been one of long, slow, then sudden success.  Since setting up the Open Source Initiative, coining "open source", and forking the Debian Free Software Guidelines to make the Open Source Definition, the effort called "open source" has been a string of less decisive, mixed, and overlapping decisions.
+The history of bringing open source to business, and business to open source, has been one of long, slow, and occasionally sudden progress.  Since setting up the Open Source Initiative and coining "open source", the project has been a string of less decisive, mixed, and overlapping organic decisions.  Change had more to do with changes outside the organizations, and the medium- and long-term effects of many small steps, than short, decisive, newsworthy gambits.
 
-In that history, we can see a trend of the software freedom activist and competitive upstart camps of the copyleft user base slowly peeling away from each other.  The Open Source Initiative has approved every major license published by the Free Software Foundation.  But early in its history, especially circa 2002, OSI and FSF split on a particular kind of license: strong copyleft or "reciprocal" terms, drafted by companies and company-minded lawyers in business-law style, ignoring FSF's self-imposed limits on how much code copyleft could require sharing back, and when.
+## Splits
 
-Relatively few of these licenses remain well known.  Several served as temporary waystations for the specific companies, and sometimes the specific software, for which they were drafted.
+In that history, we can see the software freedom activist and competitive upstart camps of copyleft users draw apart and come back together.
 
-## Success
+The Open Source Initiative has approved every major license published by the Free Software Foundation.  Both organizations eventually approved copyleft licenses drafted by non-activists, without its rhetoric.  But fairly early in its history, circa 2002, OSI and FSF split on a particular kind of license: strong copyleft or "reciprocal" terms, drafted by companies and company-minded lawyers in business-law style, ignoring FSF's self-imposed limits on how much code copyleft could require sharing back, and when.
 
-...
+Relatively few of these licenses remain well known.  Several served as temporary waystations for the specific companies, and sometimes the specific software, for which they were drafted, ending up eventually on FSF-drafted licenses.  The business copyleft licenses fall well short of perfection, in many aspects.  But some remain the best approved choices for drawing patches back.  Some respond to the "ASP loophole", alias "SaaS loophole" or "Google problem", more elegantly and completely than activist alternatives.
+
+In time, the Free Software Foundation succeeded in bringing many competitive upstarts back into its fold with the Affero GPL, especially version 3.  Specifically drafted to close the loophole that allowed closed software to be made from GPL code, as long as the resulting program was run to provide a network service, rather than sent to users for them to run for themselves, AGPL nonetheless inherited many self-imposed limitations of prior FSF terms.  Staunch resistance kept the FSF from merging its new, stronger AGPL terms into GPL at the next major update, version 3.  But AGPLv3 was widely taken as the latest patched implementation of the old free software goal: a license that makes software available for use in free software, but not in proprietary software, even if the proprietary software is a service.
+
+Once again, competitive upstarts who couldn't afford to draft and propose their own licenses repurposed a good-enough FSF license, AGPL, for strong copyleft terms to meet their needs.  Many of these projects, as it turns out, used little or no other GPLv3 or AGPLv3 software, forgoing the benefit of license compatibility, in part because they insisted on licensing their whole programs also on commercial terms.  GPLv3 or AGPLv3 dependencies written by others would not allow them to do.
+
+But AGPLv3 inherited many of the same self-imposed limitations and complexities of past FSF licenses.  For a time, those flaws remained practically irrelevant.  Closed software companies dutifully placed AGPL code on their ban lists for internal consumption, in some cases by reputation alone.  If they used such software, they did by purchasing alternative, commercial licenses from their developers.  Thus, AGPL was, for a brief span of time, a truly "free for free software" license in practice.  But only in practice.
+
+As the value of software under AGPL grew, so did incentives to find new loopholes, new ways for competitors to use AGPL software in nonfree software, and in competition with its makers.  As with GPLv2 before it, AGPL's copyleft functionality created a de facto bounty program: first one to find a loophole through wins first mover advantage with the code.  AGPLv3's scope, length, and complexity become attack surface.
+
+That is the complaint we hear from many companies drafting and adopting new licenses terms now.  Some of those terms, like Commons Clause, eschew the complexity of copyleft and open source neutrality by writing direct prohibitions on what their competitors are doing that they don't want to allow.  Some of those terms, like Mongo's Server Side Public License, strengthen copyleft, relying on a requirement to share code back to exclude competitors, who happen to be proprietary software companies.
+
+At the same time, we see many of these firms attempting to carve out permissive-license safe zones within otherwise strong copyleft licenses.  Both Commons Clause and SSPL aim to allow continued use of applications like databases as integrated in broader proprietary applications, like web applications, while simultaneously requiring service offerings of those applications be made open.  A license that does that clearly and effectively could have a best-of-both-worlds effect for some license users, offering a passport to broad corporate adoption, the established business pleasing benefit of a permissive terms, as well as a competitor-excluding "open for open source" rule, the competitive upstart pleasing benefit of strong copyleft.  At least for kinds of software for which they scope of the copyleft terms tracks uses of the software its creator finds competitive.
+
+Such an approach spans permissive and copyleft user groups selectively.  It caters to the business user camp, not the activist camp, on each side.  BSD School hackers will not want even more complex quasi-copyleft licenses.  Software freedom advocates will not want ideology-tramping quasi-permissive licenses.
+
+## Acclaim
+
+<!-- TODO: FSF leaning toward soft power, not enforcing, not strengthening copyleft -->
+
+## Radicalism
+
+<!-- TODO: simple, radical terms without carve-outs can reunify the strong-copyleft user base -->
+
