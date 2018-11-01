@@ -100,7 +100,7 @@ Companies adopting Commons Clause, clumsy, strange, and hackish as it may be, de
 
 Establishing that competitive upstarts will stand their ground secures a platform for the one argument that could bring established software businesses over into a mixed permissive-copyleft, small-to-huge-business, "commercial open source" coalition: enlightened self-interest.  Isn't it good for established software business, long term, to ensure upstarts access to a ready mix of community development benefits and leverage to command financial compensation, or force them to pick one or the other?  Wouldn't ready access to both produce more valuable software for established providers to hock through their own gated platforms and marketplaces?
 
-Commons Clause is a stick.  SSPL is a carrot.  Incumbent software companies have bought the enlightened self-interest argument before.  It's how they ended up on the OSI website to begin with.
+Commons Clause is an entrenching tool.  SSPL is an olive branch.  Incumbent software companies have bought the enlightened self-interest argument before.  It's how they ended up on the OSI website to begin with.
 
 ## Reconciliation
 
