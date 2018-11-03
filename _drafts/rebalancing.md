@@ -1,14 +1,14 @@
 ---
-title: The Second Copyleft Breakup
+title: Everything's Commercial
 description:
 layout: post
 ---
 
 What's going on with new software license terms for businesses?
 
-[Redis Labs has some.](https://redislabs.com/community/licenses/)  [Neo4j](https://github.com/neo4j/neo4j), [Dgraph](https://blog.dgraph.io/post/relicensing-dgraph/), and [Vespene](https://medium.com/@michaeldehaan/going-with-the-commons-clause-1bdab4c15e5d), too.  [Mongo did its own.](https://www.mongodb.com/licensing/server-side-public-license)  [I've done two.](https://licensezero.com/licenses#public)   [A spiffy new "commercial open source" VC firm wants even more of them.](https://changelog.com/podcast/320)  Why?
+[Redis Labs has some.](https://redislabs.com/community/licenses/)  [Neo4j](https://github.com/neo4j/neo4j), [Dgraph](https://blog.dgraph.io/post/relicensing-dgraph/), and [Vespene](https://medium.com/@michaeldehaan/going-with-the-commons-clause-1bdab4c15e5d), too.  [Mongo did its own.](https://www.mongodb.com/licensing/server-side-public-license)  [Midas List guy's in favor.](https://techcrunch.com/2018/09/07/commons-clause-stops-open-source-abuse/)  [A new VC firm wants more.](https://changelog.com/podcast/320)  Why?
 
-The two great camps of copyleft developers---software freedom activists and competitive upstarts---have split again.  Upstarts can no longer achieve their goals with FSF-stewarded, activist-drafted copyleft licenses.  Activists remain largely satisfied with their terms.  So upstart copyleft developers are writing the new terms their old activist allies won't write with them.
+The two great camps of copyleft developers---software freedom activists and competitive upstarts---have split apart again.  Upstarts can no longer achieve their goals behind activist copyleft licenses.  Activists don't feel the same pain.  So upstart copyleft developers are writing new terms for themselves.
 
 That loss of cohesion---upstarts abandoning activist licenses, activists opposing upstart alternatives---threatens the balance that keeps the greater open source movement broad-based.  Permissive developers, riding a decade of adoption success and wary of copyleft to begin with, wonder now more than ever whether why they abide copyleft complexity and copyleft politics.  Permissive points register all the more strongly, with copyleft developers too busy arguing with each other to answer them.
 
@@ -128,20 +128,10 @@ That's not to say there's no hunger for a more extreme, streamlined copyleft lic
 
 Overall, I'm sad to say that I think FSF's compromises are catching up with it.  It knows it need allies, but it's courting established company.  Software freedom activism has trusted that purity of message will create a groundswell of support sufficient to turn the tide of permissive alternatives, thin-client computing, and the relegation of free approaches to tooling, back-end components, and building blocks for proprietary end-user applications.  It has optimized for taller pulpits from which to shout its message, but it's lost in the noise.  Unless or until software freedom reality comes to be felt as a crisis, and not just understood as one, I don't think the Free Software Foundation has either a stronger license in it to give, or flexibility to accept someone else's.
 
-## Radicalization
-
-Where does all this leave everybody who _isn't_ at a big company, and doesn't want to be?  What about the independent developers, small teams, and bootstrapper businesses also struggling to sustain?
-
-My own experiments in strong copyleft licensing, embodied in [Parity](https://licensezero.com/licenses/parity), have tried to point the way for a new, radical copyleft license.  And to do so in a way more responsive to the needs, tastes, and valid points of the BSD School.
-
-Simplicity is key.  Simplicity, eschewing compromise, becomes radical.
-
-Using such a license to protect an upstart commercial venture.
-
 ## Forward
 
-Eliot Horowitz, who proposed the Server Side Public License for Open Source Initiative review on behalf of MongoDB, wrote this in an early message in the process:
+Eliot Horowitz, who proposed the Server Side Public License for Open Source Initiative review on behalf of MongoDB, wrote this in an early response to feedback from the process:
 
 > If it is not what all communities want, then is it enough that some do?  We expect that others will adopt our license if it is approved and we want them to have the chance to do that.
 
-That is the question, for the OSI process itself, and far more importantly, for the community as a whole.
+That is the question.
