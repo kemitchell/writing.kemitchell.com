@@ -181,4 +181,4 @@ There is no set playbook for political expedience in open source.  Only history.
 
 The meaning of open source has already changed.  The initiative to bring open source to commerce was successful.  It is spent.  Now the initiative belongs to commerce.  Commerce will remake open source, quite without any grand, coordinated plan, according to its needs.  SSPL, new paradigm or sidetrack, is merely symptomatic.  But regardless of SSPL's success or failure, its very viability proves a crucial point. 
 
-Commerce doesn't need activism, either for software freedom or against intellectual property.  It needs good, cheap software, and a way to get it.  If calling that way "open source" helps, that's what business will do.
+Commerce doesn't need activism, either for software freedom or against intellectual property.  It needs good software and a way to get it cheap.  If calling that way "open source" helps, that's what business will do.
