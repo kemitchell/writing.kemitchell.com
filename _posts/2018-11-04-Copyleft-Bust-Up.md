@@ -1,6 +1,6 @@
 ---
-title: The Great Copyleft Bust-Up
-description: new loopholes, licenses, and coalitions in open source
+title: The Copyleft Bust Up
+description: loopholes, licenses, and realpolitik in open source
 layout: post
 tags:
 - SSPL
