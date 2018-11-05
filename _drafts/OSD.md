@@ -15,25 +15,21 @@ This is the second in [a series inspired by MongoDB's Server Side Public License
 
 How does the Open Source Definition regulate maintenance of strong copyleft terms in open source licenses?  Sporadically, incompletely, and unhelpfully for current controversies.  A few Definition criteria set clear limits, but most don't say anything about copyleft at all.  A few, read out of context, beg readings that prohibit copyleft generally, or point to utterly unhelpful distinctions, clogging up debate.
 
-In reading the Definition as a copyleft regulation, we can ask three specific questions:
+In reading the Definition as a copyleft regulation, we can ask two practical questions:
 
-1. Does the Definition prohibit specific language in open source copyleft licenses?
-
-   For example:  Does the Definition prohibit use of the term "restriction"?
-
-2. Does the Definition prohibit specific copyleft design choices for trigger, reach, licensing, or distribution?
+1. Does the Definition prohibit specific copyleft design choices for trigger, reach, licensing, or distribution?
 
    For example:  Does the Definition prohibit triggering on running software without changes to provide network services?
 
-3. Does the Definition prohibit copyleft design approaches more generally?
+2. Does the Definition prohibit copyleft design approaches more generally?
 
    For example:  Does the Definition prohibit designs that trigger on network use and reach beyond derivative works of the licensed software?  Designs that seem too strong, in some other way?
 
 In the end, the Open Source Definition provides neither holistic design-approach regulation, nor regulation for each copyleft design choice.  That makes the Definition an incomplete copyleft regulation, at best.
 
-That is altogether understandable, considering the way it was written, and why.  The Definition wasn't meant to answer current questions about the limits of open source copyleft design.  Those questions hadn't even been practically posed yet.  But we're asking them now.  In order to establish meaningful regulation for open source copyleft, we'll have to look past the Definition.
+That is altogether understandable, considering the way it was written, and why.  The Definition wasn't meant to answer current questions about the limits of open source copyleft design.  Those questions hadn't even been practically posed yet.  But we're asking them now.  In order to establish meaningful regulation for open source copyleft, we'll have to look beyond the Definition.  That will be far easier to do without pretending that we're still debating the Definition.
 
-In another post in this series, I'll do just that, to offer a usable framework.  This post, however, will cover only what we can glean from the text of the Open Source Definition, its history, and the licenses the Open Source Initiative has approved as conforming.
+In another post in this series, I'll begin to offer a usable framework.  This post, however, will cover only what we can glean from the text of the Open Source Definition, its history, and the licenses the Open Source Initiative has approved as conforming.
 
 The plan:
 
@@ -45,7 +41,7 @@ The plan:
 
 ## Clear Copyleft Regulations
 
-Three Open Source Definition criteria---3 (Derived Works), 8 (License Must Not Be Specific to a Product), and 10 (License Must be Technology-Neutral)---clearly regulate copyleft design choices.  Starting with those rules will give us a sense of the clarity missing elsewhere.
+Three Open Source Definition criteria---[3 (Derived Works)](#allow-the-same-terms-for-derived-works), [8 (License Must Not Be Specific to a Product)](#no-product-specific-licensing), and [10 (License Must be Technology-Neutral)](#technology-neutrality)---clearly regulate copyleft design choices.  Starting with those rules will give us a sense of the clarity missing elsewhere.
 
 ### Allow the Same Terms for Derived Works
 
@@ -65,7 +61,7 @@ Second, permissive licenses like BSD, another license listed in the "Example Lic
 
 Third, the Open Source Initiative has approved licenses that permit different terms for at least parts of "derived works".  For example, section 13 of GPLv3 and section 13 AGPLv3 create a compatibility bridge between those licenses, by making exceptions to their licensing rules for keeping GPLv3 and AGPLv3 contributions under their respective terms.
 
-As a final note, the term "derived works" is close to, but not exactly, a relevant term of US copyright law.  The legal term is "derivative work".  Of all the non-legal usages in the Definition, which does not read like the work of an American copyright lawyer, "derived work" feels the most like a legal allusion.  But the difference shores up an interpretation that "derived work" goes beyond copyright derivative works, when copyleft reach does.  We could read criterion 3 to regulate licensing rules for _all_ work within the copyleft rule's reach.
+As a final note, the term "derived works" is close to, but not exactly, a relevant term of US copyright law.  The legal term is "derivative work".  Of all the non-legal usages in the Definition, which does not read like the work of an American copyright lawyer, "derived work" feels the most like a legal allusion.  But the difference shores up an interpretation that "derived work" goes beyond copyright derivative works, when copyleft reach does.  We could read criterion 3 to regulate licensing rules for _all_ work within copyleft reach.
 
 ### No Product-Specific Licensing
 
@@ -73,11 +69,13 @@ Criterion 8 of the Debian Free Software Guidelines had to be generalized for the
 
 <blockquote><p><strong>8. License Must Not Be Specific to <del>Debian</del><ins>a Product</ins>.</strong></p><p>The rights attached to the program must not depend on the program’s being part of a <del>Debian system.</del><ins>particular software distribution.</ins> If the program is extracted from <del>Debian</del><ins>that distribution</ins> and used or distributed <del>without Debian but otherwise</del> within the terms of the program’s license, all parties to whom the program is redistributed should have the same rights as those that are granted in conjunction with the <del>Debian system</del><ins>original software distribution</ins>.</p></blockquote>
 
-If we read "software distribution" and "product" to cover not just distributions of multiple programs, like Linux distributions, but also particular distributions of the licensed program itself, like Firefox and Iceweasel, criterion 8 becomes a clear regulation of copyleft licensing design.  An open source copyleft rule cannot vary the terms required for parts taken out of the program and parts left with or as a part of it.  This could also function as a regulation of copyleft reach, insofar as a copyleft rule does not set rules for licensing code that does or doesn't remain part of the original distribution.
+If we read "software distribution" and "product" to cover not just distributions of multiple programs, like Linux distributions, but also particular distributions of the licensed program itself, like Firefox and Iceweasel, criterion 8 becomes a clear regulation of copyleft licensing design.  An open source copyleft rule cannot vary the terms required for parts taken out of the program and parts left with or as a part of it.
+
+Criterion 8 could also function as a regulation of copyleft reach, insofar as a copyleft rule does not set rules for licensing code that does or doesn't remain part of the original distribution.
 
 ### Technology Neutrality
 
-Open Source Definition criterion 10 was not part of the Debian Free Software Guidelines, which included an "Example Licenses" section as number 10, instead.  Here is the new text, peculiar to the Open Source Definition:
+Open Source Definition criterion 10 was not part of the Debian Free Software Guidelines, which sports an "Example Licenses" section as number 10, instead.  Here is the new text, peculiar to the Open Source Definition:
 
 > **10. License Must Be Technology-Neutral**
 >
@@ -85,11 +83,11 @@ Open Source Definition criterion 10 was not part of the Debian Free Software Gui
 
 Criterion 10 is a clear regulation of distribution and licensing design choices.  An open source copyleft license cannot require licensees to use a specific technology for licensing or distributing code within its reach.  For example, an open source copyleft license cannot require licensees to distribute work within its reach via FTP, or to require that licensees for derived works accept terms for that work by electronic signature.
 
-The first Artistic License 1.0, also among the "Example Licenses" listed in the Debian Free Software Guidelines, includes a condition that can be satisfied by making changes "Freely Available" as defined, with Usenet and "an archive site like ftp.uu.net" offered as examples methods.  Other approved copyleft licenses have distribution requirement specifying classes or kinds of methods for sharing source, without mandating any particular one.
+The first Artistic License 1.0, also among the "Example Licenses" listed in the Debian Free Software Guidelines, includes a condition that can be satisfied by making changes "Freely Available" as defined, with Usenet and "an archive site like ftp.uu.net" offered as example methods.  Subsequently approved copyleft licenses specifying classes or kinds of methods for distributing source, without mandating any particular one.
 
 ## Interpretive Traps
 
-Having reviewed some clear copyleft regulations in the Open Source Definition, we move on to criteria frequently misinterpreted to contain copyleft regulations.  As we'll see, common problems plague a number of these interpretations.  It's worth reviewing them first, before we address the other criteria one by one, so we can note them by reference in the context of particular criteria.
+Having reviewed some clear copyleft regulations in the Open Source Definition, we move on to criteria that tempt us to misinterpret them as copyleft regulations.  As we'll see, a few common problems plague more than one of these criteria.  As such, it's worth reviewing them first, before we dive into criteria one by one.
 
 ### Excluding Copyleft Generally
 
@@ -105,13 +103,13 @@ The Open Source Initiative has since approved other, stronger copyleft licenses.
 
 Starting from a reading of some Definition criterion that limits copyleft and paring back to avoid GPLv2 or subsequently approved licenses, it's possible to end up with a very specific reading that limits open source copyleft in a very specific way.
 
-It is only the history that leads to that specificity.  The text of the Definition remains as general as it was the day it was published.  The path from general text to highly specific meaning is not predetermined by the text.  It could not be accepted or rejected by those who reviewed or accepted the Debian Free Software Guidelines or the Open Source Definition when proposed.  It cannot be awarded retroactive, undocumented consensus twenty years later.
+It is only the history that leads to that specificity.  The text of the Definition remains as general as it was the day it was published.  The path from general text to highly specific meaning is not predetermined by the text.  It could not be accepted or rejected by those who reviewed or accepted the Debian Free Software Guidelines or the Open Source Definition when proposed.  It cannot be awarded retroactive, undocumented consensus status twenty years in arrears.
 
 This error often manifests as the position that the outer limit of open source copyleft is whatever the last approved stronger-copyleft license happened to be.  Starting debate from what's new is better than starting from whether copyleft can ever conform to the Definition.  But looking back at a general Definition, plus a history of progressively stronger approved copyleft licenses, it never follows that the last approved stronger-copyleft license has to be the last ever.  That debate has to reach beyond the Definition and even Open Source Initiative history, to the industry, community, and history of the movement.  It has to take into account that the Open Source Initiative only definitively accepts licenses, declines to approve many licenses that conform to the Definition, and never affirmatively and finally rejects any terms.  It is up for debate, not precluded by the Definition.
 
-The concept of precedent proper remains highly controversial among license-review participants.  On the other hand, there doesn't seem to be any will to remove or deprecate licenses approved in the past.  It's clear that past decisions, and especially use of approved licenses in apparent reliance on Open Source Initiative approval, always seems to matter for new submissions.  It's just not clear how.
+The error to do with highly specific readings of general Definition text based on the Definition's history or past decisions isn't that they're necessarily wrong or indefensible.  The error is in claiming that the wording of the Definition, or its acceptance as the frame for debate, compels them.  There may be very good reasons for such specific rules, but they're not in the Definition, and don't derive from its authority.
 
-The error made with highly specific readings of admittedly general Definition text that rely on past decisions and history isn't that they're necessarily wrong or indefensible.  The error is in claiming that the wording of the Definition, or its acceptance as the frame for debate, compels them.  There may be very good reasons for such specific rules, but they're not in the Definition, and don't derive from its authority.
+The concept of precedent proper remains highly controversial among license-review participants.  Old decisions are frequently criticized.  On the other hand, there doesn't seem to be any willingness to remove or deprecate licenses approved in the past.  It's clear that past decisions, and especially use of approved licenses in apparent reliance on Open Source Initiative approval, always seems to matter for new submissions.  It's just not clear how.
 
 ### Restriction versus Condition
 
@@ -297,13 +295,13 @@ When discussing criterion 9, in contrast to the nondiscrimination criteria, I fi
 
 As [noted earlier on](#restriction-versus-condition), it's tempting to fall back on an informal or legal distinction between "restriction" and "condition", but there's no cause to read Open Source Definition language in either of those specific ways.  The natural reading of "restrictions" is broad.
 
-However, that broad reading doesn't seem to include "restrictions" in the sense of copyleft licensing rules.  That reading butts up against, and potentially conflicts with, criterion 3's [clear copyleft rule of permitting the same terms](#allow-the-same-terms-for-derived-works).  Criterion 3 has the effect of ensuring that "derived works" can be open source, since the "same terms" must meet the Definition, and are thus open source.  While an open source license cannot impose restrictions contrary to criterion 1 (Free Redistribution), criterion 6 (No Discrimination Against Fields of Endeavor), or criterion 9, it explicitly _can_ restrict distribution of modified copies under criterion 4 (Integrity of The Author's Source Code).
+However, that broad reading doesn't seem to include "restrictions" in the sense of terms required by copyleft licensing rules.  That reading butts up against, and potentially conflicts with, criterion 3's [clear copyleft rule of permitting the same terms](#allow-the-same-terms-for-derived-works).  Criterion 3 has the effect of ensuring that "derived works" can be open source, since the "same terms" must meet the Definition, and are thus open source terms.  While an open source license cannot impose restrictions contrary to criterion 1 (Free Redistribution), criterion 6 (No Discrimination Against Fields of Endeavor), or criterion 9, it explicitly _can_ restrict distribution of modified copies under criterion 4 (Integrity of The Author's Source Code).
 
 All of this, plus the provided example, make criterion 9 far easier to read as a rule against terms that take away permission to distribute the licensed software based on aspects of other software that don't have anything to do with copyleft, and could appear in permissive licenses, as well.  In other words, restating the Definition: "The license must not restrict what other software can be distributed along with the licensed software." 
 
 This reading clearly covers the example: requiring other software on the same medium to be open source.  We could extrapolate.  For example, a permissive license could not prohibit distribution along with software by a competitor, or software for nonfree operating systems, or software under licenses without express patent permissions.
 
-It also speaks to the concerns of a distribution like Debian, whose massive, heterogeneous distribution infrastructure could never implement every non-conforming license's restrictions in software, to ensure they're followed.  To prevent that explosion of complexity, which might make package distribution totally unworkable, it made sense for Debian to exclude software that creates such problems.  It also made sense to analogize to "contamination".  Just as common carriers of mail or shipping containers enforce hazardous shipping regulations to keep one package from leaking over others, criterion 9 heads off license-based trouble triggered in transit to users.  Once users receive their copies, their rights to build new software come under criterion 3 (Derived Works), a clear  copyleft licensing rule.
+It also speaks to the concerns of a project like Debian, whose sprawling, heterogeneous distribution channels could never implement every non-conforming license's restrictions in software, to ensure they're followed.  To prevent that explosion of complexity, and a dearth of distributors willing to take the resulting risk, it made sense for Debian to exclude software that creates such problems.  A "contamination" metaphor also makes sense.  Just as common carriers of mail or shipping containers enforce hazardous shipping regulations to keep one package from leaking over others, criterion 9 heads off license-based trouble arising "in transit" to users.  Once users receive their copies, their rights to build new software come under criterion 3 (Derived Works), a clear copyleft licensing regulation.
 
 ### Distributed
 
@@ -319,18 +317,18 @@ Whether we read "distributed" informally or legally, it catches GPLv2.
 
 > The license must not place restrictions on **other software** that is distributed along with the licensed software.
 
-Straining to make a copyleft regulation out of criterion 9---despite "restriction", criterion 3, GPLv2, "distributed", and the given example---is a lot of work for no reward.  The two-word phrase "other software" would become the limit of copyleft reach.  The word "other" says there's a limit, without giving any hint of where it lies, or why.
+Straining to make a copyleft regulation out of criterion 9---despite "restriction", criterion 3, GPLv2, "distributed", and the given example---is a lot of work for no reward.  The two-word phrase "other software" would become the limit of copyleft reach.  The word "other" would tell us there's a limit, but without giving any hint of where it lies, or why.  Semantically, it's a blank slate.
 
-GPLv3 reaches beyond the software itself in its definition of "Corresponding Source".  So does RPL 1.5, in its definition of "Required Components".  Both include "other software" as I think developers would mean and understand the phrase, talking shop.
+License approvals have written a bit on that slate.  GPLv3 and AGPLv3 reach beyond the software itself in its definition of "Corresponding Source".  So does RPL 1.5, in its definition of "Required Components".  All reach "other software" as I think developers would mean and understand the phrase, talking shop.  Which points back to questions about the meaning of "restriction".
 
 ## Takeaways
 
-If this analysis feels unfair to the Open Source Definition, that's because it is.  We're asking the Definition to do more and different work than it was ever written to do.  It wasn't laid down to express consensus limits on how far open source copyleft could go.  It wasn't written to be dissected this way, any more than it was approved to be expanded arbitrarily.
+If this analysis feels unfair to the Open Source Definition, that's because it is.  We're asking the Definition to do more and different work than it was ever written to do.  It wasn't laid down to express consensus on how far open source copyleft could go.  Open source copyleft was still in its first decade.  It wasn't written to be dissected this way, any more than it was approved to be expanded arbitrarily.
 
-Sitting nominally at the center of the Open Source Initiative process, reviewers look to the Definition as the total framework for license analysis, describing and debating in its terms.  But when those debates reach copyleft design choices that the Open Source Definition simply does not address, its structure boxes discussion in, rather than focusing or supporting it.  We begin to force-fit our own broader thoughts and instincts about copyleft regulation into odd nooks and crannies, because they have to go somewhere, and the Definition is firm ground.  All of this makes writing about copyleft regulation, and reading what others have to say, even harder.
+Installed at the center of the Open Source Initiative process, reviewers look to the Definition as the total framework for license analysis, describing and debating in its terms.  But when those debates reach copyleft design choices that the Open Source Definition simply does not address, its structure boxes discussion in, rather than guiding or supporting it.  We begin to force-fit our own broader thoughts and instincts about copyleft regulation into odd nooks and crannies, because they have to go somewhere, and the Definition is where.  All of this makes writing about copyleft regulation, and reading what others have to say, even harder.
 
 We should accept that the Open Source Definition was written to generalize a broad category of licenses with very few strong-copyleft examples, at a time of great GPL cohesion.  We should accept that in its time, for its purpose, anticipating and resolving as yet theoretical problems in copyleft design would have been wasteful, foolish, and potentially dangerous to the effort then coalescing.  We should accept that the Open Source Definition offers at best an incomplete approach to regulating copyleft, and no particularly good vocabulary for expressing a complete one.
 
-I agree with colleagues, some of whom reject a strong-copyleft license I've written to test the limits of open source copyleft, that the Open Source Definition alone can't suffice as the whole basis for assessing new strong-copyleft licenses.  But I disagree strongly with the idea that an unwritten consensus on the limits of copyleft is latent in the Definition, for an elect who can see or speak it from authority, or that the Open Source Initiative or any other group should graft one onto the Definition, exclude those who disagree, and call the remainder consensus.  The way forward is acknowledging that licenses written to the Definition---in 2000 or 2018---conform to the Definition.  That doesn't mean the job of assessing them is done.  It means it's time to put down the Definition, as a tool, and to pick up a more specialized one, for the finer job of assessing new copyleft designs.  If that tool doesn't exist, perhaps we should make it.  That would be a project and a product of 2018, not 1998.
+I agree with colleagues, some of whom reject the strong-copyleft license I've written to test the limits of open source copyleft, that the Open Source Definition alone can't suffice as the whole basis for assessing new strong-copyleft licenses.  But I disagree strongly that an unwritten consensus on the limits of copyleft is latent in the Definition, for an elect who can see or speak it from authority, or that the Open Source Initiative or any other group should graft a new one onto the Definition by excluding disagreement and calling the remainder consensus.  The way forward is acknowledging that licenses written to the Definition---in 2000 or 2018---conform to the Definition.  That doesn't mean the job of assessing them is done.  It means it's time to put down the Definition, as a tool, and to pick up a more specialized one, for the finer job of assessing new copyleft designs.  If that tool doesn't exist, perhaps we should make it.  That would be a project, and a product, of 2018, not 1998.
 
-In posts to come, I'll set out guideposts for comprehensive regulation of copyleft in open source licenses.  I don't anticipate immediate, unanimous acclaim for every point in those posts.  But I hope even those who disagree will come to appreciate how freedom torturing copyleft regulation into the Open Source Definition, by exegesis fair or foul, makes the task more tractable, more debatable, and more honest.
+In posts to come, I'll set out guideposts for comprehensive regulation of copyleft in open source licenses.  I don't anticipate unanimous acclaim for every point I propose.  But I hope even those who disagree will come to appreciate how freedom from a ceremonial duty to torture every new copyleft regulating rule into the Open Source Definition, by exegesis fair, foul, or flummoxing, makes the task  tractable, debatable, and honest in a way it rarely has been.
