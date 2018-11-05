@@ -31,21 +31,21 @@ In reading the Definition as a copyleft regulation, we can ask three specific qu
 
 In the end, the Open Source Definition provides neither holistic design-approach regulation, nor regulation for each copyleft design choice.  That makes the Definition an incomplete copyleft regulation, at best.
 
-That is altogether understandable, considering the way it was written, and why.  The Definition wasn't meant to answer current questions about the limits of copyleft design.  They hadn't even been practically posed yet.  But we're asking them  now.  In order to establish meaningful regulation for open source copyleft, we'll have to look past the Definition.
+That is altogether understandable, considering the way it was written, and why.  The Definition wasn't meant to answer current questions about the limits of copyleft design.  Those questions hadn't even been practically posed yet.  But we're asking them  now.  In order to establish meaningful regulation for open source copyleft, we'll have to look past the Definition.
 
 In another post in this series, I'll do just that, to offer a usable framework.  This post, however, will cover only what we can glean from the text of the Open Source Definition, its history, and the licenses the Open Source Initiative has approved as conforming.
 
-Here's the plan:
+The plan:
 
-1. [Review the criteria that clearly regulate copyleft.](#clear-copyleft-regulations)
-2. [Review a few common interpretive traps.](#interpretive-traps)
+1. [Review the few Definition criteria that clearly regulate copyleft.](#clear-copyleft-regulations)
+2. [Outline a few recurring interpretive traps.](#interpretive-traps)
 3. [Consider the redistribution criterion, as a warm-up.](#redistribution)
 4. [Dive into the discrimination criteria, first field-of-endeavor, then person-or-group.](#discrimination)
-5. [Round out with the contamination criterion.](#contamination)
+5. [Round out with contamination.](#contamination)
 
 ## Clear Copyleft Regulations
 
-Three Open Source Definition criteria---3, 8, and 10---clearly regulate copyleft design choices.  Starting with those will give us a sense of the kind of clarity we won't find in other criteria.
+Three Open Source Definition criteria---3, 8, and 10---clearly regulate copyleft design choices.  Starting with those rules will give us a sense of the kind of clarity lacking in readings of other criteria to regulate copyleft.
 
 ### Allow the Same Terms for Derived Works
 
@@ -55,9 +55,9 @@ Criterion 3 of the Definition was brought over from the Debian Free Software Gui
 >
 > The license must allow modifications and derived works, and must allow them to be distributed under the same terms as the license of the original software.
 
-Criterion 3 is a clear regulation of licensing design choice.  To be open source, a copyleft rule must at least allow the same license terms for work within its reach.  It can't require different terms, such as permissive terms or terms that aren't open source.
+Criterion 3 is a clear regulation of licensing design choice.  To be open source, a copyleft rule must at least allow the same license terms for work within its reach.  It can't require some other set of terms, such as permissive terms or terms that aren't open source.
 
-It's not clear from the text of the Definition whether the same terms must be the _only_ terms on which "derived works" can be licensed.  That was true of GPLv2, which the Definition, like the Debian Free Software guidelines from which it derived, were meant to describe.  However, there are three are three pieces of compelling evidence against requiring the same terms, rather than merely allowing them among other choices.
+It's not clear from the text of the Definition whether the same terms must be the _only_ terms on which "derived works" can be licensed.  That was true of GPLv2, which the Definition, like the Debian Free Software guidelines from which it derived, was written to describe.  However, there are three pieces of compelling textual and historical evidence for allowing the same terms among other choices, rather than having to require just the same terms.
 
 First, criterion 3 says that the license must "allow" the same terms, not that the license must "require" them.
 
@@ -69,7 +69,7 @@ Third, the Open Source Initiative has approved licenses that permit different te
 
 Criterion 8 of the Debian Free Software Guidelines had to be generalized for the Open Source Definition:
 
-<blockquote><p><strong>8. License Must Not Be Specific to <del>Debian</del><ins>a Product</ins>.</strong></p><p>The rights attached to the program must not depend on the program’s being part of a <del>Debian system.</del> <ins>particular software distribution.</ins> If the program is extracted from <del>Debian</del> <ins>that distribution</ins> and used or distributed <del>without Debian but otherwise</del> within the terms of the program’s license, all parties to whom the program is redistributed should have the same rights as those that are granted in conjunction with the <del>Debian system.</del> <ins>original software distribution.</ins></p></blockquote>
+<blockquote><p><strong>8. License Must Not Be Specific to <del>Debian</del><ins>a Product</ins>.</strong></p><p>The rights attached to the program must not depend on the program’s being part of a <del>Debian system.</del><ins>particular software distribution.</ins> If the program is extracted from <del>Debian</del><ins>that distribution</ins> and used or distributed <del>without Debian but otherwise</del> within the terms of the program’s license, all parties to whom the program is redistributed should have the same rights as those that are granted in conjunction with the <del>Debian system</del><ins>original software distribution</ins>.</p></blockquote>
 
 If we read "software distribution" and "product" to cover not just distributions of multiple programs, like Linux distributions, but also particular distributions of the licensed program itself, like Firefox and Iceweasel, criterion 8 becomes a clear regulation of licensing copyleft design choices.  An open source copyleft rule cannot vary the terms required for parts taken out of the program and parts left with or as a part of it.
 
@@ -83,7 +83,7 @@ Open Source Definition criterion 10 was not part of the Debian Free Software Gui
 
 Criterion 8 is a clear regulation of distribution and licensing design choices.  An open source copyleft license cannot require licensees to use a specific technology for licensing or distributing code within its reach.  For example, an open source copyleft license cannot require licensees to distribute work within its reach via FTP, or to require that licensees for derived works accept terms for that work by electronic signature.
 
-<!-- TODO: Notes on categories of methods -->
+The first Artistic License 1.0, also among the "Example Licenses" listed in the Debian Free Software Guidelines, includes a condition that can be satisfied by making changes "Freely Available" as defined, with Usenet and "an archive site like ftp.uu.net" offered as examples of ways to do so.  Other approved copyleft licenses have distribution requirement specifying classes or kinds of methods for sharing source, without mandating any particular one.
 
 ## Interpretive Traps
 
