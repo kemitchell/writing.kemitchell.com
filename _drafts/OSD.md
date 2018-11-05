@@ -87,11 +87,11 @@ The first Artistic License 1.0, also among the "Example Licenses" listed in the 
 
 ## Interpretive Traps
 
-The text of Open Source Definition is admirably terse and perhaps inevitably ambiguous, affording several plausible readings of each criterion.  There is not enough in the Definition itself to narrow down to just one evidently correct meaning per requirement.  To select from among plausible meanings, we have to look past the page.
+Having reviewed some clear copyleft regulations in the Open Source Definition, we move on to criteria frequently misinterpreted to contain similar rules.  As we'll see, common problems plague a number of these interpretations.  It's worth reviewing them first, before we address the other criteria one by one, so we can note the traps in the various places they appear.
+
+Overall, the text of Open Source Definition is admirably terse and perhaps inevitably ambiguous, affording several plausible readings of each criterion.  There is not enough in the Definition itself to narrow down to just one evidently correct meaning per criterion.  To select from among plausible meanings, we have to look past the page.
 
 Some readers forget to look _outside_ the text, and fixate on readings that don't make sense in the context of the Definition's history.  Others read between the lines, arriving at conclusions that very general language nonetheless has one very specific meaning.
-
-Before diving into the other Definition criteria that typically crop up in strong-copyleft discussions, it's worth reviewing those interpretive traps, as we'll find them in a more than one criterion, later on.
 
 ### Excluding Copyleft Generally
 
@@ -105,9 +105,11 @@ The Open Source Initiative has since approved other, stronger copyleft licenses.
 
 ### Oddly Specific Readings of Very General Language
 
-Starting from a reading of some Definition criterion that limits copyleft and paring back to avoid GPLv2 or subsequently approved licenses, it's possible to end up with a very specific reading that limits open source copyleft in a very specific way.  But it is only the history that leads to that specificity.  The text of the Definition remains as general as it was the day it was published.  The path from general text to highly specific meaning is not apparent or inevitable.
+Starting from a reading of some Definition criterion that limits copyleft and paring back to avoid GPLv2 or subsequently approved licenses, it's possible to end up with a very specific reading that limits open source copyleft in a very specific way.  But it is only the history that leads to that specificity.  The text of the Definition remains as general as it was the day it was published.  The path from general text to highly specific meaning is not predetermined by the text.  It could not be accepted or rejected by those who accepted either the Debian Free Software Guidelines or the Open Source Definition when proposed.
 
-This error often manifests as the position that the outer limit of open source copyleft is whatever the last approved stronger-copyleft license happened to be, damning every new, yet stronger copyleft proposal, in succession.  Starting from what's new is better than starting from whether copyleft can ever conform to the Definition.  But looking back at a general Definition, plus a history of progressively stronger approved copyleft licenses, it never follows that the last approved stronger-copyleft license has to be the last ever.  That debate has to reach beyond the Definition and even Open Source Initiative history, to the industry, community, and history of the movement.  It has to take into account that the Open Source Initiative only definitively accepts licenses, declines to approve many licenses that conform to the Definition, and never affirmatively and finally rejects any terms.
+This error often manifests as the position that the outer limit of open source copyleft is whatever the last approved stronger-copyleft license happened to be.  Starting debate from what's new is better than starting from whether copyleft can ever conform to the Definition.
+
+But looking back at a general Definition, plus a history of progressively stronger approved copyleft licenses, it never follows that the last approved stronger-copyleft license has to be the last ever.  That debate has to reach beyond the Definition and even Open Source Initiative history, to the industry, community, and history of the movement.  It has to take into account that the Open Source Initiative only definitively accepts licenses, declines to approve many licenses that conform to the Definition, and never affirmatively and finally rejects any terms.  It is up for deciding, not predecided by the Definition.
 
 The concept of precedent proper remains highly controversial among license-review participants.  On the other hand, there doesn't seem to be any will to remove or deprecate licenses approved in the past.  It's clear that past decisions, and especially use of approved licenses in apparent reliance on Open Source Initiative approval, always seems to matter for new submissions.  It's just not clear how.
 
@@ -119,9 +121,7 @@ Some open source license specialists distinguish "restrictions", which hold back
 
 Specialists speak of prohibitions on copying, distributing, or using software for commercial purposes as "restrictions".  A noncommercial license has a commercial use restriction.  Conversely, they speak of notice-retention rules, which require keeping copies of copyright notices and license terms with copies of software, as "conditions".  Copyleft rules, which require sharing source and giving a license, are almost always classed conditions, too.
 
-The terms "restriction" and "condition" thus serve a helpful shorthand function in open source licensing jargon.  Unfortunately, that function leads us right into a circular argument.  Restrictions are always bad, and suggest that a license isn't open source.  Conditions do not.
-
-It’s not at all clear that the Definition means “restrict” in that oddly particular way.  The word "condition" never appears in the Definition.  Both the Debian Free Software Guidelines and the Open Source Definition predate today's larger community of open source licensing specialists, and may predate this jargon usage, too.  The restriction-bad, condition-good association may in fact stem from the Definition, at least partially, explaining its apparent circularity.
+It’s not at all clear that the Definition means “restrict” in that oddly particular way, or what that particular way is.  The word "condition" never appears in the Definition.  Both the Debian Free Software Guidelines and the Open Source Definition predate today's larger community of open source licensing specialists, and may predate this jargon usage, too.  The restriction-bad, condition-good association may in fact stem from the Definition, at least partially, explaining its apparent circularity.
 
 But perhaps the distinction in jargon reflects a distinction in the law that affects software licenses?  After all, many of the licensing specialists who use the distinction come from the legal camp.
 
@@ -131,11 +131,11 @@ In the end, a copyright license creates a list of things that a licensee can do 
 
 If the difference between "restriction" and "condition" isn't in what counts as infringement, perhaps it's in the consequences.  I've heard some lawyers explain it in terms of legal "remedies": what you can get from a court when you win a lawsuit.
 
-Successful copyright infringement lawsuits lead to court orders for defendants to stop taking action with the software.  Courts issue orders to stop making and distributing proprietary software in a way that breaks a copyleft rule.   However, at least under US law, it's not at all clear that courts will order defendants to fulfill conditions, say by forcing defendants to distribute their source code and license it as required to satisfy a copyleft rule they broke.  Likewise if terms get enforced as a contract, instead of or in addition to being enforced as a copyright license.  It's far more likely that courts will order defendants to stop working with the copyrighted software and award money damages as compensation for the infringement.
+Successful copyright infringement lawsuits lead to court orders for defendants to stop taking action with the software.  Thus, courts can issue orders to stop making and distributing proprietary software in a way that breaks a copyleft rule.   However, at least under US law, it's not at all clear that courts will order defendants to fulfill conditions, say by forcing defendants to distribute their source code and license it as required to satisfy copyleft.  Likewise if terms get enforced as a contract, instead of or in addition to being enforced as a copyright license.  Specific performance---orders to do what you promise to do, instead of paying for damages cause by your failure to do so---is exceedingly rare in contract law, and typically only available for promises of specific and unique services, where money couldn't adequately compensate for broken promises.  It's far more likely that courts will order defendants to stop working with the copyrighted software and award money damages as compensation for the infringement.
 
 In other words, under US law, we expect courts to award money, not code.  Legal confusion on this point contributed to the fear, uncertainty, and doubt about copyleft licenses as "viral" licenses that could force large companies to share their closed software.
 
-At this point, we are deep in the law.  All of this speaks from legal background that neither the Definition's author nor its audience had at the time.  Even if there were a clear legal distinction between restrictions and conditions, based on legal remedies or otherwise, it’s not at all clear that the Definition means “restrict” in that oddly particular way.  The Definition describes licenses, which are legal tools.  But the Definition doesn't speak in the terms that US lawyers would choose.
+At this point, we are deep in the law.  All of this speaks from legal background that neither the Definition's author nor its audience had at the time.  Even if there were a clear legal distinction between restrictions and conditions, based on legal remedies or otherwise, it’s not at all clear that the Definition means “restrict” in that oddly particular way.  The Definition describes licenses, which are legal tools.  But the Definition doesn't speak in the terms that US lawyers would choose.  It speaks of the practical effects licenses have, as a client might describe the goals for a license to be drafted, not of the particular ways lawyers should or ought to draft to meet those goals.
 
 ## Redistribution
 
@@ -145,11 +145,11 @@ Open Source Definition criterion 1 reads more or less as criterion 1 of the Debi
 
 <blockquote><p><strong>1. Free Redistribution</strong></p><p>The license <del>of a Debian component</del> <del>may</del> <ins>shall</ins> not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources. The license <del>may</del> <ins>shall</ins> not require a royalty or other fee for such sale.</p></blockquote>
 
-We could strain to read criterion 1 as a rule against licenses whose reach and licensing terms create license compatibility issues.  In other words, copyleft rules that create conflicts with other copyleft rules, preventing developers who combine work under both licenses from sharing the combination together.
+We could strain to read criterion 1 as a rule against copyleft licenses whose reach and licensing terms create license-compatibility issues.  In other words, copyleft rules that create conflicts with other copyleft rules, preventing developers who combine work under both licenses from sharing the combination together.
 
 We'd have to read "component" and "aggregate software distribution" to cover changed versions and programs based on the licensed work.  Considering that "derived works" gets used for this meaning in another, dedicated criterion, that seems a stretch.  And I don't think developers in practice would go out of their way to say "component of an aggregate software distribution" when they meant "part of a new program" or "basis of a new version".
 
-But even if we accepted that interpretation, we'd end up with an [oddly specific reading](#oddly-specific-readings-of-very-general-language) that we'd have to pare back to save GPLv2.  GPLv2 has created plenty of compatibility problems.  Arguably, it invented modern license incompatibility.  But there's no basis in the text for paring the broad reading back to save it.  Criterion 1 says "restrict", and GPLv2 is full of "conditions".  But as [described above](#restriction-versus-condition), there's no good reason to read the specialist distinction between "restrictions" and "conditions" into the Definition generally, or condition 1 specifically.
+But even if we accepted that interpretation, we'd end up with an [oddly specific reading](#oddly-specific-readings-of-very-general-language) that we'd have to pare back to save GPLv2.  GPLv2 has created plenty of compatibility problems.  Arguably, GPLv2 invented modern license incompatibility.  But there's no basis in the text for paring the broad reading back to save it.  Criterion 1 says "restrict", and GPLv2 is full of "conditions".  But as [described above](#restriction-versus-condition), there's no good reason to read the specialist distinction between "restrictions" and "conditions" into the Definition generally, or condition 1 specifically.
 
 Overall, "redistribution" here seems to mean something far more like sharing collections of software than changing or building it.  We'll see that again in the [contamination](#contamination) criterion, later on.
 
@@ -163,7 +163,7 @@ Quoting Richard Stallman, from _Copyleft: pragmatic idealism_:
 
 That is discrimination.  We might also call it reciprocity, fair play, or the golden rule in action.  But it is discrimination.
 
-Evidently not the _kind_ of discrimination the Definition prohibits.  The Open Source Initiative has approved all of the major licenses drafted by the Free Software Foundation, which Stallman founded.
+Evidently not the _kind_ of discrimination the Definition prohibits.  The Open Source Initiative has approved all of the major licenses drafted by the Free Software Foundation, which Stallman founded.  [A Debian's FAQ](https://people.debian.org/~bap/dfsg-faq.html#discrimination) points out specifically that the antidiscrimination criteria don't prohibit copyleft.
 
 ### Field of Endeavor Discrimination
 
@@ -193,7 +193,7 @@ In ordinary English, the meaning of "restrict" is very broad.  Per the Oxford En
 >
 > To prohibit or prevent _from_.
 
-Applying this ordinary meaning, “restrict anyone from making use of the program in a specific field of endeavor” would cover rules that turn “making use” in a “specific field of endeavor” into infringement, however that’s accomplished.  Considering GPLv2, the question would then become how we read “making use” and “specific field of endeavor”.
+Applying this ordinary meaning, “restrict anyone from making use of the program in a specific field of endeavor” would cover rules under which “making use” in a “specific field of endeavor” is infringement, however that happens.  Considering GPLv2, the question would then become how we read “making use” and “specific field of endeavor”.
 
 As [described earlier](#restriction-versus-condition), it's hard to argue that the general distinction between "restrictions" and "conditions" among licensing specialists applies in criterion 6, instead of the ordinary meaning.
 
@@ -213,21 +213,21 @@ Trigger language for all kinds of conditions in old open source licenses usually
 
 ##### Running the Software
 
-Some read "use" even more specifically, to mean one specific kind of use: "running" or "executing" software.  This reading misses early, GPLv2-style copyleft licenses, because those licenses triggered copyleft only on distribution or making changes or new software based on the licensed software, not running the licensed software.  But it would catch stronger, network copyleft licenses that OSI has already approved.
+Some read "use" even more specifically, to mean one specific kind of use: "running" or "executing" software.  This reading misses early, GPLv2-style copyleft licenses, because those licenses triggered copyleft only on distribution or making new code based on the licensed code, not running the licensed software.  But it would catch stronger, network copyleft licenses that OSI has approved since.
 
-Under copyright law, owners of copyright do _not_ have an explicit right to control and license running of their software.  However, copying software is an unavoidable step in running it, for installation, loading into RAM for execution, and so on.  Since copyright holders _can_ control copying of their software, they have indirect power to control running of their software.  A [specific section of US copyright law](https://www.gpo.gov/fdsys/search/pagedetails.action?granuleId=USCODE-2017-title17-chap1-sec117&packageId=USCODE-2017-title17&fromState=) makes an exception to this rule, for copies of software that users own, especially when purchased as a part of a package, with a computing device, to keep it running as delivered.  But [well known federal case law](https://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc.) indicates that having a license, especially one imposing notable use restrictions, is not the same as owning a copy.
+Under copyright law, owners of copyright do _not_ have an explicit right to control and license running of their software, as do patent owners.  However, copying software is an unavoidable step in running it, for installation, loading into RAM for execution, and so on.  Since copyright holders can control copying of their software, they have indirect power to control running of their software.  A [specific section of US copyright law](https://www.gpo.gov/fdsys/search/pagedetails.action?granuleId=USCODE-2017-title17-chap1-sec117&packageId=USCODE-2017-title17&fromState=) makes an exception to this rule, for copies of software that users own, especially when purchased as a part of a package, with a computing device, to keep it running as delivered.  But [well known federal case law](https://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc.) indicates that having a license, especially one imposing notable use restrictions, is not the same as owning a copy.
 
 Copyleft licenses approved after GPLv2, in particular “network copyleft” licenses that trigger on provision of the software as a service to others over a network, go beyond distributing, making changes, and building new software, explicitly or implicitly.  They cover running it.  Some, like [OSL](https://opensource.org/licenses/OSL-3.0), actually say "use" in their trigger language.  Others, like [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html), seem to take great pains to avoid saying "use", "run", or "execute" in their triggers.
 
-Regardless of wording, a copyright license can only control the actions covered by copyright.  Providing services to others over a network is not distributing copies publicly or making changes or new work based on the software.  In fact, copyleft rules based on providing network services _ensure_ that licensees distribute, when they otherwise haven't.  The only action governed by copyright that remains as a possible basis for those rules, then, is copying.  When a copyright license makes rules about running a program, it makes rules about making copies, as one must to run the program.
+Regardless of wording, a copyright license can only control the actions covered by copyright.  Providing services to others over a network is not distributing copies publicly or making changes or new work based on the software.  In fact, copyleft rules based on providing network services _ensure_ that licensees distribute, when they otherwise haven't.  The only action governed by copyright that remains as a firm basis for those rules, then, is copying.  When a copyright license makes rules about running a program, it makes rules about making copies, as one must to run the program.
 
-I've heard from a few commentators that the language of AGPL, an early network copyleft license, was meant to create a kind of "public performance" right for software.  Public performance is another action controlled by copyright.  Licenses for other kinds of copyrighted work, like film, theatrical, and musical works, control public performance of those works.  Technically, software licenses also control public performance of software, but what public performance means for software remains unclear.  The authors of AGPL would have liked public performance to clearly cover running software for others to interact with over a network, but it did not, and it still doesn't.  So they wrote a license condition that provided similar effect.
+I've heard from a few commentators that the language of AGPL, an early network copyleft license, was meant to create a kind of "public performance" right for software.  Public performance is another action controlled by copyright, which covers creative work far beyond software.  Licenses for other kinds of copyrighted work, like film, theatrical, and musical works, control public performance of those works in various ways.  Technically, software work falls into a legal category where public performance controls apply, but what public performance means for software remains unclear.  The authors of AGPL would have liked public performance to clearly cover running software for others to interact with over a network, but it did not, and it still doesn't.  So they wrote a license condition to the same effect.
 
-Copyright licenses conditions attempting to control rights other than those controlled by copyright law have to fall back on control of the actions copyright law does control.  In the case of "synthetic" public performance rights---what lawyers would call "constructive" public performance rights---that means falling back on control of running the software, via control of copying the software.
+Copyright licenses conditions attempting to control rights other than those controlled by copyright law have to fall back on control of the actions copyright does control.  In the case of "synthetic" public performance rights---lawyers would say "constructive"---that means falling back on control of running the software, via control of copying and modifying the software.
 
-Either way, a reading this specific strays a long way from the general text of the Definition.  Criterion 6 says "making use", which is not a legal term.  For more specificity, it could have easily said "running" or "executing", and all involved would have known what was meant.
+Either way, a reading this specific strays a long way from the general text of the Definition.  Criterion 6 says "making use", which is not a legal term.  For more specificity, it could have easily said "running" or "executing", and all involved would have known what that meant.
 
-Taking "making use" to mean specifically running the program, but not publicly performing the software, or not providing the software to others over a network, is even more specific, and also anachronistic.  Neither the need for such a fine-grained distinction, nor any particular implementation of it, were pressing issues at the relevant times for the Guidelines or the Definition.
+Taking "making use" to mean specifically running the program, but not publicly performing the software, or not providing the software to others over a network, is even more specific, particular to FSF's network copyleft, which isn't the only approved approach, and also anachronistic.  Neither the need for such a fine-grained distinction, nor any particular implementation of it, were pressing issues at the relevant times for the Guidelines or the Definition.
 
 #### Specific Field of Endeavor
 
@@ -249,11 +249,11 @@ If we read "restrict" and "make use" in the ordinary, natural ways, "specific fi
 
 The Open Source Definition and software licensing history provide a number of examples of specific fields of endeavor that fit the history of copyleft approvals.  Criterion 6 mentions business and genetic research.  Software licenses prohibiting military use have been widely considered non-conforming, as have licenses prohibiting use in violation of human rights.
 
-OSI's annotated Definition reemphasizes commercial use.  As all major open advocacy groups, including OSI and FSF, have enthusiastically urged, "commercial" and "closed" are not synonymous, any more than "noncommercial" and "open".  Many people and firms, in many industries, produce, distribute, and develop open source software for pay or other commercial advantage.  Business firms, genetic researchers, and military personnel can employ and make open as well as closed software.  Software is but a means to those endeavors.  The choice of open or closed, as user or developer, stands independent of the choice to endeavor in those specific fields.
+OSI's annotated Definition reemphasizes commercial use.  As all major open advocacy groups, including OSI and FSF, have enthusiastically urged, "commercial" and "closed" are not synonymous, any more than "noncommercial" and "open" are.  Many people and firms, in many industries, produce, distribute, and develop open source software for pay or other commercial advantage.  Business firms, genetic researchers, and military personnel can employ and make open as well as closed software.  Software is but a means to those endeavors.  The choice of open or closed, as user or developer, stands independent of the choice to endeavor in those specific fields.
 
-Some firms do business in software development primarily.  Many of those develop or consume closed software exclusively, for a variety of industries or other use cases.  But all firms face a choice of whether to take or make work on open or closed terms.  Activist copyleft was designed to create incentives to choose open, by excluding firms that choose closed.  The Definition was written in large part to describe one of those licenses, GPLv2.
+Some firms do business in software development primarily.  Many of those develop or consume closed software exclusively, for a variety of industries or other use cases.  But those firms face the same choice of whether to take or make work on open or closed terms.  Activist copyleft was designed to create incentives to choose open, by excluding firms that choose closed.  The Definition was written in large part to describe one of those licenses, GPLv2.
 
-Excluding closed software development doesn't mean locking "specific field of endeavor" down to just business or genetic research.  We could extrapolate to other fields that offer a choice of open or closed, such as hyrdraulic fracturing, alcoholic beverages, private prisons, the practice of law, and so on.
+Excluding closed software development doesn't mean locking "specific field of endeavor" down to just business or genetic research.  We could extrapolate to other fields that offer a choice of open or closed, such as hyrdraulic fracturing, environmental protection, alcoholic beverages, addition recovery, nuclear weapons, disarmament activism, the practice of law, and so on.
 
 ### Person and Group Discrimination
 
@@ -265,7 +265,7 @@ Open Source Definition criterion 5 reads:
 
 This language was brought over from the Debian Free Software Guidelines without any changes.
 
-Criterion 5 has typically been used to exclude licenses that blacklist particular people or firms by name, such as lists of firms or particular national governments.  Sometimes developers provided reasons for these lists, and sometimes  they turned the reasons into categories, excluding by description.
+Criterion 5 has typically been used to exclude licenses that blacklist particular people or entities by name, such as lists of firms or particular national governments.  Sometimes developers provided reasons for these lists, and sometimes they expressed the reasons as categories, excluding all people or entities described.
 
 For any activity, we could define a group: the group of people performing that activity.  For example, the group of people developing closed software.  Discriminating against those people in those groups, by requiring them to develop software when they'd choose not to, or cannot, would disqualify approved copyleft licenses, including GPLv2.  That can't be right.
 
@@ -279,7 +279,7 @@ Open Source Definition criterion 9 involved a slight heading change:
 
 I've seen criterion 9 read to regulate copyleft reach and licensing.  But for the reasons that follow, I don't see those readings in the text and its history.
 
-When discussing criterion 9, I find it's useful to bring all the interpretive boundaries up front:
+When discussing criterion 9, in contrast to the nondiscrimination criteria, I find it's useful to bring all the interpretive boundaries up front:
 
 1. However we read the first sentence of criterion 9, it needs to accord with the same-media example in its second sentence.
 
@@ -289,34 +289,39 @@ When discussing criterion 9, I find it's useful to bring all the interpretive bo
 
 3. Reaching now into history, criterion 9 can't exclude network-copyleft licenses like AGPL and OSL.
 
-4. More controversially, criterion 9 evidently didn't exclude stronger-trigger copyleft or "reciprocal" licenses such as Plan 9, Open Watcom, and RPL, which were approved by the Open Source Initiative but rejected by the Free Software Foundation.
+4. More controversially, criterion 9 evidently didn't exclude stronger-trigger copyleft or "reciprocal" licenses such as Plan 9, Open Watcom, and RPL, which were approved by the Open Source Initiative, rejected by the Free Software Foundation, and likely fail Debian's Desert Island and Dissident tests.
 
 ### Restrictions
 
-As [noted earlier on](#restriction-versus-condition), it's tempting to fall back on an informal or potential legal distinction between "restriction" and "condition", but there's no cause to read Open Source Definition language in either of those specific ways.  The natural reading of "restrictions" is broad.
+> The license must not place **restrictions** on other software that is distributed along with the licensed software.
+
+As [noted earlier on](#restriction-versus-condition), it's tempting to fall back on an informal or legal distinction between "restriction" and "condition", but there's no cause to read Open Source Definition language in either of those specific ways.  The natural reading of "restrictions" is broad.
+
+However, that broad reading doesn't seem to include "restrictions" in the sense of copyleft licensing rules.  That reading butts up against, and potentially conflicts with, criterion 3's [clear copyleft rule of permitting the same terms](#allow-the-same-terms-for-derived-works).  Criterion 3 has the effect of ensuring that "derived works" can be open source, since the "same terms" must meet the Definition, and are thus open source.  While an open source license cannot impose restrictions contrary to criterion 1 (Free Redistribution), criterion 6 (No Discrimination Against Fields of Endeavor), or criterion 9, it explicitly _can_ restrict distribution of modified copies under criterion 4 (Integrity of The Author's Source Code).
+
+All of this, plus the provided example, make criterion 9 far easier to read as a rule against terms that take away permission to distribute the licensed software based on aspects of other software that don't have anything to do with copyleft, and could appear in permissive licenses, as well.  In other words, restating the Definition: "The license must not restrict what other software can be distributed along with the licensed software." 
+
+This reading clearly covers the example: requiring other software on the same medium to be open source.  We could extrapolate.  For example, a permissive license could not prohibit distribution along with software by a competitor, or software for nonfree operating systems, or software under licenses without express patent permissions.
+
+It also speaks to the concerns of a distribution like Debian, whose massive, heterogeneous distribution infrastructure could never implement every non-conforming license's restrictions in software, to ensure they're followed.  To prevent that explosion of complexity, which might make package distribution totally unworkable, it made sense for Debian to exclude software that creates such problems.  It also made sense to analogize to "contamination".  Just as common carriers of mail or shipping containers enforce hazardous shipping regulations to keep one package from leaking over others, criterion 9 heads off license-based trouble triggered "in transit" to end users.  Once end users receive their copies, criterion 3 (Derived Works) clearly addresses copyleft licensing.
 
 ### Distributed
 
-With "distributed", we have much the same interpretive problem as "use" in condition 6.  We could read it informally, to mean sharing software, or as a legal allusion to distribution to the public under copyright law, or as something in between.
+> The license must not place restrictions on other software that is **distributed** along with the licensed software.
 
-But "distributed" in criterion 9 is more troublesome that "use" in condition 6, considering GPLv2.  Reading "use" to mean running software pointed to an action with software that GPLv2 did _not_ use in its copyleft trigger.  Even if we read "distributed" in criterion 9 in an oddly specific, legal way, that kind of distribution is the crux of GPLv2's trigger.  In other words, reading "use" specifically takes GPLv2 out of criterion 6, but reading "distribute" specifically leads to a meaning that would still exclude GPLv2.
+With "distributed", we have much the same interpretive problem as "use" in condition 6.  We could read it informally, to mean sharing copies of software, or as a legal allusion to distribution to the public under copyright law, or as something in between.
+
+But "distributed" in criterion 9 is more troublesome that "use" in condition 6, considering GPLv2.  Reading "use" in oddly specific ways in condition 6 avoided GPLv2, since GPLv2 doesn't trigger on those specific actions.  Conversely, even reading "distributed" in criterion 9 in an very specific, legal way, still describes GPLv2's trigger.  Distribution-based triggers are a hallmark of GPLv2-style copyleft, and the specific design choice led to the ASP loophole and the need for network-copyleft licenses.
+
+Whether we read "distributed" informally or legally, it catches GPLv2.
 
 ### Other Software
 
-Straining to make a copyleft regulation out of criterion 9 is a lot of work for little reward: "other software" would become the limit of copyleft reach.  That's not much to go on, and would also run immediately into problems with approved-license history.
+> The license must not place restrictions on **other software** that is distributed along with the licensed software.
 
-GPLv3 reaches beyond the software itself:
+Straining to make a copyleft regulation out of criterion 9 is a lot of work for no reward: "other software" would become the limit of copyleft reach.  The word "other" says there's a limit, without giving any hint of where it lies, or why.
 
-> The “Corresponding Source” for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities. However, it does not include the work's System Libraries, or general-purpose tools or generally available free programs which are used unmodified in performing those activities but which are not part of the work. For example, Corresponding Source includes interface definition files associated with source files for the work, and the source code for shared libraries and dynamically linked subprograms that the work is specifically designed to require, such as by intimate data communication or control flow between those subprograms and other parts of the work.
->
-
-So does RPL 1.5:
-
-> 1.12 "Required Components" means any text, programs, scripts, schema, interface definitions, control files, or other works created by You which are required by a third party of average skill to successfully install and run Licensed Software containing Your Modifications, or to install and run Your Derivative Works.
-
-### Derived Work
-
-License terms can break those rules.  They can grant permission only to distribute along with other open software, not proprietary.  They can require prominent billing on lists of contents of particular media on which they're reproduced.  Debian's infrastructure and software can't implement every rule-breaking license's terms in software, and ensure they're followed.  To prevent that explosion of complexity, which might make package distribution totally unworkable, Debian excluded software that creates those problems.
+We could take hints from approved licenses.  GPLv3 reaches beyond the software itself in its definition of "Corresponding Source".  So does RPL 1.5, in its definition of "Required Components".  Both include "other software" as developers would probably understand the phrase.
 
 ## Takeaways
 
