@@ -1,6 +1,6 @@
 ---
-title: Reading the Open Source Definition as Copyleft Regulation
-description: an in-depth review of minor limits and recurring errors
+title: The Open Source Definition as Copyleft Regulation
+description: an in-depth review of commonly cited criteria
 layout: post
 tags:
 - SSPL
@@ -13,7 +13,7 @@ This is the second in [a series inspired by MongoDB's Server Side Public License
 
 ------
 
-How does the Open Source Definition regulate maintenance of strong copyleft terms in open source licenses?  Sporadically, incompletely, and unhelpfully for current controversies.  A few Definition criteria set clear limits, but most don't say anything about copyleft at all.  A few, read out of context, beg readings that prohibit all copyleft licenses generally, clogging up debate.
+How does the Open Source Definition regulate maintenance of strong copyleft terms in open source licenses?  Sporadically, incompletely, and unhelpfully for current controversies.  A few Definition criteria set clear limits, but most don't say anything about copyleft at all.  A few, read out of context, beg readings that prohibit copyleft generally, or point to utterly unhelpful distinctions, clogging up debate.
 
 In reading the Definition as a copyleft regulation, we can ask three specific questions:
 
