@@ -13,7 +13,7 @@ This is the second in [a series inspired by MongoDB's Server Side Public License
 
 ------
 
-How does the Open Source Definition regulate maintenance of strong copyleft terms in open source licenses?  Sporadically, incompletely, and unhelpfully for current controversies.  A few Definition criteria set specific limits, but most don't say anything about copyleft at all.  A few, read out of context, beg readings that prohibit all copyleft licenses generally, clogging up debate.
+How does the Open Source Definition regulate maintenance of strong copyleft terms in open source licenses?  Sporadically, incompletely, and unhelpfully for current controversies.  A few Definition criteria set clear limits, but most don't say anything about copyleft at all.  A few, read out of context, beg readings that prohibit all copyleft licenses generally, clogging up debate.
 
 In reading the Definition as a copyleft regulation, we can ask three specific questions:
 
@@ -31,7 +31,7 @@ In reading the Definition as a copyleft regulation, we can ask three specific qu
 
 In the end, the Open Source Definition provides neither holistic design-approach regulation, nor regulation for each copyleft design choice.  That makes the Definition an incomplete copyleft regulation, at best.
 
-That is altogether understandable, considering the way it was written, and why.  The Definition wasn't meant to answer current questions about the limits of copyleft design.  Those questions hadn't even been practically posed yet.  But we're asking them  now.  In order to establish meaningful regulation for open source copyleft, we'll have to look past the Definition.
+That is altogether understandable, considering the way it was written, and why.  The Definition wasn't meant to answer current questions about the limits of open source copyleft design.  Those questions hadn't even been practically posed yet.  But we're asking them now.  In order to establish meaningful regulation for open source copyleft, we'll have to look past the Definition.
 
 In another post in this series, I'll do just that, to offer a usable framework.  This post, however, will cover only what we can glean from the text of the Open Source Definition, its history, and the licenses the Open Source Initiative has approved as conforming.
 
@@ -45,7 +45,7 @@ The plan:
 
 ## Clear Copyleft Regulations
 
-Three Open Source Definition criteria---3, 8, and 10---clearly regulate copyleft design choices.  Starting with those rules will give us a sense of the kind of clarity lacking in readings of other criteria to regulate copyleft.
+Three Open Source Definition criteria---3 (Derived Works), 8 (License Must Not Be Specific to a Product), and 10 (License Must be Technology-Neutral)---clearly regulate copyleft design choices.  Starting with those rules will give us a sense of the clarity missing elsewhere.
 
 ### Allow the Same Terms for Derived Works
 
@@ -64,6 +64,8 @@ First, criterion 3 says that the license must "allow" the same terms, not that t
 Second, permissive licenses like BSD, another license listed in the "Example Licenses" section of the Debian Free Software Guidelines, permit distributing "derived works" under any terms.  There's no reason evident from the text of the Definition why permissive licenses should be able to allow permissive "derived works", but copyleft licenses should not.
 
 Third, the Open Source Initiative has approved licenses that permit different terms for at least parts of "derived works".  For example, section 13 of GPLv3 and section 13 AGPLv3 create a compatibility bridge between those licenses, by making exceptions to their licensing rules for keeping GPLv3 and AGPLv3 contributions under their respective terms.
+
+As a final note, the term "derived works" is close to, but not exactly, a relevant term of US copyright law.  The legal term is "derivative work".  Of all the non-legal usages in the Definition, which does not read like the work of an American copyright lawyer, "derived work" feels the most like a legal allusion.  But the difference shores up an interpretation that "derived work" goes beyond copyright derivative works, when copyleft reach does.  We could read criterion 3 to regulate licensing rules for _all_ work within the copyleft rule's reach.
 
 ### No Product-Specific Licensing
 
