@@ -315,7 +315,7 @@ With "distributed", we have much the same interpretive problem as "use" in condi
 
 But "distributed" in criterion 9 is more troublesome that "use" in condition 6, considering GPLv2.  Reading "use" in oddly specific ways in condition 6 avoided GPLv2, since GPLv2 doesn't trigger on those specific actions.  Conversely, even reading "distributed" in criterion 9 in an very specific, legal way, still describes GPLv2's trigger.  Distribution-based triggers are a hallmark of GPLv2-style copyleft, and the specific design choice led to the ASP loophole and the need for network-copyleft licenses.
 
-Whether we read "distributed" informally or legally, it catches GPLv2.
+Whether we read "distributed" informally or legally, if we reach criterion 9 to address copyleft design, it catches GPLv2.
 
 ### Other Software
 
