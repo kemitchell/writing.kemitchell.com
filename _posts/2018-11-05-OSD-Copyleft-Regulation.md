@@ -11,6 +11,10 @@ tags:
 
 This is the second in [a series inspired by MongoDB's Server Side Public License](/series/SSPL.html) and ensuing debate.  It builds on [the first](https://writing.kemitchell.com/2018/10/24/How-to-Speak-Copyleft.html), which sets out the vocabulary of copyleft design and regulation used here.
 
+Changes since initial publication:
+
+- Added [Discrimination in Copyleft Terms](#discrimination-in-copyleft-terms).
+
 ------
 
 How does the Open Source Definition regulate maintenance of strong copyleft terms in open source licenses?  Sporadically, incompletely, and unhelpfully for current controversies.  A few Definition criteria set clear limits, but most don't say anything about copyleft at all.  A few, read out of context, beg readings that prohibit copyleft generally, or point to utterly unhelpful distinctions, clogging up debate.
@@ -272,6 +276,20 @@ Criterion 5 has typically been used to exclude licenses that blacklist particula
 For any activity, we could define a group: the group of people performing that activity.  For example, the group of people developing closed software.  Discriminating against those people in those groups, by requiring them to develop software when they'd choose not to, or cannot, would disqualify approved copyleft licenses, including GPLv2.  That can't be right.
 
 Approved licenses of all kinds---permissive and copyleft---discriminate against other people and groups on the basis of their choices.  Perhaps most notably, the defensive termination provisions of many licenses take back permissions granted by licenses to those who sue developers or users under patents.  Those rules are highly discriminatory against firms that actively enforce their patents.  They're especially discriminatory against firms that primarily acquire and sue on patents.  Those are evidently not the kinds of people or groups of people criterion 5 is meant to protect.
+
+### Discrimination in Copyleft Terms
+
+_This section was added on November 7, 2018._
+
+Even if copyleft itself does not inherently discriminate in ways criteria 5 and 6 prohibit, particular copyleft designs could fail one or both of those criteria with trigger, reach, licensing, or distribution terms that discriminate in prohibited ways.  In that sense criteria 5 and 6 regulate all copyleft design choices, as a consequence of regulating all open source license terms.
+
+For example, a copyleft license that triggers on use to provide a paid network service would fail criterion 6, not because it discriminates against development of closed network services, but because it discriminates against business.  A copyleft license that reaches source code that is derivative work based on the copyleft code in the normal case, but also scripts for deployment, if the scripts are used to deploy for United States federal government use, would fail criterion 5, because it discriminates against the United States government and its service providers.  Copyleft terms that allow individuals to license without an express patent grant, but require patent grants from corporations would fail criterion 5, because it discriminates against corporations.  A copyleft design that requires distributing source code to users in the normal case, but allows sponsors of the project's foundation to distribute by general publication would fail criterion 5, because it discriminates against non-sponsors.
+
+However, the history of approved licenses indicates that open source copyleft designs can discriminate between means of creating new software from copyleft software in at least some terms.  At a minimum, open source copyleft designs can trigger copyleft selectively, so that some methods of developing new software don't trigger copyleft, while others do.
+
+Approved "weak copyleft" licenses that only reach changes to the licensed software, like MPL 2.0, discriminate between development of closed programs that do and do not modify the original work's files.  As compared to AGPLv3, its sister license, GPLv3 discriminates against development of closed programs for distribution to end users, as opposed to for provision as services.
+
+These approvals apply rules about selectivity in various copyleft terms that aren't at all clear from the text of criteria 5 and 6.
 
 ## Contamination
 
