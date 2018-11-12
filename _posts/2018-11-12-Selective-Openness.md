@@ -1,7 +1,12 @@
 ---
 title: Selective Openness
-description: the developing art of giving things away for a profit
+description: making money by choosing what to give away
 layout: post
+tags:
+- Business Models
+- Licensing
+- Open Source
+- SSPL
 ---
 
 In a world dominated by closed software and services, selectivity makes open source go 'round.  An open source license gives innumerable others permission to take code and run with it.  That is not a business plan.  But the choice of what to release as open source and when is awesome power.
@@ -9,7 +14,7 @@ In a world dominated by closed software and services, selectivity makes open sou
 Ability to wield that power deftly, and willingness to do so self-servingly, isn't yet widespread.  Especially among developers who came up in open source as idealistic, altruistic participants freed from immediate financial need.  But many of those are starting companies.  As a consequence, we're reading this script, over and over again:
 
     SOMEWHERE ON SOCIAL MEDIA
-    
+
                       SMALL COMPANY DEVELOPER
                   (indignantly)
             Big Software Company isn't contributing
@@ -17,7 +22,7 @@ Ability to wield that power deftly, and willingness to do so self-servingly, isn
             taking our work and outcompeting us
             with their existing advantages.  We
             have to do something about it!
-    
+
                       COMMENTER
                   (also indignantly)
             What do you mean Big Software Company
