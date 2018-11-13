@@ -65,7 +65,7 @@ Regardless of what functionality ends up closed, or when, the net effect for ope
 
 ## Overkill
 
-Losses from open source are particularly tragic when companies close code entirely.  On the adoption side, many users that will never be able to pay for licenses lose out.  On the production side, company developers miss the benefits of working in the open, with familiar tooling, and leveraging free infrastructure made available for public projects.  A host of secondary users, like students who read source code to learn, security researchers looking for vulns, and academics who rely on public data, also miss out on closed code.
+Losses from open source are particularly tragic when companies close code entirely.  On the adoption side, many users that will never be able to pay for licenses lose out.  On the production side, company developers miss the benefits of working in the open, with familiar tooling, and leveraging free infrastructure for public projects.  A host of secondary users, like students who read source code to learn, security researchers looking for vulns, and academics who rely on public data, also miss out on closed code.
 
 From a business perspective, however, entirely closed is often overkill, chosen only for relatively familiarity with orthodox proprietary practice, or for lack of awareness of any approach closer to optimal.
 
