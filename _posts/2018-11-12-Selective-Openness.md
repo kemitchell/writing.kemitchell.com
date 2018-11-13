@@ -77,7 +77,7 @@ As long as the industry default remains closed and copyleft terms continue to co
 
 ## Salvage
 
-Industry accepts closed software because that's its business.  Industry has also come to accept permissive open source terms and weakened copyleft licenses, because they're good for making closed software.  There is as yet no standardization or broad acceptance of potentially optimal midpoints: sufficiently strong copyleft terms that cover recent trends in software development, like microservices and containerization, or public noncommercial licenses, general or exempting specific use cases.
+Industry accepts closed software because that's its business.  Industry has learned to accept permissive open source terms and weakened copyleft licenses, because they're good for making closed software.  There is as yet no standardization or broad acceptance of potentially optimal midpoints: sufficiently strong copyleft terms that cover recent trends in software development, like microservices and containerization, or public noncommercial licenses, general or exempting specific use cases.
 
 As a consequence, companies aiming to become more selective face a kind of marketing, friction, and grokability incentive to pick either a fully closed or a permissive open source approach, even when those approaches don't track their business goals, or make software less open than business goals permit.
 
