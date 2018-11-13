@@ -73,7 +73,7 @@ There are other options.  Companies can provide only the source code for closed 
 
 Copyleft license terms work, strategically, by taking the power of selectivity away from downstream developers.  If a developer's use of code triggers its copyleft license rule, that developer must share and license source code reached by the copyleft license on similar terms.  The choice of whether, when, and how to release that software as open source comes predetermined.  Take it or leave it.
 
-As long as the industry default remains closed and copyleft terms continue to cover new means of software combination, strong copyleft terms for software components will remain, in effect, noncommercial terms.  All of the exceptions to the rule that commercial means open and open means commercial---especially the small vanguard of open source businesses---receive free rein, and the corresponding competitive advantage.
+As long as the industry default remains closed and copyleft terms continue to cover new means of software combination, strong copyleft terms for software components will remain, in effect, noncommercial terms.  All of the exceptions to the rule that commercial means open and closed means commercial---especially the small vanguard of open source businesses---get free rein and a competitive advantage.
 
 ## Salvage
 
