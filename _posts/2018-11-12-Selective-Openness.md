@@ -47,7 +47,7 @@ Smaller companies are responding to contribution and competition imbalances by t
 
 Especially when founded and led by developers, small companies tend to start from a default of generous openness, which they learn as participants in open source development.  But they tend in time toward more closedness and self-service, which they learn by hard knocks, taking generosity into business.
 
-Selectivity in open source takes two main forms: choice of what and when to release, and choice of license.  The strategic effect is largely the same: denying benefit to competitors, at the expense of a chance to win the commons-community lottery.
+Selectivity in open source takes two main forms: choice of what and when to release, and choice of license.  The strategic effect is largely the same: denying benefit to competitors, at the expense of a chance to win the commons-community lottery.  Early on, with a team of developers dedicated to the project on salary, outside contribution windfall isn't critical.
 
 ## Open Means Closed
 
