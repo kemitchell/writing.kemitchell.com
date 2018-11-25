@@ -29,7 +29,7 @@ Ability to wield that power deftly, and willingness to do so self-servingly, isn
             isn't contributing back?  They release
             tons of open source!
 
-Both points are true, which keeps them being made, again and again.  The implied connection between them is false, which ensures ensuing conversation goes nowhere fast.
+Both points are true, which keeps them being made, again and again.  The implied connection between them is false, which ensures conversation goes nowhere fast.
 
 The big company may be contributing back, even contributing more, overall, than the small company.  But it isn't contributing back to the small company or its efforts.  It may in fact be strangling them.
 
