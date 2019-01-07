@@ -111,7 +111,7 @@ Both Commons Clause and SSPL carve out permissive-license safe zones within othe
 
 A hybrid license that achieves that split clearly and effectively would afford best-of-both-worlds license functionality for upstarts using open source projects as loss leaders to proprietary service offerings:
 
-- a passport to broad corporate adoption, the established business benefit of a permissive terms
+- a passport to broad corporate adoption, the established business benefit of permissive terms
 
 - a competitor-excluding "free for free software" rule, the competitive upstart benefit of strong copyleft
 
