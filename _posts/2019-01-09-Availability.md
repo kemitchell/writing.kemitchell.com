@@ -1,6 +1,6 @@
 ---
 title: Availability Dashboard
-description: professional available now online
+description: professional availability now online
 layout: post
 ---
 
