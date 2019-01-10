@@ -1,6 +1,6 @@
 ---
 title: Availability Dashboard
-description: site describing how I work with clients
+description: professional available now online
 layout: post
 ---
 
