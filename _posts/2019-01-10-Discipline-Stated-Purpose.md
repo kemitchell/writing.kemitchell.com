@@ -1,6 +1,6 @@
 ---
 title: The Discipline of Stated Purpose
-description: write out the purpose of legal terms in contracts
+description: write out the purposes of legal terms in contracts
 layout: post
 tags:
 - Drafting
