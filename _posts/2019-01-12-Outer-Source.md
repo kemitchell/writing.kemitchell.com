@@ -9,7 +9,7 @@ tags:
 - Software Freedom
 ---
 
-Open Source suggests that we can separate Free Software method and Free Software quality from Free Software ethos, by leading with method and quality, and going light on ethos in its pitch.  That suggestion contradicts Free Software's thesis that method and quality flow out of the shared community ethos.  And putting ethos last, rather than first, disaffirms Free Software's ethical emphasis.  So Open Source threatens Free Software rhetorically, and tells us so.
+Open Source suggests that we can separate Free Software method and Free Software quality from Free Software ethos, by leading with method and quality, and going light on ethos in its pitch.  That suggestion contradicts Free Software's thesis that method and quality flow out of the shared community ethos, and that ethos comes first, anyway.  So Open Source threatens Free Software rhetorically.  And tells us so.
 
 Inner Source delivers on that threat.  Inner Source means transposing Free Software method into closed environments to produce closed software of high quality.  That transposition rejects the Free Software thesis that Free Software quality flows from Free Software ethos.  It shows Free Software methods in action without Free Software ethos.  Moreover, the "Inner" in "Inner Source" bespeaks a closed environment, a barrier between "Inner" and "Outer", impermeable to Software Freedom and unpierced by copyleft.  Inner Source frees those within, and subjugates those without.  It tramples the notion that all software should be Free, by definition.
 
