@@ -1,6 +1,6 @@
 ---
 title: Outer Source
-description: open software by closed method
+description: open software by closed methods
 layout: post
 keywords:
 - Open Source
@@ -28,7 +28,7 @@ Symptomatically, lasting attempts to demarcate Free Software and Open Source foc
 
 Every developer harbors process preferences.  Some development methodologies surpass language communities in tribalism.  But no self-identifying movement could coalesce by inviting development creeds to clash.  Only by reducing the scope of agreement to the lower common denominator---source availability and license terms---could anyone lay a broad enough base to claim consensus.
 
-Commentators still delight in the novelty Linux' anarchic, piecepart, Brownian motion mode of evolution.  Contrast with waterfall-model planning and Microsoft's Windows made for high drama, as drama about software methodology goes.  Naturally, the anti-establishment narrative elided a great many uninteresting facts.  Facts, for example, about the solitary origins of many components of modular projects, like the GNU core.  Facts about the development of banner Free Software projects by corporations, largely along "traditional" industry development lines, before widespread Internet penetration and process standardization.  Substantial parts of the Free Software bequest have always come about like non-Free Software programs before them.
+Commentators still delight in Linux' anarchic, piecepart, Brownian motion mode of evolution.  Contrast with waterfall-model planning and Microsoft's Windows made for high drama, as drama about software methodology goes.  Naturally, the anti-establishment narrative elided a great many uninteresting facts.  Facts, for example, about the lone-hacker origins of many components of distributed projects, like the GNU core.  Facts about the development of banner Free Software projects by corporations, largely along "traditional" industry development lines, before widespread Internet penetration and process standardization on services like Freshmeat, SourceForge, and now GitHub.  Substantial parts of the Free Software bequest have always come about as non-Free Software did before them.
 
 We see Outer Source reasserting itself mostly in quiet corners.  My favorite example [comes from SQLite](https://www.sqlite.org/copyright.html#notopencontrib):
 
@@ -38,9 +38,11 @@ We see Outer Source reasserting itself mostly in quiet corners.  My favorite exa
 >
 > All of the code in SQLite is original, having been written specifically for use by SQLite.  No code has been copied from unknown sources on the internet.
 
-The exception is licenses.  Many companies give away software developed primarily in-house: because they hire developers and put them to work on the project, because they habitually hire outside developers who express interest, or both.  When those companies propose new licenses, usually strong copyleft licenses, to protect themselves strategically and financially, they face several classes of criticism.
+The exception is licenses, which always bring a storm.  Many companies give away software developed primarily in-house: because they hire developers and put them to work on the project, because they habitually hire any outside developers who demonstrate interest, or both.  When those companies propose new licenses, usually strong copyleft licenses, to protect themselves strategically and financially, they face several classes of criticism.
 
 I [recently described](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html) one such class of criticism.  Software Freedom activists, prioritizing ethos, criticize new strong-copyleft licenses that they see as overreaching, such as by requiring contribution of private changes.  They criticize strong-copyleft licenses that apply copyleft's requirements selectively, allowing specific uses that deprive users downstream of Software Freedom.
+
+It's easy to recriminate, emphasize that Software Freedom won't survive without allies, and blame the Free Software Foundation for failing to maintain strong-copyleft licenses with strong dual-use potential for corporate use.  But the better, constructive approach emphasizes the opportunity to do so together.  The FSF facilitated AGPLv3 for a company, and [it was a company, not the FSF, that took the new license through Open Source Initiative approval](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2008-January/000058.html).  Software Freedom ethos and company interest won't align, philosophically.  But sharing licenses brings Software Freedom the benefit of company resources, and companies the benefit of activists' community support.  When that coalition breaks down, both activists and companies find themselves beset on both sides by BSD school hackers and incumbent firms, united as ever in displeasure with copyleft.
 
 Outer Source developers also face criticism from process partisans.  New licenses from Outer Source companies facilitate, and therefore threaten to promote, Outer Source development methods, at the expense of "community-driven development" mindshare.  For example, [strong-copyleft licenses that facilitate dual-licensing business models](https://github.com/licensezero/parity-public-license) catch heat, not just from those who dislike copyleft in general, but from those who [criticize contributor license agreements](https://writing.kemitchell.com/2018/01/06/CLAs-Are-Not-a-Sham.html) and other policies that place the steward company in a privileged position, even if the only effective privilege is [selling copyleft exceptions](https://www.fsf.org/blogs/rms/selling-exceptions) and [maintaining closed forks, extensions, applications, and services](https://www.mongodb.com/cloud/atlas).
 
