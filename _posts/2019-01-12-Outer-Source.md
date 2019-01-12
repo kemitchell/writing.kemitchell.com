@@ -2,10 +2,11 @@
 title: Outer Source
 description: open software by closed methods
 layout: post
-keywords:
+tags:
+- Copyleft
+- Development Methodology
 - Open Source
 - Software Freedom
-- Copyleft
 ---
 
 Open Source suggests that we can separate Free Software method and Free Software quality from Free Software ethos, by leading with method and quality, and going light on ethos in its pitch.  That suggestion contradicts Free Software's thesis that method and quality flow out of the shared community ethos.  And putting ethos last, rather than first, disaffirms Free Software's ethical emphasis.  So Open Source threatens Free Software rhetorically, and tells us so.
