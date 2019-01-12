@@ -57,7 +57,7 @@ Rich Hickey's best-known project, the Clojure programming language, [requires a 
 
 Opinions always vary.  I've heard Clojure held out as a paragon of design and quality as often as any other active project.  Clojure needn't apologize for its product, or for its process.  Which I take as the larger point of Rich's piece.
 
-I have my own opinions on process.  I have my own taste in software design.  But my role as lawyer exposes me to far more projects than I could ever contribute to by coding.  As I constantly remind myself, no one sees the whole free/open software community.  But I have seen enough to [appreciate its diversity](https://writing.kemitchell.com/2016/05/13/What-Open-Source-Means.html), and expect an exception to every tempting rule.  When it comes to my clients, I don't judge, constrain, or prescribe.  I listen, accommodate, and advise.
+I have my own opinions on process.  I have my own taste in software design.  But my role as lawyer exposes me to far more projects than I could ever contribute to by coding.  As I constantly remind myself, no one sees the whole of free or open software.  But I have seen enough to [appreciate its diversity](https://writing.kemitchell.com/2016/05/13/What-Open-Source-Means.html), and expect an exception to every tempting rule.  When it comes to my clients, I don't judge, constrain, or prescribe.  I listen, accommodate, and advise.
 
 Outer Source has nothing to be ashamed of, and more to be proud of than recognition shows.  Its methods can and do produce quality software.  Generous public licenses apply to that software, as well as to any other.  Among those licenses, some happen to protect both team within and Software Freedom without.
 
