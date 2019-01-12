@@ -22,11 +22,11 @@ There are no perfect legal terms.  The best legal language always fails to diffu
 
 Purpose statements in the four corners help courts when language fails.  Without purpose statements, courts have to work backwards from terms to purpose, or even worse, apply totally generic rules of construction.
 
-Purpose statements give clients faith.  Some clients will read every word you write for them.  It's nice to be noticed, but that's a redundant waste of time.  Attention spent seeing and feeling one's purpose expressed by one's lawyer in concrete terms, on the other hand, builds confidence in lawyer and contract.  Confidence makes further redundant waste unnecessary.
+Purpose statements give clients faith.  Some clients will read every word you write for them.  It's nice to be noticed, but that's a waste of time.  Attention spent seeing and feeling one's purpose expressed by one's lawyer in concrete terms, on the other hand, builds confidence in lawyer and contract.  Confidence makes further waste unnecessary.
 
 Purpose statements help you.  Write a purpose statement, then write terms achieving that purpose.  Switch back and forth between them, comparing, until your draft settles out.  When the purpose statement achieves everything the terms do, in plainer language, replace the terms with the purpose statement.  Your draft gains clarity.
 
-The discipline of stated purpose has helped my drafting many times, because I continue to practice it.  Writing out purpose can serve as a mere exercise, attempted once to experiment or prove a point.  But stated purpose is far more effective as repeated as part of everyday work process.  As a discipline, a check, a method.
+The discipline of stated purpose has helped my drafting many times, because I continue to practice it.  Writing out purpose can serve as a mere exercise, attempted once to experiment or prove a point.  But stated purpose is far more effective as a repeated part of everyday work process.  As a discipline, a check, a method.
 
 For example, in writing public licenses for software, I've been asked to write terms that assure licensees that they won't be sued under intellectual property law for using the licensed software.  Traditionally, intellectual property lawyers fulfill that purpose by writing copyright license grants that list out all the exclusive rights of copyright holders and patent licenses that list all the means of infringing a patent.
 
