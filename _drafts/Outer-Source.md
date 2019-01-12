@@ -51,3 +51,7 @@ The strong retort to process-based criticism emphasizes the common-denominator n
 > Open source is a licensing and delivery mechanism, period.  It means you get the source for software and the right to use and modify it.  All social impositions associated with it, including the idea of 'community-driven-development' are part of a recently-invented mythology with little basis in how things actually work, a mythology that embodies, cult-like, both a lack of support for diversity in the ways things can work and a pervasive sense of communal entitlement.
 
 Rich Hickey's best-known project, the Clojure programming language, [requires contributors to sign a contributor license agreement, based on Oracle's form, but centralizing license rights in Rich personally, instead of a corporation](https://clojure.org/community/contributing).  Clojure receives outside contributors, but Rich's company, Cognitect, pays those who do the greater share.  Opinions always vary.  But by the straw poll of my own experience, I've heard Clojure held out as a paragon of design and quality as often as any other modern, active project.  It needn't apologize for its process.  Which I take as the larger point of Rich's piece.
+
+To the more general point: Outer Source has nothing to be ashamed of.  Its methods can and do produce quality software.  Generous public licenses can and do apply to that software, as well as to any other.  Among those licenses, some happen to protect both the team and Software Freedom.
+
+Let there be Outer Source.
