@@ -4,7 +4,7 @@ description: open software by closed methods
 layout: post
 keywords:
 - Open Source
-- Software Freedoom
+- Software Freedom
 - Copyleft
 ---
 
@@ -14,7 +14,7 @@ Inner Source delivers on that threat.  Inner Source means transposing Free Softw
 
 Merely suggesting the separability of method, quality, and ethos that Inner Source stands for allows Open Source proponents to claim that Open Source and Free Software mean the same thing.  They describe Open Source as a mere rebranding of Free Software, a marketing reboot.  They hold out hope that exposure to Free Software method and Free Software quality will guide newcomers back to the underlying ethos, without loud preaching.
 
-Inner Source contradicts that theory of Software Freedom ministry.  If Free Software method in a closed environment can produce Free Software quality on its own, even if only to a lesser extent than in open community, then Free Software ethos loses any essential part to play when quality drives decisionmaking.  The leap from conviction in software quality to conviction in Free Software ethos can happen only spontaneously, by reading the right sermons to those already predisposed to conversion.
+Inner Source contradicts that theory of Software Freedom ministry.  If Free Software method in a closed environment can produce Free Software quality on its own, even if only to a lesser extent than in open community, then Free Software ethos loses any essential part to play when quality drives decision-making.  The leap from conviction in software quality to conviction in Free Software ethos can happen only spontaneously, by reading the right sermons to those already predisposed to conversion.
 
 Even Software Freedom activists embrace this approach.  Most notably, the Free Software Foundation maintains developer tools as useful to non-Free Software developers as Free Software developers.  Software Freedom activists compromise their principles, and [make exceptions](https://www.gnu.org/software/classpath/license.html) to their [own licenses](https://www.gnu.org/licenses/gcc-exception-3.1-faq.en.html), allowing use of these tools to build non-Free Software, to preserve the projects as soap boxes.  In doing so, Free Software activists themselves lead with method and quality, instead of ethos, and suggest the same challenge to their own core thesis that Open Source does.
 
@@ -28,7 +28,7 @@ Symptomatically, lasting attempts to demarcate Free Software and Open Source foc
 
 Every developer hold process opinions.  Some development methodologies surpass language communities in their tribalism.  But no self-identifying movement could coalesce by inviting development creeds to clash for title of the One True Methodology.  Only by reducing the scope of agreement to a low, common denominator---source availability and license terms---could anyone claim anything like consensus.
 
-Commentators still delight in Linux' anarchic, piecepart, Brownian motion mode of evolution.  Contrast with waterfall-model planning and Microsoft's Windows makes high drama, as drama about software goes.  Naturally, the anti-establishment narrative elided a great many uninteresting facts.  Facts, for example, about the lone-hacker origins of many components of distributed projects, like the GNU core.  Facts about the development of banner Free Software projects by corporate teams, largely along "traditional" industry development lines, before widespread Internet penetration and process standardization on services like Freshmeat, SourceForge, and now GitHub.  Substantial parts of the Free Software bequest have always come about as non-Free Software did before them.
+Commentators still delight in Linux' anarchic, piece-part, Brownian motion mode of evolution.  Contrast with waterfall-model planning and Microsoft's Windows makes high drama, as drama about software goes.  Naturally, the anti-establishment narrative elided a great many uninteresting facts.  Facts, for example, about the lone-hacker origins of many components of distributed projects, like the GNU core.  Facts about the development of banner Free Software projects by corporate teams, largely along "traditional" industry development lines, before widespread Internet penetration and process standardization on services like Freshmeat, SourceForge, and now GitHub.  Substantial parts of the Free Software bequest have always come about as non-Free Software did before them.
 
 We see Outer Source reasserting itself mostly in quiet corners.  My favorite example [comes from SQLite](https://www.sqlite.org/copyright.html#notopencontrib):
 
