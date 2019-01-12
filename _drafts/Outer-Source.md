@@ -1,14 +1,12 @@
 ---
 title: Outer Source
-description:
+description: open software by closed method
 layout: post
 keywords:
 - Open Source
 - Software Freedoom
 - Copyleft
 ---
-
-Software Freedom activists condemn Open Source for stripping Free Software of its ethos, and for breaking promises of practical benefits, without that ethos behind them.
 
 Open Source suggests that we can separate Free Software method and Free Software quality from Free Software ethos, by leading with method and quality, and going light on ethos in its pitch.  That suggestion contradicts Free Software's thesis that method and quality flow out of shared ethos.  Putting ethos last, rather than first, disaffirms Free Software's ethical emphasis.  So Open Source threatens Free Software, and tells us so.
 
@@ -31,3 +29,23 @@ Symptomatically, lasting attempts to demarcate Free Software and Open Source foc
 Every developer harbors process preferences.  Some development methodologies surpass language communities in tribalism.  But no self-identifying movement could coalesce by inviting development creeds to clash.  Only by reducing the scope of agreement to the lower common denominator---source availability and license terms---could anyone lay a broad enough base to claim consensus.
 
 Commentators still delight in the novelty Linux' anarchic, piecepart, Brownian motion mode of evolution.  Contrast with waterfall-model planning and Microsoft's Windows made for high drama, as drama about software methodology goes.  Naturally, the anti-establishment narrative elided a great many uninteresting facts.  Facts, for example, about the solitary origins of many components of modular projects, like the GNU core.  Facts about the development of banner Free Software projects by corporations, largely along "traditional" industry development lines, before widespread Internet penetration and process standardization.  Substantial parts of the Free Software bequest have always come about like non-Free Software programs before them.
+
+We see Outer Source reasserting itself mostly in quiet corners.  My favorite example [comes from SQLite](https://www.sqlite.org/copyright.html#notopencontrib):
+
+> ## Open-Source, not Open-Contribution
+>
+> SQLite is open-source, meaning that you can make as many copies of it as you want and do whatever you want with those copies, without limitation.  But SQLite is not open-contribution.  In order to keep SQLite in the public domain and ensure that the code does not become contaminated with proprietary or licensed content, the project does not accept patches from unknown persons.
+>
+> All of the code in SQLite is original, having been written specifically for use by SQLite.  No code has been copied from unknown sources on the internet.
+
+The exception is licenses.  Many companies give away software developed primarily in-house: because they hire developers and put them to work on the project, because they habitually hire outside developers who express interest, or both.  When those companies propose new licenses, usually strong copyleft licenses, to protect themselves strategically and financially, they face several classes of criticism.
+
+I [recently described](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html) one such class of criticism.  Software Freedom activists, prioritizing ethos, criticize new strong-copyleft licenses that they see as overreaching, such as by requiring contribution of private changes.  They criticize strong-copyleft licenses that apply copyleft's requirements selectively, allowing specific uses that deprive users downstream of Software Freedom.
+
+Outer Source developers also face criticism from process partisans.  New licenses from Outer Source companies facilitate, and therefore threaten to promote, Outer Source development methods, at the expense of "community-driven development" mindshare.  For example, [strong-copyleft licenses that facilitate dual-licensing business models](https://github.com/licensezero/parity-public-license) catch heat, not just from those who dislike copyleft in general, but from those who [criticize contributor license agreements](https://writing.kemitchell.com/2018/01/06/CLAs-Are-Not-a-Sham.html) and other policies that place the steward company in a privileged position, even if the only effective privilege is [selling copyleft exceptions](https://www.fsf.org/blogs/rms/selling-exceptions) and [maintaining closed forks, extensions, applications, and services](https://www.mongodb.com/cloud/atlas).
+
+The strong retort to process-based criticism emphasizes the common-denominator natures of Free Software and Open Source, and the history of latent diversity in its development methods.  As Rich Hickey [put it most cogently](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9), late last year:
+
+> Open source is a licensing and delivery mechanism, period.  It means you get the source for software and the right to use and modify it.  All social impositions associated with it, including the idea of 'community-driven-development' are part of a recently-invented mythology with little basis in how things actually work, a mythology that embodies, cult-like, both a lack of support for diversity in the ways things can work and a pervasive sense of communal entitlement.
+
+Rich Hickey's best-known project, the Clojure programming language, [requires contributors to sign a contributor license agreement, based on Oracle's form, but centralizing license rights in Rich personally, instead of a corporation](https://clojure.org/community/contributing).  Clojure receives outside contributors, but Rich's company, Cognitect, pays those who do the greater share.  Opinions always vary.  But by the straw poll of my own experience, I've heard Clojure held out as a paragon of design and quality as often as any other modern, active project.  It needn't apologize for its process.  Which I take as the larger point of Rich's piece.
