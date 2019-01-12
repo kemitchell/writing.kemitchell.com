@@ -1,6 +1,6 @@
 ---
 title: Does Not Compute
-layout:post
+layout: post
 ---
 
 I read RedMonk's blog, and it's worth reading.  Stephen O'Grady's [_The Cyclical Theory of Open Source_](https://redmonk.com/sogrady/2018/12/21/cycles-oss/) is worth reading.  But not because Stephen is right.  Rather, Stephen's thoughtful analysis exemplifies, better than any piece I've seen, how an old school of thought, characteristics of many early open source advocates turned consultants, hits a wall with the new licensing experiments.
@@ -15,7 +15,7 @@ What is going on?
 
 ## Open Source is Not the Public Interest
 
-The free software movement, and in particular its renegade "open source" marketing fraction, won in the sense of "open source won" by serving private interests, not the public interest.  Software developers releasing source code under generous public license have assuredly served both.  But the widespread adoption and production of open source tracks increasing recognition of open source's value to industry, not 
+The free software movement, and in particular its renegade "open source" marketing fraction, won in the sense of "open source won" by serving private interests, not the public interest.  Software developers releasing source code under generous public license have assuredly served both.  But the widespread adoption and production of open source tracks increasing recognition of open source's value to industry, not
 
 or delivery of value direct to common causes.
 
