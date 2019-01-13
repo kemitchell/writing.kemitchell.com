@@ -2,7 +2,7 @@
 title: Shared Component License
 description: first shot at a short, plain license in the vein of Mongo's SSPL
 layout: post
-keys:
+tags:
 - Copyleft
 - Licensing
 - Open Source
