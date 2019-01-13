@@ -9,11 +9,11 @@ keys:
 - SSPL
 ---
 
-Those following the public back-and-forth on MongoDB's new [Service Side Public License](https://www.mongodb.com/licensing/server-side-public-license) will have noticed that I think SSPL is open source, but not well written.  The decision to [patch AGPLv3](https://webassets.mongodb.com/_com_assets/legal/SSPL-compared-to-AGPL.pdf) made good drafting impossible.  I should know.  I made the same mistake with [my own strong-copyleft license](https://licensezero.com/licenses/parity).  Starting from BSD was bad enough to induce a rewrite from scratch.  AGPLv3 is magnitudes worse, in ways glaring and subtle.  Case in point: SSPL's most important section is buried 4,100 words and 12 sections down.
+Those following the public back-and-forth on MongoDB's new [Service Side Public License](https://www.mongodb.com/licensing/server-side-public-license) will have noticed that I think SSPL is open source, but not well crafted.  The choice to [patch AGPLv3](https://webassets.mongodb.com/_com_assets/legal/SSPL-compared-to-AGPL.pdf) made everything hard.  I should know.  I made the same mistake with [my own strong-copyleft license](https://licensezero.com/licenses/parity).  Starting from BSD was bad enough to induce a rewrite from scratch.  AGPLv3 is magnitudes worse, in ways glaring and subtle.  Case in point: SSPL's most important section is buried 4,100 words and 12 sections down.
 
 The licensing project SSPL represents matters.  The best criticism comes in-kind.  So that's the kind of criticism SSPL deserves.  I've been laid up for weeks with an injury, and found myself with the time.
 
-Follows now a first draft of a plain language license inspired by SSPL.  This has _not_ been shopped with other lawyers to date, and is not ready for use.  I'm looking forward to reviewing, discussing, and refining [on GitHub](https://github.com/kemitchell/service-component-license).  If you're interested, watch the repository.
+Follows now a first draft of a plain language license inspired by SSPL.  This has _not_ been shopped with other lawyers to date, and is not ready for use.  I'm looking forward to reviewing, discussing, and refining [on GitHub](https://github.com/kemitchell/service-component-license).  If you're interested, watch the repository or [drop me a line](mailto:kyle@kemitchell.com).
 
 > # Shared Component License
 >
@@ -91,15 +91,17 @@ Unlike SSPL, the draft uses different rules to draw the boundary between changes
 
 Like SSPL, the draft follows network-copyleft licenses in triggering copyleft without distribution, and reciprocal licenses in requiring publication, rather than in-band distribution, of source.  SSPL has to trigger that way for service superstructure, since service superstructure code isn't distributed to service users.   But SSPL keeps GPL-style copyleft for changes and additions.  Using the same distribution requirement for all kinds of code in the scope of copyleft brings the draft closer to [RPL](https://opensource.org/licenses/RPL-1.5).  The draft is [an actual patches-back license](https://writing.kemitchell.com/2018/08/28/Unhappy-Coincidences.html#software-freedom-doesnt-mean-patches-back), not a patches-forward license that only incidentally empowers users to send code back.
 
-Unlike SSPL, the draft generalizes from service programs to all programs, by drawing the line using an abstraction: interfaces to functionality.  Within the draft, "interfaces" means not just APIs, but CLIs, RPCs, IPCs, or similar mechanisms.  The line between code extending the licensed software that must be contributed back---"changes" and "additions"---and code that need not be---"applications"---is whether the other software merely uses the licensed software through the interfaces it exposes.
+Unlike SSPL, the draft generalizes from service programs to all programs, by drawing the line using an abstraction: interfaces to functionality.  Within the draft, "interfaces" means not just APIs, but CLIs, RPCs, IPCs, or similar mechanisms.  The line between code extending the licensed software that must be contributed back---change or addition---and code that need not---application---is whether the other software merely uses the licensed software through the interfaces it exposes.
 
-Unlike SSPL, this draft gives users the option to license the code contributed back under permissive terms.  SSPLv2 added some of this flexibility for code within its sweep that the licensee lacks the right to license otherwise.  The draft always leaves the option open.
+Unlike SSPL, the draft gives users the option to license the code contributed back under permissive terms.  SSPLv2 added some of this flexibility for code within its sweep that the licensee lacks the rights to relicense.  Under the draft, permissive is always an option.
 
-Of course, this comparison is hardly complete.
+Like SSPL, which inherited from AGPL, the draft include an automatic-forgiveness provisions for unknowing violations of license rules.  SSPL uses a more formal notice protocol.  This draft follows Parity in turning on knowledge, which notice of a violation can induce.
 
-The key issues in mind, going forward:
+Of course, these are hardly all the similarities and differences.  But at less than 550 words, it's quick enough to read the whole license.
 
-1. What parts of the draft won't be clear to developers?  Any confusing parts?
+The key issues in my mind, going forward:
+
+1. What parts won't be clear to developers?  Any confusing parts?
 2. Can we improve the boundary between changes and additions, on the one hand, and applications, on the other?
 3. Can we improve the boundary between applications and superstructure?
 4. Can we find a better term than "superstructure"?
