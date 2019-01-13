@@ -35,7 +35,7 @@ Follows now a first draft of a plain language license inspired by SSPL.  This ha
 >
 > ## Copyright
 >
-> The developer licenses you to do everything with this software that would otherwise infringe copyrights in this software that the developer can license.
+> The developer licenses you to do everything with this software that would otherwise infringe copyrights in this software they can license.
 >
 > ## Patent
 >
