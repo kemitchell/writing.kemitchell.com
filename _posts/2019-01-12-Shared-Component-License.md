@@ -49,6 +49,14 @@ Follows now a first draft of a plain language license inspired by SSPL.  This ha
 >
 > You must ensure that everyone who gets a copy of any part of this software from you, in source code or any other form, with or without changes, also gets the text of this license, including its developer and homepage lines.
 >
+> ## Contribution
+>
+> When this license requires you to contribute software:
+>
+> 1.  Publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the developer and others can find and copy it.
+>
+> 2.  License that software under the terms of this license, so the developer and others may work with that software.  Alternatively, you may license that software on other terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability).  Your other terms may, but need not, include a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms.  For example, you may license under the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
+>
 > ## Changes
 >
 > Contribute changes to files containing this software.
@@ -68,14 +76,6 @@ Follows now a first draft of a plain language license inspired by SSPL.  This ha
 > ## Interfaces
 >
 > Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality.  For example, command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
->
-> ## Contribution
->
-> When this license requires you to contribute software:
->
-> 1.  Publish all source code for that software, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, so the developer and others can find and copy it.
->
-> 2.  License that software under the terms of this license, so the developer and others may work with that software.  Alternatively, you may license that software on other terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability).  Your other terms may, but need not, include a rule like [Notices](#notices), a disclaimer like [Disclaimer](#disclaimer), or both, but no other terms.  For example, you may license under the [BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
 >
 > ## Excuse
 >
