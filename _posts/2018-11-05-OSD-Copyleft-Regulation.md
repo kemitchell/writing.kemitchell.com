@@ -51,7 +51,7 @@ The plan:
 
 Three Open Source Definition criteria---[3 (Derived Works)](#allow-the-same-terms-for-derived-works), [8 (License Must Not Be Specific to a Product)](#no-product-specific-licensing), and [10 (License Must be Technology-Neutral)](#technology-neutrality)---clearly regulate copyleft design choices.  Starting with those rules will give us a sense of the clarity missing elsewhere.
 
-### Allow the Same Terms for Derived Works
+### <a href="#osd3" id="osd3">Allow the Same Terms for Derived Works</a>
 
 Criterion 3 of the Definition was brought over from the Debian Free Software Guidelines without change:
 
@@ -71,7 +71,7 @@ Third, the Open Source Initiative has approved licenses that permit different te
 
 As a final note, the term "derived works" is close to, but not exactly, a relevant term of US copyright law.  The legal term is "derivative work".  Of all the non-legal usages in the Definition, which does not read like the work of an American copyright lawyer, "derived work" feels the most like a legal allusion.  But the difference shores up an interpretation that "derived work" goes beyond copyright derivative works, when copyleft reach does.  We could read criterion 3 to regulate licensing rules for _all_ work within copyleft reach.
 
-### No Product-Specific Licensing
+### <a href="#osd8" id="osd8">No Product-Specific Licensing</a>
 
 Criterion 8 of the Debian Free Software Guidelines had to be generalized for the Open Source Definition:
 
@@ -81,7 +81,7 @@ If we read "software distribution" and "product" to cover not just distributions
 
 Criterion 8 could also function as a regulation of copyleft reach, insofar as a copyleft rule does not set rules for licensing code that does or doesn't remain part of the original distribution.
 
-### Technology Neutrality
+### <a href="#osd10" id="osd10">Technology Neutrality</a>
 
 Open Source Definition criterion 10 was not part of the Debian Free Software Guidelines, which sports an "Example Licenses" section as number 10, instead.  Here is the new text, peculiar to the Open Source Definition:
 
@@ -171,7 +171,7 @@ That is discrimination.  We might also call it reciprocity, fair play, or the go
 
 Evidently not the _kind_ of discrimination the Definition prohibits.  The Open Source Initiative has approved all of the major licenses drafted by the Free Software Foundation, which Stallman founded.  [A Debian's FAQ](https://people.debian.org/~bap/dfsg-faq.html#discrimination) points out specifically that the antidiscrimination criteria don't prohibit copyleft.
 
-### Field of Endeavor Discrimination
+### <a href="#osd6" id="osd6">Field of Endeavor Discrimination</a>
 
 Criterion 6 of the Open Source Definition reads:
 
@@ -261,7 +261,7 @@ Some firms do business in software development primarily.  Many of those develop
 
 Excluding closed software development doesn't mean locking "specific field of endeavor" down to just business or genetic research.  We could extrapolate to other fields that offer a choice of open or closed, such as hyrdraulic fracturing, environmental protection, alcoholic beverages, addition recovery, nuclear weapons, disarmament activism, the practice of law, and so on.
 
-### Person and Group Discrimination
+### <a href="#osd5" id="osd5">Person and Group Discrimination</a>
 
 Open Source Definition criterion 5 reads:
 
@@ -291,7 +291,7 @@ Approved "weak copyleft" licenses that only reach changes to the licensed softwa
 
 These approvals apply rules about selectivity in various copyleft terms that aren't at all clear from the text of criteria 5 and 6.
 
-## Contamination
+## <a href="#osd9" id="osd9">Contamination</a>
 
 Open Source Definition criterion 9 involved a slight heading change:
 
