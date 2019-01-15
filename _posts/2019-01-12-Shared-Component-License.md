@@ -13,7 +13,7 @@ Those following the public back-and-forth on MongoDB's new [Service Side Public 
 
 The licensing project SSPL represents matters.  The best criticism comes in-kind.  So that's the kind of criticism SSPL deserves.  I've been laid up for weeks with an injury, and found myself with the time.
 
-Follows now a first draft of a plain language license inspired by SSPL.  This has _not_ been shopped with other lawyers to date, and is not ready for use.  I'm looking forward to reviewing, discussing, and refining [on GitHub](https://github.com/kemitchell/service-component-license).  If you're interested, watch the repository or [drop me a line](mailto:kyle@kemitchell.com).
+Follows now a first draft of a plain language license inspired by SSPL.  This has _not_ been shopped with other lawyers to date, and is not ready for use.  I'm looking forward to reviewing, discussing, and refining [on GitHub](https://github.com/kemitchell/shared-component-license).  If you're interested, watch the repository or [drop me a line](mailto:kyle@kemitchell.com).
 
 > # Shared Component License
 >
@@ -106,4 +106,4 @@ The key issues in my mind, going forward:
 3. Can we improve the boundary between applications and superstructure?
 4. Can we find a better term than "superstructure"?
 
-[Open an issue on GitHub](https://github.com/kemitchell/service-component-license/issues/new) or [drop me an e-mail](mailto:kyle@kemitchell.com) anytime.
+[Open an issue on GitHub](https://github.com/kemitchell/shared-component-license/issues/new) or [drop me an e-mail](mailto:kyle@kemitchell.com) anytime.
