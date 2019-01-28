@@ -402,9 +402,9 @@ almost do or just plain don't:
   redundant of "sublicense".  It's also unnecessary to the extent
   folks who get copies also get a direct license.
 
-[35 USC 271]: https://www.gpo.gov/fdsys/pkg/USCODE-2015-title35/pdf/USCODE-2015-title35-partIII-chap28-sec271.pdf
+[35 USC 271]: https://www.govinfo.gov/app/details/USCODE-2017-title35/USCODE-2017-title35-partIII-chap28-sec271
 
-[17 USC 106]: https://www.gpo.gov/fdsys/pkg/USCODE-2015-title35/pdf/USCODE-2015-title35-partIII-chap28-sec271.pdf
+[17 USC 106]: https://www.govinfo.gov/app/details/USCODE-2017-title17/USCODE-2015-title17-chap1-sec106
 
 Lastly, as a result of this mishmash of legal, industry,
 general-intellectual-property, and general-use terms, it isn't clear
