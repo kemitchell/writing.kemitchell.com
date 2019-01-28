@@ -42,9 +42,9 @@ And a license grant like this:
 
 > Licensor grants you a license to reproduce, prepare derivative works of, publicly display, publicly perform, ... the software.
 
-What was gained from listing out all the exclusive rights of copyright holders?  Nothing.  What would be gained by referencing 35 USC 106, or the Copyright Act as a whole?  Nothing.
+What was gained from listing out all the exclusive rights of copyright holders?  Nothing.  What would be gained by referencing 17 USC 106, or the Copyright Act as a whole?  Nothing.
 
-Clients don't know what the exclusive rights of copyright holders are.  They don't know they appear in the Copyright Act or Title 35 of the United States Code.  They wouldn't know if my list of rights matches the list in the Act, made up new rights, or omitted crucial others.  But none of that's needed or helpful.  Not for the client.  Not for the counterparty.  Not for me, or my counterpart, or a hypothetical judge.
+Clients don't know what the exclusive rights of copyright holders are.  They don't know they appear in the Copyright Act or Title 17 of the United States Code.  They wouldn't know if my list of rights matches the list in the Act, made up new rights, or omitted crucial others.  But none of that's needed or helpful.  Not for the client.  Not for the counterparty.  Not for me, or my counterpart, or a hypothetical judge.
 
 I replaced the license grant with something like:
 
