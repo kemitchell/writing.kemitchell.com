@@ -70,7 +70,7 @@ How do we distinguish applications from extensions?  Extensions go beyond access
 
 The interface-functionality concept is a kind of pun.  It just so happens that we can draw both extension-application and application-wrapper lines with it.  Coincidentally, that seems to achieve the goals of the license very nicely.
 
-The inimitable Jeff Atwood caught onto this pretty much immediately, and responded to my pleas for help renaming the form, in [these](https://twitter.com/codinghorror/status/1090126535590170624) [tweets](https://twitter.com/codinghorror/status/1090129373733171200):
+The inimitable [Jeff Atwood](https://blog.codinghorror.com/) caught onto this pretty much immediately, and responded to my pleas for help renaming the form, in [these](https://twitter.com/codinghorror/status/1090126535590170624) [tweets](https://twitter.com/codinghorror/status/1090129373733171200):
 
 > The tell is that you keep using the word API to describe it.  That needs to be in the name.
 
