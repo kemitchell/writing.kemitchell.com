@@ -2,6 +2,11 @@
 title: API Copyleft
 description: functionality, interfaces, and line drawing in a new copyleft paradigm
 layout: post
+tags:
+- Copyleft
+- Licensing
+- Open Source
+- SSPL
 ---
 
 I've been part of a group writing [a new open source license that's copyleft for patches, additions, and wrappers, but permissive for applications that just use through the API](https://github.com/kemitchell/shared-component-license/blob/master/license.md).  A kind of plain-language [Server Side Public License](https://www.mongodb.com/licensing/server-side-public-license).  The inimitable [Luis Villa](https://lu.is/) really got me thinking with [this tweet](https://twitter.com/luis_in_brief/status/1088250694010695680):
