@@ -8,6 +8,8 @@ tags:
 - Software
 ---
 
+_Update:  Thanks to some great feedback, this license form has evolved considerably.  See [the latest draft on commonform.org](https://commonform.org/kemitchell/proprietary-software-license/latest) for the most recent text._
+
 I'm working on a short, minimal, but adaptable paid software license.  I'd be grateful for feedback from colleagues and _especially_ non-lawyer programmers and business people.
 
 You can [make comments on this Google Doc](https://docs.google.com/document/d/1rgmbrS92_mGmMg8kuL9uWThtLtH99k13qkqPOaDx6jc/edit?usp=sharing).
