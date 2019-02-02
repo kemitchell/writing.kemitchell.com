@@ -9,23 +9,7 @@ tags:
 - Software Freedom
 ---
 
-```
-                          open
-                       distribution
-                            │
-                            │
-                 Open       │   Outer
-                 Source     │   Source
-                            │
-       open ────────────────┼──────────────── closed
-development                 │                 development
-                 Inner      │   Closed
-                 Source     │   Source
-                            │
-                            │
-                          closed
-                       distribution
-```
+![Diagram]({{ site.url }}/images/outer-source.svg)
 
 Open Source suggests that we can separate Free Software method and Free Software quality from Free Software ethos, by leading with method and quality, and going light on ethos in its pitch.  That suggestion contradicts Free Software's thesis that method and quality flow out of the shared community ethos, and that ethos comes first, anyway.  So Open Source threatens Free Software rhetorically.  And [tells](https://www.gnu.org/philosophy/open-source-misses-the-point.html) [us](https://www.gnu.org/philosophy/when_free_software_isnt_practically_better.html) [so](https://www.gnu.org/philosophy/free-software-for-freedom.en.html).
 
