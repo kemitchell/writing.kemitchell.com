@@ -9,6 +9,24 @@ tags:
 - Software Freedom
 ---
 
+```
+                          open
+                       distribution
+                            │
+                            │
+                 Open       │   Outer
+                 Source     │   Source
+                            │
+       open ────────────────┼──────────────── closed
+development                 │                 development
+                 Inner      │   Closed
+                 Source     │   Source
+                            │
+                            │
+                          closed
+                       distribution
+```
+
 Open Source suggests that we can separate Free Software method and Free Software quality from Free Software ethos, by leading with method and quality, and going light on ethos in its pitch.  That suggestion contradicts Free Software's thesis that method and quality flow out of the shared community ethos, and that ethos comes first, anyway.  So Open Source threatens Free Software rhetorically.  And [tells](https://www.gnu.org/philosophy/open-source-misses-the-point.html) [us](https://www.gnu.org/philosophy/when_free_software_isnt_practically_better.html) [so](https://www.gnu.org/philosophy/free-software-for-freedom.en.html).
 
 Inner Source delivers on the threat, transposing Free Software method into closed environments to produce closed software of high quality.  That transposition rejects the Free Software thesis that Free Software quality flows from Free Software ethos.  It shows Free Software methods in action alone.  Moreover, the "Inner" in "Inner Source" bespeaks a closed environment, a barrier between "Inner" and "Outer", impermeable to Software Freedom and unpierced by copyleft.  Inner Source frees those within, and subjugates those without, trampling the ethical proposition that all software should be Free.
@@ -62,3 +80,7 @@ I have my own opinions on process.  I have my own taste in software design.  But
 Outer Source has nothing to be ashamed of, and more to be proud of than it knows.  Its methods can and do produce quality software.  Generous public licenses apply to that software, as well as to any other.  Among those licenses, some happen to protect both team within and Software Freedom without.
 
 Let there be Outer Source.
+
+---
+
+Special thanks to [Benjamin Mako Hill](https://mako.cc/) for the diagram at the top.
