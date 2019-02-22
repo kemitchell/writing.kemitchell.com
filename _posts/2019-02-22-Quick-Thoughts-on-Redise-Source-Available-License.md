@@ -2,6 +2,11 @@
 title: First Thoughts on the Redis Source Available License Agreement
 description: evident demand for license rules on API boundaries
 layout: post
+tags:
+- licensing
+- open source
+- copyleft
+- open core
 ---
 
 Redis Labs [recently announced another change to their modules license terms](https://redislabs.com/blog/redis-labs-modules-license-changes/), taking them away from the [Commons Clause](https://commonsclause.com), a messaging clusterfuck for which they briefly served as poster child.
