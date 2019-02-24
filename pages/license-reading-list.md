@@ -145,6 +145,30 @@ Be a legal vampire.  Suck every last drop of meaning from every last license sec
 
 7.  Reread [The Mozilla Public License, version 2.0](https://spdx.org/licenses/MPL-2.0.html).
 
+## Bonus Groups
+
+### Series 1:  Third-Wave Copyleft Licenses
+
+_Note_:  As of early 2019, whether these licenses count as open source software licenses remains controversial.
+
+1.  Read [copyleft-next](https://github.com/copyleft-next/copyleft-next).
+
+2.  Read [Parity](https://paritylicense.com).
+
+3.  Read [The Server Side Public License, Version 2](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2018-November/003836.html).
+
+    Compare to [The GNU Affero General Public License, version 3](https://spdx.org/licenses/AGPL-3.0-only).
+
+4. Read [The Cryptographic Autonomy License](https://github.com/holochain/cryptographic-autonomy-license).
+
+### Series 2:  Ethical Licenses
+
+_Note_:  As of early 2019, these are not broadly considered open source software licenses.
+
+1.  Read [The Hacktivismo Enhanced-Source Software License Agreement](http://www.hacktivismo.com/about/hessla.php).
+
+2.  Read [The Peer Production License](http://www.networkcultures.org/_uploads/%233notebook_telekommunist.pdf).
+
 ## Further Reading
 
 ### Free Online
