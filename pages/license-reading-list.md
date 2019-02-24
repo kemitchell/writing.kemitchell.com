@@ -145,7 +145,7 @@ Be a legal vampire.  Suck every last drop of meaning from every last license sec
 
 7.  Reread [The Mozilla Public License, version 2.0](https://spdx.org/licenses/MPL-2.0.html).
 
-## Bonus Groups
+## Bonus Group
 
 ### Series 1:  Third-Wave Copyleft Licenses
 
