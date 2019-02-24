@@ -23,7 +23,7 @@ Be a legal vampire.  Suck every last drop of meaning from every last license sec
 
 # Group 1:  Permissive Licenses
 
-## Series 1:  The Academic Licenses
+## Series 1:  Academic Licenses
 
 1.  Read [The MIT License](https://spdx.org/licenses/MIT.html).
 
@@ -47,7 +47,7 @@ Be a legal vampire.  Suck every last drop of meaning from every last license sec
 
     Compare to [The Two-Clause BSD License](https://spdx.org/licenses/BSD-2-Clause.html).
 
-## Series 2:  The Agreement-Style Licenses
+## Series 2:  Agreement-Style Licenses
 
 1.  Read [The Artistic License 2.0](https://spdx.org/licenses/Artistic-2.0.html).
 
