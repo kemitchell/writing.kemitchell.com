@@ -10,22 +10,28 @@
     <link rel=alternate href=/feed.xml type=application/rss+xml>
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary">
-    {% if page.is_post == true %}
+    {% if page.title %}
     <meta name="twitter:title" content="{{page.title}}">
-    <meta name="twitter:description" content="{{page.description}}">
     {% else %}
     <meta name="twitter:title" content="{{site.name}}">
+    {% endif %}
+    {% if page.description %}
+    <meta name="twitter:description" content="{{page.description}}">
+    {% else %}
     <meta name="twitter:description" content="{{site.description}}">
     {% endif %}
     <meta name="twitter:image" content="https://writing.kemitchell.com/placeholder-on-white.png">
     <meta name="twitter:creator" content="@kemitchell">
     <!-- OpenGraph -->
     <meta name="og:type" content="website">
-    {% if page.is_post == true %}
+    {% if page.title %}
     <meta name="og:title" content="{{page.title}}">
-    <meta name="og:description" content="{{page.description}}">
     {% else %}
     <meta name="og:title" content="{{site.title}}">
+    {% endif %}
+    {% if page.description %}
+    <meta name="og:description" content="{{page.description}}">
+    {% else %}
     <meta name="og:description" content="{{site.description}}">
     {% endif %}
     <meta name="og:image" content="https://writing.kemitchell.com/placeholder-on-white.png">
