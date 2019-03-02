@@ -25,59 +25,59 @@ Be a legal vampire.  Suck every last drop of meaning from every last license sec
 
 ## Series 1:  Academic Licenses
 
-1.  Read [The MIT License](https://spdx.org/licenses/MIT.html).
+1.  Read [The MIT License](https://spdx.org/licenses/MIT.html), a _very_ popular open source license.
 
     Read [_The MIT License, Line by Line_]({% post_url 2016-09-21-MIT-License-Line-by-Line %}).
 
-2.  Read [The ISC License](https://spdx.org/licenses/ISC.html).
+2.  Read [The ISC License](https://spdx.org/licenses/ISC.html), a fairly popular open source license.
 
     Compare to [The MIT License](https://spdx.org/licenses/MIT.html).
 
-3.  Read [The Two-Clause BSD License](https://spdx.org/licenses/BSD-2-Clause.html).
+3.  Read [The Two-Clause BSD License](https://spdx.org/licenses/BSD-2-Clause.html), a _very_ popular open source license.
 
-4.  Read [The Three-Clause BSD License](https://spdx.org/licenses/BSD-3-Clause.html).
+4.  Read [The Three-Clause BSD License](https://spdx.org/licenses/BSD-3-Clause.html), a fairly popular open source license.
 
     Compare to [The Two-Clause BSD License](https://spdx.org/licenses/BSD-2-Clause.html).
 
-5.  Read [The Four-Clause BSD License](https://spdx.org/licenses/BSD-4-Clause.html).
+5.  Read [The Four-Clause BSD License](https://spdx.org/licenses/BSD-4-Clause.html), a historically significant, now discouraged, open source license.
 
     Compare to [The Three-Clause BSD License](https://spdx.org/licenses/BSD-3-Clause.html).
 
-6.  Read [The BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
+6.  Read [The BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html), an relatively new open source license.
 
     Compare to [The Two-Clause BSD License](https://spdx.org/licenses/BSD-2-Clause.html).
 
 ## Series 2:  Agreement-Style Licenses
 
-1.  Read [The Artistic License 2.0](https://spdx.org/licenses/Artistic-2.0.html).
+1.  Read [The Artistic License 2.0](https://spdx.org/licenses/Artistic-2.0.html), a popular open source license among Perl developers.
 
-2.  Read [The Apache License, Version 2.0](https://spdx.org/licenses/Apache-2.0.html).
+2.  Read [The Apache License, Version 2.0](https://spdx.org/licenses/Apache-2.0.html), a _very_ popular open source license.
 
-3.  Read [The Educational Community License, Version 2.0](https://spdx.org/licenses/ECL-2.0.html).
+3.  Read [The Educational Community License, Version 2.0](https://spdx.org/licenses/ECL-2.0.html), a niche open source license.
 
     Compare to [The Apache License, Version 2.0](https://spdx.org/licenses/Apache-2.0.html).
 
-4.  Read [The Academic Free License v. 3.0](https://spdx.org/licenses/AFL-3.0.html).
+4.  Read [The Academic Free License v. 3.0](https://spdx.org/licenses/AFL-3.0.html), a niche open source license.
 
 ## Group 2:  Copyleft Licenses
 
 ### Series 1:  OSLs and GPLs
 
-1.  Read [The Open Software License v. 3.0](https://spdx.org/licenses/OSL-3.0.html).
+1.  Read [The Open Software License v. 3.0](https://spdx.org/licenses/OSL-3.0.html), a niche open source license.
 
     Compare to [The Academic Free License v. 3.0](https://spdx.org/licenses/AFL-3.0.html).
 
-2.  Read [The Non-Profit Open Software License v. 3.0](https://spdx.org/licenses/NPOSL-3.0.html).
+2.  Read [The Non-Profit Open Software License v. 3.0](https://spdx.org/licenses/NPOSL-3.0.html), an even more niche open source license.
 
     Compare to [The Open Software License v. 3.0](https://spdx.org/licenses/OSL-3.0.html).
 
-3.  Read [The GNU General Public License, version 3](https://spdx.org/licenses/GPL-3.0-only.html).
+3.  Read [The GNU General Public License, version 3](https://spdx.org/licenses/GPL-3.0-only.html), a popular open source license.
 
-4.  Read [The GNU Affero General Public License, version 3](https://spdx.org/licenses/AGPL-3.0-only.html).
+4.  Read [The GNU Affero General Public License, version 3](https://spdx.org/licenses/AGPL-3.0-only.html), a popular open source license.
 
     Compare to [The GNU General Public License, version 3](https://spdx.org/licenses/GPL-3.0-only.html).
 
-5.  Read [The GNU General Public License, version 2](https://spdx.org/licenses/GPL-2.0-only.html).
+5.  Read [The GNU General Public License, version 2](https://spdx.org/licenses/GPL-2.0-only.html), a _very_ popular open source license.
 
 ### Series 2:  Copyleft Background
 
@@ -89,53 +89,53 @@ Be a legal vampire.  Suck every last drop of meaning from every last license sec
 
 ### Series 3:  Weak Copyleft
 
-1.  Read [The GNU Lesser General Public License, version 2.1](https://spdx.org/licenses/LGPL-2.1-only.html).
+1.  Read [The GNU Lesser General Public License, version 2.1](https://spdx.org/licenses/LGPL-2.1-only.html), a niche open source license.
 
     Compare to [The GNU General Public License, version 2](https://spdx.org/licenses/GPL-2.0-only).
 
-2.  Read [The Mozilla Public License, version 2.0](https://spdx.org/licenses/MPL-2.0.html).
+2.  Read [The Mozilla Public License, version 2.0](https://spdx.org/licenses/MPL-2.0.html), a niche open source license.
 
-3.  Read [The IBM Public License v1.0](https://spdx.org/licenses/IPL-1.0.html).
+3.  Read [The IBM Public License v1.0](https://spdx.org/licenses/IPL-1.0.html), a historically significant, now superseded, open source license.
 
-4.  Read [The Common Public License 1.0](https://spdx.org/licenses/CPL-1.0.html).
+4.  Read [The Common Public License 1.0](https://spdx.org/licenses/CPL-1.0.html), a historically significant, now superseded, open source license.
 
     Compare to [The IBM Public License v1.0](https://spdx.org/licenses/IPL-1.0.html).
 
-5.  Read [The Eclipse Public License 1.0](https://spdx.org/licenses/EPL-1.0.html).
+5.  Read [The Eclipse Public License 1.0](https://spdx.org/licenses/EPL-1.0.html), a historically significant, now superseded, open source license.
 
     Compare to [The Common Public License 1.0](https://spdx.org/licenses/CPL-1.0.html).
 
 ### Series 3:  License Compatibility
 
-1.  Read [The Eclipse Public License 2.0](https://spdx.org/licenses/EPL-2.0.html).
+1.  Read [The Eclipse Public License 2.0](https://spdx.org/licenses/EPL-2.0.html), a niche open source license.
 
     Compare to [The Eclipse Public License 1.0](https://spdx.org/licenses/EPL-1.0.html).
 
-2.  Read [The Common Development and Distribution License 1.0](https://spdx.org/licenses/CDDL-1.0.html).
+2.  Read [The Common Development and Distribution License 1.0](https://spdx.org/licenses/CDDL-1.0.html), a historically significant, now discouraged, open source license.
 
     Compare to [The Mozilla Public License, version 2.0](https://spdx.org/licenses/MPL-2.0.html).
 
 ### Series 4:  Reciprocal Licenses
 
-1.  Read [The Sleepycat License](https://spdx.org/licenses/Sleepycat.html).
+1.  Read [The Sleepycat License](https://spdx.org/licenses/Sleepycat.html), a historically significant, now discouraged, open source license.
 
     Compare to [The Two-Clause BSD License](https://spdx.org/licenses/BSD-2-Clause).
 
-2.  Read [The Q Public License Version 1.0](https://spdx.org/licenses/QPL-1.0.html).
+2.  Read [The Q Public License Version 1.0](https://spdx.org/licenses/QPL-1.0.html), a historically significant, controversial open source license.
 
-3.  Read [The Reciprocal Public License 1.5](https://spdx.org/licenses/RPL-1.5.html).
+3.  Read [The Reciprocal Public License 1.5](https://spdx.org/licenses/RPL-1.5.html), a historically significant, controversial open source license.
 
 ## Group 3:  Antilicenses
 
-1.  Read [WTFPL](https://spdx.org/licenses/WTFPL.html).
+1.  Read [WTFPL](https://spdx.org/licenses/WTFPL.html), a popular open source license.
 
-2.  Read [The Unlicense](https://spdx.org/licenses/Unlicense.html).
+2.  Read [The Unlicense](https://spdx.org/licenses/Unlicense.html), a popular open source license.
 
-3.  Read [The Zero-Clause BSD License](https://spdx.org/licenses/0BSD.html).
+3.  Read [The Zero-Clause BSD License](https://spdx.org/licenses/0BSD.html), a niche open source license.
 
     Compare to [The Two-Clause BSD License](https://spdx.org/licenses/BSD-2-Clause.html).
 
-4.  Read [The Fair License](https://spdx.org/licenses/Fair.html).
+4.  Read [The Fair License](https://spdx.org/licenses/Fair.html), niche open source license.
 
 ## Review
 
