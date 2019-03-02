@@ -79,7 +79,15 @@ Be a legal vampire.  Suck every last drop of meaning from every last license sec
 
 5.  Read [The GNU General Public License, version 2](https://spdx.org/licenses/GPL-2.0-only.html).
 
-### Series 2:  Weak Copyleft
+### Series 2:  Copyleft Background
+
+6.  Read [_Copyleft: Pragmatic Idealism_](https://www.gnu.org/philosophy/pragmatic.en.html).
+
+7.  Read [_Why you should use a BSD style license for your open source project_](https://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html).
+
+8.  Read [_Unhappy Coincidences_](https://writing.kemitchell.com/2018/08/28/Unhappy-Coincidences.html).
+
+### Series 3:  Weak Copyleft
 
 1.  Read [The GNU Lesser General Public License, version 2.1](https://spdx.org/licenses/LGPL-2.1-only.html).
 
