@@ -24,3 +24,7 @@ permalink: /books-for-clients
 ## ABA Legal Guide to Small Business
 
 <https://www.americanbar.org/products/inv/book/213414/>
+
+## Clearance & Copyright
+
+<http://www.donaldsoncallif.com/books/>
