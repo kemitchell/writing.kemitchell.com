@@ -33,10 +33,6 @@ permalink: /books-for-clients
 
 ## Intellectual Property
 
-### Open Source for Business
-
-<https://www.amazon.com/dp/1544737645/>
-
 ### Ownability
 
 <http://myownability.com/>
@@ -44,3 +40,7 @@ permalink: /books-for-clients
 ### Clearance & Copyright
 
 <http://www.donaldsoncallif.com/books/>
+
+### Open Source for Business
+
+<https://www.amazon.com/dp/1544737645/>
