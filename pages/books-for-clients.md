@@ -28,3 +28,11 @@ permalink: /books-for-clients
 ## Clearance & Copyright
 
 <http://www.donaldsoncallif.com/books/>
+
+## The Entrepreneur's Guide to Business Law
+
+<https://www.cengage.com/c/the-entrepreneur-s-guide-to-business-law-5e-bagley>
+
+## Valley Speak
+
+<https://www.siliconvalleyspeak.com/>
