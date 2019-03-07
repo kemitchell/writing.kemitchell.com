@@ -1,6 +1,6 @@
 ---
 title: Blue Oak Council
-description: opening the software commons for those who can't afford a guide
+description: opening the software commons to everyone
 layout: post
 tags:
 - Nonprofits
