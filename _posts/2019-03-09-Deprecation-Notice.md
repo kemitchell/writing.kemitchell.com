@@ -74,7 +74,7 @@ Blue Oak _expects_ more contributors.  MIT and BSD expect everyone to work for o
 
 ## Use Blue Oak for new work.
 
-I had a hand in drafting the [Blue Oak license](https://spdx.org/license/1.0.0), and I'm executive director of Blue Oak Council, the license steward.  But I was not alone.  Several lawyers came together, in GitHub private repos, to do what we couldn't have done apart.
+I had a hand in drafting the [Blue Oak license](https://blueoakcouncil.org/license/1.0.0), and I'm executive director of Blue Oak Council, the license steward.  But I was not alone.  Several lawyers came together, in GitHub private repos, to do what we couldn't have done apart.
 
 Blue Oak is the best permissive open source software license we know how to write.  We didn't originally set out to write a license, but [no existing form offered all the features we were looking for](https://blueoakcouncil.org/2019/03/06/model.html).
 
