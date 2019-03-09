@@ -70,7 +70,7 @@ Modern permissive licenses, like [Apache 2.0](https://spdx.org/licenses/Apache-2
 
 [Blue Oak](https://blueoakcouncil.org/license/1.0.0) takes the next logical step.  The license speaks from all contributors to the project, not just the first.  It clearly expresses the expectation that all contributors will make their work available on the same terms.  It's still worth getting a record of contributors' intent to license on Blue Oak terms.  But Blue Oak takes the correct approach, [documenting that expectation to build a case that it goes without saying, rather than trying to write it into rules folks may not read](https://writing.kemitchell.com/2017/02/16/Against-Legislating-the-Nonobvious.html).
 
-Blue Oak _expects_ more contributors.  MIT and BSD expect everyone on the project to work for one university.
+Blue Oak _expects_ more contributors.  MIT and BSD expect everyone to work for one university.
 
 ## Use Blue Oak for new work.
 
