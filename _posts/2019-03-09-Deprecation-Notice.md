@@ -62,7 +62,7 @@ Neither, apparently, do we really know how to fill out the standardized [MIT](ht
 
 Authorship information for open source software is nearly always available online.  Notice rules designed for projects from single institutions, distributed on magnetic tape by mail, back in the '80s, don't make sense in 2019.  [Hyperlinks to terms should count.](https://blueoakcouncil.org/license/1.0.0#notices)  Under Blue Oak, they do.
 
-## MIT and BSD don't expect contributions from others.
+## MIT and BSD don't expect more contributors.
 
 MIT and BSD terms include a space for a single copyright notice, because they were written for releases from academic institutions that own all the copyrights in their employees' work.  What about other contributors to the project?  They hold copyright in their contributions.
 
