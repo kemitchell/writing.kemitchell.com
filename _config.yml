@@ -11,6 +11,8 @@ repository_url: "https://github.com/kemitchell/writing"
 plugins:
 - jekyll-sass-converter
 - jekyll-feed
+feed:
+  path: atom.xml
 exclude:
 - vendor
 defaults:
