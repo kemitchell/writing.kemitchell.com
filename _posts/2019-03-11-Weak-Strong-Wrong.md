@@ -10,7 +10,7 @@ tags:
 
 Dividing open source copyleft licenses into _weak_ and _strong_ doesn't reliably map license needs to license choices anymore.  We're better off asking whether a copyleft license is _selective_ or _consistent_ in its share-alike demands.  Consistent copyleft licenses always require sharing alike.  Selective copyleft license make exception to sharing alike rules for some use cases.
 
-[MongoDB's Server Side Public License](https://www.mongodb.com/licensing/server-side-public-license) breaks the old weak-strong distinction.  In some ways, SSPL is new.  I've written that [its "permissive safe zone" for applications splits up the coalition of software freedom activists and business users that has traditionally supported copyleft](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html#commercial). 
+[MongoDB's Server Side Public License](https://www.mongodb.com/licensing/server-side-public-license) breaks the old weak-strong distinction.  In some ways, SSPL is new.  I've written that [its "permissive safe zone" for applications splits up the coalition of software freedom activists and business users that has traditionally supported copyleft](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html#commercial).
 
 But applying strong copyleft to some use cases, and permissive terms to others, is a very old _activist_ idea.  That's what [LGPLv2](https://spdx.org/licenses/LGPL-2.0.html) did, for libraries that activists [wanted to make more competitive with permissive alternatives](https://www.gnu.org/licenses/license-recommendations.en.html#libraries).  FSF made the spectrum from permissive to LGPL to GPL even more clear in [LGPLv3](https://spdx.org/licenses/LGPL-3.0.html), by writing the weak copyleft variant as a patch over GPLv3 that essentially waives strong GPLv3 copyleft for library use cases.  Like SSPL, it turned out, in time, that free software activists [don't have much current use for LGPL, either](https://www.gnu.org/licenses/why-not-lgpl.html).
 
@@ -60,7 +60,9 @@ But that is not the same as the Applications rule of the API Copyleft License:
 We could put use cases into three categories:
 
 1. changes and additions to the licensed software
+
 2. applications that invoke the licensed software without changing or adding to it
+
 3. code that wraps the licensed software, perhaps changing or adding to it by intermediating its public API, and makes that API available to other applications
 
 My first drafts of the the API Copyleft License, then called the [Shared Component License](https://writing.kemitchell.com/2019/01/12/Shared-Component-License.html), made just this kind of categorization.
