@@ -19,7 +19,7 @@ layout: post
 
     Modern: Apache 2.0
 
-3.  Strong Copyleft.
+3.  Consistent Copyleft.
 
     Do whatever you want with this software, but share your own work the same way.
 
@@ -27,7 +27,7 @@ layout: post
 
     Modern: Parity
 
-4.  Weak Copyleft.
+4.  Selective Copyleft.
 
     Do whatever you want with this software, but share your improvements to the work I've shared the same way.
 
