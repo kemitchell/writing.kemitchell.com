@@ -8,7 +8,7 @@ tags:
 - Ethics
 ---
 
-This post offers a practical toolkit for kickstarting a _subcommons_ of open software, responsive to ethical concerns shared by some, but not all, open software developers.  The toolkit generalizes the approach of software freedom activists, which led eventually to free software and eventually open source as we know it.  That generalized approach could be repeated for ethical AI software development, social justice, economic liberty, or other schools of ethical thought large or passionate enough to support software development commons, adjacent and additive to open source's particular brand of permissiveness.
+This post offers a practical toolkit for seeding a _subcommons_ of open software, responsive to ethical concerns shared by some, but not all, open software developers.  The toolkit generalizes the approach of software freedom activists, which led eventually to free software and eventually open source as we know it.  That generalized approach could be repeated for ethical AI software development, social justice, economic liberty, or other schools of ethical thought large or passionate enough to support software development commons, adjacent and additive to open source's particular brand of permissiveness.
 
 Free software and open source ideologies share a commitment to a particular kind of [laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire).  They accept rules, especially [copyleft](https://www.copyleft.org/) rules, that prohibit the use of open software to create closed software.  But they join in rejection of other rules, in licenses or otherwise, that prohibit the use of open software by particular kinds of people and companies, like for-profit businesses or specific governments, or for other kinds of uses, like war or stem cell research.
 
@@ -26,7 +26,7 @@ Your first choice will be how to describe acceptable conduct.  There are three b
 
 Comprehensiveness in ethics is hard.  Consider collecting example uses, permitted and prohibited, and checking them methodically against your external code of conduct.  Does the written code reach the right results in each case?  Will those results be clear to those who disagree on what is or is not ethical?
 
-You should also include a clear rule about how to handle cases where application of the code to specific conduct isn't clear.  For a blacklist code, that likely means erring on the side of permission.  For a whitelist, it likely means erring on the side of prohibition.  Depending on your group's confidence in its written rules, the reverse might also work best.  Give it thought. 
+You should also include a clear rule about how to handle cases where application of the code to specific conduct isn't clear.  For a blacklist code, that likely means erring on the side of permission.  For a whitelist, it likely means erring on the side of prohibition.  Depending on your group's confidence in its written rules, the reverse might also work best.  Give it thought.
 
 When your code of conduct is written, use a method to approve its text that ensures everyone feels their conscience expressed in the terms.  Document that process, and its result, publicly.  No one will feel perfectly confident in the code.  Perfection isn't possible.  Understand that the task is reducing what's _right_ into words that _work_, not absolute truth.  Be pragmatic.
 
