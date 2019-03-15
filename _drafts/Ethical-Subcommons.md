@@ -8,7 +8,7 @@ tags:
 - Ethics
 ---
 
-This post offers a practical toolkit for seeding a _subcommons_ of open software, responsive to ethical concerns shared by some, but not all, open software developers.  The toolkit generalizes the approach of software freedom activists, which led to free software and eventually open source as we now know it.  That generalized approach could be repeated for ethical AI software development, social justice, economic liberty, or other schools of ethical thought large or passionate enough to support software development commons, adjacent and additive to open source's particular brand of permissiveness.
+This post offers a practical toolkit for seeding a _subcommons_ of open software, responsive to ethical concerns shared by some, but not all, open software developers.  The toolkit generalizes the approach of software freedom activists, which led to free software and eventually open source as we now know it.  That approach could be reapplied for ethical AI software development, social justice, economic liberty, or other schools of ethical thought large or passionate enough to support software development commons, adjacent and additive to open source's particular brand of permissiveness.
 
 Free software and open source ideologies share a commitment to a particular kind of [laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire).  They accept rules, especially [copyleft](https://www.copyleft.org/) rules, that prohibit the use of open software to create closed software.  But they join in rejection of other rules, in licenses or otherwise, that prohibit the use of open software by particular kinds of people and companies, like for-profit businesses or specific governments, or for other kinds of uses, like war or stem cell research.
 
