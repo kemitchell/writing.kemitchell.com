@@ -162,9 +162,7 @@ Everyone fucks up.  I've fucked up.  You have fucked up.  We will both fuck up a
 
 There is no universally accepted policy or ethics of punishment.  But broadly speaking, theorists often break justice down in terms of retribution and rehabilitation, restoration and deterrence.  Different communities emphasize aspects differently, in their choice and application of punishments.  Different members of singular communities emphasize aspects of the same punishments differently, after they've been meted out.
 
-A small community of fallible individuals, looking to grow, can only shrink by systematically reducing its population with each inevitable infraction.
-
-Consider the times when you have felt unjustly punished, excluded, and written off.  As you make choices about codes of conduct, hooks, and enforcement, set aside time to think about how righteousness might run amok.
+A small community of fallible individuals, looking to grow, can only shrink by systematically reducing its population with each inevitable infraction.  Consider the times when you have felt unjustly punished, excluded, and written off.  As you make choices about codes of conduct, hooks, and enforcement, set aside time to think about how righteousness might run amok.
 
 Ensure that choices reflect respect for the human condition, its boundless capacity for both wrongdoing and reform, and not just that part of human behavior that includes the conduct your want to promote or discourage.  Consider your community's ability to seed resignation and resistance, rather than convincement.  Minimize it.
 
