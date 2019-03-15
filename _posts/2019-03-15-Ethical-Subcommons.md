@@ -10,7 +10,7 @@ tags:
 
 This post offers a practical toolkit for seeding a _subcommons_ of open software, responsive to ethical concerns shared by some, but not all, open software developers.  The toolkit generalizes the approach of software freedom activists, which led to free software and eventually open source, of which software freedom is now a subcommons.  That approach could be reapplied for ethical AI software development, social justice, economic liberty, or other schools of ethical thought large or passionate enough to support their own software development commons, adjacent and additive to open source's absolutist permissivity.
 
-Free software and open source ideologies share a commitment to a very specific kind of [laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire).  They accept rules, especially [copyleft](https://www.copyleft.org/) rules, that prohibit the use of open software to create closed software.  But they join in rejection of other rules, via licenses and otherwise, that prohibit the use of open software by particular kinds of people and companies, like for-profit businesses or specific governments, or for particular kinds of uses, like war or stem cell research.
+Open source ideologies share a commitment to a very specific kind of [laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire).  They avoid but abide [copyleft](https://www.copyleft.org/) rules that prohibit the use of open software to create closed software, as a token of historical debt.  But they join in flat rejection of other rules, via licenses and otherwise, that prohibit the use of open software by particular kinds of people and companies, like for-profit businesses or specific governments, or for particular kinds of uses, like war or stem cell research.
 
 Many developers are glad to contribute software without restriction.  But some of the same developers hesitate or refuse to contribute other kinds of software under such terms.  Frequently, they fear that particular software lends itself to unethical uses, either because of what the software does, or because of market, government, or broader societal conditions.  Currently, collaboration by developers on such projects remains largely closed.  An ethical subcommons can provide more of the benefits of open collaboration, without asking contributors to check their ethics at the door.
 
@@ -66,7 +66,7 @@ Publish your code or codes of conduct under distinctive, arbitrary names, suffix
 
 - Tiger's Eye Statement on Ethical AI
 
-- Green Bluff Code of Use Sovereignty
+- Green Bluff Code of User Sovereignty
 
 - Hunter's Point Principles of Social Justice
 
@@ -116,7 +116,7 @@ For example, an ethical AI subcommons might choose to apply [The Blue Oak Model 
 
 > ## Ethical AI
 >
-> You must exercise your license only in accordance with the Tiger's Eye Statement on Ethical AI published at <https://exmaple.com/tiger-eye>.
+> You must exercise your license only in accordance with the Tiger's Eye Statement on Ethical AI published at <https://example.com/tiger-eye>.
 
 Note that this differs from the approach of many software freedom activists.  Their organizations, notably the [Free Software Foundation](https://fsf.org), don't reference external codes of conduct in license terms.  Rather, they translate their ethical views into legal rules, in the vocabulary of copyright, patent, or both.
 
@@ -170,8 +170,8 @@ Ensure that choices reflect respect for the human condition, its boundless capac
 
 ## Fly your flag.
 
-With _both_ moral resolve _and_ healthy sense of personal and collective fallibility do you earn the right to fly a moral flag.  Make your presence, your conviction, and your compassion well known.  But know that true belief will not suffice, at least in software.
+With _both_ moral resolve _and_ healthy sense of personal and collective fallibility, you earn the right to fly a moral flag.  Make your presence, your conviction, and your compassion well known.  But know that true belief will not suffice, at least in software.
 
-If others cannot find you, they cannot join you.  If others cannot join you, your commons will not grow.  If your commons does not grow, nothing will come of it worth defending.  What does come of it, no one much will mount an able defense.  Simply putting code on the Web, under any terms whatsoever, empowers those conditioned to trample their limits to test yours.  But experience shows a great deal of good can come of it.
+If others cannot find you, they cannot join you.  If others cannot join you, your commons will not grow.  If your commons does not grow, nothing will come of it worth defending.  Conversely, the simple act of putting code on the Web, under any terms whatsoever, empowers those conditioned to trample their limits to test yours.  But experience shows a great deal of good _can_ come of it, costs and benefits considered together.
 
 Go grow a commons.  Let conscience shine through everything you do.
