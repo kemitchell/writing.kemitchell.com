@@ -20,9 +20,11 @@ Assemble a representative group of conscience community members and write an _ex
 
 Your first choice will be how to describe acceptable conduct.  There are three basic principles to choose from:
 
-1. _Blacklist_:  Everything which is not forbidden is allowed.  Write a list of actions your ethics prohibit.  This will likely be the most common, and the easiest to begin writing.
-2. _Whitelist_:  Everything which is not allowed is forbidden.  Write a list of actions your ethics permit.  This approach will likely reduce uncertainty and prevent rule-gaming better than a blacklist.
-3. _Greylist_:  A hybrid of Blacklist and Whitelist.  Avoid this approach if at all possible.  It is much harder to write.
+1.  _Blacklist_:  Everything which is not forbidden is allowed.  Write a list of actions your ethics prohibit.  This will likely be the most common, and the easiest to begin writing.
+
+2.  _Whitelist_:  Everything which is not allowed is forbidden.  Write a list of actions your ethics permit.  This approach will likely reduce uncertainty and prevent rule-gaming better than a blacklist.
+
+3.  _Greylist_:  A hybrid of Blacklist and Whitelist.  Avoid this approach if at all possible.  It is much harder to write.
 
 Comprehensiveness in ethics is hard.  Consider collecting example uses, permitted and prohibited, and checking them methodically against your external code of conduct.  Does the written code reach the right results in each case?  Will those results be clear to those who disagree on what is or is not ethical?
 
@@ -35,8 +37,11 @@ Next, consider whether your community should also adopt an _internal code of con
 Publish your code or codes of conduct under distinctive, arbitrary names, suffixed with a plain description of your ethical community.  You might name a code after the place where you meet to discuss or finalize the code, a character from fiction, or an everyday object.  You might choose a category of common objects, like gemstones or musical genres or archaeological sites or planets, and name your code for particular members of that category.  Use different categories for internal and external codes, if you have both.  Avoid trademarks and names of well known living people.  A few examples:
 
 - Tiger's Eye Statement on Ethical AI
+
 - Green Bluff Code of Use Sovereignty
+
 - Hunter's Point Principles of Social Justice
+
 - Switchback Code of Conduct
 
 If your community grows, expect to find problems with your codes of conduct, internal and external.  As those problems add up, you may choose to reconvene your group, to write new or updated code, or to convene an entirely new group.
@@ -44,8 +49,11 @@ If your community grows, expect to find problems with your codes of conduct, int
 If you publish new or revised codes of conduct, keep the same ethical description, but change the distinctive name.  For example:
 
 - Amethyst Statement on Ethical AI
+
 - Blue Stream Code of User Sovereignty
+
 - Dogtown Principles of Social Justice
+
 - Frontage Road Code of Conduct
 
 Do not use numerical [versions](https://semver.org/) or [editions](https://reviewersedition.org/).  Use distinctive names that those in and around your community can recognize at a glance.  Your goal is to develop a common, natural names vocabulary of codes.
@@ -56,10 +64,13 @@ If all you do is publish software on the Web with copies of your codes of conduc
 
 Enforcement breaks down into several parts:
 
-1. _Policing_: Monitoring of behavior to identify questionable conduct.
-2. _Adjudication_: Deciding whether questionable conduct falls outside code.
-3. _Remediation_: Taking action to stop, punish, and redress prohibited conduct.
-4. _Administration_: Following through on that action, to ensure it's effective.
+1.  _Policing_: Monitoring of behavior to identify questionable conduct.
+
+2.  _Adjudication_: Deciding whether questionable conduct falls outside code.
+
+3.  _Remediation_: Taking action to stop, punish, and redress prohibited conduct.
+
+4.  _Administration_: Following through on that action, to ensure it's effective.
 
 If any part fails, and failure becomes widely known, enforcement will fail.
 
@@ -124,4 +135,3 @@ Ensure that choices reflect respect for the human condition, its boundless capac
 With sufficient moral resolve, and sufficient humbling self-doubt and reflection, you earn the right to fly a moral flag.  Make your presence, your conviction, and your compassion well known.
 
 If others cannot find you, they cannot join you.  If others cannot join you, your commons will not grow.
-
