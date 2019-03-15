@@ -170,6 +170,6 @@ Ensure that choices reflect respect for the human condition, its boundless capac
 
 With _both_ moral resolve _and_ healthy sense of personal and collective fallibility, you earn the right to fly a moral flag.  Make your presence, your conviction, and your compassion well known.  But know that true belief will not suffice, at least in software.
 
-If others cannot find you, they cannot join you.  If others cannot join you, your commons will not grow.  If your commons does not grow, nothing will come of it worth defending.  Conversely, the simple act of putting code on the Web, under any terms whatsoever, empowers those conditioned to trample their limits to test yours.  But experience shows a great deal of good _can_ come of it, costs and benefits considered together.
+If others cannot find you, they cannot join you.  If others cannot join you, your commons will not grow.  If your commons does not grow, nothing will come of it worth defending.
 
 Go grow a commons.  Let conscience shine through everything you do.
