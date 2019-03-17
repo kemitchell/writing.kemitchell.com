@@ -1,6 +1,6 @@
 ---
 title: License Utopia
-description: just five licenses for all of open source
+description: just four licenses for all of open source
 layout: post
 tags:
 - Open Source
