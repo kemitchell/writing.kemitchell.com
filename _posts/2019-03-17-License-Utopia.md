@@ -133,3 +133,11 @@ If the terms were written to be read, and read by hackers, like the [Blue Oak Mo
 This plan is admittedly Utopian.  I'd like to live in this licensing world, and so would all of my clients, but I have no practical plan to get us there.
 
 As I've developed my own thinking along these lines, I've nonetheless found this fantasy exercise useful.  What license design choices bring a form closer to this ideal?  Where a design deviates, why?  Can new licenses do anything to encourage the right kind of convergence?
+
+## Elsewhere
+
+As it turns out, most of the _answers_ to those questions lead to a startling realization:  They're all stem from relatively recent technical and legal developments.  The more I look at where open source licensing _ought_ to be, the more that picture points back to a prior time.
+
+At least on the copyleft side, licensing Utopia looks an awful lot like licensing history in the heyday of GPLv2.  In part due to perception, rather than reality, GPLv2 was seen for a time as maximally strong.  It _was_ the "free for free software license".  The ASP loophole was but a rumor, brewing in whispers.  SaaS was not the primary means of software delivery, nor PaaS the primary means of software execution.   Distribution was inevitable.   Composition via HTTP APIs, rather than static or dynamic linking, was a subject of doctoral theses, and scorned as unpalatably slow in industry.
+
+Times have certainly changed.  For the most part, licenses have not.  Open source is changing.  But is that changing reforming it to a past state of play, or changing the game in any fundamental way?  I don't see a fundamental change.  I see work to fix what's broke down in the last fifteen to twenty years.  Finally.
