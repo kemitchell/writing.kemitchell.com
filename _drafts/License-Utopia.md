@@ -4,15 +4,15 @@ description: just five licenses for all of open source
 layout: post
 ---
 
-Bruce Perens and I have found lots of reasons to disagree.  But I could not agree with Bruce more on a key point, arguably more important than all the rest put together.  The world only needs a few open source software licenses.  Having so many serves almost no one.
+Bruce Perens and I have found lots of reasons to disagree.  But I could not agree with Bruce more strongly on one key point, arguably more important than all the rest together:  The world only needs a few open source software licenses.  Having so many serves nearly no one.
 
-Standardization is always a compromise.  It asks people to make do with something that _nearly_ fits, in exchange for all the benefits of being standard.  In that way, standards intentionally oversimplify a problem. 
+Standardization is always a compromise.  It asks people to make do with something that _nearly_ fits, in exchange for all the benefits of being standard.  In that way, standards always intentionally oversimplify a problem.
 
-Degrees of oversimplification vary.  One Size Fits All fits almost nobody, and comes super cheap.  XS-S-M-L-XL fits most, but not strikingly well, especially with [vanity sizing](https://en.wikipedia.org/wiki/Vanity_sizing) in full effect.  34 to 56 times long-regular-short times slim-fitted-classic-relaxed more or less requires specialist assistance, and the result off the rack usually expects finish tailoring.
+Extent of oversimplification varies.  One Size Fits All fits almost nobody, but comes cheap.  XS-S-M-L-XL fits most, but not strikingly well, especially under distortions, like [vanity sizing](https://en.wikipedia.org/wiki/Vanity_sizing).  34 to 56, plus long-regular-short, plus slim-fitted-classic-relaxed more or less _requires_ specialist assistance, and the result off the rack usually expects finish tailoring.  Bespoke is no standard at all.  Haute couture demands models to fit the standards of its clothes, rather than the other way around.
 
-Open source is none of those systems.  There is no singular [Creative Commons](https://creativecommons.org) of software, deciding what will go on shelves and racks.  Open source software licensing is a thrift store.  Hopefully something that fit someone else, probably long gone, will fit you, too.
+Open source is none of those systems.  There is no singular [Creative Commons](https://creativecommons.org) of software, deciding what will go on shelves and racks.  Quite the opposite.  Open source software licensing is a thrift store.  Hopefully something that fit someone else, perhaps someone long gone, will fit you, too.
 
-Bruce's vision of a tidy open source toolkit probably differs from mine.  But I'd like to set out my current thinking.  My own point of view.
+Bruce's specific vision of a tidy open source toolkit probably differs from mine.  But I'd like to set out my thinking.  My own point of view.
 
 In short: one permissive license, with optional credit, plus three copyleft licenses---selective, consistent, and historical---also with optional credit.
 
@@ -22,11 +22,11 @@ A bit more detail follows.
 
 The permissive license would say, in essence:
 
-> Do whatever you want with my software.  But accept all the risk for doing so.  You can't sue me for giving you bad software for free.
+> Do whatever you want with my software.  But accept all the risk of doing so.
 
 In other words, the permissive license should achieve more or less what [the Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0) does.  Give everyone as much permission to work with the software as possible, but protect contributors from liability.
 
-If were it legally possible to do both _without_ requiring [notice of the liability protections](https://blueoakcouncil.org/license/1.0.0#notices), that's what we would do.  The license would simply waive copyright and patent, and require nothing of those receiving permission.  Unfortunately, it's complicated.  We can't go the full [Unlicense](https://spdx.org/licenses/Unlicense.html) or [0BSD](https://spdx.org/licenses/0BSD.html) route with legal confidence.  Especially for high-risk software.
+If were it legally possible to do both _without_ requiring [notice of the liability protections](https://blueoakcouncil.org/license/1.0.0#notices), that's what we would do.  The license would simply waive copyright and any patents, and require nothing of those receiving permission.  Unfortunately, it's complicated.  We can't go the full [Unlicense](https://spdx.org/licenses/Unlicense.html) or [0BSD](https://spdx.org/licenses/0BSD.html) route with legal confidence.  Especially for high-risk software.
 
 ## Optional Credit
 
@@ -36,9 +36,9 @@ To that permissive license, I would add an optional provision requiring credit f
 
 We could write the credit provision to apply only if a credit beginning with a [magic number](https://en.wikipedia.org/wiki/Magic_number_(programming))---like `Required Credit:`---comes with the software.  That being the case, users would have to make that credit line available to everyone who receives a copy of the software or interacts with software built with it as a service software, for free, in a standardized way.  Something like the "legal notices" screens we can find on smart phones today, or [humans.txt](http://humanstxt.org/) for services.
 
-I say "credit" and not "attribution" or "notice".  The compliance obligation for users would go further than attribution under existing terms, including the Blue Oak Model, but not so far as [CPAL](https://opensource.org/licenses/CPAL-1.0), which required [opening credits](https://en.wikipedia.org/wiki/Opening_credits) users have to see rather than [closing credits](https://en.wikipedia.org/wiki/Closing_credits) they can choose to see.  The purpose is to make sure that developers of the licensed software can point to evidence of their contributions, to build their reputations, back up their resumes, and earn opportunities.  Credit as a form of compensation, not legal formality.
+I say _credit_, not _attribution_ or _notice_.  That would go further than attribution under existing terms, including the Blue Oak Model, but not so far as [CPAL](https://opensource.org/licenses/CPAL-1.0), which required [opening credits](https://en.wikipedia.org/wiki/Opening_credits) users have to see, rather than [closing credits](https://en.wikipedia.org/wiki/Closing_credits) they can choose to watch.  The purpose is to make sure developers of the licensed software can point to evidence of their contributions, to build their reputations, back up their resumes, and secure new opportunities.  Credit as a form of compensation, not legal formality.
 
-For some prior work on the credit terms more concrete sense, see [Posterity](https://github.com/berneout/posterity-public-license).  If I were writing Posterity today, I'd fork the Blue Oak Model.  And I just might.
+For some prior work on this concept of credit, see [Posterity](https://github.com/berneout/posterity-public-license).  If I were writing Posterity today, I'd fork the Blue Oak Model.  I've begun a version 2.0.0 that does just that.
 
 ## Copyleft Troika
 
@@ -46,25 +46,25 @@ There would be just three copyleft licenses: a _consistent_ copyleft license, a 
 
 For more on why I say _consistent_ and _selective_ instead of _weak_ and _strong_ see [my post on the topic](https://writing.kemitchell.com/2019/03/11/Weak-Strong-Wrong.html).
 
-In the notes below, I will use the terms _trigger_, _reach_, _licensing_, and _distribution_ to describe the aspects of copyleft rules.  For more on those design decisions, see [my vocubulary of copyleft](https://writing.kemitchell.com/2018/10/24/How-to-Speak-Copyleft.html#design).
+In the notes below, I will use the terms _trigger_, _reach_, _licensing_, and _distribution_ to describe the aspects of copyleft rules.  For more on those design decisions, see [my vocubulary of copyleft](https://writing.kemitchell.com/2018/10/24/How-to-Speak-Copyleft.html#design).  But you can probably pick it up from context below.
 
 ### Consistent Copyleft
 
 The consistent copyleft license would say:
 
-> Do whatever you want with my software.  But if you use my software to make other software, release that software under like terms.  Either way, you accept all the risk of using my software.
+> Do whatever you want with my software.  But if you use my software to make other software, release that software under like terms.
 
-The consistent copyleft license would apply copyleft the same way to all use cases, and require sharing alike of as much code as possible, in as many situations as possible.
+The consistent copyleft license would apply copyleft to all use cases, and require sharing alike of as much code as possible, in as many situations as possible.
 
-Its trigger would be very light.  Copyleft would not require distribution, or provision as a network service, but trigger on use or making changes alone.  It would reach [private changes](https://writing.kemitchell.com/2018/09/17/Private-Changes.html), with the exception of prototypes that never reach viability.  From the [API Copyleft License 1.0.0](https://writing.kemitchell.com/2019/02/22/API-Copyleft-1.0.0.html):
+Its trigger would be very light.  Copyleft would not hinge on distribution, or provision as a network service, but trigger on use or making changes alone.  It would reach [private changes](https://writing.kemitchell.com/2018/09/17/Private-Changes.html), with the exception of prototypes that never reach viability.  From the [API Copyleft License 1.0.0](https://writing.kemitchell.com/2019/02/22/API-Copyleft-1.0.0.html):
 
 > You need not contribute prototype changes, extensions, or applications that you do not end up using for more than fourteen calendar days, share with anyone else, or use to provide a service to anyone else.
 
-Perhaps this language could be improved.  But I think it conveys the concept.
+Perhaps this language could be [improved](https://github.com/kemitchell/api-copyleft-license).  But I think it conveys the concept.
 
-As for licensing, the consistent-copyleft license would require licensing under the same terms or the [permissive waive](#permissive-license), with or without [optional credit](#optional-credit).  Distribution would happen by publication to a freely accessible distribution system widely used for similar source code, plus a message to recipients of copies and users---through the same standardized channels as [optional credit](#optional-credit)---of how to access it through that distribution system.
+As for licensing, the consistent-copyleft license would require licensing under the same terms, or the [permissive waive](#permissive-license), in either case with or without [optional credit](#optional-credit).  Distribution would happen by publication to a freely accessible distribution system widely used for similar source code, plus a message to recipients of copies and users---through the same standardized channels as [optional credit](#optional-credit)---of how to find source through that distribution system.
 
-[Parity](https://paritylicense.com) is the closest existing license to the ideal consistent-copyleft license I have in mind.  Parity differs on licensing, distribution, and notice of source availability from what I've described, for pragmatic reasons that don't constrain my hypothetical plan.
+[Parity](https://paritylicense.com) is the closest existing license to the ideal consistent-copyleft license I have in mind.
 
 ### Selective Copyleft
 
@@ -76,7 +76,7 @@ The selective copyleft license would be the same as the consistent copyleft lice
 
 In other words, the selective-copyleft license would look a bit like [LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.en.html), which incorporates [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) by reference, then makes [exceptions](https://www.fsf.org/blogs/rms/selling-exceptions) for specific use cases.
 
-Under the standard selective-copyleft license, those exceptions would be applications that only use the licensed software through its exposed APIs, without proxying or passing those APIs along to other applications.  Again from The API Copyleft License:
+Under the selective-copyleft license, those exceptions would be applications that only use the licensed software through its exposed APIs, without proxying or passing those APIs or their functionality along to other applications.  Again from The API Copyleft License:
 
 > You need not contribute software that only invokes this software's functionality through the interfaces this software exposes, without exposing this software's interfaces and functionality to other software.
 >
@@ -92,7 +92,7 @@ Like the selective-copyleft license, the historical-copyleft license would also 
 
 ## Compatibility
 
-Software under the [permissive waiver](#permissive-license), with or without [optional credit](#optional-credit), could be freely combined with code under any of the [copyleft licenses](#copyleft-troika).  Software under [selective copyleft](#selective-copyleft) and [historical copyleft](#historical-copyleft), again with or without credit, could be freely combined with software under [consistent copyleft](#consistent-copyleft).
+Software under the [permissive license](#permissive-license), with or without [optional credit](#optional-credit), could be freely combined with code under any of the [copyleft licenses](#copyleft-troika).  Software under [selective copyleft](#selective-copyleft) and [historical copyleft](#historical-copyleft), again with or without credit, could be freely combined with software under [consistent copyleft](#consistent-copyleft).
 
 Terms-wise, the copyleft licenses would merely add sections on to the terms of the permissive waiver.  The selective- and historical-copyleft licenses would merely add sections to the consistent-copyleft license with exceptions to its general copyleft rule.
 
