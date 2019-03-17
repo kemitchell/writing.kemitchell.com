@@ -2,9 +2,17 @@
 title: License Utopia
 description: just five licenses for all of open source
 layout: post
+tags:
+- Open Source
+- Licensing
+- Copyleft
 ---
 
-[Bruce Perens](https://perens.com/) and I have found lots of reasons to disagree.  But I could not agree with Bruce more strongly on a key point, arguably more important than all the rest combined:  The world only needs a few open source software licenses.  Instead, we have ream of them, which serves nearly nobody.
+[Bruce Perens](https://perens.com/) and I have found lots of reasons to disagree.  But I could not agree with Bruce more strongly on a key point, arguably more important than all the rest combined:
+
+_The world only needs a few open source software licenses._
+
+We currently have more than anyone can count.  Which serves almost nobody.
 
 Bruce's specific vision of a tidy open source license catalog probably differs from mine.  But I'd like to set out my thinking.
 
@@ -14,11 +22,11 @@ In short: one [permissive license](#permissive-license), with [optional credit](
 
 Standardization is always a compromise.  It asks people to make do with something that _nearly_ fits, in exchange for all the benefits of being standard.  In that way, standards intentionally oversimplify a problem.
 
-Extent of oversimplification varies.  One Size Fits All fits almost nobody, but comes super cheap.  XS-S-M-L-XL fits most, but not strikingly well, and invites distortions like [vanity sizing](https://en.wikipedia.org/wiki/Vanity_sizing).  34 to 56, plus long-regular-short, plus slim-fitted-classic-relaxed more or less _requires_ specialist assistance or lots of try-on, and the result off the rack still expects finish tailoring.  Bespoke is no standard at all.  Haute couture demands models to fit the standards of its clothes, rather than the other way around.
+Optimal oversimplification varies.  One Size Fits All fits almost nobody, but comes super cheap.  XS-S-M-L-XL fits most, but not strikingly well, and invites distortions like [vanity sizing](https://en.wikipedia.org/wiki/Vanity_sizing).  34 to 56, plus long-regular-short, plus slim-fitted-classic-relaxed more or less _requires_ specialist assistance or lots of try-on, and the result off the rack still expects finish tailoring.  Haute couture demands models to fit the standards of its clothes, rather than the other way around.  Bespoke is no standard at all.
 
-Open source licensing is none of the above.   Open source licensing is a thrift store.  There is no singular [Creative Commons](https://creativecommons.org) of software, deciding what licenses go on the racks.  Hopefully a license that fit someone else, perhaps someone long gone, will fit you, too.  Nearly all projects were hand-me-down licenses.
+Open source licensing is none of the above.   Open source licensing is a thrift store.  There is no singular [Creative Commons](https://creativecommons.org) of software, deciding what licenses go on the racks.  Hopefully a license that fit someone else, perhaps someone long gone, will fit you, too.  We're all wearing hand-me-down licenses.
 
-A [Creative Commons-style license picker](https://creativecommons.org/choose/) would serve almost everyone better.  Here's my vision for the choices developers could pick.
+A [Creative Commons-style license picker](https://creativecommons.org/choose/) would serve almost everyone better.  Here's how I'd see it.
 
 ## Permissive License
 
@@ -120,8 +128,8 @@ The new license slate would also reunify the [two historical camps of copyleft l
 
 If the terms were written to be read, and read by hackers, like the [Blue Oak Model](https://blueoakcouncil.org/license/1.0.0), we'd see broad, systemic benefits, across the commons.  Self-administration and community deliberation of licensing issues would become far more practical, in far more situations.  The practice would need fewer lawyers, and could rely less on [compromise solutions to serve those who can't find or afford professional help](https://blueoakcouncil.org/).
 
-## Utopia
+## Nowhere
 
-This plan is admittedly Utopian.  I'd like to live in this wold, but I have no plan to get there.
+This plan is admittedly Utopian.  I'd like to live in this licensing world, and so would all of my clients, but I have no practical plan to get us there.
 
-As I've developed my own thinking along these lines, I've nonetheless found this measuring stick practical, in everyday work.  What license design choices bring a form closer to this ideal?  Where a design deviates, why?  Can new licenses do anything to encourage the right kind of convergence?
+As I've developed my own thinking along these lines, I've nonetheless found this fantasy exercise useful.  What license design choices bring a form closer to this ideal?  Where a design deviates, why?  Can new licenses do anything to encourage the right kind of convergence?
