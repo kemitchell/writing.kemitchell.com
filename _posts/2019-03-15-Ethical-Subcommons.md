@@ -58,7 +58,7 @@ It is good to have a rule about ambiguity.  Succeed, and you'll need one.  But s
 
 When your code of conduct is written, use a method to approve its text that ensures everyone feels their conscience expressed in the work product.  Document that process, and its result, publicly.
 
-No one will feel perfectly confident in the code.  Perfection isn't possible.  Understand that the task is reducing what's _right_ into words that _work_, not absolute truth.  Be pragmatic.  You are practicing applied ethics, or ethical engineering, not ethics more generally.
+No one will feel perfectly confident in the code.  Perfection isn't possible.  Understand that the task is reducing what's _right_ into words that _work_, not absolute truth.  Be pragmatic.  You are practicing applied ethics, or ethical engineering, not ethical theory.
 
 Next, consider whether your community should also adopt an _internal code of conduct_ describing acceptable behavior among those developing software.  You may choose to write your own, or to adopt a generic one.  Consider Blacklist, Whitelist, and Greylist again.
 
