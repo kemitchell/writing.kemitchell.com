@@ -50,7 +50,7 @@ You should also include a clear rule about how to handle cases where application
 
 3. _Delegation_:  When the code isn't clear on a particular use, the question goes to an established body, whose decision making process, succession rules, and transparency processes are firmly established in advance, and accountable.
 
-   Do not understatement the difficulty of creating a quasi-judicial body.  Delegation is never simple.
+   Do not underestimate the difficulty of creating a quasi-judicial body.  Delegation is never simple.
 
 Depending on your group's confidence in its written rules, you may instead prefer Failopen for a Whitelist code, or Failsafe for a Blacklist code.  Give it thought.  These are frameworks for thought, not proven prescriptions.
 
