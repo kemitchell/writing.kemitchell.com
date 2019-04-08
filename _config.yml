@@ -6,8 +6,8 @@ author: Kyle E. Mitchell
 homepage: https://kemitchell.com
 highlighter: rouge
 excerpt_separator: "<!--jump-->"
-repository: kemitchell/writing
-repository_url: "https://github.com/kemitchell/writing"
+repository: kemitchell/writing.kemitchell.com
+repository_url: "https://github.com/kemitchell/writing.kemitchell.com"
 plugins:
 - jekyll-sass-converter
 - jekyll-feed
