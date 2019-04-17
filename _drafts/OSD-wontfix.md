@@ -20,7 +20,7 @@ What we see today has obvious problems.  The kind of obvious problems that show 
 
 The Open Source Definition won't tell you, but folks involved with the Open Source Initiative will try.
 
-Most of the OSI Board's [published affirmation](https://opensource.org/OSD_Affirmation) gushes spurious analogies to standards that _do_ meet technical and legal standards of rigor and _don't_ need authoritative explication, blanket assertions that progress and trust are impossible in open source without consensus around such a rigorous standard, though that's exactly the story of the last ten years, and a baffling theory of how words develop meaning that could drive [a dedicated lexicographer](https://www.youtube.com/user/MerriamWebsterOnline) to drink.  But the final word isn't about the Definition, but the Open Source Initiative itself:
+Most of the OSI Board's [published affirmation](https://opensource.org/OSD_Affirmation) gushes spurious analogies to standards that _do_ meet technical and legal standards of rigor and _don't_ need authoritative explication, blanket assertions that progress and trust are impossible in open source without consensus around such a rigorous standard, though that's exactly the story of the last ten years, and a baffling theory of how words develop meaning that could drive [a dedicated lexicographer](https://www.youtube.com/watch?v=5EeQEqqj-dI) to drink.  But the final word isn't about the Definition, but the Open Source Initiative itself:
 
 > We pledge to guard and maintain the Open Source Definition and we recognize the Open Source Initiative as the steward of the Open Source Definition.
 
