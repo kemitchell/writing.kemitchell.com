@@ -8,8 +8,6 @@ tags:
 - Licensing
 ---
 
-_This post was originally written in early March of 2019.  I held it back for a couple reasons.  First, OSI was then involved in board elections, and I didn't want to further inflame that process.  Second, I was in the process of launching [Blue Oak Council](https://blueoakcouncil.org) with colleagues, an unrelated project that I feared might be unavoidably associated with this post, if they appeared at the same time.  I circulated this post privately, and received great response, but still thought best to delay its timing._
-
 The trouble with [affirming](https://opensource.org/OSD_Affirmation) the Open Source Initiative's [Open Source Definition](https://opensource.org/osd) is that it is not a good definition.  Open source has done well despite it, not because of it.
 
 Even if you think OSI wants to define "open source" in the right way---more [controversial](https://twitter.com/monkchips/status/247584170967175169), both [inside](https://wiki.opensource.org/bin/Main/Open+Source+Initiative+Working+Groups/Beyond+Licensing+Working+Group+Proposal/) and [outside](https://medium.com/@nayafia/i-hate-the-term-open-source-a65fd481a95) OSI, than some care to admit---the definition OSI has isn't precise in any technical sense, and certainly not up to any legal standard.  It doesn't settle important controversies like [how strong open source copyleft licenses can be](https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html) or [whether open source licenses have to cover patents](http://stlr.org/2018/10/15/the-truth-about-oss-frand-by-all-indications-compatible-models-in-standards-settings/), on its own, as written.  Instead of reducing political spats to workable technical problems, the Open Source Definition injects drama, ego, confusion, and citations to unwritten and contested history into even pretty boring licensing discussions.
@@ -55,3 +53,10 @@ The Open Source Initiative should kick off a public project to rewrite the Open 
 If OSI cannot or will not step up to its technocratic aspirations, it should at least conduct its work forthrightly.  Shut down the license-review process, relieving all the sentinels watching the [mailing list](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/) only for fear the org will approve something daft under the vague Definition.  Declare that "open source" was a broad-based movement of the late 1990s and early 2000s that achieved widespread corporate acceptance in the 2010s under MIT, BSD-{2,3}-Clause, Apache 2.0, GPLv2, (A)GPLv3, and a few more niche, foundation- and language-specific forms.  Let new licenses and new communities vie in the court of public opinion for the right to inherit that mantle, as OSI vied in the court of public opinion to establish it.
 
 There is plenty else for OSI to do.
+
+---
+
+This post was originally written in early March of 2019.  I held it back for a couple reasons.  First, OSI was then involved in board elections, and I didn't want to further inflame that process.  Second, I was in the process of launching [Blue Oak Council](https://blueoakcouncil.org) with colleagues, an unrelated project that I feared might be unavoidably associated with this post, if they appeared at the same time.
+
+I circulated this post privately, and received great response, but still thought best to delay publication.  I've never done that before.
+
