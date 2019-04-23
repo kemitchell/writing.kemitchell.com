@@ -3,10 +3,10 @@ title: Open Handicaps
 description: Did permissive used to advantage open work like copyleft does today?
 layout: post
 tags:
-- open source
-- licensing
-- copyleft
-- sustainability
+- Open Source
+- Licensing
+- Copyleft
+- Sustainability
 ---
 
 Hypothesis:  Prior to widespread industry adoption of open source, when most companies banned open source software entirely by contract terms and corporate policies, release of software under even permissive open source licenses like MIT and BSD gave open developers and allied companies competitive advantage.  Open-movement developers could use software that industry at large would not.  Now that industry, and especially the software industry, broadly accepts open source software under permissive licenses, only strong copyleft licenses still preference open development over closed.

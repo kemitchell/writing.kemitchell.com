@@ -2,6 +2,10 @@
 title: "#wontfix"
 description: endorsements can't fix the Open Source Definition
 layout: post
+tags:
+- Open Source
+- Free Software
+- Licensing
 ---
 
 _This post was originally written in early March of 2019.  I held it back for a couple reasons.  First, OSI was then involved in board elections, and I didn't want to further inflame that process.  Second, I was in the process of launching [Blue Oak Council](https://blueoakcouncil.org) with colleagues, an unrelated project that I feared might be unavoidably associated with this post, if they appeared at the same time.  I circulated this post privately, and received great response, but still thought best to delay its timing._

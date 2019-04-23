@@ -4,7 +4,7 @@ description: no holy fools for Open Source
 layout: post
 tags:
 - Open Source
-- Contracting
+- Contracts
 - Governance
 ---
 

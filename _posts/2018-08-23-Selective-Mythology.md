@@ -3,8 +3,8 @@ title: Selective Mythology
 description: defining open source for fun and profit, in the shadow of the enterprise
 layout: post
 tags:
-- open source
-- procurement
+- Open Source
+- Procurement
 ---
 
 _Open source_ is one of those marvelous, vacuous phrases, like _freedom_ or _maturity_, with so many meanings we can't ever be sure what it means, and such a pleasant sheen we just can't take it too seriously.  Open source is an idealistic political movement.  Pragmatic lawyer repellent.  A kind of license.  A kind of process.  A development methodology.  A community.  A right to self-help.  A right to help from others.  An insurrection.  The status quo.  The most modern form of philanthropy.  The cutting-edge business model of tomorrow.

@@ -5,7 +5,7 @@ layout: post
 tags:
 - Killjoy
 - Open Source
-- Patents
+- Patent
 - Software Freedom
 ---
 

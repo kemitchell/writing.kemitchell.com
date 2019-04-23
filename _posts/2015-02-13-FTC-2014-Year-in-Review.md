@@ -6,7 +6,7 @@ tags:
 - Law
 - Privacy
 - Security
-- Start-ups
+- Startups
 - Federal Trade Commission
 ---
 

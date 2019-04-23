@@ -3,7 +3,7 @@ title: The Triplebyte Plan
 description: The tangled web of one start-up equity plan
 layout: post
 tags:
-- Start-Ups
+- Startups
 - Securities
 - Document Structure
 ---

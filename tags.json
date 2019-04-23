@@ -1,0 +1,11 @@
+---
+layout: null
+---
+{% assign sorted = site.tags | sort %}
+{
+    "tags": [
+        {% for tag in sorted %}
+        "{{ tag | first }}"{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ]
+}

@@ -3,7 +3,7 @@ title: The Earl of Ethereum’s Case
 description: Who keeps a blockchain’s conscience?
 layout: post
 tags:
-- Blockchains
+- Blockchain
 - Ethereum
 - Governance
 - History of Law

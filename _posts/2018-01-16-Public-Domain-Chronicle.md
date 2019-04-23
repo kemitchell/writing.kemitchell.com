@@ -5,7 +5,7 @@ layout: post
 tags:
 - Science
 - Licensing
-- Patents
+- Patent
 ---
 
 Last year, I was privileged with the support of the [BioBricks Foundation](https://biobricks.org) in creating [Public Domain Chronicle](https://publicdomainchronicle.org), a combination of open-access journal, public license, [open source software project](https://github.com/publicdomainchronicle), and [federated open data network](https://publicdomainchronicle.org/network) that makes it easy, quick, and free for scientists to secure new findings and methods for the public domain.

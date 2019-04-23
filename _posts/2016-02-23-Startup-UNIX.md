@@ -5,7 +5,7 @@ layout: post
 tags:
 - Legal
 - Open Source
-- Start-up Companies
+- Startups
 ---
 
 _This announcement made concurently on [Ironclad, Inc.'s blog](http://blog.ironcladapp.com/company-blog/announcing-ironsides-open-source-incorporation-documents)._
