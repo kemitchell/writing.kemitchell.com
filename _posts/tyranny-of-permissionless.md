@@ -27,7 +27,7 @@ When business theorists speak of "network effects", they refer, in one manner of
 
 Consider Kubernetes.  I am sure it's good technology.  It's certainly well promoted, and well marketed.  So much so, in fact, that I'm reasonably sure a great number of enthusiastic adopters have, frankly, no need for such complexity, given the nature of their applications.  But the name recognition and technical reputation of Google, the massive budget Google has thrust behind it, and the dynamics of new-hotness in software engineering conspire to make Kubernetes an industry force.
 
-That force was utterly calculated.  Google pushes Kubernetes to crack open the market dominance of Amazon Web Services.
+That force was utterly calculated.  Google pushes Kubernetes to crack open the market dominance of Amazon Web Services.  [Here's their guy saying so.](https://youtu.be/L7WKHLpm4wc?t=156)
 
 RESUME HERE
 
