@@ -5,6 +5,10 @@ layout: post
 permalink: /blogroll
 ---
 
+## Mine
+
+[License Zero Blog](https://blog.licensezero.com)
+
 ## Open Lawyers
 
 [Kate Downing](https://katedowninglaw.com/blog/)
