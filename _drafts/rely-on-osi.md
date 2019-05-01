@@ -21,6 +21,14 @@ I have criticized the Open Source Definition and the way the Open Source Initiat
 
 ## Do Not Want
 
-By far the most common misunderstanding is that all OSI-approved licenses make software available for building commercial projects, products, and services. If that is true at all, it is only technically true.  Making it practically true is an activist goal of some folks active in OSI.  But they have not yet succeeded in convincing business to meet the requirements of many licenses OSI has approved.
+### Copyleft
 
-Software licensing wonks distinguish "permissive" and "copyleft" licenses.  Roughly speaking, permissive licenses give permission to do nearly anything with software, including building other software that's licensed under terms, like typical commercial software license terms, that OSI does not approve, or software that isn't shared outside a company at all.  Copyleft licenses, by contrast, require sharing and licensing new software built with copyleft-licensed software in much the same way in at least some situations.  Permissive licenses say you can do what you like.  Copyleft say you can do what you like, but if what you do is build more software, you must share alike, in specific circumstances.
+By far the most common misunderstanding is that all OSI-approved licenses make software available for building commercial projects, products, and services.  If that is true at all, it is only technically true.  Making it practically true is a longtime goal of some activists working through OSI.  But they have not yet succeeded in convincing business to meet the requirements of many licenses OSI has approved.
+
+Software licensing wonks distinguish "permissive" and "copyleft" licenses.
+
+Roughly speaking, permissive licenses give permission to do nearly anything with software.  That includes building other software that's licensed under typical commercial software license terms, which OSI does not approve.  And it includes building software that isn't licensed, or even shared, outside a company at all.
+
+Copyleft licenses, by contrast, require sharing and licensing new software built with copyleft-licensed software.  Specifically, you must share all the code in the best way for others to make changes, and license under OSI-approved terms. 
+
+Permissive licenses say you can do what you like.  Copyleft licenses say you can do what you like, but if what you do is build more software, you must share alike.  Copyleft licenses differ in what they require you to share, and when you're required to share.  But all copyleft licenses require sharing in at least some situations.  Under old copyleft licenses, it's often hard to tell whether you have to share or not.
