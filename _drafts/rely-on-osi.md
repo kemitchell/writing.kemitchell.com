@@ -31,38 +31,62 @@ Receive: strong, activist copyleft (GPLv3)
 
 By far the most common misunderstanding is that all OSI-approved licenses make software available for building commercial projects, products, and services.  If that is true at all, it is only technically true.
 
-Making it practically true is a longtime goal of some activists working through OSI.  But they have not yet succeeded in convincing business to meet the requirements of many licenses OSI has approved.
+Making it practically true is a longtime goal of some activists working through OSI.  But they have not succeeded in convincing the software industry as a whole to meet the requirements of many licenses approved.
 
-Software licensing wonks distinguish "permissive" and "copyleft" licenses.
+Software licensing wonks distinguish "permissive" and "copyleft" licenses.  You should, too.
 
 Roughly speaking, permissive licenses give permission to do nearly anything with software.  That includes building other software that's licensed under typical commercial software license terms, which OSI does not approve.  And it includes building software that isn't licensed, or even shared, outside a company at all.
 
-The MIT License is a common permissive license.
+[The MIT License](https://opensource.org/licenses/MIT) is a common permissive license.
 
 Copyleft licenses, by contrast, require sharing and licensing new software built with copyleft-licensed software.  Specifically, you must share all the code in the best way for others to make changes, and license under OSI-approved terms.
 
-The GNU General Public License, Version 3 is a common copyleft license.
+[The GNU General Public License, Version 3](https://opensource.org/licenses/GPL-3.0) is a common copyleft license.
 
 Permissive licenses say you can do what you like.  Copyleft licenses say you can do what you like, but if you build other software, you must share and license that software alike.
 
-Copyleft licenses differ in what they require you to share, and when you're required to share.  But all copyleft licenses require sharing in at least some situations.  Under old copyleft licenses, it's occasionally hard to tell whether you have to share or not, even with professional advice.
+Copyleft licenses differ in how much they require you to share, and when you're required to share.  But all copyleft licenses require sharing in at least some situations.  Under many copyleft licenses, it's occasionally hard to tell whether you have to share or not, even with professional advice.
 
-I wish copyleft were simpler.  I'm working hard on that.  I wish more people, and more businesspeople, understood how well it can work for for them, giving and receiving.  I'm working hard on that, too.  But copyleft is like a free puppy, where permissive is more like free candy.  Unless you happened to secretly want a puppy, receiving a puppy as a surprise is not a welcome surprise.
+I wish copyleft were simpler.  I'm working on that.  I wish more people, and more businesspeople, understood how well copyleft can work for for them, giving and receiving.  I'm working on that, too.  But copyleft is like a free puppy, where permissive is more like free candy.  If you secretly want a puppy, a puppy is great.  Otherwise, surprise puppies are not a welcome surprises.
 
-If you define acceptable licenses as whatever OSI approves, expecting permissive candy, you may receive unwelcome copyleft puppies instead.  I have seen companies sponsor "open source" development, delivery under OSI-approved license, only to discover they had to pay the same developer again to use the new software without making their product "open source", too.
+If you define acceptable licenses as whatever OSI approves, expecting permissive candy, you may receive surprise copyleft puppies.  I have seen companies sponsor "open source" development, delivery under OSI-approved license of developer's choice, only to discover they had to pay the same developer again to use the new software without sharing their proprietary software under copyleft license, too.
 
-## Specific Copyleft
+## Vintage Copyleft
+
+<!--GPLv2 best known-->
+
+<!--Knowledge percolates slowly.  We're working on that together as you read!-->
 
 ## Patent Coverage
 
+<!--MIT, BSD-->
+
+<!--UPL-->
+
 ## No Patent Coverage
+
+<!--CC0, PD, Bernstein et al., don't roll your own crypto, SQLite-->
 
 ## Common Permissive Licenses
 
+<!--diff Blue Oak and OSI-->
+
 ## Standardized Compliance
 
+<!--CPAL, badgeware, BSD variants galore-->
+
+<!--changes notices, patch files, name protections-->
+
 ## Legal Rigor
+
+<!--Fair-->
 
 ## English Language
 
 <!--LiLiQ-->
+
+## Reluctantly: Blue Oak
+
+<!--permissive list, ratings-->
+
+<!--copyleft family tree-->
