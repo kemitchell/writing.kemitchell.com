@@ -62,3 +62,7 @@ If you define acceptable licenses as whatever OSI approves, expecting permissive
 ## Standardized Compliance
 
 ## Legal Rigor
+
+## English Language
+
+<!--LiLiQ-->
