@@ -7,7 +7,7 @@ tags:
 - Licensing
 ---
 
-Relying on the Open Source Initiative to approve and disapprove of licenses, for legal effect, is a misapplication and a bodge.  In nearly any practical context, OSI-approved will include licenses that you definitely don't want, and leave out licenses you do.
+Relying on the Open Source Initiative to approve and disapprove of licenses, for legal effect, is a misapplication and a bodge.  In nearly any practical context, the OSI-approved list will include licenses that you definitely don't want, and leave out licenses you definitely do.
 
 ![Venn Diagram](/images/want-osi-do-not-want.svg)
 
