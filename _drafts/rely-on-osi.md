@@ -7,7 +7,7 @@ tags:
 - Licensing
 ---
 
-Relying on the Open Source Initiative to approve and disapprove of licenses, for legal effect, is a misapplication and a bodge.  In nearly any practical context, the set of OSI-approved licenses will include licenses that you want to exclude, and omit licenses that you want.
+Relying on the Open Source Initiative to approve and disapprove of licenses, for legal effect, is a misapplication and a bodge.  In nearly any practical context, OSI-approved will include licenses that you definitely don't want, and leave out licenses you do.
 
 ![Venn Diagram](/images/want-osi-do-not-want.svg)
 
@@ -17,11 +17,11 @@ I help clients draft contracts, policies, and other terms all the time.  More of
 
 Every time I have answered those questions by referencing OSI approval, I have come to regret it.  I've helped clients make others regret it, too.
 
-Unless your purpose is to track OSI's political history or bolster OSI's esteem at the expense of your own practical interests, don't define "open source" by OSI approval, and don't incorporate the approved list by reference for legal consistency or completeness.  OSI has racked up approvals not just by analytical rigor, but by a combination of analytical rigor, political expedience, and activist strategy.
+Unless your purpose is to track OSI political history or bolster OSI esteem at some expense to yourself, don't define "open source" by OSI approval, and don't incorporate OSI's approved list by reference for legal consistency or completeness.  OSI has racked up approvals not just by analytical rigor, but by analytical rigor, political expedience, and prevailing activist strategy.  Political expedience and prevailing activist strategy do not afford much chance to correct, or even agree on, which approvals were actually mistakes.
 
-I have criticized the Open Source Definition and the way the Open Source Initiative claims to apply it.  I do not criticize here.  Rather, I draw attention to a fundamental mismatch of need, perception, and purpose.  A difference of kind, not a shortcoming of quality or transparency.
+I have criticized the Open Source Definition and the way the Open Source Initiative claims to apply it.  I do not criticize here.  Rather, I draw attention to fundamental misfits of need, purpose, and perception.  These are differences of kind, not shortcomings of quality or transparency.  You can read nearly all licenses that OSI has approved on opensource.org, and verify whether they were approved.
 
-Let's review some common mistakes.
+Let's review some common pitfalls.
 
 ## Copyleft
 
