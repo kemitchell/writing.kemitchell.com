@@ -19,7 +19,9 @@ Every time I have answered those questions by referencing OSI approval, I have c
 
 Unless your purpose is to track OSI political history or bolster OSI esteem, potentially at some expense to yourself, don't define "open source" by OSI approval in rules, and don't incorporate OSI's approved list by reference for consistency or completeness.  OSI applies analytical rigor to licenses.  But also political expedience, though-leader fashion, and prevailing activist strategy.  Political expedience, thought-leader fashion, and prevailing activist strategy do not afford much chance to correct, or even agree on, which approvals were actually mistakes.
 
-I have criticized the Open Source Definition and the way the Open Source Initiative claims to apply it.  I do not criticize here.  Rather, I draw attention to common misalignments of need, purpose, and perception.  These are differences of kind, not shortcomings of quality or transparency.  You can read nearly all licenses that OSI has approved on opensource.org, and verify their approval.  But to choose and advise responsibly, for specific needs, we must look past how those terms and choices are presented, and read them for ourselves.
+I have criticized the Open Source Definition and the way the Open Source Initiative claims to apply it.  I do not criticize here.  Rather, I draw attention to common misalignments of need, purpose, and perception.  These are differences of kind, not shortcomings of quality or transparency.
+
+You can read nearly all licenses that OSI has approved on opensource.org, and verify their approval, for yourself.  To choose and advise on open source licenses responsibly, for specific, practical needs, we must look past how those terms and choices are presented, and contend with what they say.
 
 ## Copyleft
 
