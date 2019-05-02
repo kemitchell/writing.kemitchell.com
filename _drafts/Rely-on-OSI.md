@@ -11,7 +11,7 @@ Relying on the Open Source Initiative to approve and disapprove of licenses, for
 
 ![Venn Diagram](/images/want-osi-do-not-want.svg)
 
-There valid and wise ways to rely on OSI. Especially in policy advocacy, where an old nonprofit can go and say where and what you can't.  But relying on a lay advocacy organization to approve licenses for specific, practical effect is different.  In the jargon, it’s a type error.
+There valid and wise ways to rely on OSI. Especially in policy advocacy, where an old nonprofit can go and say where and what you can't.  But relying on a lay advocacy organization to approve licenses for specific, practical effect is different.  In the jargon, it’s a type error, a round peg that happens to fit, badly, in a square hole.
 
 I help clients draft contracts, policies, and other terms all the time.  More often than not, those terms deal with open source software.  What licenses will the developer apply to their work under contract?  What licenses can they accept for the work of others they will use on the job?  What kinds of projects will a service allow, or allow for free?  How will a nonprofit share work they will do under a grant?  If programmers want to use software they find online under free-of-charge licenses, which are okay, which aren't, and which require special review?
 
