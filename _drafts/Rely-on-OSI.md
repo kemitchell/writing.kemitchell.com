@@ -27,25 +27,25 @@ You can read nearly all licenses that OSI has approved on opensource.org, and ve
 
 By far the most common misunderstanding is that all OSI-approved licenses make software available for building commercial projects, products, and services.  If that is true at all, it is only technically true, not practically true.
 
-Making it practically true has been a longtime goal of some activists working through OSI.  But they have not succeeded in convincing the software industry to meet requirements of many licenses approved.
+Making it practically true has been a longtime goal of some activists working through OSI.  But they have not succeeded in convincing the software industry to meet requirements of many licenses approved.  If your company makes commercially available software, chances are your business model conflicts with significant licenses OSI has approved.
 
 If you reference OSI approval expecting permissive, business-friendly terms, you may get strong, activist copyleft terms instead.  Software licensing wonks distinguish "permissive" and "copyleft" open source licenses.  You should, too.
 
-Roughly speaking, permissive open source licenses give everyone permission to do nearly anything with software, for free.  That includes building other software that's licensed under typical commercial software license terms, which OSI does not approve.  And it includes building software that isn't licensed, or even shared, outside a company at all.
+Roughly speaking, permissive open source licenses give everyone the right to do nearly anything with software, for free.  That includes building other software that's licensed under typical commercial software license terms, as opposed to open source terms.  It includes building software that isn't licensed, or even shared, outside a company at all.
 
 [The MIT License](https://opensource.org/licenses/MIT) is a common permissive license.
 
-Copyleft open source licenses, by contrast, require sharing and licensing new software built with copyleft-licensed software.  Specifically, you must share all the code in the best way for others to make changes, and license under open source terms.
+Copyleft open source licenses, by contrast, require sharing and licensing new software built with copyleft-licensed software.  Specifically, you must share code in the best way for others to make changes, and license under open source terms.
 
 [The GNU General Public License, Version 3](https://opensource.org/licenses/GPL-3.0) is a common copyleft license.
 
-Permissive open source licenses say you can do what you like.  Copyleft open source licenses say you can do what you like, but if you build other software, you must share and license that software alike.
+Permissive open source licenses say you can do what you like.  Copyleft open source licenses say you can do what you like, but if you build other software, you must share and license that software alike.  Perhaps you hadn’t planned to be so generous.
 
 Copyleft licenses differ in how much they require you to share, and when you're required to share.  But all copyleft licenses require sharing in at least some situations.  Under many copyleft licenses, it's occasionally hard to tell whether you have to share or not, even with professional help.
 
-I wish copyleft were simpler.  I'm working on that.  I wish more people, and more businesspeople, understood how well copyleft can meet their needs, both giving and receiving.  I'm working on that, too.  But if permissive open source is free candy, copyleft is a free puppy.  If you want a puppy, a puppy is great.  If you don’t want a puppy, receiving one as a surprise isn’t the best.  Puppies need to food, love, and house training. You may not be ready to give.
+I wish copyleft were simpler.  I'm working on that.  I wish more people, and more businesspeople, understood how well copyleft can meet business needs, giving and receiving.  I'm working on that, too.  But if permissive open source is free candy, copyleft is a free puppy.  If you want a puppy, a puppy is great.  If you don’t want a puppy, receiving one as a surprise ain’t the best.  Puppies need food, love, and house training.
 
-If you define acceptable licenses as whatever OSI approves, expecting permissive candy, you may receive surprise copyleft puppies.  I have seen companies sponsor "open source" development, delivery under OSI-approved license of developer's choice, only to discover they had to pay the same developer again to use the work without sharing their proprietary code as open source.  Oops.
+If you define acceptable licenses as whatever OSI approves, expecting permissive candy, you may receive surprise copyleft puppies.  I have seen companies sponsor "open source" development, delivery under OSI-approved license of developer's choice, only to discover they had to pay the same developer again to use the work without sharing their product code as open source.  Oops.
 
 ## Vintage Copyleft
 
