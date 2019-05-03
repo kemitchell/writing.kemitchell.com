@@ -49,6 +49,14 @@ If you define acceptable licenses as whatever OSI approves, expecting permissive
 
 ## Vintage Copyleft
 
+Even if you rely on OSI license approval and see copyleft coming, you may not get the copyleft you expect.  The effect be bit like trying weed for the first time since ‘69.  The old stuff is still around, somewhat nostalgically so.  But chances are, the first hit is less of a throwback, and more of a short course in how far things have come.
+
+When many practitioners think copyleft, they think “GPL” or “GNU General Public License”.  There are a few versions of that license, the best-known of which is version 2.  You’re likely to see it a lot.
+
+GPLv2 got a lot of press in the late 1990s and early 2000s.  Bad press.  Sensational press.  At the time, straight-laced firms who saw copyleft licensing, and open source more generally, as a tune-in, drop-out threat to their order invested heavily in writing, telling, and spreading scary stories about the GPL and intellectual property jumping out of office building windows.  The scarier the story, in general, the less likely it was true.  But the aftershocks of that PR bombing campaign are still being felt, like shudders of anxiety through the industry.
+
+As industry does, coping mechanisms were developed.  An entirely new consultative sub-practice, a licensing-industrial complex, spontaneously self-organized to sell the cure for copyleft, in equal and opposite reaction to how terrifying it was made out to be. Some of that opportunity empowered those who knew whereof they spoke to be heard (and paid) for a change.  But few were the wise, many were the expedient, and peddlers of cartoonish compliance training, materials, and programs sowed the land.  We are still feeling the effects of that, too.
+
 <!--GPLv2 best known-->
 
 <!--Knowledge percolates slowly.  We're working on that together as you read!-->
