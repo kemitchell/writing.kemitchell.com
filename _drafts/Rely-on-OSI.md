@@ -153,15 +153,19 @@ This is what some OSI participants pejoratively term a "crayon license".  I have
 
 ## English Language
 
-If you were thinking, worse comes to worst, you can always just read the terms OSI approved, I hope that you read French.  See Licence Libre du Québec [Permissive](https://opensource.org/licenses/LiLiQ-P-1.1), [Réciprocité](https://opensource.org/licenses/LiLiQ-R-1.1), and [Réciprocité forte](https://opensource.org/licenses/LiLiQ-Rplus-1.1).  It couldn't possibly be worse than the rat's nests some English drafters have got approved.  But if I were going to pick a kind of license to read in adopted cant, it wouldn't be "reciprocal strong".
+If you were thinking, worse comes to worst, you can always just read the terms OSI approved, I hope that you read French: Licence Libre du Québec [Permissive](https://opensource.org/licenses/LiLiQ-P-1.1), [Réciprocité](https://opensource.org/licenses/LiLiQ-R-1.1), and [Réciprocité forte](https://opensource.org/licenses/LiLiQ-Rplus-1.1).
 
-I've had the opportunity to command three natural languages in my life.  I'm best at English, but it's by far my least favorite.  I could not stand more in favor of open source licenses for and from other language communities, as a matter of principle.  But only as a matter of principle.  I'm competent to schmooze over [Lorca](https://en.wikipedia.org/wiki/Lorca) or [Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges), find fire and ice in [Bely](https://en.wikipedia.org/wiki/Andrei_Bely) or [Blok](https://en.wikipedia.org/wiki/Blok).  But not to advise clients on complex license terms in those languages.
+It couldn't possibly be worse than the rat's nests some English drafters have got approved.  But if I were going to pick a kind of license to read in adopted cant, it wouldn't be "reciprocal strong".
+
+I've had the opportunity to command three natural languages in my life.  I'm best at English, but it's by far my least favorite.  I strongly support the creation and use of open source licenses for and from other language communities, as a matter of principle.
+
+Principle is far as I can go.  I'm competent to schmooze over [Lorca](https://en.wikipedia.org/wiki/Lorca) or [Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges), find fire and ice in [Bely](https://en.wikipedia.org/wiki/Andrei_Bely) or [Blok](https://en.wikipedia.org/wiki/Blok).  But not to advise clients on complex license terms in those languages.
 
 Perhaps:
 
 > any license approved by the Open Source Initiative in English or official English translation
 
-But I've never seen that in any legal terms.
+But I've never seen that in the wild.  It's still likely over- and under-inclusive, for all the reasons above.
 
 ## Enthusiastically: Blue Oak
 
