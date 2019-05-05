@@ -7,29 +7,29 @@ tags:
 - Licensing
 ---
 
-Relying on the Open Source Initiative approval to get the kind of software license you expect is almost always trouble.  For nearly any practical need, the OSI-approved list will green-light licenses you don't want, and red-light many you do.
+Relying on Open Source Initiative approval to get the kind of software license you expect is almost always trouble.  For nearly any practical need, the OSI-approved list will green-light licenses you don't want, and red-light many you do.
 
 ![Venn Diagram](/images/want-osi-do-not-want.svg)
 
-There valid and wise ways to rely on OSI. Especially in policy advocacy, where an old nonprofit can go and say where and what you can't.  But relying on a lay advocacy organization to approve licenses for specific legal effect is different.  It’s a type error.
+There valid and wise ways to rely on OSI.  Especially in policy advocacy, where a nonprofit can go and say where and what you cannot.  But relying on an advocacy organization to approve legal terms for specific legal effect is different.  It’s category error.
+
+I have criticized the Open Source Definition and the way the Open Source Initiative claims to apply it before.  Not here.  Rather, I hope to draw attention to simple mismatches of need, purpose, and perception.
 
 I help clients draft contracts, policies, and other terms all the time.  More often than not, those terms deal with open source software.  What licenses will the developer apply to their work under contract?  What licenses can they accept for the work of others to use on the job?  What kinds of projects will a service host, or host for free?  How will a nonprofit share work they will do under a grant?
 
-Every time I have answered such a question by referencing OSI approval, I came to regret it.  I've helped clients make others regret it, too.
+Every time I've answered one of those questions by referencing OSI approval, I came to regret it.  I've helped clients make others regret it, too.
 
-Unless your purpose is to track OSI political history or bolster OSI esteem, potentially at your own expense, don't define "open source" by OSI approval in rules, and don't incorporate OSI's list of approved licenses by reference for consistency or completeness.  OSI applies analytical rigor to licenses.  But also institutional expedience, thought-leader fashion, prevailing activist strategy, and internal politics.  Expedience, fashion, activism, and politics do not leave room to correct analytical mistakes, or even to acknowledge them as such.
-
-I have criticized the Open Source Definition and the way the Open Source Initiative claims to apply it.  I do not criticize here.  Rather, I draw attention to simple mismatches of need, purpose, and perception.
+Unless your purpose is to track OSI political history or bolster OSI esteem, don't define "open source" by OSI approval in written rules, and don't incorporate OSI's list of approved licenses by reference for consistency or completeness.  OSI applies some analytical rigor to licenses.  But also institutional expedience, thought-leader fashion, prevailing activist strategy, and internal politics.  Expedience, fashion, activism, and politics do not leave room to correct mistakes, or sometimes even to acknowledge them as such.  As a consequence, OSI's license list is littered with obvious outliers.
 
 You can read nearly all licenses that OSI has approved on opensource.org. You can verify they’ve been approved for yourself.  To choose and advise on open source licenses responsibly, for specific, practical needs, we must look past how those terms and choices are presented, and contend with what they say.
 
 ## Copyleft
 
-By far the most common misunderstanding is that all OSI-approved licenses make software available for building commercial projects, products, and services.  If that is true at all, it is only technically true, not practically.
+By far the most common misunderstanding is that all OSI-approved licenses make software available for building commercial projects, products, and services.  If that is true at all, it is only technically true.
 
-Making it practically true has been a longtime goal of some activists working through OSI.  But they have not succeeded in convincing industry to meet all the demands of licenses approved.  If your company makes commercially available software, chances are your business model conflicts with significant OSI-approved licenses.
+Making it practically true has been a longtime goal of some activists working through OSI.  But they have not succeeded in convincing industry to meet all the demands of approved licenses, or at least not willingly.  If your company makes commercially available software, chances are your business model conflicts with significant OSI-approved licenses.  In particular, if you reference OSI approval expecting permissive, business-friendly terms, you may get strong, activist copyleft terms instead.
 
-In particular, if you reference OSI approval expecting permissive, business-friendly terms, you may get strong, activist copyleft terms instead.  Software licensing wonks distinguish "permissive" and "copyleft" open source licenses.  You should, too.
+Software licensing wonks distinguish "permissive" and "copyleft" open source licenses.  You should, too.
 
 Roughly speaking, permissive open source licenses give everyone the right to do nearly anything with software, for free.  That includes building other software that's licensed under typical commercial software license terms, as opposed to open source terms.  It includes building software that isn't licensed, or even shared, outside a company at all.
 
@@ -43,41 +43,43 @@ Permissive open source licenses say you can do what you like.  Copyleft open sou
 
 Copyleft licenses differ in how much they require you to share, and when you're required to share.  But all copyleft licenses require sharing in at least some situations.  Under many copyleft licenses, it's occasionally hard to tell whether you have to share or not, even with professional help.
 
-I wish copyleft were simpler.  I'm working on that.  I wish more people, and more businesspeople, understood how well copyleft can meet business needs, giving and receiving.  I'm working on that, too.  But if permissive open source is free candy, copyleft is a free puppy.  If you want a puppy, a puppy is great.  If you don't want a puppy, receiving a surprise one isn’t the best.
+I wish copyleft were simpler.  I'm working on that.  I wish more software developers and businesspeople understood how well copyleft can serve their goals.  I'm working on that, too.  But if permissive open source is free candy, copyleft is a free puppy.  If you want a puppy, a free puppy is great.  If you don't want a puppy, receiving a free one by surprise can be costly and awkward.
 
-If you define acceptable licenses as whatever OSI approves, expecting permissive candy, you may receive surprise copyleft puppies.  If your company sponsors "open source" development, delivery under OSI-approved license of developer's choice, you may discover that you have to pay twice. Once to have it made unde a license you can’t accept, and again for an exception to that license’s rules, or to have the software made again from scratch.
+If you define acceptable licenses as whatever OSI approves, expecting permissive candy, you may receive surprise copyleft puppies.  For example, if your company sponsors "open source" development, delivery under OSI-approved license of developer's choice, you may discover that you have to pay twice.  First to have it made available under a license you can’t accept, then again for an exception to that license’s rules, or to have the software made again from scratch.  Specify a particular license, or a process for choosing a license, instead.
 
 ## Vintage Copyleft
 
-Even if you rely on OSI license approval and see copyleft coming, you may not get the copyleft you expect.  The effect can be a bit like trying marijuana for the first time since 1969.  The old stuff is still around.  But chances are good that experience will be less of a throwback to yesteryear, and more of a catapult ride to the present.
+Even if you see copyleft coming, you may not get the copyleft you expect.  The effect can be a bit like trying marijuana for the first time since the Summer of Love.  The old stuff is still around.  But chances are good that your new experience will be less of a throwback to yesteryear, and more of a catapult ride to the present.
 
 When many practitioners think copyleft, they think "GPL" or "GNU General Public License".  There are a few versions of that license, the best-known of which is version 2.  You're likely to see it.
 
-GPLv2 got a lot of press in the late 1990s and early 2000s.  Sensational press.  At the time, straight-laced firms eyeing open source as a tune-in, drop-out threat to their order invested heavily in writing and telling very scary stories about GPLv2.  Hard-won intellectual property was throwing itself out of office windows.  The scarier the story, in general, the less likely it was to be true.
+GPLv2 got a lot of press in the late 1990s and early 2000s.  Sensational press.  At the time, straight-laced firms eyeing open source as a tune-in, drop-out threat to their order invested heavily in writing and telling scary stories about GPLv2.  Hard-won intellectual property was practically throwing itself out of office windows, it was said.  The scarier the story, in general, the less likely it was to be true.
 
-Industry concocted various coping mechanisms.  An entirely new consultative sub-practice, a licensing-industrial complex, spontaneously self-organized to sell cures for the common copyleft, in equal and opposite reaction to how terrifying it was made out to be. Some of that opportunity empowered those who knew whereof they spoke to get heard and paid for a change.  But few and cautious were the wise, many and loud were the bold, and peddlers of cartoonish compliance training, materials, and programs canvassed the land.  We are still feeling their effects.
+Industry promptly concocted coping mechanisms for managerial anxiety.  An entirely new consultative sub-practice, a licensing-industrial complex, spontaneously self-organized to sell cures for the common copyleft, in equal and opposite reaction to how terrifying it was made out to be.  Some of that opportunity empowered those who knew whereof they spoke to get heard and paid for a change.  But few and cautious were the wise, many and loud were the bold, and peddlers of cartoonish compliance training, materials, and programs canvassed the land.  We are still feeling their consequences.
 
-If your compliance approach to copyleft code is really a compliance program for GPLv2 as conceived by an itinerant PowerPoint jockey in 1999, you are likely to have engrained shortcuts, rules of thumb, and certain dubiously crafty, rumor-borne trickery for avoiding obligations to release company code as hippy fodder.  Dynamic not static linking.  Avoiding "distribution" in myriad ways.  Gating software releases on audit and verification.  Some of these make sense.  Some are "but I didn't inhale".
+If your compliance approach to copyleft code is really a compliance approach to GPLv2 as conceived by an itinerant PowerPoint jockey circa 1999, you are likely to have ingrained shortcuts, rules of thumb, and certain dubiously crafty, rumor-borne trickeries for avoiding obligations to release company code as hippy fodder.  Dynamic not static linking.  Avoiding "distribution" in myriad ways.  Gating software releases on audit and verification.  Some of these make sense.  Some are "but I didn't inhale".
 
 Times have changed.  Copyleft has changed.  OSI has approved new copyleft licenses.
 
-GPL version 3 wants more code, brings merry license pranks to the brave new world of patents, and expresses entirely new, idiosyncratic conditions.  The Affero GPL is wise to the most reliable weakness of its brethren---sharing software as a service instead of software to install---and takes pains to close the loop by tying a big new knot in it.  The Open Software License, also in many versions, reads like a business lawyer wrote it, because one did, and carries itself straight-laced and sportsmanlike, pulling no punches and abiding no tricks.  The Reciprocal Public License, in two versions, doesn't care if you "distribute", and wants even more code than GPL and friends.  It reads like a contract pasted together by a savant, because it was.
+GPL version 3 wants more code, brings merry license pranks to the brave new world of patents, and expresses entirely new, idiosyncratic conditions.  The Affero GPL is wise to the most reliable weakness of its brethren---sharing software as a service instead of software to install---and takes pains to close the loop by tying a big new legal knot in it.  The Open Software License, also in many versions, reads like a business lawyer wrote it, because one did, and carries itself straight-laced and sportsmanlike, pulling no punches and abiding no tricks.  The Reciprocal Public License, in two versions, requires code even if you don't "distribute", and even more than GPL and friends.  It reads like a contract pasted together piece-part by a lay legal savant, and it might have been.
 
-These stronger copyleft licenses aren't so popular as old GPLv2. But if you invite OSI-approved, they may welcome themselves to your party.  Mistake them for GPLv2 at the door, and they will nod politely, snicker off to the punch, nurse their rage, and eventually make a scene.
+These stronger copyleft licenses aren't so popular as old GPLv2.  But if you invite OSI-approved, they may welcome themselves to your party.  Mistake them for GPLv2 at the door, and they will nod politely, snicker off to the punch, nurse their rage, and eventually make a scene.
 
-I am altogether in favor of better, stronger copyleft licenses that do what they intend, require sharing alike, and say what they mean, in terms non-wonks can manage without Motrin.  It's hardly a bad thing to understand these licenses, appreciate them, and especially to deploy them tactically, potentially with irreplaceable effect.  But the dark source of much of their power remains the element of surprise.  They are esoteric, but OSI approved.  Even many folk savvy to open source remain blissfully unaware of their innovations.  Don't get caught thinking GPLv2 vintage 1989, and contending with AGPLv3 2007.
+I am altogether in favor of better, stronger copyleft licenses that do what they intend, require sharing alike, and say what they mean, in terms non-wonks can manage without Motrin.  It's hardly a bad thing to understand these licenses, appreciate them, and especially to deploy them tactically, potentially with irreplaceable effect.  But the dark source of much of their power remains the element of surprise.  They are esoteric, but OSI approved.  Even many folk savvy to open source remain blissfully unaware of their innovations.
+
+Don't get caught thinking GPLv2 vintage 1991, and swallowing AGPLv3 2007.
 
 ## Patent Coverage
 
-Permission to use software is almost always a matter of copyright law.  Less often, it is also a matter of patent law.  But when a patent does cover a program, the implications can be gravely expensive.  Avoiding patent infringement with software is low-probability, high-cost risk, and therefore essential to permission, the privilege an open software license is supposed to bestow.
+Permission to use software is almost always a matter of copyright law.  Less often, it is also a matter of patent.  But when a patent does cover a program, the implications can be gravely expensive.  Avoiding patent infringement with software is low-probability, high-cost risk, and therefore essential to permission, the very privilege an open software license is supposed to bestow.
 
 Reviewing and approving licenses implies a certain amount of legal savvy.  OSI has had access to fantastic legal talent over the years, both in-house and volunteer.  But those expecting OSI-approved licenses to uniformly address the patent problem may be rudely disappointed.
 
-The first issue is old license forms.  Many of the most popular public software licenses are also the oldest, or descended from the oldest.  "BSD" and "MIT" families of license terms come down by direct line from notices written up by university tech transfer offices in the 1980s.  Widespread legal involvement in open software, and due concern for the existence of patents, didn't make the scene until the late 1990s, around the time of OSI's formation.
+The first issue is old license forms.  Many of the most popular public software licenses are also the oldest, or descended from the oldest.  "BSD" and "MIT" terms come down from notices written up by university tech transfer offices in the 1980s.  Widespread legal involvement in open software, and due concern for the existence of patents thereon, didn't make the scene until near 2000, around the time of OSI's birth.
 
-These old "academic" licenses are clearly generous, but it's not clear form their texts whether such generosity extends to patents.  There is hope, in the form of various rules of background law.  But unless and until a clear case hits the record, those terms entitle users to pay lawyers to argue about implied licenses, rather a clear explicit license to rely upon without fear.
+The old "academic" licenses are clearly generous, but it's not clear from their terms whether that generosity extends to patents.  There is hope, in the form of various rules of background law, to say what the licenses don't.  But unless and until a clear case on the licenses hits the record, those licenses entitle users to pay lawyers to argue  implications, rather a clear explicit license to depend on without fear.
 
-Then there's the absolute outlier, the Adaptive Public License, with this quirky check-the-box patent part:
+Then there's the absolute outlier, the Adaptive Public License, with this quirky check-the-box patent worksheet:
 
 > ## Part 6: Patent Licensing Terms
 >
@@ -99,15 +101,15 @@ OSI declined to approve Creative Commons' CC0-1.0 public domain dedication for [
 
 ## No Patent Coverage
 
-Relying on OSI approval on patents can not only leave you without patent protection when you expect it, it can also stop you using perfectly safe software under popular patent-less terms, when there aren't any patents to worry about.
+Relying on OSI approval on patents can not only leave you without patent protection when you expect it, it can also stop you using perfectly safe software under popular patent-less terms when there aren't any patents to worry about.
 
-CC0-1.0, mentioned above, is worth mentioning again.  It's a tremendously popular in academic and government circles.
+CC0-1.0, mentioned above, is worth mentioning again.  It's tremendously popular in government and academe.
 
-Releases into the the public domain without using CC0 or any standard terms are also fairly common.  That software isn't available under an OSI-approved license.  But using it may pose essentially no risk.
+Likewise self-styled releases into the public domain without use of CC0 or any standard terms.  That software isn't available under an OSI-approved license.  But using it may pose essentially no risk.
 
 ## Missing Permissive Licenses
 
-Even when software _is_ available under an explicit permissive license, OSI may not have got around to approving it.  Or OSI may have intentionally refused to approve the license, despite it being legally fine, to discourage "[license proliferation](https://opensource.org/proliferation)".
+Even when software _is_ available under an explicit permissive license, OSI may not have got around to approving it.  Or OSI may have intentionally refused to approve the license, despite it being quite like many others it has, to discourage "[license proliferation](https://opensource.org/proliferation)".
 
 Discouraging multiple licenses that say essentially the same thing is perhaps noble.  But nobility doesn't pay when you or your team need a particular piece of software under a less-common set of terms.
 
