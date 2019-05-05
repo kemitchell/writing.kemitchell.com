@@ -165,12 +165,12 @@ Perhaps:
 
 But I've never seen that in the wild.  And it's still over- and under-inclusive, for all the rest of then reasons above.
 
-## Enthusiastically: Blue Oak
+## Alternatives
 
-<!--permissive list, ratings-->
+In my experience, most folks who don’t already know about aberrations on OSI’s approved license list say “open source” and want something more specific: permissive public software licenses they can handle in essentially the same way.
 
-<!--copyleft family tree-->
+Blue Oak Council, a nonprofit council of open licensing lawyers I recently helped to create, came together around shared need for [a list of just such licenses](https://blueoakcouncil.org/list). When advising small and nonprofit companies, whether on compliance, grant, or contract terms, my colleagues and I routinely sought approaches to open source licensing that unlock 90% of the value of open source without the 10% of edge cases.
 
-## Flippantly: Public
+A published, updated license list was the missing building block. We each had our own incomplete version. Those turned out to be almost completely consistent, lawyer to lawyer, and therefore easy to combine and refine. And also to show in action, in [example language for various kinds of terms](https://blueoakcouncil.org/examples), from sample company policies to contract snippets.
 
-<!-- GitHub, Travis CI -->
+Encouraged by that successs, we’re exploring similar materials on copyleft licenses. I hope we will have a similar list and examples to share for those interested in copyleft soon.
