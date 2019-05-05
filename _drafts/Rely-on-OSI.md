@@ -111,15 +111,15 @@ Likewise self-styled releases into the public domain without use of CC0 or any s
 
 Even when software _is_ available under an explicit permissive license, OSI may not have got around to approving it.  Or OSI may have intentionally refused to approve the license, despite it being quite like many others it has, to discourage "[license proliferation](https://opensource.org/proliferation)".
 
-Discouraging multiple licenses that say essentially the same thing is perhaps noble.  But nobility doesn't pay when you or your team need a particular piece of software under a less-common set of terms.
+Discouraging multiple licenses that say essentially the same thing is noble.  But nobility doesn't pay when you or your team need a particular piece of software under a less-common set of terms, and find yourselves stuck under an OSI-dependent compliance program.
 
-As of May 4, 2019, automatically comparing [Blue Oak Council's more comprehensive permissive license list](https://blueoakcouncil.org/list) to [a data file of OSI-approved licenses](https://www.npmjs.com/package/spdx-osi) yields a hundred and twenty licenses that Blue Oak lists, but OSI hasn't approved.  That number probably isn't exact.  But it's roughly a hundred and twenty chances that OSI approval will be a speed bump for no practical reason.
+As of May 2019, a quick automatic cross-comparison of [Blue Oak Council's more comprehensive permissive license list](https://blueoakcouncil.org/list) and [a data file of OSI-approved licenses](https://www.npmjs.com/package/spdx-osi) yields a hundred and twenty licenses that Blue Oak certifies, but OSI hasn't approved.  That number probably isn't exact.  But it's roughly a hundred and twenty chances that OSI approval will be a checkpoint rather than a shortcut.
 
 ## Standardized Compliance
 
-In much the same way that many copyleft compliance programs focus specifically on GPLv2, know it or not, many standardized approaches to attribution, the terms of open source licenses that require compiling notices of license terms and copyright notices for open software, focus on typical OSI-approved requirements, without accounting for OSI-approved outliers.  Treating every license with an attribution requirement like MIT or BSD can leave you out to dry.
+In much the same way that many copyleft compliance programs focus specifically on GPLv2, know it or not, many standardized approaches to attribution, the terms of open source licenses that require compiling notices of license terms and copyright notices for open software, focus on the typical without accounting for OSI-approved aberrations.  Treating every license with an attribution requirement like MIT or BSD can leave you out to dry.
 
-The clearest issues concern what OSI pejoratively calls ["badgeware" licenses](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2016-June/002851.html).  These OSI has dissed, but also paradoxically [approved](https://www.theregister.co.uk/2007/07/25/osi_socialtext_cpla/).
+The clearest issues concerns what OSI pejoratively calls ["badgeware" licenses](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2016-June/002851.html).  These OSI has dissed, but also paradoxically [approved](https://www.theregister.co.uk/2007/07/25/osi_socialtext_cpla/), such terms.
 
 The most important example, the [Common Public Attribution License](https://opensource.org/licenses/CPAL-1.0), goes well beyond the typically kind of credit-and-copyright required by more typical terms:
 
@@ -133,13 +133,13 @@ The OSI-approved [Attribution Assurance License](https://opensource.org/licenses
 
 Placing these credits in a "legal notices" list or "open source disclosure" won't cut it.
 
-There are other footguns, often requiring the distribution of specific files.  `the_frameworx_license.txt` under the [Frameworx Open License 1.0](https://spdx.org/licenses/Frameworx-1.0.html).  `NOTICES` under the [Apache License, Version 2.0](http://opensource.org/licenses/Apache-2.0),  favorite piece of expert trivia.  `license.txt` under [APL](https://opensource.org/licenses/APL-1.0) again.  And on the licensor side of things,`manifest.txt` under the [LaTeX Project Public License, Version 1.3c](https://opensource.org/licenses/LPPL-1.3c), complete with a scary (and dubious) warning that if you don't provide one, "the licensee would be entitled to make reasonable conjectures as to which files comprise the Work."
+There are other footguns, often requiring the distribution of specific files.  `the_frameworx_license.txt` under the [Frameworx Open License 1.0](https://spdx.org/licenses/Frameworx-1.0.html).  `NOTICES` under the [Apache License, Version 2.0](http://https://opensource.org/licenses/APL-1.0opensource.org/licenses/Apache-2.0),  favorite piece of expert trivia.  `license.txt` under [APL]() again.  And on the licensor side of things,`manifest.txt` under the [LaTeX Project Public License, Version 1.3c](https://opensource.org/licenses/LPPL-1.3c), complete with a scary (and dubious) warning that if you don't provide one, "the licensee would be entitled to make reasonable conjectures as to which files comprise the Work."
 
 You may expect such abberrations in your mental model of what OSI has approved. But that is for naught if the process you or your charges follow fails to account for them.  Disputes on matters of credit especially have a tendency to become indignant and ego-charged.
 
 ## Legal Rigor
 
-I've mentioned above that not all OSI-approved licenses handle patents responsibly.  Alas, OSI has approved at least one license that, to my US-legal eye, fails to handle much of anything rigorously at all.
+I've mentioned above that not all OSI-approved licenses dispose of patents responsibly.  Alas, OSI has also approved at least one license that, to my legal eye, fails to handle much of anything rigorously at all.
 
 With sincerest respect to its lay author, whose heart was in just the right place, promoting plain brevity in legal terms, the [Fair License](https://opensource.org/licenses/Fair) cuts past the quick.  As open software licenses go, Fair seems to want to do the right thing, but fails to say the right words to do it.  In its entirety:
 
@@ -149,40 +149,46 @@ With sincerest respect to its lay author, whose heart was in just the right plac
 >
 > DISCLAIMER: THE WORKS ARE WITHOUT WARRANTY.
 
-This is what some OSI participants pejoratively term a "crayon license".  I have no doubt that the license author will not be suing or threatening anyone for their work under these terms.  But the appearance of Fair in the wild brings no guarantee of similar intentions.
+This is what some OSI participants pejoratively term a "crayon license".  I have no doubt that the license author will not be suing or threatening anyone for their work under these terms.  But the appearance of Fair in the wild brings no guarantee of similar intentions from others who choose it.
 
-Like other outliers among OSI-approved licenses, Fair's weakness is both an excusable and an exploitable flaw.  For example, I could make an argument that Fair does not allow making changes to software licensed.  No one expecting “open source” should have to hear that argument made.
+Like other outliers among the OSI-approved, Fair's weakness is both an excusable and an exploitable flaw.  For example, I could make an argument that Fair does not allow making changes to software licensed.  No one expecting “open source” should have to hear that argument made.
 
 ## English Language
 
-If you were thinking, worse comes to worst, you can always just buckle down and review OSI-approved terms yourself, you ought to be aware of three licenses in French: Licence Libre du Québec [Permissive](https://opensource.org/licenses/LiLiQ-P-1.1), [Réciprocité](https://opensource.org/licenses/LiLiQ-R-1.1), and [Réciprocité forte](https://opensource.org/licenses/LiLiQ-Rplus-1.1).  Translations are provided, but OSI’s pages make clear those translations aren’t OSI approved.
+If you were thinking, worse comes to worst, you can always buckle down and review OSI-approved terms yourself, you ought to be aware of three licenses in French: Licence Libre du Québec [Permissive](https://opensource.org/licenses/LiLiQ-P-1.1), [Réciprocité](https://opensource.org/licenses/LiLiQ-R-1.1), and [Réciprocité forte](https://opensource.org/licenses/LiLiQ-Rplus-1.1).  Translations are provided, but OSI’s pages make clear those translations aren’t OSI-approved.
 
-I donn’t read French, and can’t tell you what the original texts mean, much less under Quebec law, which I don’t practice. Perhaps it couldn't be worse than the worst English drafters got approved.  But if I were going to pick a kind of license to read in a second language, it wouldn't be subtitled, I think, "reciprocal strong".  The trickiest kind there is.
+I don’t read French, and can’t tell you what the original texts mean, much less under Quebec law, which I don’t practice.  Perhaps it couldn't be worse than the worst English drafters got approved.  But if I were going to pick a kind of license to read in a second language, it wouldn't be subtitled "reciprocal strong".  That's the hardest kind.
 
-I've been able to feel st home in three natural languages.  I'm best at English, but it's by far my least favorite.  I strongly support the creation and use of open source licenses for and from other language communities, as a matter of principle.  But principle is far as I can go.  I can schmooze over [Lorca](https://en.wikipedia.org/wiki/Lorca) or [Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges), flip through [Bely](https://en.wikipedia.org/wiki/Andrei_Bely) or [Blok](https://en.wikipedia.org/wiki/Blok).  But I couldn’t advise clients on complex license terms in those languages.
+I've been able to feel at home in three natural languages.  English is my best, but not my favorite.  I strongly support the creation and use of open source licenses for and from other language communities, as a matter of principle.  But principle is far as I can go.
+
+I can schmooze over [Lorca](https://en.wikipedia.org/wiki/Lorca) or [Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges), flip through [Bely](https://en.wikipedia.org/wiki/Andrei_Bely) or [Blok](https://en.wikipedia.org/wiki/Blok).  But I couldn’t advise clients on complex license terms in those languages.
 
 Perhaps:
 
-> any license approved by the Open Source Initiative in English or official English translation
+> any license approved by the Open Source Initiative in English or approved English translation
 
-But I've never seen that in the wild.  And it's still over- and under-inclusive, for all the rest of then reasons above.
+But I've never seen that in the wild.  In any event, it would still prove over- and under-inclusive, for all the rest of then reasons above.  The misapplication of OSI advocacy approval for legal function can't be mended so easily.
 
 ## Alternatives
 
-In my experience, most folks who don’t already know about aberrations on OSI’s approved license list say “open source” and want something more specific: permissive public software licenses they can handle in essentially the same way.
+In my experience, most folks who don’t already know about aberrations on OSI’s approved license list say “open source” and want something far more specific: as many permissive public software licenses that they can handle in essentially the same way as possible.
 
-Blue Oak Council, a nonprofit council of open licensing lawyers I recently helped to create, came together around shared need for [a list of just such licenses](https://blueoakcouncil.org/list). When advising small and nonprofit companies, whether on compliance, grant, or contract terms, my colleagues and I routinely sought approaches to open source licensing that unlock 90% of the value of open source without the 10% of edge cases.
+Blue Oak Council, a nonprofit council of open licensing lawyers I recently helped to kickstart, came together around shared need for [a list of just such licenses](https://blueoakcouncil.org/list).  When advising small and nonprofit companies, whether on compliance, grant, or contract terms, my colleagues and I routinely sought approaches to open source licensing that unlock grr vast majority of open source value without the relatively small number of licenses presented as traps and tricks in this post.
 
-A published, updated license list was the missing building block. We each had our own incomplete version. Those turned out to be almost completely consistent, lawyer to lawyer, and therefore easy to combine and refine. And also to show in action, in [example language for various kinds of terms](https://blueoakcouncil.org/examples), from sample company policies to contract snippets.
+A published, updated license list was the missing building block.  We each had our own incomplete version.  Those turned out to be almost completely consistent, lawyer to lawyer, and therefore easy to combine and refine.  Also to show in action, in [example language for various kinds of terms](https://blueoakcouncil.org/examples), from sample company policies to contract snippets.
 
-Encouraged by that successs, we’re exploring similar materials on copyleft licenses. I hope we will have a similar list and examples to share for those interested in copyleft soon.
+Encouraged by that successs, we’re exploring similar materials on copyleft, too.  That's a bit more complex.  But I hope we will have a similar list and examples to share for those interested, and soon.
 
-For the sake of completeness, however, I’ll end not with embracing copyleft complexity, but the opposite. Consider whether for your particular need, simple availability of the software or its source code, or willingness to share it, is enough.
+## Avoidance
 
-This has been the approach of current-generation software development services, like GitHub, Travis CI, and npm, from very early on. Nearly all of these providers encourage standardized licensing, including under OSI approved terms. But their requirements for free service dodged the question of license terms altogether. If that works for your need as well, it is far easier to express and administer. 
+For the sake of completeness, however, I’ll end not with embracing copyleft complexity, but eschewing open source complexity altogether.  Consider whether for your particular need, availability of software or its source code, or willingness to share it, might be enough on its own.
 
-Every long-working open source developer can tell sad stories of good code found on the Web, abandoned without sign of any license, that could have been part of something greater, but languished in permissionless obscurity instead. Those are real costs, or rather losses of real value that otherwise could have been.
+This has been the approach of current-generation software development services, like GitHub, Travis CI, and npm, from very early on.  Nearly all of these providers encourage standardized licensing, including under OSI approved terms.  But their requirements for free service dodged the question of license terms altogether.  In fact, these written requirements were little know.  The option to publish or pay was simply a feature of their software.  If that works for your need as well, it is far easier to express and administer.
 
-At the same time, many platforms that welcome public but licenseless code also welcome the lion’s share of new open source developers. By inviting new talent to explore licensing when it’s ready, rather than turning it away by imposing compliant license choice as a condition of entry, these platforms may in fact foment more licensed work overall, as larger matriculating classes of newbies yield larger cohorts of seasoned, license-informed developers over time.
+Every long-working open source developer can tell sad stories of good code found on the Web, abandoned without sign of any license, that could have been part of something greater, but languished in permissionless obscurity instead.  Those are real costs, or rather losses of real value that otherwise could have been.  Perhaps losses within your concern or responsibility.  Perhaps not.
 
-What approach seems best to you, for your needs, for contribution to a greater open source movement or effort, or both, is up to you. When you make such a choice, no matter the nature and balance of your motives, I think open software is best served by s minimum of unwelcome legal surprises. I hope these notes have helped you along the way.
+At the same time, many platforms that welcome public but licenseless code also welcome the lion’s share of new open source developers.  By inviting new talent to explore licensing when ready, rather than casting new sparks aside by requiring a "correct" license choice as a password of entry, these platforms may in fact foment more licensed work overall, as larger matriculating classes of newbies yield larger cohorts of seasoned, license-informed developers in time.  Most developers pick up licensing as they go.
+
+What approach seems best to you, either for your needs, for contribution to a greater open source movement or effort, or for both, is up to you.  When you make a choice, no matter the nature and balance of your motives, I think open software is best served by complicating your life with s minimum of unwelcome license surprises.
+
+I hope these notes will help make your work with open source more fulfilling.
