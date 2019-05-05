@@ -1,5 +1,6 @@
 ---
 title: Don't Rely on OSI License Approval
+description: activist approval does not track practical needs
 layout: post
 tags:
 - Open Source
