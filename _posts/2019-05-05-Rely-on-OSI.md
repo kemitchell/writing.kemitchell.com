@@ -1,5 +1,5 @@
 ---
-title: Don't Rely on OSI License Approval
+title: Don't Rely on OSI Approval
 description: activist approval does not track practical needs
 layout: post
 tags:
