@@ -174,3 +174,13 @@ Blue Oak Council, a nonprofit council of open licensing lawyers I recently helpe
 A published, updated license list was the missing building block. We each had our own incomplete version. Those turned out to be almost completely consistent, lawyer to lawyer, and therefore easy to combine and refine. And also to show in action, in [example language for various kinds of terms](https://blueoakcouncil.org/examples), from sample company policies to contract snippets.
 
 Encouraged by that successs, we’re exploring similar materials on copyleft licenses. I hope we will have a similar list and examples to share for those interested in copyleft soon.
+
+For the sake of completeness, however, I’ll end not with embracing copyleft complexity, but the opposite. Consider whether for your particular need, simple availability of the software or its source code, or willingness to share it, is enough.
+
+This has been the approach of current-generation software development services, like GitHub, Travis CI, and npm, from very early on. Nearly all of these providers encourage standardized licensing, including under OSI approved terms. But their requirements for free service dodged the question of license terms altogether. If that works for your need as well, it is far easier to express and administer. 
+
+Every long-working open source developer can tell sad stories of good code found on the Web, abandoned without sign of any license, that could have been part of something greater, but languished in permissionless obscurity instead. Those are real costs, or rather losses of real value that otherwise could have been.
+
+At the same time, many platforms that welcome public but licenseless code also welcome the lion’s share of new open source developers. By inviting new talent to explore licensing when it’s ready, rather than turning it away by imposing compliant license choice as a condition of entry, these platforms may in fact foment more licensed work overall, as larger matriculating classes of newbies yield larger cohorts of seasoned, license-informed developers over time.
+
+What approach seems best to you, for your needs, for contribution to a greater open source movement or effort, or both, is up to you. When you make such a choice, no matter the nature and balance of your motives, I think open software is best served by s minimum of unwelcome legal surprises. I hope these notes have helped you along the way.
