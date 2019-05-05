@@ -107,23 +107,23 @@ Releases into the the public domain without using CC0 or any standard terms are 
 
 ## Missing Permissive Licenses
 
-Even when software _is_ available under an explicit permissive license, OSI may not have got around to approving it.  Or OSI may have declined to approve the license, despite it being legally fine, to discourage "[license proliferation](https://opensource.org/proliferation)".
+Even when software _is_ available under an explicit permissive license, OSI may not have got around to approving it.  Or OSI may have intentionally refused to approve the license, despite it being legally fine, to discourage "[license proliferation](https://opensource.org/proliferation)".
 
-Discouraging multiple licenses that say essentially the same thing is noble.  But nobility doesn't pay when you or your team need a particular piece of software under a less-common set of terms.
+Discouraging multiple licenses that say essentially the same thing is perhaps noble.  But nobility doesn't pay when you or your team need a particular piece of software under a less-common set of terms.
 
 As of May 4, 2019, automatically comparing [Blue Oak Council's more comprehensive permissive license list](https://blueoakcouncil.org/list) to [a data file of OSI-approved licenses](https://www.npmjs.com/package/spdx-osi) yields a hundred and twenty licenses that Blue Oak lists, but OSI hasn't approved.  That number probably isn't exact.  But it's roughly a hundred and twenty chances that OSI approval will be a speed bump for no practical reason.
 
 ## Standardized Compliance
 
-In much the same way that many copyleft compliance programs focus specifically on GPLv2, know it or not, many standardized approaches to attribution, or compiling notices of license terms and copyright notices for open software, focus on typical OSI-approved attribution requirements, without accounting for OSI-approved outliers.  Treating every license with an attribution requirement like MIT or BSD can leave you out of compliance.
+In much the same way that many copyleft compliance programs focus specifically on GPLv2, know it or not, many standardized approaches to attribution, the terms of open source licenses that require compiling notices of license terms and copyright notices for open software, focus on typical OSI-approved requirements, without accounting for OSI-approved outliers.  Treating every license with an attribution requirement like MIT or BSD can leave you out to dry.
 
-The clearest issues concern what OSI pejoratively calls ["badgeware" licenses](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2016-June/002851.html).  Indeed, these have dissed, and then [approved](https://www.theregister.co.uk/2007/07/25/osi_socialtext_cpla/).
+The clearest issues concern what OSI pejoratively calls ["badgeware" licenses](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2016-June/002851.html).  These OSI has dissed, but also paradoxically [approved](https://www.theregister.co.uk/2007/07/25/osi_socialtext_cpla/).
 
-The most important example, the [Common Public Attribution License](https://opensource.org/licenses/CPAL-1.0), goes well beyond the typically anemic kind of credit-and-notice required by academic terms:
+The most important example, the [Common Public Attribution License](https://opensource.org/licenses/CPAL-1.0), goes well beyond the typically kind of credit-and-copyright required by more typical terms:
 
 > As a modest attribution to the organizer of the development of the Original Code ("Original Developer") ... the Original Developer may include in Exhibit B ("Attribution Information") a requirement that each time an Executable and Source Code or a Larger Work is launched or initially run (which includes initiating a session), a prominent display of the Original Developer's Attribution Information (as defined below) must occur on the graphic user interface employed by the end user to access such Covered Code (which may include display on a splash screen), if any. The size of the graphic image should be consistent with the size of the other elements of the Attribution Information. ... If the Original Code displays such Attribution Information in a particular form (such as in the form of a splash screen, notice at login, an "about" display, or dedicated attribution area on user interface screens), continued use of such form for that Attribution Information is one way of meeting this requirement for notice.
 
-In other words, CPAL allows developers to demand opening credits, rather than merely mere mention in liner notes.
+In other words, CPAL allows developers to demand opening credits in software applications, rather than mere mention in the liner notes.  This may prove an issue if you planned to put your own logo there, and haven’t any process for doing otherwise.
 
 The OSI-approved [Attribution Assurance License](https://opensource.org/licenses/AAL) is quirkier still, leveraging cryptography to ensure the author gets exactly the credit they require:
 
@@ -131,13 +131,15 @@ The OSI-approved [Attribution Assurance License](https://opensource.org/licenses
 
 Placing these credits in a "legal notices" list or "open source disclosure" won't cut it.
 
-There are other footguns, often requiring the distribution of specific files.  `the_frameworx_license.txt` under the [Frameworx Open License 1.0](https://spdx.org/licenses/Frameworx-1.0.html).  `NOTICES` under the [Apache License, Version 2.0](http://opensource.org/licenses/Apache-2.0), which everyone thinks they understand.  `license.txt` under [APL](https://opensource.org/licenses/APL-1.0).  And on the licensor side of things,`manifest.txt` under the [LaTeX Project Public License, Version 1.3c](https://opensource.org/licenses/LPPL-1.3c), complete with a scary (and dubious) conclusion that if you don't provide one, "the licensee would be entitled to make reasonable conjectures as to which files comprise the Work."
+There are other footguns, often requiring the distribution of specific files.  `the_frameworx_license.txt` under the [Frameworx Open License 1.0](https://spdx.org/licenses/Frameworx-1.0.html).  `NOTICES` under the [Apache License, Version 2.0](http://opensource.org/licenses/Apache-2.0),  favorite piece of expert trivia.  `license.txt` under [APL](https://opensource.org/licenses/APL-1.0) again.  And on the licensor side of things,`manifest.txt` under the [LaTeX Project Public License, Version 1.3c](https://opensource.org/licenses/LPPL-1.3c), complete with a scary (and dubious) warning that if you don't provide one, "the licensee would be entitled to make reasonable conjectures as to which files comprise the Work."
+
+You may expect such abberrations in your mental model of what OSI has approved. But that is for naught if the process you or your charges follow fails to account for them.  Disputes on matters of credit especially have a tendency to become indignant and ego-charged.
 
 ## Legal Rigor
 
-I've mentioned above that not all OSI-approved licenses handle patents responsibly.  Alas, OSI has approved licenses that, at least to my US-legal eye, do not seem to handle much of anything responsibly.
+I've mentioned above that not all OSI-approved licenses handle patents responsibly.  Alas, OSI has approved at least one license that, to my US-legal eye, fails to handle much of anything rigorously at all.
 
-With sincerest respect to its lay author, whose heart is in the right place, promoting plain, clear legal terms, [as I do](https://blueoakcouncil.org/license/1.0.0), the [Fair License](https://opensource.org/licenses/Fair) cuts too deep and too long.  As open software licenses goes, it seems to want to do the right thing, but fails to say the right words to do it.  In its entirety:
+With sincerest respect to its lay author, whose heart was in just the right place, promoting plain brevity in legal terms, the [Fair License](https://opensource.org/licenses/Fair) cuts past the quick.  As open software licenses go, Fair seems to want to do the right thing, but fails to say the right words to do it.  In its entirety:
 
 > &lt;Copyright Information&gt;
 >
@@ -145,23 +147,23 @@ With sincerest respect to its lay author, whose heart is in the right place, pro
 >
 > DISCLAIMER: THE WORKS ARE WITHOUT WARRANTY.
 
-This is what some OSI participants pejoratively term a "crayon license".  I have no doubt that the license author will not suing anyone for anything related to work under these terms.  But the appearance of Fair in the wild does nothing to guarantee good licensor intentions.  Like other outliers among OSI-approved licenses, Fair's weakness is both an excusable and an exploitable flaw.
+This is what some OSI participants pejoratively term a "crayon license".  I have no doubt that the license author will not be suing or threatening anyone for their work under these terms.  But the appearance of Fair in the wild brings no guarantee of similar intentions.
+
+Like other outliers among OSI-approved licenses, Fair's weakness is both an excusable and an exploitable flaw.  For example, I could make an argument that Fair does not allow making changes to software licensed.  No one expecting “open source” should have to hear that argument made.
 
 ## English Language
 
-If you were thinking, worse comes to worst, you can always just read the terms OSI approved, I hope that you read French: Licence Libre du Québec [Permissive](https://opensource.org/licenses/LiLiQ-P-1.1), [Réciprocité](https://opensource.org/licenses/LiLiQ-R-1.1), and [Réciprocité forte](https://opensource.org/licenses/LiLiQ-Rplus-1.1).
+If you were thinking, worse comes to worst, you can always just buckle down and review OSI-approved terms yourself, you ought to be aware of three licenses in French: Licence Libre du Québec [Permissive](https://opensource.org/licenses/LiLiQ-P-1.1), [Réciprocité](https://opensource.org/licenses/LiLiQ-R-1.1), and [Réciprocité forte](https://opensource.org/licenses/LiLiQ-Rplus-1.1).  Translations are provided, but OSI’s pages make clear those translations aren’t OSI approved.
 
-It couldn't possibly be worse than the rat's nests some English drafters have got approved.  But if I were going to pick a kind of license to read in adopted cant, it wouldn't be "reciprocal strong".
+I donn’t read French, and can’t tell you what the original texts mean, much less under Quebec law, which I don’t practice. Perhaps it couldn't be worse than the worst English drafters got approved.  But if I were going to pick a kind of license to read in a second language, it wouldn't be subtitled, I think, "reciprocal strong".  The trickiest kind there is.
 
-I've had the opportunity to command three natural languages in my life.  I'm best at English, but it's by far my least favorite.  I strongly support the creation and use of open source licenses for and from other language communities, as a matter of principle.
-
-Principle is far as I can go.  I'm competent to schmooze over [Lorca](https://en.wikipedia.org/wiki/Lorca) or [Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges), find fire and ice in [Bely](https://en.wikipedia.org/wiki/Andrei_Bely) or [Blok](https://en.wikipedia.org/wiki/Blok).  But not to advise clients on complex license terms in those languages.
+I've been able to feel st home in three natural languages.  I'm best at English, but it's by far my least favorite.  I strongly support the creation and use of open source licenses for and from other language communities, as a matter of principle.  But principle is far as I can go.  I can schmooze over [Lorca](https://en.wikipedia.org/wiki/Lorca) or [Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges), flip through [Bely](https://en.wikipedia.org/wiki/Andrei_Bely) or [Blok](https://en.wikipedia.org/wiki/Blok).  But I couldn’t advise clients on complex license terms in those languages.
 
 Perhaps:
 
 > any license approved by the Open Source Initiative in English or official English translation
 
-But I've never seen that in the wild.  It's still likely over- and under-inclusive, for all the reasons above.
+But I've never seen that in the wild.  And it's still over- and under-inclusive, for all the rest of then reasons above.
 
 ## Enthusiastically: Blue Oak
 
