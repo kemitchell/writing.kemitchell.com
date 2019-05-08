@@ -66,3 +66,11 @@ Applying open source license, and that leverage is gone. All else being equal, i
 Open source's popularity has become its own justification.  But before widespread acceptance, open source had a purpose.  Its attack on exclusive intellectual property rights had a purpose.
 
 That purpose is less and less well served by a dated, myopic view of the kinds of exclusion that pose a threat to end-user control and lively competition.  A more holistic view, exceeding that shortsightedness, would account for, and nullify, a far broader range of exclusive privileges, legal and commercial. We're available tools, like public licensing, fail to reach key elements of that system, it would permit retention of exclusive rights, even exclusive rights at the core of historical open source, like copyright and patent, For offsetting leverage against forms of exclusion that can't be brought in scope.
+
+Copyleft Shows that exclusive rights can be turned around on themselves, to prevent abuse of the same right by others.  Copyleft uses the copyright of contributors to nullify the copyright of others.  But open source licensing is also rife with examples of leveraging one kind of exclusive right to nullify another, different kind.
+
+Important open source defensive termination provisions frequently terminate both copyright and patent permission for breach of terms founded in copyright.  Terms of copyright-focused licenses regulate use of project names, contributor identities, and firm or institutional affiliations in trademark-like ways.  Conditions requiring lists of changes, notices of deviation from official versions, a means of returning to the canonical distribution all forestall potentially misleading misrepresentations and reputational damage.
+
+It's striking how many of these terms now feel anachronistic. The general trend is toward permissive licensing, and permissive licenses themselves are becoming more permissive.
+
+I fear the effect of increasing permissivity is not increasing user power, autonomy, or competition, but tacit endorsement of the many and compounding tyrannies that open source, smug in its success and fat from its winnings, studiously fails to see, decry, and reconcile.
