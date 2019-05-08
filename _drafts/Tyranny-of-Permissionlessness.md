@@ -60,3 +60,9 @@ As usual, there are laws that make employers and clients the owners of copyright
 Individuals can and do use copyright power to shape the behavior of behemoth firms with respect to their source code.  The system isn't perfect.  Enforcement isn't free.  But if large firms had no reason to fear the license choices of two-bit hackers, they wouldn't spend so much time, treasure, and process identifying complying with them. Some of their incentive is legal, and some of it is not.  But overall, the affect as leverage.
 
 Applying open source license, and that leverage is gone. All else being equal, if you hand a large firm all the rights in your work that you have, and they enjoy exclusive rights that you don't, you have invited competition on unlevel level playing fiels, running uphill. You have taken a handicap, and they can take your code.  Odds.  favored them to begin with.
+
+## Purpose
+
+Open source's popularity has become its own justification.  But before widespread acceptance, open source had a purpose.  Its attack on exclusive intellectual property rights had a purpose.
+
+That purpose is less and less well served by a dated, myopic view of the kinds of exclusion that pose a threat to end-user control and lively competition.  A more holistic view, exceeding that shortsightedness, would account for, and nullify, a far broader range of exclusive privileges, legal and commercial. We're available tools, like public licensing, fail to reach key elements of that system, it would permit retention of exclusive rights, even exclusive rights at the core of historical open source, like copyright and patent, For offsetting leverage against forms of exclusion that can't be brought in scope.
