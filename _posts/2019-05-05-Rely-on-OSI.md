@@ -8,6 +8,10 @@ tags:
 - Licensing
 ---
 
+<aside class="brief" markdown="1">
+The list of OSI-approved licenses reflects OSI's practical and political history, not any useful, consistently functional category  of license terms.
+</aside>
+
 Relying on Open Source Initiative approval to get the kind of software license you expect is almost always trouble.  For nearly any practical need, the OSI-approved list will green-light licenses you don't want, and red-light many you do.
 
 ![Venn Diagram](/images/want-osi-do-not-want.svg)
