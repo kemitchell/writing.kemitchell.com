@@ -13,7 +13,7 @@ Throughout 2018 and 2019 so far, I've suffered repeated bouts of crippling back 
 - Jekyll
 - GitHub
 - Termius
-- Anne Pro Keyboard
+- Anne Pro Keyboard, later Vortexgear Tab60
 
 Working Copy provides Git support on iOS.  I'm particularly fond of the ability to enable empty commit messages, since I rarely write them for small changes to Git repos that I only work on myself.
 
