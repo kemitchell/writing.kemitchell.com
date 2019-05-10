@@ -7,6 +7,9 @@ layout: page
 ## Boots
 Red Wing Iron Ranger
 
+## Athletic Shoes
+Adidas Samba Classic
+
 ## Pens & Pencils
 Lamy 2000
 
