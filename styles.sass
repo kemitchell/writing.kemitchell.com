@@ -158,6 +158,19 @@ ol.posts
     font-size: 75%
 
 .post
+  .brief, .retrospect
+    background: white
+    padding: 1rem
+    margin: 1rem 0
+    border: 1px solid #777
+  .brief
+    &:before
+      content: 'In Brief'
+      font-weight: bold
+  .retrospect
+    &:before
+      content: 'In Retrospect'
+      font-weight: bold
   h1
     font-size: 200%
     font-family: "Concourse-T6"

@@ -7,6 +7,10 @@ tags:
 - Open Source
 ---
 
+<aside class="brief" markdown="1">
+When theories and standards of free and open source describe "open" too narrowly, they just empower those using other powers to keep things closed.
+</aside>
+
 Philosophically, free and open source licensing means nondiscrimination.  Practically, open source licensing discriminates all the time.  In particular, open source discriminated against those who rely on exclusive rights that open source requires developers to surrender, and in favor of those with exclusive rights to which open source remains willfully blind.  Adding open source to a stacked-deck game further skews the odds in the house's favor, by denying less powerful players their only strong cards.
 
 If you care about open source and have bills to pay, it's vital to understand how.
