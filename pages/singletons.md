@@ -10,8 +10,14 @@ Red Wing Iron Ranger
 ## Athletic Shoes
 Adidas Samba Classic
 
-## Pens & Pencils
+## Ink Pen
 Lamy 2000
+
+## Disposable Pen
+Uniball Vision Elite
+
+## Pencils
+Alvin DraftMatic
 
 ## Pocket Knife
 Case TrapperLock
@@ -20,7 +26,7 @@ Case TrapperLock
 Kinesis Advantage
 
 ## Portable Keyboard
-Vortexgear Tab 60
+Vortexgear Tab60
 
 ## Mouse
 Logitech Expert Mouse

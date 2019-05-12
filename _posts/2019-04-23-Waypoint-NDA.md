@@ -8,6 +8,8 @@ tags:
 - Standards
 ---
 
+<aside class="
+
 Today I, along with other companies and lawyers developing and using a standard nondisclosure agreement, renamed our form.
 
 Hello, [The Waypoint NDA](https://waypointnda.com).
