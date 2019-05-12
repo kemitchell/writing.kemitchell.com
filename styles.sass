@@ -132,37 +132,54 @@ ol.posts
     &:before
       content: '/'
 
-.dateline
-  display: block
-  text-align: right
-  width: $dateWidth
-  padding: 0 $datePadding 0 0
-  float: left
-
-  .day
+.posts
+  .dateline
     display: block
-    color: $darkRed
-    font:
-      size: 200%
-      family: "Concourse-T6"
+    text-align: right
+    width: $dateWidth
+    padding: 0 $datePadding 0 0
+    float: left
 
-  .month, .year
-    color: #777
+    .day
+      display: block
+      color: $darkRed
+      font:
+        size: 200%
+        family: "Concourse-T6"
 
-  .month
-    display: block
-    font-size: 75%
+    .month, .year
+      color: #777
 
-  .year
-    display: block
-    font-size: 75%
+    .month
+      display: block
+      font-size: 75%
+
+    .year
+      display: block
+      font-size: 75%
 
 .post
+  .dateline
+    padding-top: 1rem
+    font-size: 80%
+  .brief, .retrospect
+    background: white
+    padding: 1rem
+    margin: 1rem 0
+    border: 1px solid #777
+  .brief
+    &:before
+      content: 'In Brief'
+      font-weight: bold
+  .retrospect
+    &:before
+      content: 'In Retrospect'
+      font-weight: bold
   h1
     font-size: 200%
     font-family: "Concourse-T6"
     line-height: 1.0
-    padding: 1em 0 0.25em 0
+    padding: 0 0 0.25em 0
     small
       display: block
       clear: both
