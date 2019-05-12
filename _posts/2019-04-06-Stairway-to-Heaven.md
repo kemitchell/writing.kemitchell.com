@@ -8,6 +8,10 @@ tags:
 - Open Source
 ---
 
+<aside class="brief" markdown="1">
+For various reasons, clients often prefer to start with a less-generous, partly closed, or strong-copyleft license, and increase permissions over time.
+</aside>
+
 I've had a lot of the same client conversation over the past few years.  It goes something like this:
 
 > --- So let's move on to the licensing strategy.

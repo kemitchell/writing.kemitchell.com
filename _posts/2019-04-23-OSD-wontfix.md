@@ -8,6 +8,10 @@ tags:
 - Licensing
 ---
 
+<aside class="brief" markdown="1">
+The Open Source Initiative's Open Source Definition isn't a rigorous, technical definition of open source.  In reality, the Definition, along comparisons to technical standards, mislead others about how OSI approves licenses, and what approval means.
+</aside>
+
 The trouble with [affirming](https://opensource.org/OSD_Affirmation) the Open Source Initiative's [Open Source Definition](https://opensource.org/osd) is that it is not a good definition.  Open source has done well despite it, not because of it.
 
 Even if you think OSI wants to define "open source" in the right way---more [controversial](https://twitter.com/monkchips/status/247584170967175169), both [inside](https://wiki.opensource.org/bin/Main/Open+Source+Initiative+Working+Groups/Beyond+Licensing+Working+Group+Proposal/) and [outside](https://medium.com/@nayafia/i-hate-the-term-open-source-a65fd481a95) OSI, than some care to admit---the definition OSI has isn't precise in any technical sense, and certainly not up to any legal standard.  It doesn't settle important controversies like [how strong open source copyleft licenses can be](https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html) or [whether open source licenses have to cover patents](http://stlr.org/2018/10/15/the-truth-about-oss-frand-by-all-indications-compatible-models-in-standards-settings/), on its own, as written.  Instead of reducing political spats to workable technical problems, the Open Source Definition injects drama, ego, confusion, and citations to unwritten and contested history into even pretty boring licensing discussions.

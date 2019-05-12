@@ -7,6 +7,10 @@ tags:
 - Sustainability
 ---
 
+<aside class="brief" markdown="1">
+I've proposed a standard way to reference information about open source project sustainability in npm `package.json` files.
+</aside>
+
 Late yesterday, I [submitted a pull request](https://github.com/npm/cli/pull/187) to the npm package manager to add a new, official property to npm's `package.json` manifest files: `"sustainability"`.
 
 The proposal instructs maintainers to set that property to the URI of a JSON resources that conforms to [a very simple schema](https://www.npmjs.com/package/sustainability-schema).  In a nutshell, the resource maps a project, by URI, to a list of objects about contributors to that project who need or want support.  Contributors can identify themselves by name and homepage, indicate whether they're a person, nonprofit, business, or government entity, and provide URIs for various ways to help, like donating, hiring, buying licenses, or buying services.

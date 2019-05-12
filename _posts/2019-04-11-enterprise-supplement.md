@@ -9,6 +9,10 @@ tags:
 - Open Source
 ---
 
+<aside class="brief" markdown="1">
+I've packed up the difference between commercial license expectations and open source license expectations up as a supplement that open source developers can sell to wary businesses.
+</aside>
+
 Most of my work on getting open software developers paid challenges the status quo.  In more ways than one, open software developers, especially independent ones, are being relegated to a distinct, subservient professional caste, subject to a cap on "reasonable" financial expectations.  As an independent attorney in solo private practice serving upstart companies and developers, I'm in a unique position, and bear a unique responsibility, to resist that scheme.  I do and I will.
 
 But today I'm announcing a different kind of initiative: the first draft of an open contract form for bridging the gap between open software licenses give and what companies, as a rule, expect.  Open software developers can use this form, which I've dubbed the [Enterprise Ready Open Software Supplement](https://github.com/indieopensource/enterprise-ready-supplement), to sell guarantees of the licensing best practices they're likely already following, rephrased like the warranties that common open software licenses disclaim.  This without taking on any additional service obligations, or otherwise changing how they work.

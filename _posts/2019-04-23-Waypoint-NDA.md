@@ -8,7 +8,9 @@ tags:
 - Standards
 ---
 
-<aside class="
+<aside class="brief" markdown="1">
+We've renamed a standard form NDA to make it easier to adopt.
+</aside>
 
 Today I, along with other companies and lawyers developing and using a standard nondisclosure agreement, renamed our form.
 
