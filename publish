@@ -1,5 +1,5 @@
 #!/bin/sh
-ssh kyle@kemitchell.com <<SESSION
+ssh --quiet kyle@kemitchell.com <<SESSION
 cd /var/www/writing.kemitchell.com/
 git fetch origin
 git checkout master
