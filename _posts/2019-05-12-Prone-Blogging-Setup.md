@@ -1,6 +1,6 @@
 ---
 title: Prone Blogging Setup
-description:
+description: how to type when the pain puts you on your back
 layout: post
 ---
 
