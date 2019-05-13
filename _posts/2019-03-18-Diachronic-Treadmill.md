@@ -1,5 +1,5 @@
 ---
-title: The Diacrhonic Treadmill License
+title: The Diachronic Treadmill License
 description: automatically reward supporters with copyleft exceptions
 layout: post
 tags:
