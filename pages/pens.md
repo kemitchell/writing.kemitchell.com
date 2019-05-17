@@ -70,7 +70,7 @@ Fountain pens are wonderful to write with, and highly inconvenient, compared to 
 
 ### Step 1
 
-Dip a toe in with some Pilot Varsity Disposables.  They're widely available, even at big-box retail stores, and will give you a good idea of whether a fountain pen will fit in your life.
+Dip a toe in with some Pilot Varsity disposables.  They're widely available, even at big-box retail stores, and will give you a good idea of whether a fountain pen fits in your life.
 
 ### Step 2
 
