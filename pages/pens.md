@@ -109,3 +109,5 @@ Pilot/Namiki Falcon, Extra Fine
 
 Pilot Namiki Myu 701 H878, Fine
 - They don't make 'em like this any more.
+
+Rotring 600 Fountain Pen
