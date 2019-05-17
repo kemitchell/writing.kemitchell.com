@@ -106,8 +106,11 @@ Lamy 2000 Fountain Fen, Extra Fine
 Pilot/Namiki Falcon, Extra Fine
 - Actually extra fine.
 - I actually prefer this version to the metal one, which feels too heavy for long writing.
+- Requires good paper.
 
 Pilot Namiki Myu 701 H878, Fine
 - They don't make 'em like this any more.
 
 Rotring 600 Fountain Pen
+- They don't make 'em like this any more, either.
+- A bit on the heavy side.
