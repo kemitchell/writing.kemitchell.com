@@ -97,3 +97,15 @@ Art: Noodler's Ahab (thick barrel) or Noodler's Konrad (thin barrel)
 
 - Highly customizable.
 - Many colors.
+
+## Ridiculous Things That I Own
+
+Lamy 2000 Fountain Fen, Extra Fine
+- More of a medium by modern, Japanese standards.
+
+Pilot/Namiki Falcon, Extra Fine
+- Actually extra fine.
+- I actually prefer this version to the metal one, which feels too heavy for long writing.
+
+Pilot Namiki Myu 701 H878, Fine
+- They don't make 'em like this any more.
