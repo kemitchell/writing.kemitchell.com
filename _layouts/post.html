@@ -1,10 +1,12 @@
 {% include top.html %}
 <article class="body post">
+  {% if page.date %}
   <p class=dateline>
     <span class=month>{{ page.date | date: "%B" }}</span>
     <span class=day>{{ page.date | date: "%e" }}</span>,
     <span class=year>{{ page.date | date: "%Y" }}</span>
   </p>
+  {% endif %}
   <h1 id=title>{{ page.title }}<small>{{ page.description
       }}</small></h1>
   {{ content }}
