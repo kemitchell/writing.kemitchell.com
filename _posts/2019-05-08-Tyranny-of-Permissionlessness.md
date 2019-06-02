@@ -63,7 +63,7 @@ What about the even littler guys, the startups and independents?  Smaller player
 
 ## People Powers
 
-There is one universal exclusive right in software, bestowed on the common man as well as the multinational.  Creators of software have the right to share it, or to keep it secret.  I can write a database and keep it to myself, or offer it only has a service, just as AWS can do with S3, or Google with Spanner.
+There is one universal exclusive right in software, bestowed on the common man as well as the multinational.  Creators of software have the right to share it, or to keep it secret.  I can write a database and keep it to myself, or offer it only as a service, just as AWS can do with S3, or Google with Spanner.
 
 The "source" part of "open source" requires surrendering this privilege completely.  Merely granting a well known license for something less than the preferred form for making changes---say, obfuscated source or compiled binary---doesn't count.  Neither does licensing less than all the code for a particular program.
 
