@@ -25,7 +25,9 @@ Companies making money on open source, or scoring strategic victories with it, c
 
 For example, in some industries, companies require government approvals, regulatory permits, or private certifications to do business, legally or practically.  Those rights often apply only to the specific company that obtains them, rather than to its software more generally, and cover the organization running the software, as well as the software being run.  When those rights prove prohibitively expensive or simply impractical for anyone else to obtain, they become means of exclusion.
 
-Companies holding such exclusive rights can freely release their software as open source.  They hold a greater power---an effectively exclusive right to do business with the software---that makes the lesser powers of copyright and patent licensing irrelevant.  Having released as open source, firm developers can leverage free infrastructure, like code hosting, testing, and distribution.  The firm can use open source branding, the personal benefits of open source participation, and open source tooling and workflow to recruit developers who like open source.  Outside contributions may even show up with patches now and then.
+Companies holding such exclusive rights can freely release their software as open source.  They hold a greater power---an effectively exclusive right to do business with the software---that makes the lesser powers of copyright and patent licensing irrelevant.
+
+Having released as open source, firm developers can leverage free infrastructure, like code hosting, testing, and distribution.  The firm can use open source branding, the personal benefits of open source participation, and open source tooling and workflow to recruit developers who like open source.  Outside contributions may even show up with patches now and then.
 
 But outsiders aren't free to operationalize or commercialize the results without approval, permit, or certification of their own, impossible as that maybe to get.  Overall, the system excludes would-be competitors.  But the software is "open source", because open source doesn't reach the dimension where exclusion occurs.
 
