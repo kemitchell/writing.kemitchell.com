@@ -67,7 +67,7 @@ There is one universal exclusive right in software, bestowed on the common man a
 
 The "source" part of "open source" requires surrendering this privilege completely.  Merely granting a well known license for something less than the preferred form for making changes---say, obfuscated source or compiled binary---doesn't count.  Neither does licensing less than all the code for a particular program.
 
-Copyright is only slightly less universal.  Under US law, copyright applies to nearly any source code, so long as it evidences some degree of creativity, which is not a lot.  There's no need to file any application, or pay any fee, to receive exclusive copyright, at least until you need to sue.
+Copyright is only slightly less universal.  Under United States law, copyright applies to nearly any source code, so long as it evidences some degree of creativity, which is not a lot.  There's no need to file any application, or pay any fee, to receive exclusive copyright, at least until you need to sue.
 
 As usual, there are laws that make employers and clients the owners of copyright, rather than the original authors, when programming gets done at work.  But by default, and outside the work environment, copyright belongs to the author, especially in states like California with specific legal protections for independent work.  That is to say, copyright in a program belongs to the programmer, as long as they didn't write it or assign ownership of it for work.
 
