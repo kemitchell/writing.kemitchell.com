@@ -8,7 +8,7 @@ layout: post
 I summarize the missed opportunity that was MongoDB's Server Side Public License, and how it was missed.
 </aside>
 
-MongoDB's Server Side Public License is fundamentally different from Commons Clause.  Inability and simple unwillingness to recognize that difference squandered a once-a-decade opportunity for open source as a community of practice.  The ensuing spat and fractured result makes everyone involved---the companies, the Open Source Initiative, the lawyers---look petty, short-sighted, and incompetent.
+MongoDB's Server Side Public License is fundamentally different from Commons Clause.  Inability and simple unwillingness to recognize that difference squandered a once-a-decade opportunity for open source as a community of practice.  The ensuing spat and fractured result makes everyone involved---the companies, the pundits, the Open Source Initiative, the lawyers---look petty, blinkered, and incompetent.
 
 We deserve it.
 
