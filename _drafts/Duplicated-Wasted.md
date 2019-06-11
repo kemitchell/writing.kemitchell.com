@@ -9,3 +9,7 @@ tags:
 {% include memeguments.md %}
 
 ---
+
+<!-- Education is repetition. -->
+
+<!-- Having X done again by someone you trust matters. -->
