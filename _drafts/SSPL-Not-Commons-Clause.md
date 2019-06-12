@@ -8,7 +8,7 @@ layout: post
 I summarize the missed opportunity that was MongoDB's Server Side Public License, and how it was missed.
 </aside>
 
-MongoDB's [Server Side Public License][SSPL] is fundamentally different from [Commons Clause].  Inability and simple unwillingness to recognize that difference squandered a once-a-decade opportunity for open source as a community of practice.  The ensuing spat and fractious, walk-away ceasefire makes everyone involved---the companies, the pundits, the Open Source Initiative, the lawyers---look petty, blinkered, and incompetent.
+MongoDB's [Server Side Public License][SSPL] is fundamentally different from [Commons Clause].  Inability and simple unwillingness to recognize that fact squandered a once-a-decade opportunity for open source as a community of practice.  The ensuing spat and fractious, walk-away ceasefire makes everyone involved---the companies, the pundits, the Open Source Initiative, the lawyers---look petty, blinkered, and incompetent.
 
 We deserve it.
 
@@ -64,25 +64,27 @@ And "AGPLv3 with Commons Clause" says:
 
 Companies that wanted "but don't compete" started from different open source licenses.  Some chose permissive, especially [Apache].  Others chose copyleft, especially [AGPL].
 
-In theory, writing Commons Clause as a generic patch enabled all of those firms to adopt one new text, Commons Clause, instead of a whole slate of new licenses, from permissive to weak and strong copyleft.  In theory, those accustomed to MIT and Apache and AGPL on the receiving end could apply what they already knew about those licenses, and simply tack on the Commons Clause question: Are we competing with the developer?
+Writing Commons Clause as a generic patch enabled all of those firms to adopt one new text, Commons Clause, instead of a whole slate of new licenses, from permissive to weak and strong copyleft.  Those accustomed to MIT and Apache and AGPL on the receiving end could apply what they already knew about those licenses, and simply tack on the Commons Clause question: Are we competing with the developer?
 
-But regardless of which open source license the companies started with, adding Commons Clause produced a license that violated general principles associated with "open source", if only narrowly.  Again seriously overgeneralizing, I'd guess most developers today understand open source as follows:
+But regardless of which open source license the companies started with, adding Commons Clause added an exception that violated general principles associated with "open source".  Again seriously overgeneralizing, I'd guess most developers today understand open source as follows:
 
 > I can do what I want with open source that I find.  There's just one catch: copyleft, like GPL, requires sharing back.  As long as I avoid copyleft, I can do what I want.
 
-Commons Clause says you can't do what you want if what you want is to use the developer's software to compete against them.  Even if the vast majority of developers looking at a database under Commons Clause want to make applications, not compete in the database market, Commons Clause doesn't follow the open source principle, and it doesn't feel right to call Commons Clause software open source.  So the companies adopting it did not.
+Commons Clause says you can't do what you want if and only if what you want is to use the developer's software to compete against them.
+
+Even if the vast majority of developers looking at a database under Commons Clause want to make applications, not compete in the database market, Commons Clause doesn't follow the open source principle, and it doesn't feel right to call Commons Clause software open source.  So the companies adopting it did not.
 
 ## Ick
 
 The companies and lawyers behind Commons Clause understood that it was not open source in principle.  I strongly suspect they didn't feel the best about that, either.
 
-Many of these companies seem to have released open source early on not because they saw it as a surefire path to financial glory, but because they liked and identified with open source, wanted to contribute back, and hoped to build companies appreciated for doing so.  It is far, far easier to convince a professional investor to sign off on a restricted license than some mishmash of old open source license and new bolt-on clause, to take a "secret sauce" approach to everything.  They didn't do that.
+Many of these companies seem to have released open source early on not because they saw it as a surefire path to business glory, but because they liked and identified with open source, wanted to contribute back, and hoped to build companies appreciated for doing so.  It is far, far easier to convince a professional investor to sign off on a restricted license than some mishmash of old open source license and new bolt-on clause, to take a "secret sauce" approach to everything.  They didn't do that.
 
-But they felt threatened by Amazon and other cloud providers.  And none of them had much individual leverage against that kind of dominant player.  The best they could do was band together under a [sympathizing, if unsympathetic, venture capitalist](https://techcrunch.com/author/salil-deshpande/), pool resources, and hire [Heather Meeker](https://heathermeeker.com) to write one set of terms they could all use to mount a defense.  So they did.
+But they felt threatened by Amazon and other cloud providers.  And none of them had much individual leverage against that kind of dominant player.  The best they could do was band together under a [sympathizing, if unsympathetic, venture capitalist](https://techcrunch.com/author/salil-deshpande/), pool resources, and hire [Heather Meeker](https://heathermeeker.com) to write one set of terms they could use to mount a common defense.  So they did.
 
 ## Tea Leaves
 
-I read and write licenses all the time.  My first impression of Commons Clause's text was that it essentially just _transcribed_ the fears of the companies involved into legal terms, and prohibited them.  It _translated_ that rule into legal terms only to the minimum extent absolutely necessary.  The result reads like a snippet of commercial software license, not a snippet of open source license, and not any of the other, [easy reading](https://fair.io/) [work](https://polyformproject.org/) Heather's been a part of lately.
+I read and write licenses all the time.  My first impression of Commons Clause's text was that it merely _transcribed_ the behavior companies involved wanted to stop, and prohibited it.  It _translated_ that rule into legal terms only to the minimum extent absolutely necessary.  The result reads like a snippet of commercial software license, not a snippet of open source license, and not a snippet of the [more progressive drafting work](https://fair.io/) [work](https://polyformproject.org/) Heather's been a part of before and since.
 
 Straight out of Commons Clause:
 
@@ -98,7 +100,7 @@ Translation:  "Sell" means doing anything with this software in order to sell ot
 
 This is where Commons Clause attempts to draw the line between applications, which all these companies want others to build for free, and competitive offerings, which they want to prohibit.
 
-To make that concrete:  As a database company, I might be fine with others building inventory management, social media, and other applications using my database to store data, for free.  Maybe I'll get to sell them training or support or database hosting further down the line.  But I don't want others selling a competitive version of my database with patches they refuse to share back, or crushing me in the database hosting business because they've already run away with that game.
+To make that concrete:  As a database company, I might be fine with others building inventory management, social media, and other applications using my database as data store, absolutely free.  Maybe I'll get to sell them training or support or database hosting further down the line.  But I don't want others selling a competitive version of my database with patches they refuse to share back, or crushing me in the database hosting business because they've already run away with that game.
 
 ## SSPL
 
