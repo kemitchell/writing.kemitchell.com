@@ -159,7 +159,7 @@ None of the old weak-copyleft licenses requires sharing back improvements to the
 
 All those licenses were written before service composition became widespread in mainstream software development.  They all pretty much assumed that big programs get built out of smaller programs by linking them together.
 
-MongoDB's lawyer, Eliot Horowitz, called this out right at the top of [his rationale for proposing SSPL](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2018-October/003603.html) for Open Source Initiative approval:
+MongoDB's CTO, Eliot Horowitz, called this out right at the top of [his rationale for proposing SSPL](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2018-October/003603.html) for Open Source Initiative approval:
 
 > Today, Affero GPL 3.0 uses the broadest scope of copyleft, among the commonly used open source licenses. ...
 >
