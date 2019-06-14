@@ -96,7 +96,7 @@ Straight out of Commons Clause:
 
 > Without limiting other conditions in the License, the grant of rights under the License will not include, and the License does not grant to you, the right to Sell the Software.
 
-In English:  This is a patch.  The only change that patch makes is taking away one right, the right to sell the software, as we're about to define "sell".  Everything else that out open source license lets you do, you can still do.
+In English:  This is a patch.  The only change that patch makes is taking away one right, the right to sell the software, as we're about to define "sell".  Everything else that our open source license lets you do, you can still do.
 
 Then:
 
