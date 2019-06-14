@@ -90,7 +90,7 @@ But they felt threatened by Amazon and other cloud providers, not just directly,
 
 ## Tea Leaves
 
-I read and write licenses all the time.  My first impression of Commons Clause's text was that it merely _transcribed_ companies' description of the behavior they wanted to stop, and prohibited it.  Commons Clause _translated_ that rule into legal terms only to the minimum extent absolutely necessary.  The result reads like a snippet of commercial software license, not a snippet of open source license, and not a snippet of the [more progressive drafting work](https://fair.io/) [work](https://polyformproject.org/) Heather's been a part of before and since.
+I read and write licenses all the time.  My first impression of Commons Clause's text was that it merely _transcribed_ companies' description of the behavior they wanted to stop, and prohibited it.  Commons Clause _translated_ that rule into legal terms only to the minimum extent absolutely necessary.  The result reads like a snippet of commercial software license, not a snippet of open source license, and not a snippet of the [more progressive drafting](https://fair.io/) [work](https://polyformproject.org/) Heather's been a part of before and since.
 
 Straight out of Commons Clause:
 
