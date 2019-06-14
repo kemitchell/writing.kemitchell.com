@@ -2,13 +2,17 @@
 title: SSPL Is Not Commons Clause
 description: how open licensing blew its biggest opportunity of the 2010s
 layout: post
+tags:
+- Licensing
+- Open Source
+- SSPL
 ---
 
 <aside class="brief" markdown="1">
 I summarize the missed opportunity that was MongoDB's Server Side Public License, and how it was missed.
 </aside>
 
-MongoDB's [Server Side Public License][SSPL] is fundamentally different from [Commons Clause].  Inability and simple unwillingness to express and recognize that fact squandered a once-a-decade opportunity for open source as a community of practice.  The ensuing spat and fractious, walk-away ceasefire instead make everyone involved---the companies, the pundits, the Open Source Initiative, the lawyers---look petty, blinkered, selfish, and incompetent, from nearly any outside point of view.
+MongoDB's [Server Side Public License][SSPL] is fundamentally different from [Commons Clause].  Inability and simple unwillingness to express and recognize that fact squandered a once-a-decade opportunity for open source as a community of practice.  The ensuing spat and fractious, walk-away ceasefire make everyone involved---the companies, the pundits, the Open Source Initiative, the lawyers---look petty, blinkered, selfish, and incompetent, from nearly any outside vantage point.
 
 We deserve it.
 
@@ -38,7 +42,7 @@ Do what you want with this software.
 Share improvements and extensions you make alike.
 ```
 
-[Commons Clause] is a bolt-on "patch" to any open source license, permissive or copyleft.  Highly oversimplifying yet again, Commons Clause appends:
+[Commons Clause] is a bolt-on "patch" to any open source license, permissive or copyleft.  Generalizing a bit, Commons Clause appends:
 
 ```diff
 + But don't use it to compete with its developer.
@@ -64,15 +68,17 @@ And "AGPLv3 with Commons Clause" says:
 
 Companies that wanted "but don't compete" used different open source licenses.  Some chose permissive, especially [Apache].  Others chose copyleft, especially [AGPL].
 
-Writing Commons Clause as a generic patch enabled all of those companies to adopt one new text, Commons Clause, instead of a whole slate of new licenses, from permissive to weak and strong copyleft, corresponding to MIT with Commons Clause, Apache with Commons Clause, AGPL with Commons Clause, and so on.  On the user side, those accustomed to MIT and Apache and AGPL on the receiving end could apply what they already knew about those licenses, and simply tack on the Commons Clause question: Are we competing with the developer?
+Writing Commons Clause as a generic patch enabled all of those companies to adopt one new text, Commons Clause, instead of a whole slate of new licenses, from permissive to weak and strong copyleft, corresponding to MIT with Commons Clause, Apache with Commons Clause, AGPL with Commons Clause, and so on.
 
-But regardless of which open source license the companies started with, adding Commons Clause violated general principles associated with "open source".  Again seriously overgeneralizing, I'd guess most developers today understand open source as follows:
+On the user side, those accustomed to MIT and Apache and AGPL on the receiving end could apply what they already knew about those licenses, and simply tack on the Commons Clause question: Are we competing with the developer?
+
+But regardless of which open source license the companies started with, adding Commons Clause violated a general principle associated with "open source".  Again seriously overgeneralizing, I'd guess most developers today understand open source as follows:
 
 > I can do what I want with open source that I find.  There's just one catch: Copyleft, like GPL, requires sharing back.  As long as I avoid copyleft, I can do what I want.
 
 Commons Clause says you can't do what you want if that happens to be using the software to compete against its developer.
 
-Even if the vast majority of developers looking at a database under Commons Clause want to make applications, not compete in the database market, "Do what you want." is no longer absolute under Commons Clause, and it doesn't feel right to call Commons Clause software open source.  So the companies adopting it did not.
+Even if the vast majority of developers looking at a database under Commons Clause want to make applications, not compete in the database market, "Do what you want." is no longer absolute under Commons Clause.  So it doesn't feel right to call Commons Clause software open source.  So the companies adopting it did not.
 
 ## Ick
 
@@ -84,41 +90,48 @@ But they felt threatened by Amazon and other cloud providers, not just directly,
 
 ## Tea Leaves
 
-I read and write licenses all the time.  My first impression of Commons Clause's text was that it merely _transcribed_ companies' description of the behavior they wanted to stop, and prohibited it.  Commons Claus _translated_ that rule into legal terms only to the minimum extent absolutely necessary.  The result reads like a snippet of commercial software license, not a snippet of open source license, and not a snippet of the [more progressive drafting work](https://fair.io/) [work](https://polyformproject.org/) Heather's been a part of before and since.
+I read and write licenses all the time.  My first impression of Commons Clause's text was that it merely _transcribed_ companies' description of the behavior they wanted to stop, and prohibited it.  Commons Clause _translated_ that rule into legal terms only to the minimum extent absolutely necessary.  The result reads like a snippet of commercial software license, not a snippet of open source license, and not a snippet of the [more progressive drafting work](https://fair.io/) [work](https://polyformproject.org/) Heather's been a part of before and since.
 
 Straight out of Commons Clause:
 
 > Without limiting other conditions in the License, the grant of rights under the License will not include, and the License does not grant to you, the right to Sell the Software.
 
-Translation:  This is a patch.  The only thing it's changing is taking away one right, the right to sell the software, as we're about to define "sell".  Everything else that out open source license lets you do, you can still do.
+In English:  This is a patch.  The only change that patch makes is taking away one right, the right to sell the software, as we're about to define "sell".  Everything else that out open source license lets you do, you can still do.
 
 Then:
 
 > ... "Sell" means practicing any or all of the rights granted to you under the License to provide to third parties, for a fee or other consideration (including without limitation fees for hosting or consulting/support services related to the Software), a product or service whose value derives, entirely or substantially, from the functionality of the Software.
 
-Translation:  "Sell" means doing anything with this software in order to sell others products or services that are mostly just this software.
+In English:  "Sell" means doing anything with this software in order to sell others products or services that are mostly just this software.
 
 This is where Commons Clause attempts to draw the line between applications, which all these companies want others to build for free, and competitive offerings, which they want to prohibit.
 
-To make that concrete:  As a database company, I might be fine with others building inventory management, social media, and other applications using my database as data store, absolutely free.  After all, I might get to sell them training or support or database hosting down the line.  But I don't want others selling a competitive version of my database with patches they refuse to share back, or crushing me in the database-as-a-service business because they'd already run away with that game before I started playing.
+To make that concrete:  As a database company, I might be fine with others building inventory management, social media, and other applications using my database as data store, absolutely free.  After all, I might get to sell them training or support or database hosting down the line.  But I don't want others selling a competitive version of my database with patches they refuse to share back, or crushing me in the database-as-a-service business because they've already run away with that game before I started playing.
 
 ## SSPL
 
 My first impression of MongoDB's Server Side Public License was that Heather wrote it.  I know my kind.
 
-My second impression was that somebody made her cram Commons Clause into AGPL.  SSPL didn't seem to _translate_ Commons Clause into open licensing terms so much as _transplant_ it into AGPL, an existing open license.
+My second impression was that somebody made her cram Commons Clause into [AGPL].  SSPL didn't seem to _translate_ Commons Clause into open licensing terms so much as _transplant_ it into AGPL, an existing open license.
 
-Those impressions aren't great, and both Mongo and Heather could have done far better.  But in the end, that's all surface.  In style, SSPL's section 13 reads like commercial license language.  It tracks the business way of expressing its objective.  But the underlying mechanism that language invokes, copyleft, is at the core of free and open licensing.
+Those impressions aren't great, and both those involved were capable of better.  But in the end, that's all surface.  In style, SSPL's section 13 reads like commercial license language.  It tracks the business way of expressing its objective.  But the underlying mechanism that language invokes, copyleft, is at the core of free and open licensing.
 
 The effect is a bit like a Ruby or Python wrapper around a C library.  At first glance, it's just more Ruby or Python.  You have to look deeper to see that it's invoking something different in kind.
 
 SSPL _doesn't_ say:
 
-> Don't use MongoDB to compete with MongoDB, Inc.
+```
+Don't use MongoDB to compete with MongoDB, Inc.
+```
 
-Rather, SSPL says:
+Rather, again broadly generalizing, SSPL says:
 
-> Share improvements, extensions, and code you use to provide MongoDB services alike, but do what you like with applications built on top.
+```
+Share improvements, extensions, plus code you use to
+provide MongoDB as a service, alike.
+
+But do what you like with applications built on top.
+```
 
 That general thrust isn't new.  A whole class of broadly accepted free and open software licenses, called "weak copyleft" licenses, have much the same effect.  On the surface, however, existing weak-copyleft licenses tend to express their rules in open-speak or developer-speak, rather than business-speak.  You have to work SSPL and the old weak-copyleft licenses in context to see their resemblance.
 
@@ -142,9 +155,11 @@ Visually:
 [MPL]: https://spdx.org/licenses/MPL-2.0.html
 [SSPL]: https://lists.opensource.org/pipermail/license-review_lists.opensource.org/2018-November/003836.html
 
-None of the old weak-copyleft licenses requires sharing back improvements to the software that take the form of wrappers like monitoring, orchestration, and backup code, rather than patches to existing source code.  All the old weak-copyleft licenses treat wrappers like applications exempt from copyleft, not patches or extensions that have to be shared alike.  Worse yet, it's often simply unclear.  All those licenses were written before service composition became a widespread approach in mainstream software development.  They all pretty much assumed that big programs get built out of smaller programs by linking them together.
+None of the old weak-copyleft licenses requires sharing back improvements to the software that take the form of wrappers like monitoring, orchestration, or backup code, rather than patches to existing source code.  Most old weak-copyleft licenses treat wrappers like applications exempt from copyleft, not patches or extensions that have to be shared alike.  Under others, it's simply not clear.
 
-MongoDB's lawyer, Eliot Horowitz, called this out right at the top of [his rationale for proposing SSPL](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2018-October/003603.html) to the Open Source Initiative for review:
+All those licenses were written before service composition became widespread in mainstream software development.  They all pretty much assumed that big programs get built out of smaller programs by linking them together.
+
+MongoDB's lawyer, Eliot Horowitz, called this out right at the top of [his rationale for proposing SSPL](http://lists.opensource.org/pipermail/license-review_lists.opensource.org/2018-October/003603.html) for Open Source Initiative approval:
 
 > Today, Affero GPL 3.0 uses the broadest scope of copyleft, among the commonly used open source licenses. ...
 >
@@ -168,11 +183,15 @@ This was MongoDB offering to compromise, and seeking guidance on how to implemen
 
 Some of the time.  Compared to a flat-out restriction, copyleft inherently gives ground.  License restrictions say "Thou shalt not."  Copyleft says "If thou dost, share thy work alike."  Nobody really expects AWS to share all its wrapper code around a database.  But someone else might.
 
-From the business perspective, copyleft leaves open the possibility that someone will come along, use your code, honor your requirement to share alike, and still outcompete you.  From MongoDB's point of view, offering SSPL-style copyleft terms is taking a bet that another company can't outcompete them while also sharing the kind of hosting code that MongoDB keeps to itself.
+Perhaps that's not an imminent threat now.  But it could be, and licenses like SSPL arguably hasten that day.  From the business perspective, copyleft leaves open the possibility that someone will come along, use your code, honor your requirement to share alike, and still outcompete you.  From MongoDB's point of view, offering SSPL-style copyleft terms is taking a bet that another company can't outcompete them while also sharing the kind of hosting code that MongoDB keeps to itself.
 
-That speaks directly to MongoDB's history.  MongoDB, Inc. began as 10gen, a startup attempting to offer a fully open source cloud.   In time, they pivoted to focus on the first component of that cloud platform, a database, and renamed their company to suit.  In short, MongoDB wanted to be "open source AWS", but open-sourced its S3, rather than keeping it closed, and morphed into the commercial force behind that project.  They did well from seed stage to growth, and eventually went public.  Now MongoDB has chosen a license for its database, SSPL, that would allow the company it originally wanted to be, 10gen, to directly compete with their hosted offerings.
+That speaks directly to MongoDB's history.  MongoDB, Inc. began as 10gen, a startup attempting to offer a fully open source cloud.   In time, they pivoted to focus on the first component of that platform, its database, and renamed their company to suit.  In short, MongoDB wanted to be "open source AWS", but open-sourced its S3, rather than keeping it closed, and morphed into the commercial force behind that project.  They did well from seed stage to growth, and eventually went public.  Now MongoDB has chosen a license for its database, SSPL, that would allow the company it originally wanted to be, 10gen, to directly compete with their main line of business.
 
-To put it another way, from the outside point of view: SSPL-style copyleft terms put a bounty on the business model that 10gen tried and failed to find.  If you find a way to beat MongoDB, Inc. while sharing all the code you use to do so, you're welcome to MongoDB, gratis.  If you find a way to be open source AWS, you can offer MongoDB as a part of that platform, without cutting any special deal.
+To put it from the outside point of view: SSPL-style copyleft terms put a bounty on the business model that 10gen tried and failed to find.  If you find a way to beat MongoDB, Inc. while sharing all the code you use to do so, you're welcome to MongoDB, gratis.  If you find a way to be open source AWS, you can offer MongoDB as a part of that platform, without cutting any special deal.
+
+Commons Clause didn't make that invitation.
+
+Commons Clause just said no.
 
 ## Old Hat
 
@@ -184,30 +203,32 @@ Failure to see past the superficial resemblance to Commons Clause, recognize tha
 
 Instead of guiding and educating a public company evidently willing to bankroll much-needed open license maintenance that would have benefited many others, the self-styled brain trust of open source licensing, driven largely by non-lawyer activists, rejected MongoDB's stated motives out of hand.  The companies behind Commons Clause evidently couldn't afford or approve the project of modernizing weak copyleft for service components.  But their public-company forerunner, MongoDB, could, would, and did.
 
-MongoDB got a chance to make its arguments, but those arguments never got a chance to be heard as presented and considered on their merits, at least through OSI.  If MongoDB had known [what kinds of preconceptions](http://lists.opensource.org/pipermail/license-discuss_lists.opensource.org/2019-February/020266.html) [awaited them there](https://anonymoushash.vmbrasseur.com/), they wouldn't have come calling to begin with.  The OSI mailing list couldn't separate the license proposed from prior conclusions about the party proposing it, and devolved into a largely unstructured, performative pillory.  Critics were often too invested in berating MongoDB for what it was---a newish company, rather than an [old corporate friend](http://redhat.com/) or [foundation](https://fsf.org)---or what they took it to represent---a sock-puppet for nefarious venture capitalists---to hear what it had to say, much less give benefit of the doubt or steel-man its license text.  Instead of scratching the surface, OSI's mailing devolved, yet again, into a [meta discussion about its own process](https://opensource.org/LicenseDiscuss022019).  There is still nothing close to consensus on whether who submitted a license should matter at all.
+MongoDB got a chance to make its arguments, but those arguments never had a chance to be heard as presented and considered on their merits, at least through OSI.  If MongoDB had known [what kinds of preconceptions](http://lists.opensource.org/pipermail/license-discuss_lists.opensource.org/2019-February/020266.html) [awaited them there](https://anonymoushash.vmbrasseur.com/), they wouldn't have come calling to begin with.  The OSI mailing list couldn't separate the license proposed from prior conclusions about the party proposing it, and devolved into a largely unstructured, performative pillory.  Critics were often too invested in berating MongoDB for what it was---a newish company, rather than an [old corporate friend](http://redhat.com/) or [foundation](https://fsf.org)---or what they took it to represent---a sock-puppet for nefarious venture capitalists---to hear what it had to say, much less give benefit of the doubt or steel-man its license text.  Instead of scratching the surface, OSI's mailing devolved, yet again, into a [meta discussion about its own process](https://opensource.org/LicenseDiscuss022019).  There is still nothing close to consensus on whether beating on SSPL because MongoDB proposed it was fair play.
 
-So MongoDB dug in on a license written almost entirely by its own hand, without significant outside contribution, that attends only to its own immediate needs, as it sees them.  They brought an olive branch, and got poked in the eye with it.  Understandably, they've had enough of that kind of feedback.
+So MongoDB dug in on a license written almost entirely by its own hand, without significant outside contribution, that attends only to its own immediate needs, as it sees them.  They brought an olive branch, and got poked in the eye with it.  Understandably, they had enough of that kind of feedback.
 
-I had, too.  So I quit the OSI license-review process and unsubscribed from all its lists.  Of all the discussions I'd had about SSPL, the discussion there might've been the worst.
+I had, too.  I quit the OSI license-review process and unsubscribed from all its lists.  Of all the discussions I'd had about SSPL, the discussion via OSI's mailing list was the worst.
 
 ## Next
 
-I don't know where we go from here, and I don't know how.  If I had to guess, I'd guess nowhere good, unpleasantly.
+I don't know where we go from here, and I don't know how.  If I had to guess, I'd guess nowhere good, and unpleasantly.  Perhaps that's just.
 
 As usual, I blame myself.  I should have seen past the surface more quickly.  Once I had, I should have set prior thoughts and debates aside, and struck at the root.  Instead, I continued playing my part in the mounting fracas, which eventually consumed itself.
 
-Too late in the process, as an exercise, I began sketching out what I called the "What Would Heather Do?" license.  I began from a blank slate, but tried to translate what Mongo and the Commons Clause startups seemed to want into pure and plain open-license terms.  I tried to make the design and drafting choices I think Heather would have made with a free hand and enough time.  It became a different license, and one that not only companies might want.
+Too late in the process, as an exercise, I began sketching out what I called the "What Would Heather Do?" license.  I started from a blank slate, translating what Mongo and the Commons Clause startups seemed to want into pure and plain open-license terms.  I tried to make the design and drafting choices I think Heather would have made with a free hand and enough time.  It became a different license, and one that not only companies might want.
 
-That's the [API Copyleft License](https://github.com/kemitchell/api-copyleft-license).  I think it has a lot of promise.  I think it could meet real needs.  I think it can point back to an established design pedigree.  I think it's basically MPLv2 for 2019.
+That's the [API Copyleft License](https://github.com/kemitchell/api-copyleft-license).  I think it has a lot of promise.  I think it could meet real needs.  I think it can point back to an established design pedigree.  I think it's basically MPLv2 for 2019.  Not any revolution.  Just workmanlike maintenance.
 
 But I don't see any institution ready to adopt it, either as a finished text or as a design-plan for a new one in house style.  Not as MPLv3.  Not as LAGPLv4.
 
-I don't see any institution capable of assessing it as a license in its own right, on its own terms, either.  I expect any approval process for API Copyleft would charge the supposed sins of SSPL and Commons Clause against it.  I expect any approval process for API Copyleft would charge _my_ supposed sins against it.  I expect the discussion to go badly, even about relatively uncontroversial parts.  For many of the same reasons, none of the lawyers involved in [Blue Oak Council](https://blueoakcouncil.org) have submitted its far less controversial, permissive [model license](https://blueoakcouncil.org/license/1.0.0) anywhere, either.
+I don't see any institution capable of assessing it as a license in its own right, on its own terms, either.  I expect any approval process for API Copyleft would charge the supposed sins of SSPL and Commons Clause against it.  I expect any approval process for API Copyleft would charge _my_ supposed sins against it.  I expect the discussion to go badly, even about relatively uncontroversial parts.
 
-Fortunately, nobody needs a foundation to write a good license.  I know how to do that, and how to get great feedback from peers, legal and technical.  I can them by e-mail, GitHub, [a Discourse forum](https://licensefarm.com/)--- nearly anything's better than a mailing list.  But I don't see how any of that matters.  Conversations and debates between repeat players are always stateful.  Too many regulars have doubled down.
+For many of the same reasons, none of the lawyers involved in [Blue Oak Council](https://blueoakcouncil.org) have submitted its far less controversial, permissive [model license](https://blueoakcouncil.org/license/1.0.0) anywhere, either.  The process is terrible, we've all been through it, and nobody wants to do it again.
 
-Loggerheads would seem to favor those who oppose new licenses, or licenses addressing new modes of development and their resulting license needs.  The turtle defense, and I'd argued simple obstruction, have served some players well in the past.  A few of those would prefer to see no new licenses at all, or only new tweaks to existing licenses, in the event of some unfortunate new legal development.  From that point of view, open source advocacy on the licensing front means holding the line, preserving the status quo or some blessed subset of it, and admitting no unwelcome innovation, no matter the cost.  It's all defense.
+Fortunately, nobody needs a foundation to write a good license, or to route mail.  I know how to draft, and how to get great feedback from peers, legal and technical.  I reach can them by e-mail, GitHub, [a Discourse forum](https://licensefarm.com/)---nearly anything's better than a mailing list.  But in the politics, I don't see how any of that matters.  Conversations and debates between repeat players are always stateful.  Too many regulars have doubled down.
 
-I fear defensive posture will become a self-fulfilling prophecy.  Denying open licensing's role in shaping the relationship between producers and consumers, rather than simply preferencing consumers, won't make today's producer-side problems disappear, for small or large players.  If enough developers need new copyleft licenses for new development practices, like service composition, to make old business models work, new licenses will be written.  If existing institutions decline to guide and recognize those efforts, they can't expect ongoing support from those who need them, or credit for stewardship.
+Loggerheads would seem to favor those who oppose new licenses, or licenses addressing new modes of development and resulting license needs.  The turtle defense, and I'd argued simple obstruction, have served some players well in the past.  A few of those would prefer to see no new licenses at all, or only new tweaks to existing licenses in the event of some unfortunate new legal development.  From that perspective, open source advocacy on the licensing front just means holding the line, preserving the status quo or some blessed subset of it, and admitting no unwelcome innovation, assuming cost always overwhelms benefits.  It's all defense, like a fortress besieged.
+
+I fear that posture will fulfill its own prophecy.  Denying open licensing's role in shaping the relationship between producers and consumers, rather than simply preferencing consumers, won't make today's producer-side problems disappear, for small or large players.  If enough developers need new copyleft licenses for new development practices, like service composition, to make the classic business models work, new licenses will be written.  If existing institutions decline to guide and recognize those efforts, they can't expect ongoing support from those who need them, or credit for stewardship from any but their own partisans.
 
 By vilifying these efforts and running them through a gauntlet, OSI in particular is either betting these developers and their lawyers will simply go away, or daring them to bite back.  I don't think anybody's planning to go away.
