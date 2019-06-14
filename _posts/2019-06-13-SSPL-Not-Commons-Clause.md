@@ -1,5 +1,5 @@
 ---
-title: SSPL Is Not Commons Clause
+title: SSPL Was Not Commons Clause
 description: how open licensing blew its biggest opportunity of the 2010s
 layout: post
 tags:
