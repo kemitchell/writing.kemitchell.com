@@ -188,8 +188,24 @@ MongoDB got a chance to make its arguments, but those arguments never got a chan
 
 So MongoDB dug in on a license written almost entirely by its own hand, without significant outside contribution, that attends only to its own immediate needs.  They brought an olive branch, and got poked in the eye with it.  Understandably, they've had enough of that kind of feedback.
 
-I had, too.  So I quit the OSI license-review process, and unsubscribed from its lists.
+I had, too.  So I quit the OSI license-review process, and unsubscribed from its lists.  Of all the discussions I'd had about SSPL, the discussion there might've been the worst.
 
 ## Next
 
-TODO
+I don't know where we go from here, and I don't know how.  If I had to guess, I'd guess nowhere good, unpleasantly.
+
+As usual, I blame myself.  I should have seen past the surface more quickly.  Once I had, I should have set prior thoughts and debates aside, and struck at the root.  Instead, I continued playing my part in the mounting fracas, which eventually consumed itself.
+
+Too late in the process, I began sketching out what I called the "What Would Heather Do?" license.  I started from a blank slate, but tried to translate what Mongo and the Commons Clause startups seemed to want into pure and plain open-license terms.  I tried to make the design and drafting choices I think Heather would have made with a free hand and enough time.  It became a different license, and one that not only companies might want.
+
+That's the [API Copyleft License](https://github.com/kemitchell/api-copyleft-license).  I think it has a lot of promise.  I think it could meet real needs.  I think it can point back to an established design pedigree.
+
+But I don't see any institution ready to adopt it, either as a finished text or as a design-plan for a new one in house style.  Not as MPLv3.  Not as LAGPLv4.
+
+I don't see any institution capable of assessing it as a license in its own right, on its own terms, either.  I expect any approval process for API Copyleft would charge the supposed sins of SSPL and Commons Clause against it.  I expect any approval process for API Copyleft would charge _my_ supposed sins against it.
+
+Fortunately, nobody needs any of that to write a good license.  I know how to do that, and how to get great feedback from peers, legal and technical.  But I don't see how that translates to any kind of recognition or acceptance through current institutions.  Conversations and debates between repeat players are always stateful.  Too many regulars have doubled down.
+
+Loggerheads would seem to favor those who oppose new licenses, or licenses addressing new modes of development and their resulting license needs.  The turtle defense, and I'd argued simple obstruction, has served some players well in the past.  Some would prefer to see no new licenses at all, or only new tweaks to existing licenses, in the event of some unfortunate new legal development.  From that point of view, open source advocacy on the licensing front means holding the line, preserving the status quo or some blessed subset of it, and admitting no unwelcome innovation.  It's all defense.
+
+I fear defensive posture will become a self-fulfilling prophecy.  Denying open licensing's role in shaping the relationship between producers and consumers, rather than simply preferencing consumers, won't make today's problems disappear, for small or large players.  If enough developers need new copyleft licenses for new development practices, like service composition, new licenses will be written.  If existing institutions decline to guide and recognize those efforts, they can't expect ongoing support from those who need them, or credit for ongoing stewardship.  By vilifying these efforts and grinding them down, OSI in particular is either betting these developers and their lawyers will go away, or daring them to bite back.
