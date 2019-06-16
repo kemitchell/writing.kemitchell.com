@@ -21,7 +21,7 @@ This is the root of much confusion about "copyleft" and "commercial" licensing. 
 
 The tight relationship of commercial and closed enables [public-private licensing business models](https://indieopensource.com/public-private/indies) in software, at least for software _components_ like frameworks and libraries, as opposed to complete _applications_ like mobile apps and developer tools.
 
-Depending on who you ask, the activists behind many copyleft licenses want to compete against commercial software's closed orthodoxy, to change commercial software's orthodox from closed to open, or both.
+Depending on who you ask, the activists behind many copyleft licenses want to compete against commercial software's closed orthodoxy, to change commercial software's orthodoxy from closed to open, or both.
 
 ## Nearly all software gets distributed. {#distributed}
 
