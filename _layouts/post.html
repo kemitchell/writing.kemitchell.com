@@ -9,6 +9,11 @@
   {% endif %}
   <h1 id=title>{{ page.title }}<small>{{ page.description
       }}</small></h1>
+  {% if page.brief %}
+  <aside class="brief" markdown="1">
+    {{ page.brief | markdownify }}
+  </aside>
+  {% endif %}
   {{ content }}
   <p class=signature>
       Your thoughts and feedback are
