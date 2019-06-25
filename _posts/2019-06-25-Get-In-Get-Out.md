@@ -6,7 +6,7 @@ tags:
 - Careers
 - Open Source
 - Software Industry
-brief: New programmers looking for their first jobs need a clearheaded view of the costs and benefits of open source creds.
+brief: New programmers looking for their first jobs need a clearheaded view of the costs and benefits of open source credentials.
 ---
 
 When new programmers ask me about open source, I tell them:
