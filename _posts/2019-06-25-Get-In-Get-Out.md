@@ -51,7 +51,7 @@ In the United States, [unpaid internships for employer benefit are illegal](http
 
 There is no better deal for companies than open source under popular licenses like [MIT], [BSD], and [Apache].  If they could get all their software that way, and never pay another programmer, they would.
 
-That is _not_ the deal you are after, breaking into the industry.  When you're willing to code for free, by contributing to open source or otherwise, make very sure you're being rewarded in some other, concrete way that advances your goal.  In other words, make sure the deal is as good for you as everyone else.  It's not on you, the one without a job, to subsidize the industry.  It's on the industry to ensure that when it needs programmers, they'll be there.
+That is _not_ the deal you are after, breaking into the industry.  When you're willing to code for free, by contributing to open source or otherwise, make very sure you're being rewarded in some other, concrete way that advances you toward financial and professional self-sufficiency.  In other words, make sure the deal is as good for you as everyone else.  It's not on you, the one without a job, to subsidize the industry.  It's on the industry to ensure that when it needs programmers, they'll be there.
 
 [Apache]: https://spdx.org/licenses/Apache-2.0.html
 [BSD]: https://spdx.org/licenses/BSD-2-Clause.html
