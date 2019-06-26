@@ -21,7 +21,7 @@ That is _not_ the same as showing that some large-famous company uses your softw
 
 Open source adoption is a credential that says, among other, more positive things, "I will do free work."  What you need more than anything, starting out, is a credential that says "My work is worth paying for."  Until you've established that fact, don't do free programming without direct job-seeking benefit when you could be doing the obvious: portfolio, applications, interviews, and networking.
 
-In the future, after you're established, you may decide that showing lots of adoption of open source you give away, or releasing important open source in a niche area, is important to you.  It may feed a greater sense of a accomplishment and purpose.  It may afford opportunities to work on interesting projects outside the scope of your paid work.  It may help you keep current, or aid in transition to a new platform or programming language.  All valid goals that open source participation can help achieve.
+In the future, after you're established, you may decide that showing lots of adoption of open source you give away, or releasing important open source in a niche area, is important to you.  It may feed a greater sense of accomplishment and purpose.  It may afford opportunities to work on interesting projects outside the scope of your paid work.  It may help you keep current, or aid in transition to a new platform or programming language.  All valid goals that open source participation can help achieve.
 
 But in the meantime, you need to be very mindful of your immediate task, how open source will and won't contribute, and the need to defend your time.  Yes, even if you're unemployed.
 
