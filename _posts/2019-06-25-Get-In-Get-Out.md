@@ -47,7 +47,7 @@ Long-term, you want to learn as much as you can.  Open source can teach you a lo
 
 Programming can be lucrative.  You can make good money, sitting at a desk, without exposure to dangerous chemicals, operating heavy machinery, dodging bullets, or grinding your joints to dust.  But programming is also rife with [inequality](https://hired.com/page/wage-inequality-report), [worker abuse](https://venturebeat.com/2016/04/16/game-developers-must-avoid-the-wage-slave-attitude/), and [systemic unfairness](https://en.wikipedia.org/wiki/High-Tech_Employee_Antitrust_Litigation).  It is, after all, an industry.
 
-In the United States, [unpaid internships for employer benefit are illegal](https://www.dol.gov/whd/regs/compliance/whdfs71.htm).  But somehow ["GitHub is your resume"](https://anti-pattern.com/github-is-your-resume-now) is fine, even for new programmers who haven't had any jobs that allow contribution on company time.  Firms are effectively requiring unpaid internships while offloading even the burden of running those internships onto open source.
+In the United States, [unpaid internships for employer benefit are illegal](https://www.dol.gov/whd/regs/compliance/whdfs71.htm).  But somehow ["GitHub is your resume"](https://anti-pattern.com/github-is-your-resume-now) is fine, even for new programmers who haven't had any jobs that allow contribution on company time.  Firms are effectively requiring unpaid internships while offloading even the burden of providing that kind of mentorship.  Because they can.
 
 There is no better deal for companies than open source under popular licenses like [MIT], [BSD], and [Apache].  If they could get all their software that way, and never pay another programmer, they would.
 
