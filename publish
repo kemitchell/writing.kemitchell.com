@@ -1,8 +1,5 @@
 #!/bin/sh
-ssh -q kyle@kemitchell.com <<SESSION
-cd /var/www/writing.kemitchell.com/
-git fetch origin
-git checkout master
-git reset --hard origin/master
-bundler exec jekyll build
-SESSION
+set -e
+rm -rf _site
+bundle exec jekyll build
+rsync -a --delete _site/ kyle@kemitchell.com:/var/www/writing.kemitchell.com/
