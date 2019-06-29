@@ -14,7 +14,14 @@ Goals:
 - minimize overhead (e.g. filing fees, time delays)
 - international
 
-Condition:
+Conditions:
 - inputs are licenses
 - outputs are licenses
 - return loop may be licenses, money, etc.
+
+Prior Art:
+- fiscal sponsorships
+- series LLCs
+- common-law partnerships
+- tax-exempt foundations
+- Singapore, Estonia, &c. entities
