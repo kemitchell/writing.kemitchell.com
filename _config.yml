@@ -15,6 +15,9 @@ feed:
   path: atom.xml
 exclude:
 - vendor
+- Gemfile
+- Gemfile.lock
+- Makefile
 defaults:
   - scope:
       path: ""
