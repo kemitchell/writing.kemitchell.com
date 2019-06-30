@@ -5,17 +5,19 @@ layout: post
 brief:  A new form of organization
 ---
 
-If they can learn from you, but you don't learn from them, expect to get fucked.
+If they learn from you, but you don't learn from them, you can expect to get fucked.
 
-The software industry has learned a lot from software activists.  It uses their methods, their infrastructure, and tons of their software.  But software activists have utterly failed to keep learning from industry.  Not since copyleft, more than thirty years ago, have software activists effectively seized a lever of industry power---in that case, copyright---and turned it around against industry misdeeds en masse.
+The software industry has learned a lot from software activists.  It uses their methods, their infrastructure, and tons of their software.  But software activists have utterly failed to keep learning from industry.  Not since more than thirty years ago did software activists effectively seize a lever of industry power, copyright, and turn it around against industry misdeeds en masse, as copyleft.
 
-Nowhere is this more clear than where software meets money.  Software freedom orthodoxy has long held that software freedom takes no umbrage at anyone making money.  The FSF itself sold copies of its software---on tape, back when that worked---to finance early days.  But software freedom activism isn't against money in software like the lactose-intolerant aren't against ice cream.  If an organization isn't nonprofit, or charitable, many Stallmanites simple aren't interested.  Some are revulsed.
+Nowhere is this more clear than where mantra meets money.  Software freedom orthodoxy has long chanted no problem with making any.  The FSF itself sold copies of its software---on tape, back when that worked---to finance early days, and RMS recommended selling exceptions to others.  But software freedom activism generally "isn't against money" more or less like most lactose-intolerants aren't against ice cream.  Others will do as they do, but if an organization isn't a nonprofit charity, many Stallmanites simply aren't interested.  Still others proclaim suspicion, laced with a note of tactfully suppressed revulsion.
 
-As a result, software activists utterly lack a cheap, scalable, international means of economic organization.  They know how to set up foundations, but those can't attract investment or pay dividends.  They know how to start and manage projects, but those can only share collective work for free.  When only one contributor---perhaps the company that released the project---retains the right to monetize, some cry foul.  So the work of developing activist software in competition with industry remains largely a shoestring, unfunded, intrinsically-motivated kind of affair.  It remains uncoupled from the engine of economic inspiration.  It benefits only from the effort of privileged allies, rarely from neutrals or hireable guns.
+As a result, software activists lack a cheap, scalable, international means of economic organization, and therefore economic organization more generally.  They know how to set up foundations, but those can't attract investment or pay dividends.  They know how to start and manage projects, but those can only opt out of the software economy.  When only one contributor---perhaps the company that released the project to begin with---retains the right to "monetize", some cry foul.
 
-Software activism---and not just FSF-style activism---needs a new vehicle not just for collective development, but collective business.  It can build that vehicle with the toolkit of.
+As a consequence, the work of developing activist software that competes with industry alternatives remains a shoestring, precariously funded, intrinsically motivated kind of affair overall, uncoupled from the engine of economic inspiration.  It subsists on the effort of relatively privileged allies with time and energy to spare, with rare input from indifferent neutrals or hireling guns.
 
-<!-- TODO: Compare to multi-contributor copyleft lock-in. -->
+Software activism---and not just the FSF strain---needs a new vehicle not just for collective development, but collective business.  It can build that vehicle with a signature tool of "enterprise"-scale competitive engineering: the cross-license.
+
+<!-- TODO: Distinguish projects that are "locked open" versus those with CLAs that preserve dual licensing capability.  Pivot from there to cross-licensing that involves all contributors in economic activity. -->
 
 <!--
 
