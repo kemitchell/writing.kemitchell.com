@@ -2,7 +2,7 @@
 title: Cross-License Collaboratives
 description:
 layout: post
-brief:  Software activists can appropriate cross-licensing, a signature competitive weapon of software enterprise, to build cheap, flexible, international means of economic self-organization.
+brief: Software activists can appropriate cross-licensing, a signature competitive weapon of software enterprise, to build cheap, flexible, international means of economic self-organization.
 ---
 
 If your competitors learn from you, but you don't learn from them, expect to lose.
