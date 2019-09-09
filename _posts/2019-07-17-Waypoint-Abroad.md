@@ -3,6 +3,7 @@ title: Waypoint Abroad
 description: seeking quick reads from non-US counsel
 layout: post
 tags:
+- Waypoint
 - Contracts
 - Nondisclosure Agreement
 - Standards

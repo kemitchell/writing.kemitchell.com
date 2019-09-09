@@ -3,6 +3,7 @@ title: The Waypoint NDA
 description: stop wasting time on NDAs
 layout: post
 tags:
+- Waypoint
 - Contracts
 - Nondisclosure Agreement
 - Standards

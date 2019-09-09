@@ -3,6 +3,7 @@ title: Help Take the Waypoint NDA International
 description: a call for help from common-law colleagues
 layout: post
 tags:
+- Waypoint
 - Contracts
 - Nondisclosure Agreement
 - Standards
