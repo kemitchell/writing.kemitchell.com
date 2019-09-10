@@ -1,5 +1,5 @@
 ---
-title: Is that conference a good idea?
+title: Is this conference a good idea?
 description: forthcoming talk at a conference
 tags:
 - Events
