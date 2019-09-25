@@ -1,5 +1,6 @@
 ---
 title: Open Core is Not a Good Story
+description: three better ways to express what you're about
 layout: post
 tags:
 - Open Source
