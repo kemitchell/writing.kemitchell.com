@@ -8,7 +8,7 @@ tags:
 - Business Models
 ---
 
-"Open core" means proprietary software.  We call it "open core" to say the closed code comes from an open place, that it's proprietary by necessity, but open at heart.  We use "open core" to say that the we'd go all-open if we could, but go part-proprietary because we must.
+"Open core" means proprietary software.  We call it "open core" to say the closed code comes from an open place, that it's proprietary by necessity, but open at heart.  We use "open core" to say that the we'd go all-open if we could, but go part-proprietary because we have to.
 
 When we use "open core" as a kind of apologia, its muted, defensive vibe can strike the right tone in the moment.  But the louder companies, investors, and the industry as whole declare that open core is a bona fide, established, viable, unapologetic _thing_, the less that note rings true to anyone else.   Declaring for all the world to hear that you are proud of, and defined by, your otherwise regrettable compromises is not a compelling story.  No one is inspired to run out and compromise, too.
 
