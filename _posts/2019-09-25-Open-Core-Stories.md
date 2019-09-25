@@ -28,7 +28,7 @@ Companies that appeal to fundamental fairness tend to nail the enlightened self-
 
 But overall, companies haven't told the fairness story well.  They flub not the rational self-interest point, but the moral point.  They fail the obvious consistency test.
 
-A company that wants to invoke fairness on its own behalf doesn't take a superior moral position simply by invoking the Golden Rule.  A company insisting on a fair shake for its own account---Amazon should do unto us as Amazon's customers do unto Amazon---comes across conniving and hollow without also mentioning how it is doing unto its own suppliers and dependencies.  Frequently, pointing this out leads to a similarly hollow rejoinder:  We will do unto others as we want done unto us ... as soon as _our_ checks clear, and we're flush with cash to spare.  That's a big if, and a big demand for trust.  Our money now, their money later ... someday ... maybe.
+A company that wants to invoke fairness on its own behalf doesn't take a superior moral position simply by invoking the Golden Rule.  A company insisting on a fair shake for its own account---Amazon should do unto us as Amazon's customers do unto Amazon---comes across conniving and hollow without also mentioning how the company is doing right by its own suppliers and dependencies.  Frequently, pointing this out leads to a similarly hollow rejoinder:  We will do unto others as we want done unto us ... as soon as _our_ checks clear, and we're flush with cash to spare.  That's a big if, and a big demand for trust.  Our money now, their money later ... someday ... maybe.
 
 If the fairness angle appeals to your moral suasion, be prepared to tell _and show_ a consistent moral position.  Practice what you preach before attempting any conversions.
 
