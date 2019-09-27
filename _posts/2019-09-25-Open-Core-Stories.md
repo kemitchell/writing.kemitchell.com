@@ -6,7 +6,7 @@ tags:
 - Open Source
 - Open Core
 - Business Models
-description: “Open Core” is apologetic and self-defeating.  There are better stories to tell about companies making open source.
+brief: “Open Core” is apologetic and self-defeating.  There are better stories to tell about companies making open source.
 ---
 
 "Open core" means proprietary software.  We call it "open core" to say the closed code comes from an open place, that it's proprietary by necessity, but open at heart.  We use "open core" to say that the we'd go all-open if we could, but go part-proprietary because we have to.
