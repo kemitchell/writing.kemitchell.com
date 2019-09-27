@@ -13,7 +13,7 @@ If you polled open software pundits, I think prevailing sentiment would say:  Hi
 
 I don't get it.  Licensing and hiring are fundamentally complementary.  Having both, rather than one or the other, creates opportunities for developers that wouldn't be broadly accessible otherwise.
 
-In the end, software is useful, it takes time to make, and people will pay for it.  Hopefully, the _structure_ of a producer-consumer relationship---employment, contract, or license---doesn't determine value, but merely reflects value.
+In the end, software is useful, it takes time to make, and people will pay for it.  Hopefully, the _structure_ of a producer-consumer relationship---employment, contract, or license---doesn't determine value, but merely it.
 
 Licensing is a tool that empowers developers and customers to shift the points when software gets made and money gets paid in time and in relation to each other.  Condemning licensing condemns that flexibility.
 
