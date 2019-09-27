@@ -13,9 +13,7 @@ If you polled open software pundits, I think prevailing sentiment would say:  Hi
 
 I don't get it.  Licensing and hiring are fundamentally complementary.  Having both, rather than one or the other, creates opportunities for developers that wouldn't be broadly accessible otherwise.
 
-In the end, software is useful, it takes time to make, and people will pay for it.  Hopefully, the _structure_ of a producer-consumer relationship---employment, contract, or license---doesn't determine value, but merely it.
-
-Licensing is a tool that empowers developers and customers to shift the points when software gets made and money gets paid in time and in relation to each other.  Condemning licensing condemns that flexibility.
+In the end, software is useful, it takes time to make, and people will pay for it.  Hopefully, the _structure_ of a producer-consumer relationship---employment, contract, or license---doesn't determine value, but merely it.  Licensing is a tool for structuring producer-consumer relationships that empowers them to shift the points when software gets made and money gets paid in time and in relation to each other.  Condemning licensing condemns that flexibility.
 
 It gets worse when we see how different deal structures play out in practice.  Ideally, deal structure would be nothing more than an implementation detail, but in reality, it often massively skews the terms and dollars developers see for their work.  Tradition and inertia constrain employment, contracting, and licensing.  Norms are deeply ingrained, and long predate the software industry.  Norms for employment and contracting hold many developers back late in their careers.  Promoting pay for time, and deprecating pay for permission, encourages developers to sell themselves short, punching the clock for others when they could be making entrepreneurial bets for themselves, or to flee programming entirely.
 
