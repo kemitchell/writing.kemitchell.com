@@ -1,10 +1,11 @@
 ---
 title: The Tyranny of Time
-description: licensing gives devs flexibility and a path to entrepreneurship
+description: licensing gives developers much-needed flexibility
 layout: post
 tags:
-- Open Source
+- Business
 - Licensing
+- Open Source
 brief: Treating licensing as taboo holds developers back.  We should focus on what developers and their users need to achieve, not obsess over business implementation details.
 ---
 
@@ -14,7 +15,7 @@ I don't get it.  Licensing and hiring are fundamentally complementary.  Having b
 
 In the end, software is useful, it takes time to make, and people will pay for it.  Hopefully, the _structure_ of a producer-consumer relationship---employment, contract, or license---doesn't determine value, but merely reflects value.
 
-Licensing is a tool that empowers developers and customers to shift the points when software gets made and money gets paid in time and in relation to each other.  Condemning licensing condemns that flexibility.  
+Licensing is a tool that empowers developers and customers to shift the points when software gets made and money gets paid in time and in relation to each other.  Condemning licensing condemns that flexibility.
 
 It gets worse when we see how different deal structures play out in practice.  Ideally, deal structure would be nothing more than an implementation detail, but in reality, it often massively skews the terms and dollars developers see for their work.  Tradition and inertia constrain employment, contracting, and licensing.  Norms are deeply ingrained, and long predate the software industry.  Norms for employment and contracting hold many developers back late in their careers.  Promoting pay for time, and deprecating pay for permission, encourages developers to sell themselves short, punching the clock for others when they could be making entrepreneurial bets for themselves, or to flee programming entirely.
 
