@@ -1,6 +1,6 @@
 ---
-title: Our Dogma Trumps Your Conscience
-description: in defense of Seth Vargo and ethical licenses
+title: Our Ethics, Not Yours
+description: in defense of Seth Vargo and morality-first licenses
 tags:
 - Open Source
 - Licensing
@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-I like Matt Asay, but his open source is very different from mine.  In a [recent post][post], Matt offers a flat rebuke to developers yanking code or changing license terms in protest against organizations doing things they abhor, like the United States' Immigrations and Customers Enforcement.  But that rebuke will only sting if you already agree with Matt Asay.
+I like Matt Asay, but his open source is very different from mine.  In a [recent post][post], Matt offers a bald rebuke of developers yanking code or changing license terms to protest organizations doing things they abhor, like the United States' Immigrations and Customers Enforcement.  But that rebuke only stings if you already agree that Matt Asay's ethic trumps yours.
 
 [post]: https://www.techrepublic.com/article/open-source-developers-stop-blocking-organizations-you-dont-like/
 
@@ -22,36 +22,44 @@ What we now call open source _began_ with licenses that blocked objectionable us
 
 > I make my code available for use in free software, and not for use in proprietary software, in order to encourage other people who write software to make it free as well.  I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 
+Morality-based licensing isn't the proprietary licensing tradition, as Matt claims.  It was the original inspiration for _the_ seminal free and open license, the GNU General Public License.  The only discernible dominant theme in proprietary licensing is business advantage.
+
 When Matt writes:
 
 > Open use is the price we pay for open source
 
 He is wrong.  Again: unless you happen to share his absolute-libertarian view of "open source" _meaning_ totally unrestricted use.
 
-Nothing about a license expressing your ethics stops you from sharing code online, accepting contributions, distributing with very low friction to end users, leveraging the work of others, or having your work leveraged by them in turn.  The gatekeepers who insist on one kind of absolutism or another, from the Free Software Foundation to the Open Source Initiative to Debian, matter less every day.  They don't keep gates we really want to walk through anymore.
+Nothing about choosing a license that expresses your ethics stops you from sharing code online, accepting contributions, distributing with very low friction to end users, leveraging the work of others, or having your work leveraged by them in turn.  The GPL proved that decades ago.  These days, the gatekeepers who insist on one kind of absolutism or another, from the Free Software Foundation to the Open Source Initiative to the Linux distributions, matter less and less.
 
-It was never true that good, collaborative software had to come from a place of shared software freedom activism, as the FSF faithful once preached.  It isn't any more true that good, collaborative software has to come from a place of techno-libertarian absolutism, as techno-libertarian absolutists now claim.  As each new stripe of free-open activists has learned, there is _no_ obligation to accept the practical benefits of their techniques in a package with their ethics, their philosophy, or their politics.
+It was never true that good, collaborative software had to come from a place of shared software-freedom activism, as the FSF faithful once preached.  It isn't any more true that good, collaborative software has to come from a place of shared techno-libertarian absolutism, as techno-libertarian absolutists sometimes claim.  As each new stripe of free-open activists has learned, there is _no_ obligation to accept the practical benefits of tools or techniques only in a package with their ethics, their philosophy, or their politics.
 
-To give Matt credit, he's utterly transparent about the tautology underlying his criticisms.  _Why_ does openness require an utter lack of ethical restrictions?
+To give Matt due credit, he's utterly transparent about the tautology under his criticisms.  _Why_ does openness require an utter lack of ethical restrictions?
 
 > Why?  Because...open source.
 
-When Matt writes:
+So when Matt writes:
 
 > Now imagine if every developer channeled their inner Vargo and started pulling their code because they don't like this or that organization---it would completely dismantle the open source world that so many of us depend upon.
 
 Or:
 
-> We can't control outcomes and keep our code open source.  We can only contribute the best code we can and hope that, on balance, much more good comes of it than bad. It's the price of openness, and it's worth paying. 
+> We can't control outcomes and keep our code open source.  We can only contribute the best code we can and hope that, on balance, much more good comes of it than bad. It's the price of openness, and it's worth paying.
 
-He is partly right, in his own terms.  If "open source" _means_ the strict equality of "open" and "free of ethical restriction", then more and more developers choosing licenses and taking actions that don't align threatens the ability of no-restriction absolutists to claim that most folks hacking code online agree with them, that the "community" isn't just a community of common practice, but a community of common belief.  The very same kind of shift forced humility on those for whom "free software" _meant_ the strict equality of "free" and "protects software freedom for users".  As it turned out, a lot of free software hackers _were_ in it for free-of-charge, and for developer rather than user freedom.
+He is partly right, in his own tautological terms.
 
-In the past, stoking fear of law, then monopolizing access to legal talent, allowed specific camps---RMS-style counterculture creatures and ESR-style techno-libertarians---to limit developer choice to licenses they could take credit for and count toward their camp in the ensuing popularity contest.  That manipulation was expedient, intentional or not, but also wrong.  As an attorney in private practice, it disgusts me.  Denying others the benefit of counsel, or beating on those who don't have it, is wrong.
+If "open source" _means_ the strict equality of "open" and "free of ethical restriction", then more and more developers choosing licenses and taking actions that don't align threatens the image and self-image of "open source" as a uniform ethical blank zone.  Absolutists could no longer credibly claim that most folks hacking code online agree with them, explicitly or implicitly, or that the "community" is more than a community of common practice, but also a community of common belief---their belief.
 
-Mantras like "Don't write your own license!", extending "license proliferation" to prohibit _any_ new licenses, even new licenses saying new things, and the "crayon license" mark of shame all kept hackers from taking legal power into their own hands.  This is what I mean when I say [the hood of the license machine is welded shut](https://writing.kemitchell.com/2017/08/31/Null-Value.html).  It's what I work to cure by popularizing the [Flipped Form](https://flippedform.com) concept, by encouraging hackers to write and propose license patches, and by [publishing step-by-step guides to writing new licenses for communities of ethical concern](https://writing.kemitchell.com/2019/03/15/Ethical-Subcommons.html).  I support legal autonomy when I personally subsidize the drafting of licenses for new needs and schools of thought, like [Parity](https://paritylicense.com) and [Prosperity](https://prosperitylicense.com).
+This has happened before.  The same kind of shift imposed humility on those for whom "free software" _meant_ the strict equality of "free" and "protects software freedom for users".  As it turned out, a lot of free software hackers _were_ in it for free-of-charge more than "freedom", and for developer rather than user freedom at that.
 
-If you lack a project that enables you to contribute online without moral crisis, you should be able to make your own.  Incumbent political ideologies shouldn't be able to pressure you into subjugating your moral conscience to theirs, through "license compatibility", permissive-only policies, or lack of license availability, just because they got a lawyer first.
+I'm constantly reminded of [institutional maneuvers to prevent former Catholics removing themselves from church rolls](https://en.wikipedia.org/wiki/Formal_act_of_defection_from_the_Catholic_Church#Abrogation) in the wake of mounting scandals.  Defaults matter.  When a default favors an incumbent, practically or rhetorically, that default will be defended.
 
-If you lack a good option to express your ethics through the one channel users are actually likely to read---license terms---you should be able to write a license, or have one written for you.  Incumbent institutions shouldn't be able to pressure you into letting them speak for you in license terms, instead of helping you to speak for yourself.
+In the past, stoking fear of law, then monopolizing access to scarce legal talent, allowed specific camps---RMS-style counterculture creatures, then ESR-style techno-libertarians---to limit developer choice to licenses they could take credit for and count toward their camps in the great free-open popularity contest.  That manipulation was expedient, intentional or not, but also simply wrong, as practiced.  As an attorney, it disgusts me.  Talking others out of the benefit of counsel, then beating on or claiming those who don't have it, stoops low.  Very low.
 
-All of that goes for party-line software-freedom and techno-libertarian true believers, as well.  Each view should have its tools, and argue their virtues on their merits.
+The "don't write your own license" mantra, extending "license proliferation" to prohibit _any_ new license, even a new license saying something decidedly new, and the "crayon license" pejorative all talked hackers down from taking legal power into their own hands.  This is what I mean when I say [the hood of the license machine is welded shut](https://writing.kemitchell.com/2017/08/31/Null-Value.html).  It's what I work to cure by popularizing the [Flipped Form](https://flippedform.com) concept, by encouraging hackers to put their hands on license language, and by [publishing step-by-step guides to bootstrapping new software communities of shared concern](https://writing.kemitchell.com/2019/03/15/Ethical-Subcommons.html).  I support legal autonomy when I personally subsidize the drafting of licenses for new needs and schools of thought, like [Parity](https://paritylicense.com) and [Prosperity](https://prosperitylicense.com).
+
+If you lack a project that enables you to contribute online without suppressing your conscience, you should be able to make your own.  Incumbent political ideologies shouldn't pressure you into subjugating your moral view to theirs, through "license compatibility", permissive-only policies, or lack of license availability, just because they got a lawyer first.
+
+If you lack a good option to express your ethics through the one channel users are actually likely to read---license terms---you should be able to write a license, or to have one written for you.  Incumbent institutions shouldn't pressure you into letting them speak for you in license terms, instead of helping you to speak for yourself.
+
+Of course, all of that goes for party-line software-freedom and techno-libertarian true believers, too.  Each view should have its tools, and argue their virtues on their merits.  If you want to monopolize "free" or "open" or whatever comes next, be prepared to make forward looking arguments.  There's no ideological birthright to lean back on.
