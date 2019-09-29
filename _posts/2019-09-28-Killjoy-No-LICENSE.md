@@ -6,7 +6,7 @@ tags:
 - Killjoy
 - Open Source
 - Licensing
-brief: If users rarely look past your permissive license to your plea for funding, yank the license out of your project, make users go looking for it, and make sure they see your plea where they find it.
+brief: If users rarely look past your permissive license to your plea for funding, yank the license out of your project, make users go looking to find it, and show them your plea where they do.
 ---
 
 This is one of a series, [_Killjoy_](/series/Killjoy.html), in which I sketch unorthodox and unwelcome solutions to nagging open source problems.
