@@ -9,7 +9,7 @@ tags:
 ---
 
 <aside class="brief" markdown="1">
-The Open Source Initiative's Open Source Definition isn't a rigorous, technical definition of open source.  In reality, the Definition, clothed in the technical language of standards, mislead others about how OSI approves licenses, and what approval means.
+The Open Source Initiative's Open Source Definition isn't a rigorous, technical definition of open source.  In reality, the Definition, clothed in the technical language of standards, misleads others about how OSI approves licenses, and what approval means.
 </aside>
 
 The trouble with [affirming](https://opensource.org/OSD_Affirmation) the Open Source Initiative's [Open Source Definition](https://opensource.org/osd) is that it is not a good definition.  Open source has done well despite it, not because of it.
