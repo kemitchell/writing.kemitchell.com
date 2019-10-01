@@ -9,3 +9,8 @@ tags:
 brief:
 ---
 
+<!-- confusing pro-growth for libertarian principle -->
+
+<!-- once growth is achieved, pare back to reintroduce other interests -->
+
+<!-- MIT, BSD, 203 -->
