@@ -5,6 +5,7 @@ layout: post
 tags:
 - Open Source
 - Mergers and Acquisitions
+date: 2019-10-03 14:00
 ---
 
 [Blue Oak Council](https://blueoakcouncil.org), of which I was a founding member, just published a [new guide to open software representations and warranties in mergers and acquisitions](http://localhost:4000/mergers-and-acquisitions), the kinds of deals where one company combines with or buys another.
