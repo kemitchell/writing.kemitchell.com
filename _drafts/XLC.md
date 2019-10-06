@@ -4,5 +4,91 @@ description: decentralizing contributor license agreements
 tags:
 - Open Source
 - Licensing
-brief:  Maintain your projects' licenses, and create share moneymaking opportunity, without the overhead of a company.
+layout: post
+brief:  Maintain your projects' licenses and create shared moneymaking opportunity without any company, foundation, or dictator.
 ---
+
+Legal tools used against collaboration, sharing, and fairness can be turned around to defend them instead.  Just as developers hacked license restrictions to resist industry abuses, through [copyleft](https://en.wikipedia.org/wiki/Copyleft), developers can hack cross-licenses and contributor license agreements to manage and monetize their work cooperatively, through cross-license collaboratives.
+
+I'm pleased to announce [the first preview release of the Cross-License Collaborative Agreement](https://xlcollaborative.com/agreement/1.0.0-pre.1), a decentralized, literally peer-to-peer contributor license agreement that all kinds of online projects can use to form lightweight, cooperative-like structures to manage and monetize licensing of their work.
+
+Using the XLCA, contributors can:
+
+- relicense their project under new terms
+
+- grant exceptions to the rules of their public license, like copyleft or noncommercial rules
+
+- sell commercial licenses for the project
+
+- welcome new contributors from different countries
+
+All of this _without_:
+
+- securing permission from every contributor for every change
+
+- duplicating the efforts of contributors who can't be found
+
+- filling out paperwork
+
+- forming or finding a company, foundation, or "benevolent dictator"
+
+- paying lawyers or the state expensive fees
+
+- waiting on lawyers or the state to get back to them
+
+## Architecture
+
+How is this possible?  By combining two well understood legal building blocks long used by industry to create and preserve exclusive competitive advantages:
+
+<dl>
+  <dt>Contributor License Agreements</dt>
+  <dd>licenses that project stewards require from contributors in order to accept their contributions</dd>
+  <dt>Cross-Licenses</dt>
+  <dd>licenses that multiple parties give to each other, so each side both gives and receives the license</dd>
+</dl>
+
+Open software developers don't like contributor license agreements. Open policy advocates don't like cross-licenses.  For good reason.
+
+Contributor license agreements give their recipients---companies, foundations, project creators---special powers to change license terms and commercialize the project that others don't have.  Cross-licenses give companies, especially companies with big patent arsenals, cartel-like safety from each other's lawyers, while everyone else has to keep their head down.
+
+Cross-license collaboratives start with a kind of contributor license agreement, but instead of giving special license powers to a single company or developer, contributors give special license powers _to each other_.  Those special powers come with a catch: they can only be used on behalf of the project as a whole, supported by a vote of fellow contributors.
+
+Collaboratives aren't legal entities like corporations, LLCs, or foundations.  They aren't "legal persons", they don't have managers, they aren't "owned" or controlled by those who own stock, and they don't provide special protection from liability for company business.  Rather, legally speaking, collaboratives are made of licenses.  Contributors share their rights in their contributions to the project, and those rights come with rules about how they'll be used collectively.
+
+The rules of a collaborative take direct inspiration from [cooperative principles](https://www.ica.coop/en/cooperatives/cooperative-identity).  All decisions are subject to [majority](https://xlcollaborative.com/agreement/1.0.0-pre.1#majority) or [supermajority](https://xlcollaborative.com/agreement/1.0.0-pre.1#supermajority) vote.  Each contributor is entitled to equal [information](https://xlcollaborative.com/agreement/1.0.0-pre.1#equal-information), an equal [vote](https://xlcollaborative.com/agreement/1.0.0-pre.1#equal-vote), and an [equal share](https://xlcollaborative.com/agreement/1.0.0-pre.1#equal-pay) of fees for any exceptions or licenses sold.
+
+Practically, collaboratives function by ensuring that contributors to a project form fully connected communications and payment networks.  In order to join a collaborative, a new would-be contributor must [provide an address for communication and instructions for payment](https://xlcollaborative.com/agreement/1.0.0-pre.1#application).  As a result, each contributor can send messages to every other contributor, and each contributor can send payments to every other contributor.  Once contributors can [communicate](https://xlcollaborative.com/agreement/1.0.0-pre.1#communications), they can [vote](https://xlcollaborative.com/agreement/1.0.0-pre.1#voting).  Once they can vote, they can license.  Once they can license, they can get paid.
+
+All of this is possible on a nearly worldwide basis.  Wherever a contributor happens to be, so long as their work is subject to copyright, and perhaps patent, there are rights to license and an ability to license them.  The [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention), an international agreement about copyright law signed by more than 170 countries, creates a kind of universal license operating system.  Collaboratives build on that operating system for all kinds of copyrighted work, from software to music to artwork to prose.
+
+## Solved
+
+Collaboratives represent a novel solution to two long-running problems in open licensing: relicensing and commercialization.
+
+### Relicensing
+
+Collaboratives make it possible to _maintain_ the public license terms for projects over time, without the overhead of companies or foundations.  Just as software and other shared, creative work needs to change and adapt over time, legal terms can be improved, revised, or simply invalidated by practical or legal developments.  Collaboratives make that possible without getting specific permission from every contributor for every change.
+
+Due to background legal rules, the most popular and important projects are often the hardest to relicense.  They get "stuck" on old licenses, even as the flaws in their terms become more and more broadly known.  Software people see this often through the GPLs, now in two major versions, GPLv2 and GPLv3, plus a significant variant, AGPLv3.  Many older programs are "stuck" on GPLv2, which isn't compatible with Apache 2.0.
+
+For just this reason, the Free Software Foundation has long encouraged developers to choose "GPLv2 _or later_" as their license of choice.  This essentially puts the Free Software Foundation in charge of their licensing.  That means trusting the FSF.  When projects don't agree with the FSF's changes, like the addition of "anti-Tivoization" and patent terms in GPLv3, they're glad they left out the "or later".  But as a practical matter, those projects are often simply stuck with the terms the original developer chose so many years ago.  Linus likes GPLv2 and doesn't like GPLv3, but he probably couldn't relicense the kernel, even if he wanted to.
+
+A new software project choosing GPLv3 today could set up a collaborative, rather than assigning copyright to the FSF or choosing "GPLv3 or later".  If the FSF comes out with a new GPLv4, it would remain up to voting contributors, not the FSF, whether or not to switch.  If contributors wanted, they could also choose an entirely different public license.  They don't need to worry about what happens if a single organization, like the FSF or a company, shuts down or goes crazy.
+
+When developers can't adapt, improve, and reorganize code, that code ends up much worse than it could be.  When legal experts can't adapt, improve, and reorganize licenses, those licenses end up much worse than they could be.  Collaboratives help to bring the same field-upgradeability developers expect for software to the legal tools they rely on.  Collaboratives give developers _choice_ and the ability to _evolve_ and _experiment_ where they've long been forced to make one big, scary legal decision early on, and live with it forever.
+
+### Commercialization
+
+Collaboratives enable project contributors who don't work for the same firm to sell exceptions and commercial licensees together.  If the project uses a copyleft license, the collaborative can vote to sell an exception for use in closed code.  If the project uses a noncommercial license, the collaborative can vote to sell a license for commercial use.  In either case, contributors [split the proceeds equally](https://xlcollaborative.com/agreement/1.0.0-pre.1#equal-pay).
+
+This is dual licensing, better called [public-private licensing](https://indieopensource.com/public-private/indies), a well known open business model.
+
+In some cases, collaboratives may choose not to apply any public license to their work at all.  They may offer licenses only for sale, or give a license that only applies to contributors.  The project then becomes a kind of [club good](https://en.wikipedia.org/wiki/Club_good), free for contributors but paid for anyone else.
+
+Collaboratives may also choose to delegate the process of finding and closing license deals.  Rather than relying on individual contributors to propose and finalize paid licenses, they can give a paid license to an agent or reseller, with permission to sell licenses to customers.  As funds from those sales come back to contributors, they're divided equally, through the collaborative's payment network.
+
+## Next Steps
+
+I've had the great, insightful input of many friends and colleagues on this project.  Now it's time to make it work.
+
+I have [published a legal implementation](https://xlcollaborative.com/agreement/1.0.0-pre.1) to help make conversations concrete.  But that implementation can and must benefit from other eyes and other minds.  If you're interested in collaboratives, have a look at the terms and [get in touch](mailto:kyle@kemitchell.com).  If you have access to good legal, payments, or governance talent, ask them to have a look and do the same.
