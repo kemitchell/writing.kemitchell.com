@@ -34,7 +34,7 @@ We can argue whether background law, like [exhaustion](https://lwn.net/Articles/
 
 The [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines), the [Open Source Definition](https://opensource.org/osd), and [_What is free software?_](https://www.gnu.org/philosophy/free-sw.en.html) don't say "patent", either.  They don't address patent licensing explicitly.
 
-All of those documents predate broad consciousness of patent issues in the open licensing community.  They predate widespread legal involvement whatsoever, beyond one-and-done drafting, and were written by coders, not counsel.  Not until the [first Mozilla Public License](https://spdx.org/licenses/MPL-1.0.html), in 1998, did standardized open software licenses begin to address patents properly, and raise awareness of the issue.
+All of those documents predate broad consciousness of patent issues in the open licensing community.  They predate widespread legal involvement whatsoever, beyond one-and-done drafting, and were written by coders, not counsel.  Not until the [first Mozilla Public License](https://spdx.org/licenses/MPL-1.0.html), in 1998, did popular, general-purpose open software licenses begin to address patents properly, and raise awareness of the issue.
 
 ## State-of-the-art open licenses give clear patent permission.
 
