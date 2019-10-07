@@ -6,7 +6,7 @@ tags:
 - Business
 - Licensing
 - Open Source
-brief: Treating licensing as taboo holds developers back.  We should focus on what developers and their users need to achieve, not obsess over business implementation details.
+brief: Treating licensing as taboo holds developers back.  We should focus on what developers and their users need to achieve, not obsess over implementation details.
 ---
 
 If you polled open software pundits, I think prevailing sentiment would say:  Hiring good.  Licensing bad.
