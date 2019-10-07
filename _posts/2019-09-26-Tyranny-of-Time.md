@@ -47,7 +47,7 @@ Bob writes the software.  We meet at the conference.  Bob links me to the repo.
 
 It's all there, with MIT pasted into `LICENSE`, because GitHub told Bob to choose a license.
 
-Bob's code works great.  I reach out to Bob two weeks later, about new features, support, and training.  But I can't hire Bob.  Bob's partner's cancer came back, and Bob's a full-time caregiver now.  No money for Bob.  No features, support, or training for me.
+Bob's code works great.  I reach out to Bob two weeks later about new features, support, and training.  But I can't hire Bob.  Bob's partner's cancer came back, and Bob's a full-time caregiver now.  No money for Bob.  No features, support, or training for me.
 
 ## Time
 
