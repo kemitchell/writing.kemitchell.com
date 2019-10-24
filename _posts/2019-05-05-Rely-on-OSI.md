@@ -188,7 +188,7 @@ In my experience, most folks who don’t already know about aberrations among OS
 
 A published, updated license list was the missing piece.  We each had our own incomplete version of it.  Those turned out to be almost entirely consistent, lawyer to lawyer, and therefore easy to combine and refine.  Also to show in action, in [example language for various kinds of terms](https://blueoakcouncil.org/#solutions), from sample company policies to contract snippets.  If you'd like a sense of how to spec open source licenses more specifically than via OSI approval, with practicality first in mind, have a look.
 
-Encouraged by success there, Blue Oak is exploring similar materials on the copyleft side of open source.  That's a bit more complex.  But I hope we will have a similar list and examples to share for those interested, and soon.  Smarter pieces for smarter terms and policies.
+Encouraged by success there, Blue Oak is exploring similar materials on the copyleft side of open source.  That's a bit more complex.  But I hope we will have a similar list and examples to share for those interested, and soon.  Smarter building blocks for smarter terms and policies.
 
 ## Avoidance
 
