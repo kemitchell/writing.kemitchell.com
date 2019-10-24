@@ -182,7 +182,7 @@ But I've never seen that in the wild.  In any event, it would still prove over- 
 
 ## Alternatives
 
-In my experience, most folks who don’t already know about aberrations among OSI-approved licenses say “open source” and mean something far more specific: as many permissive public software licenses as they can can handled likewise as possible.
+In my experience, most folks who don’t already know about aberrations among OSI-approved licenses say “open source” and mean something far more specific: as many permissive public software licenses as they can handle in more or less the same way as possible.
 
 [Blue Oak Council](https://blueoakcouncil.org), a nonprofit collaboration of open licensing lawyers I recently helped to kickstart, came together around shared need for [a list of just such licenses](https://blueoakcouncil.org/list) to use in building policies and terms.  When advising small and nonprofit companies, whether on compliance, grants, or contracts, my colleagues and I routinely sought approaches to open source licensing that unlock as much open source as possible, without stepping into the relatively small number of complex licenses outliers.
 
