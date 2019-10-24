@@ -162,7 +162,7 @@ With sincerest respect to its lay author, whose heart was in the right place, pr
 
 This is what some OSI participants pejoratively term a "crayon license".  I have no doubt that the license author will not be suing or threatening anyone for their work under these terms.  But the appearance of Fair in the wild gives no guarantee of similar intentions from others who choose it.  If anything on the OSI approved license list is fair play, Fair is, too, and that's probably not so fair to your reasonable open source expectations.
 
-Like other outliers among the OSI-approved, Fair's weakness is both an excusable and an exploitable flaw.  I could make an argument that Fair does not allow making changes to software licensed, for example.  No one expecting “open source” should have to hear that argument.
+Like other outliers among the OSI-approved, Fair's weakness is both an excusable and an exploitable flaw.  I could make an argument that Fair does not allow making changes to the software licensed, for example.  No one expecting “open source” should have to hear that argument.
 
 ## English
 
