@@ -7,8 +7,7 @@
     <span class=year>{{ page.date | date: "%Y" }}</span>
   </p>
   {% endif %}
-  <h1 id=title>{{ page.title }}<small>{{ page.description
-      }}</small></h1>
+  <h1 id=title>{{ page.title | smartify}}<small>{{ page.description | smartify }}</small></h1>
   {% if page.brief %}
   <aside class="brief" markdown="1">
     {{ page.brief | markdownify }}
