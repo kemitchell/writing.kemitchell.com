@@ -1,3 +1,3 @@
 ---
-title: !!Open Source
+title: Not Not Open Source
 ---
