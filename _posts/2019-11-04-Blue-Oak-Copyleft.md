@@ -2,6 +2,7 @@
 title: Blue Oak Guide to Copyleft
 description: short introduction and license families
 layout: post
+date: 2019-11-04T09:02:24-08:00
 tags:
 - Blue Oak Council
 - Copyleft

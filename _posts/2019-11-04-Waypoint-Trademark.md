@@ -1,7 +1,7 @@
 ---
 title: Waypoint Trademark
 description: protecting the integrity of a standard form
-date: 2019-11-04T08:47+07:00
+date: 2019-11-04T08:47-08:00
 tags:
 - Waypoint
 - Contracts
