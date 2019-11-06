@@ -1,6 +1,9 @@
 ---
 title: Love this License
 description: law brut with ASCII art
+tags:
+  - Open Source
+  - Licenses
 ---
 
 From <https://github.com/pygy/gosub/blob/master/LICENSE>:
