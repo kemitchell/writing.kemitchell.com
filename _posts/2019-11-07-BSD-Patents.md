@@ -11,7 +11,7 @@ Open software people say "BSD plus patents" to mean either of two different sets
 
 1.  the [standard three-clause BSD license](https://github.com/facebook/react/blob/b8ba8c83f318b84e42933f6928f231dc0918f864/LICENSE) that Facebook used in combination with a [separate `PATENTS` file patent license](https://github.com/facebook/react/blob/b8ba8c83f318b84e42933f6928f231dc0918f864/PATENTS) until [relicensing onto MIT terms in September of 2017](https://github.com/facebook/react/commit/b765fb25ebc6e53bb8de2496d2828d9d01c2774b)
 
-2.  [a variant of the two-clause BSD license with additional, explicit patent language](https://spdx.org/licenses/BSD-2-Clause-Patent.html) that McCoy Smith of Intel wrote to create a GPLv2-compatible permissive license that clearly covers patents
+2.  [a variant of the two-clause BSD license with additional, explicit patent language](https://spdx.org/licenses/BSD-2-Clause-Patent.html) that McCoy Smith wrote to create a GPLv2-compatible permissive license that clearly covers patents
 
 Some considered the former problematic.  Nearly any software user should welcome the latter.
 
