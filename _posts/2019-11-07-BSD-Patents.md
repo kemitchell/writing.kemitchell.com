@@ -24,3 +24,9 @@ Both attempts to graft a clear patent license onto BSD terms responded to the [l
 Alas, these different sets of terms enjoyed flashes of limelight very near in time, and ended up going by confusingly similar names in day-to-day conversation.  So at least for now, when you hear "BSD plus patents", you need to ask for clarification or dig deeper.
 
 More generally, we license people really need to stop "patching" the poor old BSD license.  It's a thirty-plus-year-old form, and we ought to put it out to pasture in peace, not keep digging it up and installing new wetware, Frankenstein's monster-style.  I am also guilty here: patching BSD is exactly how I started drafting the first versions of the license for License Zero, which later became [Parity](https://paritylicense.com) and [Prosperity](https://prosperitylicense.com).  BSD retains good street cred, and is built around a list of numbered conditions that seem easy enough to tack onto or pare down.  It's mighty tempting.  But the best possible result is a dated license, likely with a confusing name.
+
+---
+
+Added November 8, 2019:
+
+I recalled after publishing this post that another well known project, the Go programming language, also uses a [BSD-style license](https://golang.org/LICENSE) plus [a separate `PATENTS` grant](https://golang.org/PATENTS).  The defensive-termination rule of Google's `PATENTS` grant for Golang hews close to Apache 2.0's approach, terminating rights only for patent claims against Google's official implementation of Go.  `BSD-2-Clause-Patent` eschews any defensive termination provision at all.
