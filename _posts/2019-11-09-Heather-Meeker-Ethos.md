@@ -6,6 +6,7 @@ tags:
 - Licensing
 - Ethics
 - Politics
+date: 2019-11-09T22:43:08-08:00
 ---
 
 Heather Meeker, whose [blog I've long featured on my blogroll](https://writing.kemitchell.com/blogroll), just posted [_Good and not Evil: the Advent of Ethos Licensing_](https://heathermeeker.com/2019/11/09/good-and-not-evil-the-advent-of-ethos-licensing/).  Everyone interested in open licensing, and ethical licensing in particular, should read it.  Then perhaps my thoughts here.
