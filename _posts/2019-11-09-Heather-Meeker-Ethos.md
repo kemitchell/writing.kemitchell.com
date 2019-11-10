@@ -4,6 +4,7 @@ description: free and open is ethos licensing, too
 tags:
 - Open Source
 - Licensing
+- Ethics
 - Politics
 ---
 
@@ -81,7 +82,7 @@ Immutable license terms aren't the only vestiges of free-open insularity holding
 
 All the while, "condition", "restriction", "covenant", and "remedies" sail right past the folks we actually mean to serve: developers.  Which is why the newer licenses---Blue Oak, API Copyleft, Polyform, Parity---say "rules".  Developers know how rules work, and developers know that they know how rules work.
 
-The function of "that's a condition, not a restriction" isn't to make sense in any legal or analytical way, but to gloss over the fact that some of us who despise the idea of rules in software licenses make exception for _particular_ rules by discretion.  I can rephrase any "if you do this, then you must do that" condition as a "don't do this _and_ that" restriction, or vice-versa, by [simple contraposition](https://en.wikipedia.org/wiki/Contraposition).  "You may not distribute modified copies of GPLv2 code without source code and a GPL license"---sounds like a restriction to me, and to the BSD school of licensing, for that matter.  But that's clearly not the point of having two terms.  "Restrictions" are the rules we abhor.  "Conditions" are the rules we abide.  Often, conditions are restrictions from allies we want to be seen to place nice with or inherit from, and restrictions conditions from those we mistrust or disapprove.  Legal-sounding terms make political expedience sound technocratic. 
+The function of "that's a condition, not a restriction" isn't to make sense in any legal or analytical way, but to gloss over the fact that some of us who despise the idea of rules in software licenses make exception for _particular_ rules by discretion.  I can rephrase any "if you do this, then you must do that" condition as a "don't do this _and_ that" restriction, or vice-versa, by [simple contraposition](https://en.wikipedia.org/wiki/Contraposition).  "You may not distribute modified copies of GPLv2 code without source code and a GPL license"---sounds like a restriction to me, and to the BSD school of licensing, for that matter.  But that's clearly not the point of having two terms.  "Restrictions" are the rules we abhor.  "Conditions" are the rules we abide.  Often, conditions are restrictions from allies we want to be seen to place nice with or inherit from, and restrictions conditions from those we mistrust or disapprove.  Legal-sounding terms make political expedience sound technocratic.
 
 The "use versus modify" distinction did similar work.  Functionally, Freedom 0---"run" as [FSF puts it](https://www.gnu.org/philosophy/free-sw.html.en), "use" as Heather puts it---standing separate from Freedom 1---study, change---and Freedoms 2 and 3---distribution, original and modified---allows theorists to hang GPLv2-style copyleft on just some, not all, kinds of freedom.  Doctrinally, GPL hooks only the modified distribution freedom, and only to keep software free, though distributing modified versions _presumes_ modification, and often use, as well.
 
@@ -93,7 +94,7 @@ Devs don't distinguish "use", "run", "modify", "build on", and so on like the li
 >
 > --- What are you using?
 >
-> --- React. 
+> --- React.
 
 React is a framework.
 
@@ -111,7 +112,7 @@ PDFBox is a a library.
 >
 > --- How do you deploy all that?
 >
-> --- Shell scripts, originally.  Now we use Ansible. 
+> --- Shell scripts, originally.  Now we use Ansible.
 
 Ansible is an orchestration tool.
 
@@ -121,7 +122,7 @@ In any event, FSF put its own labyrinthine, freedom-dicing out of date.  AGPL dr
 
 Overall, we do need distinctions.  Better ones.  It's no longer enough that a particular e-mail-and-conference circuit feels unanimously good about the old saws.
 
-## Free Stuff Philosophy 
+## Free Stuff Philosophy
 
 Heather writes:
 
