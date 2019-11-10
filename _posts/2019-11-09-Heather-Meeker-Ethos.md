@@ -31,7 +31,7 @@ Open licensing was ethos licensing, and I'm not just talking copyleft.  The egos
 
 Many of those criticizing "ethical licenses" today heard the same criticisms of their  own free and open licenses twenty years ago.  The success of free and open licenses charts many limitations of those criticisms.
 
-Efforts to curtail "ethical licenses" now aren't specially principled.  They're attempts to impose an ideology that rode high in 1999 on 2019.
+Efforts to curtail "ethical licenses" now aren't specially principled.  They're attempts to impose an ideology that rode high in 1999 at the expense of those riding high in 2019.
 
 ## Broken
 
