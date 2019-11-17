@@ -42,37 +42,35 @@ There's no slicing software off from the rest of life and solving it as a disjoi
 
 The path to this realization is well trodden, and increasingly well observed.
 
-I've seen black-and-white software freedom encourage disregard, devaluation, and abuse of the people who make software.  I've seen developers browbeaten into slapping MIT licenses on their work not for their benefit, but for the benefit of those beating brow.  I've seen bug reports demanding features and fixes gush entitlement … and nary a drop of gratitude.
+I've seen black-and-white software freedom encourage disregard, devaluation, and abuse of the people who make software.  I've seen developers browbeaten into slapping permissive licenses on their work not for their benefit, but for the benefit of those beating brow.  I've seen bug reports demanding features and fixes gush entitlement … and nary a drop of gratitude.
 
-All of that is profoundly mean.  Maximizing freedom compromises care.
+All of that is profoundly mean.  Maximizing freedom compromises kindness.
 
-I've seen black-and-white software freedom birth successive generations of firms competing to best systematize the reaping projects they did not sow, at the expense of their creators.  I've seen developers sacrifice to keep pace with growing projects, only to be outdone by runaway incumbents wherever they turned for a buck: documentation, support, training, consulting, hosting, even swag.  I've seen those incumbents work, consciously and by natural selection, to trumpet the freedoms that play to their advantages, elide the freedoms that level them, and expand the meaning of "open" to the same effect.
+I've seen black-and-white software freedom birth successive generations of firms competing to reap projects they did not sow, at the expense of their creators.  I've seen developers sacrifice to keep pace with growing projects, only to be outdone by runaway incumbents wherever they turned for a buck: documentation, support, training, consulting, hosting, even swag.  I've seen those incumbents work, consciously and by Darwinian selection, to trumpet the freedoms that play to their advantages, elide the freedoms that level them, and expand the meaning of "open" to the same effect.
 
 All of that is profoundly unfair.  Maximizing freedom compromises fairness.
 
-I've seen black-and-white software freedom enable powerful newcomers to undermine the leadership of long-serving creators and maintainers. I've seen developers booted from leadership positions by latecomers, marginalized and threatened by hostile forks from consortia of household names, and cloned into obscurity by hirelings making bank while the original developer flailed.  I've seen the norm of credit for good work fall from respected license condition to broadly ignored chore to ["proprietary" mortal sin](https://www.theregister.co.uk/2007/07/27/osi_fury_badgerware/).
+I've seen black-and-white software freedom enable powerful newcomers to undermine the leadership of long-serving creators and maintainers. I've seen developers booted from leadership positions by latecomers, marginalized and threatened by hostile forks from consortia of household names, and cloned into obscurity by hirelings making bank while the original developers flail.  I've seen the norm of credit for good work fall from respected license condition to broadly ignored chore to ["proprietary" mortal sin](https://www.theregister.co.uk/2007/07/27/osi_fury_badgerware/).
 
-All of this is profoundly disrespectful and disloyal.  Maximizing freedom compromises relationships and authority.
+All of this is profoundly disrespectful, and often disloyal.  Maximizing freedom compromises relationships and authority.
 
 I've seen black-and-white software freedom enable takers to turn makers' work against the very things that inspired them in the first place.  I've seen web tech turned into ad tech, computer vision into [surveillance](https://techcrunch.com/2016/10/24/movidius-brings-its-computer-vision-tech-to-the-worlds-largest-security-camera-maker/), and cryptographic systems into [boiler-room](https://en.wikipedia.org/wiki/Boiler_room_(business)) [scams](https://www.sec.gov/news/press-release/2017-219).  I've seen it all compiled, debugged, and deployed using copyleft tools without a single new line of free source code to show for it.
 
-All of this profoundly saps developers' sense of purpose.  Maximizing freedoms drains purpose.
+All of this saps developers' sense of purpose.  Maximizing freedoms compromises purpose.
 
-This is the interdependence of shared values in action.  When the only value we measure is freedom, freedom expands to fill all available space, choking out loyalty, respect, fairness, purpose, and basic human care.  Extremism is ugly in all its forms.  Elevating any single value above all else creates victims.  We are approaching a local maximum in freedom, and sinking low everywhere else.
+This is the interdependence of shared values in action.  When the only value we measure is freedom, freedom expands to fill all available space, choking out loyalty, respect, fairness, purpose, and basic human care.  Elevating any single value above all others brings consequences.  We are approaching a local maximum in freedom, and sinking everywhere else.
 
 ## Selectiveness
 
-I parade the horribles not to paint a complete picture of free or open software.  I've described elsewhere the positive effect that "open" writ large has had on my life, and still has.  But the merits are well remarked, the troubles suspiciously less so.  Putting both on the table poses a choice:  Do we write off the troubles for the merits?  Do we ignore the merits in light of the troubles?  Or do we try to weigh and balance?  If we weigh and balance, how?
+I [parade these horribles](https://en.wikipedia.org/wiki/Parade_of_horribles) not to paint a one-sided picture of free or open software.  I've remarked countless times on the positive effect that "open" writ large has had on my life, and still has.  The merits are well remarked, the troubles suspiciously less so.  Putting both on the table forces a choice:  Do we write off the troubles for the merits?  Do we ignore the merits in light of the troubles?  Or do we try to weigh and balance?  If we weigh and balance, how?
 
-When software-freedom absolutism manages to do some good in any other moral dimension, the true believer happily credits the cause.  But when software freedom takes a toll, the faithful blame the victim or simply write off as acceptable collateral damage of freedom.  You shouldn't have done open source ... like we told you to.  You didn't do open the right way ... my way.  I've been guilty both ways.
+When software-freedom absolutism manages to do some good in any other dimension, the true believer happily credits freedom.  For the truest believer, given absolute freedom, all other goods will come naturally, as consequences.  But when software freedom takes a toll, the faithful blame the victim or write them off as acceptable collateral damage.  You shouldn't have done open source ... like we told you to.  You didn't do open the right way ... my way.  I have been guilty of all of this.
 
-Black-and-white software freedom, like any black-and-white ethics, trades completeness and gritty realism for expedience and clean clarity.  As usual, that's a bad deal.
+Just as computer programming often reduces a complex problem down to a computable approximation, for the sake of efficiency, ethical conversations trapped within software, which only step outside it to grab vague generalities like "freedom" and "community", derive a neatly computable ethics for a bad approximation of life.  Just as software reductionism looses well-intentioned, predictably malign systems on the world, moral reductionism makes wanton moral automata of otherwise capable consciences, blinded or indifferent to predictable consequences.  When good theory starts from bad assumptions, applying that theory to the world, or changing the world to fit it, creates causalities.
 
-Just as computer programming often reduces a complex problem down to a computable approximation, inevitable errors be damned, ethical conversations trapped within software, which only step outside it to grab vague generalities like "freedom" and "community", derive a neatly computable ethics for a bad approximation of life.  Applying good theory on bad assumptions to real people creates causalities.
+Trading completeness and gritty realism for expedience and clean clarity often means trading hard decisions and good outcomes for easy decision and predictable mistakes.  The comfort of sound theory, of easy certainty, becomes the surest sign of truth, and therefore virtue.  Morality _must_ be reduced to Turing-esque, deductive boolean reasoning, because acclaim selects for those that please those computing the moral answers, not those subjected to the conclusions.
 
-Just as software reductionism looses well-intentioned, malign systems on the world, moral reductionism makes wanton moral automata of otherwise capable consciences, blinded or indifferent to predictable and even visible consequences.
-
-The comfort of sound theory, of easy certainty, becomes the sign of truest virtue.  Morality _must_ be reduced to Turing-esque, deductive boolean reasoning, because acclaim selects for those that please those computing the moral answers, not those subjected to the conclusions.  Until you realize you'll be subject to the decisions of others more often than they'll be subject to yours.  Until you face your interdependence.
+Until you realize you'll be subject to the decisions of others more often than they'll be subject to yours.  Until you face your interdependence.
 
 ## Reactionary
 
