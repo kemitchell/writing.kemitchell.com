@@ -8,17 +8,17 @@ tags:
 - Politics
 ---
 
-Software companies' restrictive licenses and secret source code threatened early hackers' sense of blossoming freedom and empowerment.  So the truest believers launched a countermovement, best known today as open source.
+<!-- Reaction to proprietary. Reaction to open source. -->
 
-Today, software firms' use of open source licenses, methods, and software threatens hackers' sense of contributing to a better world.  So a new generation of hackers is turning away away from the figureheads, foundations, firms, and faith tenets of open source.
+Software companies' restrictive licenses and secret source code threatened early hackers' sense of blossoming freedom and empowerment.  So the truest believers launched a countermovement, best known today as open source.  Today, software firms' use of open source licenses, methods, and software threatens hackers' sense of contributing to a better world.  So a new generation of hackers is turning away away from the figureheads, foundations, firms, and faith tenets of open source.
 
 Where are they going?
 
-They don't aim to reform of open source idealism out of hope that an even opener open source would solve their problems.  Nor do they seek a revival of free software ethics out of reverence for its purer, pre-commercial form.  Hackers have learned from experience that open-source ideology, free-software morality, and the conflicts between them aren't the answer or the question.  They're category error.
+Some aim to reform of open source idealism out of hope that an even opener open source would solve their problems.  Some seek to revive free software ethics out of reverence for its purer, precommercial form.  But many hackers have learned from experience that open-source ideology, free-software morality, and the conflicts between them aren't the answer or the question.  They're category error.
 
-We want to feel good about software we use, software we make, how we make it, and who we make it with.  We need morality to guide our actions, philosophy to connect them to a greater sense of purpose, and ideology to fill the gaps.  But good morality, philosophy, and ideology don't come from within software.  Good morality, philosophy, and ideology can't be that narrow.
+We want to feel good about software we use, software we make, how we make it, and who we make it with.  We need morality to tell us we're right, philosophy to connect them to a greater sense of purpose, and ideology to fill the gaps.  But good morality, philosophy, and ideology don't come from within software.  Good morality, philosophy, and ideology can't be that narrow.
 
-The tools and techniques of free and open source software are here to stay.  But the next great leaps in production and productivity won't take place within the old free-open framework, but beyond it.  Just releasing free or open software isn't inherently good or bad.  It can be both.  Broader ideas of right and wrong will determine which is which.  Software people will continue to serve those ideas, not as a morally indifferent utility, but as full participants.
+The tools and techniques of free and open source software are here to stay.  But the next great leaps in production and productivity won't take place within the old free-open framework, but beyond it.  Just releasing free or open software isn't inherently good or bad.  It can be both.  Broader ideas of right and wrong will determine which is which.  Software people will continue to serve those ideas, not as loyal agents, but as full participants.
 
 ## Simplicity
 
@@ -27,14 +27,14 @@ The tools and techniques of free and open source software are here to stay.  But
 > --- [_What is Free Software?_](https://www.gnu.org/philosophy/free-sw.en.html) as of [November 21, 2013](https://web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/free-sw.html?revision=1.125&view=markup)
 
 > When asking the question "When is it wrong (or right) to use closed-source software?", we should treat it the same way we treat every other ethical question.  First, by being very clear about what harmful consequences we wish to avoid; second, by reasoning from the avoidance of harm to a rule that is minimal and restricts peoples' choices as little as possible.
+>
+> -- [Evaluating the harm from closed source](http://esr.ibiblio.org/?p=4371)
 
--- [Evaluating the harm from closed source](http://esr.ibiblio.org/?p=4371)
-
-Ordinary life is pretty complex stuff.  When someone promises to make ethics simple, experience should make us all skeptical.  The would-be guru may be gaining more from the title of "moral philosopher" than they contribute to right living or workable justice.
+Ordinary life is pretty complex stuff.  When someone promises to make ethics simple, experience should make us all skeptical.  The would-be guru may be gaining more from the title of moral philosopher than they contribute to right living or good theory.
 
 That, I fear, has been free and open source software ideology in my lifetime.  Its proponents donned ethical, philosophical, even religious vestments from very early on. But both honest analysis and lived experiment lay those pretensions bare.
 
-Free and open source ideology oversimplifies hard ethical problems by reducing them to a single variable, freedom.  We're all born free to compute as we please, and neither computer programmers nor computer companies deserve to impinge.  But almost no one's real-world morality boils down to "Can folks do what they wanna?"  What's right just isn't so black-and-white.  Especially when you step out of your own niche---computing---and consider costs and benefits from a broader point of view.
+Free and open source ideology oversimplifies hard ethical problems by reducing them to a single domain, software, and a single variable, freedom.  We're all born free to compute as we please, and neither computer programmers nor computer companies deserve to impinge.  But almost no one's real-world morality boils down to "Can folks do what they wanna?"  What's right just isn't so black-and-white.  Especially when we step outside the niche of computing and consider costs and benefits from a broader point of view.
 
 ## Appeal
 
