@@ -107,3 +107,5 @@ The system has its acknowledged corporate champions.  O'Reilly.  Red Hat.  Now A
 > Every good work of software starts by scratching a developer's personal itch.
 >
 > --- Eric Raymond, [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html)
+
+In law, there's nothing more dangerous than a lawyer without a client.
