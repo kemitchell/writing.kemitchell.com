@@ -10,7 +10,7 @@ In any number of conversations, I've pointed out that a share-alike or "copyleft
 
 Here's a sketch of actual terms from my [GitHub repository](https://github.com/berneout/universal-copyleft-license):
 
-> # The Universal Share Alike License
+> # The Universal Share-Alike License
 >
 > Development Draft
 >
