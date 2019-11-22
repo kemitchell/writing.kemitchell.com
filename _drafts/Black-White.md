@@ -96,4 +96,14 @@ Software is at best a microcosm.  Early free hackers felt oppressed and abused b
 
 Now a new generation of programmers feels oppressed and abused _by commercial use of open source_, as a practice and a body of software.  Those experiences condition them to a knee-jerk reflex against open source, despite aspects they value very highly, aspects that may have brought them into software in the first place.  When they protest, they learn the blessed path is to join a pillar of the system they're protesting as an employee.  Those who refuse and continue to make noise face bully brigades of condemnation.  If [the Borg](https://en.wikipedia.org/wiki/Borg) had a social media team, it might feel like this.
 
-The system has its acknowledged champions.  O'Reilly.  Red Hat.  Now Amazon.  Tomorrow perhaps a new network-effect lotto winner, but the odds are slim.  Most successful open source ventures will amount also-ran, niche players that the reigning champions of their models will be glad to cite as evidence that they are not, in fact, monopolies.
+The system has its acknowledged corporate champions.  O'Reilly.  Red Hat.  Now Amazon.  Tomorrow perhaps a new network-effect lotto winner, but the odds are slim.  Most successful open source ventures will amount to also-ran, niche players that the reigning champions of their models will be glad to cite as evidence that they are not monopolies.  To a painfully meaningful extent, any successful open source project with broad commercial appeal is just that much more wind in the sails of the dominant players in the business models that apply to it.
+
+## Alternatives
+
+> Freedom means having control over your own life.  If you use a program to carry out activities in your life, your freedom depends on your having control over the program.  You deserve to have control over the programs you use, and all the more so when you use them for something important in your life.
+>
+> --- [Free Software is Even More Important Now](https://www.gnu.org/philosophy/free-software-even-more-important.html)
+
+> Every good work of software starts by scratching a developer's personal itch.
+>
+> --- [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html)
