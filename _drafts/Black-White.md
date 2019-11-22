@@ -58,21 +58,21 @@ The path to this realization is well trodden, and increasingly well observed.
 
 I've seen black-and-white software freedom encourage disregard, devaluation, and abuse of the people who make software.  I've seen developers browbeaten into slapping permissive licenses on their work not for their benefit, but for the benefit of those beating brow.  I've seen bug reports demanding features and fixes gush entitlement … and nary a drop of gratitude.
 
-All of that is profoundly mean.  Maximizing freedom compromises kindness.
+All of that is profoundly mean.  Blindly maximizing software freedom compromises basic human care.  Nobody wants to contribute to a movement that abuses them.
 
 I've seen black-and-white software freedom birth successive generations of firms competing to reap projects they did not sow, at the expense of their creators.  I've seen developers sacrifice to keep pace with growing projects, only to be outdone by runaway incumbents wherever they turned for a buck: documentation, support, training, consulting, hosting, even swag.  I've seen those incumbents work, consciously and by Darwinian selection, to trumpet the freedoms that play to their advantages, elide the freedoms that level them, and expand the meaning of "open" to the same effect.
 
-All of that is profoundly unfair.  Maximizing freedom compromises fairness.
+All of that is profoundly unfair.  Blindly maximizing software freedom compromises essential fairness.  Nobody wants to play a game they always lose.
 
 I've seen black-and-white software freedom enable powerful newcomers to undermine the leadership of long-serving creators and maintainers. I've seen developers booted from leadership positions by latecomers, marginalized and threatened by hostile forks from consortia of household names, and cloned into obscurity by hirelings making bank while the original developers flail.  I've seen the norm of credit for good work fall from respected license condition to broadly ignored chore to ["proprietary" mortal sin](https://www.theregister.co.uk/2007/07/27/osi_fury_badgerware/).
 
-All of this is profoundly disrespectful, and often disloyal.  Maximizing freedom compromises relationships and authority.
+All of this is profoundly disrespectful, and often disloyal.  Blindly maximizing freedom compromises relationships and authority.  Nobody wants to join a community of disposable peers.
 
 I've seen black-and-white software freedom enable takers to turn makers' work against the very things that inspired them in the first place.  I've seen web tech turned into ad tech, computer vision into [surveillance](https://techcrunch.com/2016/10/24/movidius-brings-its-computer-vision-tech-to-the-worlds-largest-security-camera-maker/), and cryptographic systems into [boiler-room](https://en.wikipedia.org/wiki/Boiler_room_(business)) [scams](https://www.sec.gov/news/press-release/2017-219).  I've seen it all compiled, debugged, and deployed using copyleft tools without a single new line of free source code to show for it.
 
-All of this saps developers' sense of purpose.  Maximizing freedoms compromises purpose.
+All of this saps developers' sense of purpose.  Blindly maximizing freedoms compromises purpose.  Nobody wants to do free work for their enemies.
 
-This is the interdependence of shared values in action.  When the only value we measure is freedom, freedom expands to fill all available space, choking out loyalty, respect, fairness, purpose, and basic human care.  Elevating any single value above all others brings consequences.  We are approaching a local maximum in freedom, and sinking everywhere else.
+This is the interdependence of shared values in action.  When the only value we measure is freedom, freedom expands to fill all available space, choking loyalty, respect, fairness, purpose, and basic human care.  Elevating any single value above all others incurs consequences.  We are approaching a local maximum in freedom, and sinking everywhere else.
 
 ## Selectiveness
 
