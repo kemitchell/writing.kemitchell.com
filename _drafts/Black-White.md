@@ -8,8 +8,6 @@ tags:
 - Politics
 ---
 
-<!-- Reaction to proprietary. Reaction to open source. -->
-
 Software companies' restrictive licenses and secret source code threatened early hackers' sense of freedom, empowerment, and the revolutionary promise of computing machines.  So the truest believers launched a countermovement, originally known as free software, now best known as open source.
 
 Today, open source claims widespread victory.  But software firms' use of open source licenses, methods, and software itself now threatens hackers' sense of contributing to a better world.  So a new generation of hackers is turning away away from the figureheads, foundations, firms, and faith tenets of open source.
