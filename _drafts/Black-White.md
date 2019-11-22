@@ -26,11 +26,11 @@ We are learning that good software comes from focus on quality---as judged by it
 
 > While we can distinguish various nonfree distribution schemes in terms of how far they fall short of being free, we consider them all equally unethical.
 >
-> --- [_What is Free Software?_](https://www.gnu.org/philosophy/free-sw.en.html) as of [November 21, 2013](https://web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/free-sw.html?revision=1.125&view=markup)
+> --- Richard Stallman, [_What is Free Software?_](https://www.gnu.org/philosophy/free-sw.en.html) as of [November 21, 2013](https://web.cvs.savannah.gnu.org/viewvc/www/www/philosophy/free-sw.html?revision=1.125&view=markup)
 
 > When asking the question "When is it wrong (or right) to use closed-source software?", we should treat it the same way we treat every other ethical question.  First, by being very clear about what harmful consequences we wish to avoid; second, by reasoning from the avoidance of harm to a rule that is minimal and restricts peoples' choices as little as possible.
 >
-> -- [Evaluating the harm from closed source](http://esr.ibiblio.org/?p=4371)
+> --- Eric Raymond, [_Evaluating the Harm from Closed Source_](http://esr.ibiblio.org/?p=4371)
 
 Ordinary life is pretty complex stuff.  When someone promises to make ethics simple, experience should make us all skeptical.  The would-be guru may be gaining more from the title of moral philosopher than they contribute to right living or good theory.
 
@@ -102,8 +102,8 @@ The system has its acknowledged corporate champions.  O'Reilly.  Red Hat.  Now A
 
 > Freedom means having control over your own life.  If you use a program to carry out activities in your life, your freedom depends on your having control over the program.  You deserve to have control over the programs you use, and all the more so when you use them for something important in your life.
 >
-> --- [Free Software is Even More Important Now](https://www.gnu.org/philosophy/free-software-even-more-important.html)
+> --- Richard Stallman, [_Free Software is Even More Important Now_](https://www.gnu.org/philosophy/free-software-even-more-important.html)
 
 > Every good work of software starts by scratching a developer's personal itch.
 >
-> --- [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html)
+> --- Eric Raymond, [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html)
