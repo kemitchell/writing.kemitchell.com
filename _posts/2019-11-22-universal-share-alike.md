@@ -4,6 +4,7 @@ description: copyleft across different kinds of work
 tags:
 - Copyleft
 - Licensing
+date: 2019-11-22T10:00-08:00
 ---
 
 In any number of conversations, I've pointed out that a share-alike or "copyleft" license could apply _across_ different kinds of work.  For example, a software license could require sharing alike of artwork made with the software.  A license for digital artwork could require sharing alike of software incorporating that artwork.
