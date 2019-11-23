@@ -32,19 +32,21 @@ We are learning that good software comes from focus on quality---as judged by it
 >
 > --- Eric Raymond, [_Evaluating the Harm from Closed Source_](http://esr.ibiblio.org/?p=4371)
 
-Ordinary life is pretty complex stuff.  When someone promises to make ethics simple, experience should make us all skeptical.  The would-be guru may be gaining more from the title of moral philosopher than they contribute to right living or good theory.
+Ordinary life is pretty complex stuff.  When someone promises to make ethics simple, experience should make us all skeptical.  The would-be guru may be gaining more from the title of moral philosopher than they contribute to right living or even good theory.
 
 That, I fear, has been free and open source software ideology in my lifetime.  Its proponents donned ethical, philosophical, [even religious](https://stallman.org/saintignucius.jpg) vestments from very early on. But both honest analysis and lived experiment lay those pretensions bare.
 
-Free and open source ideology oversimplifies hard ethical problems by reducing them to a single domain, software, and a single variable, software freedom.  We're all born free to compute as we please.  Neither computer programmers nor computer companies deserve to impinge.  If they uniformly didn't, life would be swell.  But almost no one's real-world morality boils down to "Can folks do what they wanna?"  What's right just isn't so black-and-white.  Especially when we step outside the niche of computing and consider costs and benefits from a broader point of view, the interplay of software and all the other parts of life.
+Free and open source ideology oversimplifies hard ethical problems by reducing them to a single domain, software, and a single variable, software freedom.  We're all born free to compute as we please.  Neither computer programmers nor computer companies deserve to impinge.  If they uniformly didn't, life would be swell.
+
+Almost no one's real-world morality boils down to "Can folks do what they wanna?" and a broad expectation that what they'll wanna do will be great.  What's right just isn't so black-and-white.  Especially when we step outside the niche of computing and consider costs and benefits from a broader point of view, the interplay of software and all the other parts of life.
 
 ## Appeal
 
 I personally accepted delusions of ethical grandeur and loose use of weighty words like "philosophy" because they imbued my personal choices about software, well within my control, even in childhood, with outsize meaning and importance.  They enabled me to believe that my use of a form license, or even my taste in other peoples' software, amounted to countercultural, charitable, even revolutionary acts.  They did not.  Except in the view of others similarly seduced to self-aggrandizement.
 
-A glancing comparison to nearly any other source of moral teaching available to me, secular or religious, would have shown how simplistic that line of thinking was.  Real moral philosophy remains messy, vague, frustrating, and humbling.  Real moral codes come riddled with exceptions, littered with factors to weigh and balance.  Software freedom asked little, delivered clarity, felt great, and promised empowerment.  Software freedom analysis boiled down to one long boolean `AND` proposition.
+A glancing comparison to nearly any other source of moral teaching available to me, secular or religious, would have shown how simplistic that line of thinking was.  Real moral philosophy remains messy, frustrating, and humbling, like real engineering, real medicine, real social work, and any other applied discipline accountable to reality.  Real moral codes come riddled with exceptions, littered with factors to weigh and balance.  Software freedom asked little, delivered clarity, felt great, and promised empowerment.  Software freedom analysis boiled down to one long boolean `AND` proposition.
 
-Too good to be true is easy to spot, unless it's too good to you.  Software freedom was very good to me.  It _felt_ better, even though it was worse.
+Too good to be true is easy to spot, unless it's too good for _you_.  Software freedom was very good to me.  It _felt_ better, even though it was worse.
 
 I care for those near to me.  I value loyalty, respect, and fairness.  I cherish connections to higher meanings and purposes.  I seek a balance of those concerns and personal liberty when they conflict, as they often do.  As more people and companies get involved in open source, we see values conflict ever more often.
 
@@ -72,7 +74,7 @@ All of this saps developers' sense of purpose.  Blindly maximizing freedoms comp
 
 This is the interdependence of shared values in action.  When the only value we measure is freedom, freedom expands to fill all available space, choking loyalty, respect, fairness, purpose, and basic human care.  Elevating any single value above all others incurs consequences.  We are approaching a local maximum in freedom, and sinking everywhere else.
 
-## Selectiveness
+## Selective
 
 I [parade these horribles](https://en.wikipedia.org/wiki/Parade_of_horribles) not to paint a one-sided picture of free or open software.  I've written many words on the positive effects that "open" writ large has had on my life and the lives of others, and still has.
 
@@ -86,7 +88,7 @@ Trading completeness and gritty realism for expedience and clean clarity often m
 
 Until you realize you'll be subject to the decisions of others more often than they'll be subject to yours.  Until you face your interdependence.
 
-## Reactionary
+## Reaction
 
 We see this pattern in our politics, broadly.  Those shocked or victimized by abusive structures of authority, loyalty, and religion go all-in on fairness and care or freedom.  Exclusive focus on those values, in extreme form, denies, incredibly, that authority, loyalty, and religion have anything to offer anyone but their elects.  Others come to vilify a single, identifiable font of all affront to their dearest values, be it government, big business, "godless communism", or "late capitalism".
 
@@ -98,14 +100,38 @@ Now a new generation of programmers feels oppressed and abused _by commercial us
 
 The system has its acknowledged corporate champions.  O'Reilly.  Red Hat.  Now Amazon.  Tomorrow perhaps a new network-effect lotto winner, but the odds are slim.  Most successful open source ventures will amount to also-ran, niche players that the reigning champions of their models will be glad to cite as evidence that they are not monopolies.  To a painfully meaningful extent, any successful open source project with broad commercial appeal is just that much more wind in the sails of the dominant players in the business models that apply to it.
 
-## Alternatives
-
-> Freedom means having control over your own life.  If you use a program to carry out activities in your life, your freedom depends on your having control over the program.  You deserve to have control over the programs you use, and all the more so when you use them for something important in your life.
->
-> --- Richard Stallman, [_Free Software is Even More Important Now_](https://www.gnu.org/philosophy/free-software-even-more-important.html)
+## Service
 
 > Every good work of software starts by scratching a developer's personal itch.
 >
 > --- Eric Raymond, [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html)
 
-In law, there's nothing more dangerous than a lawyer without a client.
+Writing software for yourself short-circuits many of the hard parts of software development.  That can and does produce good software, but at the terrible price of reinforcing the programmer's personal isolation and the insularity of programming generally.  Hackers seeking a richer kind of collaboration, respect for their role as accomplished specialist, reassurance about the good use and effect of their work, and a higher sense of purpose would do well to include users who _aren't_ programmers in their day-to-day, as deeply and as often as possible.  They'd do well by their peers to encourage the same.
+
+Serving others who _don't_ share your expertise, culture, or lifestyle represents a distinct and important skill.  It's harder than naming things, and must be practiced.
+
+Scratching your own itches flexes none of the necessary muscles.  Communicating needs and feedback isn't necessary when the needs and feedback are your own.  So communication atrophies to the acerbic, confrontational engineering tone software is so known for.  Ensuring your work actually addresses a signifiacnt user need happens ipso facto when your own need is your own motivation.  So a thousand web frameworks bloomed while encryption remained impractical for the average Jane or Joe.  A sense of higher purpose was easy when software philosophy exhaulted every release under the right form license, with no expectation of or mechanism for accountable end-user feedback, as a charitable or revolutionary act.  As a greater and greater number of programmers venture outside and report back on the unintentional, negative effects of software on society, that satisfaction gets harder and harder to defend, leaving those without outside connections at a loss for greater purpose.
+
+To develop new skill and strength, follow the usual program.  Reorder your personal priorities, and allow the use of your time to change accordingly.  A strong swimmer does a lot of fast swimming.  A good negotiator does a lot of deals.  A good grief counselor hears a lot of grief.  Getting started on those paths requires discipline.  Difficulty makes the skills valuable.  But once the virtuous loop of struggle, overcoming resistance, and seeing progress closes ends, practice becomes play, discipline becomes avocation, and you find yourself getting really, really good at something others appreciate.
+
+As a simple starting point, consider the "buddy stystem":
+
+1. Prioritize programming projects that serve other's needs, rather than your own.  Especially when you can be closely and repeatedly in contact with the person or group of people hoping to use the software.  Build the tightest working relationships you can.
+2. For projects you maintain, ask contributors and would-be contributors who they're working with, to bring them into discussions as directly as possible.  Establish a norm of seeing programmers like agents, lawyers, or creative directors---as halves of potentially powerful partner-pairs.
+3. Make a point to praise peers you see actively and accountably serving others with their work.  Graciously accept compliments for your own service.  Do good work, and you'll deserve the compliments.  That reinforcement is essential for programming as a whole.
+
+There's nothing inherently wrong with itch scratching projects, with projects whose users happen to be other programmers, or with projects under permissive licenses doing wholly indeterminate good.  Developer tools, libraries, frameworks, and other tools of the trade can and will fall out of good work for non-programmer users.  But going about things backwards---inside work before outside work---and valuing things backwards---peer service over public service---have systematically closed programming off from the world.  They have alienated society.
+
+As Adam Smith famously wrote:
+
+> People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices.
+
+If he'd mentioned lowering costs or raising margins, and not just raising prices, he'd have covered open source and the software industry as most software users see it today.
+
+The antidote to conspiracy is service.  The antidote to anomie is connection.  If you or software feel isolated and isolating, reach out.
+
+## Dependence
+
+>  Freedom means having control over your own life.  If you use a program to carry out activities in your life, your freedom depends on your having control over the program.  You deserve to have control over the programs you use, and all the more so when you use them for something important in your life.
+>
+> --- Richard Stallman, [_Free Software is Even More Important Now_](https://www.gnu.org/philosophy/free-software-even-more-important.html)
