@@ -148,7 +148,7 @@ The converse of conspiracy is service.  The antidote to anomie is connection.  I
 
 ## Grandeur
 
-What "Scratch your own itch." is the to practice of free software, "Stroke your own ego." is to the idea.  We haven't elevated "Stroke your own ego." to a cliche as we have "Scratch your own itch.", I suspect because the onanistic vibe which properly belongs to both looms more pungently around the former.  The effects are the same: isolation, insularity, a lot of specificity about what we do, and a lot of generality about how it's good for the world.
+What "Scratch your own itch." is the to practice of open source, "Stroke your own ego." is to the idea.  We haven't elevated "Stroke your own ego." to a cliche as we have "Scratch your own itch.".  The onanistic vibe which properly belongs to both looms too pungently around the former.  But as working principles, their effects are the same: isolation, insularity, a lot of specificity about what we do, and a lot of generality about how that's good for the world.
 
 ## Dependence
 
