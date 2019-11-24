@@ -32,9 +32,9 @@ We are learning that good software comes from focus on quality---as judged by it
 >
 > --- Eric Raymond, [_Evaluating the Harm from Closed Source_](http://esr.ibiblio.org/?p=4371)
 
-Ordinary life is pretty complex stuff.  When someone promises to make ethics or even politics simple, experience should make us all skeptical.  The guru may be gaining more from the title of moral philosopher than they contribute to right living, or even good theory.
+Ordinary life is pretty complex stuff.  When someone promises to make ethics or even politics simple, experience should make us all skeptical.  The guru may be gaining more from the title of moral philosopher than they contribute to right living or even good theory.
 
-That, I fear, has been free and open source software ideology in my lifetime.  Its proponents donned ethical, philosophical, [even religious](https://stallman.org/saintignucius.jpg) vestments from very early on. But both honest analysis and lived experience lay those pretensions bare.
+That, I fear, has been free and open source software ideology in my lifetime.  Its proponents donned ethical, philosophical, even religious vestments from very early on. But both honest analysis and lived experience lay those pretensions bare.
 
 Free and open source ideology oversimplifies hard ethical problems by reducing them to a single domain, software, and a single variable, software freedom.  We're all born free to compute as we please.  Neither computer programmers nor computer companies deserve to impinge.  If they uniformly didn't, life would be swell.
 
@@ -130,23 +130,25 @@ The difficulty of those skills makes them valuable.  Getting started takes disci
 
 As a simple starting point, consider the "buddy stystem":
 
-1. Prioritize programming projects that serve non-programmers' needs, rather than your own.  Especially when you can be in close communication with the person or group of people hoping to use your work.  Build the tightest working relationships you can.
-2. For projects you maintain, ask contributors and would-be contributors who they're working with, to bring them into discussions as directly as possible.  Better yet, ask users to introduce their developers to your project.  Either way, establish a norm of seeing programmers like agents, lawyers, or creative directors---as halves of potentially powerful partner-pairs.  Pick your collaboration tools and platform accodingly.
+1. Prioritize programming projects that serve non-programmers' needs, rather than your own.  Especially when you can be in close communication with the person or group of people hoping to use your work from conception through deployment and maintenance.  Build the closest working relationships you can.
+2. For projects you maintain, ask contributors and would-be contributors who they're working with, and bring them into discussions as directly as possible.  Better yet, ask users to introduce their developers into your project.  Either way, establish a norm of seeing programmers like agents, doctors, lawyers, or other professionals---incomplete halves of potentially powerful pairs.  Pick your tools and platform accodingly.  Make users welcome first.
 3. Make a point to praise peers you see actively and accountably serving others outside of software with their work.  Graciously accept compliments for your own service.  Do good work, and you'll deserve the praise.  Programming as a whole deserves the reinforcement.
 
-There's nothing inherently wrong with itch scratching projects, with projects whose users happen to be programmers, or with projects under permissive licenses doing wholly indeterminate good.  Developer tools, libraries, frameworks, and other tools of the trade can and will fall out of good work for non-programmer needs.  But going about things backwards---inside work before outside work---and valuing things backwards---self sevice and peer service over public service---have systematically closed programming off from the world, made its culture insular.  They have alienated society from the softare it relies on.
+There's nothing inherently wrong with itch scratching projects, with projects whose users happen to be programmers, or with projects under permissive licenses doing wholly indeterminate good.  But there is less inherently good about them than we've given ourselves credit for.
+
+Developer tools, libraries, frameworks, and other tools of the trade can and will fall out of good work for non-programmer needs.  But going about things backwards---inside work before outside work---and valuing things also backwards---self sevice and peer service over public service---have systematically closed programming off from the world, made its culture insular.  Which in turn has alienated society from the softare it relies on.
 
 As Adam Smith famously wrote:
 
 > People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices.
 
-If he'd mentioned lowering costs or raising margins, and not just raising prices, he'd have covered open source and the software industry, as most software users see it today.  Lots of open collaboration among coders, but not much sign of welcome for anyone else.  Lots of free software that coders can use, but not much softawre that non-coders want without strings attached.
+If he'd mentioned lowering costs or raising margins, and not just raising prices, he'd have covered open source and the software industry, as most software users see it today.  Lots of open collaboration among coders, but not much sign of welcome for anyone else.  Lots of free software that coders can use, but not much software for non-coders without strings attached.
 
-The converse of conspiracy is service.  The antidote to anomie is connection.  If you feel isolated, reach out.  If you're ready to serve, rather than lecture or preach, you'll be very welcome.
+The converse of conspiracy is service.  The antidote to anomie is connection.  If you feel isolated, reach out.  If you're ready to serve, rather than lecture or preach, you'll be welcomed by the kind of people you want in your work.
 
 ## Grandeur
 
-What "Scratch your own itch." is the to practice of free software, "Stroke your own ego." is to the idea.
+What "Scratch your own itch." is the to practice of free software, "Stroke your own ego." is to the idea.  We haven't elevated "Stroke your own ego." to a cliche as we have "Scratch your own itch.", I suspect because the onanistic vibe which properly belongs to both looms more pungently around the former.
 
 ## Dependence
 
