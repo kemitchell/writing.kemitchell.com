@@ -34,7 +34,7 @@ We are learning that good software comes from focus on quality---as judged by it
 
 Ordinary life is pretty complex stuff.  When someone promises to make ethics or even politics simple, experience should make us all skeptical.  The guru may be gaining more from the title of moral philosopher than they contribute to right living or even good theory.
 
-That, I fear, has been free and open source software ideology in my lifetime.  Its proponents donned ethical, philosophical, even religious vestments from very early on. But both honest analysis and lived experience lay those pretensions bare.
+That, I fear, has been free and open source software ideology in my lifetime.  Its proponents donned ethical, philosophical, even religious vestments from early on. But both honest analysis and lived experience lay those pretensions bare.
 
 Free and open source ideology oversimplifies hard ethical problems by reducing them to a single domain, software, and a single variable, software freedom.  We're all born free to compute as we please.  Neither computer programmers nor computer companies deserve to impinge.  If they uniformly didn't, life would be swell.
 
@@ -148,10 +148,20 @@ The converse of conspiracy is service.  The antidote to anomie is connection.  I
 
 ## Grandeur
 
-What "Scratch your own itch." is the to practice of free software, "Stroke your own ego." is to the idea.  We haven't elevated "Stroke your own ego." to a cliche as we have "Scratch your own itch.", I suspect because the onanistic vibe which properly belongs to both looms more pungently around the former.
+What "Scratch your own itch." is the to practice of free software, "Stroke your own ego." is to the idea.  We haven't elevated "Stroke your own ego." to a cliche as we have "Scratch your own itch.", I suspect because the onanistic vibe which properly belongs to both looms more pungently around the former.  The effects are the same: isolation, insularity, a lot of specificity about what we do, and a lot of generality about how it's good for the world.
 
 ## Dependence
 
 >  Freedom means having control over your own life.  If you use a program to carry out activities in your life, your freedom depends on your having control over the program.  You deserve to have control over the programs you use, and all the more so when you use them for something important in your life.
 >
 > --- Richard Stallman, [_Free Software is Even More Important Now_](https://www.gnu.org/philosophy/free-software-even-more-important.html)
+
+Reading through the post hoc rationalizations of free softare and open source, it's easy to trace a long-running thread: Everybody was going to be a programmer.  Everybody was going to want to be.
+
+Some professions have gone that way.  Scribes, for example.  But everyday life is littered with professions that didn't.  I hold out great hope that non-lawyers will do more of their own legal work.  But I don't expect that everyone will, or that artificial intelligence will replace me.  I'm no doctor, dentist, priest, and so on, but I doubt they expect the same for their own specialities.  I haven't asked, but I don't think my barber, office janitor, or motorcycle mechanic mentor hold out similar hopes.
+
+I am no less free for relying on those people to live my life.  I am in a sense less independent.  But I revel in the choice of my own dependencies and the connectedness they bring.  I'm grateful for the willingness and availability of others to take control over so many aspects of my life, to steward them better than I would.
+
+My life is richer for it.  All the care, the history, the wonkishness that I put into a license, a policy, or a contract for a client, I can see in the people and work that I rely on.  I can prattle on for hours about computer keyboards, copyleft, and contract law.  When I ask my dental hygienist about the Cavitron, or the x-ray software, or what "SLS" means in toothpaste, it's clear they've made a life in dentistry, and there's a whole life to be made in there.  When I ask my barber about the differences between Korean, Vancouver, and American syles, and whether that has anything to do with all the catholic clergy coming to see him, I get an earful, in English---an extra effort for a Vietnamese boat person.
+
+I'm tempted to preach openness to these people as I know it.  There is something to that:  They may not have considered rowing that directly upstream of the rules and regulations of their work.  It's not an obvious tactic.  But they have showed me every kind of openness more generally speaking that I have ever asked for.  They gladly answer questions of nearly kind, including questions that allow me to do more for myself, without them.  Their willingness is tempered, if at all, by concern that I'll take undue risks with a novice hand, complicate their assumptions about how to serve me well, and the repsonsibility they'll bear for choices not entirely their own.  Even if I never intend to take over, I choose those I depend on in large part by their openness to my curiosity.  I expect clients of my law practice to choose and become comfortable with me at least in part by the same token.
