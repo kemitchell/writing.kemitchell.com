@@ -112,15 +112,21 @@ Despair.  Submit.  Or not.
 >
 > --- Eric Raymond, [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html)
 
-Writing software for yourself short-circuits many of the hard parts of software development.  The shortcut can and does produce good software, but at a terrible price: reinforcing the programmer's personal isolation and the insularity of programming generally.  Hackers seeking a richer kind of collaboration, respect for their role as accomplished specialist, reassurance about the good use and effect of their work, and a higher sense of purpose would do well to include users who _aren't_ programmers in their day-to-day, as deeply and as often as possible.  They'd do well by their peers to encourage the same.
+Writing software for yourself short-circuits all the hardest parts of software development.  The shortcut can and does produce good software, but at a terrible price: reinforcing the programmer's personal isolation and the insularity of programming generally.  Hackers seeking a richer kind of collaboration, respect for their role as accomplished specialist, reassurance about the good use and effect of their work, and a higher sense of purpose would do well to include users who _aren't_ programmers in their day-to-day, as deeply and as often as possible.  They'd do well by their peers to encourage the same.
 
 Serving others who _don't_ share your expertise, culture, or lifestyle represents a distinct and important skill.  It's harder than naming things, and must be practiced.  It is not just requirements, user stories, focus groups, and testing.  It is far more than those things, and more than all of them combined.
 
-Scratching your own itches flexes none of the necessary muscles.  Communicating needs and feedback isn't necessary when the needs and feedback are your own.  So communication atrophies to the acerbic, confrontational engineering tone software is so known for.  Ensuring your work actually addresses a signifiacnt user need happens ipso facto when your own need is your own motivation.  So a thousand web frameworks bloomed while encryption remained impractical for the average Jane or Joe.  A sense of higher purpose was easy when software philosophy exhaulted every release under the right form license, with no expectation of or mechanism for accountable end-user feedback, as a charitable or revolutionary act.  As a greater and greater number of programmers venture outside and report back on the unintentional, negative effects of software on society, that satisfaction gets harder and harder to defend, leaving those without outside connections at a loss for greater purpose.
+Scratching your own itches flexes none of the necessary muscles.  
 
-To develop new skill and strength, follow the usual program.  Reorder your personal priorities, and allow the use of your time to change.  A strong swimmer does a lot of fast laps.  A good negotiator does a lot of deals.  A good grief counselor hears a lot of grief.
+Communicating needs and feedback isn't necessary when the needs and feedback are your own.  So communication atrophies to the acerbic, confrontational engineering tone software is so known for.
 
-Getting started on those paths requires discipline.  Difficulty makes the skills valuable.  But once the virtuous loop of struggle, overcoming resistance, and seeing progress closes, practice becomes play, discipline becomes avocation, and you find yourself getting really, really good at something.  Something that others can appreciate.
+Ensuring your work actually addresses a signifiacnt user need happens ipso facto when your own need is your own motivation.  So a thousand web frameworks bloomed while encryption remained impractical for the average Jane or Joe.
+
+A sense of higher purpose was easy when software philosophy exhaulted every release under the right form license, with no expectation of or mechanism for accountable end-user feedback, as a charitable or revolutionary act.  As a greater and greater number of programmers venture outside and report back on the unintentional, negative effects of software on society, that satisfaction gets harder and harder to defend, leaving those without outside connections at a loss for greater purpose.
+
+To develop new skill and strength, follow the usual program.  Reorder your personal priorities, then allow the use of your time to change.  A strong swimmer clocks a lot of fast laps.  A good negotiator closes a lot of tough deals.  A good grief counselor listens through a lot of pain.
+
+The difficulty of those skills makes them valuable.  Getting started takes discipline. But once the virtuous loop of struggle, success, and compelling progress closes, practice becomes play, discipline becomes avocation, and you find yourself getting really, really good at something.  Something that others can value.
 
 As a simple starting point, consider the "buddy stystem":
 
