@@ -51,7 +51,7 @@ Having turned a lot of code back into a public good, as open source, the race is
 
 ## Ineffective
 
-I think ineffectiveness in controlling behavior was Heather's strongest point.  When you put something online with rules attached, you have to accept a level of rule breaking that just wont' be cost-effective to squelch.  But the ineffectiveness point is also the point where free and open orthodoxy make the weakest case for mapping the practical boundary.
+I think ineffectiveness in controlling behavior was Heather's strongest point.  When you put something online with rules attached, you have to accept a level of rule breaking that just won't be cost-effective to squelch.  But the ineffectiveness point is also the point where free and open orthodoxy make the weakest case for mapping the practical boundary.
 
 Despite renewed interest in "sustainability" models like the work of Elinor Ostrom, whose rubric _requires_ boundaries, monitoring, and graduated sanctions, old-guard free and open organizations [have largely shunned strong public enforcement](https://www.youtube.com/watch?v=P1mGG4JYurE), and affected firms have [made big, public pushes to talk individual devs out of their enforcement leverage](https://gplcc.github.io/gplcc/).  Now that the industrial popularity the old guard sought has caught up with them, they're [increasingly dismayed](https://www.youtube.com/watch?v=P1mGG4JYurE) by how much more active private litigants like [Artifex](https://artifex.com/) have been without consulting them.
 
