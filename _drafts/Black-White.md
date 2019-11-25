@@ -14,7 +14,7 @@ Today, open source claims widespread victory.  But software firms' use of open s
 
 Where are they going?
 
-Some aim to reform open source idealism out of hope that an even opener open source will cure its own ills.  Some seek to revive free software ethics out of reverence for its idealized, precommercial form.  But many have learned from experience that open-source ideology, free-software morality, and the conflicts between them aren't the question or the answer.  They're category error.  Making software open doesn't inevitably make it better.  Making software free doesn't turn `git push` into a virtuous act.
+Some aim to reform open source idealism out of hope that an even opener open source will cure its own ills.  Some seek to revive free software ethics out of reverence for its idealized, precommercial form.  But many have learned from experience that open-source ideology, free-software morality, and the conflicts between them aren't the question or the answer.  They're category error.  Making source open doesn't inevitably make it better.  Making software free doesn't make `git push` a virtuous act.
 
 We want to feel good about software we use, software we make, how we make it, and who we make it with.  We need morality to tell us we're right, philosophy to connect it to a greater sense of purpose, and ideology to fill the gaps.  But good morality, philosophy, and ideology don't come from within software.  Good morality, philosophy, and ideology can't be that narrow.  Life is a lot more than software.
 
