@@ -121,7 +121,7 @@ Ansible is an orchestration tool.
 
 This is why [Parity 7](https://paritylicense.com/versions/7.0.0.html), despite my tendency to propagate all the insular memes I picked up along the way to doing this work, ended up saying "use" and "share" in its [high-level summary](https://paritylicense.com/versions/7.0.0.html#purpose) and actual developer words---"develop", "operate", "analyze"---in its [core copyleft rule](https://paritylicense.com/versions/7.0.0.html#copyleft).  That's what happens when you [tell folks terms ought to make sense to them](https://flippedform.com) and then listen.  Eventually.
 
-In any event, FSF put its own labyrinthine, freedom-dicing out of date.  AGPL drafters bent over backwards to avoid appearing to trigger copyleft when licensees _run_ the software in a particular way.  But that is exactly what Section 13 of AGPL does.  FSF released the license, but didn't update its Four Freedoms, because doing that would be awkward.  Holy texts come down on stone tablets, not as patch files.
+In any event, FSF put its own labyrinthine, freedom-dicing out of date.  AGPL drafters bent over backwards to avoid appearing to trigger copyleft when licensees _run_ the software in a particular way.  But that is exactly what Section 13 of AGPL does.  FSF released the license, but didn't update its Four Freedoms, because doing that would be awkward.  Holy texts come down on stone tablets, perhaps with minor glosses, but not with major-revision patch files.
 
 Overall, we do need distinctions.  Better ones.  It's no longer enough that a particular e-mail-and-conference circuit feels unanimously good about the old saws.
 
