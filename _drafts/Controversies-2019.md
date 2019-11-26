@@ -47,6 +47,10 @@ What are the controversies of the day in free and open licensing?  Here's my vie
 
 <!-- trademarks -->
 
+<!-- standards technocracy -->
+
+<!-- proper lexicography -->
+
 <h2 id="governance">Licensing Plus</h2>
 
 <!-- community-driven -->
