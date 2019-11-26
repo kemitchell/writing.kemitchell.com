@@ -18,13 +18,29 @@ FRAND licenses terms aren't free and open license terms.  Modern open software l
 
 My Take:  Best case, the standards community revisits _patentleft_: patent licenses that cover free and open implementations.  The life sciences are now far ahead of software on that front.  Second-best, the standards fly their own flag and come up with new licenses that make clear there's no patent grant, rather than introducing confusion about old terms like MIT and BSD.
 
-Other Writing: [_Standards, Patents, Open Source_](https://writing.kemitchell.com/2019/10/03/Open-Standards.html)
+Other Writing:
+
+- [_Standards, Patents, Open Source_](https://writing.kemitchell.com/2019/10/03/Open-Standards.html)
 
 <h2 id="weak">Stronger Weak Copyleft</h2>
-<!-- SSPL -->
+
+My Take:  Both businesses and activists need stronger copyleft licenses.  Starting from that strong-copyleft basis, companies should be welcome to grant exceptions for applications developed with their software.  That was welcome at the dawn of "open source", when Netscape pioneered the approach to make its web browser open, permitting closed plugins, to keep it competitive with Internet Explorer, but without permitting competitors to simply absorb or fork its code.
+
+Other Writing: 
+
+- [_SSPL Was Not Commons Clause_](https://writing.kemitchell.com/2019/06/13/SSPL-Not-Commons-Clause.html)
+- [_Weak or Strong is Wrong_](https://writing.kemitchell.com/2019/03/11/Weak-Strong-Wrong.html)
+- [_API Copyleft_](https://writing.kemitchell.com/2019/01/30/API-Copyleft.html)
 
 <h2 id="strong">Stronger Strong Copyleft</h2>
+
 <!-- Parity -->
+
+My Take:  Both businesses and activists need stronger copyleft licenses.
+
+Other Writing:
+
+
 
 <h2 id="ethical">Ethical Licensing</h2>
 <!-- NoHarm -->
