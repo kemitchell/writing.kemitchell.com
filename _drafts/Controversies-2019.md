@@ -56,12 +56,17 @@ Other Writing:
 <h2 id="ethical">Ethical Licensing</h2>
 2019 saw a sudden uptick in proposals for open licenses with various added rules against use for unethical purposes or by specific unethical actors.  The [Responsible AI Licenses](http://licenses.ai/) prohibit a list of troubling use cases.  The [NoHarm License](https://github.com/raisely/NoHarm) is attempting to write out a full moral code.  Various licenses denying permission to United States immigration authorities, Immigration and Customer Enforcement, and their contractors, have tracked protests within and without large technology companies.  [996.ICU](https://996.icu/#/zh_CN), an effort out of China, prohibits use by companies violating labor laws.
 
+My Take:  Free Software licenses began as ethical licenses.  A great deal of code is begin made in the open, or made solo when it could be made collaboratively, because developers can no longer avoid the fact that others are using their work directly against their values, and don't have a set of license terms to express and enforce their working conditions of conscience.  I don't necessarily support the effort to establish new driving ethical concerns as "free software" or "open source".  But I strongly support empowering developers to express their ethics in writing, refine those expressions together, and connect them to the power of their intellectual property rights.  I do wish the folks drafting new terms in moments of passion held on, kept the flame burning, and learned more of the craft of good drafting.
+
 Other Writing:
 
 - [_Talking Points: Ethical Licenses_](https://talkingpoints.kemitchell.com/ethical-licenses.html)
+- [_Ethical Subcommons Starter Kit_](https://writing.kemitchell.com/2019/03/15/Ethical-Subcommons.html)
 
 <h2 id="api">API Derivative Works</h2>
-<!-- Oracle v. Google -->
+Oracle's lawsuit against Google for infringement of copyright in APIs of the Java programming platform is headed to the Supreme Court.  So far, appellate holdings have favored Oracle and a broader reading of copyright to cover creative API designs.  That spells trouble for activists who oppose software copyright generally.  It also promises ripple effects through several popular copyleft licenses, including GPLv2, that set the reach of copyleft based on the legal definition of "derivative work".
+
+My Take:  Free and open license wonks are notoriously bad at predicting legal outcomes.  They are, after all, a legal counterculture.  When the legal system has to fall back on policy principles to clarify vagueness and ambiguity in the law, they tend to track the policy thrust of ensuring creators compensation for the exploitation of their work, along with a correspondingly expansionist view of what copyright should cover.  That's not all bad for open licensing, especially copyleft.  Copyleft depends on copyright to require sharing back.  The stronger copyleft is, and the clearer that strength becomes, the stronger copyleft can be.  Meanwhile, permissive licenses can waive copyright as effectively after Oracle v. Google as before it.
 
 <h2 id="definition">Definitional Politics</h2>
 <!-- "open source" and "free software" -->
