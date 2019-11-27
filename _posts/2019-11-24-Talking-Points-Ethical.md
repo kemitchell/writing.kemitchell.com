@@ -5,6 +5,8 @@ tags:
 - Open Source
 - Free Software
 - Licensing
+- Ethics
+- Ethics Licenses
 ---
 
 Thanks to [Audrey Eschright](http://lifeofaudrey.com/2019/11/24/links-floss-ethics.html), I was able to catch up on a few blog posts about "ethical licenses" that I'd missed.   During that reading, I began collecting repeated arguments against, along with responses of my own, on a [talking points page](https://talkingpoints.kemitchell.com/ethical-licenses.html).

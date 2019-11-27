@@ -4,8 +4,10 @@ description: bringing openness to software of moral concern
 layout: post
 tags:
 - Open Source
+- Free Software
 - Licensing
 - Ethics
+- Ethics Licenses
 ---
 
 This post offers a practical toolkit for seeding a _subcommons_ of open software, responsive to ethical concerns shared by some, but not all, open software developers.  The toolkit generalizes the approach of software freedom activists, which led to free software and eventually open source, of which software freedom is now a subcommons.  That approach could be reapplied for ethical AI software development, social justice, economic liberty, or other schools of ethical thought large or passionate enough to support their own software development commons, adjacent and additive to open source's absolutist permissivity.
