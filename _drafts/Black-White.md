@@ -112,7 +112,7 @@ Despair.  Submit.  Or not.
 
 > Every good work of software starts by scratching a developer's personal itch.
 >
-> --- Eric Raymond, [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html)
+> --- Eric Raymond, [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html), 1992
 
 > When masturbation's lost its fun you're fucking lonely.
 >
