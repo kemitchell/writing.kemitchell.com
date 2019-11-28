@@ -9,6 +9,6 @@ I'm told "f/8 and be there" is a popular expression among photographers.  Some s
 
 "TNR12 and be there" would be the equivalent for lawyers.  Especially the technophiles.
 
-TNR is short for [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman).  Times New Roman, 12pt was the default for Microsoft Word 97, and still the default for much of the legal profession.
+TNR is short for [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman).  Twelve-point Times New Roman was the default for Microsoft Word 97, and is still the default for much of the legal profession.
 
 Like most preachers, I have failed to practice my own point with the consistency I would advise.  This blog post will be, in part, a reminder to myself.
