@@ -40,7 +40,7 @@ That, I fear, has been free and open source software ideology in my lifetime.  I
 
 Free and open source ideology oversimplifies hard ethical problems by reducing them to a single domain, software, and a single variable, software freedom.  We're all born free to compute as we please.  Neither computer programmers nor computer companies deserve to impinge.  If they uniformly didn't, life would be swell.
 
-Almost no one's real-world morality boils down to "Can folks do what they wanna?" and a broad expectation that what they'll wanna do will be great.  What's right just isn't so black-and-white. 
+Almost no one's real-world morality boils down to "Can folks do what they wanna?" and a broad expectation that what they'll wanna do will be great.  What's right just isn't so black-and-white.
 
 Almost no one's real-world politics boils down to "Do folks have an absolute right to X?", where X is speech, assembly, religion, guns, contract, conscience, and so on.  Justice just isn't so black-and-white.
 
@@ -114,11 +114,15 @@ Despair.  Submit.  Or not.
 >
 > --- Eric Raymond, [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html)
 
+> When masturbation's lost its fun you're fucking lonely.
+>
+> --- Green Day, "Longview", 1994
+
 Writing software for yourself short-circuits all the hardest parts of software development.  The shortcut can and does produce good software, but at a terrible price: reinforcing the programmer's personal isolation and the insularity of programming generally.  Hackers seeking a richer kind of collaboration, respect for their role as accomplished specialist, reassurance about the good use and effect of their work, and a higher sense of purpose would do well to include users who _aren't_ programmers in their day-to-day, as deeply and as often as possible.  They'd do well by their peers to encourage the same.
 
 Serving others who _don't_ share your expertise, culture, or lifestyle represents a distinct and important skill.  It's harder than naming things, and must be practiced.  It is not just requirements, user stories, focus groups, and testing.  It is far more than those things, and more than all of them combined.
 
-Scratching your own itches flexes none of the necessary muscles.  
+Scratching your own itches flexes none of the necessary muscles.
 
 Communicating needs and feedback isn't necessary when the needs and feedback are your own.  So communication atrophies to the acerbic, confrontational engineering tone software is so known for.
 
