@@ -137,7 +137,9 @@ The difficulty of those skills makes them valuable.  Getting started takes disci
 As a simple starting point, consider the "buddy system":
 
 1. Prioritize programming projects that serve non-programmers' needs, rather than your own.  Especially when you can be in close communication with the person or group of people hoping to use your work from conception through deployment and maintenance.  Build the closest working relationships you can.
+
 2. For projects you maintain, ask contributors and would-be contributors who they're working with, and bring them into discussions as directly as possible.  Better yet, ask users to introduce their developers into your project.  Either way, establish a norm of seeing programmers like agents, doctors, lawyers, or other professionals---incomplete halves of potentially powerful pairs.  Pick your tools and platform accordingly.  Make users welcome first.
+
 3. Make a point to praise peers you see actively and accountably serving others outside of software with their work.  Graciously accept compliments for your own service.  Do good work, and you'll deserve the praise.  Programming as a whole deserves the reinforcement.
 
 There's nothing inherently wrong with itch scratching projects, with projects whose users happen to be programmers, or with projects under permissive licenses doing wholly indeterminate good.  But there is less inherently good about them than we've given ourselves credit for.
