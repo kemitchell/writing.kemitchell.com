@@ -1,7 +1,8 @@
 ---
 title: TNR12 and Be There
 description: learning from others
-layout:
+tags:
+- Law Practice
 ---
 
 I'm told "f/8 and be there" is a popular expression among photographers.  Some say it even sums up the whole wisdom of the craft.  There's a [Wikipedia page](https://en.wikipedia.org/wiki/%C6%91/8_and_be_there) I expect most everyone reading this blog will enjoy.
