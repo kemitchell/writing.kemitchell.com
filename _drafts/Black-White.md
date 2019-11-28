@@ -8,19 +8,21 @@ tags:
 - Politics
 ---
 
-Software companies' restrictive licenses and secret source code threatened hackers' sense of freedom, empowerment, and the revolutionary promise of computing machines.  So the truest believers launched a countermovement, originally known as free software, now best known as open source.
+Software companies' secrecy and restrictive terms threatened hackers' sense of freedom, empowerment, and the revolutionary promise of the new computing machines.  So the truest believers launched a countermovement, originally known as free software, now best known as open source.
 
-Today, open source claims widespread victory.  But software firms' use of open source licenses, methods, and software again threatens hackers' sense of contributing to a better world.  So a new generation turns away away from the figureheads, foundations, firms, and faith tenets of free and open source.
+Today, open source claims widespread victory.  But software firms' use and abuse of the very methods they developed---open source licenses, methods, and software---now threatens hackers' sense of contributing to a better world.  So a new generation is turning away away from the figureheads, foundations, firms, and faith tenets of free and open source.
 
 Where are they going?
 
-Some aim to reform open source idealism out of hope that an even opener open source will cure its own ills.  Some seek to revive free software ethics out of reverence for its idealized, precommercial form.  But many have learned from experience that open-source ideology, free-software morality, and the conflicts between them aren't the question or the answer.  They're category error.  Making source open doesn't inevitably make it better.  Making software free doesn't make `git push` a virtuous act.
+Some aim to reform open source pragmatics out of hope that an even opener open source will cure its own ills.  Some seek to revive free software ethics out of reverence for its idealized, precommercial form.  But many have learned from experience that open-source ideology, free-software morality, and the conflicts between them aren't the question or the answer.  They're category error.  Making source open doesn't inevitably make it better.  Making software free doesn't make `git push` a virtuous act.  Software cannot be both the source and the solution to all its own problems, much less all the problems of its making.
 
-We want to feel good about software we use, software we make, how we make it, and who we make it with.  We need morality to tell us we're right, philosophy to connect it to a greater sense of purpose, and ideology to fill the gaps.  But good morality, philosophy, and ideology don't come from within software.  Good morality, philosophy, and ideology can't be that narrow.  Life is a lot more than software.
+We want to feel good about software we use, software we make, how we make it, and who we make it with.  We need morality to tell us we're right, philosophy to connect it to a greater sense of purpose, and ideology to fill the gaps.  But good morality, philosophy, and ideology don't come from within software.  Good morality, philosophy, and ideology aren't that narrow.
 
-The tools and techniques of free and open source software aren't going anywhere.  But they are only tools.  The next great leaps in production, inspiration, and productivity won't take place along the old free-open ideological line.  Free isn't going to win out over open.  Open is closer to winning out over free, but that's the reality that's disappointing us so.
+The tools and techniques of free and open source software aren't going anywhere.  But they are only tools, prior art.  The next great leaps in production, inspiration, and productivity won't take place along the old free-open ideological line.  Free isn't going to win out over open.  Open may be closer to winning out over free, but that's the mess we find so intolerable right now.
 
-We are learning that good software comes from focus on users---the final arbiters of quality---not as a byproduct of fervor for any specific license, governance structure, or development style.  We are learning that a lasting sense of greater purpose comes from working with, and serving, users others than ourselves and our kind.  We are learning that a greater sense of right and wrong is a better sense of right and wrong, that we must bring their morality and ideology from outside within it, rather than treating software as a moral or political island unto itself.  We are learning that we can collaborate to express and improve our ethics, in addition to our code.
+Software feels stuck in a hole because it has dug itself into a hole.  High on a heady mix of self-sufficiency and insularity, it has cut itself off from the world, socially, practically, and intellectually.  It has turned inward on itself for all apparent needs.  With utter predictability, it has come back wanting for everything but code.
+
+We are learning that good software comes from focus on users---the final arbiters of quality---not as a byproduct of fervor for any specific license, governance structure, or development style.  We are learning that a lasting sense of greater purpose comes from working with, and serving, users others than ourselves and our kind.  We are learning that a greater sense of right and wrong is a better sense of right and wrong, that we must bring our purpose and philosophy from outside software within it, rather than treating software as a moral or political island, or pretending that software has everything to teach and nothing to learn.  We are learning that we can collaborate to express and improve our ethics, in addition to our code.
 
 ## Simplicity
 
@@ -32,7 +34,7 @@ We are learning that good software comes from focus on users---the final arbiter
 >
 > --- Eric Raymond, [_Evaluating the Harm from Closed Source_](http://esr.ibiblio.org/?p=4371)
 
-Ordinary life is pretty complex stuff.  When someone promises to make ethics or even politics simple, experience should make us all skeptical.  The guru may be gaining more from the title of moral philosopher than they contribute to right living or even good theory.
+Ordinary life is pretty complex stuff.  When someone promises to make ethics simple, experience should make us all skeptical.  The guru may be gaining more from the title of moral philosopher than they contribute to right living or even good theory.
 
 That, I fear, has been free and open source software ideology in my lifetime.  Its proponents donned ethical, philosophical, even religious vestments from early on. But both honest analysis and lived experience lay those pretensions bare.
 
