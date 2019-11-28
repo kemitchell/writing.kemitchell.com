@@ -297,7 +297,7 @@ mark
   font-weight: normal
   font-style: normal
 
-h1.tag
+h1.tag, h1.series
   position: relative
   font-size: 200%
   font-family: "Concourse-T6"
@@ -305,6 +305,18 @@ h1.tag
   padding-top: 1em
   padding-bottom: 0.25em
   padding-left: $dateWidth + $datePadding + $interPostPadding
+
+h1.tag
+  &:before
+    content: 'Tag'
+    color: $darkRed
+    display: block
+    text-align: right
+    width: $dateWidth + $interPostPadding
+    left: 0
+    position: absolute
+
+h1.series
   &:before
     content: 'Series'
     color: $darkRed

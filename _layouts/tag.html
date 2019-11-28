@@ -1,0 +1,10 @@
+{% include top.html %}
+<article class=body>
+  <h1 class=tag>{{page.tag}}</h1>
+  <ol class=posts>
+    {% for post in page.posts reversed %}
+    <li>{% include post.html %}</li>
+    {% endfor %}
+  </ol>
+</article>
+{% include bottom.html %}
