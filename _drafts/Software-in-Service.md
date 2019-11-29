@@ -57,7 +57,7 @@ I've seen black-and-white software freedom encourage disregard, devaluation, and
 
 All of that is profoundly mean.  Blindly maximizing software freedom, privileging one set of people over another because they are users, compromises basic human care.  Nobody wants to contribute to a movement that abuses them.
 
-I've seen black-and-white software freedom birth successive generations of firms competing to reap projects they did not sow, at the expense of their creators.  I've seen developers sacrifice to keep pace with growing projects, only to be outdone by runaway incumbents wherever they turned for a buck: documentation, support, training, consulting, hosting, even swag.  I've seen those incumbents work, consciously and by Darwinian selection, to trumpet the freedoms that play to their advantages, elide the freedoms that level them, and expand the meaning of "open" to the same strategic effect.
+I've seen black-and-white software freedom birth successive generations of dominant firms---O'Reilly, Red Hat, Amazon---adept at reaping projects they did not sow, at the expense of their creators, and leveraging their positions to redefine free and open.  I've seen developers sacrifice to keep pace with growing projects, only to be outdone by runaway incumbents wherever they turned for a buck: documentation, support, training, consulting, hosting, even swag.  I've seen those incumbents work, consciously and by Darwinian selection, to trumpet the freedoms that play to their advantages, elide the freedoms that level them, and expand the meaning of "open" to the same strategic effect.
 
 All of that is profoundly unfair.  Blindly maximizing software freedom, and gaming what freedom means, compromises essential fairness.  Nobody wants to play a game stacked against them.
 
@@ -89,21 +89,11 @@ Until you realize you'll be subject to the decisions of others more often than t
 
 ## Reaction
 
-We see this pattern in our politics, broadly.  Those shocked or victimized by abusive structures of authority, loyalty, and religion go all-in on fairness , caring, or freedom.  Exclusive focus on any of those values denies, incredibly, that authority, loyalty, and religion have anything to offer anyone but their elects.  Others come to vilify a single, identifiable font of all affront to their dearest values, be it government, business, "godless communism", or "late capitalism".
+We see this pattern throughout our politics.  Those shocked or victimized by others go all-in on the values they feel they were denied.  That exclusive focus denies, incredibly, that other values protect anyone but their respective entrenched elects.  Often the simplification manifests as vilification of a single, identifiable font of all affront, be it government, business, "godless communism", or "late capitalism".  The differently aggrieved may unite not around the value they obsess over, but the villain they blame.
 
-All those formative experiences come from life, and all the lessons taken from them reflect genuine living, however dubious their post-hoc rationalizations.  But extremism is ugly in all its forms.  The result of no-common-denominator ideological diversity is an unworkable politics of shouting extremes.  Shouting drowns out the holistic, humble, the-world-is-complicated approaches with no clear good-versus-evil lines.  These require a lot more deliberation, but come to good results with far fewer victims.  They accept that no position will win out by exterminating or dominating contrary opinion.
+All those values postures come from life, and all the lessons informing them come from genuine lived experience.  But extremism is ugly in all its forms.  The result of no-common-denominator values reductionism is an unworkable politics of reciprocal shouting, cathartic for the tribe doing the yelling until the tribe being yelled at yells back, shattering again the hope of decisive domination.  All that yelling shouting drowns out the holistic, humble, the-world-is-complicated approaches, with no clear good-versus-evil lines, that require sensitive deliberation and incur less collateral damage.
 
-Software is at best a microcosm.  Early free hackers felt oppressed and abused by companies' use of nondisclosure agreements and copyright licenses, which conditioned them to a reflexive libertarianism against business, licenses, and secrecy.  They vilified corporations or intellectual property law, symbolic sources of the only affront consistently felt in their day-to-day: suppression of the growing, presumed-limitless, presumed-positive power of computing.
-
-RMS made a clever deal with the copyright devil for copyleft, but it worked out like deals with the devil usually do.  ESR, a libertarian writ large, distilled software freedom rhetoric to even sharper terms, flipped the ideological color of its presentation, and sought to commercialize the concept, aided greatly by the lack of any deal with the devil to explain.
-
-Now a new generation of programmers feels oppressed and abused _by commercial use of open source_, as a practice and a body of software.  Those experiences condition them to a knee-jerk reflex against open source, by strong association, despite aspects they value very highly, aspects that may have brought them into software in the first place.  When objectors protest, they learn the blessed path is to join a pillar of the system they're protesting as an employee.  Those who refuse and continue to make noise face bully brigades of condemnation.  If [the Borg](https://en.wikipedia.org/wiki/Borg) had a social media team, it might feel like this.
-
-The system has its acknowledged corporate champions.  O'Reilly.  Red Hat.  Now Amazon.  Tomorrow some new network-effect lotto winner.  Most successful open source ventures will amount to also-ran, niche players that the reigning champions of their models will be glad to cite as evidence that they are not in fact monopolies.  To a painfully meaningful extent, any successful open source project with broad commercial appeal is just that much more wind in the sails of the dominant players in the business models that apply to it.  They're wind in the sales of the interests, politics, and ethics---if any---in symbiosis with those firms.
-
-Despair.  Submit.  Or not.
-
-## Service
+## Stimming
 
 > Every good work of software starts by scratching a developer's personal itch.
 >
