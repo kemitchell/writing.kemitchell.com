@@ -123,11 +123,11 @@ words, the Court of Chancery could issue orders, called injunctions,
 against performance of legal orders and further suits in the courts
 of law.  Equity became the flexible yin to law's rigid yang.  Hard law
 made a strong case for flexible equity, which expressed its gratitude
-by making equitable decisions seem squishy, arbitrary, corruption-prone
+by making equitable decisions seem squishy, arbitrary, and corruption-prone
 in comparison to legal ones.
 
 The distinction between law and equity echoes in the English legal
-systems and its derivatives, including America's legal systems,
+system and its derivatives, including America's legal systems,
 of today.  Remedies---actions you can ask a court to take on your
 behalf---are divided into legal remedies, like the payment of
 money damages, and equitable remedies, like orders to perform your
