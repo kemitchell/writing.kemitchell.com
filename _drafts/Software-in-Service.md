@@ -17,35 +17,7 @@ Fetishizing autonomy and recursion keeps us alone.
 
 The combination has made software---free, open, and closed---an exemplary conspiracy against the laity.  The laity is pissed.
 
-With the benefit of outside perspective, the problem is obvious, and so are the solutions.  The antidote to conspiracy is service.  The question is whether software can stop playing universal lecturer long enough to learn the discipline it needs to change itself.
-
-## Means, Ends, Justification
-
-> If you did it right you wound up with a guy that walked across the screen, in bad graphics, and then you could change it and make the guy walk across the screen in different colors.  You could just _do_ that.
->
-> It's the greatest feeling ever.
->
-> --- Linus Torvalds, _Just for Fun_
-
-> And then it happened ... a door opened to a world ... rushing through the phone line like heroin through an addict's veins, an electronic pulse is sent out, a refuge from the day-to-day incompetencies is sought ... a board is found.  "This is it ... this is where I belong..."  I know everyone here ... even if I've never met them, never talked to them, may never hear from them again ... I know you all ...
->
-> --- _The Hacker Manifesto_
-
-Early software companies' secrecy and restrictions threatened hackers' freedom, empowerment, and reverence for the new interactive computing machines.  So the truest believers launched a counterattack, first as free software, now best known as open source.  That movement claims victory today.  But the widespread use of its methods---open licenses, methodologies, governance, platforms, and tools---by the same sorts of companies they were designed to resist again threatens hackers' ability to frame their hacking as contribution to a better world.
-
-A new generation of programming addicts is turning away from the figureheads, foundations, firms, and faith tenets of free and open source.  Where are they going?
-
-Some aim to reform open source pragmatics, hoping an even opener open source will cure its own ills.  Some seek to revive free software ethics out of reverence for its idealized, precommercial form.  But the lived experience of taking new ideas back to any storied old school hasn't been free-flowing collaboration, but brusque rejection and swift social condemnation.  The thick moral, technical, and political language slathered on to justify and edify free open and open development in retrospect doesn't apply prospectively to anything that might fork the game, rather than simply improve it.  The moral, technical, and political justifications "worked".  Those served by their success now see them as desirably stable dependencies, not levers of change.
-
-They were never levers of change.  Change came first.  The tools, licenses, and conventions long preceded the definitions, essays, and institutions. 
-
-The lived experience of that realization teaches that open-source ideology, free-software morality, and the conflicts between them were never the question or any answer.  That's category error.  Making source open doesn't inevitably make it better.  Making software free doesn't make `git push` a virtuous act.  But believing so justifies and aggrandizes what developers want to do anyway: sling code with their fellow obsessed.  Justifying the means _is_ the end.
-
-We want to feel good about software we use, software we make, how we make it, and who we make it with.  We need morality to tell us we're good, philosophy to tell us we matter, and ideology to tell us we're right about ourselves.  But good morality, philosophy, and ideology don't come from within software.  Good morality, philosophy, and ideology aren't hobby- or industry-specific.
-
-Only the tools, techniques, and organizations of software stand on their own.  The tools, techniques, and organizations of free and open source software aren't going anywhere.  But they are only that.  Free isn't going to win out over open.  Open may be closer to winning out over free.  But this or that flavor of retroactive continuity won't change the rest of the plot.
-
-The next great leaps in method, inspiration, and productivity will build on free and open tools, techniques, and organizations as prior art.  They won't build on their ideologies, or fit on the old free-open line.  New motivations will create and validate them.  New narratives will justify their success.
+With the benefit of outside perspective, the problem is obvious, and so are the solutions.  The antidote to conspiracy is service.  The question is whether software can stop playing universal lecturer long enough to learn the discipline it needs to change itself.  The [program](#service) is well known and tested.  But we aren't yet ready to run it.
 
 ## Simplicity
 
@@ -57,27 +29,25 @@ The next great leaps in method, inspiration, and productivity will build on free
 >
 > --- Eric Raymond, [_Evaluating the Harm from Closed Source_](http://esr.ibiblio.org/?p=4371)
 
-Ordinary life is pretty complex stuff.  When someone promises to make ethics simple, experience should make us all skeptical.  The guru may be gaining more from the title of moral philosopher than they contribute to right living or even good theory.
+Ordinary life is pretty complex stuff.  When someone promises to make ethics simple, experience should make us all skeptical.  The guru may be gaining more from the title of moral philosopher than they contribute to right living, or even good theory.
 
-That, I fear, has been free and open source software ideology in my lifetime.  Its proponents donned ethical, philosophical, even religious vestments from early on. But both honest analysis and lived experience lay those pretensions bare.
+That has been free and open source software ideology in my lifetime.  Its proponents donned ethical, philosophical, even religious vestments from early on.  But both honest analysis and lived experience lay those pretensions bare.
 
 Free and open source ideology oversimplifies hard ethical problems by reducing them to a single domain, software, and a single variable, software freedom.  We're all born free to compute as we please.  Neither computer programmers nor computer companies deserve to impinge.  If they uniformly didn't, life would be swell.
 
 Almost no one's real-world morality boils down to "Can folks do what they wanna?" and a broad expectation that what they'll wanna do will be great.  What's right just isn't so black-and-white.
 
-Almost no one's real-world politics boils down to "Do folks have an absolute right to X?", where X is speech, assembly, religion, guns, contract, conscience, and so on.  Justice just isn't so black-and-white.
+Almost no one's real-world politics boils down to "Do folks have an absolute right to _X_?", where _X_ is speech, assembly, religion, guns, contract, conscience, and so on.  Justice just isn't so black-and-white.
 
 ## Appeal
 
-I personally accepted delusions of ethical grandeur and loose use of weighty words like "philosophy" because they imbued my personal choices about software, well within my control, even in childhood, with outsize meaning and importance.  They enabled me to believe that my use of a form license, or even my taste in other peoples' software, amounted to countercultural, charitable, even revolutionary acts.  They did not.  Except in the view of others similarly seduced to self-aggrandizement.
+I personally accepted delusions of ethical grandeur and loose use of weighty words like "philosophy" because they imbued my personal choices about software, well within my control, even in childhood, with outsize meaning and importance.  They enabled me to believe that my use of a strangely written form copyright license, or even my taste in other peoples' software, amounted to countercultural, charitable, even revolutionary acts.  They did not.  Except in the view of others similarly seduced to self-aggrandizement.
 
-A glancing comparison to nearly any other source of moral teaching available to me, secular or religious, would have shown how simplistic that line of thinking was.  Real moral philosophy remains messy, frustrating, and humbling, like real engineering, real medicine, real social work, and any other discipline that gets dirty in reality.  Real moral codes come riddled with exceptions, littered with factors to weigh and balance.  Software freedom asked little, delivered clarity, felt great, and promised empowerment.  Software freedom analysis boiled down to one long boolean `AND` predicate.
+A glancing comparison to nearly any other source of moral teaching available to me at the time would have revealed how simplistic that line of thinking was.  Real moral philosophy remains messy, frustrating, and humbling, like real engineering, real medicine, real social work, and any other discipline that gets dirty in reality.  Real moral codes come riddled with exceptions, littered with factors to weigh and balance.  Software freedom asks little, delivers clarity, feels great, and promises empowerment.  Software freedom analysis boils down to one long boolean `AND` predicate.  Is it all the kinds of free?
 
 Too good to be true is easy to spot, unless it's too good for _you_.  Then it's damn near impossible.  Software freedom was very good to me.  It _felt_ better, even though it was worse.
 
-I care for those near to me.  I value loyalty, respect, and fairness.  I cherish connections to higher meanings and purposes.  I seek a balance of those concerns and personal liberty when they conflict, as they often do.  As more people and companies get involved in open source, values conflicts are getting hard to miss.
-
-There's no slicing software off from the rest of life and solving it as a disjoint moral problem.  There's no more inherent good in any license or methodology or piece of software software than in the Internet or the English language or the free market.  If there is a morality in free software or open source, it's but a rote specialization of a broader, radical liberal ideology to software.  The more I probe that ideology, the more I find it has little appeal, in light of the problems of concern in my life.  Open source demonstrates the damnable shortcomings of that ideology as well as its strengths.
+I care for those near to me.  I value loyalty, respect, and fairness.  I cherish connections to higher meanings and purposes.  I seek a balance of those concerns and personal liberty when they conflict, as they often do.  As more people and companies get involved in open source, values conflicts are getting harder to miss.
 
 ## Horribles
 
@@ -99,25 +69,27 @@ I've seen black-and-white software freedom enable takers to turn makers' work ag
 
 All of this saps developers' sense of nobility in service.  Blindly maximizing freedoms compromises purpose.  Nobody wants to do free work for the baddies.
 
-This is the interdependence of values in action.  When the only value we measure is freedom, freedom expands to fill all available space, choking loyalty, respect, fairness, purpose, even basic human decency.  Those are the consequences of placing any single value above all others.  We are approaching a local maximum in freedom within software, and sinking everywhere else.
+This is the interdependence of values in action.  When the only value we measure is freedom, freedom expands to fill all available space, choking loyalty, respect, fairness, purpose, even basic human decency.  Those are the consequences of placing any single value above all others.  We are approaching a local maximum in freedom within software, and sinking everywhere else.  Free and open source software demonstrate the costs of that absolutism as well as its benefits.
 
 ## Selective
 
-I parade these horribles not to paint a one-sided picture of free or open software.  I've written many words on the positive effects that "open" writ large has had on my life and the lives of others.  It still has.
+I parade horribles not to paint a one-sided picture of free or open software.  I've written at length on how "open" writ large has improved my life and the lives of others.  It still does.
 
-A well worn narrative extols the benefits of free and open source. The costs remain largely disorganized anecdotes, however frequent. Putting both on the table forces a choice:  Do we write off the troubles for the merits?  Do we ignore the merits in light of the troubles?  Or do we try to weigh and balance?  If we weigh and balance, how?
+Well worn narratives extol those benefits of free and open source.  As memes, they compete effectively in large part by omitting the costs.  So the costs remain largely anecdotal, however common lived their lived experience may be.
 
-When software-freedom absolutism manages to do some good in any other dimension, true believers happily credit software freedom.  Given absolute freedom, they suppose all other goods would naturally follow.  But when software freedom takes a toll, the faithful blame the victim or write them off as acceptable collateral damage.  You shouldn't have done open source ... like we told you to.  You didn't do it open enough ... my way.  At one point or another, I've wielded all these too-convenient criticisms.
+Putting both on the table forces a choice:  Do we write off the costs for the benefits?  Do we ignore the benefits in light of the costs?  Or do we try to weigh and balance?  If we weigh and balance, how?  Who does our decision benefit?
 
-Just as computer programming often reduces a complex problem down to a computable approximation for the sake of efficiency, ethical conversations trapped within software, which only step outside it to grab glittering generalities like "freedom" and "community", derive a neatly computable ethics for a bad approximation of life.  Just as software reductionism looses well-intentioned, predictably malign systems on the world, moral reductionism makes wanton moral automata of otherwise capable consciences, blinkered or indifferent to predictable consequences.  When good theory starts from bad assumptions, applying that theory to the world, or forcing the world to fit it, incurs causalities.
+When software-freedom absolutism manages facilitates a good outcome in any other dimension, true believers happily credit their cause.  Given absolute freedom, they posit that other goods would naturally follow.  But when software freedom takes a toll, the faithful blame the victim or write them off as acceptable collateral damage.  You shouldn't have done open source ... like we told you to.  You didn't do it open enough ... my way.  You didn't do it for the right reasons ... my reasons.  At one point or another, I've wielded all these too-convenient criticisms.
 
-Trading completeness and gritty realism for expedience and clean clarity often means trading hard decisions and balanced outcomes for easy decisions and predictable mistakes.  The comfort of sound theory, of easy certainty, becomes the surest sign of truth, and therefore virtue.  Morality _must_ be reduced to Turing-esque, deductive, boolean reasoning---freedom or no freedom---because acclaim selects for the doctrine that pleases the audience---the ones computing the moral answers---and not those subjected to the conclusions.
+Just as computer programming often reduces a complex problem down to a computable approximation for the sake of efficiency, ethical conversations trapped within software, which only step outside it to grab glittering generalities like "freedom" and "community", derive a neatly computable ethics for a bad approximation of life.  Just as software reductionism looses well-intentioned, predictably malign systems on the world, moral reductionism makes wanton moral automata of otherwise capable consciences, blinkered or indifferent to predictable consequences.  When good theory starts from bad assumptions, applying that theory on the world, or forcing the world to fit it, incurs causalities.
+
+Trading completeness and gritty realism for expedience and clean clarity often means trading hard decisions and balanced outcomes for easy decisions and predictable mistakes.  The comfort of sound theory, of easy certainty, becomes the surest sign of truth, and therefore virtue.  "It depends" is correct, but not pleasant to hear.  Correctness _must_ be reduced to Turing-esque, deductive, boolean reasoning---freedom or no freedom---because acclaim selects for the doctrine that pleases the audience---the ones computing the moral answers---and not those subjected to the conclusions.
 
 Until you realize you'll be subject to the decisions of others more often than they'll be subject to yours.  Until you face your interdependence, master of commuting though you may be.
 
 ## Reaction
 
-We a pattern in our politics, broadly.  Those shocked or victimized by abusive structures of authority, loyalty, and religion go all-in on fairness , caring, or freedom.  Exclusive focus on any of those values denies, incredibly, that authority, loyalty, and religion have anything to offer anyone but their elects.  Others come to vilify a single, identifiable font of all affront to their dearest values, be it government, business, "godless communism", or "late capitalism".
+We see this pattern in our politics, broadly.  Those shocked or victimized by abusive structures of authority, loyalty, and religion go all-in on fairness , caring, or freedom.  Exclusive focus on any of those values denies, incredibly, that authority, loyalty, and religion have anything to offer anyone but their elects.  Others come to vilify a single, identifiable font of all affront to their dearest values, be it government, business, "godless communism", or "late capitalism".
 
 All those formative experiences come from life, and all the lessons taken from them reflect genuine living, however dubious their post-hoc rationalizations.  But extremism is ugly in all its forms.  The result of no-common-denominator ideological diversity is an unworkable politics of shouting extremes.  Shouting drowns out the holistic, humble, the-world-is-complicated approaches with no clear good-versus-evil lines.  These require a lot more deliberation, but come to good results with far fewer victims.  They accept that no position will win out by exterminating or dominating contrary opinion.
 
@@ -196,3 +168,31 @@ I am no less free for relying on those people to live my life.  I am in a sense 
 My life is richer for it.  All the care, the history, the wonkishness that I put into a license, a policy, or a contract for a client, I can see in the people and work that I rely on.  I can prattle on for hours about computer keyboards, copyleft, and contract law.  When I ask my dental hygienist about the Cavitron, or the x-ray software, or what "SLS" means in toothpaste, it's clear they've made a life in dentistry, and there's a whole life to be made in there.  When I ask my barber about the differences between Korean, Vancouver, and American styles, and whether that has anything to do with all the catholic clergy coming to see him, I get an earful, in English---an extra effort for a Vietnamese boat person.
 
 I'm tempted to preach openness to these people as I know it.  There is something to that:  They may not have considered rowing that directly upstream of the rules and regulations of their work.  It's not an obvious tactic.  But they have showed me every kind of openness more generally speaking that I have ever asked for.  They gladly answer questions of nearly kind, including questions that allow me to do more for myself, without them.  Their willingness is tempered, if at all, by concern that I'll take undue risks with a novice hand, complicate their assumptions about how to serve me well, and the responsibility they'll bear for choices not entirely their own.  Even if I never intend to take over, I choose those I depend on in large part by their openness to my curiosity.  I expect clients of my law practice to choose and become comfortable with me at least in part by the same token.
+
+## Means, Ends, Justification
+
+> If you did it right you wound up with a guy that walked across the screen, in bad graphics, and then you could change it and make the guy walk across the screen in different colors.  You could just _do_ that.
+>
+> It's the greatest feeling ever.
+>
+> --- Linus Torvalds, _Just for Fun_
+
+> And then it happened ... a door opened to a world ... rushing through the phone line like heroin through an addict's veins, an electronic pulse is sent out, a refuge from the day-to-day incompetencies is sought ... a board is found.  "This is it ... this is where I belong..."  I know everyone here ... even if I've never met them, never talked to them, may never hear from them again ... I know you all ...
+>
+> --- _The Hacker Manifesto_
+
+Early software companies' secrecy and restrictions threatened hackers' freedom, empowerment, and reverence for the new interactive computing machines.  So the truest believers launched a counterattack, first as free software, now best known as open source.  That movement claims victory today.  But the widespread use of its methods---open licenses, methodologies, governance, platforms, and tools---by the same sorts of companies they were designed to resist again threatens hackers' ability to frame their hacking as contribution to a better world.
+
+A new generation of programming addicts is turning away from the figureheads, foundations, firms, and faith tenets of free and open source.  Where are they going?
+
+Some aim to reform open source pragmatics, hoping an even opener open source will cure its own ills.  Some seek to revive free software ethics out of reverence for its idealized, precommercial form.  But the lived experience of taking new ideas back to any storied old school hasn't been free-flowing collaboration, but brusque rejection and swift social condemnation.  The thick moral, technical, and political language slathered on to justify and edify free open and open development in retrospect doesn't apply prospectively to anything that might fork the game, rather than simply improve it.  The moral, technical, and political justifications "worked".  Those served by their success now see them as desirably stable dependencies, not levers of change.
+
+They were never levers of change.  Change came first.  The tools, licenses, and conventions long preceded the definitions, essays, and institutions.
+
+The lived experience of that realization teaches that open-source ideology, free-software morality, and the conflicts between them were never the question or any answer.  That's category error.  Making source open doesn't inevitably make it better.  Making software free doesn't make `git push` a virtuous act.  But believing so justifies and aggrandizes what developers want to do anyway: sling code with their fellow obsessed.  Justifying the means _is_ the end.
+
+We want to feel good about software we use, software we make, how we make it, and who we make it with.  We need morality to tell us we're good, philosophy to tell us we matter, and ideology to tell us we're right about ourselves.  But good morality, philosophy, and ideology don't come from within software.  Good morality, philosophy, and ideology aren't hobby- or industry-specific.
+
+Only the tools, techniques, and organizations of software stand on their own.  The tools, techniques, and organizations of free and open source software aren't going anywhere.  But they are only that.  Free isn't going to win out over open.  Open may be closer to winning out over free.  But this or that flavor of retroactive continuity won't change the rest of the plot.
+
+The next great leaps in method, inspiration, and productivity will build on free and open tools, techniques, and organizations as prior art.  They won't build on their ideologies, or fit on the old free-open line.  New motivations will create and validate them.  New narratives will justify their success.
