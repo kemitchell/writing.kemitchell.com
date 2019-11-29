@@ -57,7 +57,7 @@ of justice.  Casualties be damned, that Ethereum should operate
 like so many meaty, judgment-dependent institutions of yore irks
 them mightily.  As does the stampede of blockchain start-ups, often
 VC-funded, scurrying to apply breakthrough technology to more banal
-problems of banks and accounting firms handling so much money, they
+problems of banks and accounting firms handling so much money they
 can't reliably count it all.
 
 ---
