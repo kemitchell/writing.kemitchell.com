@@ -33,7 +33,7 @@ module Jekyll
       @base = base
       @dir = dir
       @posts = posts
-      @name = "#{tag}.html"
+      @name = "#{Utils.slugify(tag)}.html"
 
       process(@name)
       read_yaml(File.join(base, '_layouts'), 'tag.html')
