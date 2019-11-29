@@ -1,24 +1,23 @@
 ---
-title: Freedom Was Never Enough
-description: software freedom is not a good moral philosophy
-tags:
+title: Software in Service
+description:
 - Open Source
 - Free Software
 - Ethics
 - Politics
 ---
 
-Software companies' secrecy and restrictive terms threatened hackers' sense of freedom, empowerment, and the revolutionary promise of the new computing machines.  So the truest believers launched a countermovement, originally known as free software, now best known as open source.
+Early software companies' secrecy and restrictions threatened hackers' freedom, empowerment, and reverence for the new computing machines.  So the truest believers launched a counterattack, first known as free software, now best known as open source.  That movement claims moral victory.  But the widespread use of its methods---open licenses, methodologies, governance, platforms, and tools---by the same sorts of companies they were designed to resist now threatens many hackers' sense of contributing to a better world.
 
-Today, open source claims widespread victory.  But software firms' use and abuse of the very methods they developed---open source licenses, methods, and software---now threatens hackers' sense of contributing to a better world.  So a new generation is turning away away from the figureheads, foundations, firms, and faith tenets of free and open source.
+A new generation of programming addicts is turning away from the figureheads, foundations, firms, and faith tenets of free and open source.  Where are they going?
 
-Where are they going?
+Some aim to reform open source pragmatics, hoping that an even opener open source can cure its own ills, and industry's to boot.  Some seek to revive free software ethics out of reverence for its idealized, precommercial form.  But the lived experience of actually taking new ideas back to whatever old school hasn't been free-flowing collaboration, but quick rejection.  The thick moral, technical, and political language slathered on to justify and edify free open and open development in retrospect don't apply prospectively to anything potentially powerful enough to affect practice.  The moral, technical, and political justifications "worked".  Those served by that success now see them as desirably stable dependencies.  They were never levers of change.  Change preceded them.
 
-Some aim to reform open source pragmatics out of hope that an even opener open source will cure its own ills.  Some seek to revive free software ethics out of reverence for its idealized, precommercial form.  But many have learned from experience that open-source ideology, free-software morality, and the conflicts between them aren't the question or the answer.  They're category error.  Making source open doesn't inevitably make it better.  Making software free doesn't make `git push` a virtuous act.  Software cannot be both the source and the solution to all its own problems, much less all the problems of its making.
+The lived experience of that realization teaches that open-source ideology, free-software morality, and the conflicts between them were never the question or any answer.  That's category error.  Making source open doesn't inevitably make it better.  Making software free doesn't make `git push` a virtuous act.  But believing it does justifies and aggrandizes what developers wanted to do anyway: make programs for the computer in monastic fellowship with fellow junkies.
 
 We want to feel good about software we use, software we make, how we make it, and who we make it with.  We need morality to tell us we're right, philosophy to connect it to a greater sense of purpose, and ideology to fill the gaps.  But good morality, philosophy, and ideology don't come from within software.  Good morality, philosophy, and ideology aren't that narrow.
 
-The tools and techniques of free and open source software aren't going anywhere.  But they are only tools, prior art.  The next great leaps in production, inspiration, and productivity won't take place along the old free-open ideological line.  Free isn't going to win out over open.  Open may be closer to winning out over free, but that's the mess we find so intolerable right now.
+The tools, techniques, and organizations of free and open source software aren't going anywhere.  But they are only tools.  Free isn't going to win out over open.  Open may be closer to winning out over free.  But this or that version of retroactive continuity won't do anything to change the real story.  The next great leaps in method, inspiration, and productivity won't fit on the old free-open ideological line.  They'll be tools, techniques, and organizations, building on free and open tools, techniques, and organizations as prior art.  They'll requires whatever before-the-fact motivations they need, and attract whatever after-the-fact theorizations best suit their place and time.
 
 Software feels stuck in a hole because it has dug itself into a hole.  High on a heady mix of self-sufficiency and insularity, it has cut itself off from the world, socially, practically, and intellectually.  It has turned inward on itself for all apparent needs.  With utter predictability, it has come back wanting for everything but code.
 
