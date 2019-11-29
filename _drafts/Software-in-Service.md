@@ -7,17 +7,19 @@ description:
 - Politics
 ---
 
-Open software feels stuck in a hole because it has dug itself into a hole.  High on a heady mix of compulsiveness, self-sufficiency, and insularity, software culture has cut itself off from the broader world socially, intellectually, and practically.  It has turned inward on itself for all apparent needs.  With utter predictability, it has come back wanting for everything but code.  It has come up short on meaning.
+Open software feels stuck in a hole because it has dug itself into a hole.
+
+High on a heady mix of compulsiveness, self-sufficiency, and insularity, software culture has cut itself off from the broader world socially, intellectually, and practically.  It has turned inward on itself for all apparent needs.  With utter predictability, it has come back wanting for everything but code.  It has come up short on meaning.
 
 Scratching our own itches keeps us alone.
 
 Stroking our own egos keeps us alone.
 
-Fetishizing autonomy and recursion keeps us alone.
+Fetishizing autonomy and self-reference keeps us alone.
 
 The combination has made software---free, open, and closed---an exemplary conspiracy against the laity.  The laity is pissed.
 
-With the benefit of outside perspective, the problem is obvious, and so are the solutions.  The antidote to conspiracy is service.  The question is whether software can stop playing universal lecturer long enough to learn the discipline it needs to change itself.  The [program](#service) is well known and tested.  But we aren't yet ready to run it.
+With the benefit of outside perspective, the problem is obvious, and so are the solutions.  The antidote to conspiracy against the laity is service to the laity.  The question is whether software can stop playing everyone's tacher long enough to learn the discipline it needs to change itself.  The [program](#service) is well known and well tested.  But we aren't yet ready to run it.
 
 ## Simplicity
 
@@ -186,3 +188,7 @@ We want to feel good about software we use, software we make, how we make it, an
 Only the tools, techniques, and organizations of software stand on their own.  The tools, techniques, and organizations of free and open source software aren't going anywhere.  But they are only that.  Free isn't going to win out over open.  Open may be closer to winning out over free.  But this or that flavor of retroactive continuity won't change the rest of the plot.
 
 The next great leaps in method, inspiration, and productivity will build on free and open tools, techniques, and organizations as prior art.  They won't build on their ideologies, or fit on the old free-open line.  New motivations will create and validate them.  New narratives will justify their success.
+
+## Prologue
+
+Software was born a [monastic order](https://en.wikipedia.org/w/index.php?title=Monastic_order&redirect=no).  It fashioned itself a [missionary order](https://en.wikipedia.org/w/index.php?title=Missionary_order&redirect=no).  It is time to meet the world as a [mendicant order](https://en.wikipedia.org/w/index.php?title=Mendicant_order&redirect=no).
