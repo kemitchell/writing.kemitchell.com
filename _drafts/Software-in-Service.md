@@ -7,21 +7,45 @@ description:
 - Politics
 ---
 
-Early software companies' secrecy and restrictions threatened hackers' freedom, empowerment, and reverence for the new computing machines.  So the truest believers launched a counterattack, first known as free software, now best known as open source.  That movement claims moral victory.  But the widespread use of its methods---open licenses, methodologies, governance, platforms, and tools---by the same sorts of companies they were designed to resist now threatens many hackers' sense of contributing to a better world.
+Open software feels stuck in a hole because it has dug itself into a hole.  High on a heady mix of compulsiveness, self-sufficiency, and insularity, software culture has cut itself off from the broader world socially, intellectually, and practically.  It has turned inward on itself for all apparent needs.  With utter predictability, it has come back wanting for everything but code.  It has come up short on meaning.
+
+Scratching our own itches keeps us alone.
+
+Stroking our own egos keeps us alone.
+
+Fetishizing autonomy and recursion keeps us alone.
+
+The combination has made software---free, open, and closed---an exemplary conspiracy against the laity.  The laity is pissed.
+
+With the benefit of outside perspective, the problem is obvious, and so are the solutions.  The antidote to conspiracy is service.  The question is whether software can stop playing universal lecturer long enough to learn the discipline it needs to change itself.
+
+## Means, Ends, Justification
+
+> If you did it right you wound up with a guy that walked across the screen, in bad graphics, and then you could change it and make the guy walk across the screen in different colors.  You could just _do_ that.
+>
+> It's the greatest feeling ever.
+>
+> --- Linus Torvalds, _Just for Fun_
+
+> And then it happened ... a door opened to a world ... rushing through the phone line like heroin through an addict's veins, an electronic pulse is sent out, a refuge from the day-to-day incompetencies is sought ... a board is found.  "This is it ... this is where I belong..."  I know everyone here ... even if I've never met them, never talked to them, may never hear from them again ... I know you all ...
+>
+> --- _The Hacker Manifesto_
+
+Early software companies' secrecy and restrictions threatened hackers' freedom, empowerment, and reverence for the new interactive computing machines.  So the truest believers launched a counterattack, first as free software, now best known as open source.  That movement claims victory today.  But the widespread use of its methods---open licenses, methodologies, governance, platforms, and tools---by the same sorts of companies they were designed to resist again threatens hackers' ability to frame their hacking as contribution to a better world.
 
 A new generation of programming addicts is turning away from the figureheads, foundations, firms, and faith tenets of free and open source.  Where are they going?
 
-Some aim to reform open source pragmatics, hoping that an even opener open source can cure its own ills, and industry's to boot.  Some seek to revive free software ethics out of reverence for its idealized, precommercial form.  But the lived experience of actually taking new ideas back to whatever old school hasn't been free-flowing collaboration, but quick rejection.  The thick moral, technical, and political language slathered on to justify and edify free open and open development in retrospect don't apply prospectively to anything potentially powerful enough to affect practice.  The moral, technical, and political justifications "worked".  Those served by that success now see them as desirably stable dependencies.  They were never levers of change.  Change preceded them.
+Some aim to reform open source pragmatics, hoping an even opener open source will cure its own ills.  Some seek to revive free software ethics out of reverence for its idealized, precommercial form.  But the lived experience of taking new ideas back to any storied old school hasn't been free-flowing collaboration, but brusque rejection and swift social condemnation.  The thick moral, technical, and political language slathered on to justify and edify free open and open development in retrospect doesn't apply prospectively to anything that might fork the game, rather than simply improve it.  The moral, technical, and political justifications "worked".  Those served by their success now see them as desirably stable dependencies, not levers of change.
 
-The lived experience of that realization teaches that open-source ideology, free-software morality, and the conflicts between them were never the question or any answer.  That's category error.  Making source open doesn't inevitably make it better.  Making software free doesn't make `git push` a virtuous act.  But believing it does justifies and aggrandizes what developers wanted to do anyway: make programs for the computer in monastic fellowship with fellow junkies.
+They were never levers of change.  Change came first.  The tools, licenses, and conventions long preceded the definitions, essays, and institutions. 
 
-We want to feel good about software we use, software we make, how we make it, and who we make it with.  We need morality to tell us we're right, philosophy to connect it to a greater sense of purpose, and ideology to fill the gaps.  But good morality, philosophy, and ideology don't come from within software.  Good morality, philosophy, and ideology aren't that narrow.
+The lived experience of that realization teaches that open-source ideology, free-software morality, and the conflicts between them were never the question or any answer.  That's category error.  Making source open doesn't inevitably make it better.  Making software free doesn't make `git push` a virtuous act.  But believing so justifies and aggrandizes what developers want to do anyway: sling code with their fellow obsessed.  Justifying the means _is_ the end.
 
-The tools, techniques, and organizations of free and open source software aren't going anywhere.  But they are only tools.  Free isn't going to win out over open.  Open may be closer to winning out over free.  But this or that version of retroactive continuity won't do anything to change the real story.  The next great leaps in method, inspiration, and productivity won't fit on the old free-open ideological line.  They'll be tools, techniques, and organizations, building on free and open tools, techniques, and organizations as prior art.  They'll requires whatever before-the-fact motivations they need, and attract whatever after-the-fact theorizations best suit their place and time.
+We want to feel good about software we use, software we make, how we make it, and who we make it with.  We need morality to tell us we're good, philosophy to tell us we matter, and ideology to tell us we're right about ourselves.  But good morality, philosophy, and ideology don't come from within software.  Good morality, philosophy, and ideology aren't hobby- or industry-specific.
 
-Software feels stuck in a hole because it has dug itself into a hole.  High on a heady mix of self-sufficiency and insularity, it has cut itself off from the world, socially, practically, and intellectually.  It has turned inward on itself for all apparent needs.  With utter predictability, it has come back wanting for everything but code.
+Only the tools, techniques, and organizations of software stand on their own.  The tools, techniques, and organizations of free and open source software aren't going anywhere.  But they are only that.  Free isn't going to win out over open.  Open may be closer to winning out over free.  But this or that flavor of retroactive continuity won't change the rest of the plot.
 
-We are learning that good software comes from focus on users---the final arbiters of quality---not as a byproduct of fervor for any specific license, governance structure, or development style.  We are learning that a lasting sense of greater purpose comes from working with, and serving, users others than ourselves and our kind.  We are learning that a greater sense of right and wrong is a better sense of right and wrong, that we must bring our purpose and philosophy from outside software within it, rather than treating software as a moral or political island, or pretending that software has everything to teach and nothing to learn.  We are learning that we can collaborate to express and improve our ethics, in addition to our code.
+The next great leaps in method, inspiration, and productivity will build on free and open tools, techniques, and organizations as prior art.  They won't build on their ideologies, or fit on the old free-open line.  New motivations will create and validate them.  New narratives will justify their success.
 
 ## Simplicity
 
