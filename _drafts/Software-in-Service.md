@@ -1,6 +1,7 @@
 ---
 title: Software in Service
 description: hacking needs to go play outside
+tags:
 - Open Source
 - Free Software
 - Ethics
