@@ -112,17 +112,17 @@ They did not.  Except in the views of others similarly seduced to self-aggrandiz
 
 A glancing comparison to nearly any other source of moral teaching available to me would have revealed how simplistic that line of thinking was.  Moral philosophy remains messy, frustrating, and humbling, like engineering, medicine, social work, and any other discipline in the muck and mire of reality.  Moral codes come riddled with exceptions, littered with factors to weigh and balance.  Software freedom asks little, delivers clarity, feels great, and promises empowerment.  It boils down to one long boolean `AND` predicate:  Do you have all the freedoms, or not?
 
-Too good to be true is easy to spot, unless it's too good for _you_.  Software freedom was very good to me.  It _felt_ better, even though it was worse.  But I wasn't accountable to anyone, except to myself, so feelings won out.  Until the reality checks.  Lots of them.
+Too good to be true is easy to spot, unless it's too good for _you_.  Software freedom was very good to me.  It _felt_ better, even though it was worse.  But I wasn't accountable to anyone, except to myself, so my feelings won out over any kind of consistency.  Until the reality checks.  Lots of them.
 
-Useful facts are welcome, and exaggerated.  Contrary facts are not.  When software-freedom absolutism indirectly facilitates a good outcome in any other dimension, true believers happily credit their cause.  Given absolute freedom, they tell us to expect much good to follow.  But when software freedom takes a toll, the faithful blame the victim or write them off as collateral damage.  You shouldn't have done open source ... like we told you to.  You didn't do it open enough ... my way.  You didn't do it for the right reasons ... my reasons.  You didn't use the right tools ... my tools.
+Enabling facts are welcome.  Inconvenient facts are not.  When software-freedom absolutism indirectly facilitates a good outcome in any other dimension, true believers happily credit their cause.  Given absolute freedom, they tell us to expect much good to follow.  But when software freedom takes a toll, the faithful blame the victim or write them off as collateral damage.  You shouldn't have made it open source ... like we told you to.  You didn't do it open enough ... my way.  You didn't do it for the right reasons ... my reasons.  You didn't use the right tools ... my tools.
 
-At one point or another, I've brandished all these too-convenient criticisms.  I was defending myself more than criticizing the other, but still very much at their expense.
+At one point or another, I've brandished all these too-convenient comments.  I was reassuring myself more than criticizing the other, but still very much at their expense.
 
 Just as computer programming reduces complex problems down to computable approximations, ethical conversations trapped within software, which only step outside to grab glittering generalities like "freedom" and "community", derive a neatly computable ethics for a bad approximation of life.  Just as software reductionism looses well-intentioned, malign systems on the world, moral reductionism makes wanton moral automata of otherwise capable consciences, blinkered or indifferent to predictable consequences.  When good theory starts from bad assumptions, applying that theory on the world, or forcing the world to fit it, incurs causalities.
 
 Trading completeness and gritty realism for expedience and clean clarity often means trading hard decisions and balanced outcomes for easy decisions and predictable carnage.  "It depends" is often correct, but never pleasant to hear.  But the comfort of sound theory, of easy certainty, so easily becomes the surest sign of truth, and therefore virtue.  Programmers will reduce rightness to Turing-esque, deductive, boolean reasoning---freedom or no freedom---because we select for the story that pleases us most, not the one that pleases those on the receiving end.
 
-Until you cross the line from open source taker to open source maker.  Until you realize you'll be subject to the decisions of others more often than they'll be subject to yours.  Until you face your dependence and your interdependence, master of computing though you otherwise may be.
+Until you cross the line from open source taker to open source maker.  Until you realize you'll be subject to the decisions of others more often than they'll be subject to yours.  Until you face your dependence and your interdependence, master of computing though you may be.
 
 ## Revolution, Reacting
 
@@ -130,19 +130,19 @@ Until you cross the line from open source taker to open source maker.  Until you
 >
 > --- Steven Levy, _Hackers_
 
-Those who feel victimized by others go readily all-in on the values---liberty, care, fairness, and so on---denied to them.  That exclusive focus implicitly denies that other values protect anyone but victimizers and their cronies.  In time, after much doubling down, that denial becomes explicit.
+Those who feel victimized by others go readily all-in on the values---liberty, care, fairness, and so on---denied to them.  That exclusive focus implicitly denies that other values protect anyone but the villains and their cronies.  In time, after much doubling down, that denial becomes explicit.
 
 Often the process manifests as vilification of a single, identifiable font of all affront, be it government, business, "godless communism", or "late capitalism".  The variously aggrieved may unite not around the particular values they expound, but the symbolic villains they blame.
 
-All these mindsets come from life, and all the lessons informing them come from experience.  But extremism is ugly in all its forms.  No-common-denominator specialization in values yields an unworkable politics of reciprocal, exhibitionist shouting, cathartic until the other tribe yells back, shattering the fantasy of decisive, total domination.  Meanwhile, all that warfare easily drowns out any holistic, humble, the-world-is-complicated seekers drawing no sharp good-versus-evil lines, who require far more sensitive deliberation but incur far less collateral damage.  Nuance hasn't any place in the cycle.
+All these mindsets come from life, and all the lessons informing them come from experience.  But extremism is ugly in all its forms.  No-common-denominator specialization in values yields an unworkable politics of reciprocal, exhibitionist shouting, cathartic until the other tribe yells back, shattering the fantasy of decisive, total domination, kickstarting the cycle anew.  Meanwhile, all the noise easily drowns out any holistic, humble, the-world-is-complicated seekers drawing no sharp good-versus-evil lines, who require far more sensitive deliberation but incur far less collateral damage.  There's no air left for nuance.
 
-Software freedom obsession naturally results from software freedom impingement.  With the right (or wrong) reinforcement, it can readily outstrip its original stimulus.  Vilification of a symbol---IBM, Oracle, industry generally---naturally follows.
+Software freedom obsession naturally results from software freedom impingement.  With the right (or wrong) reinforcement, it can readily outstrip its original stimulus.  Vilification of a symbol---IBM, Oracle, industry generally---readily follows.
 
-That doesn't making the obsessed or the vilifying fools.  Not by any means.  But intuitions shift.  Without deep social discourse and time, intellect can only mollify those instincts.  Those conditioned to bristle at "no" for an answer to any question about software will bristle, whether they reason themselves down from there or not.
+That doesn't make the obsessed or the vilifying fools.  It makes them human.  But human intuitions shift with experience.  Without deep social discourse and lots of time, intellect can at best mollify instinct.  Those conditioned to bristle at "no" for answer to any question about software will bristle, whether they reason themselves down from there or not.
 
-We have heard a lot of shouting wars in free and open software.  Having another tribe to yell at has been essential for both.  Making tribes _within_ the culture online proved far more self-sufficient and self-satisfying than taking on industry through traditional media.  But all that shouting has largely drowned out those attempting to bring moralities and ideologies from without software within it.
+We have heard a lot of shouting in free and open software politics.  Having another tribe to yell at has been defining for both.  Bringing that opposition _within_ the culture online proved far more self-sustaining, interactive, and compelling than taking on industry through traditional media.  But all that shouting has largely drowned out those attempting to bring comparatively robust moralities and ideologies from without software within it.
 
-Software wanted its ego stroked with a higher sense of purpose.  As it turns out, the easiest way for software to get its ego stroke was to do its own stroking.  A sense of higher purpose was easy when software philosophy exalted every release under the right form license, with no expectation of or mechanism for accountable end-user feedback, as a charitable or revolutionary act.  But as a greater number of programmers ventured outside and reported back on the unintentional, negative effects of software on society, that satisfaction got harder and harder to defend, leaving those without outside connections at a loss for greater purpose.
+Software wanted its ego stroked with a higher sense of purpose.  As it turns out, the easiest way is to do its own stroking.  Gratification was easy when software philosophy exalted every release under the right form license, with no expectation of or mechanism for accountable end-user feedback, as a charitable or revolutionary act.  But as a greater number of programmers ventured outside and reported back on the unintentional, negative effects of software on society, that satisfaction got harder and harder to defend.
 
 This phenomenon was not contained to theory and politics.
 
@@ -154,41 +154,41 @@ This phenomenon was not contained to theory and politics.
 
 > Every good work of software starts by scratching a developer's personal itch.
 >
-> --- Eric Raymond, [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html), 1992
+> --- Eric Raymond, [_The Cathedral and the Bazaar_](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s02.html)
 
-Writing software for yourself bypasses all the hardest parts of software development and design.  That can and does produce good software, but at a terrible price: reinforcing the programmer's personal isolation and the insularity of programming overall.
+Writing software for yourself and others like you bypasses all the hardest parts of software development and design.  That can and does produce good software, but at a terrible price: reinforcing personal isolation and the insularity of programming overall.
 
-Developing development tools for other developers produces a pretty nice toolkit.  But it flexes none of the necessary muscles for wielding those tools against the really hard problems facing programming: understanding people who can't program computers and meeting their needs.
+Developing development tools for other developers yields a pretty nice toolkit, or at least a large and very full one.  But it flexes none of the necessary muscles for wielding those tools against the really hard problems facing programming: understanding people who can't program computers and meeting their needs.
 
 Eliciting requirements and feedback isn't necessary when the requirements and feedback are your own.  Accountability happens involuntarily.  So communication atrophies to the acerbic, confrontational engineering tone software is so known for.
 
 Ensuring your work actually addresses a significant user need happens ipso facto when you satisfy yourself.  So a thousand web frameworks bloomed while encryption remained impractical for the average Jane or Joe.
 
-Learning and leveraging new platforms, venues, and communication styles doesn't happen when you pick your platform, venue, and communication style of first choice over and over again.  GitHub hasn't taken off as a general-purpose collaboration tool outside software, and the more software-specific features it piles, the more it feels niched.
+Learning and leveraging new platforms, venues, and communication styles doesn't happen when you pick your platform, venue, and communication style of first choice over and over again.  GitHub hasn't taken off as a general-purpose collaboration tool outside software, and the more software-specific features it piles on, the more niched it feels.
 
-Historically, the prerequisites for programming addiction correlated tightly with a number of specific social and demographic factors.  So communing with others addicted to programming often means communing with others very similar in other ways.  The result is a culture riding the edge of monoculture.  Monocultures are often highly productive ... until they're utterly compromised.
+Access to programming at an early age, and therefore programming addiction, correlate tightly with a number of specific social and demographic factors.  So communing with others addicted to programming often means communing with others very similar in other ways.  The result is a community riding the edge of monoculture.  Monocultures are often highly productive ... until they're utterly compromised at one stroke.
 
 ## Conspiracy, Identifying
 
-There's nothing inherently wrong with itch scratching projects, with projects whose users happen to be programmers, or with projects under permissive licenses doing wholly indeterminate good.  But there is less individually good about them than we've given ourselves credit for, and cause for concern about their effects in the aggregate.  When we understand how our individual works aggregate, we become responsible for our contributions to the effect overall.
+> People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices.
+>
+> --- Adam Smith, _The Wealth of Nations_
 
-One of those effects has been a large, growing, and increasingly formalized inequality between programmers and non-programmers.  Software developers expect, even loudly demand, that tools to their taste be free, and not just as in freedom.  As a group, they pillory peers who dare to undermine that norm with requests for payment or even lower-friction surrogates, like ads.  In other words, developers abhor in the developer-software market what they routinely demand in the market for software for everyone else.  Collegiality in the guild, commerce in the market.
+There's nothing inherently wrong with itch scratching projects, with projects whose users happen to be programmers, or with projects under permissive licenses doing wholly indeterminate good.  But there is less individually good about them than we've given ourselves credit for, and strong cause for concern about their effects overall.  When we understand how our individual works aggregate, we become responsible for our contribution.
+
+One of those effects has been a large, growing, and increasingly formalized inequality between programmers and non-programmers.  Software developers expect, even loudly demand, that tools to their taste be free, beer and freedom.  As a group, they pillory peers who dare to undermine that norm with requests for payment or even lower-friction substitutes, like ads.  In other words, developers abhor in the developer-software market what they routinely demand in consumer-software and enterprise-software markets for everyone else.  Collegiality in the guild hall, bruising commercialism outside.
 
 We see similar patterns in terms besides compensation.  Copyleft is begrudgingly tolerated, politically if not operationally, in open software at large.  Until it threatens to cross the community-industry barrier.  Popular projects under once-strong copyleft terms, such as Linux and GCC, come with specially drafted legal exceptions designed to exempt applications built with from sharing alike.  Licenses beefing up copyleft to cover the primary use cases of dev tools aren't receive a heretic's welcome.
 
 These phenomenon aren't lost on outside commentators.
 
-As Adam Smith famously wrote:
-
-> People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices.
-
-If he'd mentioned lowering costs or raising margins, and not just raising prices, he'd have covered open source and the software industry, as most software users see it today.  Whether individuals _intend_ to conspire, the effect is the same.  Lots of open collaboration among coders, but no such welcome for anyone else.  Lots of free software that coders can use, but not much software for others without big strings attached.
+If Adam Smith had mentioned lowering costs or raising margins, and not just raising prices, he'd have covered open source and the software industry as most of the software dependent see it today.  Whether developers _intend_ to conspire, the effect is the same.  Lots of open collaboration among coders, but no such welcome for anyone else.  Lots of free software that coders can use, but not much software for others without big strings attached.
 
 ## Service, Inviting
 
 > When masturbation's lost its fun, you're fucking lonely.
 >
-> --- Green Day, ["Longview"](https://www.youtube.com/watch?v=42BBdzzgPNM), 1994
+> --- Green Day, ["Longview"](https://www.youtube.com/watch?v=42BBdzzgPNM)
 
 The opposite of conspiracy is service.  The antidote to anomie is connection.  If you feel isolated, reach out.  If you're ready to serve, rather than lecture or preach, you'll be welcomed by the kind of people you want to work with.  Computer programmers are, after all, pretty useful.
 
@@ -204,7 +204,7 @@ The difficulty of those skills makes them valuable.  Getting started takes disci
 
 Only the tools, techniques, memes, and organizations of software stand on their own.  The tools, techniques, memes, and organizations of free and open source software aren't going anywhere.  But they are only just that.  Free isn't going to win out over open.  The closer open gets to winning out over free, the more free spirit comes out of hibernation.  But this or that flavor of retroactive continuity won't change the plot already laid down.  It won't change the tools.
 
-The next great leaps in method, inspiration, and productivity will build on free and open tools, techniques, memes, and organizations as prior art.  They won't build on their post hoc ideologies, or fit on the free-open line.  New stories will motivate them.  New narratives will justify those that succeed.
+The next great leaps in method, inspiration, and productivity will build on free and open tools, techniques, memes, and organizations as prior art.  They won't build on their post hoc ideologies, or fit on the free-open line.  New stories will motivate them.  New narratives will justify them.
 
 My thrust here is general, but it's easy to make concrete.  Here is my personal plan.
 
@@ -225,6 +225,8 @@ _Praise_:  I am making a point to praise peers that I see actively and accountab
 >  Freedom means having control over your own life.  If you use a program to carry out activities in your life, your freedom depends on your having control over the program.  You deserve to have control over the programs you use, and all the more so when you use them for something important in your life.
 >
 > --- Richard Stallman, [_Free Software is Even More Important Now_](https://www.gnu.org/philosophy/free-software-even-more-important.html)
+
+What does it mean to accept that others will depend on you, and that you will be directly accountable in close collaboration with them?
 
 Reading through the theorizations of free software and open source, it's easy to trace a missing thread:  Everybody was going to be a programmer.  Everybody was going to want to be.  After all, in the early days, there was no running programs without entering the sanctum of the computer lab.
 
