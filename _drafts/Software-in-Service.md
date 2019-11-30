@@ -7,17 +7,13 @@ description:
 - Politics
 ---
 
-Open software feels stuck in a hole because it has dug itself into a hole.  High on a heady mix of compulsiveness, self-sufficiency, and insularity, software culture has cut itself off from the broader world socially, intellectually, and practically.  It has turned inward on itself for all apparent needs.  With utter predictability, it has come back wanting for everything but code.  It has come up short on meaning.
+Open software feels stuck in a hole because it has dug itself into a hole.  High on a heady mix of compulsion, self-sufficiency, and detachment, software has set itself off from the broader world socially, intellectually, and practically.  It has turned inward on itself for all apparent needs, and predictably come up short of nearly everything but code.  It has come up short of meaning.
 
-Scratching our own itches keeps us alone.
+Scratching our own itches keeps us alone.  Stroking our own egos keeps us alone.  Fetishizing autonomy and self-reference keeps us alone.  The combination has made software---free, open, and closed---an exemplary conspiracy against the laity.  And the laity is pissed.
 
-Stroking our own egos keeps us alone.
+With a little outside perspective, the problem is obvious, and so are the solutions.  The antidote to conspiracy is service.  Service that takes coders out of software land, and non-coders into it.  That cannot happen without changing software.
 
-Fetishizing autonomy and self-reference keeps us alone.
-
-The combination has made software---free, open, and closed---an exemplary conspiracy against the laity.  The laity is pissed.
-
-With the benefit of outside perspective, the problem is obvious, and so are the solutions.  The antidote to conspiracy against the laity is service to the laity.  The question is whether software can stop playing everyone's teacher long enough to learn the discipline it needs to change itself.  The [program](#service) is well known and well tested.  But we aren't yet ready to run it.
+The question is isn't what to do, but whether software can stop lecturing the rest of society long enough to learn the discipline it needs.  Discipline is what we lack, a fact we are very naturally reluctant to see.
 
 ## Simplicity, Suspecting
 
@@ -29,71 +25,85 @@ With the benefit of outside perspective, the problem is obvious, and so are the 
 >
 > --- Eric Raymond, [_Evaluating the Harm from Closed Source_](http://esr.ibiblio.org/?p=4371)
 
-Ordinary life is pretty complex stuff.  When someone promises to make ethics simple, experience should make us all skeptical.  The guru may be gaining more from the title of moral philosopher than they contribute to right living, or even good theory.
+Ordinary life is pretty complex stuff.  When someone promises to make ethics simple, experience should make us skeptical.  The guru may be gaining more from the title than they contribute to right living, or even good theory.
 
 That has been free and open source software ideology in my lifetime.  Its proponents donned ethical, philosophical, economic, even religious vestments from early on.  But both honest analysis and common experience lay those pretensions bare.
 
-Free and open source ideology oversimplifies hard ethical problems by reducing them to a single domain, software, and a single variable, software freedom.  We're all born free to compute as we please.  Neither computer programmers nor computer companies deserve to impinge.  If they uniformly didn't, life would be swell.
+Pervasive free and open source ideology oversimplifies hard ethical problems by reducing them to a single domain, software, and a single variable, freedom, hence "software freedom".  We're all born free to compute as we please.  Neither computer programmers nor computer companies deserve to impinge.  If they uniformly didn't, life would be swell.
 
-Almost no one's real-world morality boils down to "Can folks do what they wanna?" and a broad expectation that what they'll wanna do will be great.  What's right just isn't so black-and-white.
-
-Almost no one's real-world politics boils down to "Do folks have an absolute right to _X_?", where _X_ is speech, assembly, religion, guns, contract, conscience, and so on.  Justice just isn't so black-and-white.
+Almost no one's real-world morality boils down to "Can folks do what they wanna?"  What's right just isn't so black-and-white.  Almost no one's real-world experience exalts mankind as saints sadly constrained by circumstance.  People just aren't so simple.  Almost no one's real-world politics boils down to "Do folks have an absolute right to _X_?", where _X_ is speech, assembly, religion, guns, contract, conscience, or the like.  Justice just isn't so straightforward.
 
 ## Appeal, Explaining
 
-I personally accepted delusions of ethical grandeur and loose use of weighty words like "philosophy" because they imbued my personal choices about software, well within my control, even in childhood, with outsize meaning and importance.  They enabled me to believe that my use of a strangely written form copyright license, or even my taste in other peoples' software, amounted to countercultural, charitable, even revolutionary acts.  They did not.  Except in the view of others similarly seduced to self-aggrandizement.
+> If you think moral reasoning is something we do to figure out the truth, you'll be constantly frustrated by how foolish, biased, and illogical people become when they disagree with you.  But if you think about moral reasoning as a skill we humans evolved to further our social agendas---to justify our own actions and to defend the teams we belong to---then things will make a lot more sense.  Keep your eye on the intuitions, and don't take people's moral arguments at face value.  They are mostly post hoc constructions made up on the fly, crafted to advance one or more strategic objectives.
+>
+> --- Jonathan Haidt, _The Righteous Mind_
 
-A glancing comparison to nearly any other source of moral teaching available to me at the time would have revealed how simplistic that line of thinking was.  Real moral philosophy remains messy, frustrating, and humbling, like real engineering, real medicine, real social work, and any other discipline that gets dirty in reality.  Real moral codes come riddled with exceptions, littered with factors to weigh and balance.  Software freedom asks little, delivers clarity, feels great, and promises empowerment.  Software freedom analysis boils down to one long boolean `AND` predicate.  Is it all the kinds of free?
+I personally accepted delusions of ethical grandeur and loose use of weighty words like "philosophy" because they imbued my personal choices about software, well within my control, even in childhood, with outsize meaning and importance.  They enabled me to believe that my use of a copyright license, or even my taste in other peoples' software, amounted to countercultural, charitable, even revolutionary acts.
 
-Too good to be true is easy to spot, unless it's too good for _you_.  Then it's damn near impossible.  Software freedom was very good to me.  It _felt_ better, even though it was worse.
+They did not.  Except in the view of others similarly seduced to self-exaltation.
 
-I care for those near to me.  I value loyalty, respect, and fairness.  I cherish connections to higher meanings and purposes.  I seek a balance of those concerns and personal liberty when they conflict, as they often do.  As more people and companies get involved in open source, values conflicts are getting harder to miss.
+A glancing comparison to nearly any other source of moral teaching available to me would have revealed how simplistic that line of thinking was.  Moral philosophy remains messy, frustrating, and humbling, like engineering, medicine, social work, and any other discipline accountable to the muck and mire of reality.  Moral codes come riddled with exceptions, littered with factors to weigh and balance.  Software freedom asks little, delivers clarity, feels great, and promises empowerment.  It boils down to one long boolean `AND` predicate:  Do you have all the freedoms on the list?
+
+Too good to be true is easy to spot, unless it's too good for _you_.  Then it's damn near impossible.  Software freedom was very good to me.  It _felt_ better, even though it was worse.  But I wasn't accountable to anyone, except to myself, so feelings won out.  Until the reality checks came.
 
 ## Horribles, Parading
 
+I care for those near to me.  I value loyalty, respect, and fairness.  I cherish connections to higher meanings and purposes.  I seek a balance of those concerns and personal liberty when they conflict, as they often do.  As more people and companies get involved in open source, values conflicts are getting harder to miss.
+
 The path to this realization is well trodden, and increasingly well observed.
 
-I've seen black-and-white software freedom encourage disregard, devaluation, and abuse of people who make software.  I've seen developers browbeaten into slapping permissive licenses on their work not for their benefit, or for any concrete greater good, but for the benefit of those beating their brows.  I've seen bug reports demanding features and fixes gush entitlement … and nary a drop of gratitude.
+I've seen black-and-white software freedom stoke disregard, devaluation, and abuse of people who make software.  I've seen developers browbeaten into slapping licenses on their work not for their benefit, or for any concrete greater good, but for the benefit of those beating brow.  I've seen bug reports demanding features and fixes gush entitlement … and nary a drop of gratitude.
 
-All of that is profoundly mean.  Blindly maximizing software freedom, privileging one set of people over another because they are users, compromises basic human care.  Nobody wants to contribute to a movement that abuses them.
+All of that is profoundly mean.  Blindly maximizing software freedom, privileging one set of people over another because they are users, compromises basic human care.  Nobody wants to join a movement that fills their life with abuse.
 
-I've seen black-and-white software freedom birth successive generations of dominant firms---O'Reilly, Red Hat, Amazon---adept at reaping projects they did not sow, at the expense of their creators, and leveraging their positions to redefine free and open.  I've seen developers sacrifice to keep pace with growing projects, only to be outdone by runaway incumbents wherever they turned for a buck: documentation, support, training, consulting, hosting, even swag.  I've seen those incumbents work, consciously and by Darwinian selection, to trumpet the freedoms that play to their advantages, elide the freedoms that level them, and expand the meaning of "open" to the same strategic effect.
+I've seen black-and-white software freedom birth successive generations of dominant firms---O'Reilly, Red Hat, Amazon---adept at reaping value in projects they did not sow.  I've seen developers sacrifice to keep pace with growing projects, only to be outdone by runaway incumbents wherever they turned for a buck: documentation, support, training, consulting, hosting, even swag.  I've seen those firms work, consciously and by competitive pressure, to trumpet the freedoms that play to their advantages, elide the freedoms that level them, and expand the meaning of "free" and "open" to the same self-serving effect.
 
 All of that is profoundly unfair.  Blindly maximizing software freedom, and gaming what freedom means, compromises essential fairness.  Nobody wants to play a game stacked against them.
 
-I've seen black-and-white software freedom enable powerful user-come-latelys to undermine the leadership of long-serving creators and maintainers. I've seen burned out developers booted from leadership positions by fresh newcomers waiting in the wings, marginalized and threatened with hostile forks from consortia of household names, and cloned into obscurity by hirelings making bank while the original developers flailed.  I've seen the norm of credit fall from expected condition to broadly ignored chore to "proprietary" mortal sin.
+I've seen black-and-white software freedom enable powerful user-come-latelys to undermine the leadership of long-serving creators and maintainers. I've seen burned out developers replaced by fresh newcomers waiting in the wings, marginalized and threatened with hostile forks from consortia of household names, and cloned into obscurity by hirelings making bank while the original developers flailed.  I've seen the norm of credit for developers behind projects fall from expected condition to broadly ignored chore to "proprietary" mortal sin.
 
-All of this is profoundly disrespectful, and often disloyal.  Blindly maximizing freedom compromises respect and authority.  Nobody wants to join a community as disposable human sacrifice.
+All of this is profoundly disrespectful and often more intimately disloyal.  Blindly maximizing freedom compromises respect and authority.  Nobody wants to join a community as disposable human sacrifice.
 
-I've seen black-and-white software freedom enable takers to turn makers' work against the very things that inspired them in the first place.  I've seen web tech turned into ad tech, computer vision into surveillance, and cryptographic systems into boiler-room scams.  I've seen it all compiled, debugged, and deployed using share-alike tools without a single new line of free source code to show for it.
+I've seen black-and-white software freedom enable takers to turn makers' work against the very things that inspired them in the first place.  I've seen web tech turned into ad tech, computer vision into surveillance, and cryptosystems into boiler-room scams.  I've seen it all compiled, debugged, and deployed using share-alike tools without a single new line of free source code to show for it.
 
-All of this saps developers' sense of nobility in service.  Blindly maximizing freedoms compromises purpose.  Nobody wants to do free work for the baddies.
+All of this saps developers' sense of pride in workmanship and nobility in service.  Blindly maximizing freedoms compromises purpose.  Nobody wants to do free work for the baddies, or to pour their effort into a thankless void.
 
-This is the interdependence of values in action.  When the only value we measure is freedom, freedom expands to fill all available space, choking loyalty, respect, fairness, purpose, even basic human decency.  Those are the consequences of placing any single value above all others.  We are approaching a local maximum in freedom within software, and sinking everywhere else.  Free and open source software demonstrate the costs of that absolutism as well as its benefits.
+This is the interdependence of values in action.  When the only value we measure is freedom, freedom expands to fill all available space, choking loyalty, respect, fairness, purpose, and even basic human decency.  Those are the consequences of placing any single value above all others.  Free and open praxis demonstrate the costs of that absolutism as well as the benefits.
 
 ## Egos, Stroking
 
-I parade horribles not to paint a one-sided picture of free or open software.  I've written at length on how "open" writ large has improved my life and the lives of others.  It still does.
+I don't parade these horribles to paint a one-sided picture of free or open source software.  I've written at length on how "open" writ large has improved my life and the lives of others.  It still does.
 
-Well worn narratives extol those benefits of free and open source.  As memes, they compete effectively in large part by eliding the costs.  So we're left to recount the costs anecdotally, however common our experience of them may be.
+Well worn narratives extol the benefits of free and open source software.  As memes, those narratives compete effectively in part by eliding all mention of the costs.  So we're left to recount those costs anecdotally, unsystematically, however common our experience of them may be.
 
-Putting both costs and benefits on the table, stripped of all narrative gloss, presents a stark choice:  Do we write off the costs for the benefits?  Do we ignore the benefits in light of the costs?  Or do we try to weigh and balance?  If we weigh and balance, how?  Who does our decision benefit?
+Putting both costs and benefits on a flat playing field, stripped of all narrative gloss, presents a stark choice:  Do we write off the costs for the benefits?  Do we ignore the benefits in light of the costs?  Or do we try to weigh and balance?  If we weigh and balance, how?  Who will benefit by our decision?
 
-When software-freedom absolutism indirectly facilitates a good outcome in any other dimension, true believers happily credit their cause.  Given absolute freedom, they promise other goods to follow.  But when software freedom takes a toll, the faithful blame the victim or write them off as collateral damage.  You shouldn't have done open source ... like we told you to.  You didn't do it open enough ... my way.  You didn't do it for the right reasons ... my reasons.  You didn't use the right tools ... my tools.  At one point or another, I've wielded all these too-convenient criticisms.
+When software-freedom absolutism indirectly facilitates a good outcome in any other dimension, true believers happily credit their cause.  Given absolute freedom, they tell us to expect other goods to follow.  But when software freedom takes a toll, the faithful blame the victim or write them off as collateral damage.  You shouldn't have done open source ... like we told you to.  You didn't do it open enough ... my way.  You didn't do it for the right reasons ... my reasons.  You didn't use the right tools ... my tools.
 
-Just as computer programming reduces complex problems down to computable approximations for the sake of efficiency, ethical conversations trapped within software, which only step outside it to grab glittering generalities like "freedom" and "community", derive a neatly computable ethics for a bad approximation of life.  Just as software reductionism looses well-intentioned, predictably malign systems on the world, moral reductionism makes wanton moral automata of otherwise capable consciences, blinkered or indifferent to predictable consequences.  When good theory starts from bad assumptions, applying that theory on the world, or forcing the world to fit it, incurs causalities.
+At one point or another, I've brandished all these too-convenient criticisms.
 
-Trading completeness and gritty realism for expedience and clean clarity often means trading hard decisions and balanced outcomes for easy decisions and predictable mistakes.  The comfort of sound theory, of easy certainty, becomes the surest sign of truth, and therefore virtue.  "It depends" is correct, but not pleasant to hear.  Correctness _must_ be reduced to Turing-esque, deductive, boolean reasoning---freedom or no freedom---because acclaim selects for the doctrine that pleases the audience---the ones computing the moral answers---and not those subjected to the conclusions.
+Just as computer programming reduces complex problems down to computable approximations for efficiency, ethical conversations trapped within software, which only step outside it to grab glittering generalities like "freedom" and "community", derive a neatly computable ethics for a bad approximation of life.  Just as software reductionism looses well-intentioned, predictably malign systems on the world, moral reductionism makes wanton moral automata of otherwise capable consciences, blinkered or indifferent to predictable consequences.  When good theory starts from bad assumptions, applying that theory on the world, or forcing the world to fit it, incurs causalities.
 
-Until you realize you'll be subject to the decisions of others more often than they'll be subject to yours.  Until you face your interdependence, master of commuting though you may be.
+Trading completeness and gritty realism for expedience and clean clarity often means trading hard decisions and balanced outcomes for easy decisions and predictable carnage.  "It depends" is often correct, but never pleasant to hear.  But the comfort of sound theory, of easy certainty, so easily becomes the surest sign of truth, and therefore virtue.  Rightness _must_ be reduced to Turing-esque, deductive, boolean reasoning---freedom or no freedom---because we select for the doctrine that pleases us---the ones computing the moral answers---and not those subjected to our conclusions.
 
-## Reactionary, Revolutionary
+Until you cross the line from open source taker to open source maker.  Until you realize you'll be subject to the decisions of others more often than they'll be subject to yours.  Until you face your dependence and interdependence, master of computing though you may be.
 
-We see this pattern throughout our politics.  Those who feel victimized by others go readily all-in on the values---liberty, care, fairness, and so on---that they feel were denied to them.  That exclusive focus denies, implicitly and often explicitly, that other values protect anyone but their entrenched elects.
+## Revolution, Reacting
 
-Often this reductionism manifests as vilification of a single, identifiable font of all affront, be it government, business, "godless communism", or "late capitalism".  The differently aggrieved may unite not around the particular values they expound, but the symbolic villains they blame.
+Those who feel victimized by others go readily all-in on the values---liberty, care, fairness, and so on---denied to them.  That exclusive focus implicitly denies that other values protect anyone but victimizers and their cronies.  In time, after much doubling down, that denial becomes explicit.
 
-All these postures come from life, and all the lessons informing them come from genuine experience.  But extremism is ugly in all its forms.  No-common-denominator specialization in values yields an unworkable politics of reciprocal, exhibitionism shouting, cathartic for the tribe doing the shouting until the other tribe yells back, shattering the momentary fantasy of decisive domination.  Meanwhile, all the shouting drowns out the holistic, humble, the-world-is-complicated seekers drawing no sharp good-versus-evil lines, who require far more sensitive deliberation, but incur far less collateral damage.
+Often the process manifests as vilification of a single, identifiable font of all affront, be it government, business, "godless communism", or "late capitalism".  The variously aggrieved may unite not around the particular values they expound, but the symbolic villains they blame.
+
+All these mindsets come from life, and all the lessons informing them come from experience.  But extremism is ugly in all its forms.  No-common-denominator specialization in values yields an unworkable politics of reciprocal, exhibitionist shouting, cathartic until the other tribe yells back, shattering the fantasy of decisive, total domination.  Meanwhile, all that shouting energy easily drowns out any holistic, humble, the-world-is-complicated seekers drawing no sharp good-versus-evil lines, who require far more sensitive deliberation but incur far less collateral damage.  Nuance hasn't any place in the cycle.
+
+Software freedom obsession naturally results from software freedom impingement.  With the right (or wrong) reinforcement, it can readily oustrip its original stimulus.  Vilification of a symbol---IBM, Oracle, industry generally---naturally follows.
+
+That doesn't making the obsessed or the vilifying fools.  Not by any means.  But intuitions shift.  Without deep social discourse and time, intellect can only mollify those instincts.  Those conditioned to bristle at "no" for an answer to any question about software will bristle, whether they reason themselves down from there or not.
+
+We have heard a lot of value shouting in free and open software.  Having another tribe to yell at has been essential for both.  Making tribes _within_ the culture online proved far more self-sufficient and self-satisfying than taking on industry through traditional media.  But all that shouting has largely drowned out those attempting to bring moralities and ideologies from without software within it.
+
+Software wanted its ego stroked with a higher sense of purpose.  As it turns out, the easiest way for software to stroke its ego was to stroke it for itself.  That pattern is not just in evidence, it has been self-consciously encouraged.  And not just in the dimension of edifying theory.
 
 ## Itches, Scratching
 
