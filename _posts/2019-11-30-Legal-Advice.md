@@ -30,4 +30,4 @@ People desperately need good legal information.  When I make some available, I t
 
 This is much longer than "this isn't legal advice".  I suppose I could cut it down.  But I'm not really concerned.  Four sentences people can understand and act on are worth something.  Four words they can't are wasted, or worse.
 
-The better you know your law, the less all this matters.  The more work on describing that law without fancy words or legalese, the less all this matters still.  But law is hard, and transparency is important.  We can't be lazy on either count.
+The better you know your law, the less all this matters.  The more you work on describing that law without fancy words or legalese, the less all this matters still.  But law is hard, and transparency is important.  We can't be lazy on either count.
