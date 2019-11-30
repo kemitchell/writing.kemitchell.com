@@ -15,7 +15,7 @@ With a little outside perspective, the problem is obvious, and so are the soluti
 
 The question is isn't what to do, but whether software can get out more, stop lecturing the rest of society when it does, and learn the discipline it needs to reintegrate into the world, rather than further secede from it.  But who wants discipline when they can't see a problem?
 
-## Simplicity, Suspecting
+<h2 id="simplicity">Simplicity, Suspecting</h2>
 
 > While we can distinguish various nonfree distribution schemes in terms of how far they fall short of being free, we consider them all equally unethical.
 >
@@ -33,7 +33,7 @@ Pervasive free and open source ideology oversimplifies hard ethical problems by 
 
 Almost no one's real-world morality boils down to "Can folks do what they wanna?"  What's right just isn't so black-and-white.  Almost no one's real-world experience exalts mankind as saints sadly constrained by circumstance.  People just aren't so simple.  Almost no one's real-world politics boils down to "Do folks have an absolute right to _X_?", where _X_ is speech, assembly, religion, guns, contract, conscience, or the like.  Justice just isn't so straightforward.
 
-## Appeal, Explaining
+<h2 id="allure">Allure, Explaining</h2>
 
 > If you think moral reasoning is something we do to figure out the truth, you'll be constantly frustrated by how foolish, biased, and illogical people become when they disagree with you.  But if you think about moral reasoning as a skill we humans evolved to further our social agendas---to justify our own actions and to defend the teams we belong to---then things will make a lot more sense.  Keep your eye on the intuitions, and don't take people's moral arguments at face value.  They are mostly post hoc constructions made up on the fly, crafted to advance one or more strategic objectives.
 >
@@ -47,7 +47,7 @@ A glancing comparison to nearly any other source of moral teaching available to 
 
 Too good to be true is easy to spot, unless it's too good for _you_.  Then it's damn near impossible.  Software freedom was very good to me.  It _felt_ better, even though it was worse.  But I wasn't accountable to anyone, except to myself, so feelings won out.  Until the reality checks came.
 
-## Horribles, Parading
+<h2 id="horribles">Horribles, Parading</h2>
 
 I care for those near to me.  I value loyalty, respect, and fairness.  I cherish connections to higher meanings and purposes.  And yes, I enjoy my liberty.  But I seek a balance of those concerns and personal liberty when they conflict, as they often do.  As more people and companies get involved in open source, values conflicts are getting harder to miss.
 
@@ -93,7 +93,7 @@ Trading completeness and gritty realism for expedience and clean clarity often m
 
 Until you cross the line from open source taker to open source maker.  Until you realize you'll be subject to the decisions of others more often than they'll be subject to yours.  Until you face your dependence and your interdependence, master of computing though you otherwise may be.
 
-## Revolution, Reacting
+<h2 id="revolution">Revolution, Reacting</h2>
 
 Those who feel victimized by others go readily all-in on the values---liberty, care, fairness, and so on---denied to them.  That exclusive focus implicitly denies that other values protect anyone but victimizers and their cronies.  In time, after much doubling down, that denial becomes explicit.
 
@@ -111,7 +111,7 @@ Software wanted its ego stroked with a higher sense of purpose.  As it turns out
 
 It's not hard to find evidence for this pattern.  And not just in theory and politics.
 
-## Itches, Scratching
+<h2 id="itches">Itches, Scratching</h2>
 
 > "This is it ... this is where I belong..."  I know everyone here ... even if I've never met them, never talked to them, may never hear from them again ... I know you all ...
 >
@@ -133,7 +133,7 @@ Learning and leveraging new platforms, venues, and communication styles doesn't 
 
 Historically, the prerequisites for programming addiction correlated tightly with a number of social and demographic factors.  Communing with others addicted to programming often means communing with others very similar.  The result is a culture riding the edge of monoculture.
 
-## Threads, Connecting
+<h2 id="threads">Threads, Connecting</h2>
 
 There's nothing inherently wrong with itch scratching projects, with projects whose users happen to be programmers, or with projects under permissive licenses doing wholly indeterminate good.  But there is less inherently good about them than we've given ourselves credit for.
 
@@ -145,7 +145,7 @@ As Adam Smith famously wrote:
 
 If he'd mentioned lowering costs or raising margins, and not just raising prices, he'd have covered open source and the software industry, as most software users see it today.  Lots of open collaboration among coders, but not much sign of welcome for anyone else.  Lots of free software that coders can use, but not much software for non-coders without strings attached.
 
-## Service, Inviting
+<h2 id="service">Service, Inviting</h2>
 
 > When masturbation's lost its fun, you're fucking lonely.
 >
@@ -169,7 +169,7 @@ As a simple starting point, consider the "buddy system":
 
 3. Make a point to praise peers you see actively and accountably serving others outside of software with their work.  Graciously accept compliments for your own service.  Do good work, and you'll deserve the praise.  Programming as a whole deserves the reinforcement.
 
-## Dependence, Selecting
+<h2 id="dependence">Dependence, Selecting</h2>
 
 >  Freedom means having control over your own life.  If you use a program to carry out activities in your life, your freedom depends on your having control over the program.  You deserve to have control over the programs you use, and all the more so when you use them for something important in your life.
 >
@@ -185,7 +185,7 @@ My life is richer for it.  All the care, the history, the wonkishness that I put
 
 I'm tempted to preach openness to these people as I know it.  There is something to that:  They may not have considered rowing that directly upstream of the rules and regulations of their work.  It's not an obvious tactic.  But they have showed me every kind of openness more generally speaking that I have ever asked for.  They gladly answer questions of nearly kind, including questions that allow me to do more for myself, without them.  Their willingness is tempered, if at all, by concern that I'll take undue risks with a novice hand, complicate their assumptions about how to serve me well, and the responsibility they'll bear for choices not entirely their own.  Even if I never intend to take over, I choose those I depend on in large part by their openness to my curiosity.  I expect clients of my law practice to choose and become comfortable with me at least in part by the same token.
 
-## Means, Justifying
+<h2 id="means">Means, Justifying</h2>
 
 > If you did it right you wound up with a guy that walked across the screen, in bad graphics, and then you could change it and make the guy walk across the screen in different colors.  You could just _do_ that.
 >
@@ -213,6 +213,6 @@ Only the tools, techniques, and organizations of software stand on their own.  T
 
 The next great leaps in method, inspiration, and productivity will build on free and open tools, techniques, and organizations as prior art.  They won't build on their ideologies, or fit on the old free-open line.  New motivations will create and validate them.  New narratives will justify their success.
 
-## Prologue
+<h2 id="prologue">Prologue</h2>
 
 Software was born a [monastic order](https://en.wikipedia.org/w/index.php?title=Monastic_order&redirect=no).  It fashioned itself a [missionary order](https://en.wikipedia.org/w/index.php?title=Missionary_order&redirect=no).  It is time to meet the world as a [mendicant order](https://en.wikipedia.org/w/index.php?title=Mendicant_order&redirect=no).
