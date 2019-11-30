@@ -11,11 +11,9 @@ Open software feels stuck in a hole because it has dug itself into one.  Interne
 
 Stroking our own egos keeps us alone.  Scratching our own itches keeps us alone.  Fetishizing autonomy and self-reference keeps us alone.  That program has made software---free, open, and closed---a classic conspiracy against the laity.  And the laity is pissed.
 
-With a little outside perspective, the problem is obvious, and so are the solutions.  Meet other kinds of people, work with them closely, and scratch _their_ itches, rather than our own.  Embrace frameworks for esteem self-actualization, but from well outside software.  Open your code, if that seems wise to do, but not before you open yourself.
+With a little outside perspective, the problem is obvious, and so are the solutions.  Meet other kinds of people, work with them closely, and scratch _their_ itches, rather than our own.  Embrace frameworks for esteem self-actualization, but from well outside software.  Open your code, if that's wise to do, but not before you open yourself.
 
-The opposite of conspiracy is service.  Public service, for others rather than ourselves.  Foreign service, far outside the software realm.  The connections service brings can and will change software.  Connections cure isolation.
-
-The question is isn't what to do, but whether open software can get out more, stop lecturing the rest of society when it does, and learn the discipline it needs to reintegrate into the world.  But who needs discipline for a problem they can't see?
+The opposite of conspiracy is service.  Public service, for others rather than ourselves.  Foreign service, far outside the software realm.  The opposite of isolation is connection.  Service requires it.  If only we can get out more, and listen to others, rather than lecture them about how our software will eat them, there will be plenty of service, connection, and satisfaction to be had.
 
 ## Simplicity, Suspecting
 
