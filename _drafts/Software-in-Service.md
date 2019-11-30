@@ -1,17 +1,17 @@
 ---
 title: Software in Service
-description:
+description: hacking needs to go play outside
 - Open Source
 - Free Software
 - Ethics
 - Politics
 ---
 
-Open software feels stuck in a hole because it has dug itself into a hole.  Internet software culture has set itself off from the broader world socially, intellectually, and practically.  It has turned inward on itself for all apparent needs, and predictably come up short of nearly everything but code.  As the reality of thankless maintainership, business predation, and reinforcing established players, no matter how repugnant their behavior, open software is coming up short of meaning.
+Open software feels stuck in a hole because it has dug itself into one.  Internet software culture has set itself off from the broader world socially, intellectually, and practically.  It has turned inward on itself for all apparent needs, and come up short of nearly everything but code.  As the reality of thankless maintainership, business predation, and adoption for deplorable uses sets in, open software is coming up short of meaning.
 
-Stroking our own egos keeps us alone.  Scratching our own itches keeps us alone.  Fetishizing autonomy and self-reference keeps us alone.  The combination has made software---free, open, and closed---an exemplary conspiracy against the laity.  The laity is pissed.  Humanity did not receive the help we thought we were giving.
+Stroking our own egos keeps us alone.  Scratching our own itches keeps us alone.  Fetishizing autonomy and self-reference keeps us alone.  That program has made software---free, open, and closed---a classic conspiracy against the laity.  And the laity is pissed.
 
-With a little outside perspective, the problem is obvious, and so are the solutions.  Meet other kinds of people, work with them closely, and scratch _their_ itches.  Take a framework for self-actualization, by all means, but from well outside software.  Open your code, if that seems wise to do, but open yourself first.
+With a little outside perspective, the problem is obvious, and so are the solutions.  Meet other kinds of people, work with them closely, and scratch _their_ itches, rather than our own.  Embrace frameworks for esteem self-actualization, but from well outside software.  Open your code, if that seems wise to do, but not before you open yourself.
 
 The opposite of conspiracy is service.  Public service, for others rather than ourselves.  Foreign service, far outside the software realm.  The connections service brings can and will change software.  Connections cure isolation.
 
@@ -202,17 +202,17 @@ The difficulty of those skills makes them valuable.  Getting started takes disci
 
 ## Program, Proposing
 
-This has been general, but it's easy to make concrete.  Here is my personal plan.
+My thrust here is general, but it's easy to make concrete.  Here is my personal plan.
 
-_Prestige_:  I have consciously reordered my hierarchy of cool.  Kernels, compilers, languages, and dev tools are now longer the projects I admire most.  They are merely the kinds of projects I understand best.  The less the need met is a need I think the programmer related to before starting the project, the more highly I think of that programmer.
+_Prestige_:  I have consciously reordered my hierarchy of cool.  Kernels, compilers, languages, and dev tools are now longer the projects I admire most.  They are merely the kinds of projects I understand best.  The less the need met is a need I think the programmer related to before starting the project, the more I admire the programmer.
 
-_Projects_:  I have begun to prioritize programming projects that serve non-programmers' needs, rather than my own.  Especially when I can be in close communication with the person or group of people hoping to use the application, from conception through deployment and maintenance.  I want to build the closest working relationships I can.
+_Projects_:  I have begun to prioritize programming projects that serve non-programmers' needs, rather than my own.  Especially when I can be in close communication with the person or group of people hoping to use the application, from conception through deployment and maintenance.  I seek the closest working relationships I can get.
 
-_Pairs_:  In programmer-to-programmer work, I am learning to see fellow programmers much as a I see fellow lawyers: as powerful but fundamentally incomplete halves of service relationships.  I am striving to ask fellow programmers who they're working for, and to introduce the users they serve.  I am striving to have my users introduce me whenever possible, and to keep them involved in discussions directly.
+_Pairs_:  In programmer-to-programmer work, I am learning to see fellow programmers much as a I see fellow lawyers: as powerful but fundamentally incomplete halves, waiting for clients.  I am asking fellow programmers who they're working for, and to introduce the users they serve.  I am asking my users introduce me, rather than to introduce myself and mention them, whenever possible, and to keep them involved in discussions directly.
 
-_Platforms_:  I am learning to prioritize _users_' choice of collaborative platforms and tools over programming-specific alternatives.  Discourse over GitHub.  SMS over IRC.  There are incredible unmet needs for collaboration tools general enough to accommodate users, coders, designers, and other specialists.
+_Platforms_:  I am learning to prioritize _users_' choice of collaborative platforms and tools over programming-specific alternatives.  Discourse over GitHub.  SMS over IRC.  There are incredible unmet needs for collaboration tools general enough to accommodate users, coders, designers, and other specialists.  But unless and until they arrive, good coder-user collaboration is far more important than coder comfort.
 
-_Praise_:  I am making a point to praise peers that I see actively and accountably practicing what I preach.  And I am learning to graciously accept compliments when I do so.  I want to both be and reinforce the kind of good I think software and the software-using world need now.
+_Praise_:  I am making a point to praise peers that I see actively and accountably practicing what I preach.  And I am learning to graciously accept compliments when I do so.  I strive to both be and to reinforce the kind of good software and the software-using world need so desperately need now.
 
 ## Dependence, Selecting
 
@@ -220,16 +220,20 @@ _Praise_:  I am making a point to praise peers that I see actively and accountab
 >
 > --- Richard Stallman, [_Free Software is Even More Important Now_](https://www.gnu.org/philosophy/free-software-even-more-important.html)
 
-Reading through the post hoc rationalizations of free software and open source, it's easy to trace a long-running thread: Everybody was going to be a programmer.  Everybody was going to want to be.
+Reading through the theorizations of free software and open source, it's easy to trace a missing thread:  Everybody was going to be a programmer.  Everybody was going to want to be.  After all, in the early days, there was no running programs without entering the sanctum of the computer lab.
 
-Some professions have gone that way.  Scribes, for example.  But everyday life is littered with professions that didn't.  I hold out great hope that non-lawyers will do more of their own legal work.  But I don't expect that everyone will, or that artificial intelligence will replace me.  I'm no doctor, dentist, priest, and so on, but I doubt they expect the same for their own specialties.  I haven't asked, but I don't think my barber, office janitor, or motorcycle mechanic mentor hold out similar hopes.
+Some professions have gone that way.  Scribes, for example.  But everyday life is littered with professions that haven't dissolved away into popular practice.  I hold out great hope that non-lawyers will do more of their own legal work, for example.  But I don't expect that everyone will, or that artificial intelligence will replace them.  I'm no doctor, dentist, priest, and so on, but I doubt they expect the same for their own specialties.  I haven't asked, but I don't think my barber, office janitor, or insurance agent nurse fear imminent obsolescence, either.  There are things in my life that I need and receive, but take no greater part in.
 
-I am no less free for relying on those people to live my life.  I am in a sense less independent.  But I revel in the choice of my own dependencies and the connectedness they bring.  I'm grateful for the willingness and availability of others to take control over so many aspects of my life, to steward them better than I would.
+I am no less free for relying on others to live my life.  I am in a sense less independent.  But I revel in the choice of my dependencies and the connectedness they bring.  I'm grateful for the willingness and availability of others to take control over aspects of my life, and to steward them better than I would alone.  I'm grateful for the unprompted, often utterly unrelated conversations and interactions that having people do those things produces.
 
-My life is richer for it.  All the care, the history, the wonkishness that I put into a license, a policy, or a contract for a client, I can see in the people and work that I rely on.  I can prattle on for hours about computer keyboards, copyleft, and contract law.  When I ask my dental hygienist about the Cavitron, or the x-ray software, or what "SLS" means in toothpaste, it's clear they've made a life in dentistry, and there's a whole life to be made in there.  When I ask my barber about the differences between Korean, Vancouver, and American styles, and whether that has anything to do with all the catholic clergy coming to see him, I get an earful, in English---an extra effort for a Vietnamese boat person.
+My life is richer for it.  All the care, the history, the wonkishness that I put into a license, a policy, or a contract for a client, I can see in the people and work that I rely on.  I can prattle on for hours about computer keyboards, copyleft, and contract law.  When I ask my dental hygienist about the Cavitron, or the x-ray software, or what "SLS" means in toothpaste, it's clear they've made a life in dentistry, and that there's a whole life to be made in there.  When I ask my barber about the differences between Korean, Vancouver, and American fashion, I get an earful, in English---an extra effort for a Vietnamese boat person.
 
-I'm tempted to preach openness to these people as I know it.  There is something to that:  They may not have considered rowing that directly upstream of the rules and regulations of their work.  It's not an obvious tactic.  But they have showed me every kind of openness more generally speaking that I have ever asked for.  They gladly answer questions of nearly kind, including questions that allow me to do more for myself, without them.  Their willingness is tempered, if at all, by concern that I'll take undue risks with a novice hand, complicate their assumptions about how to serve me well, and the responsibility they'll bear for choices not entirely their own.  Even if I never intend to take over, I choose those I depend on in large part by their openness to my curiosity.  I expect clients of my law practice to choose and become comfortable with me at least in part by the same token.
+I'm tempted to preach openness to these people as I know it.  There is something to that:  They may not have considered rowing that directly upstream of the rules and regulations of their work.  It's not an obvious tactic.
 
-## Prologue
+But most have showed me every kind of openness that I have ever asked for.  They gladly answer questions of nearly any kind, including questions that allow me to do more for myself, without them.  Their willingness to answer my questions is tempered, if at all, by concern that I'll take undue risks with a novice hand, complicating their assumptions or plan to serve me well, and concern for the responsibility they'll bear for choices not entirely their own.  But is just because of the trust their answers builds that I usually choose not deepen, rather than deviate from, our relationship.
+
+It's the same with my law clients today.  Every opportunity to show my work is not a relationship at risk, but a chance to deepen that relationship.  It was the same with my software clients, in a past life.  Nothing says confidence like enthusiasm for a question where they might have seen defensive maneuvers.
+
+## Prologue, Inviting
 
 Software was born a [monastic order](https://en.wikipedia.org/w/index.php?title=Monastic_order&redirect=no).  It fashioned itself a [missionary order](https://en.wikipedia.org/w/index.php?title=Missionary_order&redirect=no).  It is time to meet the world as a [mendicant order](https://en.wikipedia.org/w/index.php?title=Mendicant_order&redirect=no).
