@@ -25,13 +25,17 @@ The question is isn't what to do, but whether software can get out more, stop le
 >
 > --- Eric Raymond, [_Evaluating the Harm from Closed Source_](http://esr.ibiblio.org/?p=4371)
 
-Ordinary life is pretty complex stuff.  When someone promises to make ethics simple, experience should make us skeptical.  The guru may be gaining more from the title than they contribute to right living, or even good theory.
+Ordinary life is pretty complex stuff.  When someone promises to make ethics simple, experience should make us skeptical.  The guru may enjoy the title more than they contribute to right living or good theory.
 
-That has been free and open source software ideology in my lifetime.  Its proponents donned ethical, philosophical, economic, even religious vestments from early on.  But both honest analysis and common experience lay those pretensions bare.
+That has been free and open source software ideology in my lifetime.  Its proponents donned ethical, philosophical, even religious vestments from early on.  But both honest analysis and common experience lay those pretensions bare.
 
-Pervasive free and open source ideology oversimplifies hard ethical problems by reducing them to a single domain, software, and a single variable, freedom, hence "software freedom".  We're all born free to compute as we please.  Neither computer programmers nor computer companies deserve to impinge.  If they uniformly didn't, life would be swell.
+Pervasive free and open source ideology oversimplifies hard ethical problems by reducing them to a single domain, software, and a single variable, freedom.  Hence "software freedom".  We're all born free to compute as we please.  Neither computer programmers nor computer companies deserve to impinge.  If they uniformly didn't, life would be sweller.
 
-Almost no one's real-world morality boils down to "Can folks do what they wanna?"  What's right just isn't so black-and-white.  Almost no one's real-world experience exalts mankind as saints sadly constrained by circumstance.  People just aren't so simple.  Almost no one's real-world politics boils down to "Do folks have an absolute right to _X_?", where _X_ is speech, assembly, religion, guns, contract, conscience, or the like.  Justice just isn't so straightforward.
+Almost no one's real-world morality boils down to "Can folks do what they wanna?"  What's right just isn't so black-and-white.
+
+Almost no one's real-world experience exalts mankind as saints sadly constrained by circumstance.  People just aren't so simple.
+
+Almost no one's real-world politics boils down to "Do folks have an absolute right to _X_?", where _X_ is speech, assembly, religion, guns, contract, conscience, or the like.  Justice just isn't that straightforward.
 
 ## Allure, Explaining
 
