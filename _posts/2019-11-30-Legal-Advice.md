@@ -16,7 +16,7 @@ Lawyers sharing legal information with nonlawyers often throw in something like:
 
 Smart, educated audiences don't know what that means.  They may understand each and every one of the words, but not what they're supposed to do when a lawyer says them together.  All they can tell is that they make the lawyer feel better, likely by the work of some dark magic.
 
-If you're giving me information to help guide my decisions, and that information is about the law, isn't that "advice", and isn't it "legal"?  What affect does calling that spade not a spade have?
+If you're giving me information to help guide my decisions, and that information is about the law, isn't that "advice", and isn't it "legal"?  What effect does calling that spade not a spade have?
 
 What are "informational purposes"?  And how exactly does one "information"?
 
