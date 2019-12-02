@@ -5,6 +5,7 @@ tags:
 - Drafting
 - Law
 - Licensing
+- Big Time License
 ---
 
 Folks have finally got me sketching out a [free-until-you-make-it-big license](https://github.com/berneout/big-time-public-license/blob/master/license.md).  The gist is terms to make software free for noncommercial and small-business users, but also guarantee that paid licenses for big business will be available on fair terms.  Which leads directly to a devilish drafting doozy:
