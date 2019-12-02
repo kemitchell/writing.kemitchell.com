@@ -4,7 +4,7 @@ description: sharper tools, finer toolmarks
 layout: post
 tags:
 - Common Form
-- Contract Drafting
+- Drafting
 - Contract Architecture
 ---
 

@@ -4,7 +4,7 @@ description: wandering ever closer to LISP
 layout: post
 tags:
 - Common Form
-- Contract Drafting
+- Drafting
 - Contract Architecture
 ---
 

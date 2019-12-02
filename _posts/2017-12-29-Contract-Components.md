@@ -4,7 +4,7 @@ description: fine-grained means of abstraction in legal drafting
 layout: post
 tags:
 - Common Form
-- Contract Drafting
+- Drafting
 - Contract Architecture
 ---
 
