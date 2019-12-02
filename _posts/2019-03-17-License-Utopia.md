@@ -6,6 +6,7 @@ tags:
 - Open Source
 - Licensing
 - Copyleft
+- Standardized Legal Terms
 ---
 
 [Bruce Perens](https://perens.com/) and I have found lots of reasons to disagree.  But I could not agree with Bruce more strongly on a key point, arguably more important than all the rest combined:

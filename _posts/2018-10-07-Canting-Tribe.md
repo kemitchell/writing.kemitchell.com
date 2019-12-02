@@ -5,8 +5,8 @@ layout: post
 tags:
 - Contracts
 - RxNDA
-- Canting Tribe
-- Standardization
+- Waypoint NDA
+- Standard Legal Terms
 ---
 
 What do we _do_ about pointless, inefficient variation in basic business contracts?  What do we _do_ once we've felt smart for calling out obvious inefficiency, and realize we're still stuck with the problem?  What do we _do_ about hours wasted, reviewing the same old kind of contract again and again, or waiting for review, only to hear that, yes, it was exactly as we expected?

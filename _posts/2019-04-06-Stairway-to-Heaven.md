@@ -4,8 +4,8 @@ description: repairing broken steps to software license Nirvana
 layout: post
 tags:
 - Licensing
-- Business Planning
 - Open Source
+- Business Models
 ---
 
 <aside class="brief" markdown="1">
