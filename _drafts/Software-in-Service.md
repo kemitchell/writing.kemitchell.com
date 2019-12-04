@@ -8,9 +8,11 @@ tags:
 - Politics
 ---
 
-Open software feels stuck in a hole because it has dug itself into a hole.  Internet software culture has set itself off from the broader world socially, intellectually, and practically.  It has turned inward on itself for all apparent needs, and come up predictably short of everything but code.  As the reality of thankless maintainership, business predation, and adoption for deplorable uses sets in for the GitHub generation, it's coming up short of meaning.  The old figureheads, foundations, firms, and faith tenets of free and open source no longer provide.
+Open software feels stuck in a hole because it has dug itself into a hole.  Internet software culture has set itself off from the broader world socially, intellectually, and practically.  It has turned inward on itself for all apparent needs, and come up long on code and short everything else.
 
-Stroking our own egos keeps us alone.  Scratching our own itches keeps us alone.  Fetishizing autonomy and self-reference keeps us alone.  All that insularity has made software---free, open, and closed---a classic conspiracy against the laity.  The laity is pissed.  They don't hail their coders as liberators, but resign to their power as a mind-occupying force.
+As the reality of thankless maintainership, business predation, and adoption for deplorable uses sets in for the GitHub generation, it's coming up short of meaning.  The old figureheads, foundations, firms, and faith tenets of free and open source no longer provide.
+
+Following their lead keeps us alone.  Stroking our own egos keeps us alone.  Scratching our own itches keeps us alone.  Fetishizing autonomy and self-reference keeps us alone.  All that insularity has made software---free, open, and closed---a classic conspiracy against the laity.  The laity is pissed.  They don't hail their coders as liberators, but resign to their power as a mind-occupying force.
 
 With a little outside perspective, the problem is obvious, and so are the solutions.  The opposite of conspiracy is service.  Public service, for others rather than ourselves.  Foreign service, far outside the software realm.  The opposite of isolation is connection.  Service requires connection.
 
