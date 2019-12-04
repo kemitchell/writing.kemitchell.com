@@ -200,7 +200,7 @@ Hackers seeking a richer kind of collaboration, respect for their role as accomp
 
 Serving others who _don't_ share your expertise, culture, or lifestyle represents a distinct and important skill.  It's harder than naming things, and must be practiced.  It is not just requirements, user stories, focus groups, and testing.  It is far more than those things, and more than all of them combined.
 
-To develop new skill and strength, follow the usual program.  Reorder your priorities, and flow them down into how you use your time.  Strong swimmers clock a lot of fast laps.  Good negotiators close a lot of tough deals.  Good grief counselors listen through a lot of pain.  Coders who work well with others work a lot of projects with others.
+To develop new skill and strength, follow the usual program.  Reorder your priorities, and flow them down into your time.  Strong swimmers clock a lot of fast laps.  Good negotiators close a lot of tough deals.  Good grief counselors listen through a lot of pain.  Coders who work well with others work a lot of projects with others.
 
 The difficulty of those skills makes them valuable.  Getting started takes discipline. But once the virtuous loop of struggle, success, and noticeable progress closes, practice becomes play, discipline becomes avocation, and you find yourself getting really, really good at something.  Something that others can value.  Something that can connect you to richer veins of purpose.
 
