@@ -40,7 +40,7 @@ Almost no one's real-world politics boils down to "Do folks have an absolute rig
 
 I care for those near to me.  I value loyalty, respect, and fairness.  I cherish connections to higher meanings and purposes.  And yes, I enjoy my liberty, and not mostly in software.  But I seek a balance of those concerns when they conflict, as they often do.
 
-It's complicated.  That's life.
+It's complicated.  That's life, and most of the fun.
 
 ## Horribles, Parading
 
