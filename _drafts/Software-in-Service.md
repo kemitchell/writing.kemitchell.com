@@ -206,7 +206,7 @@ The difficulty of those skills makes them valuable.  Getting started takes disci
 
 ## Program, Proposing
 
-Only the tools, techniques, memes, and organizations of software stand on their own.  They aren't going anywhere.  But their heady ideological associations are no more than labels, which wear off in short order under hard use.  Free isn't going to win out over open.  The closer open gets to winning out over free, the more free spirit comes out of hibernation.  But this or that flavor of retroactive continuity won't change the plot already laid down in Internet history.  It won't change the tools, their leverage, or their limitations.
+Only the tools, techniques, memes, and organizational forms of software stand on their own.  They aren't going anywhere.  But their heady ideological associations are no more than labels, which wear off in short order under hard use.  Free isn't going to win out over open.  The closer open gets to winning out over free, the more free spirit comes out of hibernation.  But this or that flavor of retroactive continuity won't change the plot already laid down in Internet history.  It won't change the tools, their leverage, or their limitations.
 
 The next great leaps in method, inspiration, and productivity will riff on free and open tools, techniques, memes, and organizations as prior art.  They won't build on their post hoc ideologies, or fit on the free-open line.  New stories will motivate people to try them.  New narratives will justify their results ... after the fact.
 
