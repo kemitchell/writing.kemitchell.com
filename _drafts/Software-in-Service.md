@@ -230,7 +230,7 @@ _Praise_:  I am making a point to praise peers that I see actively and accountab
 
 If you go out, others will depend on you.  You will be directly accountable to them.  Your conscience won't fail to notice.
 
-Reading through the theorizations of free software and open source, it's easy to trace a missing thread:  Everybody was going to be a programmer.  Everybody was going to want to be.  After all, in the early days, there was no running programs without entering the sanctum of the computer lab.  It's not an addiction is everybody wants it.  Air, water, and carbohydrates aren't controlled substances.
+Reading through the theorizations of free software and open source, it's easy to trace a missing thread:  Everybody was going to be a programmer.  Everybody was going to want to be.  After all, in the early days, there was no running programs without entering the sanctum of the computer lab.  It's not an addiction if everyone's in on it.  Air, water, and carbohydrates aren't controlled substances.
 
 Some professions have gone universal.  Scribes, for example, for the most part.  But everyday life is littered with professions that haven't dissolved away into the populist baseline.
 
