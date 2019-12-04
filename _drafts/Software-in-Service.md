@@ -246,7 +246,7 @@ I'm tempted to preach openness to these people as I know it.  There is something
 
 But most have showed me every kind of openness that I have ever asked for.  They gladly answer questions of nearly any kind, including questions that allow me to do more for myself, without them.  Their willingness to answer seems tempered, if at all, by concern that I'll take undue risks with a novice hand, complicating their plan to serve me well, and concern for the responsibility they might bear for choices not entirely their own.  But it is just because of the trust their answers build that I usually choose to deepen, rather than deviate from, the trust relationship we have built.
 
-It's the same with my law clients today.  Every opportunity to show my work is not a relationship at risk, but a relationship double-down.  Likewise for my software clients, in a past life.  Nothing says confidence like enthusiasm for a question that might have triggered defensive maneuvers.
+It's the same with my law clients today.  Every opportunity to show my work is not a relationship risk, but an invitation to renew our alliance.  Likewise for my software clients, in a past life.  Nothing says confidence like enthusiasm for a question that might have triggered defensive maneuvers in the wrong circumstances.
 
 ## Prologue, Inviting
 
