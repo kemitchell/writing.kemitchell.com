@@ -214,7 +214,7 @@ My thrust here is general, but it's easy to make concrete.  Here is my personal 
 
 _Prestige_:  I have consciously reordered my hierarchy of cool.  Kernels, compilers, languages, and dev tools are no longer the projects I admire most.  They are merely the kinds of projects I understand best, great plays in games on the order of checkers.  The less the need met is a need I think the programmer related to before starting the project, the more I admire the programmer.
 
-_Projects_:  I have begun to prioritize programming projects that serve non-programmers' needs, rather than my own.  Especially when I can be in close communication with the person or group of people hoping to use the application, from conception through deployment and maintenance.  I seek the closest working relationships I can get, as far from my native culture as I can swing.
+_Projects_:  I have begun to prioritize programming projects that serve non-programmers' needs, rather than my own.  Especially when I can be in close communication with the person or group of people hoping to use the application, from conception through deployment and maintenance.  I seek the closest working relationships I can get, as far from my native culture as I can be useful.
 
 _Pairs_:  In programmer-to-programmer work, I am learning to see fellow programmers much as a I see fellow lawyers: as powerful but fundamentally incomplete halves.  Q, not James Bond, and definitely not Rambo.  I am asking fellow programmers who they're working for, and to introduce the people they serve.  I am asking "my" people to introduce me, rather than to introduce myself, whenever possible, and to keep them involved in discussions directly.
 
