@@ -116,7 +116,7 @@ Too good to be true is easy to spot, unless it's too good for _you_.  Software f
 
 Enabling facts are welcome.  Inconvenient facts are not.  When software-freedom absolutism indirectly facilitates a good outcome in any other dimension, the true believer happily credits the cause.  Given absolute freedom, they tell us to expect all good to follow.  But when software freedom takes a toll, the faithful blame the victim.  You shouldn't have made it open source ... like I told you to.  You didn't do it open enough ... my way.  You didn't do it for the right reasons ... my reasons.  You didn't use the right tools ... my tools.  The more enlightened, who speak from one side of their mouths, write off as collateral damage.
 
-At one point or another, I've brandished all these too-handy weapons.  I was reassuring myself more than criticizing the other, but still very much at their expense.
+At one point or another, I've brandished all these too-handy weapons.  I was reassuring myself more than criticizing the other, but still very much at the other's expense.
 
 Just as computer programming reduces complex problems down to computable approximations, ethical and political conversations trapped within software, which only step outside to grab glittering generalities like "freedom" and "community", derive a neatly computable program for a bad approximation of life.  Just as software reductionism looses well-intentioned, malign systems on the world, reductionism makes wanton, antisocial automata of otherwise capable consciences, blinkered or indifferent to predictable consequences.  When good theory starts from bad assumptions, applying that theory to the world, or force-fitting the world within it, incurs causalities.
 
