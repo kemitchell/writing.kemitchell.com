@@ -176,7 +176,7 @@ Not-programmer people didn't do this to programmers.  Not-programmer people are 
 >
 > --- Adam Smith, _The Wealth of Nations_
 
-There's nothing inherently wrong with itch scratching projects, with projects whose users happen to be programmers, or with projects under permissive licenses doing wholly indeterminate greater good.  But there is less individually swell about them than we've given ourselves credit for, and strong cause for concern about their effects overall.  When we understand how our individual works add up, we become responsible for our contributions.
+There's nothing inherently wrong with itch scratching projects, with projects whose users happen to be programmers, or with projects under permissive licenses doing wholly indeterminate good.  But there is less individually swell about them than we've given ourselves credit for, and strong cause for concern about their effects overall.  When we understand how our individual works add up, we become responsible for our contributions.
 
 One of those effects has been a large, growing, and increasingly formalized inequality between programmers and non-programmers.  Software developers expect, even loudly demand, that tools to their taste be free, beer and freedom.  As a group, they pillory peers who dare to undermine that norm with requests for payment or even lower-friction substitutes like ads.  In other words, developers abhor in the developer-software market what they routinely demand in markets for everyone else.  Collegiality in the guild hall, bruising commercialism outside its doors.
 
