@@ -144,7 +144,7 @@ We have heard a lot of shouting in free and open software politics.  Having anot
 
 Software wanted its ego stroked with a higher sense of purpose.  As it turns out, the easiest way to get our egos strokes was to stroke them ourselves.  Gratification was easy when software philosophy exalted every release under the right form license, with no expectation of or mechanism for accountable end-user feedback, as a charitable or revolutionary act.  But as a greater number of programmers ventured outside and reported back on the unintentional, negative effects of self-justifying software on society, satisfaction got harder and harder to defend.  The motions are there, but the mood is gone.
 
-This phenomenon was not contained to theory and politics.
+This phenomenon was not contained to theory or politics.
 
 ## Itches, Scratching
 
