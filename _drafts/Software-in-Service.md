@@ -142,7 +142,7 @@ That doesn't make the obsessed or the vilifying fools.  It confirms them as huma
 
 We have heard a lot of shouting in free and open software politics.  Having another tribe to yell at has been defining for both.  Bringing that opposition _within_ the culture, especially online, proved far more self-sustaining, interactive, and compelling than taking on industry through traditional media.  But all the blaring has largely drowned out those attempting to bring comparatively robust moralities and ideologies from without software within it.
 
-Software wanted its ego stroked with a higher sense of purpose.  As it turns out, the easiest way to get our egos strokes was to stroke them ourselves.  Gratification was easy when software philosophy exalted every release under the right form license, with no expectation of or mechanism for accountable end-user feedback, as a charitable or revolutionary act.  But as a greater number of programmers ventured outside and reported back on the unintentional, negative effects of self-justifying software on society, satisfaction got harder and harder to defend.
+Software wanted its ego stroked with a higher sense of purpose.  As it turns out, the easiest way to get our egos strokes was to stroke them ourselves.  Gratification was easy when software philosophy exalted every release under the right form license, with no expectation of or mechanism for accountable end-user feedback, as a charitable or revolutionary act.  But as a greater number of programmers ventured outside and reported back on the unintentional, negative effects of self-justifying software on society, satisfaction got harder and harder to defend.  The motions are there, but the mood is gone.
 
 This phenomenon was not contained to theory and politics.
 
