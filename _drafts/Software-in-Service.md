@@ -32,7 +32,7 @@ I fear that has been free and open source software theory in my lifetime.  Its p
 
 Pervasive free and open source ideology oversimplifies hard ethical problems by reducing them to a single domain, software, and a single variable, freedom.  Hence "software freedom" as all-encompassing moral tautology.  We're all born free to compute as we please.  Neither computer programmers nor computer companies deserve to impinge.  If they uniformly didn't, life would be sweller.  Simple.
 
-Almost no one's real-world morality boils down to "Can folks do what they wanna?"  What's right just isn't so black-and-white.
+Almost no one's real-world morality boil down to "Can folks do what they wanna?"  What's right just isn't so black-and-white.
 
 Almost no one's real-world experience exalts mankind as saints sadly constrained by circumstance.  Life just isn't so simple.
 
