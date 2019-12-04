@@ -130,7 +130,7 @@ Until you cross the line from open source taker to open source maker.  Until you
 >
 > --- Steven Levy, _Hackers_
 
-Those who feel victimized by others go readily all-in on the values---liberty, care, fairness, and so on---denied to them.  That exclusive focus implicitly denies that other values protect anyone but the villains and their cronies.  In time, after much doubling down, that denial becomes explicit.
+Those who feel victimized by others go readily all-in on the values---liberty, care, fairness, and so on---denied to them.  That exclusive focus implicitly scoffs that other values protect anyone but the villains and their cronies.  In time, after much doubling down, that denial becomes explicit.
 
 Often the process manifests as vilification of a single, identifiable font of all affront, be it government, business, "godless communism", or "late capitalism".  The variously aggrieved may unite not around the particular values they expound, but the symbolic villains they blame.
 
