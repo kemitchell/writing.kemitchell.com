@@ -196,7 +196,7 @@ The opposite of conspiracy is service.  The antidote to anomie is connection.  T
 
 If you feel isolated, reach out to people who need software, directly.  If you're ready to listen and help, rather than lecture or preach, you'll be welcomed by the kind of people you want to work with.  Computers are, after all, pretty useful.  People who listen moreso.
 
-Hackers seeking a richer kind of collaboration, respect for their role as accomplished specialist, reassurance about the good use and effect of their work, and a higher sense of purpose would do well to include people who _aren't_ programmers in their day-to-day, as deeply and as often as possible.  They'd do well to seek out frameworks for justification, meaning, and purpose in their work that range much more broadly than software.  And they'd do well by their lonely peers to encourage the same.
+Hackers seeking a richer kind of collaboration, respect for their role as accomplished specialist, reassurance about the good use and effect of their work, and a higher sense of purpose would do well to include people who _aren't_ programmers in their day-to-day, as deeply and as often as possible.  They'd do well to seek out frameworks for justification, meaning, and purpose in their work that range much more broadly than software.  And they'd do well by their lonely fellow travelers to encourage the same.
 
 Serving others who _don't_ share your expertise, culture, or lifestyle represents a distinct and important skill.  It's harder than naming things, and must be practiced.  It is not just requirements, user stories, focus groups, and testing.  It is far more than those things, and more than all of them combined.
 
