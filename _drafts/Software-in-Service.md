@@ -168,6 +168,8 @@ Learning and leveraging new platforms, venues, and communication styles doesn't 
 
 Access to programming at an early age, and therefore programming addiction, correlates tightly with specific social and demographic factors.  So communing with others addicted to programming often means communing with others very similar more broadly.  The result is a community riding the edge of monoculture.  Monocultures are often productive ... until they're utterly compromised.
 
+Not-programmer people didn't do this to programmers.  Not-programmer people are clamoring for programmer help.  Programming did all of this to itself.
+
 ## Conspiracy, Identifying
 
 > People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices.
