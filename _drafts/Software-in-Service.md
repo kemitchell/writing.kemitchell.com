@@ -136,7 +136,7 @@ Often the process manifests as vilification of a single, identifiable font of al
 
 All these mindsets come from life, and all the lessons informing them come from experience.  But extremism is ugly in all its forms.  No-common-denominator specialization in values yields an unworkable politics of reciprocal, exhibitionist shouting, cathartic until the other tribe yells back, shattering the fantasy of decisive, total domination, kickstarting the cycle anew.  Meanwhile, all the noise easily drowns out any holistic, humble, the-world-is-complicated seekers whose taste runs to far more sensitive deliberation, and who deal far less splash damage, and commit less friendly fire.  There's no air left for nuance.
 
-Software freedom obsession naturally results from software freedom impingement.  With the right (or wrong) reinforcement, it can readily outstrip its original stimulus.  Vilification of a symbol---IBM, Microsoft, Oracle, industry generally---readily follows.
+Software freedom obsession naturally results from unexplained, opaque software freedom impingement.  With the right (or wrong) reinforcement, it can readily outstrip its original stimulus.  Vilification of a symbol---IBM, Microsoft, Oracle, industry generally---readily follows.
 
 That doesn't make the obsessed or the vilifying fools.  It confirms them as human.  But human intuitions aren't slow or subtle.  Without deep social discourse and lots of time, intellect can at best mollify.  Those conditioned to bristle at "no" for an answer to literally any question about software will bristle.  They may reason themselves down from there.  They may not.
 
