@@ -158,7 +158,7 @@ This phenomenon was not contained to theory or politics.
 
 Writing software for yourself and others like you bypasses all the hardest parts of making software.  That can and does produce some good results, within the tribe.  But a terrible price: reinforcing personal isolation and the insularity of programming overall.
 
-Developing tools for development by fellow developers makes a pretty nice kit, or at least a large and very full one.  But it flexes none of the necessary muscles for understanding people who can't program computers, writing the software they need, and confirming their needs are well and truly met.
+Developing tools for development by fellow developers makes a pretty nice kit, or at least a large and very full one.  But it flexes none of the necessary muscles for understanding people, writing the software they need, and confirming their needs are well and truly met.
 
 Eliciting requirements and feedback isn't necessary when the requirements and feedback are your own.  Accountability happens involuntarily.  So communication atrophies to the acerbic, confrontational engineering tone software is so known for.
 
