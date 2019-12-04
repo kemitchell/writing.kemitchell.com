@@ -156,7 +156,7 @@ This phenomenon was not contained to theory or politics.
 >
 > --- Loyd "The Mentor" Blankenship, [_The Conscience of a Hacker_](http://www.phrack.org/issues/7/3.html#article), 1986
 
-Writing software for yourself and others like you bypasses all the hardest parts of making software.  That can and does produce some good results for a select set  of people.  But a terrible price: reinforcing personal isolation and the insularity of programming overall.
+Writing software for yourself and others like you bypasses all the hardest parts of making software.  That can and does produce some good results, within the tribe.  But a terrible price: reinforcing personal isolation and the insularity of programming overall.
 
 Developing tools for development by fellow developers yields a pretty nice toolkit, or at least a large and very full one.  But it flexes none of the necessary muscles for understanding people who can't program computers, writing the software they need, and confirming their needs are well and truly met.
 
