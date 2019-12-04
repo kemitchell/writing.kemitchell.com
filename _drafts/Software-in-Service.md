@@ -160,9 +160,9 @@ Writing software for yourself and others like you bypasses all the hardest parts
 
 Developing tools for development by fellow developers makes a pretty nice kit, or at least a large and very full one.  But it flexes none of the necessary muscles for understanding people, writing the software they need, and confirming their needs are well and truly met.
 
-Eliciting requirements and feedback isn't necessary when the requirements and feedback are your own.  Accountability happens involuntarily.  So communication atrophies to the acerbic, confrontational engineering tone software is so known for.
+Eliciting requirements and feedback isn't necessary when the requirements and feedback are your own.  Accountability happens all in one head.  So communication atrophies to the acerbic, confrontational engineering tone software is so known for.
 
-Ensuring your work actually addresses a significant user need happens inevitably when you satisfy yourself.  So a thousand web frameworks bloomed while encryption remained impractical for the average Jane or Joe.
+Ensuring your work actually satisfies a need happens inevitably when you satisfy yourself.  So a thousand web frameworks bloomed while encryption remained impractical for the average Jane or Joe.
 
 Learning and leveraging new platforms, venues, and communication styles doesn't happen when you pick your platform, venue, and communication style of first choice over and over again.  GitHub hasn't taken off as a general-purpose collaboration tool outside software, and the more software-specific features it piles on, the more niched it feels.
 
