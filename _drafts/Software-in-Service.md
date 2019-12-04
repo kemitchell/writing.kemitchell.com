@@ -202,7 +202,7 @@ Serving others who _don't_ share your expertise, culture, or lifestyle represent
 
 To develop new skill and strength, follow the usual program.  Reorder your priorities, and flow them down into your time.  Strong swimmers clock a lot of fast laps.  Good negotiators close a lot of tough deals.  Good grief counselors listen through a lot of pain.  Coders who work well with others work a lot of projects with others.
 
-The difficulty of those skills makes them valuable.  Getting started takes discipline. But once the virtuous loop of struggle, success, and noticeable progress closes, practice becomes play, discipline becomes avocation, and you find yourself getting really, really good at something.  Something that others can value.  Something that can connect you to richer veins of purpose.
+The difficulty of those skills makes them valuable.  Getting started takes discipline.  But once the virtuous loop of struggle, success, and noticeable progress closes, practice becomes play, discipline becomes avocation, and you find yourself getting really, really good at something.  Something that others can value.  Something that can connect you to richer veins of purpose.
 
 ## Program, Proposing
 
