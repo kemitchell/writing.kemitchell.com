@@ -14,7 +14,7 @@ As the reality of thankless maintainership, business predation, and adoption for
 
 Following their lead keeps us alone.  Stroking our own egos keeps us alone.  Scratching our own itches keeps us alone.  Fetishizing autonomy and self-reference keeps us alone.  All that insularity has made software---free, open, and closed---a classic conspiracy against the laity.  The laity is pissed.  They don't hail their coders as liberators, but resign to their power as a foreign, mind-occupying force.
 
-With a little outside perspective, the problem is obvious, and so are the solutions.  The opposite of conspiracy is service.  Public service, for others rather than ourselves.  Foreign service, far outside the software realm.  The opposite of isolation is connection.  Service requires connection.
+With a little outside perspective, the problem is obvious, and so are the solutions.  The opposite of conspiracy is service.  Public service, for others rather than ourselves.  Foreign service, far outside the software realm.  The opposite of isolation is connection.  Serve well and you get connection for free.
 
 Meet other kinds of people, work with them closely, and scratch _their_ itches, rather than your own.  Praise others who do, and accept praise yourself when you've earned it.  Embrace frameworks for esteem and self-actualization, but only from a safe distance outside software.  Open yourself first, and learn who you're trying to help.  _Then_, maybe, think about software.
 
