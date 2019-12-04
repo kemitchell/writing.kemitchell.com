@@ -68,7 +68,7 @@ All of this is the interdependence of values in action.  When the only value we 
 
 I don't parade horribles to paint a one-sided picture of free or open source software.  I've written at length on how "open" writ large has done me good turns.  It still does.
 
-Well worn narratives extol the benefits of free and open source software.  Those narratives won out in part by ignoring and downplaying any costs.  The costs remain scattered, without a story, anecdotal.  Despite widespread firsthand experience.  A few great narratives trump a lot of good ones any day.
+Well worn narratives extol the benefits of free and open source software.  Those narratives won out in part by ignoring and downplaying any costs.  The costs remain scattered, without a story, anecdotal.  Despite widespread firsthand experience.  One great narrative trumps a few merely accurate ones any day.
 
 Laying both costs and benefits out dry presents a stark choice:  Do we write off the costs for the benefits?  Do we ignore the benefits in light of the costs?  Or do we try to weigh and balance?  If we weigh and balance, how?  GPLv3?  Who will benefit by our decision?  RMS?  Grandma?
 
