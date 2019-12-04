@@ -56,7 +56,7 @@ I've seen black-and-white software freedom birth a successive embodiment of emer
 
 All of that is profoundly unjust.  Blindly maximizing software freedom compromises essential fairness.  Nobody wants to play a game stacked against them, even if they never really wanted to win.
 
-I've seen black-and-white software freedom enable powerful user-come-latelys to undermine the leadership of long-serving creators and maintainers. I've seen burned out developers replaced by fresh blood waiting in the wings, projects marginalized and threatened with hostile forks from consortia of household names, and new ideas eclipsed by clones from highly paid hirelings while the original devs flailed.  I've seen the norm of credit for developers behind projects fall from expectation to broadly ignored license chore to "proprietary" sin.
+I've seen black-and-white software freedom enable powerful user-come-latelys to undermine the leadership of long-serving creators and maintainers.  I've seen burned out developers replaced by fresh blood waiting in the wings, projects marginalized and threatened with hostile forks from consortia of household names, and new ideas eclipsed by clones from highly paid hirelings while the original devs flailed.  I've seen the norm of credit for developers behind projects fall from expectation to broadly ignored license chore to "proprietary" sin.
 
 All of this is profoundly disrespectful, often intimately disloyal.  Blindly maximizing freedom compromises respect and authority.  Nobody wants to join a community as disposable human sacrifice.
 
