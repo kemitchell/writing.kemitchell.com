@@ -138,7 +138,7 @@ All these mindsets come from life, and all the lessons informing them come from 
 
 Software freedom obsession naturally results from unexplained, opaque software freedom impingement.  With the right (or wrong) reinforcement, it can readily outstrip its original stimulus.  Vilification of a symbol---IBM, Microsoft, Oracle, industry generally---readily follows.
 
-That doesn't make the obsessed or the vilifying fools.  It confirms them as human.  But human intuitions aren't slow or subtle.  Without deep social discourse and lots of time, intellect can at best mollify.  Those conditioned to bristle at "no" for an answer to literally any question about software will bristle.  They may reason themselves down from there.  They may not.
+That doesn't make the obsessed or the vilifying fools.  It confirms them as human.  But human intuitions aren't slow, subtle, or rational.  Without deep social discourse and lots of time, intellect can at best mollify.  Those conditioned to bristle at "no" for an answer to literally any question about software will bristle.  They may reason themselves down from there.  They may not.
 
 We have heard a lot of shouting in free and open software politics.  Having another tribe to yell at has been defining for both.  Bringing that opposition _within_ the culture, especially online, proved far more self-sustaining, interactive, and compelling than taking on industry through traditional media.  But all that shouting has largely drowned out those attempting to bring comparatively robust moralities and ideologies from without software within it.
 
