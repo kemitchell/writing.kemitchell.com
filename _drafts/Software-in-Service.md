@@ -106,7 +106,7 @@ Living through this realization teaches that open-source ideology, free-software
 >
 > --- Larry Wall
 
-I accepted delusions of ethical grandeur and loose use of weighty words like "philosophy" because they imbued my personal choices about software, well within my control, even in childhood, with outsize meaning and importance.  They enables me to believe I was gifted, rather than hooked.  They enabled me to believe that my use of a copyright license, or even my taste in other peoples' software, amounted to countercultural, charitable, even revolutionary acts.
+I accepted delusions of ethical grandeur and loose use of weighty words like "philosophy" because they imbued my personal choices about software, well within my control, even in childhood, with outsize meaning and importance.  They enabled me to believe I was gifted, rather than hooked.  They enabled me to believe that my use of a copyright license, or even my taste in other peoples' software, amounted to countercultural, charitable, even revolutionary acts.
 
 They did not.  Except in the eyes of the similarly seduced.
 
