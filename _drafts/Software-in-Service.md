@@ -248,4 +248,6 @@ It's the same with my law clients today.  Every opportunity to show my work is n
 
 ## Prologue, Inviting
 
-Software was born a [monastic order](https://en.wikipedia.org/w/index.php?title=Monastic_order&redirect=no).  It fashioned itself a [missionary order](https://en.wikipedia.org/w/index.php?title=Missionary_order&redirect=no).  It is time to meet the world as a [mendicant order](https://en.wikipedia.org/w/index.php?title=Mendicant_order&redirect=no).  The poverty of mendicants is superficial.  Those who truly walk in service pity material wealth.
+Software was born a [monastic order](https://en.wikipedia.org/w/index.php?title=Monastic_order&redirect=no).  It fashioned itself a [missionary order](https://en.wikipedia.org/w/index.php?title=Missionary_order&redirect=no).  It is time to meet the world as a [mendicant order](https://en.wikipedia.org/w/index.php?title=Mendicant_order&redirect=no).  The poverty of mendicants was always superficial.  Those who truly walk in service pity material wealth.
+
+This post is long.  This post is over.  What are you going to do now?
