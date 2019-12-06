@@ -7,6 +7,7 @@ tags:
 - Licensing
 - Copyleft
 - SSPL
+- OSI
 ---
 
 This is the first in [a series inspired by MongoDB's Server Side Public License](/series/SSPL.html) and ensuing debate.
