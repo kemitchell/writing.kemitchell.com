@@ -31,7 +31,7 @@ I could rationalize this playbook in any number of ways after the fact.  But I d
 
 I did not think of [Parity](https://paritylicense.com) as a license for folks who just want beefy copyleft without exceptions, free or paid.  I'd guess that's now its primary use case.
 
-I had no idea that Jeff Atwood would rename [API Copyleft](https://apicopyleft.com/), or that Han Seoul-Oh would give the most insightful feedback on a legal drafting problem I've ever seen online.  I didn't know Han existed when I started.
+I had no idea that Jeff Atwood would rename [API Copyleft](https://apicopyleft.com/), or that Han Seoul-Oh would give the most insightful feedback on a legal drafting problem I've ever seen online.  I didn't know Han existed.
 
 I didn't think that [Prosperity](https://prosperitylicense.com) would outlive the publication of [PolyForm's 1.0.0 releases](https://polyformproject.org/licenses/).  It turns out folks really want a combination of noncommercial base and a free trial.
 
@@ -51,16 +51,16 @@ This _is_ the process.  We can all get in touch with each other.
 
 Each of those quibbles, through each of those channels, _could have been feedback on substance_, rather than a [point of order](https://polyformproject.org/licenses/) under rules that don't exist.
 
-Anything resembling gatekeeping puts permissionless instincts on edge.  The instincts trigger a reflex.  Identify demands for permission as such.  Ignore them, or if you can't, route around them.  Find the low-friction path and stay on it.
+Anything resembling gatekeeping puts permissionless instincts on edge.  Those instincts trigger a reflex.  Identify demands for permission as such.  Ignore them, or if you can't, route around them.  Find the low-friction path, keep it clear, and stay on it.
 
-If the process is productive, criticism is welcome ... in kind.  If the terms aren't good, send better ones, or a patch.  If the process isn't optimal, fork, try your process, and we'll see.  If the goals aren't your goals, tells us your goals.  We can decide whether to joint forces or part ways.  If the bona fides aren't to your satisfaction, go establish different ones.  If throwing spaghetti isn't your method, cook your way and feed your people.  I'll feed mine.
+If the process is productive, criticism is welcome ... in kind.  If the terms aren't good, send better ones, or a patch.  If the process isn't optimal, fork, try your process, and we'll see.  If the goals aren't your goals, tells us your goals.  We can decide to join up or part ways.  If the bona fides aren't to your satisfaction, go establish different ones.  If throwing spaghetti isn't your method, cook your way and feed your people.  We'll feed ours.
 
 In the end, there is no such thing as a license to write software licenses.  Cambridge police didn't haul RMS in for the unauthorized practice of law, and they shouldn't have.
 
-If a new set of terms has inherently welcome or unwelcome potential, we'll find out in the wild.  There's nothing more dangerous in the choice of a license than in the choice of a library, language, framework, or dev tool.  Except, perhaps, because licenses largely haven't been subject to 2010s style, Web-enabled shopping.  They aren't well maintained.  They aren't rapidly developed.  They aren't field-upgradeable.  They could and should be.
+If a new set of terms has inherently welcome or unwelcome potential, we'll find out in the wild.  There's nothing more dangerous in the choice of a license than in the choice of a library, language, framework, or dev tool.  Except, perhaps, because licenses largely haven't been subjected to the last 10 years of Web-enabled development methodology.  They aren't well maintained.  They aren't rapidly developed.  They aren't field-upgradeable.  They can and should be.
 
-What _is_ at stake is control.  If you think that noncommercial software licenses shouldn't exist, if you think that copyleft should belong to one political program, if you think that software licenses shouldn't demand credit, if you think they shouldn't reach into data, hardware, networking, or other dimensions of computing, if you think your moral concern is the only one that deserves licensing power behind it, then you _have_ to control the process of making and deploying new licenses.  Because plenty of developers want those terms, and they will write them, with or without my kind of help.  If you can't convince them otherwise, or bully them out of doing so, you have to take the license commit bit out of their hands, or scare them out of using it.
+What _is_ at stake is control.  If you think that noncommercial software licenses shouldn't exist, if you think that copyleft should belong to one political program, if you think that software licenses shouldn't demand credit, if you think they shouldn't reach into data, hardware, networking, or other dimensions of computing, if you think your moral concern is the only one that deserves to wield license power, then you _have_ to control the process of making and deploying new licenses.  Because plenty of developers want those terms, and will write them, with or without my kind of help.  If you can't convince them otherwise, or bully them out of it, you have to take the license commit bit out of their hands, or scare them out of using it.
 
 Good luck with that.
 
-Developers have the right to pick their licenses.  They have the means to write the new ones they want.  They can twiddle `LICENSE` as easily as `README`, and see others getting away with it.  They can read their own history, and how imposed views on "proper" and "improper" licensing panned out in the past.
+Developers have the right to pick their licenses.  They have the means to write the new ones they want.  They can twiddle `LICENSE` as easily as `README`, and see others getting away with it.  They can read their own history, and how past attempts to constrain their license choices failed.
