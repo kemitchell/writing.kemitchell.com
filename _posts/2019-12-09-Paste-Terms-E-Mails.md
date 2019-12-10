@@ -51,6 +51,6 @@ Splitting every message in two---e-mail text we expect clients to read and attac
 
 If the goal is staying on the same page, there should be one page.  We should be doing everything possible to lower client barriers to participation and confirmation.  Assuredly, trust is important.  Good attorney-client doesn't look like good toddler-parent.  But the more engagement our clients can justify in the process---their process---the more engagement we'll get, and the less risk we'll run of costly misfire.
 
-Having lawyered to the _right_ result, we can take the terms the parties want to sign out of e-mail wherever we want---DocuSign, printer, local monastic illuminator---on its way to signature.  But again, it's just a document.  There's rarely any legal or practical magic in how DocuSign or a fancy fountain pen makes evidence of assent.  E-mails confirming agreement to the same terms, backed by the security of our e-mail systems, work fine, too.
+Having lawyered to the _right_ result, we can take the terms the parties want to sign out of e-mail wherever we want---DocuSign, printer, local monastic illuminator---on its way to signature.  But again, it's just a document.  There's rarely any legal or practical magic in how DocuSign or a fancy fountain pen makes evidence of assent.  E-mails confirming agreement to the same terms, backed by the security of our e-mail systems, can do the job fine, and often better.
 
 It's just documents.
