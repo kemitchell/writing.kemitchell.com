@@ -47,7 +47,7 @@ Attaching redlines comes down from ye olden days of word processing, when prepar
 
 Moreover, clients can and maybe even will glance terms pasted into e-mails, especially the important parts.  A great number cannot and do not open legal looking attachments, even if they spend more time typing at computers than their lawyers do.
 
-Splitting every message in two---e-mail text we expect clients to read and attachments we expect they'll overlook---reinforces separation of client and legal attention.  Clients rarely fail to understand what they want.  Lawyers rarely fail to do a competent job.  The common problems start when lawyers fail to understand what their clients want, or when clients fail to notice a good lawyer heading off in the wrong direction.
+Splitting every message in two---e-mail text we expect clients to read and attachments we expect them to overlook---reinforces separation of client and legal attention.  Clients rarely fail to understand what they want.  Lawyers rarely fail to do a competent job.  The common problems start when lawyers fail to understand what their clients want, or when clients fail to notice a good lawyer heading off in the wrong direction.
 
 If the goal is staying on the same page, we should be doing everything possible to lower client barriers to participation and confirmation.  Assuredly, trust is important.  Good attorney-client doesn't look like good toddler-parent.  But the more engagement our clients can justify in the process---their process---the more engagement we'll get, and the less risk we'll run of costly misfire.
 
