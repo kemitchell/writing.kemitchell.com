@@ -39,7 +39,7 @@ agree as follows:
 [...]
 ```
 
-Everyone with an e-mail address can read e-mail.  They don't need another app, account, subscription, or service to read text.  They don't need any separate document management, sharing, or control system to store copies, either.  E-mails _are_ documents.  We have secure, confidential systems for storing and sharing them---mailboxes.  If your mailbox gets compromised, the security of the filing cabinet where you copied a bunch of things from e-mail is moot.
+Everyone with an e-mail address can read e-mail.  They don't need another app, account, subscription, or service to read text.  They don't need any separate document management, sharing, or control system to store copies, either.  E-mails _are_ documents.  We have secure, confidential systems for storing and sharing them---mailboxes.  If your mailbox gets compromised, the security of the filing cabinet where you copied a bunch of things from your e-mail is moot.
 
 But how will we send redlines?  We won't.  And we shouldn't.  Let the other side make their redlines, however they want.  They can paste terms into Word and run Track Changes.  Or use any number of free, online services that don't share or store content, like [Mergely](https://mergely.com/editor).  It will be easy enough to find the old and new proposals.  Look a few messages up the e-mail chain, copy, and paste.
 
