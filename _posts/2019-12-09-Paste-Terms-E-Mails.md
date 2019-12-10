@@ -45,7 +45,7 @@ But how will we send redlines?  We won't.  And we shouldn't.  Let the other side
 
 Attaching redlines comes down from ye olden days of word processing, when preparing redlines cost a fair wage, took a long time, or both.  These days, I create my own redlines with software, at zero marginal cost, in seconds, even when opposing attaches their own.  That's not paranoia.  It's experience.  I've handled contracts long enough to see and make mistakes.  In the end, it is _my_ responsibility to review and respond to the other side's proposal.
 
-Moreover, clients can and maybe even will glance terms pasted into e-mails, especially the important parts.  A great number cannot and do not open attachments, even if they spend more time typing at computers than their lawyers do.
+Moreover, clients can and maybe even will glance terms pasted into e-mails, especially the important parts.  A great number cannot and do not open legal looking attachments, even if they spend more time typing at computers than their lawyers do.
 
 Splitting every message in two---e-mail text we expect clients to read and attachments we expect they'll overlook---reinforces separation of client and legal attention.  Clients rarely fail to understand what they want.  Lawyers rarely fail to do a competent job.  The common problems start when lawyers fail to understand what their clients want, or when clients fail to notice a good lawyer heading off in the wrong direction.
 
