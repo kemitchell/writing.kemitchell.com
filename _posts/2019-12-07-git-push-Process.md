@@ -25,7 +25,7 @@ Three:  I make folks as comfortable as I can putting hands on the language.  Pul
 
 Four:  I have no problem letting projects whither, die, and mulch in public.  I've lost count of how many licenses I've sketched over the past few years.  Some grew up, most didn't.  Or at least most haven't yet.  I've seen forgotten licenses suddenly gush feedback a year after I'd forgotten about them.  I've cast terms aside as trash, only to recycle 80% by weight in new terms, months later.  As for my precious reputation, let the world see work shown.  Especially the parts where I acknowledge and work through mistakes.
 
-Five:  As soon as a license looks viable, I make the license a dinky website and get it off domains, accounts, and other Web buckets tied to my name.  I disown nothing.  I'm proud of my work.  But the impression of my "ownership", rather my "contribution", mutes the welcome to others.  As soon as a license has roots, it should be stand for the sun.  Let the website be janky.  If it bothers someone, let them fix it.
+Five:  As soon as a license looks viable, I make the license a dinky website and get it off domains, accounts, and other Web buckets tied to my name.  I disown nothing.  I'm proud of my work.  But the impression of my "ownership", rather my "contribution", mutes the welcome to others.  As soon as a license has roots, it should stand up and grow toward the sun.  Let the website be janky.  If it bothers someone, they can fix it.
 
 I could rationalize this playbook in any number of ways after the fact.  But I don't need a theory as much as the benefits.  One above all else:  This approach welcomes feedback from utterly unexpected sources, at almost any time.
 
