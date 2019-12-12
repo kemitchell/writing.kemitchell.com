@@ -27,7 +27,7 @@ Nondisclosure agreements are not nondisclosure guarantees.  If the only consiste
 
 By implicitly endorsing the magical power of the doorway NDA, legal invites defenses further in depth to slack, in reliance on the anointed talisman.  The people who put sticky notes in the wrong places, or bellow too loud into speakerphones, don't typically boast intimate legal knowledge of what NDAs can and cannot achieve in the field.  They know that in the event of an issue, they will have legal to blame.
 
-To the credit of my hosts specifically, they did actually practice more countermeasures.  I required a legal escort, for example, to use the restroom.  Which oddly enough fell both outside the Free Zone I could travel unescorted _and_ on the route we took to get in from the entry.  In other words, the range I could roam did not include the way I came in.  A river of security policy lava separated my from the State of California.
+To the credit of my hosts specifically, they did actually practice more countermeasures.  I required a legal escort, for example, to use the restroom.  Which oddly enough fell both outside the Free Zone I could travel unescorted _and_ on the route we took to get in from the entry.  In other words, the range I could roam did not include the can or the way I got in.  A river of security policy lava separated me both from life's necessities and the State of California.
 
 All that said, nondisclosure agreements _do_ have signal value, in addition to legal value.  Wherever presented, they say:
 
