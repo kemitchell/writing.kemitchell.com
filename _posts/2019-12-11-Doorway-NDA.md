@@ -11,7 +11,7 @@ I broke a personal rule today.  I "signed" a nondisclosure agreement at one of t
 
 At first, I refused.  And the helpful front desk people---having never encountered such a creature---phoned it in and got permission to make a badge special.  Gaining admission that way, I was soon fished back to tap through again by company counsel, leaving the defaults alone this time.
 
-While reading the NDA, I discovered a typo, which I mentioned to my escort.  I also noticed several legal deficiencies---in the host's favor---which I did not.  I left the "agree" option preselected, and pressed the print-my-badge button.  The machine duly belched yet another ticket, identical the one I was already wearing.
+While reading the NDA, I discovered a typo, which I mentioned to my escort.  I also noticed several legal deficiencies---in the host's favor---which I did not.  I left the "agree" option preselected, and pressed the print-my-badge button.  The machine duly belched yet another ticket, identical to the one I was already wearing.
 
 I signed the damn thing because behind the corporate gate sat three clients waiting for my legal advice.  Free legal advice.  The event hosted by the company was a legal aid clinic.  I was one of the lawyers.
 
