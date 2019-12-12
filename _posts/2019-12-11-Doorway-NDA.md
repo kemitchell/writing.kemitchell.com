@@ -51,4 +51,6 @@ Law firms have more than trade secrets to worry about.  Under confidentiality an
 
 Companies are sliding backwards on the basics.  With heads in legal clouds, remote from predictable human consequences, and vendors all too eager to facilitate the trip, duds like the doorway NDA follow like bad ideas from too much money.  Command can see the iPads at the door, see its concrete policy mandate effected.  But they're still anxious, still wonder if their advice ever really registers with the boots on the ground.  If it's taken as advice, rather than another obstacle to clear.
 
-It isn't.  With the doorway NDA, ain't hard to tell why.  I'm irked once, the first and last time I visit the office.  The people who work there see and feel it in action every day.
+It isn't.  With the doorway NDA, ain't hard to tell why.
+
+I'm irked once, the first and last time I visit the office.  The people who work there see and feel it every day.
