@@ -7,7 +7,7 @@ tags:
 - Nondisclosure Agreement
 ---
 
-I broke a personal rule today.  I "signed" a nondisclosure agreement at one of those front-desk iPad check-in stations infecting San Francisco tech company offices like an iPad-poking pox.
+I broke a personal rule today.  I "signed" a nondisclosure agreement at one of those front-desk check-in stations infecting San Francisco tech company offices like an iPad-poking pox.
 
 At first, I refused.  And the helpful front desk people---having never encountered such a creature---phoned it in and got permission to make a badge special.  Gaining admission that way, I was soon fished back to tap through again by company counsel, leaving the defaults alone this time.
 
