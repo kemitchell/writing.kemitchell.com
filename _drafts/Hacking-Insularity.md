@@ -25,3 +25,9 @@ It can be enough, so long as all you want to do is hack, and your only obstacles
 ## Defenses
 
 ## Others
+
+## Usability
+
+<!-- start from what we want, but make concession to smoothing it over for others -->
+
+<!-- In an ideal world, as few people have to be programmers as possible. -->
