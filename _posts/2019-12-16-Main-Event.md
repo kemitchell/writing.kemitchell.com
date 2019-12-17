@@ -4,6 +4,7 @@ description: Amazon versus Startups and the New York Times
 tags:
 - Open Source
 - Politics
+brief:  Amazon and The New York times are tiffing about open source, but it's not very exciting, and matters less by the day.
 ---
 
 And here we have it, ladies and gentlemen---the main event!
