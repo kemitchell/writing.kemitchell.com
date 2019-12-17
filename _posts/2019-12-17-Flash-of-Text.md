@@ -15,7 +15,7 @@ First, it interrupts the usual flow of watching the video as little as possible.
 
 [^2]:  Nope.  Gotcha.
 
-Second, it turns what is fundamentally a one-way transmission---recorded video---into a subtly interactive medium.  The video controls become part of how viewers experience with the work.  But only for those most engaged with the material, who earn a feeling of insider camaraderie by repurposing those controls to dig in deeper than the average reader.
+Second, it turns what is fundamentally a one-way transmission---recorded video---into a subtly interactive medium.  The video controls become part of how viewers experience the work.  But only for those most engaged with the material, who earn a feeling of insider camaraderie by repurposing those controls to dig in deeper than the average reader.
 
 This is profoundly seductive.
 
