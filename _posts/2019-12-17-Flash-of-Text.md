@@ -9,7 +9,7 @@ The text works a bit like a footnote.  If you want to read more, you can pause t
 
 This is clever on many levels.
 
-First, it interrupts the usual flow of watching the video as little as possible.  Like the tiny footnote[^1] markers[^2] in an academic text, you know there's something more there, but it's easy enough to skip right bit it.  If you're just browsing, or watching in the background, you may never know it was there.
+First, it interrupts the usual flow of watching the video as little as possible.  Like the tiny footnote[^1] markers[^2] in an academic text, you know there's something more there, but it's easy enough to skip right by it.  If you're just browsing, or watching in the background, you may never know it was there.
 
 [^1]:  Nothing here.
 
