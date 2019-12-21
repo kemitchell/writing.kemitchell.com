@@ -10,7 +10,7 @@ tags:
 
 I grew up on narratives and ideologies of free and open source software.  They shaped my thinking in ways I'll probably never be able to fully appreciate.  But the more experience I gain with the impact of those ideas in practice, the more the terms "free" and "open" cut with deep, painful irony.
 
-Our source may be open, as we define open.  Our software may be free, as we define free.  But as an industry, as a culture, and as individual people we are, as a whole, profoundly closed.  Content to inhabit a narrow world of our own construction, "freedom" and "openness" don't change our minds.  They justify our self-conscious closed-mindedness.
+Our source may be open, as we define open.  Our software may be free, as we define free.  But as an industry, as a culture, and as individual people we are, as a whole, profoundly closed.  Content to inhabit a narrow world of our own construction, "freedom" and "openness" don't change our minds.  They justify our closed-mindedness.
 
 Those justifications for what we wanted to begin with---to play with computers unimpeded---worked a treat.  For a while.  But these days, from any outside point of view, they're an obvious prescription for insularity bordering on conspiracy. People who aren't computer people now have every opportunity to see the results, and cry foul.
 
