@@ -18,10 +18,10 @@ Seeing this play staged over and over again involves a lot of deep sighs on my e
 
 There's no failure of communication sparking off these flame wars.  Each side understands the points the other side is making, as written, and has probably read and understood them before.  There is instead a failure of mutual appreciation.  Each point of view understands and expresses itself in its own vocabulary, which embodies different assumptions about what points matter, and why.  But points that count on one side simply don't register on the other, so there's no way to talk about the conflict in a way that's meaningful on both sides.
 
-I'd like to offer one.  Call it "insularity".  Call it "specialization".  Call it whatever you like.  The question boils down to:
+I'd like to offer one.  Call it "insularity".  Call it "specialization".  Call it "isolationism".  Call it whatever you like.  The question boils down to:
 
 Should programming try to separate itself off from other business, social, and technical concerns, as a kind of hermitage or neutral zone?  Or should it instead embrace its universal applicability and interconnectedness, and responsibility beyond the merely technical?
 
 The archetype of free and open software's best-known banner names is the obsessive, quasi-monastic computer nerd shut-in who constructs, relishes, and defends the cloistered, obsessive lifestyle of the compulsive hacker.  Linus and Stallman spent multiple, formative years doing little else but programming.  They're people, and they've both broadened and mellowed with age.  But at their most potent, and as we still seem them, symbolically, they were hardly paragons of well-roundedness.
 
-The one-sided stereotype has always been simplistic and unfair.  Not everyone who does a lot of programming 
+The one-sided stereotype has always been simplistic and unfair.  Not everyone who does a lot of programming
