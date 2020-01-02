@@ -29,9 +29,7 @@ By implicitly endorsing the magical power of the doorway NDA, legal invites defe
 
 To the credit of my hosts specifically, they did actually practice more countermeasures.  I required a legal escort, for example, to use the restroom.  Which oddly enough fell both outside the Free Zone I could travel unescorted _and_ on the route we took to get in from the entry.  In other words, the range I could roam did not include the can or the way I got in.  A river of security policy lava separated me both from life's necessities and the State of California.
 
-All that said, nondisclosure agreements _do_ have signal value, in addition to legal value.  Wherever presented, they say:
-
-> Put on your grown-up pants.  It's serious business time.
+All that said, nondisclosure agreements _do_ have signal value, in addition to legal value.  Wherever presented, they say "Put on your grown-up pants.  It's serious business time."
 
 That is important, and not always obvious without the formality of something legal.  But none of the words of that message are "welcome", "nice to see you", or "thank you for coming to us, instead of making us come to you".  Doorway NDAs unravel every thread of good hospitality.
 
