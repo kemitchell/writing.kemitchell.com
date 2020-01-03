@@ -49,7 +49,7 @@ For the rest of humanity, the gist of "strip-mining open source" is highly inacc
 
 There aren't any miners here.  We're talking about people, largely educated, affluent people, who twiddle smooth fingertips on plastic keys and stare at pretty screens all day.  If they skew hippie and croon community Kumbaya instead of chasing that cheddar, there's no great sympathy waiting when they fail to become spontaneously wealthy.
 
-Taking your stuff isn't wrong if you said they could.  Especially since you knew they would, because this is America.  You can start your commune, but you cannot secede from the market.
+Taking your stuff isn't wrong if you said they could.  Especially since you knew they would, because this is America.  You can start your commune, but you can't secede from the market.
 
 ## Customer-Centric
 
@@ -67,7 +67,7 @@ American corporate mission mumbo is like the fresh flesh of a ripe avocado: it g
 
 But Amazon hasn't taken to its bland corporate blog for self-deprecation.  It takes itself seriously.
 
-There's nothing inspirational or countercultural about grubbing for purchase orders.  That's called work.
+But there's nothing inspirational or countercultural about grubbing for purchase orders.  That's called work.
 
 ## Open Source
 
