@@ -1,6 +1,6 @@
 ---
 title: I Am Not Advising Legally
-description: smart people don't understand our disclaimers
+description: smart people don't understand lawyers' disclaimers
 tags:
 - Legal Ethics
 - Legal Profession
