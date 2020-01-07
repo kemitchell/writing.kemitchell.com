@@ -81,8 +81,8 @@ If you use copyleft to counteract bad behavior, a key test of your license is wh
 
 ## copyleft-lonely
 
-...
+<!-- No surprise that folks dual licensed with GPLv2.  Didn't address in GPLv3 or AGPLv3. -->
 
 ## Benefits
 
-...
+<!-- Got code.  Network effects. Eyeballs for their license and its preachy preamble. -->
