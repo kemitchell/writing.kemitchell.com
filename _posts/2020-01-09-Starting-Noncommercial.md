@@ -1,6 +1,10 @@
 ---
 title: Starting Noncommercial
 description: famous projects that started noncommercial
+tags:
+- Software Industry
+- Licensing
+- Noncommercial
 ---
 
 I've been rereading notes and books about the early Internet, free software, and open source.  I'm struck by how many foundational projects began life under licenses that limited commercial use:
