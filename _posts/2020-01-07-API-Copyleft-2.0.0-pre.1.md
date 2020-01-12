@@ -8,7 +8,7 @@ tags:
 - Licenses
 ---
 
-Thanks to renewed interest from others, I've put some attention back on the [API Copyleft License](https://apicopylet.com), a software license that's copyleft for improvements and extensions, but permissive for applications.  In particular, I've been able to "backport" some of the big substance and style improvements that made it into [Parity 7.0.0](https://paritylicense.com/versions/7.0.0.html).  The text of the new API Copyleft License 2.0.0-pre.1 follows.
+Thanks to renewed interest from others, I've put some attention back on the [API Copyleft License](https://apicopyleft.com), a software license that's copyleft for improvements and extensions, but permissive for applications.  In particular, I've been able to "backport" some of the big substance and style improvements that made it into [Parity 7.0.0](https://paritylicense.com/versions/7.0.0.html).  The text of the new API Copyleft License 2.0.0-pre.1 follows.
 
 If that sounds interesting, have a quick read through and [feed back on the GitHub PR](https://github.com/kemitchell/api-copyleft-license/pull/40), [send me an e-mail](mailto:kyle@kemitchell.com), or Heck, [mail me an open letter](https://letters.kemitchell.com).  If you're familiar with the Blue Oak Model License or Parity, you can skip right to the meat of the license, the [Copyleft](#copyleft) and [Applications](#applications) sections.
 
