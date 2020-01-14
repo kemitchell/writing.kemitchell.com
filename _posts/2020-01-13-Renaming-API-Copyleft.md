@@ -19,4 +19,4 @@ However, I also think that "API Copyleft" describes the implementation of the li
 
 The core motivation for choosing a license like API Copyleft is to require sharing of changes and improvements to the project, rather than hoarding and forking.  "Share" is indeed the key word.  But I don't think "Shared Component License" has a good ring to it.
 
-Can you think of a better name?  E-mail me at [kyle@kemitchell.com](mailto:kyle@kemitchell.com?subject=Renaming%20API%20Copyleft)?
+Can you think of a better name?  Weigh in on the [GitHub issue](https://writing.kemitchell.com/2020/01/13/Renaming-API-Copyleft.html) or e-mail me at [kyle@kemitchell.com](mailto:kyle@kemitchell.com?subject=Renaming%20API%20Copyleft)?
