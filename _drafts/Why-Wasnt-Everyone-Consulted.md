@@ -25,7 +25,7 @@ In open software, some folks want to see everything done by a particular kind of
 
 But I don't agree with it.  I reject it outright.
 
-Committee work product has a well developed reputation, and not for clarity, approachability, or innovation.  Overburden of committee process leads to inferior results, or no results at all, with grim predictability.  Moreover, requiring committee process, and giving process primary over quality, affronts strong lessons from the software side of open software production.  The distinctions between open software and open legal held out to justify a difference in how we make open legal are largely of lawyers' own making.  We should abolish and replace those differences, and we know how.
+Committee work product has a well developed reputation, and not for clarity, approachability, or innovation.  Overburden of committee process leads to inferior results, or no results at all, with grim predictability.  Moreover, requiring committee process, and giving process primacy over quality, affronts strong lessons from the software side of open software production.  The distinctions between open software and open legal held out to justify a difference in how we make open legal are largely of lawyers' own making.  We should abolish and replace those differences, and we know how.
 
 ## Spontaneous
 
