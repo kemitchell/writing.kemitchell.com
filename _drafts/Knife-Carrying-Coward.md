@@ -1,8 +1,0 @@
----
----
-
-<!-- Secession -->
-
-<!-- Walter Mitty -->
-
-<!-- Anxiety -->
