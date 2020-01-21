@@ -1,6 +1,6 @@
 ---
 title: Few-Maintainer Projects
-description:
+description: reality-driven expectations
 tags:
 - Open Source
 - Policy
