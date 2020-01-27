@@ -2,11 +2,11 @@
 title: CCPA Service Provider Addendum
 description: plain, minimal form
 tags:
-- Privacy
 - California
-- California Consumer Privacy Act
 - Contracts
 - Forms
+- Privacy
+- SaaS
 ---
 
 I've published a first draft of a [minimalist, plain-terms contract addendum](https://github.com/kemitchell/ccpa-service-provider-addendum/releases/download/1e/addendum.docx) for "service providers" under the California Consumer Privacy Act, which went into effect this month.  What data protection addenda were for the General Data Protection Regulation, this new form is to the CCPA.
