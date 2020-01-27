@@ -1,5 +1,5 @@
 ---
-title: CCPA Service Provider Addendum'
+title: CCPA Service Provider Addendum
 description: plain, minimal form
 tags:
 - Privacy
