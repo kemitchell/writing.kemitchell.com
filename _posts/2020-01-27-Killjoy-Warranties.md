@@ -68,6 +68,6 @@ Incentives crystallize immediately.  Incentives to reduce the risk of a claim ag
 
 Again, we see this in dilute form already.  Companies backing open source projects, and projects themselves, love to slap well known users' logos all over their promo.  The implied message:  These companies have more riding on this software than you will.  They are going to bear the cost of insuring it.  You can ride free.  It's not a warranty.  It's social proof.
 
-But not actually.  New users usually don't know how the big names are using the project, or how broadly.  They don't know whether, when the time comes, they'll actually be able to meaningfully guide development with new contribution, rather than simply be outvoted by larger incumbents.  There's no guarantee.
+But not actually.  New users usually don't know how the big names are using the project, or how broadly.  They don't know whether, when the time comes, they'll actually be able to meaningfully guide development with new contribution, rather than simply be outvoted by larger incumbents.  There's no guarantee of aligned interest at any level.  There's no guarantee for any particular use case.
 
 There could be.
