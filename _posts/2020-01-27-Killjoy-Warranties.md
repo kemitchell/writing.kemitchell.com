@@ -62,7 +62,7 @@ One answer: make them pay.  Make the features they want closed.  Pick a copyleft
 
 But for the same effect, by other means, we could simply shift the risk where it belongs, and let them tell themselves to pay, to whom, how much, and when.
 
-Imagine an open source project that offers all the usual: full permission, full source code, access to build and other configuration, the works.  But add a new rule.  In order to use the software commercially, you have to join others in financially guaranteeing quality, maintenance, security, and other standard software warranties.  If someone _else_ has an issue with the software, you're on the hook, along with all the other users, to cover their costs.
+Imagine an open source project that offers all the usual: full permission, full source code, access to build and other configuration, the works.  But add a new rule.  In order to use the software commercially, you have to join other users in financially guaranteeing quality, maintenance, security, and other standard software warranties.  If someone _else_ has an issue with the software, you're on the hook, along with all the other users, to cover their costs.
 
 Incentives crystallize immediately.  Incentives to reduce the risk of a claim against the software.  Incentives to coordinate with other guarantors to do so efficiently.  Incentives to focus on the software, the project, and who can improve it, rather than just on one's own use case, or one's own developers on staff.
 
