@@ -48,7 +48,7 @@ Nothing in The MIT License requires developers, maintainers, or anyone else to d
 
 Nearly all open source licenses do, or try to do, the same.
 
-Open source license people tell ourselves that open source licenses don't have warranties because open source developers don't want to risk paying out for problems with software they never got paid for.  And that makes sense, as far as developers go.  But developers aren't the whole story.  Open source can, and [often does](https://redhat.com), come with warranties, not from the developers, but from companies selling things built on open source.  This happens so much that common open source licenses [include special rules about it](https://www.apache.org/licenses/LICENSE-2.0.html#additional), to make sure nobody confuses a company warranty for a developer warranty.
+Open source license people tell ourselves that open source licenses don't have warranties because open source developers don't want to risk paying out for problems with software they never got paid for in the first place.  And that makes sense, as far as developers go.  But developers aren't the whole story.  Open source can, and [often does](https://redhat.com), come with warranties, not from the developers, but from companies selling things built on open source.  This happens so much that common open source licenses [include special rules about it](https://www.apache.org/licenses/LICENSE-2.0.html#additional), to make sure nobody confuses a company warranty for a developer warranty.
 
 Reality Check:  Software should be good, and good software should come with warranties.  Especially software that many people rely upon.  Open source is not a house of cards, and it shouldn't be papered like one.
 
