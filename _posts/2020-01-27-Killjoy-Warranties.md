@@ -56,7 +56,7 @@ We get closer when many companies use an open source project, realize they use t
 
 It's also a model that assumes---and accelerates---vast enterpriseification of open source.  If some of the developers involved _don't_ work for the companies, the plan simply doesn't account for them.  If smaller companies, especially a lot of smaller companies, also use the open source project, collective action problems stymie their contributions.  Nobody gets a warranty, and nobody's locked in to fund the work that would make a warranty easy to give.
 
-Companies run risk by adopting open source.  But their number, organization, and self-awareness vary widely.  The enlightenment of their self-interest varies likewise.  How do we facilitate and encourage user support of what projects they should be supporting in the first place?  How do we ensure projects the resources they need to cross the chasm from nascent, niche experiment to broadly supported open source paragon?
+Companies run risk by adopting open source.  But their number, organization, and self-awareness vary widely.  The enlightenment of their self-interest varies likewise.  How do we facilitate and encourage user support of the projects they should be supporting in the first place?  How do we ensure projects the resources they need to cross the chasm from nascent, niche experiment to broadly supported open source paragon?
 
 One answer: make them pay.  Make the features they want closed.  Pick a copyleft license and charge to use in closed software.
 
