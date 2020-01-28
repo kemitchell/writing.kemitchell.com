@@ -20,7 +20,7 @@ Misers and nitwits think developers should be responsible, and that developers s
 
 More enlightened company creatures opine that the firms using and relying on open source should look after themselves.  Open source as spontaneous consortium.
 
-Independent open source developers hold that firms raking in the dough should feed the people, not just their own, but their open source developers, too.  Open source as collaboration.
+Independent open source developers hold that firms raking in the dough should feed the people, and not just their own, but their open source developers, too.  Open source as collaboration.
 
 No one is responsible and no one is on the hook.  It's the [state of nature](https://en.wikipedia.org/wiki/State_of_nature) with open source tossing the occasional bone.  [Figure out how to thump your competitors with the bones, they shall perish, and you shall grow up to have spaceships.](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)#Plot)  [I'm](https://en.wikipedia.org/wiki/Elon_Musk#SpaceX) [not](https://en.wikipedia.org/wiki/Blue_Origin) [kidding](https://en.wikipedia.org/wiki/Mark_Shuttleworth#Spaceflight).
 
