@@ -15,7 +15,7 @@ The list of OSI-approved licenses reflects OSI's practical and political history
 
 Relying on Open Source Initiative approval to get the kind of software license you expect is almost always trouble.  For nearly any practical need, the OSI-approved list will green-light licenses you don't want, and red-light many you do.
 
-![Venn Diagram](/images/want-osi-do-not-want.svg)
+![Venn Diagram](/images/want-osi-do-not-want.png)
 
 There are valid and wise ways to rely on OSI in policy advocacy, where a nonprofit can go and say where and what you can't.  But relying on an advocacy organization to approve legal terms for legal needs is different.  It’s category error.
 
