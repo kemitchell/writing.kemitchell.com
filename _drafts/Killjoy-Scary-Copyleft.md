@@ -1,6 +1,6 @@
 ---
 title: Copyleft Should be Scary
-description: if the virus weren't scary, would good people wash their hands?
+description: if the virus weren't scary, would we wash out hands?
 series: Killjoy
 tags:
 - Open Source
