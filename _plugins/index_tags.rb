@@ -1,5 +1,5 @@
 module Jekyll
-  # Generate a tag page per page.
+  # Generate a tag page per tag.
   class IndexTags < Generator
     safe true
     def generate(site)

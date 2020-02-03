@@ -2,8 +2,8 @@
 title: Patents for Software Freedom
 description: gun-shy insurgents and the heavy weapons of IP law
 layout: post
+series: Killjoy
 tags:
-- Killjoy
 - Open Source
 - Patent
 - Software Freedom

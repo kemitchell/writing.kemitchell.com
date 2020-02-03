@@ -2,8 +2,7 @@
 title: No Marginal Cost Means Free
 description:
 layout: post
-tags:
-- Memeguments
+series: Memeguments
 ---
 
 {% include memeguments.md %}

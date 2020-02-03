@@ -2,8 +2,8 @@
 title: Indirect Licensing
 description: dispensing software licenses in the Internet era
 layout: post
+series: Killjoy
 tags:
-- Killjoy
 - Open Source
 - Licensing
 ---

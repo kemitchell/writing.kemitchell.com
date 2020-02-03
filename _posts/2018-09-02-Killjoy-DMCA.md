@@ -2,8 +2,8 @@
 title: Enforce Open Source Licenses with the Digital Millennium Copyright Act
 description: takedown power for DIY developers
 layout: post
+series: Killjoy
 tags:
-- Killjoy
 - Open Source
 - Licensing
 - DMCA

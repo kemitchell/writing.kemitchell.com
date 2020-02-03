@@ -2,8 +2,8 @@
 title: Open Source Should Come With Warranties
 description: (from the companies who use it)
 layout: post
+series: Killjoy
 tags:
-- Killjoy
 - Open Source
 - Licensing
 ---

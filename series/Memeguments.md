@@ -1,4 +1,0 @@
----
-layout: series
-series: Memeguments
----

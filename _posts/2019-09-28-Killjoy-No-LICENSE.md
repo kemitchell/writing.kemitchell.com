@@ -2,8 +2,8 @@
 title: No LICENSE
 description: they won't see your funding plea if they never look
 layout: post
+series: Killjoy
 tags:
-- Killjoy
 - Open Source
 - Licensing
 brief: If users rarely look past your permissive license to your plea for funding, yank the license out of your project, make users go looking to find it, and show them your plea where they do.

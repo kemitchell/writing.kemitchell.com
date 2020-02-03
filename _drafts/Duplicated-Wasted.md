@@ -2,8 +2,7 @@
 title: Duplicated Effort is Wasted Effort
 description:
 layout: post
-tags:
-- Memeguments
+series: Memeguments
 ---
 
 {% include memeguments.md %}

@@ -2,8 +2,7 @@
 title: Open is Not Charity
 description:
 layout: post
-tags:
-- Memeguments
+series: Memeguments
 ---
 
 {% include memeguments.md %}

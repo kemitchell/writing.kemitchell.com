@@ -2,8 +2,8 @@
 title: Bilking Angels
 description: celestial finance for earth-bound developers
 layout: post
+series: Killjoy
 tags:
-- Killjoy
 - Open Source
 - Funding
 ---
