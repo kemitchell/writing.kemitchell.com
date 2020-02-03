@@ -6,6 +6,7 @@ tags:
 - Legal Profession
 - Marketing
 - Open Legal Data
+- Professions
 ---
 
 I’ll never be a “Super Lawyer”, a “Rising Star”, or any such thing. Three reasons.

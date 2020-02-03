@@ -5,6 +5,7 @@ layout: post
 tags:
 - Open Source
 - Legal Profession
+- Professions
 ---
 
 "Open Source" is a community---many communities---but not all who belong see community as an end in itself.  For many hackers, Open Source matters because Open Source makes better software---a proven means to a worthy end, benefiting all communities, and not primarily the one we share.

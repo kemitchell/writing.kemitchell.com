@@ -14,6 +14,16 @@
   </aside>
   {% endif %}
   {{ content }}
+  {% if page.series %}
+  <p class=signature>
+    This post is <a href="/series/{{ page.series | slugify }}.html">part of a series.</a>.
+  </p>
+  {% endif %}
+  <p class=signature>more posts about:
+  {% for tag in page.tags %}
+  <a href="/tags/{{tag | slugify}}.html">{{ tag | smartify }}</a>
+  {% endfor %}
+  </p>
   <p class=signature>
       Your thoughts and feedback are
       <a href=mailto:kyle@kemitchell.com>always welcome by e-mail</a>.

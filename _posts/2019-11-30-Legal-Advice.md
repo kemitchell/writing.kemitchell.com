@@ -4,6 +4,7 @@ description: smart people don't understand lawyers' disclaimers
 tags:
 - Legal Ethics
 - Legal Profession
+- Professions
 ---
 
 Lawyers sharing legal information with nonlawyers often throw in something like:

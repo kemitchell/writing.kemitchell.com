@@ -6,6 +6,7 @@ tags:
 - Legal Profession
 - Legal Technology
 - Personal Notes
+- Professions
 ---
 
 Lawyers have a bad rap for technology adoption.  But I'd guess that lawyers, in general, have been willing to put _more_ time and _more_ money on technology than most, gladly lapping up incremental improvements as they come along.  It is relatively easy to sell a slightly faster printer-scanner-copier, a slightly better smartphone, or a slightly snappier research resource to a busy lawyer.  Easier still to a law firm of many lawyers, with capital to invest and decision makers aloft in the fluffy clouds of firm-wide accounting aggregates and business strategy books-of-the-week.
