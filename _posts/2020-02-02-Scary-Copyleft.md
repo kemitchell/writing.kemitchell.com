@@ -22,7 +22,7 @@ GPL violation runs rampant.  I've heard engineers estimate that the average Best
 
 > Thanks for making all this complex license stuff simpler.  But on the copyleft side, really, what's the risk here?  If I break the GPL, is anybody really going to come after us?  What are the real consequences?
 
-Frankly, the risk is very low.  As a general rule, unless the copyleft code you're using comes from a company or a strong-willed hacker with legal experience, you're unlikely to face any meaningful consequences at all.  And certainly not on the kinds of time scales---at most, a few years---that correspond to personal accountability in business.
+Frankly, the risk is very low.  As a general rule, unless the copyleft code you're using comes from a company or a strong-willed hacker with legal experience, you're unlikely to face any meaningful consequences at all.  And certainly not on the kinds of time scales---a few years out---that correspond to personal accountability in business.
 
 How so?
 
