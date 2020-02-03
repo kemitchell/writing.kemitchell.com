@@ -29,4 +29,4 @@ The antidote to that tendency, and the [vulnerability](https://en.wikipedia.org/
 
 Broadening the horizons of the kind of "good" software we want to make to what people _as unlike us as possible_ need us to make, and focusing on how best to go about making that software, gives us back what insularity takes away: a taller, broader, rapidly shifting skill tree worth climbing.  It gives us back resistance to overcome, ever a prerequisite for satisfaction, regardless of our stage of technical development.  It compels us to range broadly, and learn a bit of what other specialties know and find, rather than to find a deep, dark technical well and sink inside it.
 
-In short, scratching other people's itches, rather than our own, opens us back up to the rest of the world, ever-giving font of the new and surprising, and as much personal confirmation, achievement, and fulfillment as we care to earn the hard way.
+In short, scratching other people's itches, rather than our own, opens us back up to the rest of the world, ever-giving font of the new and surprising.  As much personal confirmation, achievement, and fulfillment as you can earn the hard way.
