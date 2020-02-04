@@ -38,7 +38,7 @@ As far as I'm aware, no other recent copyleft enforcement effort has been so bro
 
 Countermeasures were deployed.  Through formal channels, the amendments to GPL discussed above.  Informally, those looking to calm industry rushed to coin new pejoratives: "copyright trolling", "copyright profiteering", and so on.  All designed to stigmatize McHardy's approach, and McHardy personally, within the technical community.
 
-Eben Moglen, late of FSF, now of Software Freedom Law Center, has publicly argued that those who choose GPL and other copyleft licenses can't achieve widespread compliance by enforcement.  Potential violators far outnumber potential enforcers.  Violations aren't easy or cheap to detect, attack, and resolve.  To succeed, therefore, licensors must convince licensees to comply spontaneously, or if you prefer, to police themselves.
+Eben Moglen, late of the Free Software Foundation, now of Software Freedom Law Center, has publicly argued that those who choose GPL and other copyleft licenses can't achieve widespread compliance by enforcement.  Potential violators far outnumber potential enforcers.  Violations aren't easy or cheap to detect, attack, and resolve.  To succeed, therefore, licensors must convince licensees to comply spontaneously, or if you prefer, to police themselves.
 
 I think he's right.
 
