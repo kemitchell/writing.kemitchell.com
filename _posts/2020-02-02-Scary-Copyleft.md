@@ -52,7 +52,7 @@ And, of course, there are those who hear and understand the call of copyleft and
 
 On the enforcement side, as usual, the danger is confusing means and ends.  Understanding and calm guidance can often win over those who would comply, but didn't know they had to, or didn't know how.  They may win some marginal cases where such individuals have just enough sway within larger organizations to take the day.  They will do nothing to police or induce self-policing by those opposed or indifferent.  If the answer is that the risk is low, compliance will be, too.
 
-To raise the risk, and therefore compliance, GPL licensors, as a mass, must present a credible threat of consequences.  Touch the flame, get burnded.  Violate the GPL, pay a price in excess of your benefit.
+To raise the risk, and therefore compliance, GPL licensors, as a mass, must present a credible threat of consequences.  Touch the flame, get burned.  Violate the GPL, pay a price in excess of your benefit.
 
 Committing to impose any consequences at all doesn't condemn enforcers to slide head first down a slippery slope to draconian oppression.  But quite short of abuse, effective examples can and should be made of even unknowing perpetrators.  Such examples can encourage more awareness in others where it's currently lacking.  Cash-only settlements can and do increase compliance.  If we value the outcomes compliance requires, the effect of those settlements can be valuable indeed.  Especially when the examples can be seen and told publicly.
 
@@ -66,6 +66,6 @@ We failed to own up to copyleft.
 
 We were wrong.
 
-Those of us who cared about copyleft, and not just as a relic or a waystation, paid the price.
+Those of us who cared about copyleft, and not just as a relic or a way station, paid the price.
 
 We pay it still.
