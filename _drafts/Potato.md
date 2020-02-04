@@ -1,6 +1,6 @@
 ---
 title: Patent Potato
-description:
+description: here we go again
 tags:
 - Negotiation
 - Patents
