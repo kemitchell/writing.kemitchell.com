@@ -18,19 +18,19 @@ And a still darker side. The terms are always lopsided. It's a rule. Too lopside
 
 <!--jump-->
 
-# Good Works
+## Good Works
 
 Consumer rights advocates---[EFF](https://eff.org), [EPIC](https://www.epic.org/)---together with a few some reporters on the beat, do their best to catch and publicize major power-grabs and slip-ups, raising awareness of the underlying issues. They mostly keep up with the big providers, the Google-Facebook-Amazons of the world. It's great work. But it doesn't scale. They'll never read all the terms that users don't, from the little companies and specialized services.
 
 Users shouldn't have to read them. And little companies shouldn't have to read them---or steal them---either. When there isn't anything nefarious or highly unusual going on, firms should work through a wizard that produces a serviceable set of terms. Consumer-side tools should recognize those terms and provide appropriate commentary written to the form, rather than to the specific website whence it comes.
 
-# Ends to Meet
+## Ends to Meet
 
 [TOS;DR](https://tosdr.org/) is halfway there, and I'm a big fan. They crowdsource assessments of terms of service for large, popular sites. They address specific substantive points, like IP ownership and notice of changes. What they can't do is tell you when a smaller company has more or less cribbed terms from a site they've reviewed.
 
 Companies like [500px](https://500px.com/terms), [Pinterest](https://about.pinterest.com/en/terms-service), and [TL;DR Legal](https://tldrlegal.com/pages/legal) are the other halfway there. They provide "plain English" or shorthand summaries of their own terms of service in the margins. Those comments are a definite step forward, and I recommend similar hints to clients whenever I can. But if users had lawyers, no way, no how would they advise sleeping easy on cutesy marginalia from the other side of the damn contract. For now, it's a show of good faith. A concession to the fact that neither you nor anyone else on your behalf will read the terms.
 
-# A Plan
+## A Plan
 
 Common Form could bridge the gap. The system is built, from the ground up, to recognize not just whole form agreements, but specific pieces, down to items in a list, out of context.
 

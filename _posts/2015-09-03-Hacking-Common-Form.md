@@ -12,7 +12,7 @@ Guilty as charged. Here's an overview.
 
 <!--jump-->
 
-# JavaScript and npm
+## JavaScript and npm
 
 My own work on Common Form is exclusively in JavaScript, targeting web browsers, and, in the interim, [Node.js](https://nodejs.org). I make heavy use of [npm](https://npmjs.com), the package manager for Node.js.
 
@@ -24,11 +24,11 @@ There are two things you should know about Node and npm before jumping into Comm
 
 There are lots of Common Form modules, which you can [find in the npm public registry](https://www.npmjs.com/search?q=commonform) and on [GitHub](https://github.com/commonform). I try to keep my packages as tiny as possible, with each performing a useful task for users or other packages. The best export just a single JavaScript function, with tests written right into the README file. [commonform-validate][commonform-validate] is an example.
 
-# Packages
+## Packages
 
 The packages I've written can be broken up into a few categories. Ignoring for the time being the packages used to run a Common Form API server:
 
-## Object Schema Validation
+### Object Schema Validation
 
 Common Form is, at its core, a very simple schema for bits of contract text. Those simple parts can be composed nicely into full-featured documents, but the schema for each individual part is rigorously enforced.
 
@@ -36,7 +36,7 @@ Common Form is, at its core, a very simple schema for bits of contract text. Tho
 
 [commonform-predicate][commonform-predicate] exports shorthand functions used to distinguish different kinds of content objects within forms. Those functions don't perform validation, which can be expensive, so they're a faster choice when code can assume a form object is valid.
 
-## Content-Addressable Hashing of Form Objects
+### Content-Addressable Hashing of Form Objects
 
 In order to ensure that hashing two equivalent forms produces the same digest, Common Form has to lock down how form objects are serialized and hashed.
 
@@ -46,9 +46,9 @@ In order to ensure that hashing two equivalent forms produces the same digest, C
 
 [commonform-normalize][commonform-normalize] (as in [database normalization](https://en.wikipedia.org/wiki/Database_normalization)) converts nested form objects into a [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree), returning a map from content digest to normalized form object and the Merkle root. This is the core function for hashing forms, whether on a server, at the command line, or in the browser.
 
-## Rendering Forms Into Other Formats
+### Rendering Forms Into Other Formats
 
-### Renderers
+#### Renderers
 
 Renders take a form, a map with fill-in-the-blank values, and optional rendering options. They return a rendering of the form in another format.
 
@@ -66,7 +66,7 @@ Renders take a form, a map with fill-in-the-blank values, and optional rendering
 
 [commonform-terminal][commonform-terminal] outputs plain text with ANSI terminal color codes.
 
-### Rendering Helper Functions
+#### Rendering Helper Functions
 
 As I built the renderers, I occasionally pulled common code out into separate packages.
 
@@ -80,7 +80,7 @@ As I built the renderers, I occasionally pulled common code out into separate pa
 
 [commonform-analyze][commonform-analyze] recurses a form and produces a useful report about what headings, terms, and blanks are used, defined, and referenced, with relevant numberings showing where these things happen. [commonform-lint][commonform-lint] uses that report to do its structural integrity checks.
 
-## Numbering Styles
+### Numbering Styles
 
 Numbering styles are functions that take an [abstract numbering](https://www.npmjs.com/package/abstract-numbering) argument and a flag for whether to return a full reference (like "Section 1(a)") or just a short number for a particular form (like "(a)"). They return strings.
 
@@ -92,9 +92,9 @@ Numbering styles are functions that take an [abstract numbering](https://www.npm
 
 [resolutions-schedules-exhibits-numbering][agreement-schedules-exhibits-numbering] extends [outline-numbering][outline-numbering] for situations where a form contains formal resolutions, list of schedules, and exhibits in exactly that order.
 
-## Annotating Forms with Useful Messages
+### Annotating Forms with Useful Messages
 
-### Annotators
+#### Annotators
 
 "Annotators" take a form and return an `Array` of [annotations](https://github.com/commonform/commonform-annotations):
 
@@ -104,7 +104,7 @@ Numbering styles are functions that take an [abstract numbering](https://www.npm
 
 0. [commonform-lint][commonform-lint] --- Points out structural errors, like broken cross-references and extra defined terms.
 
-### Helper Functions
+#### Helper Functions
 
 0. [commonform-phrase-annotator][commonform-phrase-annotator] --- Helper function for building annotators based on string searches. Used by [commonform-archaic][commonform-archaic].
 
@@ -112,11 +112,11 @@ Numbering styles are functions that take an [abstract numbering](https://www.npm
 
 0. [commonform-treeify-annotations][commonform-treeify-annotations] --- Converts an `Array` of annotations, each of which has a `path` property indicating what part of a nested form it applies to, and creates a tree of the same shape as the form with lists of annotations embedded within. Used in the web interface at [commonform.org](https://commonform.org).
 
-### Command-Line Interface
+#### Command-Line Interface
 
 [commonform-cli][commonform-cli] installs the `commonform` program with commands for hashing, rendering, and annotating forms.
 
-# Getting Your Feet Wet
+## Getting Your Feet Wet
 
 If you'd like to try a small project with Common Form to get your head around JavaScript or the architecture, here are a few suggestions:
 

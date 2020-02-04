@@ -16,7 +16,7 @@ I don't know how many choice-of law clauses I sent out last year.  But I will kn
 
 I want to put those tools in the hands of every lawyer ready to improve the craft, right now, for free.
 
-# Toolkit
+## Toolkit
 
 Maybe, long term, Ken Adams ends up writing all our indemnification provisions, and contract drafting looks more like building an outfit from a catalog than altering garments picked up secondhand.  That would certainly work out more efficiently.  But how will Ken's work make it into our own?  When his views evolve---along with his language---will we all have to copy and paste from a blog or a book into a million far-flung Word documents?  How will we dissent, if he's wrong?  How will the next Ken Adams start _their_ schism, and publish _their_ language?
 
@@ -24,7 +24,7 @@ Computers.  Not because computers solve every problem.  They don't.  Because the
 
 It takes just three simple ideas. Ideas that combine in powerful ways.
 
-## Typing Conventions
+### Typing Conventions
 
 Microsoft Word is where content goes to die.  The only way in or out is copy-and-paste.  Copy-and-paste is as rote as it gets.  When we paste clauses into our contracts, we know we can never stop there.  There's formatting to do.  Definitions and references to check.  Terms to replace.  Blanks to fill.  Alternatives to select and delete.
 
@@ -58,7 +58,7 @@ Anybody's computer can perform these checks in real time, as they draft.  That r
 
 All these tools are free to use on [commonform .org](https://commonform.org), where you can browse plenty more examples.  If you'd like an account for saving drafts to the site, rather than just browsing them, [send me an e-mail](mailto:kyle@kemitchell.com).  I'll be happy to set you up and answer any questions.
 
-## Contract Components
+### Contract Components
 
 Typing out contract language in a consistent, computer-understandable way makes it easier to process and share.  But it doesn't necessarily make reusing language more efficient.  You can paste language into a form on [commonform.org](https://commonform.org), and you'll get immediate feedback about structural problems it has, in context.  But any kind of copy-and-paste remains a manual process, requiring our attention, and distracting us from the real challenge.  Copy-and-paste with automatic checking doesn't do enough to make sharing, reusing, and updating bits of language automatic and seamless.
 
@@ -74,7 +74,7 @@ Thanks to the typing conventions, [commonform.org](https://commonform.org) knows
 
 The system works a bit like incorporation by reference, with the computer automatically turning references into text.  When you read a form that uses components on [commonform.org](https://commonform.org), you see both the text of each component, and also a note that it comes from a component.  When you download a Word copy, the notes disappear, and all you see is one, whole, consistent document.
 
-## Reviewers Editions
+### Reviewers Editions
 
 Typing conventions and components turn everyone visiting [commonform.org](https://commonform.org) into a legal language power-shopper.  But accounts on the site turn users into legal publishers.  If I publish my preferred limitation of liability, anyone can seamlessly incorporate it into their own work as a component.  I can see what they've published, and reuse their work without pasting terms.
 
@@ -92,7 +92,7 @@ What about more significant revisions that result in new editions or updates, ra
 
 Anyone with a [commonform.org](https://commonform.org) account can subscribe to notifications about a form.  When a component used in the form gets revised, the site sends notification e-mails.  Publishers can [compare new language to old online](https://commonform.org/compare/5fd90cf89aa4ee976583c0183dd6660a72bf22e86a3be0e8913f6622328fe24a/1b048f6c4cf0df69e364dd8bcc93a792b644aef243398d463a6202d1a0dbd43c), and decide whether or not to upgrade in their form.  In the next few weeks, I'll be working on simple pages that show how possible upgrades would play out, and make it simple to upgrade with just a few clicks.
 
-## Collaboration
+### Collaboration
 
 Typing conventions, components, and Reviewers Editions give us the tools to manage change to bits of contract text over time.  But they don't help us discover how or why to update our language.  They're tools for production and use of language, not collaboration tools.
 
@@ -102,7 +102,7 @@ Much as [commonform.org](https://commonform.org) sends e-mail notifications abou
 
 Altogether, these small communication channels make it possible to collaborate on terms with a near unlimited number of colleagues, each at their own pace.  Every new bit of work that contributors bring to [commonform.org](https://commonform.org)'s repository of contract language gets disseminated out to those who take an interest in it, or rely upon it.
 
-# Why?
+## Why?
 
 Clients come first.  These tools help me deliver my best work to clients, efficiently.  But given how rare client satisfaction's said to be, I can't help thinking about the profession, too.  There's grounds for frustration on both sides of the attorney-client relationship.
 

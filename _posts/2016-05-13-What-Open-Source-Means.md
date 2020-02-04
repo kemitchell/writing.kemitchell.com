@@ -11,7 +11,7 @@ There is frustration with the term "open source".  New developers aren't steeped
 
 It's troubling to meet people with whom you don't relate, who talk and work and swagger very differently than you do, but describe themselves in terms intimately tied to your self-image.  This irks especially when---whether you admit it or not---you define yourself primarily in the negative, as a counterculture, and the one flying your flag reads strong in the culture you think you're countering.  When the bully who eats your lunch shows up in your favorite band's t-shirt ... well, you get the idea.
 
-# Reflex
+## Reflex
 
 There are a couple natural reactions to that kind of social collision, which we've all seen many times in other contexts before.
 
@@ -25,7 +25,7 @@ I defined myself in opposition to "proprietary software", and especially Microso
 
 As an attorney, for one, and a coder who came up on FSF software, for two, it kills me to see students and pre-exit programmers write off good licensing hygiene as unnecessary.  It makes me queasy to read, via the closed, hood-welded-shut social network du jour, that "open source has won".  How smoothly both disdain for "corporate interests" assailing community values, on the one hand, and utter disdain for the GPL, its politics and its moralism, on the other, roll off the tongue.  It's a cruel, cruel world.
 
-# Instinct
+## Instinct
 
 Where does that leave me?
 
@@ -47,7 +47,7 @@ My instincts also advise skepticism.  The more I talk to folks who want a label 
 
 Third, finally, most importantly:  "Open Source" was politics.  No doubt.  No argument.  But politics emerged because practical problems---licensing confusion, abuse, and related woes---affected lots of people, and you don't get lots of people without politics.  License forms proliferated.  Mailing list flame wars raged.  Legal departments of companies ready to draft more careful, rigorous license terms for corporate contributions didn't know where to start.  How could they be sure the community would accept them?  Would they have to slay the local "IANAL, but ..." dragon on every mailing list?  There was a problem.  "Open Source", with definition, was an imperfect but serviceable solution.
 
-# Feedback
+## Feedback
 
 The scariest part of the "post-open source generation" thought pieces I read is that they legitimize ignorance of the pain software licensing used to cause and might cause again, both among developers and despite them, in business and the legal system.  By slicing off a subset of people doing software who haven't taken a licensing hit---in part thanks to what the Open Source Definition and the foundations more generally achieved before their time---they've isolated a point of view that doesn't see the problem.  I don't mean to blame the journos.  This is symptomatic of what's going on online.  But the coverage---simplified and exaggerated---is now feeding back.  I fear the resulting distortion will create bountiful employment opportunities for my kind going forward.
 
@@ -65,7 +65,7 @@ Second, it is all kinds of easy to show and quote astronomical numbers of reposi
 
 It's necessary to mention these nameless, undifferentiated hordes when hawking wares.  Up, to the right, or GTFO.  It may not even be wrong to play a little fast and loose when you're giving out free stuff of definite value.  But registering for a free service is not registering for selective service to whatever cause cares to invoke you.  Nobody gets an opt-out message when they cameo as a user-count chart pixel.  It's on those quoting astronomical user and code counts to show that the numbers represent what they say they represent, and that there are valuable needles to be found, cost effectively, in the haystack.  Is a million repositories without `LICENSE` files a movement, or some combination of laziness and not knowing `LICENSE` is a thing?  Are we just dumping the code we used to delete onto GitHub, 'cause it's free?
 
-# Scattershot
+## Scattershot
 
 All of this must read very skeptical.  But I do see a difference.
 

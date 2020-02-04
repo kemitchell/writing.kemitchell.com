@@ -21,7 +21,7 @@ Startup legal structure is stuck in the Unix era, waiting for its “open” mom
 
 Why?
 
-# Startup Legal is Unix All Over Again
+## Startup Legal is Unix All Over Again
 
 Every startup company has to run boring “business applications”. Employees want stock options with standard tax benefits. Investors want a capital structure they can model. The guy in the tie at the bank won’t give you an account without the right magic paper. Boring.
 
@@ -41,7 +41,7 @@ If a firm has particular strength in, say, tax, its startup forms may develop mo
 
 Conversely, if a firm’s lawyers still close documents on paper, its forms will be primed for that process. If the partners like _whereins_ and _whereases_, their forms will be littered with them. If the firm doesn’t devote significant time to revision and rewriting, the forms will grow tattered with ad hoc edits, tacked-on provisos, and other toolmarks. If a firm’s clients are uniformly alike in some way, say they mostly come through a particular accelerator, the forms may become specialized to that kind of client.
 
-# The Law Firm Standard Distribution
+## The Law Firm Standard Distribution
 
 It’s not quite so bad as that. Fortunately, startup legal has had its BSD moment.
 
@@ -51,7 +51,7 @@ Anyone can download the latest Orrick/Cooley/Gunderson/Perkins Distribution. It 
 
 And they’ve enabled some meaningful technology work. The Orrick set, for example, begat [Clerky](https://www.clerky.com/), which in turn begat a bevy of startups. Gunderson’s release of [its documents on Docracy](http://www.docracy.com/p/80/gunderson-dettmer-llp) was a boon. Legal technology startups and open-source projects love to demo with startup documents.
 
-# Over the Wall
+## Over the Wall
 
 The Law Firm Standard Distributions are fundamentally read-only. Each firm has its own internal revision process, and those processes are time-intensive and expensive. Their output alone is tremendously valuable, but there’s no clear channel for outside feedback or interaction, and no good incentive for it. To land a patch upstream to the law firm, you go to work for the law firm.
 
@@ -59,7 +59,7 @@ Of course, you’re free to “fork” your own variant of a publicly released s
 
 This kind of diversification doesn’t effectively distribute meaningful improvements to startups. It doesn’t rapidly distribute fixes to problems, like the infamous Benchmark gap, either. It definitely doesn’t reduce the burden on those who review startup legal documents. It produces a lot of variation, but not necessarily much diversity, and doesn’t do anything to focus effort.
 
-# Open Process
+## Open Process
 
 The startup community doesn’t need another set of free startup legal forms to download. It needs a process that focuses the disparate efforts of legal and business allies into a community owned, vendor neutral legal operating system for startups. We don’t need another Unix, we need a Unix that runs on anyone’s hardware that no one owns and anyone can improve. We need a [386BSD](https://en.wikipedia.org/wiki/386BSD) of startup legal.
 
@@ -67,7 +67,7 @@ Good news: there’s precedent. In finance, the [International Swaps and Derivat
 
 There isn’t any group turning out startup legal documents in the interests of startup companies. There ought to be. In its absence, the community endures a dizzying array of competing, specialized legal sets that function to lure and lock new companies to one or another service provider. Our answer is a state-of-the-art startup implementation developed with best-available tools for collaboration, promoted and refined by startup people, for startup people.
 
-# What We Have
+## What We Have
 
 The Ironsides project’s purpose is to learn from and serve the startup community, not to tell it what it should want. However, contributors have already worked hard and prepared a strong starting point for the project. A few themes have come up over and over again in that work, and led to a few practical choices:
 
@@ -76,7 +76,7 @@ The Ironsides project’s purpose is to learn from and serve the startup communi
 3. Contributors believe work on Ironsides will be most valuable if it’s utterly free of copyright-related uncertainty. That means making it available under the terms of the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), a professionally drafted public domain dedication with a fallback permissive license.
 4. Contributors believe every possible barrier between the project and valuable feedback should be removed. That means making feedback possible through more familiar, non-developer tools like [Google Drive](https://drive.google.com/folderview?id=0B4WQgvqBs9InbmxhVGVCSm9xeFE&usp=sharing). When all else fails, it means processes for taking proposals as traditional legal markups, called “redlines”, [by e-mail or even postal mail](https://github.com/Ironsides/ironsides/blob/master/CONTRIBUTING.md#redlines). It means taking [anonymous contributions](https://github.com/Ironsides/ironsides/blob/master/CONTRIBUTING.md#anonymous-and-claimable-proposals).
 
-# Who’s Involved
+## Who’s Involved
 
 Ironsides’ beginnings (and cool name) are the work of two individuals.
 
