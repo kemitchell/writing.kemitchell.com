@@ -14,7 +14,7 @@ This is one of a series, [_Killjoy_](/series/Killjoy.html), in which I sketch un
 
 Copyleft isn't scary anymore.  That's why it isn't working.
 
-In the 1990s and 2000s, competing, coordinated efforts sought to both oversell and downplay the threat of GPL and other copyleft licenses to business as usual.  GPL was viral.   Or that was nonsense.  If your engineers cribbed the wrong code, your whole company had to go open source.   Or you didn't, and everything would be fine.  GPL was communism.  GPL defended your freedom.
+In the 1990s and 2000s, competing, coordinated efforts sought to both oversell and downplay the threat of GPL and other copyleft licenses.  GPL was viral.   Or that was nonsense.  If your engineers cribbed the wrong code, your whole company had to go open source.   Or you didn't, and everything would be fine.  GPL was communism.  GPL defended your freedom.
 
 In the end, team "sleep sound" prevailed over team "be very afraid".  And so the words "GPL is a viral license" sound very 2001 to this day.  But as usual, battling it out from two self-interested extremes didn't yield any harmonious, functional balance.  For those ready to see, we now find ample evidence of a long-running overcorrection.
 
