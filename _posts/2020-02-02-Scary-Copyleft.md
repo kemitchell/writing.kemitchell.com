@@ -60,7 +60,7 @@ As we do, so as we speak.  Giving GPL the reputation of Ebola or Lenin on a trai
 
 In the end, "virus" isn't a bad metaphor for copyleft.  When folks hear it, they get it.  Frequently, I find the same newbies can then rephrase in more caring-sharing terms, if I prompt them.
 
-Rather, the problems with "viral" and similar appellations boiled down to PR strategy.  We didn't want the clean slate of the most popular license of the time, newly wiped clean by the "rebrand" to "open source", besmirched with the bad word "virus".  We thought we'd do better presenting copyleft as an opportunity, an invitation, rather than an obligation.  Even though an obligation is exactly what it was.
+Rather, the problems with "viral" and similar appellations boiled down to PR strategy.  We didn't want the clean slate of the most popular license of the time, newly wiped clean by the "rebrand" to "open source", stained by association with communicable illness.  We thought we'd do better presenting copyleft as an opportunity, an invitation, rather than an obligation.  Even though an obligation is exactly what it was.
 
 We failed to own up to copyleft.
 
