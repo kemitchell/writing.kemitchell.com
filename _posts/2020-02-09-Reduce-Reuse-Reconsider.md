@@ -45,6 +45,6 @@ The same Internet-enabled promiscuity that makes so many of us genre-hopping cul
 
 In probing the biographies of the programmers I look up to---many of whom wouldn't readily describe themselves as "programmers" at all---the pattern I cannot unsee is a marked rejection of software consumerism.  At various points in their development, they all eschewed or simply ignored existing solutions, despite wide availability, accessibility, and low cost, for prolonged periods of what seem, myopically, like intensely wasteful exercises in reinventing the universe.  There wasn't anything obviously new to produce.  But producing, not consuming, gave them joy.  So they reproduced old until new came in range, often to no greater surprise than their own.
 
-A harsh discipline: If you haven't tried to build one yourself, don't use it from anyone else.  If you want to know what you're doing, do it yourself.  Don't jump to reuse before you've got the most from the opportunity.
+A harsh discipline: If you haven't tried to build one yourself, don't use it from anyone else.  If you want to know what you're doing, do it yourself.  Don't skip to reuse at the expense of the real opportunity a need or project represents.  You'll end up like collectors who never use their collectibles: investing ever more resources in containers and storage space, or paying someone else a lot of money to keep things neat, comprehensible, and enjoyable.
 
 All of this belongs in the practice of law as much or more as in the practice of programming.  But that's gab for another day.
