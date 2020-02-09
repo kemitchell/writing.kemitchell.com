@@ -29,7 +29,7 @@ Beginner mind works its magic, recreating afresh and refining in the process.  A
 
 Convicting this cycle for waste misses two crucial points.
 
-First, riding this cycle is fun.  It's engrossing.  It's exciting.  It lends to programming a sense of creativity and opportunity and novelty that reusing other folks' work does not.  Software isn't capable of wanting anything, but programmers are.  What programmers find fulfilling, we should expect to see aplenty.
+First, riding this cycle is fun.  It's engrossing.  It's exciting.  It lends to programming a sense of creativity and opportunity and novelty that reusing other folks' work does not.  Software isn't capable of wanting anything, but programmers are.  What programmers find fulfilling, we should expect to see a lot of.
 
 More importantly as concerns open source, progress, from a programmer-centric view of programming, doesn't lie in an taller heap of tools, bits, and pieces in the great programming tool shed in the sky.  It lies in developing programmers who converse in a richer vocabulary of techniques and solutions, relieved of the heavier burden of inventing and implementing unguided, in unmapped territory.
 
