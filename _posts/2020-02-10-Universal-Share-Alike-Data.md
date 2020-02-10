@@ -1,6 +1,6 @@
 ---
 title: Data and the Universal Share-Alike License
-description:
+description: limits on effective data copyleft
 tags:
 - Open Source
 - Licensing
@@ -64,7 +64,7 @@ What about contract?  Perhaps we could find and cite evidence to show that Bob i
 
 Contract looks even less likely if we consider breaches of Universal's rule to keep copies of the license with copies of the work.  If Charlie shares a copy of your data set with Dan, but doesn't include a copy of the license, how can we enforce the rule against Charlie?  We face the same problem as with Bob before.  And if Dan goes on to make an enhanced data set without sharing, how can we enforce the share-alike rule against him?  Dan may not have even seen a copy of the rule requiring him to share.
 
-We have a few options for beefing up the contract basis for enforcing share-alike and other rules, but none of them are particularly "open".  We could limit distribution, in order to preserve trade-secret rights, require everyone who wants the data to come to us, and require them to sign an NDA-like agreement before receiving a copy.  Or we could allow sharing copies of the data outside our control, but under terms that require anyone who wants to share with another to get their agreement to our terms first. 
+We have a few options for beefing up the contract basis for enforcing share-alike and other rules, but none of them are particularly "open".  We could limit distribution, in order to preserve trade-secret rights, require everyone who wants the data to come to us, and require them to sign an NDA-like agreement before receiving a copy.  Or we could allow sharing copies of the data outside our control, but under terms that require anyone who wants to share with another to get their agreement to our terms first.
 
 Fundamentally, we're hitting the other side of "no copyleft without copyright".  Copyleft for software works because copyright applies to software even after it's been published.  Those copyrights give copyright owners the power to set and enforce rules, like sharing alike.  We can think of copyright as the operating system, and copyleft as an application for that system.  Without copyright to rely on, we have to reimplement some of the legal structure of copyright for data, so that we can enforce share-alike rules for data.  Without those underpinnings, we can imitate copyright abandonment, so-called "public domain dedication".  But we can't even get as far as permissive licensing, which requires copies of license terms and copyright notices.
 
