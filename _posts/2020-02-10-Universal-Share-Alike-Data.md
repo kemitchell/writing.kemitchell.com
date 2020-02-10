@@ -1,13 +1,12 @@
 ---
-title: Data and the Universal Share-Alike License
+title: Data Under Universal Share-Alike
 description: limits on effective data copyleft
 tags:
-- Open Source
+- Copyleft
+- Copyright
 - Licensing
 - Open Data
-- Intellectual Property
-- Copyright
-- Copyleft
+- Open Source
 ---
 
 [Brendan Miller](https://github.com/bmiller59) opened a [very interesting GitHub issue](https://github.com/berneout/universal-share-alike-license/issues/2) on the [Universal Share-Alike License](https://github.com/berneout/universal-share-alike-license) that I announced [late last year](https://writing.kemitchell.com/2019/11/22/universal-share-alike.html).  As quick refresher, Universal Share-Alike is a reciprocal or copyleft license that requires publishing and licensing new work built with old on the same terms, regardless of what form---software, artwork, writing, and so on---that the new work takes.
