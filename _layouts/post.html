@@ -1,5 +1,5 @@
 {% include top.html %}
-<article class="body post">
+<main role=main class="body post">
   {% if page.date %}
   <p class=dateline>
     <span class=month>{{ page.date | date: "%B" }}</span>
@@ -37,7 +37,7 @@
     &mdash;
     <a href="{{ site.repository_url }}/commits/master/{{ page.path }}">revision history</a>
   </p>
-</article>
+</main>
 {% for js in page.js %}
   <script type=text/javascript>
     {% include {{ js }} %}
