@@ -55,7 +55,7 @@ Another license on enterprise no-fly lists can still be great for open source ge
 
 # Impossibility and impracticability don't absolve responsibility.
 
-Van's points on enterprise compliance are plenty legal, in the practice-of-law sense.  Lawyers establish, oversee, and answer for enterprise open sourc elicense compliance programs.  But his thoughts on impossibility and impracticability go to legal doctrines, the sea on which legal _practice_ precariously lists.
+Van's points on enterprise compliance are plenty legal, in the practice-of-law sense.  Lawyers establish, oversee, and answer for enterprise open source license compliance programs.  But his thoughts on impossibility and impracticability go to legal doctrines, the sea on which legal _practice_ precariously lists.
 
 Like copyright misuse, not particularly clear doctrines.  If you began an analysis of SSPL with a checklist of applicable legal rules, ranked most to least amorphous, copyright misuse, impracticability, and impossibility might be one, two, and three.  Van might have thrown in frustration of purpose and unlawfulness, too.  I will.
 
@@ -77,14 +77,14 @@ Restatement (Second) of Contracts section 261:
 
 > **Discharge by Supervening Impracticability**
 > Where, after a contract is made, a party's performance is made impracticable
-> without his fault by the occurrence of an event the non-occurrence of which was a basic assumption on which the contract was made, his duty to render that performance is discharged, unless the language or the circumstances indicate the contrary. 
+> without his fault by the occurrence of an event the non-occurrence of which was a basic assumption on which the contract was made, his duty to render that performance is discharged, unless the language or the circumstances indicate the contrary.
 
 Restatement (Second) of Contracts section 265:
 
 > **Discharge by Supervening Frustration**
 >
 > Where, after a contract is made, a party's principal purpose is substantially
-> frustrated without his fault by the occurrence of an event the non-occurrence of which was a basic assumption on which the contract was made, his remaining duties to render performance are discharged, unless the language or the circumstances indicate the contrary. 
+> frustrated without his fault by the occurrence of an event the non-occurrence of which was a basic assumption on which the contract was made, his remaining duties to render performance are discharged, unless the language or the circumstances indicate the contrary.
 
 Restatement (Second) of Contracts section 266:
 
