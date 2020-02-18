@@ -9,7 +9,7 @@ tags:
 - Open Source
 ---
 
-[Brendan Miller](https://github.com/bmiller59) opened a [very interesting GitHub issue](https://github.com/berneout/universal-share-alike-license/issues/2) on the [Universal Share-Alike License](https://github.com/berneout/universal-share-alike-license) that I announced [late last year](https://writing.kemitchell.com/2019/11/22/universal-share-alike.html).  As quick refresher, Universal Share-Alike is a reciprocal or copyleft license that requires publishing and licensing new work built with old on the same terms, regardless of what form---software, artwork, writing, and so on---the new work takes.
+[Brendan Miller](https://github.com/bmiller59) opened a [very interesting GitHub issue](https://github.com/berneout/universal-share-alike-license/issues/2) on the [Universal Share-Alike License](https://github.com/berneout/universal-share-alike-license) that I announced [late last year](https://writing.kemitchell.com/2019/11/22/universal-share-alike.html).  As quick refresher, Universal Share-Alike is a reciprocal or copyleft license that requires publishing and licensing new work built with old on the same terms, regardless of what form---software, artwork, writing, and so on---that new work takes.
 
 Brendan's issue covers a lot of ground.  If you care about open licensing, have a look.  But I'd like to focus here on one particular theme: data.
 
