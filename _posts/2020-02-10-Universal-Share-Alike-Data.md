@@ -45,7 +45,7 @@ Licenses and contracts frequently overlap.  When companies break the rules of a 
 
 In the past, Eben Moglen, who was then still at the Free Software Foundation, as well as others from that milieu, insisted that the General Public License was only a copyright license, and not a contract.  I can't pretend to fully understand why.  My best guess is that it was strategic: they were hoping to influence copyright law away from supporting rules about how software is used.
 
-The law went the opposite way, and businesses have successfully enforced the General Public License itself as both license and contract.  The [Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0#acceptance) acknowledges this connection between license and contract explicit:
+The law went the opposite way, and businesses have successfully enforced the General Public License itself as both license and contract.  The [Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0#acceptance) acknowledges this connection between license and contract explicitly:
 
 > In order to receive this license, you must agree to its rules.  The rules of this license are both obligations under that agreement and conditions to your license.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
 
