@@ -43,7 +43,9 @@ Much as we can fall back from copyright to trade secret, we can fall back from l
 
 Licenses and contracts frequently overlap.  When companies break the rules of a public license, like the General Public License, owners of the software often sue under United States law for _both_ copyright infringement and breach of contract.  The idea is that the violator both used copyrighted material without permission _and_ that they agreed to a rule about use in order to get a license and then broke that rule.
 
-In the past, Eben Moglen, who was then still at the Free Software Foundation, as well as others from that milieu, insisted that the General Public License was only a copyright license, and not a contract.  I can't pretend to fully understand why.  My best guess is that it was strategic: they were hoping to influence copyright law away from supporting rules about how software is used.  The law went the opposite way, and businesses have successfully enforced the General Public License itself as both license and contract.  The [Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0#acceptance) acknowledges this connection between license and contract explicit:
+In the past, Eben Moglen, who was then still at the Free Software Foundation, as well as others from that milieu, insisted that the General Public License was only a copyright license, and not a contract.  I can't pretend to fully understand why.  My best guess is that it was strategic: they were hoping to influence copyright law away from supporting rules about how software is used.
+
+The law went the opposite way, and businesses have successfully enforced the General Public License itself as both license and contract.  The [Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0#acceptance) acknowledges this connection between license and contract explicit:
 
 > In order to receive this license, you must agree to its rules.  The rules of this license are both obligations under that agreement and conditions to your license.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
 
