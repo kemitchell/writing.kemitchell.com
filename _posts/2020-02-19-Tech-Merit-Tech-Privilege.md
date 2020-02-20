@@ -51,4 +51,4 @@ Tech, of course, isn't by far the only domain with this record.  We see the same
 
 As for me and my bit part, I think I've enough remove to admit both that I was very lucky and good enough to play a strong hand well.  Here's hoping I'll never be too rich or famous to say so.
 
-On that basis, I welcome the project of reintegrating tech with society---legally, financially, socially, and otherwise.  Nothing bespeaks the kind of success I admire like graduation to a more difficult, more holistic, more impactful class of problems.  Nothing speaks progress like shedding too-clean theory for good, messy practice.
+On that basis, I welcome the project of reintegrating tech with society---legally, financially, socially, and otherwise.  Nothing bespeaks the success I admire like graduating to a more difficult, more holistic, more impactful class of problems.  Nothing shows progress like shedding too-clean theory for good, messy practice.
