@@ -37,7 +37,7 @@ That kind of advantage, large or small, is clearly a blessing bestowed.  I expec
 
 We don't know what the tech game looks like, between competitors or between industry and society, on a fair and level field with sober refs and sober players.  Our whole lived experience is confounded.  The kinds of neutrality sought and long won were neutralities within tech itself.  There were insular, not holistic.
 
-After all, "subsidy" and "handicap" mean "intentional distortion".  We chortle about Steve Jobs' "reality distortion field", but can't say how much of that dark power was his, and how much he channeled from the spirit of the times.  Certain firms continue to benefit from association with those heady early days.  So, too, do certain organizations, groups, ideologies, and fashions, which happened to be riding high when their hosts---tech firms, tech people, tech networks---got walloping shots of Web mania.
+After all, "subsidy" and "handicap" mean "intentional distortion".  We chortle about Steve Jobs' "reality distortion field", but can't say how much of that dark power was his, and how much he channeled from the spirit of the times.  Certain firms continue to benefit from association with those heady early days.  So, too, do certain organizations, groups, ideologies, and fashions, which happened to be riding high when their hosts---tech firms, tech people, tech networks---got walloping booster shots of Web mania.
 
 The more general the privileged phenomenon, the easier to see this privilege confusion widespread.  So I find it constantly in ideological form, wherever "technolibertarianism", "cyber liberties", "The Californian Ideology", "neoliberalism" in the vein of cypherpunk and John Perry Barlow still course.
 
