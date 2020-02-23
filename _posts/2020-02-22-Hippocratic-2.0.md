@@ -79,7 +79,9 @@ If you put terms in a license, and that license ends up in dispute, you can't un
 
 >   3. Indemnity. Licensee shall hold harmless and indemnify Licensor against all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, awards, penalties, fines, costs, or expenses of whatever kind, including Licensor's reasonable attorneys' fees, arising out of or relating to Licensee's non-compliance with this License or use of the Software in violation of Human Rights Laws or Human Rights Principles. 
 
-Something like this is common in commercial license terms.  Indemnities back aren't unheard of in open licenses, either, as in Apache 2.0 or EPL 2.0.  But offhand, I believe this particular kind of indemnity would be new.  Existing indemnities in open licenses typically cover the case where recipients offer more generous terms, like warranties, over and above what the original developer's provide.  Not uses of the software as provided.  We typically think of warranty disclaimers, limits on liability, and damages exclusions addressing those risks.
+Something like this is common in commercial license terms.  Indemnities back aren't unheard of in open licenses, either, as in Apache 2.0 or EPL 2.0.  But offhand, I believe this particular kind of indemnity would be new.  Existing indemnities in open licenses typically cover the case where recipients offer more generous terms, like warranties, over and above what the original developer's provide.  Not uses of the software as provided.
+
+We typically think of warranty disclaimers, limits on liability, and damages exclusions addressing those risks.
 
 > * Enforceability: If any portion or provision of this License is determined to be invalid, illegal, or unenforceable by a court of competent jurisdiction, then such invalidity, illegality, or unenforceability shall not affect any other term or provision of this License or invalidate or render unenforceable such term or provision in any other jurisdiction.
 
