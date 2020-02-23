@@ -69,7 +69,7 @@ If this is really a rule requiring compliance with the named principles, that ou
 
 > If Licensor receives notification or otherwise learns of an alleged violation of any Human Rights Principles relating to Licensee's use of the Software, Licensor may in its discretion and without obligation
 
-A licensor could waive terms of its license whether those terms said so or not.  This whole provision might be read as `NOP`.
+A licensor could waive terms of its license whether those terms said so or not.  This whole provision might be read as [`NOP`](https://en.wikipedia.org/wiki/NOP_(code))---a dead letter.
 
 > (i) (a) notify Licensee of such allegation and (b) allow Licensee 90 days from notification under (i)(a) to investigate and respond to Licensor regarding the allegation and (ii) (a) after the earlier of 90 days from notification under (i)(a), or Licensee's response under (i)(b), notify Licensee of License termination and (b) allow Licensee an additional 90 days from notification under (ii)(a) to cease use of the Software.
 
