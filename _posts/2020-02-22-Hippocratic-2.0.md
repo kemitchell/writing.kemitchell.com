@@ -47,7 +47,7 @@ What if version 3.0 intentionally or accidentally allows uses that I find repreh
 
 This probably seems vague to programmers, but isn't a big deal from a legal point of view.  We do this kind of thing in contract and policy terms for, say, privacy compliance all the time.  That doesn't mean it's bulletproof.
 
-For example, what if relevant laws conflict, rather than simply require different extends of like protections?
+For example, what if relevant laws conflict, rather than simply require different extents of protection?
 
 >   2. Human Rights Principles. Licensee is advised to consult the articles of the United Nations Universal Declaration of Human Rights (https://www.un.org/en/universal-declaration-human-rights/) and the United Nations Global Compact (https://www.unglobalcompact.org/what-is-gc/mission/principles) that define recognized principles of international human rights (the "Human Rights Principles").
 
