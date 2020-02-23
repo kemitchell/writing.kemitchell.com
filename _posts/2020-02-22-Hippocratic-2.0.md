@@ -51,7 +51,7 @@ For example, what if relevant laws conflict, rather than simply require differen
 
 >   2. Human Rights Principles. Licensee is advised to consult the articles of the United Nations Universal Declaration of Human Rights (https://www.un.org/en/universal-declaration-human-rights/) and the United Nations Global Compact (https://www.unglobalcompact.org/what-is-gc/mission/principles) that define recognized principles of international human rights (the "Human Rights Principles").
 
-Unclear whether this purely advisory or trying to incorporate those documents definitionally.  There is also the trouble of these broad statements being formulated fundamentally different from rules or codes of permissible conduct, especially from the common-law point of view.
+Unclear whether this is purely advisory or trying to incorporate those documents definitionally.  There is also the trouble of these broad statements being formulated fundamentally different from rules or codes of permissible conduct, especially from the common-law point of view.
 
 To give a sense, UDHR 16(1) says "Men and women of full age ... have the right to marry and to found a family."  Does the license permit use in classifying marriage applicants, and denying marriage applications for same-sex marriages?  Article 24 reads "Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay."  How does that apply?
 
