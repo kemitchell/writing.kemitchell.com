@@ -55,7 +55,7 @@ Unclear whether this is purely advisory or trying to incorporate those documents
 
 To give a sense, UDHR 16(1) says "Men and women of full age ... have the right to marry and to found a family."  Does the license permit use in classifying marriage applicants, and denying marriage applications for same-sex marriages?  Article 24 reads "Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay."  How does that apply?
 
-I've [described an approach to formulating consensus around ethical codes of conduct](https://writing.kemitchell.com/2019/03/15/Ethical-Subcommons.html) here on the blog.  I went to the trouble precisely I'm dismayed to see so many writing ethically motivated licenses attempting to draft off problematic and highly generalist declarations, like UDHR, on the one hand, or using proxies for ethical behavior, like cooperative form of organization, on the other.
+I've [described an approach to formulating consensus around ethical codes of conduct](https://writing.kemitchell.com/2019/03/15/Ethical-Subcommons.html) here on the blog.  I'm dismayed to see so many writing ethically motivated licenses attempting to draft off problematic and highly generalist declarations, like UDHR, on the one hand, or using proxies for ethical behavior, like cooperative form of organization, on the other.
 
 If I had to distill it all down to a pithy phrase:  Don't incorporate your code of ethics by reference.  It's more important to put hands on that content, and deliberate it, than to rig up some legal machinery to connect existing high-minded documents to software licensing.
 
@@ -103,4 +103,4 @@ There is indeed such a rule of construction under typical US contract law.  But 
 
 > THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Straight out of MIT.  Orthodox legalese, but orthodox isn't necessarily.  Again, compare the Blue Oak Model License and Polyform licenses.
+Straight out of MIT.  Orthodox legalese, but orthodox isn't necessarily good.  Again, compare the Blue Oak Model License and Polyform licenses.
