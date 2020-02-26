@@ -13,7 +13,7 @@ A group coalescing around [firstdonoharm.dev](https://firstdonoharm.dev) has pub
 
 > Copyright (YEAR) (COPYRIGHT HOLDER)
 
-MIT and BSD folks are used to copyright notices in licenses, but they're a pain in the butt and old hat.  Compare the [Polyform](https://polyformproject.org/) licenses, which require preserving copyright info it takes a particular form, or [Blue Oak's model permissive license](https://blueoakcouncil.org/license), which dispenses with copyright notice as a whole, as unnecessary.
+MIT and BSD folks are used to copyright notices in licenses, but they're a pain in the butt and old hat.  Compare the [Polyform](https://polyformproject.org/) licenses, which require preserving copyright info it takes a particular form, or [Blue Oak's model permissive license](https://blueoakcouncil.org/license/1.0.0), which dispenses with copyright notice as a whole, as unnecessary.
 
 > Hippocratic License Version 2.0.
 
