@@ -6,7 +6,7 @@ I'd like to share a few thoughts.
 
 I agree with Bradley that many have opportunistically misrepresented the rules of copyleft licenses, especially the GNU copyleft licenses.  It bothers me.
 
-It bothers me when people present GPL or AGPL as a noncommercial license.  That's [PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0/) or [Prosperity](https://prosperitylicense.com/), not GPL or AGPL.  And it bothers me when people present GPL or AGPL as licenses that require sending patches back or make the code free for open source.  That's [Parity](https://paritylicense.com/).
+It bothers me when people present GPL or AGPL as a noncommercial license.  That's [Polyform Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0/) or [Prosperity](https://prosperitylicense.com/), not GPL or AGPL.  And it bothers me when people present GPL or AGPL as licenses that require sending patches back or make the code free for open source.  That's [Parity](https://paritylicense.com/).
 
 Watching marketing teams, salespeople, individual developers, and even [companies trying to help support open developers](https://blog.licensezero.com/2020/01/02/xscode.html#gpl) get this wrong, over and over again, gives me a reliable case of the sads.  Every bunk blog post, ad, or product grid they put online makes empowering people with good, usable, consistent information about licenses that much taller a hill to climb.  Frankly, there are just way more folks out there with motives and opportunities to misread, and to spread their conclusions, than there are to guide and educate.  I feel it's getting away from us.
 

@@ -33,7 +33,7 @@ I did not think of [Parity](https://paritylicense.com) as a license for folks wh
 
 I had no idea that Jeff Atwood would rename [API Copyleft](https://apicopyleft.com/), or that Han Seoul-Oh would give the most insightful feedback on a legal drafting problem I've ever seen online.  I didn't know Han existed.
 
-I didn't think that [Prosperity](https://prosperitylicense.com) would outlive the publication of [PolyForm's 1.0.0 releases](https://polyformproject.org/licenses/).  It turns out folks really want a combination of noncommercial base and a free trial.
+I didn't think that [Prosperity](https://prosperitylicense.com) would outlive the publication of [Polyform's 1.0.0 releases](https://polyformproject.org/licenses/).  It turns out folks really want a combination of noncommercial base and a free trial.
 
 I thought [a license with a multi-media credit requirement](https://github.com/creditstxt/credit-license) would come out of [Blue Oak](https://blueoakcouncil.org/), if anywhere.  Turns out it dovetailed with [a project to create a standard form of credits for web services](https://creditstxt.com).
 
