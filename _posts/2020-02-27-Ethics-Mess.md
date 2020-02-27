@@ -46,7 +46,7 @@ A residue of free software and its imperative, ethical licensing remains in open
 
 Every new riff on online software development---and every new crop of would-be leaders and figureheads---builds on the past.  Proponents often _identify_ with that past, as open source people nonetheless identified with free software.  Those writing ethical licenses today identify with open source.  They don't coopt or free ride off a past movement.  They're an active part of that movement, in the part that writes software, rather than the part that writes press releases.
 
-But every success tends towards selective blindness, forgetting the steps it had to take along the, or remembering them but advocating shortcuts.  ARPANET and NSFNET, precursors to the Internet, had substantially noncommercial acceptable use policies.  The original license for the Linux kernel prohibited charging for copies, to prevent others moving in "for the quick money" and snuffing out Linus' motivation.  The first Artistic License was deprecated, the second elevated in its place, rather than acknowledging the process that produced both, not to mention Perl.
+But every success tends towards selective blindness, forgetting the steps it had to take along the way, or remembering them but advocating shortcuts.  ARPANET and NSFNET, precursors to the Internet, had substantially noncommercial acceptable use policies.  The original license for the Linux kernel prohibited charging for copies, to prevent others moving in "for the quick money" and snuffing out Linus' motivation.  The first Artistic License was deprecated, the second elevated in its place, rather than acknowledging the process that produced both, not to mention Perl.
 
 ## Messiness
 
