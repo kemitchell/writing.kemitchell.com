@@ -42,7 +42,7 @@ Turn this around:  Why was (and is) it so important to early open source advocat
 
 I recall that in chemistry, which I haven't studied seriously in far too long, there is a notion of "reagents", or chemicals used to facilitate chemical reactions.  Some reagents are "reactants", which get consumed by the reactions they facilitate.  Very clean.  Others are "catalysts", which survive the process.  The world is a messy place, so perhaps it's no wonder we hear "catalyst" a lot more than "reactant".
 
-A residue of free software and its imperative, ethical licensing remains in open source.  Having facilitated the rebranding, commercialization, and political rise of open source figures, free software's no longer necessary, from the open source point of view.  But scraping out what's left is too messy and politically fraught to bother.
+A residue of free software and its imperative, ethical licensing remains in open source.  Having facilitated the rebranding, commercialization, and political rise of open source figures, free software's no longer necessary, from the open source point of view.  But scraping out what's left is too messy and politically fraught.
 
 Every new riff on online software development---and every new crop of would-be leaders and figureheads---builds on the past.  Proponents often _identify_ with that past, as open source people nonetheless identified with free software.  Those writing ethical licenses today identify with open source.  They don't coopt or free ride off a past movement.  They're an active part of that movement, in the part that writes software, rather than the part that writes press releases.
 
