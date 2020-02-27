@@ -31,6 +31,8 @@ permalink: /blogroll
 
 [Mikeal Rogers](https://medium.com/@mikeal)
 
+[Dirk Riehle](https://dirkriehle.com)
+
 ## Sustainability as a Service Companies
 
 [License Zero](https://blog.licensezero.com/) (my company)
