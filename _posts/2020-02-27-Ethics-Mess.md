@@ -54,4 +54,4 @@ Messiness is a synonym for realism.  Whenever we concoct neat taxonomies, clear 
 
 It's true that licensors writing and choosing ethical licenses, or noncommercial licenses for that matter, benefit personally.  They can feel good about their choices, about sending a message of broader ethical and social responsibility, or at least about opting out of subsidizing behavior they abhor.  But it is also true that those choices benefit software.  It's nearly impossible to maintain the deep inspiration required for monumental sprints of thought and labor, or to support those who do, while news of current events bombards you with evidence that past efforts of the kind made the world a darker place.
 
-Sure, we get our hands dirty.  That's what builders do.
+Yes, new licenses and new ways or working don't come easy.  We get our hands dirty.  That's what builders do.
