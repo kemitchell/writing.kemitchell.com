@@ -19,7 +19,7 @@ Section 230 itself is very short:
 
 > No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.
 
-Congress wrote and passed that law in response to a handful of high-profile lawsuits against early Internet service providers, some of which touted moderation as a selling point, others of which touted the lack of it.  Originally section 230 was part of a "balanced" package that included rules regulating indecent content online.  But the Supreme Court held those rules unconstitutional, in violation of the First Amendment, in line with decisions prohibiting such rules in other media.  But the peculiar immunity above remained, and the courts upheld it.  In fact, they read it broadly.
+Congress wrote and passed that law in response to a handful of high-profile lawsuits against early Internet service providers, some of which touted content moderation as a selling point, others of which touted the lack of it.  Originally section 230 was part of a "balanced" package that included rules regulating indecent content online.  But the Supreme Court held those rules unconstitutional, in violation of the First Amendment, in line with decisions prohibiting such rules in other media.  But the peculiar immunity above remained, and the courts upheld it.  In fact, they read it broadly.
 
 Suing an Internet service provider and holding them responsible for slander, threats, entrapment, scams, or like harms by others via their platform remains prohibitively difficult.  That has produced yet more sad cases that sting congresspeople with pangs of rank injustice.
 
