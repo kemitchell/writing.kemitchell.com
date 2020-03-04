@@ -9,7 +9,7 @@ tags:
 
 The pols are ruining everything.  Their ideological raiding parties and weaponized catch phrases trample every boundary.  Into conversations about ink pens, about laptop stickers, about shipping supplies.  Into conversations about law, about software, about open source.  The massively underachieving, overconfident, blustering imperium of narcissistic dolts with social media accounts systematically colonizes every nook and cranny of our daily lives.  There's no safe place to hide online.
 
-Like many, I find this pattern distressing.  I live a quiet life.  I get my conflict fix at work, representing clients.  Compared to the average half-hour contract negotiation any day of the week, the shouting rhetoric, bad arguments, and amateur debate tactics of the political stage depress me.  I would gladly change to some other channel, if only I could find the button, and if only I really believed I'd find anything different.
+Like many, I find this pattern distressing.  I live a quiet life, and get my conflict fix at work, representing clients.  Compared to the average half-hour contract negotiation any day of the week, the shouting rhetoric, bad arguments, and amateur debate tactics of the political stage depress me.  I would gladly change to some other channel, if only I could find the button, and if only I really believed I'd find anything different.
 
 I feel all of this.  But I've also noticed a certain faulty, self-serving pattern in my own point of view.  Noticed well enough to notice also in others.
 
