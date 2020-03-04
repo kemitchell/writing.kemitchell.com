@@ -41,4 +41,4 @@ Do people who do software have anything special to contribute to the deliberativ
 
 If not, we can indeed expect to spend more time cringing through the usual bipolar rhetorics, recriminations, and stereotype-ridden simplifications of general political "discourse".  We can expect to lose more precious faith for the lack of practical results from it.
 
-I strongly suspect we can do better.  But not if we refuse to address the real problem.
+I strongly suspect we can do better.  But not if we refuse to acknowledge the problem.
