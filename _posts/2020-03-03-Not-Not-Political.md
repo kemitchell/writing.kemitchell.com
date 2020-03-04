@@ -37,7 +37,7 @@ Despite the astounding, performative asshattery of [rolling coal](https://en.wik
 
 The question in my mind isn't whether tech has the solidarity or the clout to resist politicization.  It is already political by effect and responsibility.  It is losing only a certain convenience in the mass-consensual project of pretending otherwise.  Rather, the question in my mind is whether the virtues software people have produce a better debate, and whether software people can offer any achievements in that regard back to the main.
 
-Do people who do software have anything special to contribute to the deliberative process, other than software and software companies?  Can they evolve or refine the way individual niches, like software, get integrated into a broader conversation about the whole?  Do they have a better way to talk about, and work through, the issues that their work presents to society more broadly?
+Do people who do software have anything special to contribute to the deliberative process, other than software and software companies?  Can they evolve or refine the way individual callings, like software, get integrated into a broader conversation about the whole?  Do they have a better way to talk about, and work through, the issues that their work presents to society more broadly?
 
 If not, we can indeed expect to spend more time cringing through the usual bipolar rhetorics, recriminations, and stereotype-ridden simplifications of general political "discourse".  We can expect to lose more precious faith for the lack of practical results from it.
 
