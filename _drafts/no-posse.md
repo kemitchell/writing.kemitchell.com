@@ -1,6 +1,6 @@
 ---
 title: Copyleft Has No Posse
-description: war if over, want it or not
+description: war is over, want it or not
 tags:
 - Open Source
 - Licensing
