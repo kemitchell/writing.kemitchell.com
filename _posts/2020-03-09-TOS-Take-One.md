@@ -5,6 +5,7 @@ tags:
 - Videos
 - Terms of Service
 - Contracts
+date: Mon 09 Mar 2020 12:16:00 PM PDT
 ---
 
 I've uploaded [my first attempt at a video read-through of terms of service](https://www.youtube.com/watch?v=H3H_DvLtrDM) to YouTube.  The video is "unlisted", so you can find it through the link, but not through search.  I had high hopes, but this ended up a test run.  No script, all off the cuff.
