@@ -15,7 +15,7 @@ Alas:
 
 - [Snopes: Is the 'Umbrella Corporation' Logo Oddly Similar to a Wuhan Biotech Lab's?](https://www.snopes.com/fact-check/resident-evil-umbrella-coronavirus/?collection-id=238774)
 
-I'm suffering a bout deep sighs of a sudden.  But I'm led to believe they aren't a symptom of any virus.  At least, not directly.
+I'm suffering a bout of deep sighs of a sudden.  But I'm led to believe they aren't a symptom of any virus.  At least, not directly.
 
 When I moved to Russia years ago, getting the visa was a pain.  Part of it involved an HIV test, which I'd never had before, and had no reason to have before.  To get and stay in the country, I had to pass.
 
