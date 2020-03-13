@@ -21,7 +21,7 @@ But that simple box-ticking view underplays how much of Firefox comes from one c
 
 Criticizing a 2D chart for treating its axes as either-or propositions, rather than continua, remains as trite as bad greeting cards.  But I'd follow that path to two more interesting places.
 
-First, why do we want to make these new distinctions?  Does the new, crisply-lined taxonomy help us achieve anything practical?  Does those neat categories make all of us---or just some of us---more competitive or successful?  Or are the clean lines simply more pleasing, conceptually?
+First, why do we want to make these new distinctions?  Does the new, crisply-lined taxonomy help us achieve anything practical?  Do those neat categories make all of us---or just some of us---more competitive or successful?  Or are the clean lines simply more pleasing, conceptually?
 
 Second, to what extent is each axis independently useful, as an either-or proposition or as a continuum?  For whom do the axes represent salient, actionable characteristics, and in which circumstances does treating them as independent reveal actionable insight?
 
