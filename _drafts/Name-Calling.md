@@ -1,6 +1,10 @@
 ---
 title: Name Calling Isn't Precise
 description: "neo-closed" will come and go
+tags:
+- Open Source
+- Business
+- Business Models
 ---
 
 [Dirk Riehle's blog](https://dirkriehle.com/) is a gold mine.  I've said it [before](https://writing.kemitchell.com/2020/02/27/Ethics-Mess.html).  I'm saying it again.  His latest is ["Please Help Keep Our Language Precise"](https://dirkriehle.com/2020/03/12/please-help-keep-our-language-precise-single-vendor-open-source-is-neo-proprietary-source-not-closed-source/), a plea against branding businesses leading their own open source projects "the new closed source".
