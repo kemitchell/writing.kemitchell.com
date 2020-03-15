@@ -2,6 +2,7 @@
 title: Portland Trip Confirmed
 description: February 23 to February 29
 tags:
+- Law Practice
 - Travel
 - Portland
 - Oregon
