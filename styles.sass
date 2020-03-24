@@ -225,7 +225,7 @@ ol.posts
     color: $darkRed
   a[href]
     &:after
-      content: ' ➲'
+      content: '➲'
   hr
     border: none
     text-align: center
@@ -326,3 +326,69 @@ h1.series
     width: $dateWidth + $interPostPadding
     left: 0
     position: absolute
+
+/* List Styles */
+
+.lowerAlphaInParentheses p, .lowerRomanInParentheses p, .arabicInParentheses p, .lowerRomanInParentheses p
+  margin-top: 0
+  padding-top: 0
+
+.lowerAlphaInParentheses
+  counter-reset: lowerAlphaInParentheses
+
+.lowerAlphaInParentheses > li
+  list-style: none;
+  position: relative;
+
+.lowerAlphaInParentheses > li:before
+  content: "(" counter(lowerAlphaInParentheses, lower-alpha) ") "
+  counter-increment: lowerAlphaInParentheses
+  display:block
+  left: -2rem
+  position: absolute
+  user-select: text
+
+.lowerRomanInParentheses
+  counter-reset: lowerRomanInParentheses
+
+.lowerRomanInParentheses > li
+  list-style: none
+  position: relative
+
+.lowerRomanInParentheses > li:before
+  content: "(" counter(lowerRomanInParentheses, lower-roman) ") "
+  counter-increment: lowerRomanInParentheses
+  display: block
+  left: -2rem
+  position: absolute
+  user-select: text
+
+.arabicInParentheses
+  counter-reset: arabicInParentheses
+
+.arabicInParentheses > li
+  list-style: none
+  position: relative
+
+.arabicInParentheses > li:before
+  content: "(" counter(arabicInParentheses) ") "
+  counter-increment: arabicInParentheses
+  display: block
+  left: -2rem
+  position: absolute
+  user-select: text
+
+.upperAlphaInParentheses
+  counter-reset: upperAlphaInParentheses
+
+.upperAlphaInParentheses > li
+  list-style: none
+  position: relative
+
+.upperAlphaInParentheses > li:before
+  content: "(" counter(upperAlphaInParentheses, upper-alpha) ") "
+  counter-increment: upperAlphaInParentheses
+  display: block
+  left: -2rem
+  position: absolute
+  user-select: text
