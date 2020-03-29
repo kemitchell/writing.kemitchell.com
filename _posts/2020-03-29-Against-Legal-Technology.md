@@ -41,7 +41,7 @@ Only if we choose to frame it this way.  But it's easy enough to turn this line 
 
 Set the idea of law-specific technology aside.  What could the practice of law contribute _back_ to the general technology of reading, writing, analysis, debate, and negotiation?  Is all our wisdom really law-domain specific?
 
-These questions are rattling around in my head quite a lot these days.  A major client of mine has announced acquisition, and I'd expected to take a bit of a brain break, and redouble efforts on projects, in the lull after the end of that relationship.  Then came a virus, nixing my plans to be traveling once a month, and a lot of state-mandated alone time.
+These questions are rattling around in my head quite a lot these days.  A major client of mine has announced acquisition, and I'd expected to take a bit of a brain break, and redouble efforts on projects, in the lull after the end of that relationship.  Then came a virus, nixing my plans to be traveling once a month.  And a lot of state-mandated alone time.
 
 Initially saw this as a chance to pick up old projects, especially [commonform.org](https://commonform.org), the web manifestation of my contract-management toolkit.  But I keep returning also to Proseline, an earlier attempt at a turn-based document sharing system, too.  And beginning to think that the division between those projects, between what is good for legal authors and what is good for authors more generally, really ought to be dissolved, not reinforced.
 
