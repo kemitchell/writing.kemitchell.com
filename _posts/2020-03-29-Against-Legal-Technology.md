@@ -1,6 +1,7 @@
 ---
 title: Against Legal Technology
 description:
+date: Sun 29 Mar 2020 12:04:42 AM PDT
 tags:
 - Law Practice
 - Legal Technology
