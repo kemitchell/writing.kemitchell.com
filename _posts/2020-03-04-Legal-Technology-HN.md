@@ -1,7 +1,7 @@
 ---
 title: Short Spiel on Legal Tech
 description: law's retrograde rep is more about tech than law
-tag:
+tags:
 - Law Practice
 - Legal Technology
 ---
