@@ -13,7 +13,7 @@ Do lawyers need legal technology?
 
 Apparently not.
 
-The most important software in my line of lawyering---commercial deals, privacy compliance, and "corporate" work---is the most important software for just about anyone else writing for dollars.  E-mail.  Address book.  Word processor.  File manager.  Shared folder.  Web browser.  Internet phone.  All [skeuomorphs](https://en.wikipedia.org/wiki/Skeuomorph) of pre-computer devices.
+The most important software in my line of lawyering---commercial deals, privacy compliance, and "corporate" work---is the most important software for just about anyone else writing for dollars.  E-mail.  Address book.  Word processor.  File manager.  Shared folder.  Web browser.  Internet phone.  All [skeuomorphs](https://en.wikipedia.org/wiki/Skeuomorph) of stalwart, pre-PC devices.
 
 None of this software exists specifically for lawyers.  None of it boasts a "lawyer mode" for legal needs.  Vendors offer add-ons, but the utilities support a lot of customization out of the box.  When we do use add-ons or customizations, we don't expect others to do the same.  Many of us don't even use styles or automatic numbering in Word files.  Two steps closer to the lowest common denominator.
 
