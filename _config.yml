@@ -8,6 +8,7 @@ highlighter: rouge
 excerpt_separator: "<!--jump-->"
 repository: kemitchell/writing.kemitchell.com
 repository_url: "https://github.com/kemitchell/writing.kemitchell.com"
+email_subscribe_url: "https://cdn.forms-content.sg-form.com/fbe702ea-716c-11ea-a03d-5a6f6cbfddd7"
 plugins:
 - jekyll-sass-converter
 - jekyll-feed
