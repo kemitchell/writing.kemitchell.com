@@ -33,7 +33,7 @@ But it's also a bit depressing.
 
 Is this it?
 
-There's always an element of power fantasy in looking at a field, top-down, and envisioning a new and better way of doing business.  Microsoft Word is a bloated nightmare.  Google Docs is a footgun if the other side isn't friendly.  Organized file sharing rarely happens between two sides.  But saying how it ought to be instead, from a God's-eye view looking down, is a long way from actually making the change, as if by godlike, omnipotent mandate.  To get the herd pointed to the promised land, you have to do a heck of a lot of promising.  If you can't deliver _and_ communicate a massive step change in value or functionality, no one is going to break from the pack.
+There's always an element of power fantasy in looking at a field top-down, envisioning a new and better way of doing business.  Microsoft Word is a bloated nightmare.  Google Docs is a footgun if the other side isn't friendly.  Organized file sharing rarely happens between two sides.  But saying how it ought to be instead, from a God's-eye view looking down, is a long way from actually making the change, as if by godlike, omnipotent mandate.  To get the herd pointed to the promised land, you have to do a heck of a lot of promising.  If you can't deliver _and_ communicate a massive step change in value or functionality, no one is going to break from the pack.
 
 So pending some flash of legal-tech genius, we're stuck?
 
