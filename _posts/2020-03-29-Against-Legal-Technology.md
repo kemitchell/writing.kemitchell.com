@@ -1,6 +1,6 @@
 ---
 title: Against Legal Technology
-description:
+description: beyond the latest office software
 date: Sun 29 Mar 2020 12:04:42 AM PDT
 tags:
 - Law Practice
