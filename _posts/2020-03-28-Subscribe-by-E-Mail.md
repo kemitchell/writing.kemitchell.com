@@ -6,7 +6,7 @@ tags:
 - Blog
 ---
 
-Thanks to the encouragement of a few readers, I've [added a link to subscribe by e-mail]({{site.email_subscribe_url}}).  Some folks just prefer to receive things that way.
+Thanks to the encouragement of a few readers, I've [added a link to subscribe by e-mail]({{site.subscribe_url}}).  Some folks just prefer to receive things that way.
 
 Right now it just sends me an e-mail, which I'll use to compile the list manually.  No big deal.  In the future, I may automate the process.
 
