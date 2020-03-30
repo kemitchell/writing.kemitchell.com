@@ -7,23 +7,24 @@ description:
 > This is really happening, happening
 > Mobiles skwerking, mobiles chirping
 > Take the money and run
-> Take the money and run, take the money
+> Take the money and run
+> Take the money
 
 --- Radiohead, ["Idioteque"](https://youtu.be/svwJTnZOaco), _Kid A_, almost twenty years ago
 
-Part of being wealthy is having more than the next bastard.  But when others aren't just less well off, but poor, poverty limits how wealthy wealth can be.
+Part of being wealthy is having more than the next bastard.  But when others aren't just less well off, but poor, poverty limits how wealthy the wealthy can be.
 
 Part of being smart is knowing more than the next bastard.  But when others aren't just less knowledgeable, but ignorant, ignorance limits how smart smarts can be.
 
-Part of being healthy is being stronger than the next bastard.  But when others aren't just less well, but sick, sickness limits how strong the healthy can be. 
+Part of being healthy is being stronger than the next bastard.  But when others aren't just less well, but sick, sickness limits how healthy the healthy can be.
 
-Simplifying a bit, those of greater means can contend in two basic ways.  They can lift up the poor so the problems of poverty no longer limit quality of life.  Or they can separate themselves from the poor and poverty problems.  They can invest in raising the ceiling or take the money and run.
+Those of greater wealth, greater smarts, and greater health can contend with these harsh realities in two basic ways.  They can lift up the poor so the problems of poverty no longer limit quality of life for all.  Or they can separate themselves from the poor and poverty problems.  They can invest in raising the ceiling.  They can take the money and run.
 
-We all know rich neighborhoods and poor neighborhoods, rich school districts and poor school districts, rich states and poor states, rich countries and poor countries.  We can drive five minutes through an unfamiliar place and gather more or less where it stands.  Sometimes the signs are intentionally obvious.  This neighborhood has a gate.  That _house_ has a gate.  That restaurant, club, event, or store is "exclusive", by which we mean mostly expensive.
+We all know rich neighborhoods and poor neighborhoods, rich school districts and poor school districts, rich states and poor states, rich countries and poor countries.  We can drive five minutes through an unfamiliar place and gather more or less where it stands.  Many of the signs are involuntary.  Neglected infrasturcture bespeaks poverty.  But sometimes signs are intentional.  This neighborhood has a gate.  That _house_ has a gate.  That restaurant, club, event, or store is "exclusive", by which we mean performatively and prohibitively expensive.
 
-Who would pay that much for a sandwich?  Not necessarily the people eating them.  But for a sandwich _and_ a guarantee of separation, a reassurance against encroachment by others and their problems?  It comes as a package.  Meanwhile, in miniature, some of us will buy a $10 burrito, rather than a $5 burrito, in part because we prefer $10 burrito shops and the company of $10 people.  My go-to spot plays more Jerry Garcia than Chente Fernández.  Mea culpa, mea culpa, mea maxima culpa.
+Who would pay $100+ for a sandwich?  Not necessarily the people eating them.  But for a sandwich _and_ a guarantee of separation, a reassurance against encroachment by others and their problems?  It comes as a package.  Meanwhile, in miniature, some of us will buy a $10 burrito, rather than a $5 burrito, in part because we prefer $10 burrito shops and the company of $10 people.  My go-to spot plays more Jerry Garcia than Chente Fernández.  Mea culpa, mea culpa, mea maxima culpa.
 
-In the end, there's no seceding from the human race.  Certain classes of very real problems---communicable disease included---cut indifferently across the walls we build to separate incidents of wealth and incidents of poverty.  We don't need a virus to see this.
+But in the end, there's no seceding from the human race.  Certain classes of very real problems---communicable disease included---cut indifferently across the walls we build to separate the incidents of wealth and the incidents of poverty.  We don't need a virus to see this.  The same lesson has been available to us, daily, in any number of dimensions, my whole adult life.
 
 We are likely at home.  The junkies of Market Street are still shooting up on Market Street.  They have to.  The campers of Oakland are still shivering, from the vans of west side to the camps deep east.  It's chilly outside.
 
