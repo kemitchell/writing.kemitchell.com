@@ -2,6 +2,7 @@
 title: California Medical Directives at Home
 description: Can we get our end-of-life wishes down without breaking health orders?
 tags:
+- COVID-19
 - Legal Profession
 - Forms
 brief: From what I've seen over a few hours of research, most Californians following the standing public health orders can't meet the legal requirements for preparing and signing documents say how they want medical decisions made for them if they become seriously ill.  What's more, they likely won't be able to do so at the hospital if they're admitted, especially if they're quarantined.  I suspect the same in many other states.
