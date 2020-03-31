@@ -1,6 +1,7 @@
 ---
 title: Medtronic's PB560 Ventilator License, Top to Bottom
 description: medical device company devises copyleft hardware license for COVID-19
+date: Tue 31 Mar 2020 12:01:42 AM PDT
 tags:
 - Licensing
 - Open Source
