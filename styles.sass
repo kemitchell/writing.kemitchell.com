@@ -329,12 +329,20 @@ h1.series
 
 /* List Styles */
 
-.lowerAlphaInParentheses p, .lowerRomanInParentheses p, .arabicInParentheses p, .lowerRomanInParentheses p
+.arabicInParentheses p,
+.doubleLowerAlphaInParentheses p,
+.lowerAlphaInParentheses p,
+.lowerRomanInParentheses p,
+.lowerRomanInParentheses p,
+.upperRomanInParentheses p
   margin-top: 0
   padding-top: 0
 
-.lowerAlphaInParentheses
+/* (a) */
+
+ol.lowerAlphaInParentheses
   counter-reset: lowerAlphaInParentheses
+  margin-left: 2rem
 
 .lowerAlphaInParentheses > li
   list-style: none;
@@ -348,8 +356,11 @@ h1.series
   position: absolute
   user-select: text
 
-.lowerRomanInParentheses
+/* (i) */
+
+ol.lowerRomanInParentheses
   counter-reset: lowerRomanInParentheses
+  margin-left: 2rem
 
 .lowerRomanInParentheses > li
   list-style: none
@@ -363,8 +374,11 @@ h1.series
   position: absolute
   user-select: text
 
-.arabicInParentheses
+/* (1) */
+
+ol.arabicInParentheses
   counter-reset: arabicInParentheses
+  margin-left: 2rem
 
 .arabicInParentheses > li
   list-style: none
@@ -378,8 +392,11 @@ h1.series
   position: absolute
   user-select: text
 
-.upperAlphaInParentheses
+/* (A) */
+
+ol.upperAlphaInParentheses
   counter-reset: upperAlphaInParentheses
+  margin-left: 2rem
 
 .upperAlphaInParentheses > li
   list-style: none
@@ -392,3 +409,44 @@ h1.series
   left: -2rem
   position: absolute
   user-select: text
+
+/* (I) */
+
+ol.upperRomanInParentheses
+  counter-reset: upperRomanInParentheses
+  margin-left: 2rem
+
+.upperRomanInParentheses > li
+  list-style: none
+  position: relative
+
+.upperRomanInParentheses > li:before
+  content: "(" counter(upperRomanInParentheses, upper-roman) ") "
+  counter-increment: upperRomanInParentheses
+  display: block
+  left: -2rem
+  position: absolute
+  user-select: text
+
+/* (aa) */
+
+ol.doubleLowerAlphaInParentheses
+  counter-reset: doubleLowerAlphaInParentheses
+  margin-left: 2rem
+
+.doubleLowerAlphaInParentheses > li
+  list-style: none
+  position: relative
+
+.doubleLowerAlphaInParentheses > li:before
+  content: "(" counter(doubleLowerAlphaInParentheses, lower-alpha) counter(doubleLowerAlphaInParentheses, lower-alpha) ") "
+  counter-increment: doubleLowerAlphaInParentheses
+  display: block
+  left: -2rem
+  position: absolute
+  user-select: text
+
+aside.annotation
+  border: 1px solid black
+  margin: 0.5rem 0
+  padding: 0.5rem
