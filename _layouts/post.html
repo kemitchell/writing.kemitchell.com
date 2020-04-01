@@ -13,6 +13,11 @@
     {{ page.brief | markdownify }}
   </aside>
   {% endif %}
+  {% if page.retrospect %}
+  <aside class="retrospect" markdown="1">
+    {{ page.retrospect | markdownify }}
+  </aside>
+  {% endif %}
   {{ content }}
   {% if page.series %}
   <p class=signature>

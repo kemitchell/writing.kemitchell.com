@@ -6,6 +6,8 @@ tags:
 - Licensing
 - Open Source
 - Open Hardware
+brief: A multimedia, copyleft license, for a limited time only, to respond to COVID-19.
+retrospect: As intersting as the license is, the word I'm hearing from engineer friends is that Medtronic hasn't actually released much of concrete use under the terms.  They've teased a broader release, including source code, but so far, no sign of it.
 ---
 
 Medtronic [posted some files about its PB560 ventilator online](https://www.medtronic.com/us-en/e/open-files/thank-you.html) under a new, purpose-written public license.  To read them tell it, more files will follow.  For now, I am going to read the license, [top to bottom](#top-to-bottom), and share my initial thoughts, by more or less free association.  Then I'll outline initial thoughts about the license [overall](#overall).
