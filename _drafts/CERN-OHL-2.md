@@ -1,10 +1,21 @@
 ---
-title: CERN OHL 2.0
+title: CERN OHL-S 2.0, Top to Bottom
+description: the open share-alike hardware license we actually need now?
+tags:
+- Licensing
+- Open Source
+- Open Hardware
 ---
+
+CERN, the subterranean nuclear doughnut people from Europe, have released a new 2.0 series of open licenses for hardware and software.  Here's my first, top-to-bottom read of the strong-reciprocal option.
+
+[You're still on your own.](https://notlegaladvice.law)  I can't stand behind my off-the-cuff comments here professionally.  If you need legal help, hire a lawyer who can ask you about your specific situation in confidence, read this license more than once, and put A and B together to come up with the guidance you need.
+
+I did provide some input on early drafts of these terms, privately.  But that was quite some time ago.   I didn't have time to participate in the final review push in the final run up to publication.
 
 > # CERN Open Hardware Licence Version 2 --- Strongly Reciprocal
 
-Still "licence", not "license".  Regards to European colleagues!
+Still "licence", not "license".  Props to European colleagues!
 
 > ## Preamble
 >
@@ -405,3 +416,5 @@ Section 6 has the disclaimers and damages exclusions.
 > 8.6 This Licence shall not be enforceable except by a Licensor acting as such, and third party beneficiary rights are specifically excluded.
 
 We recently saw a license, the Cryptographic Autonomy License, that gives users the right to enforce the terms, in addition to licensors.  OHL's not going there.
+
+The End!
