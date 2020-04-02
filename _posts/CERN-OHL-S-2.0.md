@@ -1,6 +1,7 @@
 ---
 title: CERN OHL-S 2.0, Top to Bottom
 description: the open share-alike hardware license we actually need now?
+date: Wed 01 Apr 2020 08:46:53 PM PDT
 tags:
 - Licensing
 - Open Source
