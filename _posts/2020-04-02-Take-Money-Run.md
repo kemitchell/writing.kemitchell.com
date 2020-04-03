@@ -25,7 +25,9 @@ Those of greater wealth, greater smarts, and greater health can contend with the
 
 To a point.
 
-We all know rich neighborhoods and poor neighborhoods, rich school districts and poor school districts, rich states and poor states, rich countries and poor countries.  Driving five minutes through an unfamiliar place, we gather more or less where it stands.  Many signs are subtle.  Small neglect of big buildings speaks poverty, we know.  But some signs are purpose-built.  This neighborhood has a gate.  That _house_ has a gate.  That restaurant, club, event, or store is "exclusive", by which we mean prohibitively expensive.  We don't need the menu to know.
+We all know rich neighborhoods and poor neighborhoods, rich school districts and poor school districts, rich states and poor states, rich countries and poor countries.  Driving five minutes through an unfamiliar place, we gather more or less where it stands.
+
+Many signs are subtle.  Small neglect of big buildings speaks poverty, we know.  But some signs are purpose-built.  This neighborhood has a gate.  That _house_ has a gate.  That restaurant, club, event, or store is "exclusive", by which we mean prohibitively expensive.  We don't need the menu to know.
 
 Who pays a hundred bucks for a sandwich?  Not necessarily the people eating them.  But for a sandwich _and_ a degree of separation, a guarantee of remove from an unwelcome class of infectious social ills?  It comes as a package.  And not just at the top.  Some of us will buy a ten-dollar burrito when a five-dollar burrito will do.  Some of us prefer ten-dollar lunch spots and the company of ten-dollar people.  Mea culpa.  My go-to plays more [Jerry](https://en.wikipedia.org/wiki/Jerry_Garcia) than [Chente](https://en.wikipedia.org/wiki/Vicente_Fern%C3%A1ndez).
 
