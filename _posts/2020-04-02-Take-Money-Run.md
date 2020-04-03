@@ -53,7 +53,7 @@ Experiences vary.  It is one thing to send a few dollars to a cause, to buy a to
 
 It's quite another to give skill, care, and time, to take responsibility for a problem, to get well and truly involved in something rough, dirty, and critically necessary.  It's another still to acknowledge and even look forward to the personal benefits of becoming mixed up in things, difficult though they may be, as a necessary motivation for staying mixed up in them.  They play out differently on the lowest common denominator.
 
-It feels a bit harder to get involved in things now, restrictions being what they are.  That's a valid feeling, but fortunately not a fact.  Sure, we aren't all medical doctors.  But that's just the front line.  There's as much to fear in the knock-on effects---financially, economically, psychologically, educationally, in taking care of the front-line health people---and a million new ways to address them.  The less obvious, probably, the more valuable.
+It feels a bit harder to get involved in things now, restrictions being what they are.  That's a valid feeling, but fortunately not a fact.  Sure, we aren't all medical doctors.  But that's just the front line.  There's as much to fear in the knock-on effects---financially, economically, psychologically, educationally, in taking care of the front-line health people---and a million new ways to address each one.  The less obvious, probably, the more valuable.
 
 Go looking for one.  Get found by one.  If this is not a needy time for you, it could be a helping one.  I recommend helping.
 
