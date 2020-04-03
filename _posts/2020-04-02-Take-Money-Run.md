@@ -17,7 +17,7 @@ Take the money</p>
 
 Part of being wealthy is having more than the next bastard.  But when others aren't just less well off, but poor, poverty limits how wealthy wealth can be.
 
-Part of being smart is knowing more than the next bastard.  But when others aren't just less knowledgeable, but ignorant, ignorance limits how how smart smarts can do.
+Part of being smart is knowing more than the next bastard.  But when others aren't just less knowledgeable, but ignorant, ignorance limits how smart smarts can do.
 
 Part of being healthy is being stronger than the next bastard.  But when others aren't just less well, but sick, sickness limits the health of all.
 
