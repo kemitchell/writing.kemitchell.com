@@ -19,7 +19,7 @@ Part of being wealthy is having more than the next bastard.  But when others are
 
 Part of being smart is knowing more than the next bastard.  But when others aren't just less knowledgeable, but ignorant, ignorance limits how smart smarts can do.
 
-Part of being healthy is being stronger than the next bastard.  But when others aren't just less well, but sick, sickness limits the health of all.
+Part of being healthy is being stronger than the next bastard.  But when others aren't just less well, but sick, sickness limits how strong anyone can be and stay.
 
 Those of greater wealth, greater smarts, and greater health can contend with these realities in two basic ways.  They can lift others up so the problems of poverty, ignorance, and sickness no longer limit quality of life for one and all.  Or they can separate themselves from the poor and poor problems.  They can take the money and run.
 
