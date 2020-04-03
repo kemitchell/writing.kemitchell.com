@@ -43,7 +43,7 @@ Fewer of us would be in trouble if more had the means, the ability, the opportun
 
 You can't have safety delivered right now, even if someone's still willing to walk it to your door.
 
-No matter how much we have to call our own---money, education, health, reputation---we cherish it in large part because we expect to enjoy it in circumstances we know and understand.  A hundred bucks is a hundred bucks only as long as things keep going as they have been.  It's not just inflation, a question of how much.  It's also availability, a question of what's possible.  In other words, it's a question of others, what they can do, whether they're around to do it, and whether they will.
+No matter how much we have to call our own---money, education, health, reputation---we cherish it in large part because we expect to enjoy in circumstances we know and understand.  A hundred bucks is a hundred bucks only as long as things keep going as they have been.  It's not just inflation, a question of how much.  It's also availability, a question of what's possible.  In other words, it's a question of others, what they can do, whether they're around to do it, and whether they will.
 
 If you wanted to buy front-row seats to a concert, you're out of luck.  If you were looking forward to a vacation, now you're looking forward to eating out again.  There are things that cannot be bought, people that cannot be hired, things that cannot be done.  Or the premium prices for doing so make hundred-dollar sandwiches look cheap.
 
