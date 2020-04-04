@@ -243,3 +243,7 @@ Very common in contracts.  In America, we'd usually try to make this rule apply 
 Hardly perfect, but way better than I expected.  The takeaway is definitely the approach to SaaS restriction.
 
 Polyform has stumbled getting the noncompete forms out.  We've had a terrible run of luck with cofounders---both Heather Meeker and I---suffering independent, work-stopping health issues, and now COVID-19.  Seeing this, I'm inspired again to push on those licenses.  Folks shouldn't have to roll their own, one-off.
+
+## Random Thought, Occurring to Me Later
+
+The license text has section numbers, but no cross-references.  Why not drop the numbers altogether?  They only make it look more lawyerish.
