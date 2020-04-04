@@ -31,7 +31,7 @@ Apparently "Oy", short for "Osakeyhtiö", is the Finnish word for the limited-li
 
 > licenses certain software made available by Sharetribe (the "Software").
 
-Racking up a couple defined terms: "License", "Software".
+Racking up a couple defined terms: "License", "Sharetribe", "Software".
 
 > The Software includes parts that are protected by copyright, trademark, and database rights owned by Sharetribe.
 
