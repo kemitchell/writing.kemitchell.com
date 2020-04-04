@@ -1,12 +1,13 @@
 ---
-title: Medtronic's PB560 Ventilator License, Top to Bottom
+title: Medtronic's PB560 Ventilator License, Line by Line
 description: medical device company devises copyleft license
 date: Tue 31 Mar 2020 12:01:42 AM PDT
+series: Line by Line
+brief: A multimedia, copyleft license, for a limited time only, to respond to COVID-19.
 tags:
 - Licensing
 - Open Source
 - Open Hardware
-brief: A multimedia, copyleft license, for a limited time only, to respond to COVID-19.
 retrospect: As intersting as the license is, the word I'm hearing from engineer friends is that Medtronic hasn't actually released much of concrete use under the terms.  They've teased a broader release, including source code, but so far, no sign of it.
 ---
 
@@ -14,7 +15,7 @@ Medtronic [posted some files about its PB560 ventilator online](https://www.medt
 
 [I can't both share this free, on the Internet, and also take professional responsibility if you run with what I say and end up in trouble.](https://notlegaladvice.law).  We all know what we're up against.  If you can save lives, save lives.  If legal help advances that work, reach out to me or another lawyer.  We can do what we do at home, and the best of us are itching to get involved in something responsive.
 
-## Top to Bottom
+## Line by Line
 
 > # Permissive License --- Open Ventilator Files
 

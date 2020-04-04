@@ -2,6 +2,7 @@
 title: The MIT License, Line by Line
 description: 171 words every programmer should understand
 layout: post
+series: Line by Line
 tags:
 - Open Source
 - Licensing
