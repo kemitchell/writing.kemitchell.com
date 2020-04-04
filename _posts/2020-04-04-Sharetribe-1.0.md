@@ -27,7 +27,7 @@ Versioning is good!
 
 > This Sharetribe Community Public License (the "License") sets forth the terms on which Sharetribe Oy ("Sharetribe")
 
-Apparently "Oy", short for "Osakeyhtiö", is the Finnish word for the limited-liability business structure under Finnish law.  The analogy is to LLC in the United States, but any equivalency is probably more footgun than helpful.
+Apparently "Oy", short for "Osakeyhtiö", is the Finnish word for the limited-liability business structure under Finnish law.  The analogy is to LLC in the United States, but any equivalency is probably dangerous.
 
 > licenses certain software made available by Sharetribe (the "Software").
 
