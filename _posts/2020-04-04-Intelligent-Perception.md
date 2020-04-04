@@ -1,5 +1,6 @@
 ---
 title: Intelligent Perception
+description: a low bow before the wisdom of legal laity
 brief: The idea that non-legal people don't have valid opinions on legal work hurts the lawyers almost as bad as everyone else.  We should not only accept that plain folk share a valid, intuitive sense of good and bad rules, rule making, and rule-based process, but study and celebrate that wisdom.  We should do our level best not to snuff it out with expertise, in others or in ourselves.
 date: Sat 04 Apr 2020 11:34:03 AM PDT
 tags:
