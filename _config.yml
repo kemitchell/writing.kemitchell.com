@@ -19,6 +19,7 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - Makefile
+- tags
 defaults:
   - scope:
       path: ""
