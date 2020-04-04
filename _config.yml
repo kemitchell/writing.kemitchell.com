@@ -19,7 +19,7 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - Makefile
-- tags
+- listtags
 defaults:
   - scope:
       path: ""
