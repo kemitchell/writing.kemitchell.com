@@ -3,7 +3,7 @@ title: Startup Unix
 description: An open legal operating system for start-up technology companies
 layout: post
 tags:
-- Legal
+- Law Practice
 - Open Source
 - Startups
 ---

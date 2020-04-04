@@ -5,7 +5,7 @@ layout: post
 tags:
 - Contracts
 - RxNDA
-- Waypoint NDA
+- Waypoint
 - Standard Legal Terms
 ---
 

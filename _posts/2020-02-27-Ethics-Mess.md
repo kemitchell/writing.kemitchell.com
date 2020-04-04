@@ -5,7 +5,7 @@ tags:
 - Open Source
 - Licenses
 - Ethics
-- Ethics Licensing
+- Ethics Licenses
 ---
 
 It's only just occurred to me to add [Dirk Riehle](https://dirkriehle.com), Professor of Open Source at FAU in Bavaria, to the [blogroll](/blogroll.html).  If you read this blog, you'll very likely enjoy his.  I do.

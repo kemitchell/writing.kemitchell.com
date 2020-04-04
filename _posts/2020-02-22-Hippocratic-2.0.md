@@ -4,7 +4,7 @@ description: text and quick thoughts
 tags:
 - Licenses
 - Ethics
-- Ethics Licensing
+- Ethics Licenses
 ---
 
 A group coalescing around [firstdonoharm.dev](https://firstdonoharm.dev) has published [version 2.0 of a "Hippocratic License"](https://firstdonoharm.dev/version/2/0/license.html).  I'm not directly involved.  But here's a quick fly-through pass.

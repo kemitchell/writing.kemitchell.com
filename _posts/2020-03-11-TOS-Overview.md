@@ -3,7 +3,7 @@ title: Terms of Service, Take Two
 description: shorter, higher-level, more fun
 tags:
 - Videos
-- Term of Service
+- Terms of Service
 - Contracts
 date: Wed 11 Mar 2020 02:03:20 PM PDT
 ---
