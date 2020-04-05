@@ -213,7 +213,7 @@ Same.
 
 Hey, a contract boilerplate section!
 
-Again, credit where do:  Long ago, Larry Rosen, then counsel for the Open Source Initiative, made the point that there's nothing stopping us using the mechanisms and techniques of contract drafting to make license terms more clear.
+Again, credit where due: Long ago, Larry Rosen, then counsel for the Open Source Initiative, made the point that there's nothing stopping us using the mechanisms and techniques of contract drafting to make license terms more clear.
 
 That being said, a typical contract "General" section could run longer than this license has so far.  And I don't see too much text below, so it looks like the picked and chose.  I wonder what they included.
 
