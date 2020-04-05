@@ -26,8 +26,8 @@ If "don't use our code to compete against us" means "don't use our code to compe
 
 All that said, there are and will be companies glad to give component code away to competitors, so long as those competitors don't mount an assault on the project, as by forking it.  There is also an edge case, where the project the company might release isn't a part of its core product or service, but the whole thing.  A SaaS company, for example, might well consider releasing its web application.  If the company has one product or service---the web app---there's not much practical difference between "don't compete with this project" and "don't compete with our company".
 
-Getting our heads and our language around this distinction took time.  So did validating demand for a license that implements each approach.  Then began a string of unfortunate health issues afflicting more than one of the lawyers involved drafting, myself included.  And of course now a far more serious health crisis, effecting one and all.
+Getting our heads and our language around this distinction took time.  So did validating demand for a license that implements each approach.  Then began a string of unfortunate health issues afflicting more than one of the lawyers involved in drafting, myself included.  And of course now a far more serious health crisis, affecting one and all.
 
-But we're getting there, and I for one am feeling a new burst of energy for the project.  I hope we'll have a standard-worthy form ready and published fairly soon.  I intend to do the work to make it so.
+But we're getting there, and I for one feel a new burst of energy for the project.  I hope we'll have a standard-worthy form ready and published fairly soon.  I intend to do the work to make it so.
 
 But I still don't know what we'll call the licenses.
