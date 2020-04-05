@@ -114,11 +114,11 @@ I'd have more serious reservations about the noncompetition formulation if it _w
 
 As I mention nearly every time this word shows up in a license, "attribution" is arguably a term of art.  But arguable terms of art are something worse than either terms everybody interprets naturally or actual terms of art with true, common meaning.  Expecting some combination of copyright notices, notices about the license terms, and maybe practical credits or acknowledgments for the licensor.
 
-> 1. You must reproduce and not remove or alter all Sharetribe or third-party copyright and other proprietary notices contained on each Software copy.
+> 1\. You must reproduce and not remove or alter all Sharetribe or third-party copyright and other proprietary notices contained on each Software copy.
 
 The usual.
 
-> 2. You must provide the notice below with each copy.
+> 2\. You must provide the notice below with each copy.
 >
 > > Sharetribe Oy makes this software available under the terms of the Sharetribe Community Public License, Version 1.0 located at https://www.sharetribe.com/sharetribe-community-public-license.
 > >
