@@ -79,15 +79,15 @@ I'd write this so people can read it, and drop the terminal period: "License Gra
 
 "Permanent" in this litany is new on me.  American license wonks would probably write "irrevocable", though that has a slightly different meaning.  Then again, they might also freak out about whether either "irrevocable" or "permanent" conflicts with the idea of the license terminating for breach.  Which is part of the reason I avoid these long lists of adjectives, which almost all go without saying in a public license like this.
 
-> 1. use the Software;
+> 1\. use the Software;
 
 Under American law, "use" is a patent thing, though we often see it in copyright licenses.  I'm remembering they mentioned copyright at the top, among other kinds of intellectual property, but not patent.
 
-> 2. prepare modifications and derivative works of the Software;
+> 2\. prepare modifications and derivative works of the Software;
 
 So "prepare derivative works" is the legal phrase, understood to include "modification", which as far as I know doesn't have any specific legal meaning under copyright law.
 
-> 3. distribute the Software (including without limitation in source code or object code form); and
+> 3\. distribute the Software (including without limitation in source code or object code form); and
 
 OK.  Source-or-binary may have gone without saying, but I suppose it doesn't hurt to say.  The risk would be some other form arguably not covered by "source code" and "object code", but I don't think it's a concern for Sharetribe GO specifically, and this is a project-specific license.
 
@@ -95,7 +95,7 @@ OK.  Source-or-binary may have gone without saying, but I suppose it doesn't hur
 
 I think this was supposed to be number four.
 
-> 4. The licensed rights exclude the right to make the Software available as a software-as-a-service or platform-as-a-service where You host the Software for multiple clients or other similar online services that compete with Sharetribe products or services that provide the Software ("Excluded Purpose").
+> 4\. The licensed rights exclude the right to make the Software available as a software-as-a-service or platform-as-a-service where You host the Software for multiple clients or other similar online services that compete with Sharetribe products or services that provide the Software ("Excluded Purpose").
 
 This looks like it was supposed to be a paragraph _after_ the enumerated list.  I will send a pull request.
 
