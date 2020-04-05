@@ -133,7 +133,7 @@ Note the _lack_ of a requirement to provide a full copy of these license terms. 
 > ### 1.3 Modifications.
 > If You make modifications to the Software and make the software available,
 
-Make the software available to who?  Even within your organization.
+Make the software available to who?  Even within your organization?
 
 Probably going for the traditional change-and-distribution trigger found in old open licenses, particularly copyleft licenses.  But no sign of actual copyleft so far.  Will they require licensing modifications in any particular way?  Require contributing them back to Sharetribe?
 
@@ -149,7 +149,7 @@ No copyleft.  Pick your license.  But only for your modifications.  Not for the 
 
 > While redistributing the Software or modifications thereof, You may choose
 
-Strange to see "You", a reader-comfort measure, and "thereof", repulsive legal archaism, so close together.  But that's deep in the weeds.
+Strange to see "You", a reader-comfort measure, and "thereof", a repulsive legal archaism, so close together.  But that's deep in the weeds.
 
 > to offer, for a fee or free of charge, support, warranty, indemnity, or other obligations. You, and not Sharetribe, will be responsible for any such obligations.
 
@@ -168,7 +168,7 @@ Also the word "agrees", which screams "contract!" under US law.
 
 Good to clarify how breaking the rules affects the license.  The Polyform licenses and the Blue Oak Model license all do this, and I've already seen it pay dividends in the field, increasing understanding and reducing questions sent up to lawyers.
 
-Note the stricture here.  No matter which rule you break, no matter how seriously you break, not matter if you intended to break or tried to fix it or not, your license goes poof.  That does seem like a trap, though I suspect it wasn't mean maliciously.  That being said, if it plays out, it won't play out well.
+Note the stricture here.  No matter which rule you break, no matter how seriously you break it, no matter if you intended to break it or tried to fix it or not, your license goes poof.  That does seem like a trap, though I suspect it wasn't mean maliciously.  That being said, if it plays out, it won't play out well.
 
 Folks often ask me why we bothered with [a breach-cure "Excuse" section in the Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0#excuse), whose only real rule is providing notice of license terms.  This is more or less it.  I don't like the "trolling" word, though my colleagues do.  We're concerned about latent potential for notice-slash-attribution "trolling".
 
