@@ -16,7 +16,7 @@ I helped cofound [Polyform Project](https://polyformproject.org) last year.  We 
 
 These missing licenses, especially the noncommercial form, represented one of two main motivations for the project.  We also wanted to bring uniformity and state-of-the-art drafting to the burgeoning genre of "anything but SaaS" terms like the Commons Clause bolt-on, vendor-specific "community" licenses like [Elastic NV's](https://github.com/elastic/elasticsearch/blob/master/licenses/ELASTIC-LICENSE.txt) and [Sharetribe's](https://writing.kemitchell.com/2020/04/04/Sharetribe-1.0.html), and various lay attempts to generalize them.
 
-We discovered along the way that many, many developers and companies want "do what you want, but don't compete" license terms.  But also that different companies, and even different projects within companies, wanted to define "don't compete" differently.
+We discovered along the way that many, many developers and companies want "do what you want, but don't compete" license terms.  Rules like "anything but SaaS" are just a kind of "anything but compete with us" rules.  But we also discovered that different companies, and even different projects within companies, wanted to define "don't compete" differently.
 
 Oversimplifying just to companies, and even a bit from there, we heard two basic kinds of stories.
 
