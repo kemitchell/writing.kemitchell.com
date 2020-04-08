@@ -3,7 +3,7 @@ title: Patent Potato
 description: the game that never ends
 tags:
 - Negotiation
-- Patents
+- Patent
 - Software
 ---
 

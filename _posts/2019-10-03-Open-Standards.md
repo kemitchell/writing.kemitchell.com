@@ -6,7 +6,7 @@ tags:
 - Open Source
 - Licensing
 - Standards
-- Patents
+- Patent
 - Copyleft
 brief: Open-only, reciprocal terms can bridge the gap between standards-essential patent holders and open software developers.
 date: 2019-10-03 18:00
