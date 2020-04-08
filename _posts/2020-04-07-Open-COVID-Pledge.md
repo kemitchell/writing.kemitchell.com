@@ -31,3 +31,5 @@ Intel has signed on and granted a public license.  Perhaps predictably, they mad
 </blockquote>
 
 I was involved preparing an early draft of the public license terms, but others have taken the reins and driven the project to public debut.  I'm sure all of them would say what hopefully goes without saying here:  Open licensing is what we know how to do.  We hope that it can help.  But is the ends---responding effectively to this pandemic, and supporting those who are as best we can---not these means, that matter and motivate us.  This is not about open source.  That's just our part in doing everything we can.
+
+If your company, university, or other organization has IP that matters for COVID response, and wants to make the Open COVID Pledge, please feel free to reach out to the project at [opencovidpledge@gmail.com](mailto:opencovidpledge@gmail.com), to me at [kyle@kemitchell.com](mailto:kyle@kemitchell.com), or both.  All involved will be happy to help with understanding, preparation, execution, and follow-through.   It's why we do what we do.
