@@ -676,7 +676,7 @@ following books:
   approach is also closest to the line-by-line approach used above.
   O'Reilly has made it [available online][O'Reilly].
 
-  [Understanding]: https://lccn.loc.gov/2006281092
+  [Understanding]: http://lccn.loc.gov/2006281092
 
   [O'Reilly]: http://www.oreilly.com/openbook/osfreesoft/book/
 
