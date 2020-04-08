@@ -177,6 +177,6 @@ It's no consolation for me that the same problems reliably crop up in statutes a
 
 Those who've followed my work on Common Form and related projects may have noticed a pattern. Each new tool is kind of penance, a tacit admission that I can no longer trust myself with some part of my own practice. I've ceded formatting. I've ceded defined terms. I've ceded cross-references. Spelling. Plain English. Signature pages.
 
-I'm going to try and cede yes-or-no, logical statements, too. If the meaning of enumeration is dependable---I believe it is, and I plan to draft some boilerplate to make doubly sure---conversion from a structured representation to legal language can be straightforward. [I've already got some code](https://www.npmjs.com/package/boolean-json-to-commonform).
+I'm going to try and cede yes-or-no, logical statements, too. If the meaning of enumeration is dependable---I believe it is, and I plan to draft some boilerplate to make doubly sure---conversion from a structured representation to legal language can be straightforward. [I've already got some code](https://www.npmjs.com/packages/boolean-json-to-commonform).
 
 This will be my first venture into generating the substance of my legal documents with software. I have avoided this up to now, but can no longer do so. Drop me a line if you're interested.

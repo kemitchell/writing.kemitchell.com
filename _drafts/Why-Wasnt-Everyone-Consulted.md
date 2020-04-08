@@ -35,7 +35,7 @@ Only popularity distinguishes great software made this way from throwaway experi
 
 Plenty of great open software ends just as it began, too: artifact of a specific need in a specific place at a specific time, when a bolt of inspiration struck.  But that is not the end of collaboration, even if the original crew never collaborates again.
 
-No approval was required to make the start, and under the right license terms, no approval is required to continue from it, either.  [Substack](http://substack.net/) begat [Optimist](https://www.npmjs.com/package/optimist), and Optimist was good.  But, lo, the latest Optimist came out five years ago.  But from Optimist [Ben Coe](https://github.com/bcoe) and friends begat [Yargs](https://www.npmjs.com/package/yargs), which was also very good, and keeps getting better.  Yargs' latest version came out a few days ago.
+No approval was required to make the start, and under the right license terms, no approval is required to continue from it, either.  [Substack](http://substack.net/) begat [Optimist](https://www.npmjs.com/packages/optimist), and Optimist was good.  But, lo, the latest Optimist came out five years ago.  But from Optimist [Ben Coe](https://github.com/bcoe) and friends begat [Yargs](https://www.npmjs.com/packages/yargs), which was also very good, and keeps getting better.  Yargs' latest version came out a few days ago.
 
 ## Permission-Free
 
@@ -71,4 +71,4 @@ Adapting open software approaches to open software licenses doesn't have to invo
 
 On request from users, I recently submitted Parity 6.0.0 to SPDX for standardization.  Parity 1.0.0 took over from a previous license, The License Zero Reciprocal Public License, with many versions and revisions of its own.  Without counting, let's say for the sake of argument that there have been ten numbered versions of the license since inception.
 
-How you feel about that is a fairly reliable heuristic for your software workstyle preference.  For slower-moving project veterans steeped in process, 10 is a strangely large number.  Is the project thrashing?  Is it that old?  Does it bump its major version for literally any old change?  Hardly.  10 is a relatively _low_ version number for many libraries, and even applications, in the small-fast open source workstyle.  Compare [Browserify](https://www.npmjs.com/package/browserify/versions), a key build tool in the JavaScript ecosystem.
+How you feel about that is a fairly reliable heuristic for your software workstyle preference.  For slower-moving project veterans steeped in process, 10 is a strangely large number.  Is the project thrashing?  Is it that old?  Does it bump its major version for literally any old change?  Hardly.  10 is a relatively _low_ version number for many libraries, and even applications, in the small-fast open source workstyle.  Compare [Browserify](https://www.npmjs.com/packages/browserify/versions), a key build tool in the JavaScript ecosystem.

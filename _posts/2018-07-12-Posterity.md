@@ -15,7 +15,7 @@ Fascinating.
 
 ## Behind the Scenes
 
-Dominic wrote [`rc`](https://www.npmjs.com/package/rc), a very popular software configuration loading library.  Lots of programmers use `rc`, and downloaded it more than four million times per week.  But beyond that top-line figure, it's very hard for Dominic to tell who's using his work, or to show others not in-the-know what he's accomplished.  Since `rc` is useful primarily in _server_ software, which companies run for their customers, rather than copy and send to their customers to run for themselves, the attribution conditions of `rc`'s well known open source licenses don't kick in.
+Dominic wrote [`rc`](https://www.npmjs.com/packages/rc), a very popular software configuration loading library.  Lots of programmers use `rc`, and downloaded it more than four million times per week.  But beyond that top-line figure, it's very hard for Dominic to tell who's using his work, or to show others not in-the-know what he's accomplished.  Since `rc` is useful primarily in _server_ software, which companies run for their customers, rather than copy and send to their customers to run for themselves, the attribution conditions of `rc`'s well known open source licenses don't kick in.
 
 Most open source licenses come on condition of giving contributors credit, often phrased in terms of keeping the copyright notices on their code.  Attribution conditions are almost always triggered by giving _copies_ of the software to others.  For example, from The MIT License:
 

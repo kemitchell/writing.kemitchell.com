@@ -106,15 +106,15 @@ Resist [configuration file accretion][deflect].  Express your personal preferenc
 
 When your eyes no longer jump right to the filename you need, start asking what can go.  Some things were probably "fashionable" when the cruft piled up.  Have they held up?  If you need a pager to read `git ls-files` for your package, you're hoarding.
 
-[standard]: https://www.npmjs.com/package/standard
+[standard]: https://www.npmjs.com/packages/standard
 
 [run scripts]: https://docs.npmjs.com/cli/run-script
 
 (Side Note:  I've put test suites for many of my packages, like [spdx-expression-parse], right in the `README`s, literate programming style.  [Tools][defence-cli] pull the code out and pipe to Node.js.  So far, so great, but I'm not yet ready to recommend it universally.)
 
-[spdx-expression-parse]: https://www.npmjs.com/package/spdx-expression-parse
+[spdx-expression-parse]: https://www.npmjs.com/packages/spdx-expression-parse
 
-[defence-cli]: https://www.npmjs.com/package/defence-cli
+[defence-cli]: https://www.npmjs.com/packages/defence-cli
 
 ## Use a Free CI Service
 

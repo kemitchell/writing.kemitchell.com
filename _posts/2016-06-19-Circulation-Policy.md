@@ -76,7 +76,7 @@ Publication means identifying a particular Common Form in storage as a specific 
 >
 > where `$1` is the posting patron name, `$2` the project name, and `$3` the edition.  Request body is a JSON object with a `digest` property for a Common Form in storage.  Project names are ASCII alphanumeric with hyphens.  Editions are [Reviewers' Editions].
 
-[Reviewers' Editions]: https://www.npmjs.com/package/reviewers-edition-parse
+[Reviewers' Editions]: https://www.npmjs.com/packages/reviewers-edition-parse
 
 For example:
 

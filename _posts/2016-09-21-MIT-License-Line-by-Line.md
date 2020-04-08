@@ -113,7 +113,7 @@ MIT License form into your project.  If you use metadata, like the
 `MIT` license, make sure your `LICENSE` file and any header comments
 use the standard form text.  All of this can be [automated][licensor].
 
-[licensor]: https://www.npmjs.com/package/licensor
+[licensor]: https://www.npmjs.com/packages/licensor
 
 ### Copyright Notice
 

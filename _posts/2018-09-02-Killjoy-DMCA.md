@@ -64,7 +64,7 @@ So far, our frame has been attribution.  Give credit for open source work.  Let 
 
 But attribution is not the only kind of rule found in open source licenses.  There's no reason developers couldn't use the DMCA to enforce other license conditions, as well.  Conditions like share-alike requirements under GPL and other _copyleft_ or _share-alike_ licenses.  Conditions that lead to license compatibility issues.
 
-These concerns come across in feature requests that we see for open source compliance tools.  The most common requests I get for tools like [`licensee`](https://www.npmjs.com/package/licensee) are an option to detect strong, weak, or any copyleft licenses, and support for detecting incompatibilities between licenses appearing within one project.
+These concerns come across in feature requests that we see for open source compliance tools.  The most common requests I get for tools like [`licensee`](https://www.npmjs.com/packages/licensee) are an option to detect strong, weak, or any copyleft licenses, and support for detecting incompatibilities between licenses appearing within one project.
 
 ## Automation
 

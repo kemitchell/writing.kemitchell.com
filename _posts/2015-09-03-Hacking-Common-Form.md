@@ -82,7 +82,7 @@ As I built the renderers, I occasionally pulled common code out into separate pa
 
 ### Numbering Styles
 
-Numbering styles are functions that take an [abstract numbering](https://www.npmjs.com/package/abstract-numbering) argument and a flag for whether to return a full reference (like "Section 1(a)") or just a short number for a particular form (like "(a)"). They return strings.
+Numbering styles are functions that take an [abstract numbering](https://www.npmjs.com/packages/abstract-numbering) argument and a flag for whether to return a full reference (like "Section 1(a)") or just a short number for a particular form (like "(a)"). They return strings.
 
 [outline-numbering][outline-numbering] returns "Section 1(a)(i)" style strings.
 
