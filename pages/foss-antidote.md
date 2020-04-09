@@ -12,3 +12,5 @@ layout: post
 - Michel Bauwens and Vasilis Kostakis' ["From the Communism of Capital to Capital for the Commons: Towards an Open Co-operativism"](https://www.triple-c.at/index.php/tripleC/article/view/561)
 
 - Tiziana Terranova's "Free Labor: Producing Culture for the Digital Economy", in Social Text Volume 18, Number 2, in the summer of 2000
+
+- Primavera De Filippi and Miguel Said Vieira's ["The Commodification of Information Commons"](https://journals.library.columbia.edu/index.php/stlr/article/view/3991), in The Columbia Science and Technology Law REview, volume 16, number 1, 2014
