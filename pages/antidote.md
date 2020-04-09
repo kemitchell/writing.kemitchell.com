@@ -14,3 +14,9 @@ layout: post
 - Tiziana Terranova's "Free Labor: Producing Culture for the Digital Economy", in Social Text Volume 18, Number 2, in the summer of 2000
 
 - Primavera De Filippi and Miguel Said Vieira's ["The Commodification of Information Commons"](https://journals.library.columbia.edu/index.php/stlr/article/view/3991), in The Columbia Science and Technology Law REview, volume 16, number 1, 2014
+
+- Peter Levine, Andreessen Horowitz, ["Open Source: From Community to Commercialization"](https://www.youtube.com/watch?v=c9SJAPxU5bs)
+
+- Peter Levine, ["There Will Never Be Another Red Hat"](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source/)
+
+- Mako Hill's "When Free Software Isn't Better", [essay](https://mako.cc/writing/hill-when_free_software_isnt_better.html) and [talk](https://www.youtube.com/watch?v=Er1pM9suxvE)
