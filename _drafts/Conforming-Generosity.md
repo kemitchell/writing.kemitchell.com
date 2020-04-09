@@ -1,7 +1,7 @@
 ---
 title: Conforming Generosity
 layout: post
-tags:
+series: Unsustainability at Scale
 ---
 
 _Part of a series, [Unsustainability at Scale](https://writing.kemitchell.com/2017/10/15/Unsustainability-at-Scale.html)_

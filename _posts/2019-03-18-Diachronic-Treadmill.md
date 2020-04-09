@@ -3,7 +3,6 @@ title: The Diachronic Treadmill License
 description: automatically reward supporters with copyleft exceptions
 layout: post
 tags:
-- Sketches
 - Open Source
 - Licensing
 ---

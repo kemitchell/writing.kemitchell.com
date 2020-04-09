@@ -5,7 +5,6 @@ layout: post
 tags:
 - Legal Profession
 - Legal Technology
-- Personal Notes
 - Professions
 ---
 

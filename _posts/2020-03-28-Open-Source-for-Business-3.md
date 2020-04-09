@@ -3,7 +3,6 @@ title: Open Source for Business 3e
 description: new edition of an oft-recommended book
 date: Sat 28 Mar 2020 09:41:13 PM PDT
 tags:
-- Books
 - Licenses
 - Open Source
 ---

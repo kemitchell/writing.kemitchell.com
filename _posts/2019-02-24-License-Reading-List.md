@@ -5,7 +5,6 @@ layout: post
 tags:
 - Open Source
 - Licensing
-- Reading
 - Teaching
 ---
 

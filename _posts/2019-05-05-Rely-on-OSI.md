@@ -6,7 +6,7 @@ tags:
 - Open Source
 - Open Source Initiative
 - Licensing
-- OSI
+- Open Source Initiative
 ---
 
 <aside class="brief" markdown="1">

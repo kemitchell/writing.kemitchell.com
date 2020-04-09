@@ -3,7 +3,6 @@ title: Operating Environment
 description: essential industry background for reading open software licenses
 layout: post
 tags:
-- Industry
 - Licensing
 - Open Source
 - Software

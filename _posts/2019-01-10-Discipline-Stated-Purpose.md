@@ -5,7 +5,7 @@ layout: post
 tags:
 - Drafting
 - Contracts
-- License
+- Licenses
 ---
 
 Whenever you draft contract language, write and include a general statement of purpose along with your specific terms.

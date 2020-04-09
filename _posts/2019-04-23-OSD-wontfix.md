@@ -6,7 +6,7 @@ tags:
 - Open Source
 - Free Software
 - Licensing
-- OSI
+- Open Source Initiative
 - Debian
 ---
 

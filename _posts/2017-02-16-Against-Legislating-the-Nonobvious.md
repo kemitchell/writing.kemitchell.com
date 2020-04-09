@@ -4,7 +4,6 @@ description: short-order feedback on the default contributor license in GitHub's
 layout: post
 tags:
 - Open Source
-- GitHub
 - Licensing
 ---
 

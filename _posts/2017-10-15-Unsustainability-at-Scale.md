@@ -2,6 +2,7 @@
 title: Unsustainability at Scale
 description: today's tools for yesterday's problems tomorrow
 layout: post
+series: Unsustainability at Scale
 tags:
 - Open Source
 - Sustainability

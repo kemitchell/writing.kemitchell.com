@@ -7,7 +7,7 @@ tags:
 - Licensing
 - Noncommercial
 - Software
-- Standardized Legal Terms
+- Standard Legal Terms
 ---
 
 Two software licenses.  One says "Do what you want with this software, but don't compete with this project.".  The other says "Do what you want with this software, but don't compete with the company that released it.".  What do we call these licenses, so we can tell them apart?  We can't use "noncompete".  That could readily describe both of them.

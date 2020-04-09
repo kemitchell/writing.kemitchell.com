@@ -5,7 +5,7 @@ layout: post
 tags:
 - Plain English
 - Contracts
-- Lawyering
+- Law Practice
 ---
 
 Open-source software left its mark on me long before law school.  I am still learning all the myriad ways the damage done utterly disqualifies me for "lawyers' lawyer" status.  Nowhere at home.

@@ -7,7 +7,7 @@ tags:
 - Open Source
 - Licensing
 - Copyleft
-- OSI
+- Open Source Initiative
 ---
 
 What's going on with new software license terms for businesses?

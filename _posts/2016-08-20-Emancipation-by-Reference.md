@@ -7,7 +7,7 @@ js:
 tags:
 - Common Form
 - Contracts
-- Lawyering
+- Law Practice
 ---
 
 I am a deals lawyer, and I write software.  I am an "impending death of the legal profession" apostate.  New technology---"expert systems", "AI", "machine learning", "deep neural networks"---will not "eat" lawyerdom, at least not as deals lawyers know it.  Deals lawyering has always lived, and taken responsibility, out ahead of what rote systems can administer.  Rote systems become problem solving table stakes.  And the lawyer who's defined the client's problem has nine-tenths of the job done.

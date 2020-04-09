@@ -2,9 +2,9 @@
 title: XLC Building Blocks
 description: essential concepts and vocabulary for cross-license collaboratives
 layout: post
+series: Cross-License Collaboratives
 tags:
 - Licensing
-- XLC
 ---
 
 There are just a few key legal concepts behind [Cross-License Collaboratives](https://xlcollaborative.com).  Here they are in short, plain terms.

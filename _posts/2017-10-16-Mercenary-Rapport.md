@@ -2,9 +2,9 @@
 title: Mercenary Rapport
 description: moral blindness in open source as social media
 layout: post
+series: Unsustainability at Scale
 tags:
 - Open Source
-- Unsustainability at Scale
 - Social Media
 ---
 

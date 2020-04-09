@@ -5,7 +5,7 @@ layout: post
 tags:
 - Open Source
 - Debian
-- OSI
+- Open Source Initiative
 ---
 
 The comparison below starts with the [Debian Free Software Guidelines in the originally announced Debian Social Contract](https://lists.debian.org/debian-announce/1997/msg00017.html) and produces [The Open Source Definition, as of September 12, 2017](https://opensource.org/osd):

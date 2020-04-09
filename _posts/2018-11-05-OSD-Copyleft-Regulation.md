@@ -7,7 +7,7 @@ tags:
 - Open Source
 - Licensing
 - Copyleft
-- OSI
+- Open Source Initiative
 ---
 
 This is the second in [a series inspired by MongoDB's Server Side Public License](/series/SSPL.html) and ensuing debate.  It builds on [the first](https://writing.kemitchell.com/2018/10/24/How-to-Speak-Copyleft.html), which sets out the vocabulary of copyleft design and regulation used here.
