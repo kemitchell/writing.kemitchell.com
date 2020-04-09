@@ -1,7 +1,7 @@
 ---
 title: Antidote Reading List
 description: critical and alternative views on free and open source software
-permalink: /antidote
+permalink: /pages/Antidote
 layout: post
 ---
 
