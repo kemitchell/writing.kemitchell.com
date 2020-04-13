@@ -13,7 +13,7 @@ A group coalescing around [firstdonoharm.dev](https://firstdonoharm.dev) has pub
 
 > Copyright (YEAR) (COPYRIGHT HOLDER)
 
-MIT and BSD folks are used to copyright notices in licenses, but they're a pain in the butt and old hat.  Compare the [Polyform](https://polyformproject.org/) licenses, which require preserving copyright info it takes a particular form, or [Blue Oak's model permissive license](https://blueoakcouncil.org/license/1.0.0), which dispenses with copyright notice as a whole, as unnecessary.
+MIT and BSD folks are used to copyright notices in licenses, but they're a pain in the butt and old hat.  Compare the [PolyForm](https://polyformproject.org/) licenses, which require preserving copyright info it takes a particular form, or [Blue Oak's model permissive license](https://blueoakcouncil.org/license/1.0.0), which dispenses with copyright notice as a whole, as unnecessary.
 
 > Hippocratic License Version 2.0.
 
@@ -105,4 +105,4 @@ There is indeed such a rule of construction under typical US contract law.  But 
 
 > THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Straight out of MIT.  Orthodox legalese, but orthodox isn't necessarily good.  Again, compare the Blue Oak Model License and Polyform licenses.
+Straight out of MIT.  Orthodox legalese, but orthodox isn't necessarily good.  Again, compare the Blue Oak Model License and PolyForm licenses.

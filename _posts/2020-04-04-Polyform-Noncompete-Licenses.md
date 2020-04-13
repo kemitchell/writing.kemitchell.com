@@ -1,7 +1,7 @@
 ---
 title: Noncompete By Two Other Names
-description: Why are the last Polyform licenses taking so long?
-series: Polyform
+description: Why are the last PolyForm licenses taking so long?
+series: PolyForm
 date: Sat 04 Apr 2020 11:58:26 PM PDT
 tags:
 - Licensing
@@ -12,7 +12,7 @@ tags:
 
 Two software licenses.  One says "Do what you want with this software, but don't compete with this project.".  The other says "Do what you want with this software, but don't compete with the company that released it.".  What do we call these licenses, so we can tell them apart?  We can't use "noncompete".  That could readily describe both of them.
 
-I helped cofound [Polyform Project](https://polyformproject.org) last year.  We came together to publish the standard source code licenses software was missing.  We published a [noncommercial license](https://polyformproject.org/licenses/noncommercial/1.0.0).  We published an [internal-use-only license](https://polyformproject.org/licenses/internal-use/1.0.0).  We published a [free-trial license](https://polyformproject.org/licenses/free-trial/1.0.0).  And a couple more, to boot.  All in relatively short and readable English terms.
+I helped cofound [PolyForm Project](https://polyformproject.org) last year.  We came together to publish the standard source code licenses software was missing.  We published a [noncommercial license](https://polyformproject.org/licenses/noncommercial/1.0.0).  We published an [internal-use-only license](https://polyformproject.org/licenses/internal-use/1.0.0).  We published a [free-trial license](https://polyformproject.org/licenses/free-trial/1.0.0).  And a couple more, to boot.  All in relatively short and readable English terms.
 
 These missing licenses, especially the noncommercial form, represented one of two main motivations for the project.  We also wanted to bring uniformity and state-of-the-art drafting to the burgeoning genre of "anything but SaaS" terms like the Commons Clause bolt-on, vendor-specific "community" licenses like [Elastic NV's](https://github.com/elastic/elasticsearch/blob/master/licenses/ELASTIC-LICENSE.txt) and [Sharetribe's](https://writing.kemitchell.com/2020/04/04/Sharetribe-1.0.html), and various lay attempts to generalize them.
 

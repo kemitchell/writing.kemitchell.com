@@ -6,6 +6,7 @@ series: Line by Line
 brief: A multimedia, copyleft license, for a limited time only, to respond to COVID-19.
 tags:
 - Licensing
+- Copyleft
 - Open Source
 - Open Hardware
 retrospect: As intersting as the license is, the word I'm hearing from engineer friends is that Medtronic hasn't actually released much of concrete use under the terms.  They've teased a broader release, including source code, but so far, no sign of it.
@@ -115,7 +116,7 @@ Does the "a" mean you get to make one?  Or that you get to make one _design_, of
 
 With the term, here is the major "modification" to "permissive".  This isn't a free public license for any purpose.  Just for responding to the COVID-19 (defined term!) pandemic.  A little surprised they didn't reuse the PHEIC defined term, though I suppose it doesn't matter, because the term of the license ends with the PHEIC anyway.
 
-License wonks can compare this to the structure of the [Polyform licenses](https://polyformproject.org/licenses/), which license only for "permitted purpose", which varies by license: noncommercial use, small business use, internal use, and so on.
+License wonks can compare this to the structure of the [PolyForm licenses](https://polyformproject.org/licenses/), which license only for "permitted purpose", which varies by license: noncommercial use, small business use, internal use, and so on.
 
 > You are free to use,
 
@@ -227,7 +228,7 @@ In their lawyers' position, I would absolutely be thinking about modified firmwa
 
 > You must retain all copyright, patent, trademark, and other proprietary notices in the Design Materials and Software.
 
-Very common condition.  Compare the approach of [the Polyform licenses](https://polyformproject.org/licenses/noncommercial/1.0.0/#notices), which gives licensees more guidance on how to find and honor required notices, using a "magic string" of text denoting a notice line.
+Very common condition.  Compare the approach of [the PolyForm licenses](https://polyformproject.org/licenses/noncommercial/1.0.0/#notices), which gives licensees more guidance on how to find and honor required notices, using a "magic string" of text denoting a notice line.
 
 > > COVID-19 Warning:
 

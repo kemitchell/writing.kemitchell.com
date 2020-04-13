@@ -57,7 +57,7 @@ Bad News: Coming!
 
 So we're looking at another anything-but-SaaS license.  Rumors of Commons Clause's demise have been greatly exaggerated.
 
-There are many different implementations of anything-but-SaaS community licensing now.  [Polyform](https://polyformproject.org), which I cofounded, has tried to make standard forms available for this purpose.  Frankly, that was half the motivation to start the project in the first place.  But we've hung up on forms implementing various forms of permissive license with restrictions on competing with the licensor, because it turns out appetites haven't settled on a particular approach yet, and none of the approaches are particularly easy to draft.  If you're interested, [here's a pull request](https://github.com/polyformproject/polyform-licenses/pull/70).
+There are many different implementations of anything-but-SaaS community licensing now.  [PolyForm](https://polyformproject.org), which I cofounded, has tried to make standard forms available for this purpose.  Frankly, that was half the motivation to start the project in the first place.  But we've hung up on forms implementing various forms of permissive license with restrictions on competing with the licensor, because it turns out appetites haven't settled on a particular approach yet, and none of the approaches are particularly easy to draft.  If you're interested, [here's a pull request](https://github.com/polyformproject/polyform-licenses/pull/70).
 
 We are still in preamble or introductory text.  I expect they'll express this rule again, and in different terms, later on.
 
@@ -107,7 +107,7 @@ Sharetribe also provides two bits of interpretive aid: "...where you host for mu
 
 I could pick nits in the multiple-clients clarification.  For example, what about consultancies that help multiple clients self-host on public cloud infrastructure, like AWS?  But in practice, I think this formulation probably just works.  The situations that might be unclear aren't situations that Sharetribe appears to want to permit.
 
-I'd have more serious reservations about the noncompetition formulation if it _were_ the rule, rather than additional language designed to clarify the rule.  Again, see [current work on the noncompete license for Polyform](https://github.com/polyformproject/polyform-licenses/blob/master/Polyform-Noncompete.md).
+I'd have more serious reservations about the noncompetition formulation if it _were_ the rule, rather than additional language designed to clarify the rule.  Again, see [current work on the noncompete license for PolyForm](https://github.com/polyformproject/polyform-licenses/blob/master/PolyForm-Noncompete.md).
 
 > ### 1.2 Attribution requirement.
 > You may make the Software available if you meet the following attribution conditions:
@@ -166,7 +166,7 @@ Also the word "agrees", which screams "contract!" under US law.
 >
 > If You breach any of the terms or conditions under this License, this License will terminate automatically and permanently.
 
-Good to clarify how breaking the rules affects the license.  The Polyform licenses and the Blue Oak Model license all do this, and I've already seen it pay dividends in the field, increasing understanding and reducing questions sent up to lawyers.
+Good to clarify how breaking the rules affects the license.  The PolyForm licenses and the Blue Oak Model license all do this, and I've already seen it pay dividends in the field, increasing understanding and reducing questions sent up to lawyers.
 
 Note the stricture here.  No matter which rule you break, no matter how seriously you break it, no matter if you intended to break it or tried to fix it or not, your license goes poof.  That does seem like a trap, though I suspect it wasn't mean maliciously.  That being said, if it plays out, it won't play out well.
 
@@ -242,7 +242,7 @@ Very common in contracts.  In America, we'd usually try to make this rule apply 
 
 Hardly perfect, but way better than I expected.  The takeaway is definitely the approach to SaaS restriction.
 
-Polyform has stumbled getting the noncompete forms out.  We've had a terrible run of luck with cofounders---both Heather Meeker and I---suffering independent, work-stopping health issues, and now COVID-19.  Seeing this, I'm inspired again to push on those licenses.  Folks shouldn't have to roll their own, one-off.
+PolyForm has stumbled getting the noncompete forms out.  We've had a terrible run of luck with cofounders---both Heather Meeker and I---suffering independent, work-stopping health issues, and now COVID-19.  Seeing this, I'm inspired again to push on those licenses.  Folks shouldn't have to roll their own, one-off.
 
 ## Random Thought, Occurring to Me Later
 
