@@ -10,6 +10,7 @@ permalink: /pages/COVID-19-Dashboard
 - Droplet Spread
 - Flatten the Curve
 - Hand Hygiene
+- Herd Immunity
 - Intubation
 - KN95
 - N95
