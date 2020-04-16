@@ -7,7 +7,7 @@ layout: post
 
 Whether you love what open source stands for, or don't care, and just like getting work done, it's hard to avoid the massive investments in marketing, brand building, and self-conscious propaganda around open source.  With no shortage of vested interests, it's easy to find spinsters and fanboys extolling various virtues of open source, for nearly any meaning of the term.
 
-Here are a few quality pieces to read as antidote to all the hype.  These writers aren't necessarily critical of what open source is.  Many see it very positively.  But they do so in terms very different, or outright critical, of how the buzzword has been developed, discussed, and presented to the mainstream.
+Here are a few quality pieces to read as antidote to the hype.  These writers aren't necessarily critical of what open source is.  Many see it very positively.  But they do so in terms very different, or outright critical, of how the buzzword has been developed, discussed, and presented to the mainstream in the past.
 
 - Biella Coleman and Mako Hill's ["How Free Became Open and Everything Else Under the Sun"](https://www.journal.media-culture.org.au/0406/02_Coleman-Hill.php)
 
