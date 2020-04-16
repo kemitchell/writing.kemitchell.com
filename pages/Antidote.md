@@ -9,6 +9,8 @@ layout: post
 
 - Christopher Kelty's [_Two Bits_](https://twobits.net), Parts II and III
 
+- Michael Tiemann's view of the GNU Manifesto as "a business plan in disguise", as in _Open Sources: Voices From the Open Source Revolution_ and [his homepage](https://people.redhat.com/tiemann/)
+
 - Michel Bauwens and Vasilis Kostakis' ["From the Communism of Capital to Capital for the Commons: Towards an Open Co-operativism"](https://www.triple-c.at/index.php/tripleC/article/view/561)
 
 - Tiziana Terranova's "Free Labor: Producing Culture for the Digital Economy", in Social Text Volume 18, Number 2, in the summer of 2000
