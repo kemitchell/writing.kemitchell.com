@@ -1,5 +1,5 @@
 ---
-title: No Please
+title: No Thanks
 description:
 tags:
 - Privacy
