@@ -20,3 +20,5 @@ layout: post
 - Peter Levine, ["There Will Never Be Another Red Hat"](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source/)
 
 - Mako Hill's "When Free Software Isn't Better", [essay](https://mako.cc/writing/hill-when_free_software_isnt_better.html) and [talk](https://www.youtube.com/watch?v=Er1pM9suxvE)
+
+- Evgeny Morozov's ["The Meme Hustler"](https://thebaffler.com/salvos/the-meme-hustler)
