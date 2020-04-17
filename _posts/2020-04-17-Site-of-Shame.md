@@ -1,6 +1,7 @@
 ---
 title: Site of Shame
 description: if you can't negotiate, castigate?
+date: Fri 17 Apr 2020 11:45:00 AM PDT
 tags:
 - Open Source
 - Software Industry
