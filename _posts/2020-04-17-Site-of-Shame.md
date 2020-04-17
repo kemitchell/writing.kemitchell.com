@@ -36,4 +36,6 @@ I don't call this out to condemn one side or the other, morally.  Specific custo
 
 It's not.  Simply "calling vendors out" for not making a good thing available at a lesser price point isn't going to sprout new columns all over SaaS companies' pricing pages.  That's competition's job.  Find vendors offering a package that works well for firms of the size and need.  Show their competitors they can make more money, without cannibalizing other opportunity, by adding that distinct segment to their model and offering a corresponding plans.
 
-Companies don't owe each other features.  They get what they bargain for.
+Companies don't owe each other features.
+
+They get what they bargain for.
