@@ -28,3 +28,5 @@ Here are a few quality pieces to read as antidote to the hype.  These writers ar
 - Tiziana Terranova's "Free Labor: Producing Culture for the Digital Economy", in Social Text Volume 18, Number 2, in the summer of 2000
 
 - Michael Tiemann's view of the GNU Manifesto as "a business plan in disguise", as in _Open Sources: Voices From the Open Source Revolution_ and [on his homepage](https://people.redhat.com/tiemann/)
+
+- Luis Villa's ["Stallman, Nussbaum, and Sen"](https://media.libreplanet.org/u/libreplanet/m/stallman-nussbaum-and-sen-putting-freedom-in-context/) talk at LibrePlanet
