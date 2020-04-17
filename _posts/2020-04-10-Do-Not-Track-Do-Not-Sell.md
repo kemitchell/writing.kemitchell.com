@@ -13,6 +13,6 @@ While [browsing Ken Adams' blog](https://www.adamsdrafting.com/in-contract-draft
 >
 > You are currently opted out of targeting and personalization.  We strive to make the Disqus experience as personalized and relevant as possible for all users.  In doing so, we collect non-personally identifiable interest information to deliver targeted content and advertising on websites that use Disqus as well as other websites you may visit.
 >
-> <button style="font-size: 16px; padding: 10px 25px; line-height: 1.45em; letter-spacing: 1.5px; border-color: #2e9fff; background-color: #2e9fff; color: white; border-radius: 3px; border: 1px solid transparent; text-align: center; font-weight: 500; display: inline-block; cursor: pointer;">OPT IN</button>
+> <button class="disqusButton">OPT IN</button>
 
 Interesting.
