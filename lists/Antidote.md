@@ -13,7 +13,7 @@ Here are a few quality pieces to read as antidote to the hype.  These writers ar
 
 - Biella Coleman and Mako Hill's ["How Free Became Open and Everything Else Under the Sun"](https://www.journal.media-culture.org.au/0406/02_Coleman-Hill.php)
 
-- Primavera De Filippi and Miguel Said Vieira's ["The Commodification of Information Commons"](https://journals.library.columbia.edu/index.php/stlr/article/view/3991), in The Columbia Science and Technology Law REview, volume 16, number 1, 2014
+- Primavera De Filippi and Miguel Said Vieira's ["The Commodification of Information Commons"](https://journals.library.columbia.edu/index.php/stlr/article/view/3991), in The Columbia Science and Technology Law Review, volume 16, number 1, 2014
 
 - Mako Hill's "When Free Software Isn't Better", [essay](https://mako.cc/writing/hill-when_free_software_isnt_better.html) and [talk](https://www.youtube.com/watch?v=Er1pM9suxvE)
 
