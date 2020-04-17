@@ -34,7 +34,7 @@ Notice here that security is framed entirely as a vendor responsibility.  But a 
 
 I don't call this out to condemn one side or the other, morally.  Specific customer-vendor relationships get negotiated, and the overall balance of negotiating power bends, to a limited extent, to industry politics and propaganda.  Setting up a website to try and muscle vendors on behalf of companies is fair play.  The question is whether it's effective play.
 
-It's not.  Simply "calling vendors out" for not making a good thing available at a lesser price point isn't going to sprout new columns all over SaaS companies' pricing pages.  That's competition's job.  Find vendors offering a package that works well for firms of the size and need.  Show their competitors they can make more money, without cannibalizing other opportunity, by adding that distinct segment to their model and offering a corresponding plans.
+It's not.  Simply "calling vendors out" for not making a good thing available at a lesser price point isn't going to sprout new columns all over SaaS companies' pricing pages.  That's competition's job.  Find vendors offering a package that works well for firms of the size and need.  Show their competitors they can make more money, without cannibalizing other opportunity, by adding that distinct segment to their model and offering corresponding plans.
 
 Companies don't owe each other features.
 
