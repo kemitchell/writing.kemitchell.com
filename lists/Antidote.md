@@ -13,7 +13,11 @@ Here are a few quality pieces to read as antidote to the hype.  These writers ar
 
 - Biella Coleman and Mako Hill's ["How Free Became Open and Everything Else Under the Sun"](https://www.journal.media-culture.org.au/0406/02_Coleman-Hill.php)
 
+- Ashe Dryden's ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+
 - Primavera De Filippi and Miguel Said Vieira's ["The Commodification of Information Commons"](https://journals.library.columbia.edu/index.php/stlr/article/view/3991), in The Columbia Science and Technology Law Review, volume 16, number 1, 2014
+
+- Don Goodman-Wilson's ["Open Source is Broken"](https://don.goodman-wilson.com/posts/open-source-is-broken/)
 
 - Mako Hill's "When Free Software Isn't Better", [essay](https://mako.cc/writing/hill-when_free_software_isnt_better.html) and [talk](https://www.youtube.com/watch?v=Er1pM9suxvE)
 
@@ -26,7 +30,7 @@ Here are a few quality pieces to read as antidote to the hype.  These writers ar
 - Evgeny Morozov's ["The Meme Hustler"](https://thebaffler.com/salvos/the-meme-hustler)
 
 - Tiziana Terranova's "Free Labor: Producing Culture for the Digital Economy", in Social Text Volume 18, Number 2, in the summer of 2000
-
+-
 - Michael Tiemann's view of the GNU Manifesto as "a business plan in disguise", as in _Open Sources: Voices From the Open Source Revolution_ and [on his homepage](https://people.redhat.com/tiemann/)
 
 - Luis Villa's ["Stallman, Nussbaum, and Sen: Putting "Freedom" in Context"](https://media.libreplanet.org/u/libreplanet/m/stallman-nussbaum-and-sen-putting-freedom-in-context/) talk at LibrePlanet
