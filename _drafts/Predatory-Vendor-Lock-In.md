@@ -1,0 +1,34 @@
+---
+title: Predatory Vendors Anonymous
+description: stop buying software from assholes
+date:
+tags:
+- Open Source
+- Software Industry
+---
+
+One of the points that "sold" open source to business was "freedom from predatory vendor lock-in".  Go with open source, you'll never get another "not renewing, call sales" notice for critical code ever again.  Fast forward twenty or forty years, depending on how you count, and the open source faithful still love bashing software vendors they don't work for.  Especially Oracle.
+
+But I've noticed that more often than not, it's not "predatory vendor lock-in" any more.  It's just "vendor lock-in", or, frankly, the idea of a "vendor" full stop.  With "vendor", the "lock-in" goes without saying.  So does the "predatory".
+
+Does it, really?
+
+If every form of dependence raises your hackles, if the only way you know to play productively with others is owning their work or getting it for free, if any software vendor relationship seems presumptively abusive, you really need to stop buying software from assholes.  And stop working for companies that do.  Because you're feeding the sharks, and we dolphins deserve better.  Because the software world is not quite that cruel, and you deserve to see that, too.
+
+Try a boutique vendor.  Or even a larger shop.  But do your homework, and be sure their finance model won't condemn them to the jaws of short-termist managers, "power closer" sociopaths, and panic-inducing, eat-the-seed-grain sales targets for rank and file.  Negotiate for source code from the get-go.  Happens all the time.  Lock in renewal rights and price protections.  Basically de rigeur at this point.  Get a broad license that kicks in if they end-of-life it.  Fairly unobjectionable.  Price out some consulting hours, and involve their development people as collaborators, on a regular basis, rather than just "come and fix it" support.  Make them part of your team.
+
+DHH may or may not be crazy, but 37 Signals isn't going to shank you.  Rich won't be selling Cognitect to Bain, Blackstone, or the Borg anytime soon.  Mike Perham isn't going to decide great ain't good enough, take a huge check from a16z, and set Sidekiq off like a rocket ship, vaporizing you on the launch pad in a blaze of venture glory.  All those companies are made of the kinds of folks you'd probably love to work with, but can't realistically hire for yourself.  Especially if you work at a large, lumbering enterprise with beaten, broken people in procurement and bad blood brewing on every nonrenewal notice deadline.
+
+If you reach out even to good, small, earnest companies with one hand on your sixgun and the other on your knife, ready for a shootout or a backstabbing, that's likely what you'll get, whether they were out to get you or not.  Go in ready to play team ball, where not just code and money, but also ideas cross the company line, and you might just make each other money.  Talk through a contract, instead of passing off to the shove-it-down-their-throats department, and the time to close just might surprise you, too.
+
+That's not to say that you should run out and find a paid alternative to every free or open thing you're using.  Of course not.  But if the question is "Do we insist on everything open, or do we do deals with companies that charge for their work?", then the answer is "Why not both?" and "It depends, so we better get good at knowing on what."
+
+100% open source, with the occasional sprinkling of paid consulting or support, 100% of the time, is almost always suboptimal.  Absolute "independence" is only as deep as your own self-deception, which you'll find out when you hit a problem or an upgrade, and reality reasserts itself.  So is insisting that if it doesn't have a million dollar company, a patent warranty, and 24/7 support behind it, you can't take it seriously or put it in your stack.  That's also too simple, and as blatantly counterfactual.
+
+In the not too distant past, we enjoyed a much richer vocabulary for these kinds of issues.  Gentlemen and would-be gentlemen of the American revolutionary period, for example, were entreated to maintain independence by subsisting on rents from land, rather than on involvement in trades, professions, or business.  In times of financial distress, gentlemen might stoop to a learned profession, such as law, to reestablish their means.  And a great many new gentlemen, Ben Franklin included, worked their way up through commerce or trades, until they could "cash out" to a higher station.  But the status and privilege of gentility were rationalized, in part, by the "disinterestedness" that personal remove implied.  As landed gentlemen, free of of "interest", they could participate in politics, science, art, and the stewardship of society, all for their own sakes.  They could patronize tradesman and artisans to do work that common, everyday exigencies wouldn't bear, and felt a social obligation to do so.
+
+Even so, in designing a new government and a new constitution, they never aimed to make gentlemen in government office---they assumed only gentlemen---absolutely independent.  To the contrary, they sought very consciously to design the dependencies of men and institutions, believing, in a sense, that dependencies determined behavior and good governance was a behavior.
+
+This was hardly surprising.  While gentlemen were the least constrained by dependence, they sat at the pinnacle of society structured by dependence, of an explicit, formalized kind rarely seen today, from God to monarch right down to apprentice, servant, and slave.  Remove from the affairs of subsistence and competition made gentlemen disinterested, dispassionate, and potentially enlightened, not in the sense of indifference, but in a way we might now express by "without vested interest" or "unconflicted".  A good society was a society of rational, functional personal and institutional dependencies, not a society of economic free agents unmoored to do just as they wished.
+
+The moral of this history for software is simple:  Binary, yes-or-no independence, a liberty apart from society, is a theoretical construct, an ideological fiction, a power fantasy.  We are all dependent, our projects are all dependent, and our companies are all dependent.  That does not mean we aren't free.  Freedom lies in the choice and maintenance of our dependencies, not just in the code or other building blocks we choose, but far more importantly in our personal relationships with others who make them.  The right dependence can enrich our work more than listless autonomy.  We can't embrace those opportunities without seeing them.  We deny ourselves those opportunities when we let assholes convince us that only assholes run companies, collaboration between companies, as opposed to the individuals who make them up, is an embarrassment, a risk, and a folly.
