@@ -8,7 +8,7 @@ date: Fri 17 Apr 2020 11:42:03 PM PDT
 brief: Nobody sees all of open source, and nobody sees the whole software industry.  Software vendor relationships can be abusive, but they definitely don't have to be.
 ---
 
-One of the points that sold open source to business was freedom from predatory vendor lock-in.  Go with open source, you'll never see another "not renewing, call sales" letter for critical code ever again.  Fast forward twenty or forty years, depending on how you count, and the open source faithful still bash software vendors, at least the ones the don't work for.  Especially Oracle.
+One of the points that sold open source to business was freedom from predatory vendor lock-in.  Go with open source, you'll never see another "not renewing, call sales" letter for critical code ever again.  Fast forward twenty or forty years, depending on how you count, and the open source faithful still bash software vendors, at least the ones they don't work for.  Especially Oracle.
 
 But I've noticed that more often than not, it's no longer "predatory vendor lock-in".  It's just "vendor lock-in", or, frankly, just "vendor" full stop.  With "vendor", the "lock-in" goes without saying.  And "vendor" implies "predatory", as a matter of course.
 
