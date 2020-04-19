@@ -17,6 +17,8 @@ Here are a few quality pieces to read as antidote to the hype.  These writers ar
 
 - Primavera De Filippi and Miguel Said Vieira's ["The Commodification of Information Commons"](https://journals.library.columbia.edu/index.php/stlr/article/view/3991), in The Columbia Science and Technology Law Review, volume 16, number 1, 2014
 
+- Garfinkel, Weise, and Strassmann's [_The UNIX-HATERS Handbook_](https://homes.cs.washington.edu/~weise/unix-haters.html)
+
 - Don Goodman-Wilson's ["Open Source is Broken"](https://don.goodman-wilson.com/posts/open-source-is-broken/)
 
 - Mako Hill's "When Free Software Isn't Better", [essay](https://mako.cc/writing/hill-when_free_software_isnt_better.html) and [talk](https://www.youtube.com/watch?v=Er1pM9suxvE)
