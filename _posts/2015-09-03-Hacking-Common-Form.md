@@ -2,6 +2,7 @@
 title: Hacking Common Form
 description: Overview of existing Common Form software for programmers
 layout: post
+series: Common Form
 tags:
 - Common Form
 - Programming

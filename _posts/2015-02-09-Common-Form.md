@@ -2,6 +2,7 @@
 title: Common Form
 description: Composable, verifiable, shareable form contracts for the modern practice of law
 layout: post
+series: Common Form
 tags:
 - Contracts
 - Law
