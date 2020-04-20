@@ -38,3 +38,5 @@ Here are a few quality pieces to read as antidote to the hype.  These writers ar
 - Michael Tiemann's view of the GNU Manifesto as "a business plan in disguise", as in _Open Sources: Voices From the Open Source Revolution_ and [on his homepage](https://people.redhat.com/tiemann/)
 
 - Luis Villa's ["Stallman, Nussbaum, and Sen: Putting "Freedom" in Context"](https://lu.is/blog/2016/03/23/free-as-in-my-libreplanet-2016-talk/) talk at LibrePlanet
+
+If something's missing from this list, please [send me an e-mail](mailto:kyle@kemitchell.com)!
