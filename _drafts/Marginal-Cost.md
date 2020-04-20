@@ -5,10 +5,6 @@ layout: post
 series: Memeguments
 ---
 
-{% include memeguments.md %}
-
----
-
 <!-- Marginal cost is not the only cost. -->
 
 <!-- Nobody has infinite time. -->

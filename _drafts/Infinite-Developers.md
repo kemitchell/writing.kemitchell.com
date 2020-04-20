@@ -5,10 +5,6 @@ layout: post
 series: Memeguments
 ---
 
-{% include memeguments.md %}
-
----
-
 <!-- Developers cost a lot. ->
 
 <!-- There is a shortage in programming education. -->

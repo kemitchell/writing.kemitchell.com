@@ -18,12 +18,15 @@
     {{ page.retrospect | markdownify }}
   </aside>
   {% endif %}
-  {{ content }}
   {% if page.series %}
-  <p class=signature>
-    This post is <a href="/series/{{ page.series | slugify }}.html">part of a series.</a>.
+  <p class=series>
+    This post is part of a series, <a href="/series/{{ page.series | slugify }}.html">{{page.series}}</a>.
   </p>
   {% endif %}
+  {{ content }}
+  <p class=signature>
+    More in this series: <a href="/series/{{ page.series | slugify }}.html">{{page.series}}</a>
+  </p>
   <p class=signature>more posts about:
   {% for tag in page.tags %}
   <a href="/tags/{{tag | slugify}}.html">{{ tag | smartify }}</a>
@@ -34,8 +37,6 @@
       <a href=mailto:kyle@kemitchell.com>always welcome by e-mail</a>.
   </p>
   <p class=signature>
-    <a href=/>more articles</a>
-    &mdash;
     <a href=#title>back to top</a>
     &mdash;
     <a href="{{ site.repository_url }}/blob/master/{{ page.path }}">edit on GitHub</a>
