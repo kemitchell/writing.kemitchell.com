@@ -27,7 +27,7 @@ Here are a few quality pieces to read as antidote to the hype.  These writers ar
 
 - Peter Levine, Andreessen Horowitz, ["Open Source: From Community to Commercialization"](https://www.youtube.com/watch?v=c9SJAPxU5bs)
 
-- Peter Levine, ["There Will Never Be Another Red Hat"](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source/)
+- Peter Levine, ["Why There Will Never Be Another Red Hat: The Economics of Open Source"](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source/)
 
 - Evgeny Morozov's ["The Meme Hustler"](https://thebaffler.com/salvos/the-meme-hustler)
 
