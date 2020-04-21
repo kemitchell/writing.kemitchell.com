@@ -14,7 +14,7 @@ But I've noticed that more often than not, it's no longer "predatory vendor lock
 
 But no, it doesn't.
 
-If every form of dependence presses your panic button, if the only way you know to play with others is to own what they do or get it all for free, if behind any license deal lurks an abusive relationship in disguise, you need to stop buying software from assholes.  Stop working for companies that habitually do.  You're feeding the sharks, and dolphins deserve better.  The software world is not quite that cruel, and you ought to know it.
+If every form of dependence presses your panic button, if the only way you know to play with others is to own what they do or get it all for free, if behind any license deal lurks an abusive relationship in disguise, you need to stop buying software from assholes.  Stop working for companies that habitually do.  You're feeding the sharks.  The software world isn't quite that cruel, and you ought to know it.
 
 Try a boutique vendor.  Or even a larger private shop.  Someplace where you can get to know a dev or a manager before anyone says "lead" behind your back.  Do your homework, of course.  Be sure their finance doesn't condemn them to short-termist managers, "power closer" hobgoblins, and panic-inducing, eat-the-seed-grain sales targets, in the normal case.  Then make a deal.
 
