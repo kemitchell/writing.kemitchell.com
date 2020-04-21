@@ -21,7 +21,7 @@ Of the studies Ostrom tabulated, five lacked clear boundaries and memberships.  
 
 > Although the rules in devised in Alanya provide an elegant way to solve an assignment problem, they do not address the problem of limiting access to the local fishery.  At the current time, the number of fishers desiring to fish in Alanya does not threaten the viability of the fishery.  But if more individuals were to want access to the fishery, the problem of rent dissipation that characterized Mawelle [which lacked clear boundaries and memberships, and failed] could well arise in Alanya.
 
-Running with the metaphor, Alanya was like an open software project still flying under the radar.  Its maintainers might be making good use of it and getting along.  Nearly everyone using might be developing, too.  But it hasn't been choked out yet, because outsiders aren't clamoring to exploit it yet.
+Running with the metaphor, Alanya was like an open software project still flying under the radar.  Its maintainers might be making good use of it and getting along.  Nearly everyone using might be developing, too.  But it hasn't been choked out, because outsiders aren't clamoring to exploit it yet.
 
 If by "open source" you mean code that anyone can access and use---that anyone can appropriate---then open source projects fail Ostrom's design criteria for robust common-pool resources by definition.  They may have members and nonmembers, but the difference between the two isn't the one that counts.  It's not a boundary of the type Ostrom taught us to look for, the kind she might've counseled us to build to sustain our work in a robust way.
 
