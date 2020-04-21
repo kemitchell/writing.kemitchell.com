@@ -1,17 +1,17 @@
 ---
 title: Common-Pool Pushovers
-descriptions: Elinor Ostrom without boundaries
+description: Elinor Ostrom without boundaries
 series: Memeguments
 tags:
 - Open Source
 - Sustainability
 ---
 
-We all love metaphors for open source.  Open source as ecosystem.  Open source as science.  Open source as infrastructure.  And we love talking open in the high-flying language of economics.  When we're feeling triumphant, as an exception to all the orthodox rules, as through [Benkler](https://en.wikipedia.org/wiki/Yochai_Benkler)'s "commons-based peer production".  When we feel stuck, to invoke economic solutions to our crises of confidence, as through [Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom)'s "common-pool resources".
+We all love metaphors for open source.  Open source as ecosystem.  Open source as science.  Open source as infrastructure.  And we love talking open in the high-flying abstractions of economics.  When we're feeling triumphant, as an exception to all the orthodox rules, as through [Benkler](https://en.wikipedia.org/wiki/Yochai_Benkler)'s "commons-based peer production".  When we feel stuck, to invoke economic solutions to our crises, as through [Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom)'s "common-pool resources".
 
-But a strange thing happens when open source dogooders talk about Ostrom in practice.  They blunt all the hard edges.
+But a strange thing happens when open source dogooders talk about Ostrom.  They blunt all her hard edges.
 
-In particular, they take the first of her design principles, clear boundaries and memberships, and turn it inside out.  Membership becomes about belonging, about welcoming, about togetherness, about community.  Not about who can and can't use what's made and maintained.  It's a membership that only says "welcome".  It never says "no".  Which is exactly the opposite of Ostrom's point.
+In particular, they take the first of her design principles, clear boundaries and memberships, and turn it inside out.  Membership becomes about belonging, about welcoming, about togetherness, about community.  Not about who can and cannot use what's made and maintained.  It's a membership that only says "welcome".  It never says "no".  Which is exactly _not_ Ostrom's point.
 
 Getting away from hand-wavy summaries and easy-to-glance tables into the text of Ostrom's book, here is how she specified the first design principle for robust common-pool resources:
 
@@ -29,7 +29,7 @@ Ostrom began her book with a warning against cooking up policies from metaphor. 
 
 In Ostrom's terms, an open-access resource is a Hobbesian state of nature where the rules about who can appropriate are no rules at all.  The "membership" that can exploit is everyone.  In our terms, an open-access resource is the kind of thing many take open source to be, or think that it ought to be, and think is good for them.  It is a broad, permissive public license, full source code, responsive support, dutiful maintenance, and good documentation, all free for the taking.  No share-alike rule.  No credit requirements.  No open core.  No company project steward.
 
-Nearly two hundred pages later, Ostrom _ended_ her book with a warning against policymaking by crisis, with notes on the root of its dysfunction:
+Nearly two hundred pages later, Ostrom _ended_ her book with a warning against policy making by crisis, with notes on the root of its dysfunction:
 
 > The propensity of political leaders to discuss CPR problems in terms of "crises" is far more understandable once one takes into account that individuals weight perceived harms more heavily than perceived benefits of the same quantity.
 
