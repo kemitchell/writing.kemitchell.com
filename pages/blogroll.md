@@ -29,6 +29,8 @@ permalink: /blogroll
 
 [Mark Linksvayer](https://gondwanaland.com/mlog/)
 
+[Stephen O'Grady](https://redmonk.com/sogrady/author/sogrady/)
+
 [Mikeal Rogers](https://medium.com/@mikeal)
 
 [Dirk Riehle](https://dirkriehle.com)
