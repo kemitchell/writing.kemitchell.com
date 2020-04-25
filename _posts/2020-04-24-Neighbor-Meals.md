@@ -1,5 +1,5 @@
 ---
-title: Neighborhood Meals
+title: Neighbor Meals
 description: ground game for safer group takeout
 tags:
 - COVID-19
