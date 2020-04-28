@@ -121,7 +121,7 @@ Standing at that intersection, we might expect to play by exceptional rules.  Bu
 
 It's not lawyers' fault that legislators and lobbyists wax poetic about the rights of creators, the economic imperium of content conglomerates, and perpetual copyright, ignoring fair use doctrine, [section 105](https://www.govinfo.gov/content/pkg/USCODE-2018-title17/pdf/USCODE-2018-title17-chap1-sec105.pdf), and arguably ([unsuccessfully](https://en.wikipedia.org/wiki/Eldred_v._Ashcroft)) the [IP clause itself](https://en.wikipedia.org/wiki/Copyright_Clause), only to turn around and preach collaboration, fair play, antimonopoly, and grass-roots culture when it suits them.  But it is our fault when we emulate them.
 
-There's probably no talking us out of lathering on whatever rhetoric suits the brief, or that makes our holdings seem stately and popular.  But those choices have consequences, sometimes far beyond the matter at hand.  Especially when we speak on the conduct of our own responsibilities, about the legal system for which we will be held responsible.  We open ourselves set ourselves for charges of hypocrisy.  Charges that won't be heard or tried by our rules.
+There's probably no talking us out of lathering on whatever rhetoric suits the brief, or that makes our holdings seem stately and popular.  But those choices have consequences, sometimes far beyond the matter at hand.  Especially when we speak on the conduct of our own responsibilities, about the legal system for which we will be held responsible.  We set ourselves up for charges of hypocrisy.  Charges that won't be heard or tried by our rules.
 
 ## Happy Thoughts
 
