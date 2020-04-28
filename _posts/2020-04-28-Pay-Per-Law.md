@@ -95,7 +95,7 @@ The court ruled that Georgia can't copyright annotations to its statutes.  But w
 
 The State of Georgia can't monetize its annotations like Wexis can.  It can't sell or exclusively license copyrights in them, though it can and perhaps will make deals for preferential access.  Supreme Court says.  But at the same time, the right of Wexis to monetize as it pleases is even more clear today than it was before.  This court isn't saying we're going to get free annotations from the government.  It's closer to signaling that annotations---making the law understandable, or even just legible---won't be the government's job.
 
-I suspect and fear that we will see states like Georgia privatize more of the task of legal content production, shifting it into a realm where access can and will be more effectively controlled.  No matter how critical those products are to citizens and their lawyers in practice.  No matter how difficult it becomes to scrape the commercial gloss out of the public substance.
+I suspect and fear that we will see states like Georgia privatize more of the task of legal content production, shifting it into a realm where access can and will be more effectively controlled.  No matter how critical those products are to citizens and their lawyers in practice.  No matter how difficult it becomes to scrape the commercial gloss off the public law.
 
 The contract at issue in this lawsuit said the annotations Lexis wrote were "work made for hire" belonging to the state.  What if they just strike that part, and license the state instead?
 
