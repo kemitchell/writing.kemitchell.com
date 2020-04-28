@@ -25,6 +25,6 @@ I can think of several friends and colleagues, many of whom have been Common For
 
 All of us involved in contract drafting see the waste.  We see how little the basic rudiments of the craft have evolved since the 1990s.  We aren't sharing enough.  We aren't reusing enough.  Drafting a new form for a client takes too much time in dull drudgery, which grinds down lawyers and runs up clients' bills.
 
-The answer isn't software.  It's bringing lawyers who better together, and helping them do better, and hold each other up.
+The answer isn't software.  It's bringing lawyers who know better together, helping them to do better and hold each other up.
 
 If you're one of those lawyers, [drop me a line](mailto:kyle@commonform.org).
