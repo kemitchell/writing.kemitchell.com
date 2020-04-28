@@ -125,7 +125,7 @@ There's probably no talking us out of lathering on whatever rhetoric suits the b
 
 ## Happy Thoughts
 
-For a post about a decision that sounds so good, this has been a real downer.  It'd be criminal, in times like these, to end on such a sour note.  So---fun fact!---there was indeed a point where I couldn't help cracking a crooked smile.
+For a post about a decision that sounds so good, this has been a real downer.  It'd be criminal, in times like these, to end on such a sour note.  So---fun fact!---there was indeed a point where I couldn't help cracking my crooked smile.
 
 In considering the hypothetical country where Georgia _could_ copyright its annotations and license them to Lexis, the court laments:
 
