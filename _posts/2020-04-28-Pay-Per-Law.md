@@ -65,7 +65,7 @@ Roberts is right: this is bigger than his court, even though his court is the bi
 
 ## Method
 
-Georgia knew the Supreme Court doesn't legislate.  But they had to go there, and the court had to recognize it:
+Georgia knew the Supreme Court doesn't legislate.  But they had to bring up the broader context, and the court had to recognize it:
 
 > Georgia submits that, without copyright protection, Georgia and many other States will be unable to induce private parties like Lexis to assist in preparing affordable annotated codes for widespread distribution.  That appeal to copyright policy, however, is addressed to the wrong forum.
 
