@@ -24,8 +24,10 @@
   </p>
   {% endif %}
   {{ content }}
+  {% if series %}
   <p class=signature>
     More in this series: <a href="/series/{{ page.series | slugify }}.html">{{page.series}}</a>
+  {% endif %}
   </p>
   <p class=signature>more posts about:
   {% for tag in page.tags %}
