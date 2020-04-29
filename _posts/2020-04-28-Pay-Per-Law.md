@@ -103,7 +103,7 @@ The contract at issue in this lawsuit said the annotations Lexis wrote were "wor
 
 Two domains, government and industry.  And a new Supreme Court deepening their divide, this time in copyright.
 
-On the public side, a strengthened rule making clear that copyright doesn't apply, even to to works directly analogous to materials sold commercially, like annotations to statutes.
+On the public side, a strengthened rule making clear that copyright doesn't apply, even to works directly analogous to materials sold commercially, like annotations to statutes.
 
 On the private side, a strengthened rule making clear that copyright _does_ apply, even to works directly analogous to works also created and relied upon by government, to works acknowledged by the highest court in the land as essential to everyday people in understanding and exercising their legal rights and civic freedoms.
 
