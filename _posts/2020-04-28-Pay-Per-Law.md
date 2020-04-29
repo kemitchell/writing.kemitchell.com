@@ -85,7 +85,7 @@ The high court is in a unique position to call this out.  I'm glad they did.  Bu
 
 This was true in Texas when I lived there, and it's true in California, where I live now.  It's also true that public law librarians---bless their noble souls---do what they can to buy these pricey resources and make them available for naught.  Where they can, they get deals to make the commercial databases available at their computer stations.  But a two-tier system where some people get to use the Internet, and others get bus passes, gas bills, and database access codes for an hour or two at a time is still very much a two-tier system.
 
-Welcome to the dark side.
+Welcome to reality.  It's filthy down here.
 
 The court ruled that Georgia can't copyright annotations to its statutes.  But which line of analysis did the court choose to get there?  The one focused first and foremost on _who_ does the work, not what the work is, means, and says:
 
