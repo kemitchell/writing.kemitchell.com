@@ -39,7 +39,7 @@ All lawyers know this, and so does the court.  In the very next paragraph of Rob
 
 > Some affected parties [of a pay-per-law system] might be willing to roll the dice with a potential fair use defense.  But that defense, designed to accommodate First Amendment concerns, is <mark>notoriously fact sensitive and often cannot be resolved without a trial</mark>.
 
-To use the frank terms the court never would: fair use is good, but fair use is fucking expensive, a legal luxury on the order of tax shelters, patent experts, and wood-panel defense lawyers.  I know this because copyright is one of my things, and if you ask me for guidance on a specific fair use issue:
+To use the frank terms the court never would: fair use is good, but fair use is also fucking expensive, a legal luxury on the order of tax shelters, patent experts, and wood-panel defense lawyers.  I know this because copyright is one of my things, and if you ask me for guidance on a specific fair use issue:
 
 - I'm going to need substantial time to dig up a bunch of facts.
 
