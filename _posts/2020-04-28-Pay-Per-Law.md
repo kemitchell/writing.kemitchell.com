@@ -97,7 +97,7 @@ The State of Georgia can't monetize its annotations like Wexis can.  It can't se
 
 I suspect and fear that we will see states like Georgia privatize more of the task of legal content production, shifting it into a realm where access can and will be more effectively controlled.  No matter how critical those products are to citizens and their lawyers in practice.  No matter how difficult it becomes to scrape the commercial gloss off the public law.
 
-The contract at issue in this lawsuit said the annotations Lexis wrote were "work made for hire" belonging to the state.  What if they just strike that part, and license the state instead?
+The contract at issue in this lawsuit said the annotations Lexis wrote were "work made for hire" belonging to the state.  What if they just strike that part, and license the state the tools to comprehend its own law instead?
 
 ## Yours and Ours
 
