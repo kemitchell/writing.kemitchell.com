@@ -17,7 +17,7 @@ It wasn't a matter of surprise.  Having heard the result beforehand, I read the 
 
 If you want bad psychoanalysis, do it yourself.  But if I had to guess why I'm so uneasy, I'd say it flows from three sources.
 
-One:  Even as the court reaches a pro-openness result on the relatively narrow copyright issue, it seems to succumb to a triumphal, reductionist view that getting that much right will have significant traction on the big-picture issues motivating the rule about government copyright.  It won't.
+One:  Even as the court reaches a pro-openness result on the relatively narrow copyright issue, it seems to succumb to a triumphal, reductionist view that getting that much right will have significant traction on the big-picture issues motivating the rule.  It won't.
 
 Two:  In reaching that result, the court reinforces the kind of legal rule that best protects the control of the firms standing between narrow, doctrinal victory and free, practical access to the substance of the law.  Those profiting by interposing themselves between the government and the people can find a nice golden lining in this opinion.
 
