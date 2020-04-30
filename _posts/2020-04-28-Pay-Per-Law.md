@@ -7,7 +7,7 @@ tags:
 - Case Law
 ---
 
-The Supreme Court has [decided _Georgia v. Public.Resource.org_](https://www.supremecourt.gov/opinions/19pdf/18-1150_new_d18e.pdf).  Georgia _cannot_ copyright its annotations to its legal code, even if it pays to have a private company write them.
+The Supreme Court has [decided _Georgia v. Public.Resource.org_](https://www.supremecourt.gov/opinions/19pdf/18-1150_new_d18e.pdf).  Georgia _cannot_ copyright its annotations to its legal code, even if it pays a private company to write them.
 
 Carl Malamud of [public.resource.org](https://public.resource.org/), along with all the legal muscle that flanked him, especially pro bono, should be dancing-in-place all week.  They deserve to.  A meaningful case.  A noble service done.
 
