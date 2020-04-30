@@ -8,10 +8,6 @@ tags:
 - Licensing
 ---
 
-This is one of a series, [_Killjoy_](/series/Killjoy.html), in which I sketch unorthodox and unwelcome solutions to nagging open source problems.
-
----
-
 Open source software projects should come with strong warranties. But those warranties should come from the companies relying on the projects, not developers, whether the companies contribute or not.
 
 From one point of view, the whole open source "sustainability" problem boils down to one question:  Who's responsible for the open source, and how can we be sure they'll take care of it?
