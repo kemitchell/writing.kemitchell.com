@@ -13,7 +13,7 @@ Alphabetically, by first named author:
 
 - <!-- Bauwens --> Michel Bauwens and Vasilis Kostakis' ["From the Communism of Capital to Capital for the Commons: Towards an Open Co-operativism"](https://www.triple-c.at/index.php/tripleC/article/view/561)
 
-- -<!-- Coleman --> Biella Coleman and Mako Hill's ["How Free Became Open and Everything Else Under the Sun"](https://www.journal.media-culture.org.au/0406/02_Coleman-Hill.php)
+- <!-- Coleman --> Biella Coleman and Mako Hill's ["How Free Became Open and Everything Else Under the Sun"](https://www.journal.media-culture.org.au/0406/02_Coleman-Hill.php)
 
 - <!-- De Filippi --> Primavera De Filippi and Miguel Said Vieira's ["The Commodification of Information Commons"](https://journals.library.columbia.edu/index.php/stlr/article/view/3991), in The Columbia Science and Technology Law Review, volume 16, number 1, 2014
 
