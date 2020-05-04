@@ -7,7 +7,7 @@ layout: post
 
 Whether you love what open source stands for or just like writing code, it's hard to avoid the massive investments in marketing, brand building, and political propaganda around open source.  With no shortage of vested interests, it's easy to find spinsters, fanboys, and would-be revolutionaries extolling countless virtues of open source to nearly any taste.
 
-Here are a few quality pieces to read as antidote to the hype.  These writers don't necessarily criticize open source.  Some do, some don't.  But they all approach open source and "hacker" culture in terms very different from those hocked to the mainstream, often emphasizing history that's omitted from the popular narrative.
+Here are a few quality pieces to read as antidote to the hype.  These writers don't necessarily criticize open source.  Some do, some don't.  But they all approach open source and hacker culture in terms very different from those hocked to the mainstream, often emphasizing history that's omitted from the popular narrative.
 
 Alphabetically, by first named author:
 
