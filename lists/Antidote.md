@@ -39,6 +39,6 @@ Alphabetically, by first named author:
 
 - <!-- Tiemann --> Michael Tiemann's view of the GNU Manifesto as "a business plan in disguise", as in [_Open Sources: Voices From the Open Source Revolution_](https://www.oreilly.com/openbook/opensources/book/tiemans.html) and [on his homepage](https://people.redhat.com/tiemann/)
 
-- <!-- Villa --> Luis Villa's ["Stallman, Nussbaum, and Sen: Putting "Freedom" in Context"](https://lu.is/blog/2016/03/23/free-as-in-my-libreplanet-2016-talk/) talk at LibrePlanet
+- <!-- Villa --> Luis Villa's ["Stallman, Nussbaum, and Sen: Putting 'Freedom' in Context"](https://lu.is/blog/2016/03/23/free-as-in-my-libreplanet-2016-talk/) talk at LibrePlanet
 
 If something's missing from this list, [send me an e-mail](mailto:kyle@kemitchell.com).
