@@ -1,6 +1,6 @@
 ---
 title: Allowable Tolerances
-description:
+description: law can learn a lot from the trades
 tags:
 - Law Practice
 ---
