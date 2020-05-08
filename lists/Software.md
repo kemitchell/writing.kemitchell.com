@@ -12,6 +12,7 @@ layout: post
 - [dwm](https://dwn.suckless.org/) window manager
 - [Git](https://git-scm.com/) version-control system
 - [NeoMutt](https://neomutt.org/) e-mail client
+- [rclone](https://rclone.org/) cloud storage CLI
 - [Reeder](https://www.reederapp.com/) RSS on iOS
 - [Signal](https://www.signal.org/) instant messenger
 - [Sleep Cycle](https://www.sleepcycle.com/) alarm clock for iOS
