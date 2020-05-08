@@ -32,7 +32,7 @@ We need a short, snappy name for contracts documented like this:
 > **BuyerCo, LLC**, a California LLC<br>
 > Signature: <span class="conformedSignature">Janet García</span><br>
 > Name: Janet García<br>
-> Title: Managing Memeber<br>
+> Title: Managing Member<br>
 > Date: May 8, 2020<br>
 > E-Mail: janet.garcia@example.com
 
