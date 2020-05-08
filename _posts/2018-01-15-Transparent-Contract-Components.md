@@ -2,8 +2,8 @@
 title: Transparent Contract Components
 description: sharper tools, finer toolmarks
 layout: post
+series: Common Form
 tags:
-- Common Form
 - Drafting
 - Contract Architecture
 ---

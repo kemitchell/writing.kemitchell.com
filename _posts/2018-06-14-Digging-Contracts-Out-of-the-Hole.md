@@ -2,8 +2,8 @@
 title: Digging Contracts Out of the Hole
 description: simple tools for drafting to be proud of
 layout: post
+series: Common Form
 tags:
-- Common Form
 - Contracts
 - Law
 ---

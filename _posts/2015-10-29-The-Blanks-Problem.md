@@ -2,8 +2,8 @@
 title: The Blanks Problem
 description: A tough Common Form design decision explained.
 layout: post
+series: Common Form
 tags:
-- Common Form
 - Contracts
 ---
 A few people are waiting on me while I work on a solution to a particularly vexing design problem with Common Form. In form of apology, I've summarized the problem, its importance, and where I stand on it here.

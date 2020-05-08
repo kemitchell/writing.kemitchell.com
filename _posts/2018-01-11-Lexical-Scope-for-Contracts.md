@@ -2,8 +2,8 @@
 title: Lexical Scope for Contracts
 description: wandering ever closer to LISP
 layout: post
+series: Common Form
 tags:
-- Common Form
 - Drafting
 - Contract Architecture
 ---

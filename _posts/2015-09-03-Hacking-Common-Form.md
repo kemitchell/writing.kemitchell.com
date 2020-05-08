@@ -4,7 +4,6 @@ description: Overview of existing Common Form software for programmers
 layout: post
 series: Common Form
 tags:
-- Common Form
 - Programming
 ---
 A few folks have expressed interest in hacking on Common Form. They've also expressed some concern about a perceived lack of comments and documents.

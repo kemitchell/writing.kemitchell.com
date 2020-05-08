@@ -4,8 +4,8 @@ description: I am just a copy of a copy of a copy.  Everything I say you have re
 layout: post
 js:
 - hash.js
+series: Common Form
 tags:
-- Common Form
 - Contracts
 - Law Practice
 ---

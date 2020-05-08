@@ -2,8 +2,8 @@
 title: Annotations in Context
 description: A first attempt at useful, responsible Common Form annotations
 layout: post
+series: Common Form
 tags:
-- Common Form
 - Privacy
 - Confidentiality
 ---

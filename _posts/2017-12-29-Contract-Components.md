@@ -2,8 +2,8 @@
 title: Contract Components
 description: fine-grained means of abstraction in legal drafting
 layout: post
+series: Common Form
 tags:
-- Common Form
 - Drafting
 - Contract Architecture
 ---

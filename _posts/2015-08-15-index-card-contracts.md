@@ -2,8 +2,8 @@
 title: Index Card Contracts
 description: Common Form for paper people
 layout: post
+series: Common Form
 tags:
-- Common Form
 - Contracts
 ---
 A few folks have asked me to explain Common Form in "nontechie" terms. I'm more than happy to speak with those interested individually, but want to try at least one metaphor here.

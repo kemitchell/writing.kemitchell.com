@@ -2,10 +2,10 @@
 title: Grab-Bag Contracts
 description: Might we write contracts like we fill shopping bags at the grocery store?
 layout: post
+series: Common Form
 tags:
 - Law
 - Contracts
-- Common Form
 ---
 
 It's natural to arrange computer data in ordered lists. Lists are everywhere in computing. An entire family of programming languages, the LISP family, is written as [lists of data and instructions](https://en.wikipedia.org/wiki/S-expression). And list-like structures---[arrays](https://en.wikipedia.org/wiki/Array_data_type) and [strings](https://en.wikipedia.org/wiki/Array_data_type), especially---are the first programmers learn and turn to within their programs. [Common Form](https://commonform.github.io) predictably represents forms (and their provisions) as lists of text, terms, references, blanks, and other forms.

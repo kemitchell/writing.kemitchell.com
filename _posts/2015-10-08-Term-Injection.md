@@ -2,10 +2,10 @@
 title: Term Injection
 description: Fighting insertion of unexpected terms in automated form contracts
 layout: post
+series: Common Form
 tags:
 - Contracts
 - Security
-- Common Form
 ---
 
 [Common Form][commonform] describes pieces of reusable contract language that can contain fill-in-the-blanks. Any piece of text can be filled into those blanks when creating a ready-to-sign contract. This flexibility comes at a price: It opens Common Forms up to security problems analogous to [code injection][code injection] in software.

@@ -2,8 +2,8 @@
 title: Circulation Policy
 description: Confidentiality rules and procedures for the great Common Form library in the sky
 layout: post
+series: Common Form
 tags:
-- Common Form
 - Confidentiality
 ---
 

@@ -2,10 +2,10 @@
 title: Against Legal Technology
 description: beyond the latest office software
 date: Sun 29 Mar 2020 12:04:42 AM PDT
+series: Common Form
 tags:
 - Law Practice
 - Legal Technology
-- Common Form
 - Proseline
 ---
 

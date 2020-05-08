@@ -2,8 +2,8 @@
 title: Modularity is not the Law
 description: Ancient and modern principles of contract interpretation work against contracts made of modular parts
 layout: post
+series: Common Form
 tags:
-- Common Form
 - Contracts
 - Modularity
 ---

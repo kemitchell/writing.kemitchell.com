@@ -2,9 +2,9 @@
 title: Terms of Service; Already Read
 description: Verifiable contracts should help consumers, too.
 layout: post
+series: Common Form
 tags:
 - Privacy
-- Common Form
 ---
 "Nobody reads terms of service". Nobody except lawyers. Or maybe lawyers are nobodies, and that's the joke. I can't seem to catch a good lawyer joke like I used to.
 

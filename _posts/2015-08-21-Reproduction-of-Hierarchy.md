@@ -2,10 +2,10 @@
 title: Reproduction of Hierarchy
 description: Markdown isn't great for contracts. HTML5 is better.
 layout: post
+series: Common Form
 tags:
 - Contracts
 - Software
-- Common Form
 ---
 
 [Tim Kempf](http://www.kemp59f.info/) recently invited me to explain why Markdown is not a great fit for American-style contracts. I gleefully took up him on the offer, and proceeded, more or less, to belly-flop on hard concrete. Let's try that again...
