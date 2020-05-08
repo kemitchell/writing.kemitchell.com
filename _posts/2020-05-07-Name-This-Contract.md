@@ -5,7 +5,6 @@ series: Common Form
 tags:
 - Drafting
 - Contracts
-- Document Structure
 - Law Practice
 ---
 
