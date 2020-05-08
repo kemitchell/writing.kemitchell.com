@@ -8,6 +8,7 @@ layout: post
 - [Chrome](https://google.com/chrome/) web browser
 - [cmus](https://cmus.github.io/) music player
 - [Debian](https://debian.org) operating system
+- [diceware](http://diceware.com/) passphrase generator
 - [dwm](https://dwn.suckless.org/) window manager
 - [Git](https://git-scm.com/) version-control system
 - [NeoMutt](https://neomutt.org/) e-mail client
