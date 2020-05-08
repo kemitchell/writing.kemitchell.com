@@ -3,6 +3,8 @@ title: Allowable Tolerances
 description: law can learn a lot from the trades
 tags:
 - Law Practice
+- Legal Profession
+- Professions
 ---
 
 Lawyers: [Watch this video about allowable tolerances in frame carpentry.](https://www.youtube.com/watch?v=k_3yhHC3oR4)
