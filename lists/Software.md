@@ -12,6 +12,7 @@ layout: post
 - [dwm](https://dwn.suckless.org/) window manager
 - [Git](https://git-scm.com/) version-control system
 - [NeoMutt](https://neomutt.org/) e-mail client
+- [PDF Expert](https://pdfexpert.com/ios)
 - [rclone](https://rclone.org/) cloud storage CLI
 - [Reeder](https://www.reederapp.com/) RSS on iOS
 - [Signal](https://www.signal.org/) instant messenger
