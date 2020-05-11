@@ -45,7 +45,7 @@ Two or three lawyers contributing meaningfully once or twice a week can get a to
 If people flock to the idea of your project, expressing enthusiasm but not stepping up to refine the substance, consider creating a mailing list or other communications channel where they can sit and wait.  You may go weeks or months without sending or receiving any message through that channel.  That's fine.  When the time comes, it will be easy to reach out to the group en masse and find out whose enthusiasm survived the initial burst of novelty.
 
 ## Publish 1.0 as soon as possible.
-{: #1.0}
+{: #publish}
 
 Overcome anxiety about publishing a version as ready for public use.  You will be tempted to describe everything as a "draft" or to adopt bashful conventions like "version 0.10".  Don't.  As soon as you are ready to recommend the work for client use, call that 1.0 and publish it.  Expect to publish a 2.0, or even a 7.0 or 17.0, later.
 
