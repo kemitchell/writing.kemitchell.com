@@ -28,7 +28,7 @@ Projects that attempt to work up first drafts by committee usually fail before p
 
 Once you have a complete starting point, colleagues with less time or interest become able to contribute with less commitment.  As they see their contributions incorporated and appreciated, their motivation to contribute in bigger ways can grow.
 
-## Snuff out pride of authorship.
+## Banish pride of authorship.
 {: #pride}
 
 Having produced a complete starting point for others to work from, take explicit, repeated, public action to reassure potential contributors that whoever has the motivation "has the pen".  Welcome changes from small to sweeping.
