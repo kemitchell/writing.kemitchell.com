@@ -1,5 +1,6 @@
 ---
 title: Standard Form Playbook
+layout: post
 ---
 
 This short guide distills some of the lessons I've learned participating in, facilitating, publishing, and leading standardized legal terms projects. You can see a list of my projects [here](https://projects.kemitchell.com).
