@@ -19,7 +19,7 @@ It used to.  If you'd asked me a few years ago about the [Open Source Definition
 
 With the benefit of field experience, included but not limited to [actually reading the Definition critically](https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html) and [a long look behind the curtains of OSI politics and process](https://writing.kemitchell.com/2019/04/23/OSD-wontfix.html), I now see the OSI story as a two year triumph and a twenty year tragedy. The work OSI existed to do is long done, carrying off a marketing coup in 1998.  What's left is preserving that hallowed memory, and the wisps of buzz still gassing off it, as a wasting asset to 2020 and beyond.  And minting credentials of proximity to the power that had been, at the beginning.
 
-OSI now does more to stymie opposition to industry abuses than to galvanize it.  It is like the startup that, having long since made its highest placed funders and founders rich, lumbers on in the trappings of a dated incumbent, courting unequal partnerships with patrons nearer their prime.  In more practical terms, it's unclear what initiative the Initiative has left.  Apart from policing the term "open source" across social media.
+OSI now does more to stymie opposition to industry abuses than to galvanize it.  It is like the startup that, having long since made its highest placed funders and founders rich, lumbers on in the trappings of a dated incumbent, courting unequal partnerships with patrons nearer their prime.  In more practical terms, it's unclear what initiative the Initiative has left, apart from policing the term "open source" across social media.
 
 But there's no such thing as police without law.
 
