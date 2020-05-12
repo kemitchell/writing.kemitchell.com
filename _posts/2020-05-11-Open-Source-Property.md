@@ -83,7 +83,7 @@ This was long before the birth of the Open Source Initiative.  But not before th
 
 In short, "open" was an easy word to like, an easy word to sell, and an impossible word to control, the [apple of discord](https://en.wikipedia.org/wiki/Apple_of_Discord) of computer salesspeak.  It was and remains a vague, connotation-positive generalism whose metaphorical potential dwarfs its literal meaning, even in everyday speech.
 
-A whole generation of IT buyers had latched onto that potential before the Internet era, or even the dawn of personal computing, as the rallying cry of newfound buyer-side leverage.  And a whole corresponding generation of IT vendors, sprouted up where IBM had failed to take root, took notice, tapped in, and fairly well reduced it to dust by a million ads, trade show pavilions, press releases, and conference talks.  Everybody was "open".  So nobody was.
+A whole generation of IT buyers had latched onto that potential before the Internet era, or even the dawn of personal computing, as the rallying cry of newfound buyer-side leverage.  And a whole corresponding generation of IT vendors, sprouted up where IBM had failed to take root, took notice, tapped in, and fairly well sapped it to dust by a million ads, trade show pavilions, press releases, and conference talks.  Everybody was "open".  So nobody was.
 
 The O'Reilly-facilitated working group that set out to rebrand "free software" sans Stallman either never saw this history, failed to learn its lesson, or genuinely thought they'd be the first to call "open" truly their own, like [treasure under a tree](https://en.wikipedia.org/wiki/The_Pardoner%27s_Tale).  Their successors have had to face harsh reality more squarely.
 
