@@ -99,7 +99,7 @@ Those vested in the Open Source Initiative don't have that, and they know it.  B
 
 This explains the constant temptation to short-circuit debate by invoking authority of law, to use "lawyers say" like `sudo` in ["`sudo` make me a sandwich"](https://xkcd.com/149/).  OSI partisans make some better arguments for discipline in use of the term.  In my opinion, none particularly strong.  But a surprising number of weaker arguments boil down to ["Respect our authority!"](https://heinonline.org/HOL/LandingPage?handle=hein.journals/vanep11&div=17) and a willingness to pronounce the exclamation point.
 
-Of course, even if the law hasn't explicitly recognized "open source" as anyone's property, the law never draws perfectly sharp lines.  And it doesn't prove negatives.  I'd be remiss to pretend the desperate and crafty couldn't pull on few frayed edges of the facts and the rules.
+Of course, even if the law hasn't explicitly recognized "open source" as anyone's property, the law never draws perfectly sharp lines.  And it doesn't prove negatives.  I'd be remiss to pretend the desperate and crafty couldn't pull a few frayed edges of the facts and the law.
 
 United States federal trademarks, for one, aren't the only kinds of trademarks, even in the United States.  Firms can also make trademark claims under the laws of specific states, at least for business done within those states.  But there are reasons---both legal and practical---that we look first and foremost to federal law when it comes to trademarks.
 
