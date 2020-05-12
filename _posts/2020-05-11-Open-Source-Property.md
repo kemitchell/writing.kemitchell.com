@@ -99,7 +99,7 @@ Those vested in the Open Source Initiative don't have that, and they know it.  B
 
 This explains the constant temptation to short-circuit debate by invoking authority of law, to use "lawyers say" like `sudo` in ["`sudo` make me a sandwich"](https://xkcd.com/149/).  OSI partisans make some better arguments for discipline in use of the term.  In my opinion, none particularly strong.  But a surprising number of weaker arguments boil down to ["Respect our authority!"](https://heinonline.org/HOL/LandingPage?handle=hein.journals/vanep11&div=17) and a willingness to pronounce the exclamation point.
 
-Of course, even if the law hasn't explicitly recognized "open source" as anyone's property, the law never draws perfectly sharp lines and doesn't prove negatives.  I'd be remiss to pretend the desperate and crafty couldn't pull on few frayed edges of the facts and the rules.
+Of course, even if the law hasn't explicitly recognized "open source" as anyone's property, the law never draws perfectly sharp lines.  And it doesn't prove negatives.  I'd be remiss to pretend the desperate and crafty couldn't pull on few frayed edges of the facts and the rules.
 
 United States federal trademarks, for one, aren't the only kinds of trademarks, even in the United States.  Firms can also make trademark claims under the laws of specific states, at least for business done within those states.  But there are reasons---both legal and practical---that we look first and foremost to federal law when it comes to trademarks.
 
@@ -117,6 +117,6 @@ In the end, falling back on the fuzz of the law is just that: a fallback, a last
 
 Thus, overall, based on the research I've been able to squeeze in over the years, and notes picked up along the way, no person and no organization owns the phrase "open source" as we know it.  No such legal shadow hangs over its use.  It remains a meme, and maybe a movement, or many movements.  Our right to speak the term freely, and to argue for our own meanings, understandings, and aspirations, isn't impinged by anybody's private property.
 
-That right extends to debate about how we ought or ought not use the term, for OSI partisans as well as those annoyed, bemused, and abused by them.  But that debate must be won by reason and suasion, not harassment and naked claims authority.
+That right extends to debate about how we ought or ought not use the term, for OSI partisans as well as those annoyed, bemused, and abused by them.  But that debate must be won by reason and suasion, not harassment and naked claims to authority.
 
 There are only dogs in this fight.  No masters.
