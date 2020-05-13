@@ -36,4 +36,4 @@ More protection for the hosts.
 
 > By creating, posting, streaming, transmitting or providing SIE any User Material, you represent and warrant that your User Material does not infringe on the intellectual property or other rights of any third party and is not obscene, defamatory, offensive or an advertisement or solicitation of business and you have the appropriate rights to use, create, post, distribute, transmit and provide User Material and to grant SIE the foregoing license.  You must cooperate with SIE in resolving any dispute that may arise from your User Material.
 
-Now here is something we don't see much in open source, except, to a limited extend, under Larry Rosen's Open Software License and Academic Free Licenses.
+Now here is something we don't see much in open source, except, to a limited extent, under Larry Rosen's Open Software License and Academic Free Licenses.
