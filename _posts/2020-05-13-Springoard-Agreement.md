@@ -39,7 +39,7 @@ Metaphorically, that works great.  Reading a springboard agreement, you spring o
 > Date: May 8, 2020<br>
 > E-Mail: janet.garcia@example.com
 
-A close cousin of the springboard agreement is the certified form: an agreement that starts with a guarantee that the attached, privately proposed terms are identifcal to a published standard.  The [Waypoint NDA](https://waypointnda.com) is my running example.  The first page:
+A close cousin of the springboard agreement is the certified form: an agreement that starts with a guarantee that the attached, privately proposed terms are identical to a published standard.  The [Waypoint NDA](https://waypointnda.com) is my running example.  The first page:
 
 > # Standard Form Certificate
 >
@@ -54,7 +54,7 @@ A close cousin of the springboard agreement is the certified form: an agreement 
 >
 > **Governing Law**: California
 >
-> **Forum for Disptues**: San Francisco, California
+> **Forum for Disputes**: San Francisco, California
 >
 > **Term**: one year
 
