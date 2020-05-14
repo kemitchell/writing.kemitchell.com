@@ -115,7 +115,7 @@ Looking again past words, and to actions, all of this handily explains OSI's rel
 
 In the end, falling back on the fuzz of the law is just that: a fallback, a last resort.  In the United States, federal trademark registration isn't the gold standard, it's the greenback, the everyday coin of the branding realm.  If they'd ticked that box, the answers would be simple.  Since they haven't, at best they can wave hands in threatening ways.
 
-Thus, overall, based on the research I've been able to squeeze in over the years and notes picked up along the way, no person and no organization owns the phrase "open source" as we know it.  No such legal shadow hangs over its use.  It remains a meme, and maybe a movement, or many movements.  Our right to speak the term freely, and to argue for our own meanings, understandings, and aspirations, isn't impinged by anybody's private property.
+Thus, overall, based on the research I've been able to squeeze in over the years and notes picked up along the way, no person and no organization owns the phrase "open source" as we know it.  No such legal shadow hangs over its use.  It remains a meme, and maybe a movement, or many movements.  Our right to speak the term freely, and to argue for our own meanings, understandings, and aspirations, isn't impinged by anyone's private property.
 
 That right extends to debate about how we ought or ought not use the term, for OSI partisans as well as those annoyed, bemused, and abused by them.  But that debate must be won by reason and suasion, not harassment and naked claims to authority.
 
