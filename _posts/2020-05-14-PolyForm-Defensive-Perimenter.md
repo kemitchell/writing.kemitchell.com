@@ -1,6 +1,6 @@
 ---
 title: PolyForm Noncompete Licenses
-descriptions: two new, long-awaited forms
+description: two new, long-awaited forms
 series: PolyForm
 tags:
 - Licensing
