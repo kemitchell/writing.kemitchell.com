@@ -10,7 +10,7 @@ tags:
 
 Very pleased to report that [PolyForm Project](https://polyformproject.org), a non-profit I cofounded with others last year, has published two new standard form software licenses, [PolyForm Defensive 1.0.0](https://polyformproject.org/licenses/defensive-licenses/1.0.0/) and [PolyForm Perimeter 1.0.0](https://polyformproject.org/licenses/perimeter/1.0.0/).
 
-These licenses grant broad permission for software source code, with two similar but distinguishable limits.  PolyForm Defensive prohibits using the software to complete with the developer or company licensing the code.  PolyForm Perimeter prohibits using the software to compete with the software project itself.  Depending on the role a project plays for its developer---add-on or core offering, for example---one or the other of these new forms may be just right.
+These licenses grant broad permission for software source code, with two similar but distinguishable limits.  PolyForm Defensive prohibits using the software to compete with the developer or company licensing the code.  PolyForm Perimeter prohibits using the software to compete with the software project itself.  Depending on the role a project plays for its developer---add-on or core offering, for example---one or the other of these new forms may be just right.
 
 Special thanks go out to all those who weighed in to help us [pick distinctive names](https://writing.kemitchell.com/2020/04/04/Polyform-Noncompete-Licenses.html) for these new licenses. More thanks go out to all those---now too many to count---who provided crucial feedback on design and implementation along the way.
 
