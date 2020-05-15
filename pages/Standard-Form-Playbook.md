@@ -55,3 +55,10 @@ Potential contributors know about publication anxiety.  Those on the fence---int
 {: #trademark}
 
 A US trademark applications costs a little less than $300.  You want to put that cost off until you know it's worthwhile.  Which is mostly a question of whether the name "sticks" with the core team.
+
+## Pitch clients, not lawyers.
+{: #clients}
+
+Many "early adopters" of your work will likely be fellow forward-thinking lawyers.  But even so, your best pitch will be to client value.  Good lawyers want to do right by their clients.  By the time those lawyers are paying your project attention, they're far more concerned about convincing their clients than being convinced themselves.
+
+No matter what you work on, you will run into lawyers who will insist that they will _always_ need to tailor for client or transaction.  Some of them may even be right ... for their clients and transactions.  But your work on a standard can't do any good for them, and they can't do your project any good, either.  So don't worry about them.
