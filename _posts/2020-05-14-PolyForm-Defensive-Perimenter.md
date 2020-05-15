@@ -8,7 +8,7 @@ tags:
 - Standard Legal Terms
 ---
 
-Very pleased to report that [PolyForm Project](https://polyformproject.org), a non-profit I cofounded with others last year, has published two new standard form software licenses, [PolyForm Defensive 1.0.0](https://polyformproject.org/licenses/defensive-licenses/1.0.0/) and [PolyForm Perimeter 1.0.0](https://polyformproject.org/licenses/perimeter/1.0.0/).
+Very pleased to report that [PolyForm Project](https://polyformproject.org), a non-profit I cofounded with others last year, has published two new standard form software licenses, [PolyForm Defensive 1.0.0](https://polyformproject.org/licenses/defensive-licenses/1.0.0/) and [PolyForm Perimeter 1.0.0](https://polyformproject.org/licenses/perimeter/1.0.0/).  A lot of work from a lot of good folks, inside and outside PolyForm, went into these terms.  I'm so glad they're finally ready to show and share more broadly.
 
 These licenses grant broad permission for software source code, with two similar but distinguishable limits.  PolyForm Defensive prohibits using the software to compete with the developer or company licensing the code.  PolyForm Perimeter prohibits using the software to compete with the software project itself.  Depending on the role a project plays for its developer---add-on or core offering, for example---one or the other of these new forms may be just right.
 
