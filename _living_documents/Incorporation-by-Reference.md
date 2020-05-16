@@ -31,12 +31,12 @@ description: fundamental rules and authorities
 - NYSE rule 347
 
 ### King v. Larsen Reality, Inc. (1981)
-  {: #king}
-  - 121 Cal.App. 3d 349
-  - 175 Cal.Rptr. 226
-  - [Caselaw Access Project](https://cite.case.law/cal-app-3d/121/349/)
-  - valid incorporation by reference
-  - arbitration provisions in bylaws
+{: #king}
+- 121 Cal.App. 3d 349
+- 175 Cal.Rptr. 226
+- [Caselaw Access Project](https://cite.case.law/cal-app-3d/121/349/)
+- valid incorporation by reference
+- arbitration provisions in bylaws
 
 > A secondary document becomes part of a contract as though recited verbatim when it is incorporated into the contract by reference provided that the terms of the incorporated document are readily available to the other party. (_Wiliams Constr. Co. v. Standard-Pacific Corp._ (1967) 254 Cal.App.2d 443, 454 [61 Cal.Rptr. 912]). The Arbitration Manual was readily available to appellants.
 
