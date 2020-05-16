@@ -1,5 +1,6 @@
 ---
 title: Software
+description: software that I use and recommend
 permalink: /lists/Software
 layout: post
 ---
