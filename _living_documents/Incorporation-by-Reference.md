@@ -39,3 +39,27 @@ description: fundamental rules and authorities
 - arbitration provisions in bylaws
 
 > A secondary document becomes part of a contract as though recited verbatim when it is incorporated into the contract by reference provided that the terms of the incorporated document are readily available to the other party. (_Wiliams Constr. Co. v. Standard-Pacific Corp._ (1967) 254 Cal.App.2d 443, 454 [61 Cal.Rptr. 912]). The Arbitration Manual was readily available to appellants.
+
+## Williams Construction Co. v. Standard-Pacific Corp. (1967)
+{: #williams-construction)
+- 254 Cal.App.2d 443
+- 61 Cal.Rptr. 912
+- [Caselaw Access Project](https://cite.case.law/cal-app-2d/254/442/)
+
+> A contract may validly include the provisions of a document not physically a part of the basic contract.  As stated in _Scott's Valley Fruit Exchange v. Growser Refrigeration Co._, 81 Cal.App.2d 437, at p. 447 [184 P.2d 183]: (Disapproved on an inapplicable point in _Hischenmoeller v. National Ice etc. Storage Co._, 46 Cal.2d 318, 328 [294 P.d 433].) "It is, of course, the law that the parties may incorporate by reference into their contract the terms of some other document. [Citations.] But each case must turn on on its facts. [Citation.] For the terms of another document to be incorporated into the document executed by the parties the reference must be clear and unequivocal, the reference must be called to the attention of the other party and he must consent thereto, and the terms of the incorporated document must be known or easily available to the contracting parties."
+
+## Scott's Valley Fruit Exchange v. Growser Refrigeration Co.
+{: #scotts-valley}
+- 81 Cal.App.2d 437
+- 184 P.2d 183
+- [Caselaw Access Project](https://cite.case.law/cal-app-2d/81/437/)
+- cites _Los Angeles Inv. Co. v. Home Sav. Bank_, 180 Cal. 601 [182 P. 293, 5 A.L.R. 1193]
+
+> It is of course the law that the parties may incorporate by reference into their contract the terms of some other document. (_Forest Lawn M. P. Assn. v. DeJarnette, 79 Cal.App. 601 [2501 P. 581]; see cases collected 12 Am.Jur. p. 781 § 246.) But each case must turn on its facts. (_William A. Davis Co. v. Bertrand Seed Co., 94 Cal.App. 281 [271 P. 123].). For the terms of another document to be incorporated into the document executed by the parties the reference must be clear and unequivocal, the reference must be called to the attention of the other party and he must consent thereto, and the terms of the incorporated document must consent thereto, and the terms of the incorporated document must be known or easily available to the contracting parties.
+>
+> 81 Cal.App.2d 437, 447
+
+## Los Angeles Investment Co. v. Home Savings Bank of Los Angeles
+{: #la-investment}
+- [Caselaw Access Project](https://cite.case.law/cal/180/601/)
+- invalid incorporation by reference
