@@ -1,6 +1,6 @@
 ---
 title:  Pens
-description: pen recommendations
+description: recommendations for various uses, tastes, and writing styles
 ---
 
 ## Disposable Pens
