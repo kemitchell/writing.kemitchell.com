@@ -2,11 +2,11 @@
 title: How to Speak Copyleft
 description: the missing vocabulary of copyleft design
 layout: post
+series: SSPL
 tags:
 - Open Source
 - Licensing
 - Copyleft
-- SSPL
 - Open Source Initiative
 ---
 

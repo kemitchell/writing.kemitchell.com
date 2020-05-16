@@ -8,10 +8,6 @@ tags:
 - Licensing
 ---
 
-This is a post in a series, [_Killjoy_](/series/Killjoy.html), in which I examine unorthodox, unwelcome solutions to nagging open source problems.
-
----
-
 Flying blind, wondering how much your software's used?  Want a roster of users, as a lifeline, for material support?  Looking to turn your open source work into employment at a company in the field, but don't know which one?  Want to sell licenses to enormous corporations, rather than give them away?
 
 Create a `LICENSE` file for your new project, and write a note about how to get in touch with you for a license, via the Internet.  Perhaps your e-mail address.  Perhaps a link to a web store.  When folks get in touch, offer them licenses on whatever terms you please, for sale or for free, one by one.  Whatever works for you and your project.
