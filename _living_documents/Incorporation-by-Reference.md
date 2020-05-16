@@ -1,6 +1,6 @@
 ---
 title: Incorporation by Reference
-description: fundamentals and authorities
+description: fundamental rules and authorities
 ---
 
 ## California
