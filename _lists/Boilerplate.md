@@ -2,27 +2,42 @@
 title: Boilerplate Provisions
 description: list of common general contract terms
 ---
+
+## Term
+- term
+- automatic renewal
+
+## Interpretation
 - governing law
 - rules of construction
 - document precedence
-- no third-party beneficiaries
-- English Rule
+- integration
+- severability
+- opportunity to seek legal counsel
+
+## Modification
+- written amendments
+- written waivers
+- headings for reference only
+
+## Parties
 - assignment
 - delegation
+- successors and assigns (dubious)
+
+## Dispute Resolution
+- no third-party beneficiaries
+- English Rule
 - force majeure
-- forum for disputes
+- forum
+- venue
 - mediation
 - arbitration
 - waiver of jury trial (not in California)
 - appointment of special master (California)
-- integration
-- written amendments
-- written waivers
-- headings for reference only
-- successors and assigns (dubious)
-- notice process
-- severability
 - equitable remedies recital
-- opportunity to seek legal counsel
+
+## Process
+- notice
 - counterparts (dubious)
 - facsimile signature (dubious)

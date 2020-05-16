@@ -27,6 +27,11 @@ defaults:
     values:
       is_post: true
       layout: post
+  - scope:
+      path: ""
+      type: lists
+    values:
+      layout: post
 collections:
   lists:
     output: true
