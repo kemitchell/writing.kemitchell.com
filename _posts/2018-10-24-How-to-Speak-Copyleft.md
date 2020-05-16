@@ -10,10 +10,6 @@ tags:
 - Open Source Initiative
 ---
 
-This is the first in [a series inspired by MongoDB's Server Side Public License](/series/SSPL.html) and ensuing debate.
-
----
-
 What does the Open Source Definition have to say about how strong copyleft licenses can be?  As it turns out, not much that's helpful, and quite a bit that's not.  The Definition's twenty-year-old criteria at best mildly suggest limits on open source copyleft, without offering any terms in which to analyze of express them.
 
 This post offers the missing vocabulary for copyleft licenses and copyleft-license limits, as a bridge to forthcoming posts on the Definition and what those limits should be.

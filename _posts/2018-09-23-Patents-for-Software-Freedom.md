@@ -9,10 +9,6 @@ tags:
 - Software Freedom
 ---
 
-This is the third in a series, [_Killjoy_](/series/Killjoy.html), in which I sketch unorthodox and unwelcome solutions to nagging open source problems.
-
----
-
 Patents are a natural strategic fit for software freedom activism, especially in desperation.
 
 Free software is an _insurgency_: a small core of motivated hackers rebelling against the technology industry and its supporting legal regime.  Like any insurgency, free software relies on _leverage_: tactics that transform relatively small efforts by relatively small groups into outsize subversive or corrective effects.  Patents afford enormous leverage.  They are the heavy weapons of intellectual property law.
