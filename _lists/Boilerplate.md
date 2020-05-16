@@ -1,6 +1,6 @@
 ---
-title: Common Boilerplate Provisions
-description: reference list
+title: Boilerplate Provisions
+description: list of common general contract terms
 ---
 - governing law
 - rules of construction

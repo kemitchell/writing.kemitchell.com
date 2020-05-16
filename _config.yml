@@ -27,3 +27,6 @@ defaults:
     values:
       is_post: true
       layout: post
+collections:
+  lists:
+    output: true

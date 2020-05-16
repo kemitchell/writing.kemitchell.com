@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<ol class=pages>
+{% for post in site.lists %}
+  <li>
+    <h2 class=title><a href="{{ post.url }}">{{ post.title | smartify }}</a></h2>
+    <p class=description>{{ post.description | smartify }}</p>
+  </li>
+{% endfor %}
+</ol>

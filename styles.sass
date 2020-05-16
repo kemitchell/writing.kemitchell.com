@@ -82,18 +82,24 @@ a
 
 ol.posts
   list-style-type: none
-
   &> li
     padding: $interPostPadding $interPostPadding 0 $interPostPadding
-
     .tags
       border-bottom: 1px solid #ddd
       padding-bottom: $interPostPadding
-
     &:last-child
       .tags
         border-bottom: none
+  .description, .title, .tags
+    margin-left: $dateWidth + $datePadding
 
+ol.pages
+  list-style-type: none
+  &> li
+    padding: $interPostPadding $interPostPadding 0 $interPostPadding
+    &:last-child
+      .tags
+        border-bottom: none
 
 .title
   line-height: 1.2
@@ -106,9 +112,6 @@ ol.posts
   padding: 1ex 0
   font-size: 90%
   color: #777
-
-.description, .title, .tags
-  margin-left: $dateWidth + $datePadding
 
 .tags
   list-style-type: none
