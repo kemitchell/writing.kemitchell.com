@@ -1,8 +1,6 @@
 ---
 title:  Books for Clients
 description: books that I recommend to clients for self-study
-layout: post
-permalink: /books-for-clients
 ---
 
 ## General Law

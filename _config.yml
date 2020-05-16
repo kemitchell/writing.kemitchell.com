@@ -32,7 +32,15 @@ defaults:
       type: lists
     values:
       layout: post
+  - scope:
+      path: ""
+      type: living_documents
+    values:
+      layout: post
 collections:
   lists:
     output: true
     permalink: /lists/:title:output_ext
+  living_documents:
+    output: true
+    permalink: /living/:title:output_ext

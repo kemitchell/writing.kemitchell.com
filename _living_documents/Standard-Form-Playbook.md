@@ -1,6 +1,6 @@
 ---
 title: Standard Form Playbook
-layout: post
+description: legal standardization lessons learned the hard way
 ---
 
 This short guide distills some of the lessons I've learned participating in, facilitating, publishing, and leading standardized legal terms projects. You can see a list of my projects [here](https://projects.kemitchell.com).
@@ -44,14 +44,14 @@ Two or three lawyers contributing meaningfully once or twice a week can get a to
 
 If people flock to the idea of your project, expressing enthusiasm but not stepping up to refine the substance, consider creating a mailing list or other communications channel where they can sit and wait.  You may go weeks or months without sending or receiving any message through that channel.  That's fine.  When the time comes, it will be easy to reach out to the group en masse and find out whose enthusiasm survived the initial burst of novelty.
 
-## Publish 1.0 as soon as possible.
+## Publish 1.0.0 as soon as possible.
 {: #publish}
 
 Overcome anxiety about publishing a version as ready for public use.  You will be tempted to describe everything as a "draft" or to adopt bashful conventions like "version 0.10".  Don't.  As soon as you are ready to recommend the work for client use, call that 1.0 and publish it.  Expect to publish a 2.0, or even a 7.0 or 17.0, later.
 
 Potential contributors know about publication anxiety.  Those on the fence---interested but not actively engaged---will be on the lookout for a signal of viability and momentum before committing, consciously or unconsciously.  Don't waste their time with a shoddy sketch of useful terms.  But don't send them signals to keep waiting when it's time to step up.
 
-## Register a trademark just before publishing 1.0.
+## Register a trademark just before or after 1.0.0.
 {: #trademark}
 
 A US trademark applications costs a little less than $300.  You want to put that cost off until you know it's worthwhile.  Which is mostly a question of whether the name "sticks" with the core team.
@@ -59,6 +59,6 @@ A US trademark applications costs a little less than $300.  You want to put that
 ## Pitch clients, not lawyers.
 {: #clients}
 
-Many "early adopters" of your work will likely be fellow forward-thinking lawyers.  But even so, your best pitch will be to client value.  Good lawyers want to do right by their clients.  By the time those lawyers are paying your project attention, they're far more concerned about convincing their clients than being convinced themselves.
+Many "early adopters" of your work will likely be fellow forward-thinking lawyers.  But even so, your best pitch will be to client value, not lawyer interest.  Good lawyers want to do right by their clients.  By the time those lawyers are paying your project attention, they're far more concerned about convincing their clients than being convinced themselves.
 
 No matter what you work on, you will run into lawyers who will insist that they will _always_ need to tailor for client or transaction.  Some of them may even be right ... for their clients and transactions.  But your work on a standard can't do any good for them, and they can't do your project any good, either.  So don't worry about them.

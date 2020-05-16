@@ -1,7 +1,6 @@
 ---
 title: Singletons
 draft: true
-layout: post
 ---
 
 ## Boots

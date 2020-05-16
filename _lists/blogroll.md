@@ -1,8 +1,6 @@
 ---
 title:  Blogroll
 description: other blogs of likely interest
-layout: post
-permalink: /blogroll
 ---
 
 ## Mine

@@ -1,8 +1,6 @@
 ---
 title:  Pens
 description: pen recommendations
-layout: post
-permalink: /pens
 ---
 
 ## Disposable Pens

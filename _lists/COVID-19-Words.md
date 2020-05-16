@@ -1,6 +1,5 @@
 ---
 title: Armchair COVID-19 Jargon Dashboard
-permalink: /pages/COVID-19-Dashboard
 ---
 
 - Acute Respiratory Distress Syndrome

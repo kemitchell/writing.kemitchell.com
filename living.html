@@ -1,0 +1,12 @@
+---
+layout: default
+permalink: /living/index
+---
+<ol class=pages>
+{% for post in site.living_documents %}
+  <li>
+    <h2 class=title><a href="{{ post.url }}">{{ post.title | smartify }}</a></h2>
+    <p class=description>{{ post.description | smartify }}</p>
+  </li>
+{% endfor %}
+</ol>

@@ -1,8 +1,6 @@
 ---
 title:  Open Source Software License Reading List
 description: recommended program of reading, comparison, and analysis
-layout: post
-permalink: /license-reading-list
 ---
 
 A number of people have asked me for hints on which open source licenses to read, in order to develop a working understanding of the field.  The following list suggests a number of licenses, in a specific order, designed to help develop understanding.
