@@ -1,7 +1,6 @@
 ---
 title: Open Source Antidote
 description: critical and alternative views on free and open source software
-permalink: /lists/Antidote
 layout: post
 ---
 

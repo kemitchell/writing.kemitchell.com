@@ -35,3 +35,4 @@ defaults:
 collections:
   lists:
     output: true
+    permalink: /lists/:title:output_ext

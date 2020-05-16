@@ -1,7 +1,6 @@
 ---
 title: Services
 description: online services that I use and recommend
-permalink: /lists/Services
 layout: post
 ---
 
