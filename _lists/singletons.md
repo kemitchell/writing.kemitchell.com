@@ -1,6 +1,6 @@
 ---
 title: Singletons
-draft: true
+published: false
 ---
 
 ## Boots
