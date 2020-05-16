@@ -31,16 +31,16 @@ description: fundamental rules and authorities
 - NYSE rule 347
 
 ### King v. Larsen Reality, Inc. (1981)
-{: #king}
-- 121 Cal.App. 3d 349
-- 175 Cal.Rptr. 226
-- [Caselaw Access Project](https://cite.case.law/cal-app-3d/121/349/)
-- valid incorporation by reference
-- arbitration provisions in bylaws
+  {: #king}
+  - 121 Cal.App. 3d 349
+  - 175 Cal.Rptr. 226
+  - [Caselaw Access Project](https://cite.case.law/cal-app-3d/121/349/)
+  - valid incorporation by reference
+  - arbitration provisions in bylaws
 
 > A secondary document becomes part of a contract as though recited verbatim when it is incorporated into the contract by reference provided that the terms of the incorporated document are readily available to the other party. (_Wiliams Constr. Co. v. Standard-Pacific Corp._ (1967) 254 Cal.App.2d 443, 454 [61 Cal.Rptr. 912]). The Arbitration Manual was readily available to appellants.
 
-## Williams Construction Co. v. Standard-Pacific Corp. (1967)
+### Williams Construction Co. v. Standard-Pacific Corp. (1967)
 {: #williams-construction)
 - 254 Cal.App.2d 443
 - 61 Cal.Rptr. 912
@@ -48,7 +48,7 @@ description: fundamental rules and authorities
 
 > A contract may validly include the provisions of a document not physically a part of the basic contract.  As stated in _Scott's Valley Fruit Exchange v. Growser Refrigeration Co._, 81 Cal.App.2d 437, at p. 447 [184 P.2d 183]: (Disapproved on an inapplicable point in _Hischenmoeller v. National Ice etc. Storage Co._, 46 Cal.2d 318, 328 [294 P.d 433].) "It is, of course, the law that the parties may incorporate by reference into their contract the terms of some other document. [Citations.] But each case must turn on on its facts. [Citation.] For the terms of another document to be incorporated into the document executed by the parties the reference must be clear and unequivocal, the reference must be called to the attention of the other party and he must consent thereto, and the terms of the incorporated document must be known or easily available to the contracting parties."
 
-## Scott's Valley Fruit Exchange v. Growser Refrigeration Co.
+### Scott's Valley Fruit Exchange v. Growser Refrigeration Co.
 {: #scotts-valley}
 - 81 Cal.App.2d 437
 - 184 P.2d 183
@@ -59,7 +59,7 @@ description: fundamental rules and authorities
 >
 > 81 Cal.App.2d 437, 447
 
-## Los Angeles Investment Co. v. Home Savings Bank of Los Angeles
+### Los Angeles Investment Co. v. Home Savings Bank of Los Angeles
 {: #la-investment}
 - [Caselaw Access Project](https://cite.case.law/cal/180/601/)
 - invalid incorporation by reference
