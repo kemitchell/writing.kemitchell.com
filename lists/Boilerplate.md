@@ -1,0 +1,28 @@
+---
+title: Common Boilerplate Provisions
+description: reference list
+---
+- governing law
+- rules of construction
+- document precedence
+- no third-party beneficiaries
+- English Rule
+- assignment
+- delegation
+- force majeure
+- forum for disputes
+- mediation
+- arbitration
+- waiver of jury trial (not in California)
+- appointment of special master (California)
+- integration
+- written amendments
+- written waivers
+- headings for reference only
+- successors and assigns (dubious)
+- notice process
+- severability
+- equitable remedies recital
+- opportunity to seek legal counsel
+- counterparts (dubious)
+- facsimile signature (dubious)
