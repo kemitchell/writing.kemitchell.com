@@ -14,8 +14,9 @@ title: Armchair COVID-19 Jargon Dashboard
 - KN95
 - N95
 - Quarantine
-- R<sub>0</sub> (Basic Reproduction Number)
+- Basic Reproduction Number (R0)
 - Self-Isolation
 - Shelter in Place
 - Social Distancing
+- Track and Trace
 - Ventilator
