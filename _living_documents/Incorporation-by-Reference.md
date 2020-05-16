@@ -11,10 +11,8 @@ description: fundamentals and authorities
 - 216 Cal. App. 3d 1259
 - 265 Cal. Rptr. 381
 - [Caselaw Access Project](https://cite.case.law/cal-app-3d/216/1259/)
-
 - distinguishes _Chan_
 - cites _King_
-
 - valid incorporation by reference
 - arbitration provision
 
@@ -29,7 +27,6 @@ description: fundamentals and authorities
 - 178 Cal. App. 3d 632
 - 223 Cal. Rptr. 838
 - [Caselaw Access Project](https://cite.case.law/cal-app-3d/178/632/)
-
 - invalid incorporation by refernce
 - NYSE rule 347
 
@@ -38,8 +35,7 @@ description: fundamentals and authorities
 - 121 Cal. App. 3d 349
 - 175 Cal. Rptr. 226
 - [Caselaw Access Project](https://cite.case.law/cal-app-3d/121/349/)
-
-> A secondary document becomes part of a contract as though recited verbatim when it is incorporated into the contract by reference provided that the terms of the incorporated document are readily available to the other party. (_Wiliams Constr. Co. v. Standard-Pacific Corp._ (1967) 254 Cal.App.2d 443, 454 [61 Cal.Rptr. 912]). The Arbitration Manual was readily available to appellants.
-
 - valid incorporation by reference
 - arbitration provisions in bylaws
+
+> A secondary document becomes part of a contract as though recited verbatim when it is incorporated into the contract by reference provided that the terms of the incorporated document are readily available to the other party. (_Wiliams Constr. Co. v. Standard-Pacific Corp._ (1967) 254 Cal.App.2d 443, 454 [61 Cal.Rptr. 912]). The Arbitration Manual was readily available to appellants.
