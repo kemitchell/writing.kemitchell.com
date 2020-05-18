@@ -9,14 +9,14 @@ tags:
 - Law Practice
 ---
 
-I've finally got around to publishing [a first draft of Turnstile](https://commonform.org/kemitchell/turnstile/1e1d), straightforward, low-surprise, standardizable terms of service for websites.
+I've finally got around to publishing [a ~~first~~second draft of Turnstile](https://commonform.org/kemitchell/turnstile/1e2d), straightforward, low-surprise, standardizable terms of service for websites.
 
 Longtime readers will recognize this form as a small evolution of my [plain terms of service](/2018/05/23/Plain-Terms-of-Service.html) published two years ago.  The kicker?  I've reformulated for use via [springboard agreement](/2020/05/13/Springboard-Agreement.html).  In other words, website operators can use Turnstile for their own websites by hyperlinking to it, not copying, pasting, and filling in blanks.
 
 You can see Turnstile in action today, since I've [adopted it as the terms of service for commonform.org](https://commonform.org/terms).  To spare you the click, the terms page for commonform.org now reads:
 
 <blockquote>
-  <p>The Turnstile terms of service at <a href="https://commonform.org/kemitchell/turnstile/1e1d">https://commonform.org/kemitchell/turnstile/1e1d</a> govern use of this website. To use this website, you must agree to those terms.</p>
+  <p>The Turnstile terms of service at <a href="https://commonform.org/kemitchell/turnstile/1e2d">https://commonform.org/kemitchell/turnstile/1e2d</a> govern use of this website. To use this website, you must agree to those terms.</p>
   <ul>
     <li><p>The <dfn>website</dfn> is commonform.org.</p></li>
     <li><p>The <dfn>operator</dfn> is Kyle E. Mitchell, resident of California.</p></li>
