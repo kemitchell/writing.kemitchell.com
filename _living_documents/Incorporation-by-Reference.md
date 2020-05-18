@@ -63,3 +63,9 @@ description: fundamental rules and authorities
 {: #la-investment}
 - [Caselaw Access Project](https://cite.case.law/cal/180/601/)
 - invalid incorporation by reference
+
+### Pacifiv Vegetable Oil Corporation v. CST, Ltd. (1946)
+- [Case Law Access Project](https://cite.case.law/cal-2d/29/228/)
+
+### Russel Enochs v. Dene C. Christie (1955)
+- [Case Law Access Project](https://cite.case.law/cal-app-2d/137/887/)
