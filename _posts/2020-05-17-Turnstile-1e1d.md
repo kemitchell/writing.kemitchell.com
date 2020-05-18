@@ -1,6 +1,6 @@
 ---
 title: Turnstile
-description: springboard terms for websites
+description: springboard website terms of service
 tags:
 - Contracts
 - Contracts
