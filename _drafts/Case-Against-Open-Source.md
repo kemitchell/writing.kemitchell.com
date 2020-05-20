@@ -3,9 +3,11 @@ title: The Case Against Open Source
 description: advocatus diaboli
 ---
 
-Open source does less good than it gives itself credit for.  What good it does do, it does overwhelmingly for itself and its own kind.  But as a rule, coders enthralled with open source look too much in on themselves, and too little past their own satisfaction, to notice.  I have been one of them.
+The open source software hype is a lot of software people telling themselves that what's good for them is good for everyone else.  Everyone else does not agree.
 
-In many, many cases, software could do more and better for people who _aren't_ programmers, and society as a whole, in closed rather than open form.  But that is still biting the hook of the open-closed line.  When it comes to doing good, openness as coders define it is but an implementation detail, and not a very reliable one, in a project of public service.  An open license or process does not make software an act of noble charity or progress, any more than a license fee or a tight-knit development group make it pillage and plunder.
+In reality, open source does less good than it gives itself credit for.  What good it does do, it does overwhelmingly for itself and its own kind.  But as a rule, coders enthralled with open source look too much in on themselves, and too little past their own satisfaction, to notice.  I have been one of them.
+
+In many, many cases, software could do more and better for people who _aren't_ programmers, and society as a whole, in closed rather than open form.  But that is still biting the hook of the open-closed line, which only distracts from the point.  When it comes to doing good, openness as coders define it is at most an implementation detail, and not a very reliable one, in a project of public service.  An open license or process does not make software an act of noble charity or progress, any more than a license fee or a tight-knit development group make it pillage and plunder.
 
 ## Insularity
 
