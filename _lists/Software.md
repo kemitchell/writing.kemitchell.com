@@ -9,6 +9,7 @@ layout: post
 - [cmus](https://cmus.github.io/) music player
 - [Debian](https://debian.org) operating system
 - [diceware](http://diceware.com/) passphrase generator
+- [dmenu](https://dmenu.suckless.org/) command launcher
 - [dwm](https://dwn.suckless.org/) window manager
 - [Git](https://git-scm.com/) version-control system
 - [NeoMutt](https://neomutt.org/) e-mail client
@@ -20,5 +21,5 @@ layout: post
 - [st](https://st.suckless.org/) terminal emulator
 - [vim](https://www.vim.org/) text editor
 - [Vimium](https://vimium.github.io/) keyboard navigation for the web browser
-- [Wikipanion](http://www.wikipanion.net/) WikiPedia on iOS
+- [Wikipanion](http://www.wikipanion.net/) Wikipedia on iOS
 - [Working Copy](https://workingcopyapp.com/) Git on iOS
