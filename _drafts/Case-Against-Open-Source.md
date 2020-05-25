@@ -3,11 +3,17 @@ title: The Case Against Open Source
 description: advocatus diaboli
 ---
 
-Open source ideology thrives on software people telling themselves that what's good for them is good for everyone else.  Everyone else does not agree.
+Software people love telling each other that what's good for them is good for the world.  And they get away with it, so long as the world isn't around to disagree.  About being "eaten" by software.  About "disrupting" literally everything.  About their role as the new "kingmakers".  About salvation---from the abuses of software people---through "open source".
 
-In reality, what good open source does, it does overwhelmingly for its own kind: software developers.  As a rule, developers enthralled with the benefits of open source for their own interests look not further than that.  I have been one of them.
+It's getting harder to pretend the world agrees.  There are too many headlines.  Too many leaks.  Too many hearings.  The zeitgeist isn't awed anymore.  It's angry, shocked,  resentful.
 
-From outside the open source bubble, it's clear that in many cases, developers could do more and better good for people who _aren't_ programmers, and society as a whole, by keeping their work "closed" and charging at least some people or companies to use it.  But that is still giving the open-closed view of the software universe too much credit.  Open, closed, and all the esoteric nuances between are just implementation details, and not a very reliable ones.  An open license or process does not make software an act of public service or civic progress, any more than a license fee or a tight-knit development group make it pillage and plunder.  Most projects, under all kinds of licenses, achieve little of any great meaning at all, for good or for ill.  And there are compelling stories to tell about open source, especially permissive open source, as primarily a force for ill these days.
+Like the free food in the headquarters cafeteria, open source does good, but overwhelmingly for its own kind: software developers and technology companies.  But that's as far as developers looking to advance their own projects and careers tend to see.  The story sounds good.  It plays well in like-minded company.  It can awe a few bedazzled parents, friends, and cowed passersby.  Without accountability, that is more than enough.
+
+Outside the bubble, it's clear that software people could do a lot more good, for a lot more people, than churning out more open source for each other under MIT, BSD, and Apache 2.0.  By taking projects outside their own narrow self-interest, specifically for people who aren't programmers.  By running business, licensing, and collaboration models that support outside relationships.  By adopting an attitude and a discipline of service, rather than self-service.
+
+In most cases, this would look a lot less "open".  But that's putting it like a software person again.  To any practical outside eye, open, closed, and all the esoteric nuances between are just means, and not very reliable ones.  Open licenses, even open processes, don't make software into an act of public service or civic progress, any more than a license fee or a tight-knit development group make it pillage and plunder.  Pretending otherwise is a cheat code, a shortcut, a ideological magic spell that transforms conspiracy against the laity into service to society.
+
+Robust ethics of public service existed long before software programming, and will continue to exist long after the last pay stub for anyone called "programmer" has been paid.  Their cornerstones are checks and balances---accountability---that the dominant software culture not only avoids, but rejects and attacks.
 
 ## Insularity
 
