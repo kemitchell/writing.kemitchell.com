@@ -67,7 +67,10 @@ Overcome anxiety about publishing a version as ready for public use.  You will b
 
 Potential contributors know about publication anxiety.  Those on the fence---interested but not actively engaged---will be on the lookout for a signal of viability and momentum before committing, consciously or unconsciously.  Don't waste their time with a shoddy sketch of useful terms.  But don't send them signals to keep waiting when it's time to step up.
 
-Launch the simplest website you can.  All the information should fit on one page.
+## Keep the tech simple.
+{: #tech}
+
+Launch the simplest website you can.  Everything should fit on one page.
 
 ## Register a trademark after publishing.
 {: #trademark}
