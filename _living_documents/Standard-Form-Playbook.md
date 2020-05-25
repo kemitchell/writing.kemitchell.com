@@ -21,7 +21,14 @@ Registering domain names and social media accounts is cheap or free.  It's no bi
 
 Strongly prefer a .com domain name, even if that means adding "form" or "project" or "standard" to the end of your name.  A .com is what people will expect.  A .org or .net or the like will take more explaining, and people will always trip up.
 
-## Give potential contributors a starting point.
+## Outline.
+{: #outline}
+
+Even if you'll take the first draft alone, start with an outline of the terms to include, and get as many folks to sign off on it as possible.  When you're ready, turn the outline items into headings, and fill in the language from there.
+
+Outlines make better drafts.  They're also a great opportunity to document the reasons for including types and variants of terms.  Don't stop at the terms you plan to include.  Document the terms you've left out, and the reasons for doing so, as well.
+
+## Give potential contributors a complete starting point.
 {: #start}
 
 Projects that attempt to work up first drafts by committee usually fail before producing any complete draft.  It takes a single motivated individual, or maybe a tight group of two or three, to overcome inertia and produce a starting point.
