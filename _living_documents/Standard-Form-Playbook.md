@@ -51,7 +51,7 @@ Overcome anxiety about publishing a version as ready for public use.  You will b
 
 Potential contributors know about publication anxiety.  Those on the fence---interested but not actively engaged---will be on the lookout for a signal of viability and momentum before committing, consciously or unconsciously.  Don't waste their time with a shoddy sketch of useful terms.  But don't send them signals to keep waiting when it's time to step up.
 
-## Register a trademark just before or after 1.0.0.
+## Register a trademark after publishing 1.0.0.
 {: #trademark}
 
 A US trademark applications costs a little less than $300.  You want to put that cost off until you know it's worthwhile.  Which is mostly a question of whether the name "sticks" with the core team.
