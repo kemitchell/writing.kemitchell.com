@@ -28,6 +28,13 @@ Projects that attempt to work up first drafts by committee usually fail before p
 
 Once you have a complete starting point, colleagues with less time or interest become able to contribute with less commitment.  As they see their contributions incorporated and appreciated, their motivation to contribute in bigger ways can grow.
 
+## Draft in plain English.
+{: #plain}
+
+Start from a blank sheet of paper, and write sentences that the people using the form will understand.  This is often twice as much work, but yields about ten times the benefit.
+
+On one level, you can think of this as [the advice on pitching clients, rather than lawyers](#clients), in so many different words.  It's also a massive competitive leg up over existing forms in clients' eyes, which can help break inertia.
+
 ## Banish pride of authorship.
 {: #pride}
 
@@ -62,10 +69,3 @@ A US trademark applications costs a little less than $300.  You want to put that
 Many "early adopters" of your work will likely be fellow forward-thinking lawyers.  But even so, your best pitch will be to client value, not lawyer interest.  Good lawyers want to do right by their clients.  By the time those lawyers are paying your project attention, they're far more concerned about convincing their clients than being convinced themselves.
 
 No matter what you work on, you will run into lawyers who will insist that they will _always_ need to tailor for client or transaction.  Some of them may even be right ... for their clients and transactions.  But your work on a standard can't do any good for them, and they can't do your project any good, either.  So don't worry about them.
-
-## Draft in plain English.
-{: #plain}
-
-Start from a blank sheet of paper, and write sentences that the people using the form will understand.  This is often twice as much work, but yields about ten times the benefit.
-
-On one level, you can think of this as [the advice on pitching clients, rather than lawyers](#clients), in so many different words.  It's also a massive competitive leg up over existing forms in clients' eyes, which can help break inertia.
