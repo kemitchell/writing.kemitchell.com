@@ -14,7 +14,7 @@ Ideally, you'll pick a name at the start and stick with it forevermore.  Do as m
 
 Changing names over time isn't ideal, but early on, it's perfectly doable.  [The Waypoint NDA](https://waypointnda.com) was originally called "The Canting Tribe NDA".  The funky name wasn't great, but it was fun for the small group involved.  If we'd held work up, waiting for a better name early on, Waypoint as we know it now wouldn't exist.
 
-## Grab domain names and social media handles immediately.
+## Grab domain names and social media handles.
 {: #domain}
 
 Registering domain names and social media accounts is cheap or free.  It's no big commitment to secure them, and doing so can serve an early warning about potential conflicts that could affect a trademark application later.
