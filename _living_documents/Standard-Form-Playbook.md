@@ -14,12 +14,12 @@ Ideally, you'll pick a name at the start and stick with it forevermore.  Do as m
 
 Changing names over time isn't ideal, but early on, it's perfectly doable.  [The Waypoint NDA](https://waypointnda.com) was originally called "The Canting Tribe NDA".  The funky name wasn't great, but it was fun for the small group involved.  If we'd held work up, waiting for a better name early on, Waypoint as we know it now wouldn't exist.
 
-## Grab domain names and social media handles.
+## Grab a domain name and any social media handles.
 {: #domain}
 
 Registering domain names and social media accounts is cheap or free.  It's no big commitment to secure them, and doing so can serve an early warning about potential conflicts that could affect a trademark application later.
 
-Launch the simplest website you can.  All the information should fit on one page.
+Strongly prefer a .com domain name, even if that means adding "form" or "project" or "standard" to the end of your name.  A .com is what people will expect.  A .org or .net or the like will take more explaining, and people will always trip up.
 
 ## Give potential contributors a starting point.
 {: #start}
@@ -57,6 +57,8 @@ If people flock to the idea of your project, expressing enthusiasm but not stepp
 Overcome anxiety about publishing a version as ready for public use.  You will be tempted to describe everything as a "draft" or to adopt bashful conventions like "version 0.10".  Don't.  As soon as you are ready to recommend the work for client use, call that 1.0 and publish it.  Expect to publish a 2.0, or even a 7.0 or 17.0, later.
 
 Potential contributors know about publication anxiety.  Those on the fence---interested but not actively engaged---will be on the lookout for a signal of viability and momentum before committing, consciously or unconsciously.  Don't waste their time with a shoddy sketch of useful terms.  But don't send them signals to keep waiting when it's time to step up.
+
+Launch the simplest website you can.  All the information should fit on one page.
 
 ## Register a trademark after publishing 1.0.0.
 {: #trademark}
