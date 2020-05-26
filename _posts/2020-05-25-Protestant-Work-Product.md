@@ -23,4 +23,4 @@ Looking back on my own time with hindsight, it seems a good project ought to be 
 
 Having come to this realization way ahead of actually dialing down my gunner drive, I'm caught in a somewhat awkward transition.  A queer side effect is many projects.  I have a lot of them, in part because when it comes time to turn _away_ from one, to avoid grinding it by effort for effort's sake, I need some other wheel to spin.
 
-I'm not sure I can recommend the tactic.  It may simply spare the product while prolonging the worker's problem.  But as usual, in the great [Stakanovite](https://en.wikipedia.org/wiki/Stakhanovite_movement) work culture of the west, it's worth a lot of plaudits.  Better prolific than a pedant, I suppose.  Though I'm starting to think I'd rather be neither.
+I'm not sure I can recommend the tactic.  It may simply spare the product while prolonging the worker's problem.  But as usual, in the great [Stakhanovite](https://en.wikipedia.org/wiki/Stakhanovite_movement) work culture of the west, it's worth a lot of plaudits.  Better prolific than a pedant, I suppose.  Though I'm starting to think I'd rather be neither.
