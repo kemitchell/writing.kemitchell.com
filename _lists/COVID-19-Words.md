@@ -1,5 +1,5 @@
 ---
-title: Armchair COVID-19 Jargon Dashboard
+title: COVID-19 Jargon Dashboard
 ---
 
 - Acute Respiratory Distress Syndrome
@@ -14,7 +14,7 @@ title: Armchair COVID-19 Jargon Dashboard
 - KN95
 - N95
 - Quarantine
-- Basic Reproduction Number (R0)
+- Basic Reproduction Number (R<sub>0</sub>)
 - Self-Isolation
 - Shelter in Place
 - Social Distancing
