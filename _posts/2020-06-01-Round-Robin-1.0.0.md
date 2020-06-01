@@ -1,6 +1,6 @@
 ---
 title: Round Robin 1.0.0
-description:
+description: ready for the field
 date: Mon 01 Jun 2020 11:41:59 AM PDT
 tags:
 - Copyleft
