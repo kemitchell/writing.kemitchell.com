@@ -400,6 +400,24 @@ ol.arabicInParentheses
   position: absolute
   user-select: text
 
+/* A. */
+
+ol.upperAlphaPeriod
+  counter-reset: upperAlphaPeriod
+  margin-left: 2rem
+
+.upperAlphaPeriod > li
+  list-style: none
+  position: relative
+
+.upperAlphaPeriod > li:before
+  content: counter(upperAlphaPeriod, upper-alpha) ". "
+  counter-increment: upperAlphaPeriod
+  display: block
+  left: -2rem
+  position: absolute
+  user-select: text
+
 /* (A) */
 
 ol.upperAlphaInParentheses
