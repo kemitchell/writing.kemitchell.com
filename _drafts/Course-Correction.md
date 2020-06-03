@@ -9,6 +9,8 @@ Josh Simmons, president of the Open Source Initiative, recently [wrote](https://
 
 > Even on the topic of licensing, OSI has been found on its back foot.  Our response to the recent flare ups of open core and source available licensing was lackluster.  Everyone agrees: open source needs a bolder, more responsive, and representative OSI.
 
+This is the part they chose to emphasize [on Twitter](https://twitter.com/OpenSourceOrg/status/1267999443992883201), as well.
+
 Do you agree that the Open Source Initiative ought to be bolder?  That it's up to the Open Source Initiative to respond to changes in open source?  That the Open Source Initiative ought to represent open source as a whole?  I don't, and I am not alone.  Josh and other members of the board know it.  They have heard it from me directly.
 
 Josh and his fellow directors are no fools, and they are no liars, either.  Every one that I have met or spoken to personally has struck me as intelligent, conscientious, and earnestly motivated.  Totally in line with deservedly good reputations.
