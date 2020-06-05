@@ -37,3 +37,9 @@ description: primary documents, timelines, and notes
 - 2009 Fatal Shootings of Officers Dunakin, Hege, Romans, and Sakai
 - 2011 Occupy Oakland
 - 2016 Underage Sex Scandal
+
+## Stanford Study
+- [Data for Change](/files/OPD/SPARQ/Data for Change.pdf)
+- [Executive Summary](/files/OPD/SPARQ/Executive Summary.pdf)
+- [Press Release](/files/OPD/SPARQ/Press Release.pdf)
+- [Strategies for Change](/files/OPD/SPARQ/Strategies for Change.pdf)
