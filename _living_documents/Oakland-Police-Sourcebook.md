@@ -8,7 +8,7 @@ description: primary documents, timelines, and notes
   - 3:00-cv-04599
   - 3:02-cv-04935
 - [First Remedial Action Report](/files/OPD/2013-05-01 Remedial Action Report First Report.pdf)
-- [Negotiated Settlement Agreenent](/files/OPD/Negotiated Settlement Agreement.pdf)
+- [Negotiated Settlement Agreement](/files/OPD/Negotiated Settlement Agreement.pdf)
 
 ## Union Contracts
 - [Management Association MOU](https://downloads.kemitchell.com/OPD/2018-12-12 Management Association MOU.pdf)
