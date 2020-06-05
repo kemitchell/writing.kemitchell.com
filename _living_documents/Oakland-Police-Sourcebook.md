@@ -1,11 +1,14 @@
 ---
 title: Oakland Police Sourcebook
+description: primary documents, timelines, and notes
 ---
 
 ## Allen v. City of Oakland (Riders Case)
-- [First Remedial Action Report](https://downloads.kemitchell.com/OPD/2013-05-01 Remedial Action Report First Report.pdf)
-- Docket Numbers 3:00-cv-04599 and 3:02-cv-04935
-- [Negotiated Settlement Agreenent](https://downloads.kemitchell.com/OPD/Negotiated Settlement Agreement.pdf)
+- Docket Numbers:
+  - 3:00-cv-04599
+  - 3:02-cv-04935
+- [First Remedial Action Report](/files/OPD/2013-05-01 Remedial Action Report First Report.pdf)
+- [Negotiated Settlement Agreenent](/files/OPD/Negotiated Settlement Agreement.pdf)
 
 ## Union Contracts
 - [Management Association MOU](https://downloads.kemitchell.com/OPD/2018-12-12 Management Association MOU.pdf)
