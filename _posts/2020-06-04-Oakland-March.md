@@ -31,14 +31,14 @@ At least during the march, folks were visibly trying to keep more distance than 
 
 Signs of broken windows and other damage from previous nights was there to be seen.  The new Target in particular stood out.  Many businesses, large and small, were boarded up.  But the street was oddly clean, free of glass and debris.  I'd read about the volunteers going out to clean downtown in the daytime, but hadn't appreciated the scale of their work.
 
-More speeches followed at city hall.  And it was harder to keep distance in the relatively confided space of the plaza.  I couldn't make out all the words.  A few that I did make out, about the curfew and what it meant, will stick with me for quite some time.  The speaker and the crowd made clear they knew exactly what the curfew order meant: new license for the police to act even more preemptively.  At least some attendees were encouraged to get home safe to their families.
+More speeches followed at city hall.  And it was harder to keep distance in the relatively confined space of the plaza.  I couldn't make out all the words.  A few that I did make out, about the curfew and what it meant, will stick with me for quite some time.  The speaker and the crowd made clear they knew exactly what the curfew order meant: new license for the police to act even more preemptively.  At least some attendees were encouraged to get home safe to their families, rather than face a notorious police department emboldened by the curfew.
 
 When the program of speeches ended, the crowd began to split.  A sizable group immediately turned down Broadway again, heading toward the police station.  A few of those I'd seen dressed for a conflict went that way.  So did one deranged looking man, dressed in a costume and a clown mask, egging people on to burn the police station down.  The people I saw on the receiving end did their best to ignore him, until he left and joined the group heading south.
 
-A larger number of people trickled back up Broadway the way they'd came, or otherwise went their own ways, in small groups.
+A larger number of people trickled back up Broadway the way they'd come, or otherwise went their own ways, in small groups.
 
 I didn't stay for the inevitable this time.  I understand from reporting that the police deployed tear gas at 7:40, twenty minutes before curfew, and arrested many.  I certainly heard when that began, even several blocks away.
 
-Heading back up Broadway, I ran into a parade of cars honking and hollering and acknowledging marchers walking back.  Turned out to be the tail end of a car protest on the same days.  There were also street medics in vehicles distributing information about informal ambulance services for any wounded protesters to come, and staging their vehicles.
+Heading back up Broadway, I ran into a parade of cars honking and hollering and acknowledging marchers walking back.  Turned out to be the tail end of a car protest, a long motorcade of people expressing support that way.  There were also street medics in vehicles distributing information about informal ambulance services for any wounded protesters to come, and staging their vehicles.
 
-At one point on the way home, things got a lot louder.  People were yelling, from the street and the surrounding neighborhoods.  The cards all started honking.  It only occurred to me later that it happened at eight o'clock sharp, the start of the sheriff's curfew.
+At one point on the way home, things got a lot louder.  People were yelling, from the street and the surrounding neighborhoods.  The cars all started honking.  It only occurred to me later that it happened at eight o'clock sharp.  The start of the sheriff's curfew.
