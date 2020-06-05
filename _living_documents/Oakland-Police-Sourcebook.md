@@ -7,8 +7,8 @@ description: primary documents, timelines, and notes
 - Docket Numbers:
   - 3:00-cv-04599
   - 3:02-cv-04935
-- [First Remedial Action Report](/files/OPD/2013-05-01 Remedial Action Report First Report.pdf)
-- [Negotiated Settlement Agreement](/files/OPD/Negotiated Settlement Agreement.pdf)
+- [First Remedial Action Report](https://downloads.kemitchell.com/OPD/2013-05-01 Remedial Action Report First Report.pdf)
+- [Negotiated Settlement Agreement](https://downloads.kemitchell.com/OPD/Negotiated Settlement Agreement.pdf)
 
 ## Union Contracts
 - [Management Association MOU](https://downloads.kemitchell.com/OPD/2018-12-12 Management Association MOU.pdf)
@@ -39,7 +39,7 @@ description: primary documents, timelines, and notes
 - 2016 Underage Sex Scandal
 
 ## Stanford Study
-- [Data for Change](/files/OPD/SPARQ/Data for Change.pdf)
-- [Executive Summary](/files/OPD/SPARQ/Executive Summary.pdf)
-- [Press Release](/files/OPD/SPARQ/Press Release.pdf)
-- [Strategies for Change](/files/OPD/SPARQ/Strategies for Change.pdf)
+- [Data for Change](https://downloads.kemitchell.com/OPD/SPARQ/Data for Change.pdf)
+- [Executive Summary](https://downloads.kemitchell.com/OPD/SPARQ/Executive Summary.pdf)
+- [Press Release](https://downloads.kemitchell.com/OPD/SPARQ/Press Release.pdf)
+- [Strategies for Change](https://downloads.kemitchell.com/OPD/SPARQ/Strategies for Change.pdf)
