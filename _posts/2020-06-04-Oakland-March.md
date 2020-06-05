@@ -25,7 +25,7 @@ My first aid kit turned out to be totally unnecessary.  Several street medics---
 
 The mood, up and down Broadway, was overwhelmingly positive.  There was chanting.  There was drumming.  There was music.  There was dancing.  There were signs and banners and decorated bicycles, scooters, and motorcycles. There were young people, old people, and children, of every description.
 
-Several neighbors cheered the marchers from rooftops, windows, balconies, and side streets along the way.  The most memorable for me were probably the crowd of healthcare workers scrubs on the sidewalk next to Kaiser hospital at MacArthur Boulevard. Lots of applause on both sides there.
+Several neighbors cheered the marchers from rooftops, windows, balconies, and side streets along the way.  The most memorable for me were probably the crowd of healthcare workers in scrubs on the sidewalk next to Kaiser hospital.  Lots of applause on both sides there.
 
 At least during the march, folks were visibly trying to keep more distance than usual.  It wasn't perfect, as things have been on sidewalks and crosswalks before the protest.  Especially toward the end of the march, as people tired.  I don't remember anyone without a mask.  People were thinking about it.
 
