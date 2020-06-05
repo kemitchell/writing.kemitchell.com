@@ -43,3 +43,9 @@ description: primary documents, timelines, and notes
 - [Executive Summary](https://downloads.kemitchell.com/OPD/SPARQ/Executive Summary.pdf)
 - [Press Release](https://downloads.kemitchell.com/OPD/SPARQ/Press Release.pdf)
 - [Strategies for Change](https://downloads.kemitchell.com/OPD/SPARQ/Strategies for Change.pdf)
+
+## Institutions
+- [Community Police Review Agency](https://www.oaklandca.gov/departments/community-police-review-agency)
+  - [Measure LL](https://downloads.kemitchell.com/OPD/Measure LL.pdf)
+- [Police Commission](https://www.oaklandca.gov/boards-commissions/police-commission)
+  - [2019 Annual Report](https://downloads.kemitchell.com/OPD/2019 Oakland Police Commission Annual Report.pdf)
