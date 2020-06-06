@@ -1,5 +1,5 @@
 ---
-title: Oakland Police Sourcebook
+title: Oakland Police Sources
 description: primary documents, timelines, and notes
 ---
 
