@@ -4,6 +4,7 @@ description: online services that I use and recommend
 layout: post
 ---
 
+- [Backblaze](https://backblaze.com) for cloud storage
 - [Digital Ocean](https://digitalocean.com) for virtual private Linux servers
 - [Discourse](https://discourse.org) for online discussion forums (I represent the company.)
 - [FastMail](https://fastmail.com) for e-mail
