@@ -3,10 +3,12 @@ title: COVID-19 Jargon Dashboard
 ---
 
 - Acute Respiratory Distress Syndrome
+- Basic Reproduction Number (R<sub>0</sub>)
 - Case Fatality Rate
 - Community Spread
 - Coronavirus
 - Droplet Spread
+- Essential Worker
 - Flatten the Curve
 - Hand Hygiene
 - Herd Immunity
@@ -14,7 +16,6 @@ title: COVID-19 Jargon Dashboard
 - KN95
 - N95
 - Quarantine
-- Basic Reproduction Number (R<sub>0</sub>)
 - Self-Isolation
 - Shelter in Place
 - Social Distancing
