@@ -3,7 +3,6 @@ title: Turnstile
 description: springboard website terms of service
 tags:
 - Contracts
-- Contracts
 - Drafting
 - Forms
 - Law Practice
