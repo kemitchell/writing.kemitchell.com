@@ -49,3 +49,9 @@ description: primary documents, timelines, and notes
   - [Measure LL](https://downloads.kemitchell.com/OPD/Measure LL.pdf)
 - [Police Commission](https://www.oaklandca.gov/boards-commissions/police-commission)
   - [2019 Annual Report](https://downloads.kemitchell.com/OPD/2019 Oakland Police Commission Annual Report.pdf)
+
+## Sheriff
+- Gregory Ahern
+- Alameda County
+- 2018-06-05, term ending 2022
+- Votes: 211,884
