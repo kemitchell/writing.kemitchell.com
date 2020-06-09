@@ -25,7 +25,7 @@ First and foremost, it is all too easy to read this evening's event as a kind of
 
 Under 604(b)(4) of Oakland's city charter, the police commission can propose changes to police policy, like its use of force policy.  But those proposals only go to the city council, which can do what it wants with them.  There is a rule that puts the changes in place if the council fails to act at all.  But only after one hundred and twenty days.  Hardly quick.
 
-Similarly, nothing at all was said of the commission's leverage over California Highway Patrol, which is reported to have fired 40 assault rifle rounds in East Oakland on Saturday, killing Erik Salgado, 23, and wounding his pregnant girlfriend.  Best I can tell, that leverage is dick.  The commission oversees OPD, not CHP.
+Similarly, nothing at all was said of the commission's leverage over California Highway Patrol, which is reported to have fired forty assault rifle rounds in East Oakland on Saturday, killing Erik Salgado, 23, and wounding his pregnant girlfriend.  Best I can tell, that leverage is dick.  The commission oversees OPD, not CHP.
 
 The commission's real, direct power, firing the chief of police under 604(b)(5), was used as recently as late February.  But the commission didn't actually go there alone.  The mayor, who nominates a chunk of police commissioners, joined in, so they could fire "without cause".  They're being sued about it.
 
