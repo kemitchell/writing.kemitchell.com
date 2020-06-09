@@ -1,6 +1,7 @@
 ---
 title: Normally Open & Normally Closed
 description: simple templates for restricted terms
+date: Tue 09 Jun 2020 11:52:56 AM PDT
 tags:
 - Licenses
 - Software
