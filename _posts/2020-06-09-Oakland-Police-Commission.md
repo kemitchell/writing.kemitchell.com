@@ -1,6 +1,6 @@
 ---
 title: Oakland Police Commission
-description: money, gas, rubber, and ”fuck“
+description: money, gas, rubber, and “fuck”
 date: Tue 09 Jun 2020 02:00:06 AM PDT
 tags:
 - Oakland
