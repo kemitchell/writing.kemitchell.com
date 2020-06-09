@@ -15,7 +15,7 @@ Normally Closed says "Everything not permitted is prohibited."  You get to fill 
 
 I'm short on time.  But those interested in more context, and how these might be useful, can look at ["Ethical Subcommons Starter Kit"](https://writing.kemitchell.com/2019/03/15/Ethical-Subcommons.html), published in March of 2019.
 
-A comparison, or "diff", from Normally Open to Normally Closed follows.  A lot this language comes from the Blue Oak Model License 1.0.0, with some later readability improvements from Round Robin 1.0.0.  Hopefully remains easy to read and follow.
+A comparison, or "diff", from Normally Open to Normally Closed follows.  A lot this language comes from the Blue Oak Model License 1.0.0, with some later readability improvements from Round Robin 1.0.0.  Hopefully the text remains easy to read and follow.
 
 > # Normally <del>Open</del><ins>Closed</ins> Public License 1.0.0-pre.1
 >
