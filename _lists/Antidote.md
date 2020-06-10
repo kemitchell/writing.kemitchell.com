@@ -16,6 +16,8 @@ Alphabetically, by first named author:
 
 - <!-- Coleman --> Biella Coleman and Mako Hill's ["How Free Became Open and Everything Else Under the Sun"](http://journal.media-culture.org.au/0406/02_Coleman-Hill.php)
 
+- <!-- Crawford --> Drew Crawford's ["Beyond Open Source"](https://sealedabstract.com/rants/beyond-open-source/index.html)
+
 - <!-- De Filippi --> Primavera De Filippi and Miguel Said Vieira's ["The Commodification of Information Commons"](https://journals.library.columbia.edu/index.php/stlr/article/view/3991), in The Columbia Science and Technology Law Review, volume 16, number 1, 2014
 
 - <!-- Dryden --> Ashe Dryden's ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
