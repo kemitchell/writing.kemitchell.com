@@ -10,7 +10,7 @@ Here are a few quality pieces to read as antidote to the hype.  These writers do
 
 Alphabetically, by first named author:
 
-- Jeremy Allison's ["Copyleft and the Cloud"](https://archive.org/details/copyleftconf2020-allison) talk at CopyleftConf 2020 (with thanks to Janne Blomqvist)
+- <!--Allison --> Jeremy Allison's ["Copyleft and the Cloud"](https://archive.org/details/copyleftconf2020-allison) talk at CopyleftConf 2020 (with thanks to Janne Blomqvist)
 
 - <!-- Bauwens --> Michel Bauwens and Vasilis Kostakis' ["From the Communism of Capital to Capital for the Commons: Towards an Open Co-operativism"](https://www.triple-c.at/index.php/tripleC/article/view/561)
 
