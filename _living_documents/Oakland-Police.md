@@ -60,8 +60,8 @@ description: primary documents, timelines, and notes
 
 ### Open Letter 2020-06-10
 
-> OPEN LETTER TO OUR COMMUNITY FROM THE
-> OAKLAND POLICE DEPARTMENT AND
+> OPEN LETTER TO OUR COMMUNITY FROM THE<br>
+> OAKLAND POLICE DEPARTMENT AND<br>
 > INTERIM POLICE CHIEF SUSAN MANHEIMER
 >
 > Dear Oakland Community,
@@ -134,5 +134,5 @@ description: primary documents, timelines, and notes
 >
 > Yours in Service,
 >
-> Susan E. Manheimer
+> Susan E. Manheimer<br>
 > Interim Chief of Police
