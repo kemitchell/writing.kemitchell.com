@@ -67,6 +67,6 @@ The plight of black Americans, despite generations of discouragement and abuse, 
 
 In the end, dispositionally, democratically, and just practically, I doubt that any meaningfully cohesive group of Americans can be conquered as absolutist fantasy tends to suggest.  Not by intellectual rout.  Not by moral superiority.  Not by cultural domination.  Not by force of arms.  Conservatives, or the Republican party, will not and cannot vanquish liberals or Democrats, in substance or by process.  Nor will Democratic liberals reign supreme and unchallenged by force of reason or artful maneuvering.
 
-As a direct result, nor is any such group immune to change.  The dominant, "white" culture of this country can no more vanquish blackness than it can avoid becoming blacker itself.  Policing in this country is about to change, to be changed, and it will change this country in turn.  I hope for the better, despite a great deal of blood, ash, and hot air.
+As a direct consequence, neither is any such group immune to change.  The dominant, "white" culture of this country can no more vanquish blackness than it can avoid becoming blacker itself.  Policing in this country is about to change, to be changed, and it will change this country in turn.  I hope for the better, despite a great deal of blood, ash, and hot air.
 
 It is an adversarial process.  It's what we do.
