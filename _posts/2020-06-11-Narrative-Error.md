@@ -1,6 +1,7 @@
 ---
 title: Narrative Error
 description: that's my hero story, and I'm sticking to it
+date: Thu 11 Jun 2020 03:05:14 PM PDT
 tags:
 - Open Source
 - Politics
