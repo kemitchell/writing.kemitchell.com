@@ -69,4 +69,4 @@ In the end, dispositionally, democratically, and just practically, I doubt that 
 
 As a direct consequence, neither is any such group immune to change.  The dominant, "white" culture of this country can no more vanquish blackness than it can avoid becoming blacker itself.  Policing in this country is about to change, to be changed, and it will change this country in turn.  I hope for the better, despite the inevitable blood, ash, and hot air still to come.
 
-It is an adversarial process.  It's what we do.
+It's an adversarial process.  It's what we do.
