@@ -1,7 +1,7 @@
 ---
 title: Facing the Choir
 description: reading and hearing American police unions
-date: Wed 10 Jun 2020 09:38:25 PM PDT
+date: Wed 10 Jun 2020 11:04:58 PM PDT
 tags:
 - Oakland
 - Politics
