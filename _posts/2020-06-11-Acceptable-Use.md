@@ -1,6 +1,7 @@
 ---
 title: Acceptable Use
 description: different delivery, same rules
+date: Thu 11 Jun 2020 11:51:43 AM PDT
 tags:
 - Code of Conduct
 - Drafting
