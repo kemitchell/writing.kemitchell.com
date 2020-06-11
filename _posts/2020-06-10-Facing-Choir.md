@@ -35,7 +35,7 @@ Literally a continent away, cue [Mike O'Meara, president of the New York Associa
 >
 > Our legislators abandoned us.  The press is vilifying us.  Well, you know what, guys [turns to face crowd behind]?  I'm proud to be a cop, and I'm going to continue to be proud to be a cop until the day I retire.  And that's all I have to say.
 
-Set aside the common talking points, the single, identical rhetorical arc.  I'm struck by how the way O'Meara delivered his words made physically explicit what was only strongly implied in the Bay Area statement.  He repeatedly turned to address the throng of police behind him, rather than the camera in front of him, to the point where the mic only barely caught his voice.
+Set aside the common talking points, the single, identical rhetorical arc.  I'm struck by how the way O'Meara delivered his words made physically explicit what was only strongly implied in the Bay Area statement.  He repeatedly turned to address the throng of police behind him, rather than the camera in front of him.  At times, the mic barely caught his voice.
 
 These are statements to the public, but not for the public.  These are statements for cops by cop reps.  Distributing them widely, by joint press release or in front of a camera, is merely a device for emphasis, the biggest way to double down on words.
 
