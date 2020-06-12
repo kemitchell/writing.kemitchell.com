@@ -13,7 +13,7 @@ This is true, but no one's fit to throw the stones.  We all prefer to hear a sto
 
 Many readers of this blog work in free and open source software.  Many believe that free and open source software make the world a better place, serve the public interest, or advance great causes like human freedom.  Why?  Right or wrong, has it been tested?
 
-Open source liberation is a very powerful story.  One that remains largely theoretical, beyond the good that open source does for the developers who believe its line.  Open source has given me free code, tools, and education.  Open source made a number of early proponents rich, and boosted many careers, including mine.  That is no cause for moral congratulation.  I don't deserve credit for from others from serving myself and my own kind.
+Open source liberation is a very powerful story.  One that remains largely theoretical, beyond the good that open source does for the developers who believe its line.  Open source has given me free code, tools, and education.  Open source made a number of early proponents rich, and boosted many careers, including mine.  That is no cause for moral congratulation.  I don't deserve credit from others from serving myself and my own kind.
 
 The questions must be different.  What, if anything, has been done to hold hackers to broad account for theories that prompt the plaudits they give themselves?  What have we done to ensure that the happy examples of open source helping the world we love to read and repeat aren't selectively picked?  Have you ever read a story about open source doing harm?  If you haven't, how is that possible?
 
