@@ -46,6 +46,8 @@ description: primary documents, timelines, and notes
 - 2000 Riders Scandal
 - 2009 Killing of Oscar Grant (BART Police)
 - 2009 Fatal Shootings of Officers Dunakin, Hege, Romans, and Sakai
+  - [AP Video](https://www.youtube.com/watch?v=bfHTfBCKN_c)
+  - [CBS Video](https://www.youtube.com/watch?v=WS0_f5YzkRU)
 - 2011 Occupy Oakland
 - 2016 Underage Sex Scandal
 
