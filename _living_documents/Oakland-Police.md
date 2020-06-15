@@ -54,7 +54,7 @@ description: primary documents, timelines, and notes
   - [CBS Video](https://www.youtube.com/watch?v=GHbjj_pigN0)
 - 2020 Protests
   - Class Action
-    - [Complaint](https://downloads.kemitchell.com/OPD/3:20-cv-03866\ complaint.pdf)
+    - [Complaint](https://downloads.kemitchell.com/OPD/3:20-cv-03866%20complaint.pdf)
 
 ## Stanford Study
 - [Data for Change](https://downloads.kemitchell.com/OPD/SPARQ/Data for Change.pdf)
