@@ -154,3 +154,6 @@ description: primary documents, timelines, and notes
 >
 > Susan E. Manheimer<br>
 > Interim Chief of Police
+
+## Media
+- [The People and the Police: Oakland](https://www.youtube.com/watch?v=B-lhlB5r7Uw) (1974)
