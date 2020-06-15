@@ -19,7 +19,7 @@ description: primary documents, timelines, and notes
 - [Reporting and Investigation Policy](https://downloads.kemitchell.com/OPD/2014-10-16 Revised DGO K-4 Reporting and Investigating.pdf)
 - [Review Board Policy](https://downloads.kemitchell.com/OPD/2015-12-16 Force Review Boards Policy.pdf)
 
-## Oaland Police Commission 2020-06-11
+## Oakland Police Commission 2020-06-11
 - Regina Jackson, chair
 - Jose Dorado
 - Thomas Lloyd Smith
