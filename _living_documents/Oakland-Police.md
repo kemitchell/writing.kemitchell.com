@@ -19,6 +19,9 @@ description: primary documents, timelines, and notes
 - [Reporting and Investigation Policy](https://downloads.kemitchell.com/OPD/2014-10-16 Revised DGO K-4 Reporting and Investigating.pdf)
 - [Review Board Policy](https://downloads.kemitchell.com/OPD/2015-12-16 Force Review Boards Policy.pdf)
 
+## State Law
+- ["Police Bill of Rights"](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=4.&chapter=9.7.&lawCode=GOV&title=1.)
+-
 ## Oakland Police Commission 2020-06-11
 - Regina Jackson, chair
 - Jose Dorado
