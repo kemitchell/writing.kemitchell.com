@@ -53,7 +53,7 @@ description: primary documents, timelines, and notes
 - 2018 Shooting of Joshua Pawlik
   - [CBS Video](https://www.youtube.com/watch?v=GHbjj_pigN0)
 - 2020 Protests
-  - Class Action
+  - Class Action 3:20-cv-03866
     - [Complaint](https://downloads.kemitchell.com/OPD/3:20-cv-03866%20complaint.pdf)
 
 ## Stanford Study
