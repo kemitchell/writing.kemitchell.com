@@ -50,6 +50,8 @@ description: primary documents, timelines, and notes
   - [CBS Video](https://www.youtube.com/watch?v=WS0_f5YzkRU)
 - 2011 Occupy Oakland
 - 2016 Underage Sex Scandal
+- 2018 Shooting of Joshua Pawlik
+  - [CBS Video](https://www.youtube.com/watch?v=GHbjj_pigN0)
 
 ## Stanford Study
 - [Data for Change](https://downloads.kemitchell.com/OPD/SPARQ/Data for Change.pdf)
