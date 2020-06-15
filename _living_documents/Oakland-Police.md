@@ -52,6 +52,9 @@ description: primary documents, timelines, and notes
 - 2016 Underage Sex Scandal
 - 2018 Shooting of Joshua Pawlik
   - [CBS Video](https://www.youtube.com/watch?v=GHbjj_pigN0)
+- 2020 Protests
+  - Class Action
+    - [Complaint](https://downloads.kemitchell.com/OPD/3:20-cv-03866\ complaint.pdf)
 
 ## Stanford Study
 - [Data for Change](https://downloads.kemitchell.com/OPD/SPARQ/Data for Change.pdf)
