@@ -26,4 +26,4 @@ Prudence was not just a Virtue, but the Mother of All Virtues.  It was Prudence,
 
 In one hand, she carried a serpent, symbol of all worldly trouble.  In the other hand, her tool, a mirror.  Prudence wasn't blind.  She could see the serpent quite clearly.  Through the mirror, she could see also herself.
 
-In times of trouble, blindness is often convenient.  A mirror, rarely so.  Does our profession, as a whole, lack the virtue for a long, hard look at ourselves?  Do we have eyes to see in reflection what is plain to so many others at a glance?
+In times of trouble, blindness is often convenient.  A mirror, rarely so.  Does our profession, as a whole, lack the virtue for a long, hard look at itself?  Do we have eyes to see in reflection what is plain to the society we serve at a glance?
