@@ -59,7 +59,7 @@ description: primary documents, timelines, and notes
 - 2020 Protests
   - Class Action 3:20-cv-03866
     - [Complaint](https://downloads.kemitchell.com/OPD/3:20-cv-03866%20complaint.pdf)
-  - APTP v. Oakland
+  - APTP v. Oakland 3:20-cv-03866
     - [Order 2020-06-18](https://downloads.kemitchell.com/OPD/2020-06-18\ APTP\ v\ Oakland\ Order.pdf)
 
 ## Stanford Study
