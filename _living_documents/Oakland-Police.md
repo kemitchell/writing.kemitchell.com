@@ -167,6 +167,7 @@ description: primary documents, timelines, and notes
 
 ## Qualified Immunity
 
+- [42 U.S.C. 1983](https://downloads.kemitchell.com/OPD/42 USC 1983.pdf)
 - [Harlow v. Fitzgerald](https://downloads.kemitchell.com/OPD/Harlow v Fitzgerald.pdf)
 - [Hope v. Pelzer](https://downloads.kemitchell.com/OPD/Hope v Pelzer.pdf)
 - [Malley v. Briggs](https://downloads.kemitchell.com/OPD/Malley v Briggs.pdf)
