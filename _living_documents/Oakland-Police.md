@@ -164,3 +164,10 @@ description: primary documents, timelines, and notes
 ## Media
 - [The People and the Police: Oakland](https://www.youtube.com/watch?v=B-lhlB5r7Uw) (1974)
 - [The Force](https://www.netflix.com/title/80168198) (2017)
+
+## Qualified Immunity
+
+- [Harlow v. Fitzgerald](https://downloads.kemitchell.com/OPD/Harlow v Fitzgerald.pdf)
+- [Hope v. Pelzer](https://downloads.kemitchell.com/OPD/Hope v Pelzer.pdf)
+- [Malley v. Briggs](https://downloads.kemitchell.com/OPD/Malley v Briggs.pdf)
+- [Pierson v. Ray](https://downloads.kemitchell.com/OPD/Pierson v Ray.pdf)
