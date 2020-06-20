@@ -1,5 +1,5 @@
 ---
-title: Police Qualified Immunity Reading List
+title: Police Qualified Immunity Reading
 description: recommended overview and primary sources
 date: Sat 20 Jun 2020 01:09:20 PM PDT
 tags:
