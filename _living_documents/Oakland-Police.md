@@ -21,6 +21,8 @@ description: primary documents, timelines, and notes
 
 ## State Law
 - [Police Bill of Rights](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=4.&chapter=9.7.&lawCode=GOV&title=1.)
+  - [Garrity v. New Jersey](https://downloads.kemitchell.com/OPD/Garrity v New Jersey.pdf)
+  - [Gardner v. Broderick](https://downloads.kemitchell.com/OPD/Gardner v Broderick.pdf)
 
 ## Oakland Police Commission 2020-06-11
 - Regina Jackson, chair
