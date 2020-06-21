@@ -20,3 +20,7 @@ Primary Sources:
 - [Malley v. Briggs](https://downloads.kemitchell.com/OPD/Malley v Briggs.pdf) (1986)
 
 - [Hope v. Pelzer](https://downloads.kemitchell.com/OPD/Hope v Pelzer.pdf) (2002)
+
+- [Pearson v. Callahan](https://downloads.kemitchell.com/OPD/Pearson v Callahan.pdf)
+
+- [Saucier v. Katz](https://downloads.kemitchell.com/OPD/Saucier v Katz.pdf)
