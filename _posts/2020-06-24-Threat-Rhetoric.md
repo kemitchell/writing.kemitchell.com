@@ -6,7 +6,7 @@ tags:
 - Politics
 ---
 
-Seth Stoughton, Associate Professor of Law, University of South Carolina School of Law, on [The Daily Social Distancing Show, June 24, 2020](https://www.youtube.com/watch?v=-vJn9NBl6NU):
+[Seth Stoughton, Associate Professor of Law, University of South Carolina School of Law](https://sc.edu/study/colleges_schools/law/faculty_and_staff/directory/stoughton_seth.php), on [The Daily Social Distancing Show, June 24, 2020](https://www.youtube.com/watch?v=-vJn9NBl6NU):
 
 > It's very difficult to tell an officer, "Everyone that you interact with is able to, and possibly willing to, kill you," and at the same time tell the officer, "so go out, make friends, be nice, and, you know, engage in community policing."  There's some major mixed messages there.
 >
