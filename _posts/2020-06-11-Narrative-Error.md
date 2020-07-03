@@ -9,7 +9,7 @@ tags:
 
 It's easy for young people to look down on elders watching Fox News, or their increasingly imitative lefty competitors, parroting ever more of their chosen network's narrative.  News is no longer news, no longer journalism, but adult story time, telling and retelling the same fables and yarns, filling in the details with current events.
 
-This is true, but no one's fit to throw the stones.  We all prefer to hear a story that we like, stop there, feel good, repeat to others, and see them nod along.  We all like to know the right answer, no matter what life throws at us.  As people, we crave praise and avoid accountability.  We don't want to answer to facts when we can triumph in fiction, especially when we can't pick the facts.
+This is true, but no one's fit to throw stones.  We all prefer to hear a story that we like, stop there, feel good, repeat to others, and see them nod along.  We all like to know the right answer, no matter what life throws at us.  As people, we crave praise and avoid accountability.  We don't want to answer to facts when we can triumph in fiction.  We can write fiction.  Changing facts is hard.
 
 Many readers of this blog work in free and open source software.  Many believe that free and open source software make the world a better place, serve the public interest, or advance great causes like human freedom.  Why?  Right or wrong, has it been tested?
 
