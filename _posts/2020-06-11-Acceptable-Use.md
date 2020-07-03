@@ -41,4 +41,6 @@ The expected approach is to write a list of don'ts right into the section.  But 
 >
 > 2.  You may not use this software for any purpose that we deem offensive, objectionable, or likely to disparage our good name in a notice to you.  You will have thirty days to stop using this software after receiving such a notice.
 
-If your code of conduct for users connects to your motivation, your marketing, and your ability to function more broadly, you can plug it into all relevant terms: for software, for service, for collaboration.  Rules are rules.  We can plug them into rule-shaped slots.
+If your code of conduct for users connects to your motivation, your marketing, and your ability to function more broadly, you can plug it into all relevant terms: for software, for service, for collaboration.
+
+Rules are rules.
