@@ -17,7 +17,7 @@ If the software the company provides as a service is open source, there's no suc
 
 Some companies don't care.  "Not our customer, not our problem."  But that breaks down in a few common ways.
 
-For even relatively profit-driven companies, association with disreputable people, groups, and content can take a marketing toll.  Companies don't want to see news stories connecting them to bad actors they've never heard of.  They don't want to see their project name and branding on sites that bring them disrepute, politically and commercially.  They don't want their recruiters trying to explain away associations.
+For even entirely profit-driven companies, association with disreputable people, groups, and content can take a marketing toll.  Companies don't want to see news stories connecting them to bad actors they've never heard of.  They don't want to see their project name and branding on sites that bring them disrepute, politically and commercially.  They don't want their recruiters trying to explain away associations.
 
 Company staff and other contributors to the company may also look beyond their day-to-day tasks to the impact of their work, for motivation.  Most people like to think that beyond earning them a paycheck, their work contributes to society more broadly.  In some fields, the nature of the work simply doesn't afford visibility into where the work goes, or whether it does good or not.  It has to be abstract, a leap of faith.  But in much of software, especially software used on the public Net, it's easy to find out where the work goes.  It may be part of the product itself to "phone home" for updates, security fixes, and telemetry, to begin with.
 
