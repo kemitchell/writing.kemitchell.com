@@ -11,7 +11,7 @@ tags:
 - Software as a Service
 ---
 
-Dig into the terms of service from nearly any company offering software as a service and you'll find something like an "Acceptable Use Policy".  These policies list things you may not do with the services, even if the software itself allows them.  Some are boring, like "don't break the law on our website".  Others veer more toward what we'd expect from a code of conduct, like "don't abuse other users" or "don't post morally reprehensible content".  Just in case the rules don't cover everything, nearly every provider reserves the right to boot people and content they don't like, for any or no reason.
+Dig into the terms of service from nearly any company offering software as a service and you'll find something like an "Acceptable Use Policy".  These policies list things you may not do with the services, even if the software itself allows them.  Some are boring, like "don't break the law on our website".  Others veer more toward what we'd expect from a code of conduct, like "don't abuse other users" or "don't post morally reprehensible content".  Just in case the rules don't cover everything, nearly every provider reserves the right to boot people and content they don't like, for any reason or none at all.
 
 If the software the company provides as a service is open source, there's no such list of don'ts in the license terms.  Perhaps the company makes software for hosting chat rooms.  In their chat rooms, they might ban racist diatribes.  But if you download the software and run it for yourself, the developer's acceptable use policy doesn't apply to your instance.  You can write, and allow, as many racist diatribes as you want.
 
