@@ -21,6 +21,6 @@ For years and years, I was glad to accept the narrative of open source as righte
 
 That insularity stunted my growth as a programmer, as a thinker, and as a human being.  I did not ask others what they wanted from software, except through oddly technical processes that technical people like me defined.  After all, I was the expert.  I told them what they ought to want from computing.  Which, it turned out, reflected my own desires: read source code, improve it, share it if I want, sell it if I don't.  [My four freedoms](https://www.gnu.org/philosophy/free-sw.html), [not theirs](https://en.wikipedia.org/wiki/Four_Freedoms).
 
-Alas, narrative error proves entirely general.  There's no natural limit to its effect on thinking life.  It can stunt us in matters large and small, work-wise, policy-wise, and every-wise.
+Alas, narrative error proves entirely general.  There's no natural limit to its warping effect on thinking life.  It can stunt us in matters large and small, work-wise, policy-wise, and every-wise.
 
 We can't be immune.  At best, we can be vigilant.  We can be disciplined.  We can be open ... to humility most of all.  We can test our stories, not by how much we like them, or how noble a hero they make us out to be, but in the eyes and experiences of others.  The others we're meant to serve.
