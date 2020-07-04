@@ -39,6 +39,6 @@ Others have paid rhetorical service to the emancipation of society more broadly,
 
 A great tide of freedom, incidentally, would be welcome not just outside of programming but also within it. For as we've seen, software's injustices afflict not just helpless muggles but also a great many very helpful developers.  Especially those who refuse, often for well informed moral reasons, to take jobs working for, or selling into, behemoth multinational firms.  Firms that gobble up free tools, libraries, and frameworks, in order to make and keep leverage over those they bill and monetize.
 
-On their face, the ethical concerns we're hearing in software these days differ markedly.  What does financial inequity among guildsmen have to do with the malign uses of software to profile civilians, stoke hatred, or pen refugees into camps?
+On their face, the ethical concerns we're hearing in software these days differ markedly.  What does financial inequity among fellow guildsmen have to do with the malign uses of software to profile civilians, stoke hatred, or pen refugees into camps?
 
 A common root.  When we give ourselves permission to trample others, and reinforce that moral blindness with a compelling slate of self-serving myths, we're as liable to wrong our own kind as any other.
