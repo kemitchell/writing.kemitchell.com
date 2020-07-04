@@ -1,9 +1,9 @@
 ---
 ---
 
-$dateWidth: 100px
-$datePadding: 36px
-$interPostPadding: 36px
+$dateWidth: 2rem
+$datePadding: 1rem
+$interPostPadding: 1rem
 $darkRed: #800000
 $lineHeight: 1.37
 
@@ -15,15 +15,13 @@ html, body
   background-color: #f8f8f8
   line-height: $lineHeight
 
-$pageWidth: 680px
-
 header[role=banner], main[role=main], footer[role=contentinfo]
   margin: 0 auto
+  padding: 0 1rem 0 1rem
 
 main[role=main]
-  padding-bottom: 100px
   img
-    max-width: $pageWidth
+    max-width: 100%
 
 header[role=banner]
   margin-top: $interPostPadding
@@ -33,14 +31,13 @@ header[role=banner]
     margin-top: $interPostPadding / 2
 
   h1, p
-    margin: 0 0 0 $datePadding + $interPostPadding
+    margin: 0 0 0
     line-height: 1.2
 
   h1
-    // padding-top: 100px + $interPostPadding
     padding-top: $interPostPadding
     font-family: "Concourse-T3"
-    font-size: 400%
+    font-size: 250%
 
   p
     color: #333
@@ -58,13 +55,15 @@ header[role=banner]
   a
     color: #800000
 
+header[role=banner], main[role=main], footer[role=contentinfo]
+  max-width: 30rem
+  box-sizing: border-box
+
 header[role=banner], main[role=main]
-  width: $pageWidth
   margin: 20px auto
   text-align: left
 
 footer[role=contentinfo]
-  width: $pageWidth
   clear: both
 
 h1
@@ -82,8 +81,10 @@ a
 
 ol.posts
   list-style-type: none
+  margin: 0
+  padding: 0
   &> li
-    padding: $interPostPadding $interPostPadding 0 $interPostPadding
+    padding: $interPostPadding 0 0 0
     .tags
       border-bottom: 1px solid #ddd
       padding-bottom: $interPostPadding
