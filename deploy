@@ -1,6 +1,7 @@
 #!/bin/sh
 set -e
 rm -rf _site
+find _posts -iname "*.bak" -exec rm -f '{}' \;
 bundler install --quiet
 bundler exec jekyll build --quiet
 rsync -4 -a --delete _site/ kyle@kemitchell.com:/var/www/writing.kemitchell.com/
