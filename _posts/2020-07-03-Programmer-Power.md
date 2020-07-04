@@ -7,7 +7,9 @@ tags:
 - Politics
 ---
 
-Nathan Schneider's [recent post on the ethical software movement](https://hackcur.io/organize-for-change-or-quit-your-job/) reminded me about an old quip about open source from Andrew Ross, quoted in E. Gabriella Coleman's _Coding Freedom_ back in 2006: "voices proclaiming freedom in every direction, but justice in none".
+Nathan Schneider's [recent post on the ethical software movement](https://hackcur.io/organize-for-change-or-quit-your-job/) reminded me about an old quip about open source from Andrew Ross, quoted in E. Gabriella Coleman's _Coding Freedom_ back in 2006:
+
+> voices proclaiming freedom in every direction, but justice in none
 
 That stung when I first read it, several years ago.  It stings, if anything, more deeply now.  Because it's not just that free and open source people talk a lot of talk about freedom, and very little about justice.  It's that even when free and open source people talk about freedom, they don't really mean freedom as such. They mean power, and specifically their own power.  The power of coders as a self-conscious class, backed by a faith in software itself as a universally positive, civilizing, progressive force, of which they represent an anointed clergy.
 
