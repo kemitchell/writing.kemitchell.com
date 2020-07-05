@@ -11,7 +11,7 @@ Nathan Schneider's [recent post on the ethical software movement](https://hackcu
 
 > voices proclaiming freedom in every direction, but justice in none
 
-That stung when I first read it, several years ago.  It stings, if anything, more deeply now.  Because it's not just that free and open source people talk a lot of talk about freedom, and very little about justice.  It's that even when free and open source people talk about freedom, they don't really mean freedom as such. They mean power, and specifically their own power.  The power of coders as a self-conscious class, backed by a faith in software itself as a universally positive, civilizing, progressive force, of which they represent an anointed clergy.
+That stung when I first read it, several years ago.  It stings, if anything, more deeply now.  Because it's not just that free and open source people talk a lot of talk about freedom, and very little about justice.  It's that even when free and open source people talk about freedom, they don't really mean freedom as such. They mean power, and specifically their own.  The power of coders as a self-conscious class, legitimized by a faith in software as a universally positive, civilizing, progressive force, of which they represent the anointed clergy.
 
 Try, if you can, to pretend you never heard the phrase "software freedom". Or replace it in your mind with some arbitrary placeholder, like "Macaroni". Now pretend you work for a dictionary company, as a lexicographer, and it's time to enter "Macaroni" into the next edition.  You head to your file of citations, for examples of use in the wild.
 
