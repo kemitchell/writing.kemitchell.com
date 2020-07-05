@@ -1,5 +1,6 @@
 ---
 title: Camp Fire Safety
+description: unrealiable notes from various sources
 ---
 
 - 2A-10BC fire extinguisher
