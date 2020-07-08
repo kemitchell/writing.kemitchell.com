@@ -1,6 +1,7 @@
 ---
 title: Colorado's Police Reform Law
 description: first-read highlights
+date: Wed 08 Jul 2020 11:49:21 AM PDT
 tags:
 - Police
 ---

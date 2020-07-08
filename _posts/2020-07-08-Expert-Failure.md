@@ -1,6 +1,7 @@
 ---
 title: Expert Failure
 description: lawyers learning from scientists
+date: Wed Jul 8 11:21:45 2020 -0700
 tags:
 - Legal Profession
 - COVID-19
