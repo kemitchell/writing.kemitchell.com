@@ -75,6 +75,7 @@ description: primary documents, timelines, and notes
   - [Measure LL](https://downloads.kemitchell.com/OPD/Measure LL.pdf)
 - [Police Commission](https://www.oaklandca.gov/boards-commissions/police-commission)
   - [2019 Annual Report](https://downloads.kemitchell.com/OPD/2019 Oakland Police Commission Annual Report.pdf)
+  - [June 8, 2020 Town Hall Meeting Transcript](https://downloads.kemitchell.com/OPD/2020-06-08 Police Commission Transcript.pdf)
 
 ## Sheriff
 - Gregory Ahern
