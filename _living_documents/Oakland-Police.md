@@ -50,7 +50,7 @@ description: primary documents, timelines, and notes
 ## Oakland Ballot Measures
 - [Measure Z](https://downloads.kemitchell.com/OPD/Measure Z.pdf)
 
-## Public Events
+## Notable Events
 - 2000 Riders Scandal
 - 2009 Killing of Oscar Grant (BART Police)
 - 2009 Fatal Shootings of Officers Dunakin, Hege, Romans, and Sakai
