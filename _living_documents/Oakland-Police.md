@@ -47,6 +47,9 @@ description: primary documents, timelines, and notes
 - Darren Allison (Acting)
 - Susan Manheimer (Interim)
 
+## Oakland Ballot Measures
+- [Measure Z](https://downloads.kemitchell.com/OPD/Measure Z.pdf)
+
 ## Public Events
 - 2000 Riders Scandal
 - 2009 Killing of Oscar Grant (BART Police)
