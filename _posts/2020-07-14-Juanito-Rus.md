@@ -31,6 +31,8 @@ Kevin Cantú
 
 Tasha Mente
 
+Rachel Beck
+
 Oaklanders, all.
 
 _To add your name to this open letter, [e-mail kyle@kemitchell.com](mailto:kyle@kemitchell.com)._
