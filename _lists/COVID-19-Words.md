@@ -13,6 +13,7 @@ title: COVID-19 Jargon Dashboard
 - Hand Hygiene
 - Herd Immunity
 - Intubation
+- Invisible Hurricane
 - KN95
 - N95
 - Quarantine
