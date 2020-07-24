@@ -51,6 +51,9 @@ description: primary documents, timelines, and notes
 - [Measure Z](https://downloads.kemitchell.com/OPD/Measure Z.pdf)
 
 ## Notable Events
+- 1968 Killing of Charles "Pinky" De Baca
+- 1976 Killing of Jose Barlow Benavidez
+- 1979 Killing of Melvin Black
 - 2000 Riders Scandal
 - 2009 Killing of Oscar Grant (BART Police)
 - 2009 Fatal Shootings of Officers Dunakin, Hege, Romans, and Sakai
@@ -170,6 +173,7 @@ description: primary documents, timelines, and notes
 ## Media
 - [The People and the Police: Oakland](https://www.youtube.com/watch?v=B-lhlB5r7Uw) (1974)
 - [The Force](https://www.netflix.com/title/80168198) (2017)
+- [How to Organize that Rage podcast](https://oaklandside.org/2020/07/24/oaklandside-east-bay-yesterday-police-violence-oakland/)
 
 ## Qualified Immunity
 
