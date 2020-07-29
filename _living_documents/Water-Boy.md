@@ -25,3 +25,16 @@ Criteria:
 - at least one carry handle
 - spout of some kind
 - blue color, preferably marked for water
+
+# Transportation
+
+Preferred:
+- own vehicle
+- GIG Car, as of 2020-07-29:
+  - $15.00 per hour
+  - roughly $0.45 per additional minute, depending on vehicle
+
+Criteria:
+- sufficient cargo room
+- safe and easy to load and unload, e.g. hatchback, low truck bed
+- can manage terrible Oakland industrial-zone roads
