@@ -12,6 +12,7 @@ Criteria:
 - handles chemicals and sediment
 - fits garden hoses
 - high throughput
+- resistant to bacteria when not in use
 
 ## Containers
 
