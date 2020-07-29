@@ -1,6 +1,6 @@
 ---
 title: Water Boy
-descriptions: supplying homeless campers with drinking water
+description: supplying homeless campers with drinking water
 ---
 
 ## Filters
