@@ -39,3 +39,13 @@ Criteria:
 - sufficient cargo room
 - safe and easy to load and unload, e.g. hatchback, low truck bed
 - can manage terrible Oakland industrial-zone roads
+
+## Communications
+
+Preferred:
+- [Twilio](https://twilio.com)
+
+Criteria:
+- forwards SMS text messages
+- forwards voice calls
+- can change the forwarding numbers
