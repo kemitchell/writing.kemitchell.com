@@ -2,9 +2,9 @@
 title: Oakland Homeless
 ---
 
-# City Housing Sites
+## City Housing Sites
 
-## Safe RV Parking Lots
+### Safe RV Parking Lots
 Locations:
 - 615 High Street
 - 711 71st Avenue
@@ -14,7 +14,7 @@ Notes:
 - staff, security, power, water, toilets, weekly shower, garbage, parking, pets
 - availability: Human Services Department
 
-## Community Cabin Sites
+### Community Cabin Sites
 Locations:
 - Miller (1449 Miller Avenue)
 - North and South (3401 Mandela Parkway)
@@ -24,7 +24,7 @@ Locations:
 Notes:
 - no children overnight
 
-## Congregate Shelters
+### Congregate Shelters
 Locations:
 - Saint Vincent De Paul (2272 San Pablo Avenue)
 - Crossroads (7515 International Boulevard)
@@ -32,7 +32,7 @@ Locations:
 Notes:
 - availability: at site
 
-# Lingo
+## Lingo
 
 <dl>
 <dt>Clean and Clear</dt>
