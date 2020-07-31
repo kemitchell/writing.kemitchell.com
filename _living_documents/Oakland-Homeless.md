@@ -38,6 +38,9 @@ Notes:
 <dt>Clean and Clear</dt><dd>Campers removed. Site cleared. Campers return.</dd>
 <dt>Closure</dt><dd>Campers removed. Campers do not return.</dd>
 <dt>Encampment Management Team (EMT)</dt><dd markdown="1">team of representatives from public works, human services, police, fire, and city administrator that make decisions under the city's encampment management policies</dd>
+<dt>Cleaning</dt><dd markdown="1">new term for "clean and clear"</dd>
+<dt>Deep Cleaning</dt><dd markdown="1">new term for "clean and clear"</dd>
+<dt>Decompression</dt><dd>CDC term for partial camp closure</dd>
 </dl>
 
 ## City Contacts
