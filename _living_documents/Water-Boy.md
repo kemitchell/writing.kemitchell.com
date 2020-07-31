@@ -13,6 +13,8 @@ Criteria:
 - fits garden hoses
 - high throughput
 - resistant to bacteria when not in use
+- NSF/ANSI 42 Aesthetic Effects (chrlorine, taste, odor)
+- NSF/ANSI 53 Health Effects (lead)
 
 ## Containers
 
