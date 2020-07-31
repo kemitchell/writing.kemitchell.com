@@ -39,3 +39,27 @@ Notes:
 <dt>Closure</dt><dd>Campers removed. Campers do not return.</dd>
 <dt>Encampment Management Team (EMT)</dt><dd>team of representatives from public works, human services, police, fire, and city administrator that make decisions under the city's encampment management policies</dd>
 </dt>
+
+## City Contacts
+- Administrator's Office
+  - Daryel Dunston
+  - Joe DeVries
+- Public Works
+  - David Ferguson
+  - Frank Foster
+  - Leland Moore
+  - Peter Dunlap
+  - Ivan Satterfield
+- Police
+  - John Perrodin
+  - Dwayne Jusino
+- Community Housing Services
+  - Lara Tannenbaum
+  - Talia Rubin
+- Fire
+  - Orlando Arriola
+  - Emmanuel Watson
+  - Javan Smith
+  - Pete Stathakos
+- Mayor's Office
+  - Peter Radu
