@@ -7,7 +7,7 @@ tags:
 - Law
 ---
 
-On the heels of [Colorado's sweeping police-reform bill](/2020/07/08/Colorado-Police-Law.html), Connecticut has just passed its own new law, "An Act Concerning Police Accountability", number 6004.
+On the heels of [Colorado's sweeping police-reform bill](/2020/07/08/Colorado-Police-Law.html), Connecticut has just passed [its own new law, "An Act Concerning Police Accountability", number 6004](https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2020&bill_num=6004).
 
 Here are my notes from my first quick read through.  I'm particularly struck by their adoption of a cause of action for violations of rights, along with limits on qualified immunity, as we also saw in Colorado.
 
