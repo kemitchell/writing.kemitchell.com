@@ -4,6 +4,7 @@ description: first-read highlights
 date: Wed 08 Jul 2020 11:49:21 AM PDT
 tags:
 - Police
+- Law
 ---
 
 Colorado recently passed a sweeping police-reform law, Senate Bill 20-217, "Concerning Measures to Enhance Law Enforcement Integrity, And, In Connection Therewith, Making an Appropriation".  Here are my notes of highlights:
