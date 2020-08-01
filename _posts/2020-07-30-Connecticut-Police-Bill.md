@@ -1,6 +1,6 @@
 ---
 title: Connecticut's Police Bill
-description: first-year highlights
+description: first-read highlights
 date: Fri 31 Jul 2020 05:25:48 PM PDT
 tags:
 - Police
