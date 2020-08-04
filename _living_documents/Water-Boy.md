@@ -19,8 +19,8 @@ Criteria:
 ## Containers
 
 Preferred:
-- [Igloo #00042154](https://www.igloocoolers.com/products/42154-6-gallon-water-container-ii-blue)
-- [Scepter #04933](https://scepter.com/products/consumer-products/5-gallon-20-litre-water-can/)
+- [Igloo #00042154](https://www.igloocoolers.com/products/42154-6-gallon-water-container-ii-blue), made in Texas
+- [Scepter #04933](https://scepter.com/products/consumer-products/5-gallon-20-litre-water-can/), made in Canada
 
 Criteria:
 - high capacity, in the 20 liter range, but not much more
