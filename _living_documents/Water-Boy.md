@@ -3,7 +3,7 @@ title: Water Boy
 description: supplying homeless campers with drinking water
 ---
 
-## Filters
+<h2 id="filters">Filters</h2>
 
 Preferred:
 - [Camco 40043](http://www.camco.net/tastepure-water-filter-kdf-w-flexible-hose-protector-llc-40043)
@@ -16,7 +16,7 @@ Criteria:
 - NSF/ANSI 42 Aesthetic Effects (chrlorine, taste, odor)
 - NSF/ANSI 53 Health Effects (lead)
 
-## Containers
+<h2 id="containers">Containers</h2>
 
 Preferred:
 - [Scepter #04933](https://scepter.com/products/consumer-products/5-gallon-20-litre-water-can/), made in Canada
@@ -29,7 +29,7 @@ Criteria:
 - spout of some kind
 - blue color, preferably marked for water
 
-## Transportation
+<h2 id="transportation">Transportation</h2>
 
 Preferred:
 - own vehicle
@@ -42,7 +42,7 @@ Criteria:
 - safe and easy to load and unload, e.g. hatchback, low truck bed
 - can manage terrible Oakland industrial-zone roads
 
-## Communications
+<h2 id="communications">Communications</h2>
 
 Preferred:
 - [Twilio](https://twilio.com)
@@ -52,7 +52,7 @@ Criteria:
 - forwards voice calls
 - can change the forwarding numbers
 
-## Fire Extinguishers
+<h2 id="extinguishers">Extinguishers</h2>
 
 Preferred:
 - [Amerex B500](https://amerexfireextinguishers.com/products/amerex-5lb-abc-b500?variant=34999427281)
