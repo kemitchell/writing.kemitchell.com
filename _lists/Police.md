@@ -3,11 +3,13 @@ title: Police Reading List
 ---
 
 ## Events
-- Watts
-- Rodney King
-- Ferguson
-- Standing Rock
-- George Floyd
+- [Watts](https://en.wikipedia.org/wiki/Watts_riots)
+- [Rodney King](https://en.wikipedia.org/wiki/Rodney_King)
+- [Jon Burge](https://en.wikipedia.org/wiki/Jon_Burge)
+- [Rampart Scandal](https://en.wikipedia.org/wiki/Rampart_scandal)
+- [Michael Brown (Ferguson)](https://en.wikipedia.org/wiki/Shooting_of_Michael_Brown)
+- [Standing Rock](https://en.wikipedia.org/wiki/Dakota_Access_Pipeline_protests)
+- [George Floyd (Minneapolis)](https://en.wikipedia.org/wiki/George_Floyd)
 
 ## Print
 - Balko's _Rise of the Warrior Cop_
