@@ -8,6 +8,10 @@ description: supplying homeless campers with drinking water
 Preferred:
 - [Camco 40043](http://www.camco.net/tastepure-water-filter-kdf-w-flexible-hose-protector-llc-40043)
 
+Buying:
+- Don't pay more than $25 or so. (Last Updated: August 2020)
+- If Amazon doesn't have them, try WalMart.com.
+
 Criteria:
 - handles chemicals and sediment
 - fits garden hoses
@@ -21,6 +25,12 @@ Criteria:
 Preferred:
 - [Scepter #04933](https://scepter.com/products/consumer-products/5-gallon-20-litre-water-can/), made in Canada
 - [Igloo #00042154](https://www.igloocoolers.com/products/42154-6-gallon-water-container-ii-blue), made in Texas
+
+Buying:
+- Both are sometimes available on Amazon Prime.
+- Don't pay more than $25 for a Scepter or $20 for an Igloo. (Last Updated: August 2020)
+- [NorthernTool.com](https://northerntool.com) carries Scepter.
+- Expect huge shipping boxes.
 
 Criteria:
 - high capacity, in the 20 liter range, but not much more
@@ -57,6 +67,10 @@ Criteria:
 Preferred:
 - [Amerex B500](https://amerexfireextinguishers.com/products/amerex-5lb-abc-b500?variant=34999427281)
 - [Amerex B402](https://amerexfireextinguishers.com/products/amerex-5lb-abc-b402?variant=34999427857)
+
+Buying:
+- Don't pay more than $55. (Last Updated: August 2020)
+- Often available in sets at a significant per-unit discount. (Last Updated: August 2020)
 
 Criteria:
 - red color
