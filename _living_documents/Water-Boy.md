@@ -24,7 +24,17 @@ Criteria:
 
 Preferred:
 - [Scepter #04933](https://scepter.com/products/consumer-products/5-gallon-20-litre-water-can/), made in Canada
+  - smaller capacity
+  - seals watertight
+  - lighter blue color easier to mark
+  - just one top handle
+  - sturdier caps
 - [Igloo #00042154](https://www.igloocoolers.com/products/42154-6-gallon-water-container-ii-blue), made in Texas
+  - larger capacity
+  - vent hole does not seal
+  - darker blue color harder to mark
+  - two handles
+  - caps easy to crack by overtightening
 
 Buying:
 - Both are sometimes available on Amazon Prime.
