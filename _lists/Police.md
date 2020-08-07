@@ -2,6 +2,13 @@
 title: Police Reading List
 ---
 
+## Events
+- Watts
+- Rodney King
+- Ferguson
+- Standing Rock
+- George Floyd
+
 ## Print
 - Balko's _Rise of the Warrior Cop_
 - Plantinga's _400 Things Cops Know_
