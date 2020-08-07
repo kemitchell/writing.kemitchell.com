@@ -51,3 +51,15 @@ Criteria:
 - forwards SMS text messages
 - forwards voice calls
 - can change the forwarding numbers
+
+## Fire Extinguishers
+
+Preferred:
+- [Amerex B500](https://amerexfireextinguishers.com/products/amerex-5lb-abc-b500?variant=34999427281)
+- [Amerex B402](https://amerexfireextinguishers.com/products/amerex-5lb-abc-b402?variant=34999427857)
+
+Criteria:
+- red color
+- five pounds of powder
+- 2A:10B:C rated, minimum
+- metal operating parts
