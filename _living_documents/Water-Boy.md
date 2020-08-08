@@ -26,21 +26,21 @@ Preferred:
   - caps easy to crack by overtightening
 
 Buying:
-- Both are sometimes available on Amazon Prime.
+- Both are available on Amazon Prime from time to time. (Last Updated: August 2020)
 - Don't pay more than $25 for a Scepter or $20 for an Igloo. (Last Updated: August 2020)
-- [NorthernTool.com](https://northerntool.com) carries Scepter.
+- [NorthernTool.com](https://northerntool.com) carries Scepter. (Last Updated: August 2020)
 - Expect huge shipping boxes.
 
 Criteria:
-- high capacity, in the 20 liter range, but not much more
-- durable
+- high capacity, around 20 liters, but not much more
+- durable, no flimsy plastic or collapsible designs
 - at least one carry handle
 - spout of some kind
-- blue color, preferably marked for water
+- blue color, marked for water only
 
 <h2 id="extinguishers">Fire Extinguishers</h2>
 
-distributed to campers to keep themselves and their places safe
+help campers to keep themselves and their places safe
 
 Preferred:
 - [Amerex B500](https://amerexfireextinguishers.com/products/amerex-5lb-abc-b500?variant=34999427281) (Amazon Prime)
@@ -53,10 +53,11 @@ Buying:
 - Often available in sets at a significant per-unit discount. (Last Updated: August 2020)
 
 Criteria:
-- red color
 - five pounds of powder
 - 2A:10B:C rated, minimum
-- metal operating parts
+- pressure gauge
+- solid construction, metal operating parts
+- red color
 
 <h2 id="filters">Water Filters</h2>
 
@@ -74,7 +75,7 @@ Criteria:
 - fits garden hoses
 - high throughput
 - resistant to bacteria when not in use
-- NSF/ANSI 42 Aesthetic Effects (chrlorine, taste, odor)
+- NSF/ANSI 42 Aesthetic Effects (chlorine, taste, odor)
 - NSF/ANSI 53 Health Effects (lead)
 
 <h2 id="transportation">Transportation</h2>
