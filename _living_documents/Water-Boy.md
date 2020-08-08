@@ -75,10 +75,10 @@ Criteria:
 <h2 id="extinguishers">Extinguishers</h2>
 
 Preferred:
-- [Amerex B500](https://amerexfireextinguishers.com/products/amerex-5lb-abc-b500?variant=34999427281)
-- [Amerex B402](https://amerexfireextinguishers.com/products/amerex-5lb-abc-b402?variant=34999427857)
-- [First Alert PRO5](https://www.firstalert.com/product/rechargeable-heavy-duty-plus-fire-extinguisher-ul-rated-3-a40-bc-red/)
-- [Badger 5MB-6H](http://www.badgerfire.com/Documents/SCREEN_ABC_STANDARD.pdf)
+- [Amerex B500](https://amerexfireextinguishers.com/products/amerex-5lb-abc-b500?variant=34999427281) (Amazon Prime)
+- [Amerex B402](https://amerexfireextinguishers.com/products/amerex-5lb-abc-b402?variant=34999427857) (Amazon Prime)
+- [Badger 5MB-6H](http://www.badgerfire.com/Documents/SCREEN_ABC_STANDARD.pdf) ([Battalion One](https://www.battaliononefire.com/) in San Leandro)
+- [First Alert PRO5](https://www.firstalert.com/product/rechargeable-heavy-duty-plus-fire-extinguisher-ul-rated-3-a40-bc-red/) (Amazon)
 
 Buying:
 - Don't pay more than $55. (Last Updated: August 2020)
