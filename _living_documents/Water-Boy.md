@@ -5,6 +5,8 @@ description: supplying homeless campers with critical basics
 
 This page lists battle-tested basics for serving unhoused friends and neighbors here in Oakland, California.
 
+Jump To: [Water Containers](#containers), [Fire Extinguishers](#extinguishers), [Water Filters](#filters), [Transportation](#transportation), [Communications](#communications)
+
 <h2 id="containers">Water Containers</h2>
 
 transport and store drinking water
