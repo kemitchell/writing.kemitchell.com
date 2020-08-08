@@ -1,6 +1,6 @@
 ---
 title: Water Boy
-description: supplying homeless campers with drinking water
+description: supplying homeless campers with critical basics
 ---
 
 <h2 id="containers">Containers</h2>
