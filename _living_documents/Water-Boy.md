@@ -3,23 +3,6 @@ title: Water Boy
 description: supplying homeless campers with drinking water
 ---
 
-<h2 id="filters">Filters</h2>
-
-Preferred:
-- [Camco 40043](http://www.camco.net/tastepure-water-filter-kdf-w-flexible-hose-protector-llc-40043)
-
-Buying:
-- Don't pay more than $25 or so. (Last Updated: August 2020)
-- If Amazon doesn't have them, try WalMart.com.
-
-Criteria:
-- handles chemicals and sediment
-- fits garden hoses
-- high throughput
-- resistant to bacteria when not in use
-- NSF/ANSI 42 Aesthetic Effects (chrlorine, taste, odor)
-- NSF/ANSI 53 Health Effects (lead)
-
 <h2 id="containers">Containers</h2>
 
 Preferred:
@@ -66,6 +49,23 @@ Criteria:
 - five pounds of powder
 - 2A:10B:C rated, minimum
 - metal operating parts
+
+<h2 id="filters">Filters</h2>
+
+Preferred:
+- [Camco 40043](http://www.camco.net/tastepure-water-filter-kdf-w-flexible-hose-protector-llc-40043)
+
+Buying:
+- Don't pay more than $25 or so. (Last Updated: August 2020)
+- If Amazon doesn't have them, try WalMart.com.
+
+Criteria:
+- handles chemicals and sediment
+- fits garden hoses
+- high throughput
+- resistant to bacteria when not in use
+- NSF/ANSI 42 Aesthetic Effects (chrlorine, taste, odor)
+- NSF/ANSI 53 Health Effects (lead)
 
 <h2 id="transportation">Transportation</h2>
 
