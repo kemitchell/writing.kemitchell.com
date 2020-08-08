@@ -3,7 +3,11 @@ title: Water Boy
 description: supplying homeless campers with critical basics
 ---
 
-<h2 id="containers">Containers</h2>
+This page lists battle-tested basics for serving unhoused friends and neighbors here in Oakland, California.
+
+<h2 id="containers">Water Containers</h2>
+
+transport and store drinking water
 
 Preferred:
 - [Scepter #04933](https://scepter.com/products/consumer-products/5-gallon-20-litre-water-can/), made in Canada
@@ -32,7 +36,9 @@ Criteria:
 - spout of some kind
 - blue color, preferably marked for water
 
-<h2 id="extinguishers">Extinguishers</h2>
+<h2 id="extinguishers">Fire Extinguishers</h2>
+
+distributed to campers to keep themselves and their places safe
 
 Preferred:
 - [Amerex B500](https://amerexfireextinguishers.com/products/amerex-5lb-abc-b500?variant=34999427281) (Amazon Prime)
@@ -50,7 +56,9 @@ Criteria:
 - 2A:10B:C rated, minimum
 - metal operating parts
 
-<h2 id="filters">Filters</h2>
+<h2 id="filters">Water Filters</h2>
+
+cleans water going into [containers](#containers) for distribution
 
 Preferred:
 - [Camco 40043](http://www.camco.net/tastepure-water-filter-kdf-w-flexible-hose-protector-llc-40043)
@@ -69,6 +77,8 @@ Criteria:
 
 <h2 id="transportation">Transportation</h2>
 
+moves [containers](#containers) and [extinguishers](#extinguishers) to camps
+
 Preferred:
 - own vehicle
 - GIG Car, as of 2020-07-29:
@@ -81,6 +91,8 @@ Criteria:
 - can manage terrible Oakland industrial-zone roads
 
 <h2 id="communications">Communications</h2>
+
+receives requests back to exchange empty containers for full ones
 
 Preferred:
 - [Twilio](https://twilio.com)
