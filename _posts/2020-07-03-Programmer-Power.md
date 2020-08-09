@@ -13,7 +13,7 @@ Nathan Schneider's [recent post on the ethical software movement](https://hackcu
 
 That stung when I first read it, several years ago.  It stings, if anything, more deeply now.  Because it's not just that free and open source people talk a lot of talk about freedom, and very little about justice.  It's that even when free and open source people talk about freedom, they don't really mean freedom as such. They mean power, and specifically their own.
 
-Present, if you can, that you never heard the phrase "software freedom". Or replace it in your mind with some arbitrary placeholder, like "Macaroni". Now pretend you work for a dictionary company and it's time to enter "Macaroni" into the next edition.  You head to your file of citations for examples of use in the wild.
+Pretend, if you can, that you never heard the phrase "software freedom". Or replace it in your mind with some arbitrary placeholder, like "Macaroni". Now pretend you work for a dictionary company and it's time to enter "Macaroni" into the next edition.  You head to your file of citations for examples of use in the wild.
 
 Where do people use the term? Why do they use it? What do they appear to mean by it, not according to their own definitions, but according to usage, in practice? Your job isn't to report what some community says a word means, but what they mean when they say it.
 
