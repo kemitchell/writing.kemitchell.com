@@ -45,4 +45,4 @@ A great tide of freedom, incidentally, would be welcome not just outside of prog
 
 On their face, the ethical concerns we're hearing in software these days differ markedly.  What does financial inequity among fellow tradesmen have to do with the malign uses of software to profile civilians, stoke hatred, or pen refugees into camps?
 
-A common root.  When we give ourselves permission to trample others, and reinforce that self-serving indifference with a compelling slate of compelling myths, we're as liable to wrong our own kind as any other.
+A common root.  When we give ourselves permission to trample others, and reinforce that self-serving indifference with a compelling slate of enabling myths, we're as liable to wrong our own kind as any other.
