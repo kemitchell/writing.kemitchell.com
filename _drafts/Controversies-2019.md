@@ -31,7 +31,7 @@ Lots of controversy about SSPL has focused not so much on the license itself, bu
 
 My Take:  Businesses need stronger copyleft licenses.  Starting from that baseline, exceptions to copyleft for applications developed with their software should we welcome.  That was certainly the case at the dawn of "open source" when Netscape pioneered the approach to make its web browser open, permitting closed plugins, to keep it competitive with Internet Explorer without simply handing competitors permission to fork or beat them with their own code.  That kind of license isn't easy to write, and design choices for SSPL, like writing it as a fork of AGPL, all but guaranteed an impenetrable, alienating text.
 
-Other Writing: 
+Other Writing:
 
 - [_The Copyleft Bust-Up_](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html)
 - [_SSPL Was Not Commons Clause_](https://writing.kemitchell.com/2019/06/13/SSPL-Not-Commons-Clause.html)
@@ -60,7 +60,7 @@ My Take:  Free Software licenses began as ethical licenses.  A great deal of cod
 
 Other Writing:
 
-- [_Talking Points: Ethical Licenses_](https://talkingpoints.kemitchell.com/ethical-licenses.html)
+- [_Talking Points: Ethical Licenses_](https://writing.kemitchell.com/living/Ethical-Licenses-Talking-Points.html)
 - [_Ethical Subcommons Starter Kit_](https://writing.kemitchell.com/2019/03/15/Ethical-Subcommons.html)
 
 <h2 id="api">API Derivative Works</h2>
