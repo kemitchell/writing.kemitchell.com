@@ -14,7 +14,7 @@ But she also sued Amazon, which cannot exactly skip town tomorrow.  Amazon has c
 
 Reading the recent California appeals decision in _Angela Bolger v. Amazon_ (superior court case number 37-2017-00003009-CCU-PL-CTL), I'm struck by just how much "but we're a platform" reminds me of "but it's a utility token".  Both come out when people try to hold tech companies accountable under the law, often in totally predictable ways.  Both have lost whatever magic they once held.
 
-The companies plead, in effect, that they're not the kinds of businesses the rules apply to.  They're _in_ transportation, or retail, or investments, or finance, they have to admit.  Their ads and IPO filings say so.  But they don't actually _do_ those things, they say.  They do websites.  Or apps.  Or platforms.  Or "revolutionary information services".  Special, ethereal, exceptional things.  Incantations in free air.  Functional poetry in the realm of the mind.
+The companies plead, in effect, that they're not the kinds of businesses the rules apply to.  They're _in_ transportation, or retail, or investments, or finance, they have to admit.  Their ads and IPO filings tell.  But they don't actually _do_ those things, they say.  They do websites.  Or apps.  Or platforms.  Or "revolutionary information services".  Special, ethereal, exceptional things.  Incantations in free air.  Functional poetry in the realm of the mind.
 
 It's particularly easy to see this pretense laid bear in an opinion like _Bolger_, when the company gets thumped.
 
