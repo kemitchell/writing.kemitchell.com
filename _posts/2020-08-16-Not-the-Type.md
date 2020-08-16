@@ -1,6 +1,6 @@
 ---
 title: Not the Type
-description: tech exceptionalism words and phrases
+description: tech exceptionalism in limp words and phrases
 date: Sun 16 Aug 2020 01:45:44 AM PDT
 tags:
 - Policy
