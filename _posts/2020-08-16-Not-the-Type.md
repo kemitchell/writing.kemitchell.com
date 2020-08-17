@@ -16,7 +16,7 @@ Reading the recent California appeals decision in _Angela Bolger v. Amazon_ (sup
 
 The companies plead, in effect, that they're not the kinds of businesses the rules apply to.  They're _in_ transportation, or retail, or investments, or finance, they have to admit.  Their ads and IPO filings tell.  But they don't actually _do_ those things, they say.  They do websites.  Or apps.  Or platforms.  Or "revolutionary information services".  Special, ethereal, exceptional things.  Incantations in free air.  Functional poetry in the realm of the mind.
 
-It's particularly easy to see this pretense laid bear in an opinion like _Bolger_, when the company gets thumped.
+It's particularly easy to see this pretense laid bare in an opinion like _Bolger_, when the company gets thumped.
 
 Amazon lost its appeal flat-out on the main question: Does California product liability law, which holds manufacturers and distributors responsible for physical harm from defective products, apply to Amazon and Ms. Bolger's blow-up battery?  The answer, to read the court tell it, is yes.  And for pretty much all of the reasons.  For one, that's the rule.  For two, all the reasons we have the rule in the first place say Amazon _doesn't_ get any free pass for being on the Internet or magic pocket rectangles.  Exactly the opposite.
 
