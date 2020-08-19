@@ -64,6 +64,7 @@ description: primary documents, timelines, and notes
 - 2018 Shooting of Joshua Pawlik
   - [CBS Video](https://www.youtube.com/watch?v=GHbjj_pigN0)
   - [Federal Court Ruling Upholding Termination](https://downloads.kemitchell.com/OPD/2020-06-16 Negrete v Oakland.pdf)
+  - [Federal Monitor Report](https://downloads.kemitchell.com/OPD/2020-08-17 Monitor Report on Pawlik Shooting.pdf)
 - 2020 Protests
   - Class Action 3:20-cv-03866
     - [Complaint](https://downloads.kemitchell.com/OPD/3:20-cv-03866%20complaint.pdf)
