@@ -1,7 +1,7 @@
 ---
 title: Amateur Open Econ Toolkit
 description: compendium of concepts, theories, and theorists
-tags
+tags:
 - Open Software
 - Economics
 - Sustainability
