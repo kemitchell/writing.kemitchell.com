@@ -71,6 +71,16 @@ Skip To: [Litigators](#litigators), [Transactional Lawyers](#transactional-lawye
 
 - <dfn id="lobbyists" markdown="1">Lobbyists</dfn> (who are not all lawyers) influence government officials in favor of their clients.
 
+## Practice Size
+
+- <dfn id="sole-practitioners" markdown="1">Sole Practitioners</dfn> work on their own, without any colleagues.  They may set up their practices as firms or professional corporations (PCs).  They may also hire administrative or other staff, or even other lawyers on contract.  But for the most part, they're independent professionals flying solo.  Sole practitioners often charge less than other kinds of lawyers, but have to refer clients to other lawyers and firms for needs outside their practice areas.
+
+- <dfn id="small-firm-lawyers" markdown="1">Small Firm Lawyers</dfn> work at law firms with two or more partners.
+
+- <dfn id="boutique-firm-lawyers">Boutique Firm Lawyers</dfn> work for small or middle-sized law firms that specialize in a particular niche.  Some boutique firms are made up entirely of lawyers in the same [area](#area).  Others combine lawyers in related areas.  For example, a patent boutique firm might combine patent litigators, patent prosecutors, and transactional lawyers specializing in patent licensing and patent portfolio strategy.
+
+- <dfn id="big-law-lawyers" markdown="1">Big Law Lawyers</dfn> work for large, often national or multinational law firms with hundreds or even thousands of lawyers.  Big law firms typically charge more than other kinds of lawyers, but offer the widest variety of lawyers across practice areas and specialties, presence in multiple countries, and the largest capacity to staff large projects with hordes of legal manpower.
+
 ## Work Environment
 
 - Lawyers in <dfn id="private-practice" markdown="1">Private Practice</dfn> work for themselves, or for law firms, that represent one or more different clients.
