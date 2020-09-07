@@ -7,6 +7,8 @@ description: family tree and terminology
 
 Most lawyers fit somewhere in the following outline.  However, some attorneys span multiple specialties and types.  For example, some mergers and acquisitions lawyers are also civil litigators.
 
+Skip To: [Litigators](#litigators), [Transactional Lawyers](#transactional-lawyers), [Neutrals](#neutrals), [Lobbyists](#lobbyists)
+
 - <dfn id="litigators" markdown="1">Litigators</dfn> represent clients in disputes decided by neutrals.
 
   - <dfn id="civil-litigators" markdown="1">Civil Litigators</dfn> represent clients in lawsuits in civil court, as well as various kind of alternative dispute resolution.  Some civil litigators specialize in particular areas of law or kinds of clients.  For example:
