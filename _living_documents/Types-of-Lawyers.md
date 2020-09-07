@@ -3,84 +3,84 @@ title: Types of Lawyers
 description: family tree and terminology
 ---
 
-## Practice Types
+## Areas
 
-Most lawyers fit somewhere in the following outline.  However, some attorneys span multiple specialities and practice types.  For example, some mergers and acquisitions lawyers are also civil litigators.
+Most lawyers fit somewhere in the following outline.  However, some attorneys span multiple specialties and types.  For example, some mergers and acquisitions lawyers are also civil litigators.
 
-- **Litigators** represent clients in disputes decided by neutrals.
+- <dfn id="litigators" markdown="1">Litigators</dfn> represent clients in disputes decided by neutrals.
 
-  - **Civil Litigators** represent clients in lawsuits in civil court, as well as various kind of alternative dispute resolution.  Some civil litigators specialize in particular areas of law or kinds of clients.  For example:
+  - <dfn id="civil-litigators" markdown="1">Civil Litigators</dfn> represent clients in lawsuits in civil court, as well as various kind of alternative dispute resolution.  Some civil litigators specialize in particular areas of law or kinds of clients.  For example:
 
-    - **Family Lawyers** focus on marriage, divorce, custody, adoption, paternity, and related issues.
+    - <dfn id="family-lawyers" markdown="1">Family Lawyers</dfn> focus on marriage, divorce, custody, adoption, paternity, and related issues.
 
-    - **Commercial Litigators** focus on breach-of-contract and other business lawsuits.
+    - <dfn id="commercial-litigators" markdown="1">Commercial Litigators</dfn> focus on breach-of-contract and other business lawsuits.
 
-    - **Patent Litigators** represent clients in patent-infringement lawsuits.  They often specialize to the offensive (plaintiff) or defensive (defendant) side.
+    - <dfn id="patent-litigators" markdown="1">Patent Litigators</dfn> represent clients in patent-infringement lawsuits.  They often specialize to the offensive (plaintiff) or defensive (defendant) side.
 
-  - **Criminal Litigators** represent clients or the government in criminal court.
+  - <dfn id="criminal-litigators" markdown="1">Criminal Litigators</dfn> represent clients or the government in criminal court.
 
-    - **Public Defenders** work for the government representing criminal defendants.
+    - <dfn id="public-defenders" markdown="1">Public Defenders</dfn> work for the government representing criminal defendants.
 
-    - **District Attorneys**, **State's Attorneys**, and **United States Attorneys** work for the government representing governments and prosecuting defendants, as **Prosecutors**.
+    - <dfn id="district-attorneys" markdown="1">District Attorneys</dfn>, <dfn id="states-attorneys" markdown="1">State's Attorneys</dfn>, and <dfn id="united-states-attorneys" markdown="1">United States Attorneys</dfn> work for the government representing governments and prosecuting defendants, as <dfn id="prosecutors" markdown="1">Prosecutors</dfn>.
 
-  - **Administrative Litigators** represent clients before regulatory agencies.
+  - <dfn id="administrative-litigators" markdown="1">Administrative Litigators</dfn> represent clients before regulatory agencies.
 
-- **Transactional Lawyers** advise and represent clients outside disputes decided by government institutions.  They typically specialize in a narrow field of law, like real estate tax, or the broader needs of an industry, like construction.  Here are just a few:
+- <dfn id="transactional-lawyers" markdown="1">Transactional Lawyers</dfn> advise and represent clients outside disputes decided by government institutions.  They typically specialize in a narrow field of law, like real estate tax, or the broader needs of an industry, like construction.  Here are just a few:
 
-  - **Corporate Lawyers** help clients set up and reorganize corporations and sometimes other kinds of legal entities, like limited liability companies and trusts.
+  - <dfn id="corporate-lawyers" markdown="1">Corporate Lawyers</dfn> help clients set up and reorganize corporations and sometimes other kinds of legal entities, like limited liability companies and trusts.
 
-  - **Employment Lawyers** advise on compliance with wage, hour, insurance, safety, discrimination, and other work-related regulations.
+  - <dfn id="employment-lawyers" markdown="1">Employment Lawyers</dfn> advise on compliance with wage, hour, insurance, safety, discrimination, and other work-related regulations.
 
-  - **Labor Lawyers** help companies, unions, and other kinds of organizations negotiate and comply with collective bargaining agreements.
+  - <dfn id="labor-lawyers" markdown="1">Labor Lawyers</dfn> help companies, unions, and other kinds of organizations negotiate and comply with collective bargaining agreements.
 
-  - **Mergers and Acquisitions** lawyers help clients merge their businesses or buy others' businesses.
+  - <dfn id="merges-and-acquisitions-lawyers" markdown="1">Mergers and Acquisitions Lawyers</dfn> help clients merge their businesses or buy others' businesses.
 
-  - **Intellectual Property Lawyers** focus on particular kinds of intellectual property, like copyrights, patents, trademarks, and trade secrets.
+  - <dfn id="intellectual-property-lawyers" markdown="1">Intellectual Property Lawyers</dfn> focus on particular kinds of intellectual property, like copyrights, patents, trademarks, and trade secrets.
 
-    - **Copyright Lawyers** focus on copyright issues, often focusing on a particular industry like music, film, or software.
+    - <dfn id="copyright-lawyers" markdown="1">Copyright Lawyers</dfn> focus on copyright issues, often focusing on a particular industry like music, film, or software.
 
-    - **Trademark Lawyers** help clients apply for and protect trademarks and service marks.
+    - <dfn id="trademark-lawyers" markdown="1">Trademark Lawyers</dfn> help clients apply for and protect trademarks and service marks.
 
-    - **Patent Prosecutors** write and apply for patents for clients.
+    - <dfn id="patent-prosecutors" markdown="1">Patent Prosecutors</dfn> write and apply for patents for clients.
 
-  - **Securities Lawyers** help clients comply with rules and regulations about selling stock, debt, and other kinds of investments.
+  - <dfn id="securities-lawyers" markdown="1">Securities Lawyers</dfn> help clients comply with rules and regulations about selling stock, debt, and other kinds of investments.
 
-  - **Tax Lawyers** advise on how to comply with tax laws and minimize tax burdens.
+  - <dfn id="tax-lawyers" markdown="1">Tax Lawyers</dfn> advise on how to comply with tax laws and minimize tax burdens.
 
-  - **Technology Transactions Lawyers** help clients negotiate contracts, licenses, .
+  - <dfn id="technology-transactions-lawyers" markdown="1">Technology Transactions Lawyers</dfn> help clients negotiate contracts, licenses, .
 
-  - **Trusts and Estates Lawyers** help clients creates wills and other legal tools to manage their money and property when they die or can't manage their own lives anymore.
+  - <dfn id="trusts-and-estates-lawyers" markdown="1">Trusts and Estates Lawyers</dfn> help clients creates wills and other legal tools to manage their money and property when they die or can't manage their own lives anymore.
 
-- **Neutrals** resolve disputes.
+- <dfn id="neutrals" markdown="1">Neutrals</dfn> resolve disputes.
 
-  - **Judges** decide court cases.
+  - <dfn id="judges" markdown="1">Judges</dfn> decide court cases.
 
-    - **Trial Court Judges** decide court cases when they first come to court.
+    - <dfn id="trial-court-judges" markdown="1">Trial Court Judges</dfn> decide court cases when they first come to court.
 
-    - **Appellate Judges** and **Justices** decide appeals.
+    - <dfn id="appellate-judges" markdown="1">Appellate Judges</dfn> and <dfn id="justices" markdown="1">Justices</dfn> decide appeals.
 
-  - **Magistrates** help judges decide cases in some court systems.
+  - <dfn id="magistrates" markdown="1">Magistrates</dfn> help judges decide cases in some court systems.
 
-  - **Alternative Dispute Resolution Neutrals** help clients resolve disputes without going to court.
+  - <dfn id="alternative-dispute-resolution-neutrals" markdown="1">Alternative Dispute Resolution Neutrals</dfn> help clients resolve disputes without going to court.
 
-    - **Arbitrators** function much like privately hired judges.
+    - <dfn id="arbitrators" markdown="1">Arbitrators</dfn> function much like privately hired judges.
 
-    - **Mediators** try to help the sides agree to a resolution.
+    - <dfn id="mediators" markdown="1">Mediators</dfn> try to help the sides agree to a resolution.
 
-- **Lobbyists** (who are not all lawyers) influence government officials in favor of their clients.
+- <dfn id="lobbyists" markdown="1">Lobbyists</dfn> (who are not all lawyers) influence government officials in favor of their clients.
 
 ## Work Environment
 
-- Lawyers in **Private Practice** work for themselves, or for law firms, that represent one or more different clients.
+- Lawyers in <dfn id="private-practice" markdown="1">Private Practice</dfn> work for themselves, or for law firms, that represent one or more different clients.
 
-- Lawyers in **Public Service** work for government bodies.
+- Lawyers in <dfn id="public-service" markdown="1">Public Service</dfn> work for government bodies.
 
-- **In House** lawyers work as employees of their main clients.  The highest ranking in-house lawyer is often **General Counsel**.
+- <dfn id="in-house" markdown="1">In House</dfn> lawyers work as employees of their main clients.  The highest ranking in-house lawyer is often <dfn id="general-counsel" markdown="1">General Counsel</dfn>.
 
 ## Within Law Firms
 
-- **Partners** typically share ownership or profits of the firm as a whole.
+- <dfn id="partners" markdown="1">Partners</dfn> typically share ownership or profits of the firm as a whole.
 
-- **Associates** do not share ownership or profits, and tend to be junior lawyers.
+- <dfn id="associates" markdown="1">Associates</dfn> do not share ownership or profits, and tend to be junior lawyers.
 
-- Lawyers "**Of Counsel**" are often more senior, but typically don't share ownership or profits.  They're often highly specialized in an area of law or an industry.
+- Lawyers "</dfn>Of Counsel</dfn>" are often more senior, but typically don't share ownership or profits.  They're often highly specialized in an area of law or an industry.
