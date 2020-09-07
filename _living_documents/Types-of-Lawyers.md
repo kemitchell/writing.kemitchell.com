@@ -9,7 +9,13 @@ Most lawyers fit somewhere in the following outline.  However, some attorneys sp
 
 - **Litigators** represent clients in disputes decided by neutrals.
 
-  - **Civil Litigators** represent clients in lawsuits in civil court, as well as various kind of alternative dispute resolution.
+  - **Civil Litigators** represent clients in lawsuits in civil court, as well as various kind of alternative dispute resolution.  Some civil litigators specialize in particular areas of law or kinds of clients.  For example:
+
+    - **Family Lawyers** focus on marriage, divorce, custody, adoption, paternity, and related issues.
+
+    - **Commercial Litigators** focus on breach-of-contract and other business lawsuits.
+
+    - **Patent Litigators** represent clients in patent-infringement lawsuits.  They often specialize to the offensive (plaintiff) or defensive (defendant) side.
 
   - **Criminal Litigators** represent clients or the government in criminal court.
 
@@ -29,7 +35,13 @@ Most lawyers fit somewhere in the following outline.  However, some attorneys sp
 
   - **Mergers and Acquisitions** lawyers help clients merge their businesses or buy others' businesses.
 
-  - **Patent Prosecutors** write and apply for patents.
+  - **Intellectual Property Lawyers** focus on particular kinds of intellectual property, like copyrights, patents, trademarks, and trade secrets.
+
+    - **Copyright Lawyers** focus on copyright issues, often focusing on a particular industry like music, film, or software.
+
+    - **Trademark Lawyers** help clients apply for and protect trademarks and service marks.
+
+    - **Patent Prosecutors** write and apply for patents for clients.
 
   - **Securities Lawyers** help clients comply with rules and regulations about selling stock, debt, and other kinds of investments.
 
