@@ -49,9 +49,9 @@ Skip To: [Litigators](#litigators), [Transactional Lawyers](#transactional-lawye
 
   - <dfn id="tax-lawyers" markdown="1">Tax Lawyers</dfn> advise on how to comply with tax laws and minimize tax burdens.
 
-  - <dfn id="technology-transactions-lawyers" markdown="1">Technology Transactions Lawyers</dfn> help clients negotiate contracts, licenses, .
+  - <dfn id="technology-transactions-lawyers" markdown="1">Technology Transactions Lawyers</dfn> help clients negotiate contracts, licenses, and other deals for creating or selling intellectual property.
 
-  - <dfn id="trusts-and-estates-lawyers" markdown="1">Trusts and Estates Lawyers</dfn> help clients creates wills and other legal tools to manage their money and property when they die or can't manage their own lives anymore.
+  - <dfn id="trusts-and-estates-lawyers" markdown="1">Trusts and Estates Lawyers</dfn> help clients create wills and other legal tools to manage their money and property when they die or can't manage their own lives anymore.
 
 - <dfn id="neutrals" markdown="1">Neutrals</dfn> resolve disputes.
 
@@ -95,4 +95,4 @@ Skip To: [Litigators](#litigators), [Transactional Lawyers](#transactional-lawye
 
 - <dfn id="associates" markdown="1">Associates</dfn> do not share ownership or profits, and tend to be junior lawyers.
 
-- Lawyers "</dfn>Of Counsel</dfn>" are often more senior, but typically don't share ownership or profits.  They're often highly specialized in an area of law or an industry.
+- Lawyers "<dfn id="of-counsel" markdown="1">Of Counsel</dfn>" are often more senior, but typically don't share ownership or profits.  They're often highly specialized in an area of law or an industry.
