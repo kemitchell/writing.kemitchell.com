@@ -21,7 +21,7 @@ Except for the server logs, which record the IP address of the donor's machine a
 
 > Technically, donation means posting to <https://api.commonform.org/forms> with a JSON request body that satisfies [commonform-validate].  That's it.
 
-[commonform-validate]: https://npmjs.com/packages/commonform-validate
+[commonform-validate]: https://npmjs.com/package/commonform-validate
 
 Donations cannot be rescinded.  Since the library doesn't remember who donated any Common Form, it can't be sure the person asking to rescind a donation is the one who donated it in the first place.  Even if they did donate the Common Form at some point, someone else may have donated the same Common Form, earlier or since.  Others may have come about the form in storage and begun to rely on it being available there.
 
@@ -33,7 +33,7 @@ Anyone can retrieve a Common Form from storage, but they have to request it spec
 
 [Git]: https://git-scm.com
 
-[commonform-normalize]: https://npmjs.com/packages/commonform-normalize
+[commonform-normalize]: https://npmjs.com/package/commonform-normalize
 
 [cryptographic digest]: https://en.wikipedia.org/wiki/Cryptographic_hash_function
 
@@ -76,7 +76,7 @@ Publication means identifying a particular Common Form in storage as a specific 
 >
 > where `$1` is the posting patron name, `$2` the project name, and `$3` the edition.  Request body is a JSON object with a `digest` property for a Common Form in storage.  Project names are ASCII alphanumeric with hyphens.  Editions are [Reviewers' Editions].
 
-[Reviewers' Editions]: https://www.npmjs.com/packages/reviewers-edition-parse
+[Reviewers' Editions]: https://www.npmjs.com/package/reviewers-edition-parse
 
 For example:
 
@@ -126,7 +126,7 @@ This two-tiered structure---opaque _storage_ and open _catalog_---give users a s
 
    As I'll discuss in later writing, the library server also supports annotations---comments to Common Forms---and subscriptions that send e-mail notifications of annotations, new editions, and other elements of collaboration.
 
-3. Those who'd like to "publish" to a limited set of trusted collaborators can start their own library server using [the same software used by the public library](https://npmjs.com/packages/commonform-server), and restrict access to their chosen colleagues.  In other words:  Start a private library.
+3. Those who'd like to "publish" to a limited set of trusted collaborators can start their own library server using [the same software used by the public library](https://npmjs.com/package/commonform-server), and restrict access to their chosen colleagues.  In other words:  Start a private library.
 
 ## Big Picture
 

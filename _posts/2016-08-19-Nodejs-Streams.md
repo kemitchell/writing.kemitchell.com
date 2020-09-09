@@ -39,9 +39,9 @@ Both client-side applications and web servers need to request data from remote w
 
 [http.ClientRequest]: https://nodejs.org/api/http.html#http_class_http_clientrequest
 
-[http-browserify]: https://www.npmjs.com/packages/http-browserify
+[http-browserify]: https://www.npmjs.com/package/http-browserify
 
-[xmlhttprequest]: https://www.npmjs.com/packages/xmlhttprequest
+[xmlhttprequest]: https://www.npmjs.com/package/xmlhttprequest
 
 Node.js takes it a step further, defining EventEmitter instances for the server side:  datagram sockets, TCP sockets, and HTTP servers.  The familiar `http.createServer(handler)` merely constructs an HTTP server emitter and adds a listener to the `request` event, whose payloads are request and response objects.
 
@@ -180,11 +180,11 @@ In essence, a Transform stream is a function that takes chunk arguments and call
 
 Node.js' streams prototypes, and the [through2], [flush-write-stream], and [pump] packages, hide generic buffer-management and backpressure-signaling logic.  They also emit events---`readable` on Readable streams and `drain` on Writable streams---that communicate backpressure signals.
 
-[through2]: https://www.npmjs.com/packages/through2
+[through2]: https://www.npmjs.com/package/through2
 
-[flush-write-stream]: https://www.npmjs.com/packages/flush-write-stream
+[flush-write-stream]: https://www.npmjs.com/package/flush-write-stream
 
-[pump]: https://www.npmjs.com/packages/pump
+[pump]: https://www.npmjs.com/package/pump
 
 ## The "Stack"
 
@@ -203,7 +203,7 @@ Node.js streams are not the only way to implement streams, even in JavaScript.  
 1.  pull-streams utilize only elemental JavaScript patterns, namely functions, return values, and callbacks.  They are not defined in terms of event emitters, or indeed any prototype.
 2.  pull-streams do not "flow".  Every chunk is requested by a function call.  As with `stream.read()`, function calls simultaneously requests data and signal readiness to process it.
 
-[pull-stream]: https://www.npmjs.com/packages/pull-stream
+[pull-stream]: https://www.npmjs.com/package/pull-stream
 
 pull-streams are freely translatable to and from current default and object-mode Node.js streams.  There are helpful packages to do so.
 

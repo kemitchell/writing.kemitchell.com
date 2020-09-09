@@ -123,7 +123,7 @@ Even when software _is_ available under an explicit permissive license, OSI may 
 
 Discouraging multiple licenses that say essentially the same thing is noble.  But nobility doesn't pay when you or your team need a particular piece of software under a less-common set of terms, and find yourselves stuck under an OSI-blinkered compliance program.  OSI may very well have approved an equivalent license for software you don't care about, and on the basis of that approval refused to approve the license for the software you do care about, because proliferation.
 
-As of May 2019, a quick automatic cross-comparison of [Blue Oak Council's more comprehensive permissive license list](https://blueoakcouncil.org/list) and [a data file of OSI-approved licenses](https://www.npmjs.com/packages/spdx-osi) yields a hundred and twenty licenses that Blue Oak certifies, but OSI hasn't approved.  That number probably isn't exact.  But it's roughly a hundred and twenty chances that OSI approval will be a choke point rather than a shortcut.
+As of May 2019, a quick automatic cross-comparison of [Blue Oak Council's more comprehensive permissive license list](https://blueoakcouncil.org/list) and [a data file of OSI-approved licenses](https://www.npmjs.com/package/spdx-osi) yields a hundred and twenty licenses that Blue Oak certifies, but OSI hasn't approved.  That number probably isn't exact.  But it's roughly a hundred and twenty chances that OSI approval will be a choke point rather than a shortcut.
 
 OSI-approved licenses are not the whole world of perfectly dependable permissive license forms.  Relying on OSI approval for that kind of completeness is folly, too.
 

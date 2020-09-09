@@ -82,7 +82,7 @@ As I built the renderers, I occasionally pulled common code out into separate pa
 
 ### Numbering Styles
 
-Numbering styles are functions that take an [abstract numbering](https://www.npmjs.com/packages/abstract-numbering) argument and a flag for whether to return a full reference (like "Section 1(a)") or just a short number for a particular form (like "(a)"). They return strings.
+Numbering styles are functions that take an [abstract numbering](https://www.npmjs.com/package/abstract-numbering) argument and a flag for whether to return a full reference (like "Section 1(a)") or just a short number for a particular form (like "(a)"). They return strings.
 
 [outline-numbering][outline-numbering] returns "Section 1(a)(i)" style strings.
 
@@ -128,40 +128,40 @@ If you'd like to try a small project with Common Form to get your head around Ja
 
 4. Have a look at [the GitHub issues I've tagged "help wanted"](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Acommonform+label%3A%22help+wanted%22). I try and create issues for feature ideas or code improvements as they come to me.
 
-[agreement-schedules-exhibits-numbering]: https://npmjs.com/packages/agreement-schedules-exhibits-numbering
-[american-legal-archaisms]: https://npmjs.com/packages/american-legal-archaisms
-[commonform-analyze]: https://npmjs.com/packages/commonform-analyze
-[commonform-archaic]: https://npmjs.com/packages/commonform-archaic
-[commonform-cli]: https://npmjs.com/packages/commonform-cli
-[commonform-critique]: https://npmjs.com/packages/commonform-critique
-[commonform-critique]: https://npmjs.com/packages/commonform-critique
-[commonform-docx]: https://npmjs.com/packages/commonform-docx
-[commonform-flatten]: https://npmjs.com/packages/commonform-flatten
-[commonform-group-series]: https://npmjs.com/packages/commonform-group-series
-[commonform-hash]: https://npmjs.com/packages/commonform-hash
-[commonform-html]: https://npmjs.com/packages/commonform-html
-[commonform-latex]: https://npmjs.com/packages/commonform-latex
-[commonform-lint]: https://npmjs.com/packages/commonform-lint
-[commonform-markdown]: https://npmjs.com/packages/commonform-markdown
-[commonform-markup]: https://npmjs.com/packages/commonform-markup
-[commonform-normalize]: https://npmjs.com/packages/commonform-normalize
-[commonform-number]: https://npmjs.com/packages/commonform-number
-[commonform-phrase-annotator]: https://npmjs.com/packages/commonform-phrase-annotator
-[commonform-predicate]: https://npmjs.com/packages/commonform-validate
-[commonform-regexp-annotator]: https://npmjs.com/packages/commonform-regexp-annotator
-[commonform-resolve]: https://npmjs.com/packages/commonform-resolve
-[commonform-serialize]: https://npmjs.com/packages/commonform-serialize
-[commonform-serve-leveldb]: https://npmjs.com/packages/commonform-serve-leveldb
-[commonform-serve-memory]: https://npmjs.com/packages/commonform-serve-memory
-[commonform-serve-postgres]: https://npmjs.com/packages/commonform-serve-postgres
-[commonform-serve]: https://npmjs.com/packages/commonform-serve
-[commonform-serve]: https://npmjs.com/packages/comonform-serve
-[commonform-terminal]: https://npmjs.com/packages/commonform-terminal
-[commonform-tex]: https://npmjs.com/packages/commonform-tex
-[commonform-treeify-annotations]: https://npmjs.com/packages/commonform-treeify-annotations
-[commonform-validate]: https://npmjs.com/packages/commonform-validate
-[decimal-numbering]: https://npmjs.com/packages/decimal-numbering
+[agreement-schedules-exhibits-numbering]: https://npmjs.com/package/agreement-schedules-exhibits-numbering
+[american-legal-archaisms]: https://npmjs.com/package/american-legal-archaisms
+[commonform-analyze]: https://npmjs.com/package/commonform-analyze
+[commonform-archaic]: https://npmjs.com/package/commonform-archaic
+[commonform-cli]: https://npmjs.com/package/commonform-cli
+[commonform-critique]: https://npmjs.com/package/commonform-critique
+[commonform-critique]: https://npmjs.com/package/commonform-critique
+[commonform-docx]: https://npmjs.com/package/commonform-docx
+[commonform-flatten]: https://npmjs.com/package/commonform-flatten
+[commonform-group-series]: https://npmjs.com/package/commonform-group-series
+[commonform-hash]: https://npmjs.com/package/commonform-hash
+[commonform-html]: https://npmjs.com/package/commonform-html
+[commonform-latex]: https://npmjs.com/package/commonform-latex
+[commonform-lint]: https://npmjs.com/package/commonform-lint
+[commonform-markdown]: https://npmjs.com/package/commonform-markdown
+[commonform-markup]: https://npmjs.com/package/commonform-markup
+[commonform-normalize]: https://npmjs.com/package/commonform-normalize
+[commonform-number]: https://npmjs.com/package/commonform-number
+[commonform-phrase-annotator]: https://npmjs.com/package/commonform-phrase-annotator
+[commonform-predicate]: https://npmjs.com/package/commonform-validate
+[commonform-regexp-annotator]: https://npmjs.com/package/commonform-regexp-annotator
+[commonform-resolve]: https://npmjs.com/package/commonform-resolve
+[commonform-serialize]: https://npmjs.com/package/commonform-serialize
+[commonform-serve-leveldb]: https://npmjs.com/package/commonform-serve-leveldb
+[commonform-serve-memory]: https://npmjs.com/package/commonform-serve-memory
+[commonform-serve-postgres]: https://npmjs.com/package/commonform-serve-postgres
+[commonform-serve]: https://npmjs.com/package/commonform-serve
+[commonform-serve]: https://npmjs.com/package/comonform-serve
+[commonform-terminal]: https://npmjs.com/package/commonform-terminal
+[commonform-tex]: https://npmjs.com/package/commonform-tex
+[commonform-treeify-annotations]: https://npmjs.com/package/commonform-treeify-annotations
+[commonform-validate]: https://npmjs.com/package/commonform-validate
+[decimal-numbering]: https://npmjs.com/package/decimal-numbering
 [level-commonform]: level-commonform
-[outline-numbering]: https://npmjs.com/packages/outline-numbering
-[resolutions-schedules-exhibits-numbering]: https://npmjs.com/packages/resolutions-schedules-exhibits-numbering
-[wordy-words]: https://npmjs.com/packages/wordy-words
+[outline-numbering]: https://npmjs.com/package/outline-numbering
+[resolutions-schedules-exhibits-numbering]: https://npmjs.com/package/resolutions-schedules-exhibits-numbering
+[wordy-words]: https://npmjs.com/package/wordy-words
