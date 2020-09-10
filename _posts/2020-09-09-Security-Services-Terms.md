@@ -11,7 +11,7 @@ I've long been on the lookout for a chance to work with a top-level computer sec
 
 The terms were written to be read, and not just by lawyers.  Christopher prefers plain English, and so do I, because it means more of the people actually involved in the deal---security pros and their clients---can and feel welcome to read, understand, and feed back.  If you buy or sell security-related services, and especially if you do security reviews for hire, Christopher and I would definitely welcome your thoughts, on GitHub or by e-mail.
 
-From a legal point of view, responsible security-related stands out as peculiar particularly when it comes to disclosure, for both sides.
+From a legal point of view, responsible security-related post peculiar problems when it comes to disclosure, for both sides.
 
 On the researcher side, warranties around security-related work are often specially written, or even specially negotiated.  The models, reports, and other analyses those warranties apply to might be destined for publication, or they might be for client use only.  In some cases, client and researcher might agree to publication either with or without attribution.  Where a researcher or firm has an established name or track record, they may insist on more time for published reports that will bear their seal of approval.
 
