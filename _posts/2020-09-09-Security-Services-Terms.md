@@ -9,7 +9,7 @@ tags:
 
 I've long been on the lookout for a chance to work with a top-level computer security professional on contract terms tailored for security work.  Recently I got just that chance with [Christopher Allen](http://alacrityventures.com/allen.html), co-author of the TLS standard, through [Blockchain Commons](https://www.blockchaincommons.com/).  Christopher and Blockchain Commons [publish their organizational as well as technical work online](https://github.com/blockchaincommons), including the new contract terms.  [Have a look.](https://github.com/BlockchainCommons/Open-Development/blob/master/security-services-contract/terms.md)
 
-The terms were written to be read, and not just by lawyers.  Christopher prefers plain English, and so do I, because it means more of the people who actually involved in the deal---security pros and their clients---can and feel welcome to read, understand, and feed back.  If you buy or sell security-related services, and especially if you do security reviews for hire, Christopher and I would definitely welcome your thoughts, on GitHub or by e-mail.
+The terms were written to be read, and not just by lawyers.  Christopher prefers plain English, and so do I, because it means more of the people actually involved in the deal---security pros and their clients---can and feel welcome to read, understand, and feed back.  If you buy or sell security-related services, and especially if you do security reviews for hire, Christopher and I would definitely welcome your thoughts, on GitHub or by e-mail.
 
 From a legal point of view, responsible security-related stands out as peculiar particularly when it comes to disclosure, for both sides.
 
