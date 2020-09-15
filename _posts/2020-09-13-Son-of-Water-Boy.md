@@ -8,7 +8,7 @@ tags:
 
 I've been helping folks living in tents and cars here in Oakland with drinking water for a few weeks now.  I still haven't figured it all out.  Not even close.  But I have learned a few things.
 
-I originally thought water delivery would work on a simple exchange system, like those for [propane tanks](https://www.youtube.com/watch?v=Yt_3Yy0S4vM) or [beer kegs](https://en.wikipedia.org/wiki/Keg#Beer_keg), but in reverse.  I'd start by giving folks twenty-liter jerrycans full of drinking water.  When they'd used up all the water in their cans, they'd text me.  I'd drive out with full cans and trade their empty cans for my full ones, one-for-one.  Then I'd take the now-empty cans back home, clean them up, fill them again, and use them for the next delivery. 
+I originally thought water delivery would work on a simple exchange system, like those for [propane tanks](https://www.youtube.com/watch?v=Yt_3Yy0S4vM) or [beer kegs](https://en.wikipedia.org/wiki/Keg#Beer_keg), but in reverse.  I'd start by giving folks twenty-liter jerrycans full of drinking water.  When they'd used up all the water in their cans, they'd text me.  I'd drive out with full cans and trade their empty cans for my full ones, one-for-one.  Then I'd take the now-empty cans back home, clean them up, fill them again, and use them for the next delivery.
 
 I did not anticipate how many people would want to keep the cans.
 
@@ -38,7 +38,7 @@ Basically, coolers want to sit still, hold water, and serve people.  Jerrycans w
 
 The second key tool has been other storage containers for water on site. Folks have scavenged and improvised these.  What they come up with isn't often easy to seal shut or to move.  Best case, they scrounge up a couple of those round, blue-colored, five- and ten-gallon water jugs that commercial delivery services put on top of refrigerated water coolers in office buildings.  As water movers, they're problematic.  As water dispensers, they're terrible.  But as water storage, they're fine.
 
-Having extra storage space on-site makes it easy for me to bring extra water in jerrycans on delivery, empty the extra cans into the stationary containers, and keep the now-empty cans for myself, for the next run.  As the guy moving the water, I don't lose any mobility.  As the folks living at the camp, they don't lose any storage or convenient.  Only the water moves between us.
+Having extra storage space on-site makes it easy for me to bring extra water in jerrycans on delivery, empty the extra cans into the stationary containers, and keep the now-empty cans for myself, for the next run.  As the guy moving the water, I don't lose any mobility.  As the folks living at the camp, they don't lose any storage or convenience.  Only the water moves between us.
 
 As an example, say I load six twenty-liter jerrycans into a car for a run.  Of those:
 
