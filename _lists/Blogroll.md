@@ -37,6 +37,6 @@ description: other blogs of likely interest
 
 [License Zero](https://blog.licensezero.com/) (my company)
 
-[OpenCollective](https://medium.com/open-collective)
+[OpenCollective](https://blog.opencollective.com/)
 
 [Tidelift](https://blog.tidelift.com/) (Luis Villa)
