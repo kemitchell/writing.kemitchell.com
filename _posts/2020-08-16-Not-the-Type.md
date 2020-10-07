@@ -20,7 +20,7 @@ It's particularly easy to see this pretense laid bare in an opinion like _Bolger
 
 Amazon lost its appeal flat-out on the main question: Does California product liability law, which holds manufacturers and distributors responsible for physical harm from defective products, apply to Amazon and Ms. Bolger's blow-up battery?  The answer, to read the court tell it, is yes.  And for pretty much all of the reasons.  For one, that's the rule.  For two, all the reasons we have the rule in the first place say Amazon _doesn't_ get any free pass for being on the Internet or magic pocket rectangles.  Exactly the opposite.
 
-I've been well clear of the hard-core blockchain space for more than a year now.  But I assume those still playing that game remain as resistant as ever to the idea that United States securities laws were _designed_ to cover new approaches and technologies.  New "innovations" aren't entitled to new securities laws.  Exactly the opposite.  It is the courts' explicit duty to look at the general rules and broad policies of the laws we already have, and have had for almost a hundred years, and apply them to regulate new ideas in finance, forever.  Heaping on novel implementation details doesn't even necessarily make the job harder.
+I've been well clear of the hard-core blockchain space for more than a year now.  But I assume those still playing that game remain as resistant as ever to the idea that United States securities laws were _designed_ to cover new approaches and technologies.  New "innovations" aren't entitled to new securities laws.  Exactly the opposite.  It is the courts' explicit duty to look at the general rules and broad policies of the laws we already have, and have had for almost a hundred years, and to apply them to regulate new ideas in finance, until further notice.
 
 Ditto California strict products liability law:
 
@@ -28,7 +28,7 @@ Ditto California strict products liability law:
 
 In other words, Amazon tried to argue its way out of responsibility by saying that the legislature, not the courts, should decide whether the old rules apply to its new kind of business.  But that's the opposite of what the rules we already have say, and what courts have done for quite some time.
 
-There isn't just a rule about liability.  There's a rule about how to read and apply that rule, too.  In the end, it's the _reasons_ for the rule that matter, not thew newfangledness of the business it applies to.  Reasons like making sure people who get blown up by defective products can get money for their medical bills.
+There isn't just a rule about liability.  There's a rule about how to read and apply the rule about liability, too.  In the end, it's the _reasons_ for the rule that matter, not thew newfangledness of the business they apply to.  Reasons like making sure people who get blown up by defective products can get money for their medical bills.
 
 Thus, when it comes to products liability in California, courts "construe broadly", consistent with those goals.  They don't "read narrowly", only applying to familiar situations and very close matches.  And we see similar meta-rule language in securities law, such as on whether a particular arrangement counts as a "security", and therefore comes under heavy regulation.  New frontiers in _how_ don't change _why_ we regulate in the first place.
 
