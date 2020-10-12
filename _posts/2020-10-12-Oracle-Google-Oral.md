@@ -11,7 +11,7 @@ Oracle and Google's lawyers argued their [infamous, long-running API copyright l
 - [Recording](https://www.supremecourt.gov/media/audio/mp3files/18-956.mp3)
 - [Transcript](https://www.supremecourt.gov/oral_arguments/argument_transcripts/2020/18-956_2dp3.pdf)
 
-Warning: This is high-level legal conversation.  If you don't follow exactly what's going on, it's not you, it's the law.
+Warning: This is high-level legal conversation.  If you don't follow exactly what's going on, it's not you, it's the law.  Let it wash over you a bit, and enjoy the dynamics of the back-and-forth.
 
 Some relevant snippets from the United States' Copyright Act:
 
