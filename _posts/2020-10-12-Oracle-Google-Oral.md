@@ -30,4 +30,5 @@ And some Wiki links, for extra credit:
 - [_Baker v. Selden_](https://en.wikipedia.org/wiki/Baker_v._Selden)
 - [_Computer Associates v. Altai_](https://en.wikipedia.org/wiki/Computer_Associates_International,_Inc._v._Altai,_Inc.)
 - [_Feist v. Rural Telephone Service_](https://en.wikipedia.org/wiki/Feist_Publications,_Inc.,_v._Rural_Telephone_Service_Co.)
-
+- [_Harper and Row v. Nation Enterprises_](https://en.wikipedia.org/wiki/Harper_%26_Row_v._Nation_Enterprises)
+- [Structure, Sequence, and Organization](https://en.wikipedia.org/wiki/Structure,_sequence_and_organization)
