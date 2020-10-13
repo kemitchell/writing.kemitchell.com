@@ -9,7 +9,7 @@ tags:
 
 A lot of legal argument is argument by analogy.  In the most formal sense, that means talking about how a court decided an earlier, similar case, and whether the court should decide a new case in a similar way.  Lawyers also argue by hypothetical, making up stories using details of daily life that tend to a case should go one way or another.
 
-Here's a quick list of metaphors and analogies mentioned by the justice of the Supreme Court and lawyers during [oral argument](https://www.supremecourt.gov/oral_arguments/audio/2020/18-956) in the case of [Oracle v. Google](https://en.wikipedia.org/wiki/Google_LLC_v._Oracle_America,_Inc.):
+Here's a quick list of analogies mentioned by the justices of the Supreme Court and arguing lawyers during [oral argument](https://www.supremecourt.gov/oral_arguments/audio/2020/18-956) in the case of [Oracle v. Google](https://en.wikipedia.org/wiki/Google_LLC_v._Oracle_America,_Inc.):
 
 - mathematical proofs, coarse and elegant
 - writing in English and French
