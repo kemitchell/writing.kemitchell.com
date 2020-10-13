@@ -1,6 +1,6 @@
 ---
 title: Mix Many Metaphors
-description: images galore from Oracle v. Google oral argument
+description: analogies galore in Oracle v. Google oral argument
 date: Mon 12 Oct 2020 06:22:15 PM PDT
 tags:
 - Open Source
