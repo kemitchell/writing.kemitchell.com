@@ -1,5 +1,5 @@
 ---
-title: Public Domain Appending
+title: Public Domain Appendix
 description: public license in in From Dictatorship to Democracy
 tags:
 - Books
