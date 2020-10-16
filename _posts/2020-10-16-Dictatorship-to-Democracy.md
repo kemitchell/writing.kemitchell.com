@@ -22,3 +22,7 @@ At the end of the fourth U.S. edition of Gene Sharp's _From Dictatorship to Demo
 > - The author requests that if this document is going to be translated, great care must be taken to preserve the original meaning of the text.  Some of the terms in this publication will not translate readily into other languages, as direct equivalents for "nonviolent struggle" and related terms may not be available.  Thus, careful consideration must be given to how these terms and concepts are to be translated so as to be understood accurately by new readers.
 >
 > ...
+
+Another relevant quote, from 76, on producing a new constitution:
+
+> The wording of the constitution should be easily understood by the majority of the population.  A constitution should not be so complex or ambiguous that only lawyers or other elites can claim to understand it.
