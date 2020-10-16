@@ -1,6 +1,6 @@
 ---
 title: Public Domain Appendix
-description: public license in in From Dictatorship to Democracy
+description: public license for From Dictatorship to Democracy
 tags:
 - Books
 - Copyright
