@@ -63,4 +63,4 @@ Control for what?  Offense, not just defense.  Setting Google search as the defa
 
 Be advised: DOJ antitrust groks open source business strategy.  Groks it pretty well.
 
-Remember the Securities Exchange Commission's [report on The DAO](https://writing.kemitchell.com/2017/07/25/DAO-Report-of-Investigation.html)?
+Reminds me of the Securities Exchange Commission's [report on The DAO](https://writing.kemitchell.com/2017/07/25/DAO-Report-of-Investigation.html).
