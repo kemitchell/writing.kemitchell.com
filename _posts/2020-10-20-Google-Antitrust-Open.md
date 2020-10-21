@@ -9,7 +9,7 @@ tags:
 - Business Models
 ---
 
-The Department of Justice, legal department of the United States federal government, [sued Google](https://www.justice.gov/opa/pr/justice-department-sues-monopolist-google-violating-antitrust-laws) for violating antitrust laws.  Their [complaint](https://www.justice.gov/opa/press-release/file/1328941/download), the court document where they make their accusations, has a lot to say about open source, Android, and business.  Here are some relevant tidbits, with thoughts in between:
+The Department of Justice, legal department of the United States federal government, [sued Google](https://www.justice.gov/opa/pr/justice-department-sues-monopolist-google-violating-antitrust-laws) for violating antitrust laws.  Their [complaint](https://www.justice.gov/opa/press-release/file/1328941/download), the court document where they make their accusations, has a lot to say about open source, Android, and business.  Here are some relevant excerpts, with thoughts in between:
 
 > In a mobile world, Google had to deal with mobile device manufacturers (such as LG, Motorola, and Samsung), and carriers (such as AT&T, T-Mobile/Sprint, and Verizon) that would hold sway over distribution of search and search ads.  Google thus asked internally, "How can we conquer the world's major markets simultaneously?"
 >
