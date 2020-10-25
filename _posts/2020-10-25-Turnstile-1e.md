@@ -1,6 +1,7 @@
 ---
 title: Turnstile 1e
 description: first edition and new website
+date: Sun Oct 25 14:47:23 2020 -0700
 tags:
 - Contracts
 - Drafting
