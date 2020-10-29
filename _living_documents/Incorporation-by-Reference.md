@@ -69,3 +69,11 @@ description: fundamental rules and authorities
 
 ### Russel Enochs v. Dene C. Christie (1955)
 - [Case Law Access Project](https://cite.case.law/cal-app-2d/137/887/)
+
+## Restatement Second of Contracts
+
+> The memorandum may consist of several writings if one of the writings is signed and the writings in the circumstances clearly indicate that they relate to the same transaction. §132.
+
+> Explicit incorporation by reference is unnecessary, but if the connection depends on evidence outside the writings, the evidence of connection must be clear and convincing. Comment a.
+
+> When two or more documents are signed by the party to be charged, they may be read together even though neither contains any reference to the other.  The question whether they constitute a sufficient memorandum is substantially the same as if they had been incorporated in a single document. Comment b.
