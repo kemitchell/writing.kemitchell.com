@@ -59,7 +59,7 @@ noremap <leader>s <Esc>:!save<CR><CR>
 
 ## Self-Hosting
 
-GitHub and GitLab are swell, but it's always fun showing people just how much faster `git push` over SSH can be to a $5 virtual Linux box.com.  Even on low-grade WiFi, it can feel almost instant.
+GitHub and GitLab are swell, but it's always fun showing people just how much faster `git push` over SSH can be to a $5 virtual Linux box.  Even on low-grade WiFi, it can feel almost instant.
 
 If you're nervous about hosting important work yourself, or want to leverage the reliability or redundancy of another Git host, fear not.  It's perfectly possible to `git push` to a fast private server that mirrors to GitHub or GitLab in turn.  I configure servers to do this by generating an SSH key for them, adding to my account on the hosting service, and setting up oft-run cron jobs to `git push --mirror` via `crontab -e`.  You can make the server you push to fast, and mirror from there to other hosts, asynchronously.
 
