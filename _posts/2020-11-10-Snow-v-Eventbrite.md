@@ -6,7 +6,7 @@ tags:
 - Terms of Service
 ---
 
-It's an occupational hazard of my line of work that I have to read court cases that make me really, really nervous.  So it goes with [_Snow v. Eventbrite_, case number 3:20-cv-03698-WHO in the Northern District of California](https://www.courtlistener.com/docket/17223027/snow-v-eventbrite-inc/).  It's a tech lawyer's recurring nightmare.  The lawyers wrote some strong, protective terms of service to protect their client, but the client didn't do what it takes to make those terms actually work.
+It's an occupational hazard of my line of work that I have to read court cases that make me really, really nervous.  So it goes with [_Snow v. Eventbrite_, case number 3:20-cv-03698-WHO in the Northern District of California](https://www.courtlistener.com/docket/17223027/snow-v-eventbrite-inc/).  It's a tech lawyer's recurring nightmare.  You write some strong, protective terms of service to protect your client.  But your client doesn't do what it takes to make those terms actually work for them.
 
 Sherri Snow says she bought some tickets through Eventbrite.  When the events got cancelled or put off due to COVID-19, Sherri says Eventbrite wouldn't process her refunds.  She sued.
 
