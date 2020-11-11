@@ -7,6 +7,7 @@ tags:
 - Drafting
 - Forms
 - Law Practice
+- Terms of Service
 ---
 
 Happy to announce I've published a first edition of Turnstile, my standard website terms of service, to a new website, [turnstiletos.com](https://turnstiletos.com).  The new site also has a page on [how to use the terms for your website](https://turnstiletos.com/use).
