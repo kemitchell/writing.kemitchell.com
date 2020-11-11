@@ -28,7 +28,7 @@ Here, more or less, is what I tell my clients to do when I provide terms of serv
 
 - Call the terms of service page something predictable and familiar, like "legal terms", "terms of use", or "terms of service".  Don't get clever.  Run with the herd.
 
-- Link to your terms of service page from the bottom of every page of your website.  It's okay to link to other pages down there, and not just "legal" pages like your privacy and DMCA policy.  But don't make the terms link tiny or use colors or graphics to deemphasize it.  The page has to be easy to find.
+- Link to your terms of service page from the bottom of every page of your website.  It's okay to link to other pages down there, and not just "legal" pages like your privacy and DMCA policies.  But don't make the terms link tiny or use colors or graphics to deemphasize it.  The page has to be easy to find.
 
 - Add a check box to your sign-up form specifically for accepting the terms of service.  Make sure each user has to tap or click something specifically and only about accepting terms of service to get an account.  Make the text next to that clickable, tapable thing a clear link to the terms of service page.  Again, no font funny business.
 
