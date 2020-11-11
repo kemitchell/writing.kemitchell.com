@@ -30,7 +30,7 @@ Here, more or less, is what I tell my clients to do when I provide terms of serv
 
 - Link to your terms of service page from the bottom of every page of your website.  It's okay to link to other pages down there, and not just "legal" pages like your privacy and DMCA policies.  But don't make the terms link tiny or use colors or graphics to deemphasize it.  The page has to be easy to find.
 
-- Add a check box to your sign-up form specifically for accepting the terms of service.  Make sure each user has to tap or click something specifically and only about accepting terms of service to get an account.  Make the text next to that clickable, tapable thing a clear link to the terms of service page.  Again, no font funny business.
+- Add a check box to your sign-up form specifically for accepting the terms of service.  Make sure each user has to tap or click something that's just about accepting terms of service to get an account.  Make the text next to that clickable, tapable thing a clear link to the terms of service page.  Again, no font funny business.
 
 - Record the deployment commit hash or terms version number in the database record for the account sign-up.  Back up and archive those records.  Don't delete or overwrite them. Store them separately from your main application database if you prefer.
 
