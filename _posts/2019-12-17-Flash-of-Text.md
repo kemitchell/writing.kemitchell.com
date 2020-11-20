@@ -20,3 +20,5 @@ Second, it turns what is fundamentally a one-way transmission---recorded video--
 This is profoundly seductive.
 
 We've seen little steps to interactivity on YouTube before, from links in video descriptions to Choose Your Own Adventure-style videos via clickable annotations.  But those approaches merely embraced mechanisms provided by the platform for their intended uses.  "Video footnotes" hijack more basic mechanisms, intended for well known and well understood functionality, for entirely new effect, with profoundly different social overtones.
+
+<!-- TODO: https://www.youtube.com/watch?v=u2k6QjtKgA8 -->
