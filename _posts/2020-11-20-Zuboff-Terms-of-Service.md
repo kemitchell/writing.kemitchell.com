@@ -16,7 +16,7 @@ I recently picked up Shoshana Zuboff's _The Age of Surveillance Capitalism_ agai
 
 The idea that companies can bind you to legal terms willy-nilly, without telling you or giving you any choice in the matter, is an exaggeration.  That's not the law in the United States of America.
 
-If there's a troubling legal trend around terms of service, it's the possibility of committing a crime by breaking website terms, under laws like the Computer Fraud and Abuse Act and even the Copyright Act.  Narrowing down to just contract law, the law of enforceable agreements, the worry of some is how terms of service appear to be lowering the standard for what two sides have to do to make an agreement between them will enforceable.
+If there's a troubling legal trend around terms of service, it's the possibility of committing a crime by breaking website terms, under laws like the Computer Fraud and Abuse Act and even the Copyright Act.  Narrowing down to just contract law, the law of enforceable agreements, the worry of some is how terms of service appear to be lowering the standard for what two sides have to do to make an agreement between them legally enforceable.
 
 But the fundamental legal requirement that both sides have to take some action to show agreement before a court goes enforcing their terms hasn't gone away.  That's why we all keep getting annoying e-mails about changes to terms of service and privacy policies.  If the law let companies impose and change terms without telling us, and still get them to stick, that's exactly what they'd do.
 
