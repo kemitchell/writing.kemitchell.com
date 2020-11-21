@@ -42,7 +42,7 @@ Even if Internet terms of service were all short, readable, available in every l
 
 We could break this project down in two parts.
 
-Part of it is educational.  Readable terms help there.  More people can figure out for themselves what they and other are getting into.  Whether terms are easy to read or hard, lawyers, advocacy groups, and maybe even commercial firms could provide more good, approachable information about terms, privacy policies, and what they mean.  Some groups already do this.  [Terms of Service; Didn't Read](https://tosdr.org/) is a favorite link.  But part of what makes that project such an undertaking is the shear number of different websites, and therefore terms of service.
+Part of it is educational.  Readable terms help there.  More people can figure out for themselves what they and other are getting into.  Whether terms are easy to read or hard, lawyers, advocacy groups, and maybe even commercial firms could provide more good, approachable information about terms, privacy policies, and what they mean.  Some groups already do this.  [Terms of Service; Didn't Read](https://tosdr.org/) is a favorite link.  But part of what makes that project such an undertaking is the sheer number of different websites, and therefore terms of service.
 
 Another part is standardization.  As it stands, we have more commonality in the websites people use than the terms those websites require.  Lots of people use Google, Facebook, Twitter, Wikipedia, Reddit, and so on.  The terms for each of those sites are basically one-off.  They say a lot of the same things, over and over again.  But they say them differently enough that there's no easy comparison, no shortcuts to understanding or even a basic sanity check.
 
