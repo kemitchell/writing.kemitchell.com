@@ -1,6 +1,6 @@
 ---
 title: Let's Not All Read Terms of Service
-subtitle: common quips on website terms miss the point
+description: common quips on website terms miss the point
 tags:
 - Terms of Service
 - Contracts
@@ -34,7 +34,7 @@ Zuboff cites a few academics for the obvious consequence: terms of service are h
 
 I'm all for shorter terms of service that people who aren't lawyers can dig into.  I've done a bit of work there, publicly and privately.  But that's getting lost in my niche.  Name another kind of common consumer contract that consumers usually read.  Did you read your mortgage front to back?  Your lease?  The terms you signed on your first day of work?  Your prenup?  Your divorce settlement?  Your credit card agreement?
 
-Even if Internet terms of service were all short, readable, available in every language, and lovingly illustrated by renowned children's book artists, I wouldn't want to see everyone reading them all the time.  First and foremost, I'd want the same as I want now: more people aware of what they're getting into and better evidence of balance reflecting the leverage that companies and user groups have.  What we really want is good, efficient deals and awareness on both sides, especially the consumer side, of what is happening.  Terms of service and privacy policies are just a means to that end. 
+Even if Internet terms of service were all short, readable, available in every language, and lovingly illustrated by renowned children's book artists, I wouldn't want to see everyone reading them all the time.  First and foremost, I'd want the same as I want now: more people aware of what they're getting into and better evidence of balance reflecting the leverage that companies and user groups have.  What we really want is good, efficient deals and awareness on both sides, especially the consumer side, of what is happening.  Terms of service and privacy policies are just a means to that end.
 
 We could break this project down in two parts.
 
