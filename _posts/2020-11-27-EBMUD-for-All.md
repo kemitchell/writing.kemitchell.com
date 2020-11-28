@@ -1,6 +1,7 @@
 ---
 title: EBMUD for All
 description: open letter for homeless access to water
+series: Water Boy
 date: Fri 27 Nov 2020 10:58:20 AM PST
 tags:
 - Oakland

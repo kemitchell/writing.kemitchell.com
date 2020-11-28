@@ -1,6 +1,7 @@
 ---
 title: Son of Water Boy
 description: latest lessons and tips
+series: Water Boy
 tags:
 - Oakland
 - Homelessness
