@@ -67,7 +67,7 @@ Here's what we had to say.
 >
 > Overall, we see that EBMUD has acted altogether understandably, from its vantage point, to curtail illegal activity, prevent damage to its infrastructure, and defend the safety of its water. We see that the people making do on our streets, likewise, have acted understandably from their own position, to meet the basic human need for water. We have not seen both sides acting together, from a broader, shared perspective. Not yet.
 >
-> ## Opportunit}
+> ## Opportunity
 >
 > We write to offer two concrete, actionable steps EBMUD can take to aid our unhoused neighbors and reduce harm and costs from water desperation: first, a Good Samaritan rule for sharing water with homeless people, and second, an extension to the hydrant meter program for nonprofit organizations serving homeless camps. We're ready to work with EBMUD to bring these and other measures to bear, to end the escalating cat-and-mouse game on our streets, and to replace it with a constructive effort.
 >
