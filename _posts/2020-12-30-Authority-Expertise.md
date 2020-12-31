@@ -10,7 +10,7 @@ tags:
 
 I know what "authority" means, and I know what "expertise" means.  But I fail to associate them as I should.  When I hear the word "authority", I want to think about "expertise", too.  When I hear the word "expertise", I want to think about "authority".
 
-Not because "authority" and "expertise" mean the same thing.  They do not.  There's no unavoidable connection between them, either.  But pretending they mean the same thing, or that they stand on the same bedrock, represent such common errors that plays on them have become common ploys.  Enterprising minds exploit confusion and conflation.  These appear nigh on universal.
+Not because "authority" and "expertise" mean the same thing.  They do not.  There's no unavoidable connection between them, either.  But pretending they mean the same thing, or that they stand on the same bedrock, represent such common errors that plays upon them have become common ploys.  Enterprising minds exploit confusion and conflation.  These appear nigh on universal.
 
 We are all enterprising minds.  We learn to present our expertise as exuding authority.  We learn to present authoritative decisions as expert, or at least well advised.  Worse still, when we have neither expertise nor authority, we learn to bluff both.  I'm not sure we'd live in a better, technocratic-fantastic world were these presentations more often true.  But we've all lived examples aplenty where they were not.
 
