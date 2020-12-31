@@ -29,11 +29,13 @@
     More in this series: <a href="/series/{{ page.series | slugify }}.html">{{page.series}}</a>
   {% endif %}
   </p>
+  {% if tags %}
   <p class=signature>more posts about:
   {% for tag in page.tags %}
   <a href="/tags/{{tag | slugify}}.html">{{ tag | smartify }}</a>
   {% endfor %}
   </p>
+  {% endif %}
   <p class=signature>
       Your thoughts and feedback are
       <a href=mailto:kyle@kemitchell.com>always welcome by e-mail</a>.
