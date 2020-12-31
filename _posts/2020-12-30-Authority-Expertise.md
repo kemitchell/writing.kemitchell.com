@@ -1,6 +1,6 @@
 ---
 title: Authority and Expertise
-description: unearthing deeper conversations
+description: digging up the land mines of attorney-client relations
 date: Wed 30 Dec 2020 08:01:30 PM PST
 tags:
 - Professions
