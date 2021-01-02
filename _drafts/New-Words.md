@@ -1,19 +1,20 @@
 ---
 title: Deprogramming Experts
-description:
+description: throw your crutches aside and stumble freely
 tags:
 - Open Source
+- Law Practice
 ---
 
-Nobody sees all of open source, or all of law.  Least of all me.  There is too much going on, in too many places, public and private, for anyone to take it all in.  Or to declare their personal string of anecdotes a good sample.
+Nobody sees all of open source, or all of law.  Least of all me.  There is too much going on, in too many places, public and private, for anyone to take it all in.  Or to declare their personal crop of anecdotes a representative sample.
 
-It's worse than that.  Where we do have experience, limited as that must be, time served doesn't bestow a perfect picture of the past.  Memory doesn't work like that.  It get worse, not better, as we go along.  It's never that great to begin with.
+It's even worse than that.  Where we do have experience, limited as that must be, time served doesn't bestow a perfect picture of the past.  Memory doesn't work like that.  It get worse, not better, as we go along.  It's never that great to begin with.  Even when we do remember vividly, or feel we do, we can't separate what we remember from how we thought and felt about it in the moment.  Details we thought unimportant, unworthy of great attention, don't suddenly come walking out of the haze of recollection, sharp, bright, and squared away, ready for first inspection.
 
-Even when we do remember vividly, or feel we do, we can't separate what we remember from how we thought and felt about it in the moment.  Details we thought unimportant, unworthy of great attention, don't suddenly come walking out of the haze of recollection, sharp, bright, and squared away, ready for first inspection.
+Revisiting my "open source" past has proven incredibly valuable over the years.  But also dangerous and disorienting.  The more I think about what I've seen and done, the less I feel I know.
 
-Revisiting my "open source" past has proven incredibly valuable over the years.  But also deeply dangerous.  The more I think about what I've seen and done, the less I feel I know.  I trust the "open source guy" I used to be less and less all the time.  The words, concepts, heuristics, and defaults he relied on, the big, plastic Duplo blocks with which he build models of software, business, intellectual property, and politics simply weren't that refined.  Mostly, they came hand-me-down, products of somebody else's experience, since I had little or none.  A disturbing number were propaganda, good for someone else, but not necessarily for me or my clients.
+I trust the "open source guy" I used to be less and less all the time.  The words, concepts, heuristics, and defaults he relied on, the big, plastic Duplo blocks with which he build models of software, competition, collaboration, business, intellectual property, and politics simply weren't that refined.  Mostly, they came hand-me-down, products of somebody else's experience, since I had little or none.  A disturbing number proved intentional propaganda, good for someone else, or the mass they deigned lead, but not so much for me or my clients.
 
-The understandings of software and the Internet that dominated early on, when most people contributing to the Net, or even merely using it, were real or aspiring technology people, haven't held their lead.  Where once "open source" represented the Way Things Work online, with little popular ideological opposition, those starting now tend to look elsewhere, and to different ideas, even if they end up as programmers.  Ideas about how how to collaborate.  Ideas about how to do business.  Ideas about how to build a name.  Ideas explaining what the Hell is going on.
+The understandings of software and the Internet that dominated early on, when most people contributing to the Net, or even merely using it, were real or aspiring geeks, haven't held their lead.  Where once "open source" represented the Way Things Work online, with little popular ideological opposition, those starting now tend to look elsewhere, and to different ideas, even if they end up as programmers.  Ideas about how how to collaborate.  Ideas about how to do business.  Ideas about how to build a name.  Ideas explaining what the Hell is going on.
 
 How could it be otherwise?  Most successful projects, movements, and platforms have taken off quite without paying any dues to the open source creed, as platforms of yore often strained to do, to the point of absurdity.  Of course, the new stalwarts of the Web have been happy to run and even contribute to open software.  But there's less and less need for those driving the "information superhighway" to look under a hood.  Google, Facebook, and friends aren't ads for open source software. When something goes wrong on one of those mega sites, you don't end up browsing a forum or a manual page for beardy types.
 
