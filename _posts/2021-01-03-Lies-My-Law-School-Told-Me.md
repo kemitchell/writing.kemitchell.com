@@ -1,6 +1,7 @@
 ---
 title: Lies My Law School Told Me
 description: in praise of bad propaganda
+date: Sun 03 Jan 2021 06:50:27 PM PST
 tags:
 - Law Practice
 - Politics
