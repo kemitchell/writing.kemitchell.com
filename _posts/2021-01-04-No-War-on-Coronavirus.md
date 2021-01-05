@@ -1,5 +1,6 @@
 ---
 title: No War on Coronavirus
+author: K.E. Mitchell
 description: remembering the other way to see our problems
 date: Mon 04 Jan 2021 09:10:02 PM PST
 tags:
