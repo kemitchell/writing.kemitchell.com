@@ -7,7 +7,7 @@ tags:
 - Politics
 ---
 
-Researching social problems in America, you get the word "war" a lot.  Like red-nosed drunks who just can't believe our jokes gets worse with each retelling, we declare a War on This, a War on That, a War on Everything---poverty, addiction, bullying, child abuse, elder abuse, domestic violence, hunger, obesity, and the news.  In print.  In talks.  In conversation especially.  Often as not, our actions speak a warlike attitude, whether we use the word or not.
+Researching social problems in America, you get the word "war" a lot.  Like red-nosed drunks who just can't believe the joke gets worse with each retelling, we declare a War on This, a War on That, a War on Everything---poverty, addiction, bullying, child abuse, elder abuse, domestic violence, hunger, obesity, and the news.  In print.  In talks.  In conversation especially.  Often as not, our actions speak a warlike attitude, whether we use the word or not.
 
 But not so much for COVID-19.
 
