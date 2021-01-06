@@ -32,14 +32,12 @@ lp -o fit-to-page -o sides=two-sided-long-edge origin-crop-book.pdf
 Users on Windows with Adobe Acrobat can do this with the page-crop tool and print settings:
 
 <figure>
-<!-- TODO -->
-<img src="/images/acrobat-page-crop.png" alt="Adobe Acrobat page crop tool">
+<img src="/images/acrobat-crop-pages.png" alt="Adobe Acrobat page crop tool">
 <figcaption>Adobe Acrobat page crop tool</figcaption>
 </figure>
 
 <figure>
-<!-- TODO -->
-<img src="/images/acrobat-booklet-settings.png" alt="Adobe Acrobat print settings for a booklet">
+<img src="/images/acrobat-print-booklet.png" alt="Adobe Acrobat print settings for a booklet">
 <figcaption>Adobe Acrobat print settings for a booklet</figcaption>
 </figure>
 
