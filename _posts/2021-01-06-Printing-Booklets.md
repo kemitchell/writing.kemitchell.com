@@ -1,6 +1,7 @@
 ---
 title: Printing Booklets
 description: less paper, easier reading
+date: Wed 06 Jan 2021 01:27:37 PM PST
 tags:
 - Law Practice
 - Legal Technology
