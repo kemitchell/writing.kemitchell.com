@@ -28,8 +28,8 @@ And lest we forget there is poetry in a dictionary, bookends:
 <blockquote>
 <dl>
   <dt>demagogue, n.</dt>
-  <dd>1. In ancient times, a leader of the people; a popular leader or orator who espoused the cause of the people against any other party in the state.</dd>
-  <dd>2. In bad sense: A leader of a popular faction, or of the mob; a political agitator who appeals to the passions and prejudices of the mob in order to obtain power or further his own interests; an unprincipled or factious popular orator.</dd>
+  <dd>In ancient times, a leader of the people; a popular leader or orator who espoused the cause of the people against any other party in the state.</dd>
+  <dd>In bad sense: A leader of a popular faction, or of the mob; a political agitator who appeals to the passions and prejudices of the mob in order to obtain power or further his own interests; an unprincipled or factious popular orator.</dd>
 </dl>
 <footer>Oxford English Dictionary</footer>
 </blockquote>
