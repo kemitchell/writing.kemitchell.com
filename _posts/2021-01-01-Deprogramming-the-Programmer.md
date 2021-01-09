@@ -7,7 +7,7 @@ tags:
 - Law Practice
 ---
 
-Nobody sees all of open source, or all of law.  Least of all me.  There's too much going on, in too many places, public and private, anyone to take it all in.  Or to declare their personal crop of anecdotes a representative sample.
+Nobody sees all of open source, or all of law.  Least of all me.  There's too much going on, in too many places, public and private, for anyone to take it all in.  Or to declare their personal crop of anecdotes a representative sample.
 
 It's even worse than that.  Where we do have experience, limited as that must be, time served doesn't bestow any perfect picture of the past.  Memory doesn't work like that.  It gets worse, not better, as we go along.  It's never that great to begin with.
 
