@@ -1,6 +1,7 @@
 ---
 title: The Tension
 description: panning for hope in a very angry America
+date: Fri 08 Jan 2021 10:51:46 PM PST
 tags:
 - Politics
 ---
