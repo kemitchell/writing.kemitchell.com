@@ -26,4 +26,4 @@ Some calling for the change hail from public health or medicine, and wind up on 
 
 Call it "public health approach".  Call it "harm reduction".  Call it what you will.  If we accept that mankind, or at least those of our society, bear certain biases and tendencies, practically unchangeable in our lifetimes---call it "human nature"---questions of culpability and choice remain important.  Nothing is certain, least of all about ourselves.  But we have better ways to tell what men can do for themselves and their fellows in these matters than waging scare-quote "war" upon them, and seeing who's left.
 
-When we see a problem of nature---the world's or our own---we can react accordingly.  That art is aching from disuse.  We might yet grow stronger.  If those of left remember.
+When we see a problem of nature---the world's or our own---we can react accordingly.  That art is aching from disuse.  We might yet grow stronger.  If those of us left remember.
