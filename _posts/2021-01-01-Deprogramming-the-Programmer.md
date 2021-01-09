@@ -39,7 +39,7 @@ If you can't explain a term, you do not understand it.  You have merely kept the
 
 This is very difficult, and takes a lot of discipline.  It takes a lot of time you won't always have, in the fray.  It means stepping away, at points, from the social fellow-feeling of the norm.  But the payoff's incomparable.  All of these evasions and obscurities were defense mechanisms.  You'll find out quick what they defended you from.  In the main, what your clients thought they were paying you for.
 
-You begin to discover you didn't always really know what you were talking about, because you had expert-sounding words and phrases to hide behind.  You start having better conversations with clients, because you now seem vaguely approachable, which is way above expectation.  Clients' minds aren't warped by years of legal education.  You begin to hammer yours back straight, not with big whacks, but with tiny ball-peen hammer blows.
+You begin to discover you didn't always really know what you were talking about, because you had expert-sounding words and phrases to hide behind.  You start having better conversations with clients, because you now seem vaguely approachable, which is way above the norm.  Clients' minds aren't warped by years of legal education.  You begin to hammer yours back straight, not with big whacks, but with tiny ball-peen hammer blows.
 
 We could do the same for "open source".  Instead of working "open source" into every conversation possible, and getting nowhere, I find it far more difficult, and eventually freeing, to do the opposite.
 
