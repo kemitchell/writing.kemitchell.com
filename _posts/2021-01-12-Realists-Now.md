@@ -9,7 +9,7 @@ tags:
 - Antitrust
 ---
 
-Thanks in part to a rousing '90s libertarian hero-origin story, the Web-tech industry has long enjoyed special regard, and even special laws.  Such favor coddled, but did not require, benign indifference to what is said on one's servers.
+Thanks in part to a rousing '90s libertarian hero-origin story, the Web-tech industry has long enjoyed special regard, and even special laws.  Such favor coddled, but did not require, benign indifference to what gets said on one's servers.
 
 As Twitter, Facebook, Apple, Google, Amazon, and others show this week, the protections were never requirements.  Private firms can and do withhold their online services, and neither political affiliation nor political relevance confer special protection.  Those feeling the stick today are frantically rummaging for other weapons, from rusty antitrust laws to shiny new Section 230 changes, to avenge their expectations.  They bought the Valley's line, and now they want a refund.
 
