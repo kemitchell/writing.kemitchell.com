@@ -33,6 +33,8 @@ description: other blogs of likely interest
 
 [Dirk Riehle](https://dirkriehle.com)
 
+[Michael Weinberg](https://michaelweinberg.org/blog/)
+
 ## Sustainability as a Service Companies
 
 [License Zero](https://blog.licensezero.com/) (my company)
