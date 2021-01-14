@@ -2,8 +2,8 @@
 title: Water Manifolds
 description: hydrant-based access for the homeless of the Tenderloin
 date: Wed 13 Jan 2021 04:16:24 PM PST
+series: Water Boy
 tags:
-- Water
 - Homelessness
 ---
 
