@@ -7,7 +7,7 @@ tags:
 - Homelessness
 ---
 
-I recently came across [this article](https://sfpucnewsroom.com/community/how-damon-spigelman-lives-out-the-sfpucs-mission-of-providing-safe-drinking-water/) from the San Francisco Public Utilities Commission. The post describes how Damon Spigelman, who works at SFPUC, started a program to attach multiple-spigot "manifolds" to fire hydrants throughout the Tenderloin, where the homeless can fill water bottles, clean their hands, and generally access safe drinking water.
+I recently came across [this article](https://sfpucnewsroom.com/community/how-damon-spigelman-lives-out-the-sfpucs-mission-of-providing-safe-drinking-water/) from the San Francisco Public Utilities Commission. The post describes how Damon Spigelman, who works at SFPUC, started a program to attach multiple-spigot "manifolds" to fire hydrants throughout the [Tenderloin](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco), where the homeless can fill water bottles, clean their hands, and generally access safe drinking water.
 
 The apparatus itself looks a bit like a sawhorse, with space for a handful of people to access water at one time.  It also reminds me of the fixtures I've seen in photos of water distribution cisterns at refugee camps, which allow multiple famillies to fill a jerrycan or other vessel at once. Trucks deliver water from distribution centers to the cisterns, to serve camps far away from water infrastructure.
 
