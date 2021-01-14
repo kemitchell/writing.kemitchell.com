@@ -5,6 +5,7 @@ series: Water Boy
 date: Fri 27 Nov 2020 10:58:20 AM PST
 tags:
 - Oakland
+- Water
 - Homelessness
 ---
 
