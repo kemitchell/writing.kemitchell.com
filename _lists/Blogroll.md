@@ -33,7 +33,7 @@ description: other blogs of likely interest
 
 [Dirk Riehle](https://dirkriehle.com)
 
-[Michael Weinberg](https://michaelweinberg.org/blog/)
+[Michael Weinberg](https://michaelweinberg.org/)
 
 ## Sustainability as a Service Companies
 
