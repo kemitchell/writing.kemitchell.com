@@ -103,7 +103,7 @@ In English:  "Sell" means doing anything with this software in order to sell oth
 
 This is where Commons Clause attempts to draw the line between applications, which all these companies want others to build for free, and competitive offerings, which they want to prohibit.
 
-To make that concrete:  As a database company, I might be fine with others building inventory management, social media, and other applications using my database as data store, absolutely free.  After all, I might get to sell them training or support or database hosting down the line.  But I don't want others selling a competitive version of my database with patches they refuse to share back, or crushing me in the database-as-a-service business because they've already run away with that game before I started playing.
+To make that concrete:  As a database company, I might be fine with others building inventory management, social media, and other applications using my database as data store, absolutely free.  After all, I might get to sell them training or support or database hosting down the line.  But I don't want others selling a competitive version of my database with patches they refuse to share back, or crushing me in the database-as-a-service business because they already ran away with that game before I started playing.
 
 ## SSPL
 
