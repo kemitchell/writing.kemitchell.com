@@ -111,7 +111,7 @@ My first impression of MongoDB's Server Side Public License was that Heather wro
 
 My second impression was that somebody made her cram Commons Clause into [AGPL].  SSPL didn't seem to _translate_ Commons Clause into open licensing terms so much as _transplant_ it into AGPL, an existing open license.
 
-Those impressions aren't great, and both those involved were capable of better.  But in the end, that's all surface.  In style, SSPL's section 13 reads like commercial license language.  It tracks the business way of expressing its objective.  But the underlying mechanism that language invokes, copyleft, is at the core of free and open licensing.
+Those impressions aren't great, and all involved were capable of better.  But in the end, that's all surface.  In style, SSPL's section 13 reads like commercial license language.  It tracks the business way of expressing its objective.  But the underlying mechanism that language invokes, copyleft, is at the core of free and open licensing.
 
 The effect is a bit like a Ruby or Python wrapper around a C library.  At first glance, it's just more Ruby or Python.  You have to look deeper to see that it's invoking something different in kind.
 
