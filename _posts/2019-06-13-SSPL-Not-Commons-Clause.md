@@ -210,7 +210,7 @@ I had, too.  I quit the OSI license-review process and unsubscribed from all its
 
 I don't know where we go from here, and I don't know how.  If I had to guess, I'd guess nowhere good, and unpleasantly.  Perhaps that's just.
 
-As usual, I blame myself.  I should have seen past the surface more quickly.  Once I had, I should have set prior thoughts and debates aside, and struck at the root.  Instead, I continued playing my part in the mounting fracas, which eventually consumed itself.
+As usual, I blame myself.  I should have seen past the surface more quickly.  Once I had, I should have set prior thoughts and debates aside, and struck at the root.  Instead, I continued playing my part in the burning fracas, which eventually consumed itself.
 
 Too late in the process, as an exercise, I began sketching out what I called the "What Would Heather Do?" license.  I started from a blank slate, translating what Mongo and the Commons Clause startups seemed to want into pure and plain open-license terms.  I tried to make the design and drafting choices I think Heather would have made with a free hand and enough time.  It became a different license, and one that not only companies might want.
 
