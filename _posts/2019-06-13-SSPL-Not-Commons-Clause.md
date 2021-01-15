@@ -2,15 +2,12 @@
 title: SSPL Was Not Commons Clause
 description: how open licensing blew its biggest opportunity of the 2010s
 layout: post
+brief: I summarize the missed opportunity that was MongoDB's Server Side Public License, and how it was missed.
 tags:
 - Licensing
 - Open Source
 - SSPL
 ---
-
-<aside class="brief" markdown="1">
-I summarize the missed opportunity that was MongoDB's Server Side Public License, and how it was missed.
-</aside>
 
 MongoDB's [Server Side Public License][SSPL] is fundamentally different from [Commons Clause].  Inability and simple unwillingness to express and recognize that fact squandered a once-a-decade opportunity for open source as a community of practice.  The ensuing spat and fractious, walk-away ceasefire make everyone involved---the companies, the pundits, the Open Source Initiative, the lawyers---look petty, blinkered, selfish, and incompetent, from nearly any outside vantage point.
 
