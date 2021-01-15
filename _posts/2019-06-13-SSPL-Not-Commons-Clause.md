@@ -186,9 +186,7 @@ That speaks directly to MongoDB's history.  MongoDB, Inc. began as 10gen, a star
 
 To put it from the outside point of view: SSPL-style copyleft terms put a bounty on the business model that 10gen tried and failed to find.  If you find a way to beat MongoDB, Inc. while sharing all the code you use to do so, you're welcome to MongoDB, gratis.  If you find a way to be open source AWS, you can offer MongoDB as a part of that platform, without cutting any special deal.
 
-Commons Clause didn't make that invitation.
-
-Commons Clause just said no.
+Commons Clause didn't make that invitation.  Commons Clause just said no.
 
 ## Old Hat
 
