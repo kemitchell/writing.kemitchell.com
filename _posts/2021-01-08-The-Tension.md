@@ -71,7 +71,7 @@ It recalls nothing so well as a B-film knockoff of our country's vicious dejecti
 
 In short, real [Springsteen](https://www.youtube.com/watch?v=EPhWR4d3FJQ) shit. [The verses](https://genius.com/7927254), not the chorus.
 
-These grievances are popular because they are populous.  No single law can be fingered as smoking gun, like the execution orders of autocrats.  It's in the practical sinews between the laws that a group was defined, and as a defined group, damned.  We judge the rules by the game played on the field.  We judge them by the score.
+These grievances are popular because they are populous.  No single law can be fingered as smoking gun, like the execution orders of dictators abroad.  It's in the practical sinews between the laws that a group was defined, and as a defined group, damned.  We judge the rules by the game played on the field.  We judge them by the score.
 
 But for all this, I can remain mutely optimistic, on tentative balance.  Because there is a chance, a fleeting chance, that we might have a government that does things again.  The other great paroxysm of our politics, the fantasy of Total Victory, of domination by one party, free of "obstruction"---bipartisan rather than factional compromise---has come to pass, flaunting all notion of karma in representative government.  I would not be surprised to see us spit it out, and quick.  But while it lasts: Deliver or die.  Politically, I mean, recent events notwithstanding.
 
