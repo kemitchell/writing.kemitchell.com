@@ -79,6 +79,6 @@ We all know the issues.  Healthcare.  Immigration.  Tax reform.  Drug policy.  E
 
 Don't get the wrong hopes up, I tell myself.  Reading any bill Congress manages to pass will be impossible---I have neither that much paper nor that much time.  Snippets picked out by the better press and Wikipedia will disappoint.  But any possible return to reelection by legislative record, rather than partisan fight card, is hopeful.  There is no longer pointing vaguely across the aisle.  There is only pointing at one's name in the record, or on the bill.  The framers actually provided for this kind of accountability, as opposed to the kind we've had, which they hastily theorized away.
 
-At this point, I don't care which chatting club of collegiate ideologues likes it best.  I don't even care if we keep it long-term.  I don't even really care how riddled with whose donors' interests it may be, as long as it works.  If it makes off the lot, we can keep it running.
+At this point, I don't care which chatting club of ideologues likes it best.  I don't even care if we keep it long-term.  I don't even really care how riddled with whose donors' interests it may be, as long as it works.  If it makes off the lot, we can keep it running.
 
 Meanwhile, there's Americans bleeding down here.  The way they see it, they're running out of what to lose.  I see it, too.
