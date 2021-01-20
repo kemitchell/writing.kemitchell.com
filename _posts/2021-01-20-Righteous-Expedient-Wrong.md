@@ -74,7 +74,7 @@ Want to build and sell a closed application with a GPLv2 library?  Tough luck.  
 
 But wait.  Want to take a copyleft-licensed database, wrap it in a thin provisioning interface and some management services, offer it as a cloud service, and keep all your code closed?  Actually, that's fine.  Because no OSI-approved license clearly covers that situation.  All the approved copyleft licenses speak specifically in terms of older methods of software combination, like linking, or legal technicalities, like copyright "derivative works".
 
-That's the "gap" in existing open source license choices that SSPL addresses.  Quibble with the implementation details if you like, the drafting, the choice to start from AGPL.  There are no big, new ideas in SSPL, just extrapolations of well established open source fundamentals, along known and storied trends.
+That's the "gap" in existing open source license choices that SSPL addresses.  Quibble with the implementation details if you like, the drafting, the choice to start from AGPL.  There are no big, new ideas in SSPL, just extrapolations of well established open source fundamentals along known trends.
 
 ## Shafted?
 
