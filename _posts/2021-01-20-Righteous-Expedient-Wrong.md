@@ -72,7 +72,7 @@ But of course it's absurd to say copyleft can't be open source.  The most import
 
 Want to build and sell a closed application with a GPLv2 library?  Tough luck.  License violation.  Want to patch an AGPLv3 web application and sell access online without sharing your changes?  Too bad.  License violation.  Want to build a web application with a tweaked version of an Open Software License library, and keep it to yourself?  No can do.  License violation.  All of those licenses are open source.  And they were all approved by OSI.
 
-But wait.  Want to take a copyleft-licensed database, wrap it in a thin provisioning interface and some management services, offer it as a cloud service, and keep all your code closed?  Actually, that's fine.  Because no OSI-approved license clearly covers that situation.
+But wait.  Want to take a copyleft-licensed database, wrap it in a thin provisioning interface and some management services, offer it as a cloud service, and keep all your code closed?  Actually, that's fine.  Because no OSI-approved license clearly covers that situation.  All the approved copyleft licenses speak specifically in terms of older methods of software combination, like linking, or legal technicalities, like copyright "derivative works".
 
 That's the "gap" in existing open source license choices that SSPL addresses.  Quibble with the implementation details if you like, the drafting, the choice to start from AGPL.  There are no big, new ideas in SSPL, just extrapolations of well established open source fundamentals, along known and storied trends.
 
