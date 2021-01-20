@@ -6,7 +6,7 @@ tags:
 - SSPL
 ---
 
-Yesterday, Elastic NV, the company behind Elasticsearch, [announced](https://www.elastic.co/blog/licensing-change) they would release future versions of their Elasticsearch and Kibana software under the Server Side Public License (SSPL) to [prevent Amazon](https://www.elastic.co/blog/why-license-change-AWS) from offering them as managed services on its proprietary cloud services platform.  Elastic joins MongoDB, [originator of SSPL](https://www.mongodb.com/licensing/server-side-public-license), in accusing AWS of unfair play and adopting defensive license terms.
+Yesterday, Elastic NV, the company behind Elasticsearch, [announced](https://www.elastic.co/blog/licensing-change) they would release future versions of their Elasticsearch and Kibana software under the Server Side Public License (SSPL) to [prevent Amazon](https://www.elastic.co/blog/why-license-change-AWS) from offering them as managed services on its proprietary cloud platform.  Elastic joins MongoDB, [originator of SSPL](https://www.mongodb.com/licensing/server-side-public-license), in accusing AWS of unfair play and adopting defensive license terms.
 
 The same day, the Open Source Initiative released a short post pointedly entitled ["The SSPL Is Not an Open Source License"](https://opensource.org/node/1099), attempting to brand Elastic and SSPL "fauxpen source" and generally throwing as many short jabs their way as possible.  To hear OSI tell it, Elastic has "abandoned their original dedication to the open source community" by falling prey to the current "license du jour", announcing the move in a post "unironically titled 'Doubling Down on Open'", and hocking what is now a lamentably "proprietary product".
 
