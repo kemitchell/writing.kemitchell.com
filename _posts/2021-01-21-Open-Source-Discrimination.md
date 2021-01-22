@@ -2,6 +2,7 @@
 title: Open Source is Discrimination
 description: that's the point, or at least it used to be
 date: Thu 21 Jan 2021 11:35:10 PM PST
+brief: The current go-to argument against new, strong copyleft licenses like SSPL---that open source licenses can't discriminate against closed software development---flaunts the history of free and open source software. The whole crux of that movement was learning to tell the difference between "open" and "closed" and coming down strongly on the side of open.  But the corporate leadership of open source institutions has changed. Firms that would have been "evil" twenty years ago are now telling us what "open" means.
 tags:
 - Open Source
 - Free Software
