@@ -165,7 +165,7 @@ It's all well and good to hold copyleft over for developer credibility, and for 
 
 ## Conflict
 
-If we accept that "open source" is and will mean the kinds that are good for business right now, we still have to ask:  For whose business?   "Business" in a competitive market isn't one, monolithic interest.  It's closer to the opposite.  It's constant conflict.
+If we accept that "open source" is and will mean the kinds that are good for business right now, we still have to ask:  For whose business?   "Business" in a competitive market isn't one monolithic interest.  It's closer to the opposite.  It's constant conflict.
 
 Hence the spectacle of this week, with dueling public companies, Elastic NV and Amazon, [throwing](https://www.elastic.co/blog/why-license-change-AWS) [punches](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/) over who is the truest open sorcerer.  In one corner: a huge proprietary cloud software company hocking a permissive license.  In the other corner: another, much smaller public company whose core product has source code we can actually see and hack, stumping for something stronger than AGPL.
 
