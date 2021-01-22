@@ -29,7 +29,7 @@ Part of the power of this play is that the nondiscrimination bits of the Open So
 
 "Discrimination" has a bad ring to it these days, because we associate it with gender, racial, religious, sexual, and other kinds of deplorable oppression.  Who isn't against discrimination?  Isn't open source good for standing strong against it?
 
-Oppression requires discrimination, but oppression and discrimination are not the same.  Only oppression is inherently bad.  Discrimination can be overwhelmingly positive.  It is the basis of ethics.
+Oppression requires discrimination, but oppression and discrimination are not the same.  Only oppression is inherently bad.  Discrimination can be overwhelmingly positive.  It's at the root of all morality.
 
 Consider the banner example of deplorable oppression in the United States: racism.  Enterprising "entrepreneurs", all of them nominally Christians, discovered that enslaving Africans and their descendants could be highly profitable.  So they propounded a social category---a lesser "race" of people, actually tons of different peoples with disparate languages and cultures---and taught others to _discriminate_ on that basis.  Having made the distinction, society could then _oppress_ those it set apart. [In time, the consequences convinced still more people that the distinction was valid](https://www.ibramxkendi.com/stamped-from-the-beginning/), whether they profited from it or not, even though it was morally wrong, ultimately self-limiting, concentrated wealth, and scientifically bunk.
 
