@@ -160,7 +160,7 @@ There are folks (and firms) who are happy with the way "open source" is going no
 
 We could also plot trends and ask: For how long will these firms continue to invest in, or tolerate, definitions of open source that welcome meaningfully strong copyleft licenses, even old ones?  GPLv3 was a fight, with all manner of companies threatening to fork or pull developers.  AGPLv3 was another fight, and is still barely tolerated, if at all, in corporate open source policies.  There's an argument to be made that AGPL did more to convince proprietary software companies to mosey their way into the open source lobbying game than any major movement statement since the bubble went pop.
 
-It's all well and good to hold copyleft over for developer credibility, and for the occasional project for which you want patches back, rather than proprietary "open core" forks.  But that's not a lot of benefit, if there's much of any associated cost.  Especially if the activists, who might make a stink about it, have to do so through private blogs and personal social media accounts, rather than the big megaphone of an organization.
+It's all well and good to hold copyleft over for developer credibility, and for the occasional project for which you want patches back, rather than proprietary "open core" forks.  But that's not a lot of benefit, if there's much of any associated cost.  So much the better if activists, who might make a stink about it, have to do so through private blogs and personal social media accounts, rather than the big megaphone of an organization.
 
 ## Conflict
 
