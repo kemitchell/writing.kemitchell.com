@@ -1,6 +1,7 @@
 ---
 title: Righteous, Expedient, Wrong
 description: OSI swings at Elastic, misses, and leaves a mess
+brief: On the same day Elastic NV and AWS traded barbs about Elastic's move to MongoDB's Server Side Public License, OSI weighed in with a hit piece on AWS's side.  That's no surprise.  At this point, maybe the fudge and FUD shouldn't have been, either.
 tags:
 - Open Source
 - SSPL
