@@ -132,7 +132,7 @@ Time is a factor, and free and open theory is nothing out of industry context.  
 
 Gone are the days when "corporate open source" meant Tim O'Reilly and some hot IPOs selling consulting, warranties, and support contracts, or dual licensing.  Those business models were largely compatible with a stark view of open source good and proprietary evil, as well as aggressive, activist-driven copyleft, as we knew it at the time.  There wasn't any sense trying to fly the flag otherwise.
 
-Even if we believed those companies had too much influence, that they stumped for their own self-interests in definitions of "open source", like users stumping for the features they need, those influences seemed benign.  At worst, they overemphasized mere parts of the whole, missing the gestalt of the thing:
+Even if we believed those companies had too much influence, that they stumped for their own self-interests in definitions of "open source", like users stumping for their pet features, those influences seemed benign.  At worst, they overemphasized mere parts of the whole, missing the gestalt of the thing:
 
 - It's not open source if O'Reilly can't sell the book at retail.
 
