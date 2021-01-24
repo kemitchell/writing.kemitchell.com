@@ -200,7 +200,9 @@ Some of the relevant questions do have to do with copyright law.  For example, t
 
 > To "modify" a work means to copy from or adapt all or part of the work in a fashion requiring copyright permission, other than the making of an exact copy.  The resulting work is called a "modified version" of the earlier work or a work "based on" the earlier work.
 
-The license doesn't say "derivative work", which is the defined term in US copyright law.  But it uses "based on", which gets used in the legal definition.  Does "modified version" just mean "derivative work"?  If so, what does that mean?  And what is the copyright on to begin with?  Just the new and original code?  Its APIs?  This is legal analysis, and legal analysis is not just as simple as looking it up in a case where a judge tells you.  In the US, courts mostly referee conflicts until they settle.  They do not spit out answers to legal questions like vending machines.
+The license doesn't say "derivative work", which is the defined term in US copyright law.  But it uses "based on", which gets used in the legal definition.  Does "modified version" just mean "derivative work"?  If so, what does that mean?  And what is the copyright on to begin with?  Just the new and original code?  Its APIs?
+
+This involves legal analysis, and legal analysis is not just as simple as looking it up in a case where a judge tells you.  In the US, courts mostly referee conflicts until they settle.  They do not spit out answers to legal questions like vending machines.
 
 Similar story with "Corresponding Source".  If you build a larger web service by combining network services that call each other over HTTP, rather than libraries or snippets of code linked or pasted together, does "Corresponding Source" include the source for those other services?  What if each service is containerized, encapsulated in its own operating system.  Do those operating systems count as "System Libraries" or "generally available programs" shield the application code run they run?
 
