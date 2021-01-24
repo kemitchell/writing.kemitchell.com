@@ -194,7 +194,7 @@ There it is.  Section 13 says that when you modify a web service, you have to o
 
 The crux of AGPLv3 is adding network copyleft to GPLv3 copyleft, but that's hardly hardly all there is.
 
-From GPL, AGPL inherits a mountain of terms, definitions, quirky drafting, and quirky behavior.  To be frank, there are a lot more good questions about GPL 3 and AGPL 3 than there are good answers, even if you eliminate all the ones that only matter to copyright nerds and take all the commentary FSF has published online as pure gospel.
+From GPL, AGPL inherits a mountain of terms, definitions, quirky drafting, and quirky behavior.  To be frank, there are a lot more good questions about GPLv3 and AGPLv3 than there are good answers, even if you eliminate all the ones that only matter to copyright nerds and take all the commentary FSF has published online as pure gospel.
 
 Some of the relevant questions do have to do with copyright law.  For example, the definition of "modify", and by extension "modified version", really just call out to the scope of power the law gives copyright owners:
 
