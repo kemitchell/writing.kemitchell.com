@@ -160,7 +160,7 @@ So, for various reasons, FSF could put the AGPL implementation puzzle differentl
 
 If you're thinking this sounds like making it way more complicated, if you're thinking this explains why a two-sentence paragraph buried in section 13 was so hard to grok, you're not alone.
 
-It's not just hard for lawyers, who have the legal picture and can parse the whole license very carefully without passing out.  They don't usually have the lore of FSF doctrine and policy positions, they're not used to FSF's writing style, and a political manifesto labeled "preamble" isn't their everyday, or anyday.
+It's not just hard for lawyers, who have the legal picture and can parse the whole license very carefully without passing out.  They don't usually have the lore of FSF doctrine and policy positions, they're not used to FSF's writing style. A political manifesto labeled "preamble" isn't their everyday, or anyday, either.
 
 It's also hard for hackers, even those familiar with free software lore, who lack the legal side of the picture and a sense of what other ways things might have been said.
 
