@@ -75,9 +75,9 @@ Someone asks a company lawyer to draft a form for independent contractors.  It n
 
 - If you do it on the job, the copyright's covered by the contract.
 
-- If the contact comes under California law, or the law of any other state where work made for hire gets contractors treated like employees, the contractor assigns their copyrights, rather that calling it "work made for hire".
+- If the contact comes under California law, or the law of any other state where work made for hire gets contractors treated like employees, the contractor assigns their copyrights, rather than calling them "work made for hire".
 
-- Otherwise, if it can be work made for hire, it is.
+- Otherwise, if it can be "work made for hire", it is.
 
 - Otherwise, the contractor assigns copyright to the client.
 
