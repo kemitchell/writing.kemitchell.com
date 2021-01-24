@@ -104,7 +104,7 @@ Recall that the condition had two prongs: modifying the program and supporting n
 >
 > The GNU Affero General Public License is designed specifically to ensure that, in such cases, the modified source code becomes available to the community.  It requires the operator of a network server to provide the source code of the modified version running there to the users of that server.  Therefore, public use of a modified version, on a publicly accessible server, gives the public access to the source code of the modified version.
 
-In a nutshell: GPL is a copyleft license, but GPL doesn't actually require sharing and licensing source code if you run it for people as a network service, rather than providing it for them to run on their own computers.  AGPL was written to close that loophole, often called the "ASP Loophole", since "ASP" for "Application Service Provider" was the buzzword at the time for what we now call "SaaS".  For those digging around in blogs and mailing list archives, you'll also find mention of the "Google Problem".  Companies exploited the ASP Loophole, and still do.  Putting it all together: "AGPL was written to solve the Google Problem by closing the ASP Loophole."
+In a nutshell: GPL is a copyleft license, but GPL doesn't actually require sharing and licensing source code if you run it for people as a network service, rather than providing it for them to run on their own computers. AGPL was written to close that loophole, often called the "ASP Loophole", since "ASP" for "Application Service Provider" was the buzzword at the time for what we now call "SaaS".  For those digging around in blogs and mailing list archives, you'll also find mention of the "Google Problem".  Companies exploited the ASP Loophole, and still do.  Putting it all together: "AGPL was written to solve the Google Problem by closing the ASP Loophole."
 
 In the preamble, we learn that AGPL puts new requirements on operators of network servers.  But we just read the network copyleft paragraph of section 13, and its condition didnt't mention operating a network service.  It kicks in when we modify the program and our modified version _supports_ being used to operate a network service.
 
@@ -192,7 +192,7 @@ There it is.  Section 13 says that when you modify a web service, you have to o
 
 ## Further Spelunking
 
-The crux of AGPLv3 is adding network copyleft to GPLv3 copyleft, but that's hardly hardly all there is.
+The crux of AGPLv3 is adding network copyleft to GPLv3 copyleft, but that's hardly all there is.
 
 From GPL, AGPL inherits a mountain of terms, definitions, quirky drafting, and quirky behavior.  To be frank, there are a lot more good questions about GPLv3 and AGPLv3 than there are good answers, even if you eliminate all the ones that only matter to copyright nerds and take all the commentary FSF has published online as pure gospel.
 
