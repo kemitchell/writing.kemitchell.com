@@ -132,7 +132,7 @@ There's also leverage on an unwritten assumption.  The one who modifies the prog
 
 If you modify an AGPL blog platform to add a feature I like, and share the source code with me, but don't offer it to anyone else, there's nothing in AGPL that requires me to send the change back to the maintainer.  Nor, arguably, is there any obligation on me to offer source code when I run the program to host my own blog.  If the maintainer finds out about it, and comes after me, my first argument is simple.  I didn't violate section 13.  I didn't modify the program.  That's the way it's written.
 
-The maintainer might try to argue from the preamble, that what section 13 means ought to be read to achieve stated goals, whether it's written that way or not.  That's a long fight uphill if the judge or jury thinks section 13 was clear.  Which it very well might, especially considering how much more specific the wording is there than in the preamble.  Worst case, you end up arguing that section 13 is vague, get the court to agree, and still lose.
+The maintainer might try to argue from the preamble, that what section 13 means ought to be read to achieve stated goals, whether it's written that way or not.  That's a long fight uphill if the judge or jury thinks section 13 was clear.  Which it very well might, especially considering how much more specific the wording is there than in the preamble.  Worst case, you end up arguing that section 13 is vague, so you cite the preamble, get the court to agree to that, and still lose.
 
 ### Complication
 
