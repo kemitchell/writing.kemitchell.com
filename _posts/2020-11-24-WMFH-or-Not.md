@@ -37,7 +37,7 @@ If the person doing the work isn't an employee, their work can still count as "w
 
 2. the work is ordered or commissioned "for use as a contribution to a collective work" or a number of other kinds of works that are either commonly made up of contributions from lots of different individuals, like a movie or magazine, or strongly related to some other, preexisting work, like translations or supplements
 
-3. the author and the client specifically call the work word made for hire in writing, and sign that writing, which is usually a contract
+3. the author and the client specifically call it work made for hire in writing, and sign that writing, which is usually a contract
 
 I'm paraphrasing here.  Which is dangerous in law.  What do all these requirements _really_ mean?
 
