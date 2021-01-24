@@ -9,7 +9,7 @@ tags:
 
 Why do agreements about intellectual property run on so damn long?  There are many reasons, some valid, some bunk.  Let's take a look at one: ownership of copyrights.  We can learn a lot from it.
 
-The general rule under United States copyright law is that the author of a work owns the copyright in it.  If you sit down at home and scrawl out the next great epic poem, you probably own the copyright in it.  If someone else wants to publish your masterpiece, they'll have to a deal with you first.  You can charge them for the privilege, which is, at least officially, the point of copyright law.  Creator gets paid.
+The general rule under United States copyright law is that the author of a work owns the copyright in it.  If you sit down at home and scrawl out the next great epic poem, you probably own the copyright in it.  If someone else wants to publish your masterpiece, they'll have do to a deal with you first.  You can charge them for the privilege, which is, at least officially, the point of copyright law.  Creator gets paid.
 
 This is not what companies want when they hire people to do creative work.  Companies want to own what they pay for.  In fact, they're so unanimous on the matter that United States copyright law makes "company owns it" the default.
 
