@@ -124,7 +124,7 @@ _Now I have made a modified version of the Program._  And my modified version st
 
 There is still another hole.
 
-Say, as a user, that I happen to visit a blog, and like the way it looks and works.  As it so happens, the blog platform it runs on is licensed under AGPL, but the developers didn't include any quine-like feature in it.  The blogger didn't modify the program, and they didn't add any quine-like feature voluntarily.  I suppose I could ask them to tell me which platform they're using, so I could go and try to find the source somewhere else.  Maybe I could find it, and the right version of it. Maybe not.
+Say, as a user, that I happen to visit a blog, and like the way it looks and works.  As it so happens, the blog platform it runs on is licensed under AGPL, but the developers didn't include any quine-like feature in it.  The blogger didn't modify the program, and they didn't offer source code some other way.  I suppose I could ask them to tell me which platform they're using, so I could go and try to find the source somewhere else.  Maybe I could find it, and the right version of it. Maybe not.
 
 At least potentially, I can end up interacting with a network service for which I can't find any hackable source code.  Which is a bit of a software freedom problem, as FSF expounds software freedom.  As a user, when I use software---running on my machine or someone else's---I should get source, and be able to hack that source.
 
