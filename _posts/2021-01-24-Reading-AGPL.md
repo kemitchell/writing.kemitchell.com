@@ -9,7 +9,7 @@ tags:
 
 [The GNU Affero General Public License version 3.0](https://www.gnu.org/licenses/agpl-3.0.html), or AGPLv3 for short, carries a lot of symbolic weight.  It's not the strongest copyleft license ever written, but it's the strongest with its name rec and old-school bona fides.  It's also one of the worst well known open source licenses to read.  Which partly explains why people don't, and come away feeling not at all or way too confident when they try.
 
-Let's read AGPLv3 together.  Or rather, let's read the parts that make it AGPL, and not just regular old GPL, and scare corporate lawyers at Internet companies.
+Let's read AGPLv3 together.  Or rather, let's read the parts that make it AGPL, and not just regular old GPL. The parts that scare corporate lawyers at Internet companies.
 
 ## The Diff
 
@@ -104,7 +104,7 @@ Recall that the condition had two prongs: modifying the program and supporting n
 >
 > The GNU Affero General Public License is designed specifically to ensure that, in such cases, the modified source code becomes available to the community.  It requires the operator of a network server to provide the source code of the modified version running there to the users of that server.  Therefore, public use of a modified version, on a publicly accessible server, gives the public access to the source code of the modified version.
 
-In a nutshell: GPL is a copyleft license, but GPL doesn't actually require sharing and licensing source code if you run it for people as a network service, rather than providing it for them on their own computer.  AGPL was written to close that loophole, often called "ASP Loophole", since "ASP" was the buzzword at the time for what we call "SaaS" now.  For those digging around in blogs and mailing list archives, you'll also find mention of the "Google Problem".  Companies exploited the ASP Loophole, and still do.  Putting it all together: "AGPL was written to solve the Google Problem by closing the ASP Loophole."
+In a nutshell: GPL is a copyleft license, but GPL doesn't actually require sharing and licensing source code if you run it for people as a network service, rather than providing it for them to run on their own computers.  AGPL was written to close that loophole, often called "ASP Loophole", since "ASP" was the buzzword at the time for what we call "SaaS" now.  For those digging around in blogs and mailing list archives, you'll also find mention of the "Google Problem".  Companies exploited the ASP Loophole, and still do.  Putting it all together: "AGPL was written to solve the Google Problem by closing the ASP Loophole."
 
 In the preamble, we learn that AGPL puts new requirements on operators of network servers.  But we just read the network copyleft paragraph of section 13, and its condition didnt't mention on operating a network service.  It kicks in when we modify the program and our modified version _supports_ being used to operate a network service.
 
