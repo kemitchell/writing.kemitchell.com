@@ -106,7 +106,7 @@ Recall that the condition had two prongs: modifying the program and supporting n
 
 In a nutshell: GPL is a copyleft license, but GPL doesn't actually require sharing and licensing source code if you run it for people as a network service, rather than providing it for them to run on their own computers.  AGPL was written to close that loophole, often called the "ASP Loophole", since "ASP" for "Application Service Provider" was the buzzword at the time for what we now call "SaaS".  For those digging around in blogs and mailing list archives, you'll also find mention of the "Google Problem".  Companies exploited the ASP Loophole, and still do.  Putting it all together: "AGPL was written to solve the Google Problem by closing the ASP Loophole."
 
-In the preamble, we learn that AGPL puts new requirements on operators of network servers.  But we just read the network copyleft paragraph of section 13, and its condition didnt't mention on operating a network service.  It kicks in when we modify the program and our modified version _supports_ being used to operate a network service.
+In the preamble, we learn that AGPL puts new requirements on operators of network servers.  But we just read the network copyleft paragraph of section 13, and its condition didnt't mention operating a network service.  It kicks in when we modify the program and our modified version _supports_ being used to operate a network service.
 
 Put on your hacker hat and attack this condition.  How do you get around it?  Where might it function differently than hoped or intended?
 
