@@ -1,6 +1,6 @@
 ---
-title: Reading GNU Affero GPL
-description: a guided tour for first-timers
+title: Reading AGPL
+description: a guided introduction for first-timers
 series: Line by Line
 brief: The trick to paring AGPLv3 down is diffing it with GPLv3 and drilling down from there.  The crux is the first paragraph of section 13.  But even those two sentences make hardly any sense without broader context.  It's not you, dear reader.
 tags:
