@@ -3,6 +3,7 @@ title: Water Manifolds
 description: hydrant-based access for the homeless of the Tenderloin
 date: Wed 13 Jan 2021 04:16:24 PM PST
 series: Water Boy
+brief: San Francisco's water utility set up water access points connected to fire hydrants for people on the streets of its most infamous neighborhood.
 tags:
 - Homelessness
 ---
