@@ -1,0 +1,26 @@
+---
+title: Square One
+description: fair terms. free forms. back to work.
+tags:
+- Forms
+- Standards
+- Drafting
+- Law Practice
+- Contracts
+---
+
+I'm proud to help launch [Square One](https://squareoneforms.com), a new set of free legal forms for hiring employees and independent contractors in the United States of America.
+
+Square One comes from a group of lawyers who decided that right now, during this terrible pandemic, hiring and rehiring Americans needs to cost less money and cause less confusion.  Many of us have been able to work from home.  Some of us even _saved_ money on office space, travel, and son on.  All while reading headline after headline about layoffs, unemployment claims, dwindling savings, and rising homelessness.  These are hard times.  Time to step up.
+
+We've helped clients hire thousands of people.  Usually by providing a little guidance and a good form.  Ideally, one that's as short, easy to use, and easy to read as possible, with basic legal protections and fair terms for both sides.  When something goes wrong, a little paperwork can make all the difference.  But for the vast majority of hires, "custom" legal terms and pricey legal attention aren't worthwhile.
+
+By pooling our efforts, we came up with better forms than we could have alone---balanced, legal, and ready to fill out.  By publishing those forms online, for free, especially for companies that just can't afford a good lawyer right now, we hope we can help companies hire and rehire, sooner rather than later, more rather than fewer.
+
+If you can put someone in need back to work, lawyers should help, not stand in the way.  If you want to do the process right, documenting your terms, but need a form to do that, have a look at [squareoneforms.com](https://squareoneforms.com).
+
+Longtime readers of this blog will notice a few forward-thinking features.  The forms make heavy use of [incorporation by reference](https://writing.kemitchell.com/2016/08/20/Emancipation-by-Reference.html), bringing in legal terms, like confidentiality and intellectual property terms, by reference to permalinks on the site.  That helps keep the "offer packets" [lean](https://writing.kemitchell.com/2020/05/13/Springboard-Agreement.html), and reassures would-be hires that the terms are, in fact, standard.
+
+We also built in a high degree of configurability.  All hires use the same confidentiality and intellectual property terms, which change depending on the kind of working relationship, employee or contractor.  The top-level documents for each type of hiring---the offer letter for employees and statement of work for contractors---offer options for different kinds of work, exemption statuses, time commitments, compensation, and other details, all in one place, on the first page.
+
+Of course, we've also put in the time and effort to write what we think folks will recognize as normal English, not legalese.  As always, we know we'll need more feedback, [especially from people who _aren't_ lawyers](https://flippedform.com), to come ever closer to that goal.  We look forward to publishing new and improved version over time.
