@@ -1,7 +1,7 @@
 ---
 title: Platform Neutrality
 description: we used to have a principle for this
-brief: "Overdue arguments about content standards and social media make on as if we've never been here before. But we've been here with every new major media platform. Looking across to ISPs and net neutrality, it's not hard to find the guiding principle: where we have choices, it's up to the firms. Where we don't, it's up to the government."
+brief: "Overdue arguments about content standards and social media make on as if we've never been here before. But we've been here with every new major media platform. Looking across to ISPs and net neutrality, it's not hard to find the guiding principle: Where we have choices, it's up to the firms. Where we don't, it's up to the government."
 tags:
 - Media
 - Politics
