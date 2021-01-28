@@ -37,7 +37,7 @@ There was a push to have just one license, GPLv3, that included AGPL's extra fea
 
 ### Network Copyleft
 
-The first paragraph of section is the crux.  It implements what we call ["network copyleft"](https://blueoakcouncil.org/copyleft#network-copyleft-family), or copyleft that affects developers of network services, like web apps, and not just developers of distributed software, like installed applications and client-side scripts.
+The first paragraph of section 13 is the crux.  It implements what we call ["network copyleft"](https://blueoakcouncil.org/copyleft#network-copyleft-family), or copyleft that affects developers of network services, like web apps, and not just developers of distributed software, like installed applications and client-side scripts.
 
 If you already have some idea how traditional ["strong copyleft"](https://blueoakcouncil.org/copyleft#strong-copyleft-family) works under GPLv2 or v3, this is the part of AGPL that you need to read.  Just try and get through it once for now.  We'll be treading it over a few times together.
 
