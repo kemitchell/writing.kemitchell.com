@@ -2,6 +2,7 @@
 title: Waypoint Turns Two
 description: stop wasting time on nondisclosure agreements
 series: The Waypoint NDA
+date: Thu 28 Jan 2021 06:46:30 PM PST
 tags:
 - Contracts
 - Nondisclosure Agreement
