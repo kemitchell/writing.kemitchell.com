@@ -2,8 +2,8 @@
 title: Waypoint Trademark
 description: protecting the integrity of a standard form
 date: 2019-11-04T08:47-08:00
+series: The Waypoint NDA
 tags:
-- Waypoint
 - Contracts
 - Nondisclosure Agreement
 - Standards

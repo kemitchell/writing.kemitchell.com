@@ -2,8 +2,8 @@
 title: Waypoint Abroad
 description: seeking quick reads from non-US counsel
 layout: post
+series: The Waypoint NDA
 tags:
-- Waypoint
 - Contracts
 - Nondisclosure Agreement
 - Standards

@@ -2,10 +2,10 @@
 title: A Canting Tribe Are We
 description: attacking the NDA problem with standards networks
 layout: post
+series: The Waypoint NDA
 tags:
 - Contracts
 - RxNDA
-- Waypoint
 - Standard Legal Terms
 ---
 

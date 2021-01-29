@@ -1,6 +1,6 @@
 ---
 title: Progressive Standardization
-description: standarized contracting can also be flexible
+description: standardized contracting can also be flexible
 date: 2020-05-16T07:47Z
 tags:
 - Drafting
