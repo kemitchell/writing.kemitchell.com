@@ -171,7 +171,7 @@ Hence the spectacle of this week, with dueling public companies, Elastic NV and 
 
 At its core, this is a fight about whose interest prevails.  The prize is whatever's left in calling your stuff "open source" and having people nod along.
 
-Both Elastic and AWS develop software.  Does the developer closest to the user, like the banker closet to the money, win?  Or does the originator of the value, the expert in the code, take priority?
+Both Elastic and AWS develop software.  Does the developer closest to the user win, like the banker closest to the money?  Or does the originator of the value, the expert in the code, take priority?
 
 Or maybe it's a fight between "developer" and "user".  But those roles are just as slippery.  Is the "developer" the one developing the open source database, the one developing the cloud platform, or the one developing the application on that cloud platform?  Is the "user" Amazon?  Or perhaps Amazon's customer, for whom Amazon will appoint itself to speak?  What of the end user paying to use the product or service Amazon's customer has built?
 
