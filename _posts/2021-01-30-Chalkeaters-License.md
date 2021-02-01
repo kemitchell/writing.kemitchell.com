@@ -4,6 +4,8 @@ description: effective folk licensing in the wild
 date: Sat 30 Jan 2021 04:14:37 PM PST
 tags:
 - Licensing
+- Noncommercial
+- Art
 ---
 
 The Chalkeaters run a [YouTube channel](https://www.youtube.com/c/TheChalkeaters/) best known for [this absurd musical mashup of Animal Crossing and Doom Eternal](https://www.youtube.com/watch?v=U4lz8MN6MQA), the happiest and bloodiest video game hits of 2020.
