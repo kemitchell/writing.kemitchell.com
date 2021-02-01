@@ -687,7 +687,7 @@ following books:
   licenses, their development, as well as compatibility and compliance.
   It's the book I lend to clients considering or dealing with the GPL.
 
-  [For Business]: https://www.amazon.com/dp/1511617772
+  [For Business]: https://www.amazon.com/dp/B086G6XDM1/
 
 - Larry Rosen's _[Open Source Licensing][Licensing]_, from Prentice Hall.
 
