@@ -7,9 +7,9 @@ tags:
 - Copyleft
 ---
 
-New, stronger copyleft licenses often raise corporate compliance alarms.  Companies, especially big companies, will have to update open source policies, training programs, and employee supervision to avoid stepping in the new license.  Big, industry-wide hassle.  Not worth it.
+New, stronger copyleft licenses raise corporate compliance alarms.  Companies, especially big companies, will have to update open source policies, training programs, and employee supervision to avoid stepping in the new license.  Big, industry-wide hassle.  Not worth it!
 
-Wait just a minute now.  A loose, distributed movement is steering what thousands of firms say to thousands upon thousands of people?  How is that not a massive opportunity?  What kind of movement passes that up, and lays low?
+Wait just a minute now.  A loose, distributed movement is steering what thousands of firms say to thousands upon thousands of employees, many of them developers?  How is that not a massive opportunity?  What kind of movement passes that up, and lays low?
 
 I strongly suspect most companies considerately dealing with open source approach mass compliance the same way.  Everything under common permissive licenses like Apache 2.0 is A-0K for whatever.  Anything under a weak-copyleft license like LGPL or MPL is good to use, but not to hack.  A few famous projects under strong-copyleft licenses, like Linux, GCC, and GNU coreutils, are also fine, as long as you use just as directed.  Everything else is no-go or an e-mail to Legal.
 
