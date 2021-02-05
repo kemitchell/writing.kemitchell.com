@@ -1,6 +1,6 @@
 ---
-title: Open Source 1.0
-description: corporate compliance as advocacy channel
+title: Compliance Industrial Platform
+description: down with Open Source 1.0
 series: Killjoy
 date: Thu 04 Feb 2021 09:43:11 PM PST
 tags:
