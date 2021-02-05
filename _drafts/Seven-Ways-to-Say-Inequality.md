@@ -22,9 +22,9 @@ The leading term for putting focus not on the poor, and not on the abstract, but
 
 Those in the top 2%, or the top 10%, can find wealth distribution charts in Forbes or the New York Times.  These days, they can scarcely avoid them.  They can see what one percent means in dollar terms.  Knowing they have less, they're reassured they aren't part of the problem.  Or at least not part of the target.
 
-A phrase like "the one percent" splits the Very Rich from the Just Rich.  It helps to move the Just Rich out of the way of reforms the Not Rich want, like more progressive taxation of the Very Rich.  It's good rhetoric, but not good sense.  It probably tends toward bad policy.
+A phrase like "the one percent" splits the Very Rich from the Just Rich.  It helps to move the Just Rich out of the way of reforms the Not Rich want, like more progressive taxation of the Very Rich.  It's good rhetoric, but not good sense.  I suspect it tends toward shallow policy.
 
-The difference between the bottom ten percent and the top one percent is a difference of kind, not degree.  Those are fundamentally different lives, in fundamentally different countries.  So is the difference between the fiftieth percentile and the top one percent.  The difference between the ninety-fifth percentile and the ninety-ninth percentile, in wealth terms, is also enormous, in dollar terms.  But from the majority point of view, that's a difference of degree, not kind.  If it's a difference of kind, it's not a difference the majority cares about, or can even really comprehend.
+The difference between the bottom ten percent and the top one percent is a difference of kind, not degree.  Those are fundamentally different lives.  So is the difference between the fiftieth percentile and the top one percent.  The difference between the ninety-fifth percentile and the ninety-ninth percentile, in wealth terms, is also enormous, in raw dollar terms.  But from the majority point of view, that's a difference of degree, not kind.
 
 The trouble "the one percent" points to isn't just a problem of static wealth.  It's a problem of how people get so wealthy.  We can guess, and I suspect pretty safely, that the difference between some of the top two percent, five percent, or ten percent and the top one percent comes down to better starting points, better fortune, and more time.  Some inherited less to start with.  Some were less fortunate with what they had.  Some have compounded returns for a shorter period.  But many are playing the same games that mint the Very Rich.  Games that not only make the rich richer, but make and keep the poor poorer.
 
@@ -54,6 +54,8 @@ Industrialists and financiers have preferred "surplus wealth".  And that is a fi
 
 <!-- plutocracy -->
 
-Students of government have long used the term "plutocracy", the species of "oligarchy" dominated by wealth.  And in my reading, this is certainly the best developed and most apt name for the concept.  Alas, "plutocracy" is literally Greek, and vaguely evokes a recently demoted dwarf planet.  The more general "oligarchy" has the "equality" problem.  It could also denote a society ruled by the most worthy or educated.
+Students of government know the term "plutocracy", the species of "oligarchy" dominated by the wealthy.  In my reading, this is certainly the best fit.  Alas, "plutocracy" is literally Greek.  The more general "oligarchy" is more familiar.  But "oligarchy" has the "equality" problem.  It could also mean a society ruled by the most worthy, or the most educated.
+
+<!-- TODO: seventh term -->
 
 <!-- market under democracy -->
