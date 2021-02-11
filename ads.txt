@@ -1,0 +1,5 @@
+---
+---
+# No Ads
+# See ads.txt 1.0.3 section 3.2.1
+placeholder.example.com, placeholder, DIRECT, placeholder
