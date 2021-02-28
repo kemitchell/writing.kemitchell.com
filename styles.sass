@@ -11,8 +11,11 @@ html, body
   margin: 0
   text-align: center
   font-family: Equity-Text
-  background-color: #f8f8f8
   line-height: $lineHeight
+
+@media screen
+  html
+    background-color: #f8f8f8
 
 header[role=banner], main[role=main], footer[role=contentinfo]
   margin: 0 auto
@@ -255,9 +258,12 @@ ol.pages
 
 pre
   padding: 1em
-  background: #fdfdfd
   white-space: pre-wrap
   margin-bottom: 1rem
+
+@media screen
+  pre
+    background-color: #fdfdfd
 
 blockquote
   border-radius: 1ex 0 1ex 0
@@ -266,11 +272,14 @@ blockquote
   padding: 0.5rem 1rem
   margin-top: 0.5rem
   margin-bottom: 0.5rem
-  background: #fdfdfd
   p:first-child
     text-indent: 0
   footer
     text-align: right
+
+@media screen
+  blockquote
+    background-color: #fdfdfd
 
 blockquote + blockquote
   margin-top: 1.0rem
@@ -495,15 +504,19 @@ aside.annotation
   padding: 0.5rem
 
 .totebag
-  background: black
   border-radius: 1ex
   p
     text-align: center
-    color: white
   p:first-child
     font-size: 200%
     font-family: serif
     font-variant: small-caps
+
+@media screen
+  .totebag
+    background-color: black
+    p
+      color: white
 
 .disqusButton
   font-size: 16px
