@@ -58,8 +58,8 @@ Students of government know the term "plutocracy", the species of "oligarchy" do
 
 <!-- TODO: rigged -->
 
-<!-- Trump uses it.  -->
+<!-- Trump uses it.  "It's not just the political system that's rigged, it's the whole economy."  https://money.cnn.com/2016/06/22/news/economy/donald-trump-rigged-economy/ -->
 
-<!-- Bernie uses it. -->
+<!-- Bernie uses it. "This is what a rigged and corrupt economy looks like: ..."  https://twitter.com/BernieSanders/status/1258781182109548544 -->
 
 <!-- market under democracy -->
