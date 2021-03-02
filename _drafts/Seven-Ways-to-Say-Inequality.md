@@ -56,6 +56,10 @@ Industrialists and financiers have preferred "surplus wealth".  And that is a fi
 
 Students of government know the term "plutocracy", the species of "oligarchy" dominated by the wealthy.  In my reading, this is certainly the best fit.  Alas, "plutocracy" is literally Greek.  The more general "oligarchy" is more familiar.  But "oligarchy" has the "equality" problem.  It could also mean a society ruled by the most worthy, or the most educated.
 
-<!-- TODO: seventh term -->
+<!-- TODO: rigged -->
+
+<!-- Trump uses it.  -->
+
+<!-- Bernie uses it. -->
 
 <!-- market under democracy -->
