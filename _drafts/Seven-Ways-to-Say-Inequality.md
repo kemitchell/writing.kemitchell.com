@@ -78,4 +78,4 @@ These quotes come from famous national politicians in the last few years:
 
 Who do you suppose?  Care to guess?
 
-The answer is [Donald Trump](https://money.cnn.com/2016/06/22/news/economy/donald-trump-rigged-economy/).  And also [Bernie Sanders](https://twitter.com/BernieSanders/status/1258781182109548544).  Both have adopted "rigged" as their language of the problem of inequality.
+The answer is [Donald Trump](https://money.cnn.com/2016/06/22/news/economy/donald-trump-rigged-economy/).  And also [Bernie Sanders](https://twitter.com/BernieSanders/status/1258781182109548544).  Both have adopted "rigged" as their language of the problem of inequality.  Both enjoy a boost in appeal from addressing and expressing the problem in this way.  Both leverage that appeal to support policy positions that do and don't seem to coincide with this root of their popularity.
