@@ -8,13 +8,13 @@ tags:
 
 Here in America, we are trying to talk about the chasm between rich and poor.  We are trying to talk about what to do about it.
 
-<!-- poverty -->
+## Poverty
 
 Rich people, as a rule, prefer to talk about "poverty".  That puts the focus on what poor people do, rather than on what they do.
 
 For a long time, that was the name folks of all kinds used for the subject.  For a long time, it soundly implied that poverty was a matter of what the poor do, or even a fixed state of being.
 
-<!-- the one percent -->
+## The One Percent
 
 The leading term for putting focus not on the poor, and not on the abstract, but on the rich, is "the one percent".
 
@@ -28,7 +28,7 @@ The difference between the bottom ten percent and the top one percent is a diffe
 
 The trouble "the one percent" points to isn't just a problem of static wealth.  It's a problem of how people get so wealthy.  We can guess, and I suspect pretty safely, that the difference between some of the top two percent, five percent, or ten percent and the top one percent comes down to better starting points, better fortune, and more time.  Some inherited less to start with.  Some were less fortunate with what they had.  Some have compounded returns for a shorter period.  But many are playing the same games that mint the Very Rich.  Games that not only make the rich richer, but make and keep the poor poorer.
 
-<!-- inequality -->
+## Inequality
 
 More recently, we've shifted to "inequality".  "Inequality" puts focus on the difference between rich and poor.
 
@@ -38,25 +38,19 @@ If you're poor, "inequality" points to the rich.  If you're rich, "inequality" p
 
 We see how that plays out all the time.  Even relatively conservative people end up making nuanced distinctions between, say, "equality of opportunity" and "equality of outcome".  In policy, that nuance is essential.  But in rhetoric, nuance is weak.  Those in favor of change are all the time protesting that they don't want to level all mankind by force.  Their opponents are all the time insinuating they really do.
 
-<!-- specification -->
+## The Search
 
 To capture the essential elements of these terms, but escape their flaws, we'd need a new name for the issue.  Ideally, one that invites us to more systematic thinking, but not to wash out the whole personal element.  One that avoids rhetorical weakness, but makes good works in deciding what to do as well as describing what's wrong.  One that evokes the current state of affairs, but reflects that state as a predictable outcome of a process.  One that's familiar and understandable, but free of political baggage.
 
 That's a tall order.  And a testament to how thoroughly politics have colonized our language.  English has more than one word for everything.  But there never seem to be enough.
 
-<!-- oppression -->
-
 The Marxists say "oppression".  And that is a good word.  But its meaning has been mostly overshadowed by its affiliation.  Many Marxists wish that all would-be reformers want what they want.  They might like a name that hints as much.  But that is not the case.
-
-<!-- surplus wealth -->
 
 Industrialists and financiers have preferred "surplus wealth".  And that is a fine description, in businesslike terms.  Suspiciously, uniformly positive terms.  A surplus is good.  Wealth is good.  How can surplus wealth be bad?
 
-<!-- plutocracy -->
-
 Students of government know the term "plutocracy", the species of "oligarchy" dominated by the wealthy.  In my reading, this is certainly the best fit.  Alas, "plutocracy" is literally Greek.  The more general "oligarchy" is more familiar.  But "oligarchy" has the "equality" problem.  It could also mean a society ruled by the most worthy, or the most educated.
 
-<!-- TODO: rigged -->
+## Rigged
 
 <!-- Trump uses it.  "It's not just the political system that's rigged, it's the whole economy."  https://money.cnn.com/2016/06/22/news/economy/donald-trump-rigged-economy/ -->
 
