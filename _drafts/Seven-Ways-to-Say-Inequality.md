@@ -10,9 +10,9 @@ Here in America, we are trying to talk about the chasm between rich and poor.  W
 
 ## Poverty
 
-Rich people, as a rule, prefer to talk about "poverty".  That puts the focus on what poor people do, rather than on what they do.
+Rich people, as a rule, prefer to talk about "poverty".  "Poverty" puts the focus on what poor people do, rather than on what rich people do.
 
-For a long time, that was the name folks of all kinds used for the subject.  For a long time, it soundly implied that poverty was a matter of what the poor do, or even a fixed state of being.
+For a long time, "poverty" was the name folks of all kinds used for the subject.  For a long time, it soundly implied that poverty was a matter of what the poor do, or even a fixed state of being.  Some people are just poor.
 
 ## The One Percent
 
@@ -20,11 +20,11 @@ The leading term for putting focus not on the poor, and not on the abstract, but
 
 "The one percent" is concrete: the wealthiest one percent of people, nationwide.  That concreteness scares many very wealthy people.  They know where they stand.  But it also comforts many less wealthy people.
 
-Those in the top 2%, or the top 10%, can find wealth distribution charts in Forbes or the New York Times.  These days, they can scarcely avoid them.  They can see what one percent means in dollar terms.  Knowing they have less, they're reassured they aren't part of the problem.  Or at least not part of the target.
+Those in the top two percent, or the top ten percent, can find wealth distribution charts in Forbes or the New York Times.  These days, they can scarcely avoid them.  They can see what one percent means in dollar terms.  Knowing they have less, they're reassured they aren't part of the problem.  Or at least not part of the target.
 
 A phrase like "the one percent" splits the Very Rich from the Just Rich.  It helps to move the Just Rich out of the way of reforms the Not Rich want, like more progressive taxation of the Very Rich.  It's good rhetoric, but not good sense.  I suspect it tends toward shallow policy.
 
-The difference between the bottom ten percent and the top one percent is a difference of kind, not degree.  Those are fundamentally different lives.  So is the difference between the fiftieth percentile and the top one percent.  The difference between the ninety-fifth percentile and the ninety-ninth percentile, in wealth terms, is also enormous, in raw dollar terms.  But from the majority point of view, that's a difference of degree, not kind.
+The difference between the bottom ten percent and the top one percent is a difference of kind, not degree.  Those are fundamentally different lives.  So is the difference between the fiftieth percentile and the top one percent.  The difference between the ninety-fifth percentile and the ninety-ninth percentile, in wealth terms, is also enormous, in raw dollar terms.  But from the majority point of view, that's a difference of degree, not kind.  The top two percent is just as free of basic want as the top one percent.
 
 The trouble "the one percent" points to isn't just a problem of static wealth.  It's a problem of how people get so wealthy.  We can guess, and I suspect pretty safely, that the difference between some of the top two percent, five percent, or ten percent and the top one percent comes down to better starting points, better fortune, and more time.  Some inherited less to start with.  Some were less fortunate with what they had.  Some have compounded returns for a shorter period.  But many are playing the same games that mint the Very Rich.  Games that not only make the rich richer, but make and keep the poor poorer.
 
