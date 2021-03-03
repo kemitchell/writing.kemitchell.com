@@ -14,7 +14,7 @@ We can see the scars of those battles in our language, in the words we use to de
 
 Rich people, as a rule, prefer to talk about "poverty".  "Poverty" puts the focus on what poor people do, rather than on what rich people do.  When rich people start foundations to help poor people, those foundations raise funds, start programs, and announce initiatives to combat "poverty".
 
-For a long time, "poverty" was the name folks of all kinds, rich and poor, used for the subject.  For a long time, that name implied that poverty was a matter of what the poor do, or even a fixed state of being.  That some people are just poor and would be poor, but perhaps rich people might do something helpful about it.
+For a long time, "poverty" was the name folks of all kinds, rich and poor, used for the subject.  For a long time, that name implied that poverty was a matter of what the poor do, or even a fixed state of being.  Some people are poor and would be poor.  But perhaps the rich might do something to help.
 
 ## The One Percent
 
