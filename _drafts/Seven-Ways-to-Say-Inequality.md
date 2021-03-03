@@ -24,9 +24,7 @@ There are two sides we could blame for inequality.  "Poverty" covers one of them
 
 But "the one percent" comforts many less wealthy rich people.  Those in the top two percent, the top five percent, the top ten percent, and so on can find wealth distribution charts in Forbes, the New York Times, or on social media.  They can see what one percent means in dollar terms.  Knowing they have less, they're reassured they aren't part of the problem.  They aren't the target.
 
-In addition to shifting focus away from the poor, a phrase like "the one percent" splits the Very Rich away from the Just Rich.  It helps to move the Just Rich out of the way of reforms the Not Rich want, like progressive taxation of the Very Rich.
-
-That makes "the one percent" good rhetoric.  But it does not make good sense.
+In addition to shifting focus away from the poor, a phrase like "the one percent" splits the Very Rich away from the Just Rich.  It helps to move the Just Rich out of the way of reforms the Not Rich want, like progressive taxation of the Very Rich.  That makes "the one percent" good rhetoric.  But it does not "the one percent" good sense.
 
 The difference between the bottom ten percent and the top one percent is a difference of kind, not of degree.  Those are fundamentally different lives.  So is the difference between the fiftieth percentile and the top one percent.  The difference between the ninety-fifth percentile and the one percent, in wealth terms, is also enormous, in dollar terms.  But from the majority point of view, it's a difference of degree, not of kind.  The ninety-fifth percentile lives free of basic want, just like the one percent.  The ninety-fifth percentile doesn't suffer any less than the one percent.  They're just capable of less extravagance and influence.
 
