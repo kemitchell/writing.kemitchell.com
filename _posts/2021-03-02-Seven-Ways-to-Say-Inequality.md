@@ -1,6 +1,7 @@
 ---
 title: Seven Ways to Say "Inequality"
 description: a short study in the rhetoric of policy
+date: 2021-03-03T04:53Z
 tags:
 - Politics
 - Rhetoric
