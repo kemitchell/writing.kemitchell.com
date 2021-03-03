@@ -8,11 +8,11 @@ tags:
 
 Here in the United States, we are trying to talk about the chasm between rich and poor.  We are trying to talk about what to do about it.
 
-We can see the scars of those battles in our language, in the words we use to describe the issue and approaches to it.  We can also see an odd bipartisanship in the way the popular wings of both major parties have homed in on a new, common vocabulary.  We can trace a convergent evolution in the rhetoric of inequality over the last few years.
+We can see the scars of those battles in our language, in the words we use to describe the issue and approaches to it.  We can also see an odd bipartisanship.  The popular wings of both major parties have homed in on a new, common vocabulary of inequality.  We can trace that convergent evolution in the rhetoric of inequality over the last few years.
 
 ## Poverty
 
-Rich people, as a rule, prefer to talk about "poverty".  "Poverty" puts the focus on what poor people do, rather than on what rich people do.  When rich people start foundations to help poor people, those foundations talk a lot about "poverty".
+Rich people, as a rule, prefer to talk about "poverty".  "Poverty" puts the focus on what poor people do, rather than on what rich people do.  When rich people start foundations to help poor people, those foundations raise funds, start programs, and announce initiatives to combat "poverty".
 
 For a long time, "poverty" was the name folks of all kinds, rich and poor, used for the subject.  For a long time, that name implied that poverty was a matter of what the poor do, or even a fixed state of being.  That some people are just poor and would be poor, but perhaps rich people might do something helpful about it.
 
