@@ -9,7 +9,7 @@ tags:
 
 Here in the United States, we are trying to talk about the chasm between rich and poor.  We are trying to talk about what to do about it.
 
-We can see the scars of those battles in our language, in the words we use to describe the issue and approaches to it.  We can also see an odd bipartisanship emerging, along this narrow front.  Quite despite themselves, the popular wings of both major parties have converged on a new, common vocabulary of inequality.
+We can see the scars of those battles in our language, in the words we use to describe the issue and approaches to it.  We can also see an odd bipartisanship emerging, along this narrow front.  Quite despite themselves, the popular wings of both major parties have converged on a new, common vocabulary of inequality.  If we take the time to look, we can see the path they've taken there.
 
 ## "Poverty"
 
