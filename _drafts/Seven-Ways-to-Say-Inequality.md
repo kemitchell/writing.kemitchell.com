@@ -18,7 +18,7 @@ For a long time, "poverty" was the name folks of all kinds, rich and poor, used 
 
 ## The One Percent
 
-There are two sides we could blame for inequality.  "Poverty" covers one of them.  The leading term point not at the poor, but at the rich, is "the one percent".
+There are two sides we could blame for inequality.  "Poverty" covers one of them.  Its foil---the leading term pointing not at the poor, but at the rich---is "the one percent".
 
 "The one percent" is concrete: the wealthiest one percent of people, nationwide.  That concreteness scares very wealthy people.  They know where they stand, that they are being called out.
 
