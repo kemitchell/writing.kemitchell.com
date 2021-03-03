@@ -20,9 +20,9 @@ For a long time, "poverty" was the name folks of all kinds, rich and poor, used 
 
 There are two sides we could blame for inequality.  "Poverty" covers one of them.  Its foil---the leading term pointing not at the poor, but at the rich---is "the one percent".
 
-"The one percent" is concrete: the wealthiest one percent of people, nationwide.  That concreteness scares very wealthy people.  They know where they stand, that they are being called out.
+"The one percent" is concrete: the wealthiest one percent of people, nationwide.  That concreteness scares the one percent.  They know where they stand, and understand they are being called out.
 
-But "the one percent" also comforts many less wealthy people.  Those in the top two percent, the top five percent, the top ten percent and so on can find wealth distribution charts in Forbes, the New York Times, or on social media.  They can see what one percent means in dollars.  Knowing they have less, they're reassured they aren't part of the problem.  Or at least not part of the target.
+But "the one percent" comforts many less wealthy rich people.  Those in the top two percent, the top five percent, the top ten percent, and so on can find wealth distribution charts in Forbes, the New York Times, or on social media.  They can see what one percent means in dollar terms.  Knowing they have less, they're reassured they aren't part of the problem.  They aren't the target.
 
 In addition to shifting focus away from the poor, a phrase like "the one percent" splits the Very Rich away from the Just Rich.  It helps to move the Just Rich out of the way of reforms the Not Rich want, like progressive taxation of the Very Rich.
 
