@@ -1,3 +1,6 @@
+
+<!-- anecdote from earlier in the video: empty chairs in meetings symbolizing the customer -->
+
 <https://youtu.be/RVVfJVj5z8s?t=3200>
 
 We heard that concern for the customer over and over in our interviews with Amazon executives.
