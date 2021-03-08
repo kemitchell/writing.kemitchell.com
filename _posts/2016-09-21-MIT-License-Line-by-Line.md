@@ -712,10 +712,12 @@ I license this article under a
 
 [license]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-[Russian], [Japanese], and [Ukrainian] translations are available.
+[Russian], [Japanese], [Ukrainian], and [Chinese] translations are available.
 
 [Russian]:  http://www.opensourceinitiative.net/edu/MIT-License/
 
 [Japanese]: http://postd.cc/mit-license-line-by-line/
 
 [Ukrainian]:  https://edu-helper.org/p28/
+
+[Chinese]: https://linux.cn/article-13180-1.html
