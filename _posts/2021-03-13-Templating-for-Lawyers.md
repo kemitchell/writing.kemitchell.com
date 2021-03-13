@@ -30,7 +30,7 @@ The seller warrants that the software will perform as described in its documenta
 {{/extended}}{% endraw %}
 ```
 
-You can read `{% raw %}{{#extended}}{% endraw %}` as "include the following bit if the "extended" switch is turned on" and `{% raw %}{{/extended}}{% endraw %}` as "here's the end of the bit to include".  Note that the starting instruction uses `#`, while the ending instruction uses `/`.  Every `#` instruction must be followed by a corresponding `/` instruction.
+You can read `{% raw %}{{#extended}}{% endraw %}` as "include the following bit if the 'extended' switch is turned on" and `{% raw %}{{/extended}}{% endraw %}` as "here's the end of the bit to include".  Note that the starting instruction uses `#`, while the ending instruction uses `/`.  Every `#` instruction must be followed by a corresponding `/` instruction.
 
 Yes, these instructions look a little weird.  They have to.  If the instructions looked like content, the computer couldn't tell them apart.
 
@@ -60,7 +60,7 @@ All notices to the contractor under this agreement must be sent to the contracto
 
 Of course, in situations like individual-or-contractor, we don't really need two switches.  If the contactor isn't an individual, we know they're some kind of entity.  In other words, if the "individual" switch is on, the "entity" switch had better be off, and vice-versa.
 
-We can use just one "switch", the "individual" switch, to express the mutually exclusive choice with the `{% raw %}{{^individual}}{% endraw %}` instruction.  We can read that instruction as "if the individual switch is _off_, include this next bit, otherwise leave it out".  Just like `{% raw %}{{#individual}}{% endraw %}`, the `{% raw %}{{^individual}}{% endraw %}` instruction ends with `{% raw %}{{/individual}}{% endraw %}`.
+We can use just one "switch", the "individual" switch, to express the mutually exclusive choice with the `{% raw %}{{^individual}}{% endraw %}` instruction.  We can read that instruction as "if the 'individual' switch is _off_, include this next bit, otherwise leave it out".  Just like `{% raw %}{{#individual}}{% endraw %}`, the `{% raw %}{{^individual}}{% endraw %}` instruction ends with `{% raw %}{{/individual}}{% endraw %}`.
 
 `#` instruction and `^` instructions are commonly used back to back:
 
