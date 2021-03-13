@@ -3,6 +3,7 @@ title: Flat Forms
 description: plain language should come in plain, orderly pieces
 tags:
 - Legal Drafting
+- Plain Language
 - Contracts
 ---
 
