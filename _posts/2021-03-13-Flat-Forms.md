@@ -1,6 +1,7 @@
 ---
 title: Flat Forms
 description: plain language should come in plain, orderly pieces
+date: 2021-03-13T23:01Z
 tags:
 - Legal Drafting
 - Plain Language
