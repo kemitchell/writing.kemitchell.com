@@ -8,7 +8,7 @@ tags:
 - Drafting
 ---
 
-The benefits of [using Markdown for legal documents](https://type.commonform.org/), have proved themselves in practice.  In my [own projects](https://projects.kemitchell.com/), public and private.  In collaboration with others, as on [The Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0) and [PolyForm licenses](https://polyformproject.org/licenses).
+The benefits of [using Markdown for legal documents](https://type.commonform.org/) have proved themselves in practice.  In my [own projects](https://projects.kemitchell.com/), public and private.  In collaboration with others, as on [The Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0) and [PolyForm licenses](https://polyformproject.org/licenses).
 
 Once you can read and write legal language in a computer-friendly way, the next step up is computer-friendly _templates_.  You want to express ideas like "only include this section if the client wants an extended warranty" or "say this if the counterparty is a natural person, and this if it's a company" in your documents, so both computers and people can understand them.  When it comes time to prepare a finished document, you want a computer to stitch the pieces together, instantly and faultlessly.
 
