@@ -12,7 +12,7 @@ The benefits of [using Markdown for legal documents](https://type.commonform.org
 
 Once you can read and write legal language in a computer-friendly way, the next step up is computer-friendly _templates_.  You want to express ideas like "only include this section if the client wants an extended warranty" or "say this if the counterparty is a natural person, and this if it's a company" in your documents, so both computers and people can understand them.  When it comes time to prepare a finished document, you want a computer to stitch the pieces together, instantly and faultlessly.
 
-In techie terms, you want a "templating system", a convention for typing if-then into documents that both people and computers can understand.
+In techie terms, you want a "templating system", a convention for typing if-then into documents so both people and computers can understand.
 
 The system I recommend is called ["Mustache"](https://mustache.github.io/).  You can read about Mustache on [Wikipedia](https://en.wikipedia.org/wiki/Mustache_(template_system)), or even [dive in to the manual yourself](https://mustache.github.io/mustache.5.html).  But we can cover the essentials for legal drafters right here, in just a few examples.
 
