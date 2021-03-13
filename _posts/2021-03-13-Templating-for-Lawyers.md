@@ -14,7 +14,7 @@ Once you can read and write legal language in a computer-friendly way, the next 
 
 In techie terms, you want a "templating system", a convention for typing if-then into documents that both people and computers can understand.
 
-The system I recommend is called ["Mustache"](https://mustache.github.io/mustache.5.html).  You can read about Mustache on [Wikipedia](https//mustache.github.io/), or even [dive in to the manual yourself](https://en.wikipedia.org/wiki/Mustache_(template_system)).  But we can cover the essentials for legal drafters right here, in just a few examples.
+The system I recommend is called ["Mustache"](https://mustache.github.io/mustache.5.html).  You can read about Mustache on [Wikipedia](https://mustache.github.io/), or even [dive in to the manual yourself](https://en.wikipedia.org/wiki/Mustache_(template_system)).  But we can cover the essentials for legal drafters right here, in just a few examples.
 
 ## 80-20 Mustache for Lawyers
 
