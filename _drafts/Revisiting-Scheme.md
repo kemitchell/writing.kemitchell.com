@@ -46,6 +46,6 @@ This still feels very true.  I can't recall how prescient it would have seemed i
 
 > Implementations are encouraged to prohibit two libraries with the same name but different versions to coexist within the same program.  While this prevents the combination of libraries and programs taht erquire different version of the same library, it eliminates the potential for having multiple copies of a library's state, thus avoiding problems experienced with other shared-library mechanisms, including Windows DLLs and Unix shared objects.
 
-This feels...damaged.
+This feels ... damaged.
 
 Granted, it is only a nudge for implementers, buried in the Rationale, and not a requirement.  But especially in light of the JavaScript/npm experience, this feels like an earnest deduction from bad premises.  Especially in an oft-interpreted functional language, it's strange to see the finger point at duplication, rather than state.

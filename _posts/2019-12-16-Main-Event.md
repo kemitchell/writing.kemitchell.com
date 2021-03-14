@@ -31,7 +31,7 @@ And slowly, inexorably, it dawns on the crowd at bout assembled.  The contenders
 
 We can watch them huff and puff their way through twelve rounds and a few thousand words.  We can tally up the points.  We can even declare a winner, by diligent decision.  But there's no new narrative to note.  No rhetorical route to recant.  Not so much as a good, clean zinger to savor.  Nothing that matters, that changes the game, that evolves the conversation.
 
-The titans have met...and they got nothin'.  It's one for the stats, not one for the history books.
+The titans have met ... and they got nothin'.  It's one for the stats, not one for the history books.
 
 For the partisans of either camp reading here, a few point-by-points follow.  Not that they'll shake any minds, but a fool has to try.
 

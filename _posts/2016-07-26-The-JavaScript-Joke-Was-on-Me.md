@@ -41,7 +41,7 @@ And they represent a pretty powerful menu of abstractions.  At the low end, they
 
 Whenever possible, use functions of plain `Object` maps and `Array` lists of `String`, `Number`, `true`, `false`, and `null`---stuff you can round-trip with `JSON.parse(JSON.serialize(data))`.  If you really need binary, `TypedArray`.
 
-JavaScript is a degenerate LISP.  This is what's left...plus `TypedArray`.
+JavaScript is a degenerate LISP.  This is what's left ... plus `TypedArray`.
 
 Avoid esoteric and cutting-edge language features whenever possible.  The latter include:
 
@@ -56,7 +56,7 @@ Avoid esoteric and cutting-edge language features whenever possible.  The latter
 
 ## Name Things Obviously
 
-I am many times guilty of "clever" package naming.  And I have done the time...picking through my own profile pages trying to remember what I called my own code.
+I am many times guilty of "clever" package naming.  And I have done the time ... picking through my own profile pages trying to remember what I called my own code.
 
 Fortunately, none of those ill-named packages are in much use by anyone else.  That would have put every nonnative speaker of English within their rights to sock me in the stomach.  All for names that didn't turn out very clever, after all.
 
@@ -136,7 +136,7 @@ Except major version zero.  Major version zero is a put-on:
 
 Do not user major version zero.  Just go straight to `1.0.0`, and expect to hit `2.0.0` the same day.  You can have as many version bumps as you want.  Ain't nothing wrong with double-digits.
 
-`npm version` makes this easy. `npm i -g np` makes it painless.  You can even get away without release notes if you're sneaky...but you didn't hear it from me.
+`npm version` makes this easy. `npm i -g np` makes it painless.  You can even get away without release notes if you're sneaky ... but you didn't hear it from me.
 
 ---
 

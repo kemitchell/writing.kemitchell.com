@@ -14,7 +14,7 @@ tags:
 >
 > **Tattaglia**:  Yes, Don Barzini.  He's too modest.  He had all the judges and politicians in his pocket.  He refused to share them.
 >
-> **Corleone**:  When...when did I ever refuse an accommodation?  All of you know me here.  When did I ever refuse?  Except one time.  And why?  Because I believe this drug business is gonna destroy us in the years to come. [...]
+> **Corleone**:  When ... when did I ever refuse an accommodation?  All of you know me here.  When did I ever refuse?  Except one time.  And why?  Because I believe this drug business is gonna destroy us in the years to come. [...]
 >
 > **Barzini**:  Times have changed.  It's not like the old days, when we could do anything we want.  A refusal is not the act of a friend.  [...]  He must let us draw the water from the well.  Certainly he can present a bill for such services.  After all, we are not Communists.
 >
