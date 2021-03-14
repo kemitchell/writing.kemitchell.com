@@ -2,6 +2,20 @@
 title: Efficient Merit Apocalypse
 ---
 
-<!-- Efficient Market Hypothesis -->
+There's little hope we as human beings will overcome our innate flaws anytime soon.  But as consolation, our common, crippling foibles become ever more predictable over time, thanks to careful study by experts.  Case in Point: our noted pattern of being helpfully specific about what's good for us, and reliably vague about why we deserve it.
 
-<!-- Meritocracy -->
+In computing, the hallmark symptom of this universal affliction has been beaten well to death of late.  "Meritocracy", as it turns out, is totally true, for all manner of unhelpful, self-serving, lazy, and fundamentally unsatisfying definitions of "merit".  The rich and famous among hackers bask in the warm glow of a universal theory that they come by their wealth and notoriety because they're the best.  But there are few better-than-circular arguments for that leap of self-affirming faith.
+
+Meritocracy's hardly the first buzzword to so helpfully paper oblique self-promotion over with lofty, high-minded ideals.
+
+For those unfamiliar with similar innovations centered on the _other_ coast of the country, consider the [efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis?wprov=srpw1_0), the once and ever doubtful self-realizing religion of the finance industry.
+
+In wonk terms, the efficient-market hypothesis holds that prices of assets set by markets, like the prices of publicly traded stocks, bonds, and derivatives, reflect all information available to participants in those markets.  When the market is public, like the stock market, that means all public information.  Put another way, if the market is free enough, the current market price of an asset reflects the true and proper value of that asset, right here, right now, based on all the information that market has.  There are different forms of the hypothesis, reflecting the kinds of information rolled up into price and the degree of truthiness in current prices.  But at its core, the efficient market hypothesis lays an erudite economic sheen over the old cliche that the value of a thing is what people will pay for it.
+
+Dismayingly enough, if you take the time to think about it, the efficient market hypothesis is rather bad news for would-be Wall Street millionaires.  Efficiency implies that "beating" the market---doing a better job of pricing assets than the market does---isn't reliably possible.  Individual outcomes may vary, as randomness does.  But there's no better oracle of value than the market as a whole.  Not at the fancy hedge fund across the river.  Not between your aching neck and furrowed brows.  You might as well buy a total market index fund, and shop around for the lowest  fees you can find.
+
+That is hardly an inspiring personal credo.  Fear not.  In personal terms, for many individual traders, all such nuanced implications are necessarily and conveniently lost.  Distilled down to an individual level, shaded by self-interest, the message is different.  If you've "won" in the markets, and become rich, you've contributed to the process of market efficiency, of ensuring the Great Financial Machine spits out true and correct value assessments, for the benefit of all and the System that serves them.  If your gains came at the expense of others, that's well and dandy, too.  You were closer to truth---to "[alpha](https://en.wikipedia.org/wiki/Alpha_(finance))"---while they rightfully languished in the herd, chewing "[beta](https://en.wikipedia.org/wiki/Beta_(finance))" and imposing their irrationalities on cold financial facts.
+
+Whether it's efficiency in finance or merit in tech, these hypotheses could not be more personally complete.  They esteem winners as just, well earned, and prosocial.  They decry losers as deserving, flawed, and unhelpful.  They encapsulate, in just one pithy phrase, a pleasantly simple, emergent nobility of not just individual plays and outcomes, but the system as a whole.  As a winner, you deserved what you won.  And the world should be grateful you did.
+
+The awe inspiring _convenience_ of these deductions puts the lie to their premises.  Consider the matter of accounting.
