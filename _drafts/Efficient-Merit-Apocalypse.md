@@ -29,3 +29,5 @@ That is nothing like the situation with the _merit_, _efficiency_, or general _d
 Or rather, when they do, there's no reliable, one-to-one correlation to splendid fortune.  In computing, it's almost trite to point out that the Turing, the brightest of stars, got little in the way of transferable gratitude while he lived.  Because in addition to being a genius, a war hero, and a member of no discernible oppressed minority, Turing was gay and admitted to getting laid.
 
 <!-- TODO: "open" -->
+
+<!-- Survival of the fittest.  I am still alive.  Therefore I am the fittest. -->
