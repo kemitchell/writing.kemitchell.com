@@ -2,6 +2,10 @@
 title: Efficient Merit Apocalypse
 ---
 
+> Power always thinks it has a great Soul, and vast Views, beyond the Comprehension of the Weak; and that it is doing God Service, when it is violating all his Laws.
+>
+> --- John Adams to Thomas Jefferson, February 2, 1816
+
 There's little hope human beings will overcome our innate flaws anytime soon.  But as consolation, our common, crippling foibles become ever more predictable over time, thanks to careful study by obsessed experts.  Case in Point: our noted bent to be helpfully specific about what's good for us, and inevitably vague on why we ought to have it.
 
 In computing, the hallmark of this universal affliction has been fairly well beaten to death.  "Meritocracy", as it turns out, is totally true ... for all manner of unhelpful, self-serving, lazy, and otherwise disappointing meanings of "merit".  The rich and famous among hackers bask in the warm glow of a general theory that they come by their wealth and notoriety because they're the bestest.  But there are few better-than-circular arguments for that leap of self-affirming faith.  Few of the famous _don't_ deserve success.  But there are many like them who haven't come out so well.  It helps to be good to get that lucky, but luck isn't exactly what we mean by fairness, and exhibits some troubling biases.
