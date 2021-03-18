@@ -68,7 +68,7 @@ Nobody outside these companies should give a damn for one side or the other.  Th
 
 It's no secret I'm with the upstarts here, at least when they're thinking things through.  And I've done a bit of work for companies writing new licenses, though none of those named above.
 
-My fundamental view is that fairness and efficiency are far older, more fundamental, and more important than any fragile ideological purity of "openness" triangulated by mercurial startup promoters staging a marketing coup in the 1990s---and racking up marketable stock options to show for it---even though those decades happened to be early, formative ones for me personally.
+My fundamental view is that fairness and efficiency are far older, more fundamental, and more important than any fragile ideological purity of "openness" triangulated by mercurial startup promoters staging a marketing coup in the 1990s---and racking up marketable stock options to show for it.  Even though those decades happened to be early, formative ones for me personally.
 
 Open source matters outside a narrow software geekdom because the Internet made sharing digital stuff cheap and easy on a massive scale.  It took a little longer---until about [1994](https://en.wikipedia.org/wiki/Transport_Layer_Security) or [2000](https://en.wikipedia.org/wiki/PayPal#Early_history)---but the Internet made doing deals and paying people cheap and easy, too.  Depending on how count, [Stripe](https://stripe.com) is at least a third--generation payment processor.  Dumb suckers abound to publish free legal [content](https://projects.kemitchell.com) and [infrastructure](https://commonform.github.io) for nothing.
 
