@@ -54,7 +54,7 @@ Generalist cloud companies like Amazon, Microsoft, and Google want all the lunch
 
 The weak play on the cloud side is to boo loudly at users with a kind of [slippery slope argument](https://en.wikipedia.org/wiki/Slippery_slope).  First they'll come for _our_ "freedom" to use this stuff without paying.  Then they'll come for _your_ freedom to use this stuff without paying.  There's nothing to stop them!
 
-That makes no sense.  Why are they releasing software to begin with?  Again: to drive adoption.  No free adoption, no paid upsell opportunity.  You don't dive head first into the software market looking for treasure and shut the valve on your oxygen tank when you get to the bottom.
+That makes no sense.  Why are they releasing software to begin with?  Again: to drive adoption.  No free adoption, no paid upsell opportunity.  You don't dive head first into the software market looking for treasure and shut the valve on your oxygen tank when you hit the bottom.
 
 The stronger cloud-side play avoids repeating and thus reinforcing the distinctions smaller companies understandably make, which also happen to focus on what cloud companies are doing.  Instead, double down on ways of thinking and talking that make those lines invisible, unimportant, or threatening.  Which is why we see "not-open source" in big, bold type at the top of Justin's post and a unstated assumption of binary, open-or-not-open throughout it.  A short post on fairly lame licensing questions, without a lot of legal or other insight devs couldn't grasp for themselves, on perhaps the most important blog catering to developers on the Internet.
 
