@@ -21,4 +21,6 @@ Throughout the years, a number of open licenses have attacked specific business 
 
 - [The Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html) attacked closed cloud infrastructure services, the "Amazon problem"
 
+- [copyleft-next](https://github.com/copyleft-next/copyleft-next) attacked dual licensing
+
 Think of any I'm missing?  [Send me an e-mail!](mailto:kyle@kemitchell.com)
