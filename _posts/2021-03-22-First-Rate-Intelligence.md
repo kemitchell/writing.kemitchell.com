@@ -18,7 +18,7 @@ I was listening to the March 21 episode of [Fareed Zakariah's GPS program](https
 
 2.  The United States has many more of some large, obvious, and easily counted military assets than China, such as aircraft carriers and fighter jets, and better ones to boot.
 
-3.  The Department of Defense is an inscrutable money pit into which we have heaped not only money for defense, but money for massive accounting projects that yielded only declarations that no professional opinion could be given.
+3.  The Department of Defense is an inscrutable money pit into which we have heaped not only money for defense, but money for massive accounting projects that yielded only declarations that no professional audit opinion could be given.
 
 For this last, Fareed specifically cites Matt Taibbi's Rolling Stone piece, ["The Pentagon's Bottomless Money Pit"](https://www.rollingstone.com/politics/politics-features/pentagon-budget-mystery-807276/). That parade of horribles includes such fun facts as the F-35 fighter project costing more than the Iraq War, nuclear weapons equipment shipped across the United States and to the country of Taiwan by mistake, more than a billion dollars spent on Big Four accounting firms that could not render opinions, software systems designed to automatically allocate funds in felonious violation of federal law, and trillions of dollars in "plugs", or accounting frauds, designed to spend use-or-lose-it money and make numbers fit.  Taibbi brands the Pentagon "the world's largest producer of wrong numbers".  He makes the case.
 
