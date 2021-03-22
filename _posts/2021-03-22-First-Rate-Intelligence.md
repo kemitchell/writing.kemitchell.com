@@ -24,7 +24,7 @@ For this last, Fareed specifically cites Matt Taibbi's Rolling Stone piece, ["Th
 
 Fareed's third point eats his first.  We have every reason to suspect that gobs of money spent on defense do not actually buy any defense.  As a result, we shouldn't take any comfort in direct proportion to the money that we spend.  That money isn't accounted for.  When we've dug up fiscal pictures of specific projects, they've given every indication of systematic waste, corruption, and fraud.  When we've sought a broader picture of DoD as a whole, that process itself cost so much money that Congress prohibited spending on audits until they might actually produce something.  Audits of accounts that federal law, and arguably the Constitution itself, require DoD to produce.
 
-If there is comfort to be taken in United States military might, it ought to be from counting what the money ostensibly buys.  And Fareed begins that project in the easiest way, by counting aircraft and the ships that carry them.
+If there is comfort to be taken in United States military might, it ought to be from counting what the money ostensibly buys.  And Fareed begins that project in the easiest way, by counting aircraft and the ships that carry them.  And then moves on.
 
 If there's a takeaway to be had, I think Taibbi found it.  Quoting a staffer:
 
