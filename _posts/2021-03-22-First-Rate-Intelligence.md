@@ -31,3 +31,7 @@ If there's a takeaway to be had, I think Taibbi found it.  Quoting a staffer:
 > "You can't get the Pentagon to take an audit seriously unless you threaten to stop funding, and you can't stop funding without campaign finance reform."
 
 Audits aren't good for huge military contractors where the money ends up.  Those contractors now include the major accounting firms.
+
+> [T]he test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function. <mark>One should, for example, be able to see that things are hopeless and yet be determined to make them otherwise.</mark>
+>
+> --- F. Scott Fitzgerald, "The Crack-Up", _Esquire_, February 1936
