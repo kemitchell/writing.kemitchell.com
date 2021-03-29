@@ -6,7 +6,7 @@ tags:
 - Open Source
 ---
 
-Justice Colannino, open licensing lawyer for Microsoft, published a short piece on GitHub's blog, ["What's up with these new not-open source licenses?"](https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/), about the licenses software companies are adopting.  With admirably few words, Justin draws a distinction between "single-source" projects and other projects, echoing Dirk Riehle's ["single-vendor open source"](https://dirkriehle.com/2020/04/13/single-vendor-open-source-firms-dirk-riehle-ieee-computer-column/).  He then tags two popular business models big companies don't like, "open core" and "dual licensing", in remarkably short, simple, accurate sentences.
+Justin Colannino, open licensing lawyer for Microsoft, published a short piece on GitHub's blog, ["What's up with these new not-open source licenses?"](https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/), about the licenses software companies are adopting.  With admirably few words, Justin draws a distinction between "single-source" projects and other projects, echoing Dirk Riehle's ["single-vendor open source"](https://dirkriehle.com/2020/04/13/single-vendor-open-source-firms-dirk-riehle-ieee-computer-column/).  He then tags two popular business models big companies don't like, "open core" and "dual licensing", in remarkably short, simple, accurate sentences.
 
 Justin's post ends with an equally punchy section called "What this means for developers".  The heading asks the right question.  But oddly enough, Justin doesn't actually answer it:
 
