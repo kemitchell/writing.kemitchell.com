@@ -15,7 +15,7 @@ Lamy 2000
 ## Disposable Pen
 Uniball Vision Elite
 
-## Pencils
+## Mechanical Pencil
 Alvin DraftMatic
 
 ## Pocket Knife
@@ -38,3 +38,9 @@ iPad
 
 ## Frying Pan
 Matfer Bourgeat Carbon Steel
+
+## Water Bottle
+Nalgene Tritan 16 ounce Wide Mouth
+
+## Organizer
+Levenger Pocket Briefcase
