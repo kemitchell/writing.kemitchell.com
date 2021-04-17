@@ -4,6 +4,7 @@ description: major league copyright lawyering at bat
 date: Mon Oct 12 15:27:02 2020 -0700
 tags:
 - Open Source
+- Copyright
 - Supreme Court
 ---
 
