@@ -18,7 +18,7 @@ The lawyers definitely won, after fifteen years and gobs of billable hours.  Goo
 
 It's a gamble to declare the current state of coverage on an issue biased, then set out to restore balance to the universe single-handedly.  That usually leads to something even more unbalanced than any of the individual takes you're complaining about in aggregate, but on the opposite slant, and far more concentrated.  Inevitably, some people will read just your bit, or take just your bit seriously, and become a monster.
 
-Frankly, though, I think I'm with many of my colleagues here.  Apart from Clarence Thomas's dissent, which I've no interest in repeating, I've seen some knee-jerk, copyright maximalist takes, and not much more.
+Frankly, though, I think I'm with many of my colleagues here.  Apart from Clarence Thomas' dissent, which I've no interest in repeating, I've seen some knee-jerk, copyright maximalist takes, and not much more.
 
 I'll bite.
 
@@ -34,7 +34,7 @@ For people who _are_ federal judges, all this unpredictable wishy-wash---"flexib
 
 The contrast with rules about what can be copyrighted says a lot.  Those rules _do_ tend to take if-then form, often spelled out explicitly in the Copyright Act.  Even some of the vaguer concepts referenced in those rules, like the requirement that copyrightable work must be "creative", have developed toward more predictability in time.  We lawyers can't say exactly what the threshold for minimum creativity is, in if-then terms.  But we know it's really, really low.  If a person did the creating, rather than, say, a machine or a [monkey](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute), it's probably copyrightable.
 
-I can't help coming away from the Supreme Court's written opinion thinking that at least some justices wanted to say APIs can't be copyrighted, but didn't think they could rationalize that as interpreting the Copyright Law Congress passed, rather than making up their own.  So they looked to the part of copyright law where Congress basically gave them some hints and told them to work it out, fair use, reached the result they wanted to reach, then littered their opinion with all kinds of odd caveats that this decision is special and shouldn't affect the rest of fair use.
+I can't help coming away from the Supreme Court's written opinion thinking that at least some justices wanted to say APIs can't be copyrighted, but didn't think they could rationalize that as interpreting the Copyright Law Congress passed, rather than making up their own.  So they looked to the part of copyright law where Congress basically gave them some hints and told them to work it out, fair use, reached the result they wanted to reach that way, then littered their opinion with all kinds of odd caveats that this decision is special and shouldn't affect the rest of fair use.
 
 Basically, the Supreme Court took copyright law to the rework station, [MacGyverer](https://en.wikipedia.org/wiki/MacGyver) in one ugly hack of a bypass, complete with bare wires and a chip taped to the board, doused it with alcohol, scrubbed away the flux, and potted the bodge in black goo, to keep its heretical emanations away from the rest of the board.  Or, if you prefer:
 
@@ -51,9 +51,9 @@ Basically, the Supreme Court took copyright law to the rework station, [MacGyver
     # &c. &c. &c.
 ```
 
-If it looks like a back door, that's because it is.
+If it looks like a back door, that's because it is.  Thomas and Alito called their colleagues out on it, because that's what you do when you lose the vote at the meeting, and because holding themselves out as doing just what Congress says is point one of conservative judicial shtick.
 
-The question is that `if` statement.  Does the rule of this case apply to _all_ declaring code, just declaring code that lots of programmers have invested in learning, just declaring code in programming language standard libraries, just declaring code in Java's?  Does the rule apply to all uses of that declaring code, just uses in arguably novel computing platforms, just Android or very Android-like things?  The folks who think copyright should last forever and crush all beneath it are pushing to frame this as a one-off.  Others have doubtless green-lit projects to yoink their competitor's APIs.  Lawyers gonna get paid.
+The question now is that `if` statement.  Does the rule of this case apply to _all_ declaring code, just declaring code that lots of programmers have invested in learning, just declaring code in programming language standard libraries, just declaring code in Java's?  Does the rule apply to all uses of that declaring code, just uses in arguably novel computing platforms, just Android or very Android-like things?  The folks who think copyright should last forever and crush all beneath it are pushing to frame this as a one-off.  Others have doubtless green-lit projects to yoink their competitor's APIs.  Lawyers gonna get paid.
 
 A couple for those lawyers, while they're waiting:
 
@@ -63,11 +63,11 @@ Name another Supreme Court decision where the majority explicitly _assumes_ a pr
 
 ## Bad Metaphors
 
-After the lawyers argued this case in court, I [blogged a list of the many metaphors](https://writing.kemitchell.com/2020/10/12/Oracle-Google-Metaphors.html) the lawyers and justices bandied about.  Competitive comparison continue in the opinions.  From the majority:
+After the lawyers argued this case at the Supreme Court, I [blogged a list of the many metaphors](https://writing.kemitchell.com/2020/10/12/Oracle-Google-Metaphors.html) bandied about.  Competitive analogizing continued in the written opinions.  From the majority:
 
-- factory floor stocked with tools
-- gas pedal (in a car)
-- QWERTY keyboard layout (on ... a typewriter)
+- an API is like a factory floor stocked with tools
+- an API is like the gas pedal in a car
+- an API is like the QWERTY keyboard layout on ... a typewriter
 
 Compare Clarence Thomas, in dissent:
 
@@ -77,7 +77,7 @@ And later, addressing programmer familiarity:
 
 > Many other copyrighted works depend on the same.  A Broadway musical script needs actors and singers to invest time learning and rehearsing it.  But a theater cannot copy a script---the rights to which are held by a smaller theater---simply because it wants to entice actors to switch theaters and because copying the script is more efficient than requiring the actors to learn a new one.
 
-I'm no Clarence Thomas fan.  I'm no musical theater aficionado, like [Antonin Scalia](https://en.wikipedia.org/wiki/Antonin_Scalia), Thomas' judicial pal, either.  But I have learned and played a few parts in plays, in a couple languages.  I've learned a number of programming languages, Java among them.  But I have to admit that I think Thomas groks it.  If the majority does, they picked some lousy, leading metaphors.
+I'm no Clarence Thomas fan.  I'm no musical theater aficionado, either, as was [Antonin Scalia](https://en.wikipedia.org/wiki/Antonin_Scalia), Thomas' judicial tag-team partner.  But I have learned and played a few parts in plays, in a couple languages.  I've learned a number of programming languages, Java among them, back when Java was new hotness.  But I have to admit I think Thomas groks it.  If the majority does, they picked some lousy metaphors likely for a purpose.
 
 ## Dumbing it Down, Keeping it There
 
@@ -95,13 +95,23 @@ public static int MaxNum (int x, int y, int z) {
 
 The amicus brief of "83 computer scientists" focuses on `sort` for integers, in order to say more about different implementations.
 
-I see no clear sign in the opinions that the Supreme Court justices got much further than this.  Certainly, some Java APIs are rather rudimentary, low-level operations.  And there remain viable legal questions about whether some of those, like `max` of `a` and `b`, are derivative of prior work, or too rote or formulaic for copyright protection.  There are fewer such questions about higher-level and more innovative APIs.  APIs that deal with memory, with process management, with with streams, with reflection.  The way that some APIs build on other APIs, not in implementation, but for types and other abstractions.  They way that aspects of the Java language proper flow through, and were creatively exposed, by core libraries.
+I see no clear sign in the opinions that the Supreme Court justices got much further.  Certainly, some Java APIs are rather rudimentary, low-level operations on elemental, unboxed types.  And there remain viable legal questions about whether some of those, like `max` of `a` and `b`, are derivative of prior work, or too rote or formulaic for copyright protection.  There are fewer such questions about higher-level and more innovative APIs.  APIs that deal with memory, with process management, with with streams, with reflection.  The way that some APIs build on other APIs, not in implementation, but for types and other abstractions.  They way that aspects of the Java language proper flow through, and were creatively exposed, by core libraries.
 
-`max` and `sort` are nice, day-one, napkin-sketch introductions to Java and Java APIs.  Stopping there leaves a woefully underdeveloped picture of what APIs are and do, not just in Java, but more generally.  There is very little of the complexity, abstraction, or creativity of API design there, apart from flow flows up from the real and virtual machine.
+`max` and `sort` are nice, day-one, napkin-sketch introductions to Java and `java.lang`.  But stopping there leaves a woefully underdeveloped picture of what APIs are and do, not just in Java, but more generally.  There is very little of the complexity, abstraction, or creativity of API design there, apart from flow flows up from the real and virtual machine.  There is very little more than baseline, imputed creativity.  There is very little sense of what a pure ray of shining light the whole Java package, APIs very much included, represented, especially compared to the accretive cruft that prevailed before it.
+
+Elements of Java were derivative.  Elements always are.  But the whole was genius, a monument to technical taste, a rare case of a technical achievement other technical people can't help feeling expresses the personality of its architect.
+
+I have to admit I'm with Gosling here.  [Google totally slimed Sun.](http://nighthacks.com/jag/blog/393/index.html)  It's impossible to express just how justified that word feels, and not for any brazen commercial gimmeism, in terms of `max` and `sort`.
 
 ## Inextricable, Extricated
 
-<!-- "inextricable" declaring code and implementing code handily extricated by Google -->
+Given how much of the total impression of Java stems from its holism and consistency, it's particularly irksome to see both majority and dissent repeating the idea that Java's declaring code, or API, was "inextricable" from its implementing code.
+
+For one, Google was apparently able to extricate it quite neatly.  For two, that is the point of an API.  It's not just that you can type `max` as a shorthand for a bunch of `if` statements or `sort` for a fancy loop.  It's that you can use and invoke those shorthands _for functionality_, with a certain indifference to implementation choices.  That's especially so in some APIs, like Java's collections APIs, that establish a vocabulary that exposes and abstracts over decisions that cross the intent-implementation line, like `ArrayList` versus `Vector`.
+
+It's true that an API without _any_ implementation isn't useful.  Plenty of useless code falls under copyright, and some is a lot more creative than the "business logic" dominating clock cycles day and night.  But the nature of an API, and the crux of an APIs role in fostering compatibility, comes precisely from disentangling from implementation.  Java written "for Android" today could run on implementations that don't exist yet a few months from now.  Conversely, it's perfectly possible to design and even write out an API before doing any implementation at all.  This is common, and even good practice.
+
+Several of the best JavaScript programmers I know start their packages with drafts of the API, often in `README` or `test.js`.  One of the best bits of advice I got on writing C, way back when, was to sketch the header files for my libraries first.  Sometimes talents and appetites for API design and implementation don't coincide in one person, so one designs the API, and another implements and embellishes, like [Bernie](https://en.wikipedia.org/wiki/Bernie_Taupin) and [Elton](https://en.wikipedia.org/wiki/Elton_John), or someone does both, and the next comes to refine, like [Ayers](https://en.wikipedia.org/wiki/Dick_Ayers) after  [Kirby](https://en.wikipedia.org/wiki/Jack_Kirby).
+
 <!-- use of API by programmer v. use of API on a new platform -->
 <!-- many users of big APIs versus independent producers of small APIs -->
-<!-- Wishy-Washy on Market Factor -->
