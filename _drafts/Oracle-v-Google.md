@@ -6,11 +6,11 @@ tags:
 - Supreme Court
 ---
 
-You don't have to be an intellectual property hawk or clueless non-coder to have serious misgivings about _Oracle v. Google_.  I grew up programming, reading Larry Lessig, and running Linux.  Now I'm a lawyer, and advise a lot on open source.  I've read the Supreme Court opinions several times.  If anything, the universal industry-side acclaim for the decision---at least in the corners I lurk in---only deepens the queasy feeling I've had since the opinion went up on [supremecourt.gov](https://supremecourt.gov).
+You don't have to be an intellectual property hawk or a clueless non-coder to have serious misgivings about _Oracle v. Google_.  I grew up programming, reading Larry Lessig, and running Linux.  Now I'm a lawyer, and advise a lot on open licensing.  I've read the Supreme Court opinions several times.  If anything, the universal industry-side acclaim for the decision---at least in the corners I haunt---only deepens the queasy feeling I've had since the opinion went up on [supremecourt.gov](https://supremecourt.gov).
 
-On the industry side, I'm not totally sure this was a good result.
+On the industry side, I'm not so absolutely sure this was a good result.
 
-On the legal side, I'm pretty sure it was a bad decision.
+On the legal side, I am pretty sure it was a bad decision.
 
 To address the obvious first, a lot of the headlines and comment-section summaries get the decision wrong.  The Supreme Court didn't say application programming interfaces can't be copyrighted.  It assumed they _can_, and let an earlier appeals court decision saying as much stand.  Instead, six out of eight justices hearing the case agreed that fair use, one of the "defenses" that lets you off even if you did commit copyright infringement, lets Android off for copying Java APIs and writing their own implementations.
 
@@ -24,7 +24,7 @@ I'll bite.
 
 ## Fair Use
 
-[Fair use](https://en.wikipedia.org/wiki/Fair_use) at the Supreme Court level is basically [Calvinball](https://en.wikipedia.org/wiki/Calvin_and_Hobbes#Calvinball).  Unless the rest of the government comes along and changes [the fair use part of the Copyright Act](https://www.govinfo.gov/app/details/USCODE-2019-title17/USCODE-2019-title17-chap1-sec107), which was just Congress trying to write out what courts were already doing at the time, the Supreme Court makes the rules about what is and isn't fair use up as it goes along.  The court doesn't _have_ to hear any particular case about fair use.  So when it does, "fair use" often means something different coming out than it did going in.
+[Fair use](https://en.wikipedia.org/wiki/Fair_use) at the Supreme Court level is basically [Calvinball](https://en.wikipedia.org/wiki/Calvin_and_Hobbes#Calvinball).  Unless the rest of the government comes along and changes [the fair use section of the Copyright Act](https://www.govinfo.gov/app/details/USCODE-2019-title17/USCODE-2019-title17-chap1-sec107), which was mostly Congress trying to write out what courts were already doing at the time, the Supreme Court makes the rules about what is and isn't fair use up as it goes along.  The court doesn't _have_ to hear any particular case about fair use.  So when it does, "fair use" often means something different coming out than it did going in.
 
 The Supreme Court doesn't take that many fair use cases.  That partly explains the problem with fair use: the form of the rule represents the least code-like kind of law we have, and Supremes don't give us many [test vectors](https://en.wikipedia.org/wiki/Test_vector) to check what's going on down below.  Known as a ["factor test" or "balancing test"](https://en.wikipedia.org/wiki/Balancing_test), fair use doesn't boil down to ["bright-line"](https://en.wikipedia.org/wiki/Bright-line_rule), if-then kinds of statements, but a list of factors, or prompts, that courts are supposed to remember to think about, toss into the pot, sprinkle with a hefty seasoning of judgment, and [stir up good](https://www.youtube.com/watch?v=AER7cAiN4g0).  Lower court judges are supposed to watch how higher-ups do it, then follow along, under supervision.  When the two sides fighting have the time and money to keep going to trial and filing appeals, as they rarely do, we often see histories like _Oracle v. Google_, where perfectly competent judges, up and down the hierarchy, completely disagree with each other.
 
@@ -39,13 +39,13 @@ I can't help coming away from the Supreme Court's written opinion thinking that 
 Basically, the Supreme Court took copyright law to the rework station, [MacGyverer](https://en.wikipedia.org/wiki/MacGyver) in one ugly hack of a bypass, complete with bare wires and a chip taped to the board, doused it with alcohol, scrubbed away the flux, and potted the bodge in black goo, to keep its heretical emanations away from the rest of the board.  Or, if you prefer:
 
 ```diff
-  def fair_use (work, use_case):
+  def fair_use (work, use_case, context):
 +   if work.declaring_code and use_case.androidish:
 +     return true
 +   else:
 +     return old_fair_use(work, use_case)
 +
-+ def old_fair_use(work, use_case):
++ def old_fair_use(work, use_case, context):
     # https://copyright.gov/fair-use/fair-index.html
     # 17 U.S.C. 107
     # &c. &c. &c.
@@ -63,7 +63,9 @@ Name another Supreme Court decision where the majority explicitly _assumes_ a pr
 
 ## Bad Metaphors
 
-After the lawyers argued this case at the Supreme Court, I [blogged a list of the many metaphors](https://writing.kemitchell.com/2020/10/12/Oracle-Google-Metaphors.html) bandied about.  Competitive analogizing continued in the written opinions.  From the majority:
+After the lawyers argued this case at the Supreme Court, I [blogged a list of the many metaphors](https://writing.kemitchell.com/2020/10/12/Oracle-Google-Metaphors.html) bandied from podium and bench.  Competitive analogizing continued in the written opinions.
+
+The majority lobbed a few, some of which we'd heard before:
 
 - an API is like a factory floor stocked with tools
 - an API is like the gas pedal in a car
@@ -77,11 +79,11 @@ And later, addressing programmer familiarity:
 
 > Many other copyrighted works depend on the same.  A Broadway musical script needs actors and singers to invest time learning and rehearsing it.  But a theater cannot copy a script---the rights to which are held by a smaller theater---simply because it wants to entice actors to switch theaters and because copying the script is more efficient than requiring the actors to learn a new one.
 
-I'm no Clarence Thomas fan.  I'm no musical theater aficionado, either, as was [Antonin Scalia](https://en.wikipedia.org/wiki/Antonin_Scalia), Thomas' judicial tag-team partner.  But I have learned and played a few parts in plays, in a couple languages.  I've learned a number of programming languages, Java among them, back when Java was new hotness.  But I have to admit I think Thomas groks it.  If the majority does, they picked some lousy metaphors likely for a purpose.
+I'm no Clarence Thomas fan.  I'm no musical theater aficionado, either, as was [Antonin Scalia](https://en.wikipedia.org/wiki/Antonin_Scalia), Thomas' tag-team partner.  But I have learned and played a few parts in plays, in a couple of languages.  I've learned a few of programming languages, Java among them, back when Java was new hotness.  But I have to admit I think Thomas groks it.  I don't think Breyer does.  If he does, he picked some lousy metaphors.  They square with the legal conclusion he reached, and that his colleagues joined.  Not so much  my experience of software.
 
 ## Dumbing it Down, Keeping it There
 
-One explanation for the way the majority chose to portray API usage, among many, stems from the way those involved in the case chose to explain APIs to judges.  They chose to dumb it down.
+One explanation for the way the majority spun APIs, among many, stems from the way those involved in the case chose to explain APIs to judges.  They chose to dumb it down, and never really built from there.
 
 The majority mentions `java.lang.Math.max`.  The dissent quotes a hypothetical implementation of a similar method in full:
 
@@ -93,25 +95,50 @@ public static int MaxNum (int x, int y, int z) {
 }
 ```
 
-The amicus brief of "83 computer scientists" focuses on `sort` for integers, in order to say more about different implementations.
+The amicus brief of "83 computer scientists" focuses on `sort` for integers.  Probably to say more about different implementations.  But still very basic.
 
-I see no clear sign in the opinions that the Supreme Court justices got much further.  Certainly, some Java APIs are rather rudimentary, low-level operations on elemental, unboxed types.  And there remain viable legal questions about whether some of those, like `max` of `a` and `b`, are derivative of prior work, or too rote or formulaic for copyright protection.  There are fewer such questions about higher-level and more innovative APIs.  APIs that deal with memory, with process management, with with streams, with reflection.  The way that some APIs build on other APIs, not in implementation, but for types and other abstractions.  They way that aspects of the Java language proper flow through, and were creatively exposed, by core libraries.
+I see no clear sign in the opinions that the Supreme Court justices were led any further.
 
-`max` and `sort` are nice, day-one, napkin-sketch introductions to Java and `java.lang`.  But stopping there leaves a woefully underdeveloped picture of what APIs are and do, not just in Java, but more generally.  There is very little of the complexity, abstraction, or creativity of API design there, apart from flow flows up from the real and virtual machine.  There is very little more than baseline, imputed creativity.  There is very little sense of what a pure ray of shining light the whole Java package, APIs very much included, represented, especially compared to the accretive cruft that prevailed before it.
+Certainly, some Java APIs are rather rudimentary, low-level operations on elemental, unboxed types.  And there remain viable legal questions about whether some of those, like `max` of `a` and `b`, are derivative of prior work, or too rote or formulaic for copyright protection.  There are fewer such questions about higher-level and more innovative APIs.  APIs that deal with memory, with process management, with with streams, with reflection.  The way that some APIs build on other APIs, not in implementation, but for types and other abstractions.  They way that aspects of the Java language proper flow through, and were creatively exposed, by core libraries.
 
-Elements of Java were derivative.  Elements always are.  But the whole was genius, a monument to technical taste, a rare case of a technical achievement other technical people can't help feeling expresses the personality of its architect.
+`max` and `sort` are nice, day-one, napkin-sketch introductions to Java and `java.lang`.  But stopping there leaves a woefully underdeveloped picture of what APIs are and do, not just in Java, but more generally.  There is very little of the complexity, abstraction, or creativity of API design there, apart from that which burbles up from the real and virtual machines.  There is very little more than baseline, copyright-law-minimum creativity.  There is very little sense of what a pure ray of shining light the whole Java package, APIs very much included, represented, especially compared to the carbon-black, accretive cruft that prevailed before it in mainstream programming.
 
-I have to admit I'm with Gosling here.  [Google totally slimed Sun.](http://nighthacks.com/jag/blog/393/index.html)  It's impossible to express just how justified that word feels, and not for any brazen commercial gimmeism, in terms of `max` and `sort`.
+Elements of Java were derivative.  Elements of a new thing always are.  But the whole was genius, a monument of technical taste, a rare case of a software achievement that technical people can't help feeling expresses the personality of its architect.
+
+I have to admit I'm with Gosling here.  [Google totally slimed Sun.](http://nighthacks.com/jag/blog/393/index.html)  It's impossible to express just how justified that word feels, and not for any brazen commercial gimmeism, in terms of `max` and `sort`.  Java wasn't Java because of `max`, `sort`, and a hundred more method signatures like them.  That's secular sacrilege.
 
 ## Inextricable, Extricated
 
 Given how much of the total impression of Java stems from its holism and consistency, it's particularly irksome to see both majority and dissent repeating the idea that Java's declaring code, or API, was "inextricable" from its implementing code.
 
-For one, Google was apparently able to extricate it quite neatly.  For two, that is the point of an API.  It's not just that you can type `max` as a shorthand for a bunch of `if` statements or `sort` for a fancy loop.  It's that you can use and invoke those shorthands _for functionality_, with a certain indifference to implementation choices.  That's especially so in some APIs, like Java's collections APIs, that establish a vocabulary that exposes and abstracts over decisions that cross the intent-implementation line, like `ArrayList` versus `Vector`.
+For one, Google was apparently able to extricate it quite neatly.  For two, that is the point of an API.
+
+It's not just that you can type `max` as a shorthand for a bunch of `if` statements or `sort` for a fancy loop.  It's that you can use and invoke those shorthands _for functionality_, with a certain measure of indifference to implementation.  That's especially so in some APIs, like Java's collections APIs, that establish a vocabulary that exposes and abstracts over decisions that cross the intent-implementation line, like `ArrayList` versus `Vector`.  Those choices---what to expose, what to elide, how to describe it---are an author's work.  And a great deal more creative than many Java programs.
 
 It's true that an API without _any_ implementation isn't useful.  Plenty of useless code falls under copyright, and some is a lot more creative than the "business logic" dominating clock cycles day and night.  But the nature of an API, and the crux of an APIs role in fostering compatibility, comes precisely from disentangling from implementation.  Java written "for Android" today could run on implementations that don't exist yet a few months from now.  Conversely, it's perfectly possible to design and even write out an API before doing any implementation at all.  This is common, and even good practice.
 
-Several of the best JavaScript programmers I know start their packages with drafts of the API, often in `README` or `test.js`.  One of the best bits of advice I got on writing C, way back when, was to sketch the header files for my libraries first.  Sometimes talents and appetites for API design and implementation don't coincide in one person, so one designs the API, and another implements and embellishes, like [Bernie](https://en.wikipedia.org/wiki/Bernie_Taupin) and [Elton](https://en.wikipedia.org/wiki/Elton_John), or someone does both, and the next comes to refine, like [Ayers](https://en.wikipedia.org/wiki/Dick_Ayers) after  [Kirby](https://en.wikipedia.org/wiki/Jack_Kirby).
+Several of the best JavaScript programmers I know start their packages with drafts of the API, often in `README` or `test.js`.  One of the best bits of advice I got on writing C, way back when, was to sketch the header files for my libraries first.  Sometimes talents and appetites for API design and implementation don't coincide in one person, so one designs the API, and another implements and embellishes, like [Bernie](https://en.wikipedia.org/wiki/Bernie_Taupin) and [Elton](https://en.wikipedia.org/wiki/Elton_John).  Sometimes one kind of talent does both to start, and the next comes along to refine, like [Ayers](https://en.wikipedia.org/wiki/Dick_Ayers) after [Kirby](https://en.wikipedia.org/wiki/Jack_Kirby).
 
-<!-- use of API by programmer v. use of API on a new platform -->
-<!-- many users of big APIs versus independent producers of small APIs -->
+I don't expect the Supreme Court to wax rhapsodic about the lofty heights of the programming experience.  But it saddens me to see the verve of the art so totally missing in evidence.  I don't see it in the opinions.  It's a stretch to think it affected the decision, but somehow avoided mention.
+
+## Bye Bye Business Models
+
+Speaking of art, if we read _Oracle v. Google_ as the copyright _minimalists_ prefer, the Supreme Court just kicked the chair out from under companies trying to compete on API.  That wouldn't mean no new APIs, or new good ones, any more than we won't have new dishes to eat or new clothes to wear.  I strongly suspect it would mean we'll see more of them from the copycat [H&Ms, Zaras](https://en.wikipedia.org/wiki/Fast_fashion), and famous-name holding-company restaurants and glossy-page cookbook magazines of the world, rather than small shops and independent creators actually coming up with the goods.  And of course from the big, public tech companies, who make gobs of money otherwise, and spend some of it on R&D, largely to coax us in ways that benefit them.
+
+Submit this issue to the [clap-o-meter](https://en.wikipedia.org/wiki/Clap-o-meter) in the court of public coder opinion, I doubt we'll hear much objection.  As programmers, we all use more APIs than we create.  But that is a different question from whether we _implement_ more of other people's APIs than our own.  While the headlines spoke of APIs generally, to raise the stakes and drive the clicks for each new story on the forever copyright war that kept on giving until this month, it was never clear the Supreme Court would decide anything that broadly, and it still isn't.  I can't for the life of me decide whether the latest Supreme Court decision really addresses the unlicensed _use_ of others' APIs in broader applications, or just competing reimplementation.  The general pattern is that the Supreme Court decides a rather narrow form of the questions put to it.  We all read those decisions like tea leaves, see where it goes in the lower appellate courts, and wait another couple decades for the next round.
+
+As programmers, and therefore people, we're also preternaturally short-termist.  Even though we know better.  It's past the resolution of my crystal ball to tell whether a broad application of _Oracle v. Google_ will accelerate or retard API design.  What if the court had ruled that reuse of handwritten machine code was always fair use?  Would we see a more efficient allocation of money, prestige, and resources to the specialists who write that kind of thing, or not?  Would we see small players, who rely on legal protection in lieu of manpower, capital, and market power, edged out or absorbed into FANG, as salarymen?
+
+As programmers, an awful lot of us are salarymen.  Employment is experienced as a kind of constructed environment, even a playpen, in which copyrights are only experienced as a hindrance from others, because all copyrights for new work created devolve by contract to the employer.  This explains some of what we saw in the briefing for _Oracle v. Google_: big tech companies, allied advocacy groups, salaried R&D group employees, and tenured professors on one side, businesspeople on the other.  Workers who are not also businesspeople don't experience copyrights as assets.  They don't own their work, and they're not paid royalties.  They might get a bonus, if they code what they're supposed to code and it works out well.  But they're more likely concerned about losing their jobs if they don't serve up what's ordered.  Turning that into money is somebody else's job.  It matters to the coders financially, if at all, in dilute form, if they get stock or options, and the value of the company appreciates.
+
+There was nothing stopping us from making APIs "open" before this court decision.  The same old licenses worked on APIs.  The prospect of a broad _Oracle v. Google_ reading is that API developers will be drafted into openness for their work.
+
+Especially FSF-affiliated folks have long brought up legislation mandating that software must be "free" as a talking point.  That's the strong reading of _Oracle v. Google_, not for software generally, but for the APIs in it specifically.
+
+<!-- principle: you choose the terms for your work -->
+
+<!-- ESR: communism means you have to share -->
+
+## Assumptions
+
+<!-- on what basis did people assume APIs weren't copyrightable -->
