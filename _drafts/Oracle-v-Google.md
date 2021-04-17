@@ -151,4 +151,6 @@ At various times, Raymond, and not just Raymond, also expressed the view that co
 
 ## Assumptions
 
-<!-- on what basis did people assume APIs weren't copyrightable -->
+I can't help mentioning an assertion I've seen repeated constantly in writing about _Oracle v. Google_: the idea that software people have long _assumed_ that APIs can't be copyrighted, and proceeded accordingly.
+
+I've been a programmer since I was a boy.  Longer than I've been a lawyer.  I've also associated with, and worked around, the open side of the spectrum, far more than the closed.  In all that time, I never assimilated any strong view on copyrightability and APIs.  I struggle to think of any other strongly held view of that kind, about an untested and remarkably specific point of legal doctrine, that remotely compares.  Where are programmers meant to have picked up this strong help belief about a fine point of copyright law the courts hadn't reached yet?
