@@ -105,7 +105,11 @@ Certainly, some Java APIs are rather rudimentary, low-level operations on elemen
 
 Elements of Java were derivative.  Elements of a new thing always are.  But the whole was genius, a monument of technical taste, a rare case of a software achievement that technical people can't help feeling expresses the personality of its architect.
 
-I have to admit I'm with Gosling here.  [Google totally slimed Sun.](http://nighthacks.com/jag/blog/393/index.html)  It's impossible to express just how justified that word feels, and not for any brazen commercial gimmeism, in terms of `max` and `sort`.  Java wasn't Java because of `max`, `sort`, and a hundred more method signatures like them.  That's secular sacrilege.  For achievements as basic and broad as a language, and for libraries, frameworks, and other components, too.
+I have to admit I'm with Gosling here.  [Google totally slimed Sun.](http://nighthacks.com/jag/blog/393/index.html)  It's impossible to express just how justified that word feels, and not for any brazen commercial gimmeism, in terms of `max` and `sort`.  Java wasn't Java because of `max`, `sort`, and a hundred more method signatures like them.  That's secular sacrilege.
+
+## Mega Stakes or Bust
+
+<!-- not just general purpose languages, but databases, libraries, etc. -->
 
 ## Inextricable, Extricated
 
