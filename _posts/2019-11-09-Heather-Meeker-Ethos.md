@@ -141,7 +141,7 @@ Coders develop conditions under which they are willing to devote their time and 
 
 ## Activism
 
-Historians of the early academic computer labs of legend, at MIT and Stanford and Cal and CMU, tell of protests impinging on their cloister.  'Twas the 60's.  They also tell of protests _of_ the labs, where many large contracts for nefarious purposes were dutifully performed, and of locks begrudgingly accepted as anti-hacker, but necessary for the sake of the Big Iron.  Hackers sat tapping at terminals, pointing over shoulders, and squinting at manuals, participating in the greater movement of their peers, if at all, only intellectually, in spirit, or symbolically.
+Historians of the early academic computer labs of legend, at MIT and Stanford and Cal and CMU, tell of protests impinging on their cloister.  'Twas the 60's.  They also tell of protests _of_ the labs, where many large contracts for nefarious purposes were dutifully performed, and of locks begrudgingly accepted as anti-hacker, but necessary for the sake of securing the Big Iron from fellow students who got out more.  Hackers sat tapping at terminals, pointing over shoulders, and squinting at manuals, participating in the greater movement of their peers, if at all, only intellectually, in spirit, or symbolically.
 
 Those were personal choices, reflective of personal histories, preferences, and circumstances.  We judge now, or don't, as we're wont.  But when programmers of today choose to join the protests out in the world, and to affirm, rather than deny, the connection between their work and widespread harm, it's narrow and trite to chide for little verve for freedom.
 
