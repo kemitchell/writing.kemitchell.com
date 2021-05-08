@@ -5,7 +5,7 @@ description: recommended program of reading, comparison, and analysis
 
 A number of people have asked me for hints on which open source licenses to read, in order to develop a working understanding of the field.  The following list suggests a number of licenses, in a specific order, designed to help develop understanding.
 
-[Send suggestions, corrections, and feedback via GitHub.]({{site.repository_url}}/commits/master/pages/{{page.path}})
+[Send suggestions, corrections, and feedback via GitHub.]({{site.repository_url}}/commits/main/pages/{{page.path}})
 
 ## Notes to Readers
 
