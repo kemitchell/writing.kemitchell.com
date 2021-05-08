@@ -79,25 +79,21 @@ Name another Supreme Court decision where the majority explicitly _assumes_ a pr
 
 After the lawyers argued this case at the Supreme Court, I [blogged a list of the many metaphors](https://writing.kemitchell.com/2020/10/12/Oracle-Google-Metaphors.html) bandied from podium and bench.  Competitive analogizing continued in the written opinions.
 
-The majority lobbed a few, some of which we'd heard before:
-
-- an API is like a factory floor stocked with tools
-
-- an API is like the gas pedal in a car
-
-- an API is like the QWERTY keyboard layout on ... a typewriter
+The majority lobbed a few, some of which we'd heard before.  An API is like a factory floor stocked with tools.  An API is like the gas pedal in a car.  An API is like the QWERTY keyboard layout on ... a typewriter.
 
 Compare Clarence Thomas, in dissent:
 
 > Like many programming languages, Java allows developers to prewrite small subprograms called "methods."  Methods form the building blocks of more complex programs. This process is not unlike what legislatures do with statutes.  To save space and time, legislatures define terms and then use those definitions as a shorthand. For example, the legal definition for "refugee" is more than 300 words long.  [8 U.S.C. § 1101](https://www.govinfo.gov/app/details/USCODE-2019-title8/USCODE-2019-title8-chap12-subchapI-sec1101)(42).  Rather than repeat all those words every time they are relevant, the U.S. Code encapsulates them all with a single term that it then inserts into each relevant section. Java methods work similarly.  Once a method has been defined, a developer need only type a few characters (the method name and relevant inputs) to invoke everything contained in the subprogram.  A programmer familiar with prewritten methods can string many of them together to quickly develop complicated programs without having to write from scratch all the basic subprograms.
 
-And later, addressing programmer familiarity:
+As much as I'm I'll-disposed to give it to him, this is the best metaphor in the record at the Supreme Court level.  And it's well stated.
+
+The quality of the imagery bear fruit.  Later, addressing programmer familiarity:
 
 > Many other copyrighted works depend on the same.  A Broadway musical script needs actors and singers to invest time learning and rehearsing it.  But a theater cannot copy a script---the rights to which are held by a smaller theater---simply because it wants to entice actors to switch theaters and because copying the script is more efficient than requiring the actors to learn a new one.
 
-I'm no Clarence Thomas fan.  I'm no musical [theater aficionado](https://en.wikipedia.org/wiki/Antonin_Scalia), either.  But I have played a few parts on a few small stages, in a couple of languages.  I've learned a few of programming languages, Java among them, back when Java was new and exciting.  But I have to admit I think Thomas groks it.  I don't think Breyer does.
+I'm no Clarence Thomas fan.  I'm no musical [theater aficionado](https://en.wikipedia.org/wiki/Antonin_Scalia), either.  But I have played a few parts on a few small stages, in a couple of languages.  I've learned a few programming languages, Java among them, back when Java was fresh and rad.  But I have to admit I think Thomas groks it.  I don't think Breyer does.
 
-If Breyer was right there with Thomas, he picked some lousy metaphors.  Granted, they square with the conclusion he reached, and that his colleagues joined.  But not so much my experience of software.  Or my education in how copyright applies to it.
+If Breyer was right there with Thomas, he picked some lousy metaphors.  Perhaps because they better square with the conclusion he reached, and that his colleagues joined.  But they don't square so well with my experience of software.  Or my education in how copyright applies to it.
 
 ## Dumbing it Down, Keeping it There
 
