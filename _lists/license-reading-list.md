@@ -25,7 +25,7 @@ Be a legal vampire.  Suck every last drop of meaning from every last license sec
 
 1.  Read [The MIT License](https://spdx.org/licenses/MIT.html), a _very_ popular open source license.
 
-    Read [_The MIT License, Line by Line_]({% post_url 2016-09-21-MIT-License-Line-by-Line %}).
+    Read [_The MIT License, Line by Line_](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html).
 
 2.  Read [The ISC License](https://spdx.org/licenses/ISC.html), a fairly popular open source license.
 
