@@ -19,7 +19,7 @@ Uniball Vision Elite
 Alvin DraftMatic
 
 ## Pocket Knife
-Case TrapperLock
+Spyderco Para3
 
 ## Office Keyboard
 Kinesis Advantage
