@@ -1,14 +1,20 @@
-Around the middle of last year, shortly after my own personal "this is going to last a lot longer than I thought" pandemic moment, I started a stack of notecards for a book about lawyers and language.  The premise: to describe and illustrate the profoundly bizarre relationship lawyers develop with written words, and to make that available to ill-advised laypeople foolish enough to expose their brains to permanent damage characteristic to an alien professional culture.
+---
+title: Quoted Language
+---
 
-I've set the project aside now, because I struggle to think of anyone I dislike enough to recommend reading the book.  But light exposures pose far lesser risk.  Especially, I think, where large chunks of my audience who _aren't_ lawyers already suffer similar perversions.
+Around the middle of last year, shortly after my own personal "this is going to last longer than I thought" pandemic moment, I started a stack of notecards for a book about lawyers and language.  The premise: to describe and illustrate the profoundly bizarre relationship lawyers develop with words, and to make that available to ill-advised laypeople foolish enough to expose their brains to permanent damage.
 
-Many programmers and many lawyers share a peculiar, brazen dexterity with mixing imperative language of mixed context, audience, and direction.  Most people develop an innate sense that things must or should be said one way in some circumstances, and differently in others, to get what they want.  They may manage dimensions of personal familiarity, choice of language in multilingual circumstances, high and low tone, dialect, slang, and so on.  But it is rare, in first person experience, to mix language meant for one context with language meant for another in a single expression.  Especially where one utterance refers to, or depends on, another kind.
+I've set the project aside now, because I struggle to think of anyone I dislike enough to recommend actually such a book.  But light exposures pose far lesser risk.  Especially, I think, where large chunks of my audience who _aren't_ lawyers already suffer similar perversions.
+
+Many programmers and many lawyers share a peculiar, brazen dexterity mixing imperative language for different contexts and audiences.  Most people develop an innate sense that things must or should be said one way in some circumstances, and differently in others, to get what they want.  They may manage dimensions of personal familiarity, choice of language in multilingual circumstances, high and low tone, dialect, slang, and so on.  But it is rare, in first person experience, to mix language meant for one context with language meant for another in a single expression at a single time.  Especially where one utterance refers to, or depends on, another kind.
 
 Let me be concrete.
 
 ## Brackets Galore
 
-The vast majority of any contract form is language spelling out the terms of agreement between the two parties.  These are the things the parties tell each other they will do and enlist a court to hold them accountable for doing.  There may also be structural text, such as headings.  And a term at the back of the contract often makes clear that such headings are for "convenience only" and do not make up part of what a court is supposed to construe when deciding a lawsuit.  In other words, the section tells the court to ignore what the parties wrote and could see.
+The vast majority of any contract form is language spelling out the obligations of the parties.  These are the things the parties tell each other they will do and enlist a court to hold them accountable for doing.
+
+However, there's almost always structural text, such as headings, too.  A term at the back of the contract often makes clear that such headings are for "convenience only" and do not make up part of what a court is supposed to construe when deciding a lawsuit.  In other words, the section tells the court to ignore what the parties wrote and could see.
 
 Often nearby at the back of the terms, another section may specify that the word "including" precedes examples _without_ any intent to say those are the only examples, or the only kinds of examples, that might apply.  Still another section may set out a "severability" rule for what to do if a particular part of the contract turns out to be illegal or impractical to enforce.
 
@@ -19,12 +25,12 @@ Those who only see "finished" contracts may be surprised to learn that lawyers' 
 The simplest examples indicate blank spaces that need to be filled.  Frequently these appear as long underlined spaces, as on signature pages:
 
 > Acknowledged and agreed.
-> 
-> SomeCo, Inc.<br>
-> By: \_\_\_\_\_\_\_\_<br>
-> Name: \_\_\_\_\_\_\_\_<br>
+>
+> SomeCo, Inc.<br><br>
+> By:    \_\_\_\_\_\_\_\_<br>
+> Name:  \_\_\_\_\_\_\_\_<br>
 > Title: \_\_\_\_\_\_\_\_<br>
-> Date: \_\_\_\_\_\_\_
+> Date:  \_\_\_\_\_\_\_\_
 
 But there is also a convention for setting blanks [in brackets].  Within brackets commonly appear short hints or even longish instructions on what to type over them.  Thus:
 
@@ -32,7 +38,7 @@ But there is also a convention for setting blanks [in brackets].  Within bracket
 
 Similar conventions prevail for various notes of a functional nature.  For example, say that a form for contract consulting includes a non-compete agreement.  During a negotiation, the consultant negotiates that sections away.  Rather than renumber every section that follows it, and then update any affected cross-references to sections by number, the consultant's lawyer may write:
 
-> 13\. **Noncompete*. [Intentionally Omitted]
+> 13\. **Noncompete**. [Intentionally Omitted]
 
 The parties then end up signing a complete document with terms that includes bracketed language.
 
