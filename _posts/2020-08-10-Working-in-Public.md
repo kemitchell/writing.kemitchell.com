@@ -3,7 +3,7 @@ title: Working in Public
 description: now comes the coder-celebrity
 tags:
 - Open Source
-- Sustainability
+- Funding
 - Business Models
 ---
 

@@ -4,7 +4,7 @@ description: Elinor Ostrom without boundaries
 series: Memeguments
 tags:
 - Open Source
-- Sustainability
+- Funding
 ---
 
 We all love metaphors for open source.  Open source as ecosystem.  Open source as science.  Open source as infrastructure.  And we love talking open in the high-flying abstractions of economics.  When we're feeling triumphant, as an exception to all the orthodox rules, as through [Benkler](https://en.wikipedia.org/wiki/Yochai_Benkler)'s "commons-based peer production".  When we feel stuck, to invoke economic solutions to our crises, as through [Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom)'s "common-pool resources".

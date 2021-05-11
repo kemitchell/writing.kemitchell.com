@@ -2,7 +2,7 @@
 title: Judicial Website, No Money Down
 description: sustainability, government style
 tags:
-- Sustainability
+- Funding
 - Legal Technology
 - Open Legal Data
 ---

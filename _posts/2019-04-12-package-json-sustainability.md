@@ -4,7 +4,7 @@ description: a new proposal, schema, and tools
 layout: post
 tags:
 - Open Source
-- Sustainability
+- Funding
 ---
 
 <aside class="brief" markdown="1">

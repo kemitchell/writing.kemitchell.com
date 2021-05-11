@@ -5,7 +5,7 @@ layout: post
 series: Unsustainability at Scale
 tags:
 - Open Source
-- Sustainability
+- Funding
 ---
 
 [_Also on Medium_](https://medium.com/licensezero/unsustainability-at-scale-8d37b3bedccb)

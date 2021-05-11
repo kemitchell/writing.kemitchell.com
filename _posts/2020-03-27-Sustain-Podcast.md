@@ -5,7 +5,7 @@ tags:
 - License Zero
 - Open Source
 - Podcasts
-- Sustainability
+- Funding
 ---
 
 I appeared as guest on [episode 29 of the Sustain podcast](https://sustain.codefund.fm/29), talking about License Zero, open licenses, funding more generally, and practicing law.  Special thanks to my hosts---Richard, Eric, Pia, Justin, Gunnner---for having me on.

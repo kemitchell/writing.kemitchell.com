@@ -4,7 +4,7 @@ description: compendium of concepts, theories, and theorists
 tags:
 - Open Software
 - Economics
-- Sustainability
+- Funding
 ---
 
 Open software people love "first principles".  But when it comes to talking open software itself, we can't get enough analogy.  Especially when it comes to persistent problems like "sustainability".

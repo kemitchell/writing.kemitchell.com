@@ -1,0 +1,63 @@
+---
+title: Sell Babel 8
+description: ask for the money you need so people can actually pay it
+tags:
+- Open Source
+- Funding
+---
+
+There's a clear answer to [Babel's funding woes](https://babeljs.io/blog/2021/05/10/funding-update.html): sell the new version of Babel, Babel 8.  At least until Babel 9 comes out.  Then sell Babel 9.
+
+The only problem with monetary donation-based funding for independent open source projects is that it doesn't work.  It feels good.  It avoids harshing "community" vibes.  It's easy to set up these days.  And money sometimes spurts in at the start, which is very reassuring up from nil, especially if you get a nice "starter" grant.  But the initial enthusiasm wears off.  The dollars flatten out.
+
+Donations, as a rule, do not yield enough money over enough time to fund even very important, notable projects that require ongoing effort, outside the corporate fold.  Especially projects that require the ongoing effort of more than one person.  Especially if you avoid rationalizing sub-market wages.
+
+Only yesterday, I was [reading](https://www.theregister.com/AMP/2021/05/10/untangling_open_sources_sustainability_problem/) that OpenSSL, whose [Heartbleed bug](https://heartbleed.com/) kicked off the whole "sustainability" phenom, still makes essentially dick in donations:
+
+> The OpenSSL Software Foundation has just two supporters under its corporate sponsorship program, each committing around $5,000 each.  It also picks up some donations via GitHub Sponsors.
+
+If their [sponsors page](https://www.openssl.org/support/acks.html) is up-to-date, these sponsors are [one Dutch e-commerce store](https://www.beslist.nl/) I've never heard of and one ["professional cypherpunk"](https://www.lopp.net/) with lots of cryptocoin media.  You go, bestlist.nl.  You go, James.  When [there is nobody at Gold or Silver tier](https://www.openssl.org/support/acks.html), Bronze is really Plat, and everybody knows it.  But $10k a month is not a solution.  We're talking _cryptographers_ here.
+
+So how is OpenSSL not bleeding hearts all over again?
+
+> Although [[Matt] Caswell](https://github.com/mattcaswell) won't reveal numbers, he says that virtually all of its funding comes from support contracts.
+
+They're in business!  Thank God.
+
+Here's the thing about donations: they send exactly the wrong message.  For a project like Babel, it's not that you _can_ send money their way.  It's that you _should_, indeed you _must_ if you use Babel and can tell what's good for you past, say, the end of this quarter.  In many circumstances, sending money to Babel is morally obligatory.  In many circumstances, it's in the dev's own best interest.
+
+But other than this blog post and the odd social media comment folks may have bumped into now and then, they won't have felt any moral or social pressure to pay, from Babel itself or anyone else.  There's no collection hat passing down the church pews, so everyone can see their neighbors chipping in or not chipping in.  There's no moneybox and big "suggested donation" sign at the entrance or the exit.  There's nothing much to win, socially, by sending the money and being seen to send the money.
+
+Sending money to Babel, or not sending money to Babel, is a strictly individual, but also a profoundly impersonal, proposition.  Your money counter will slightly decrement.  Babel's will slightly increment.  You may feel, vaguely, that this accounting transfer does some good somehow.
+
+What's more, there's a process problem.  I can't expense donations.  Babel isn't a 501(c)(3) tax-exempt charity, and shouldn't pretend to be.  Even if they _could_ take tax-exempt donations, and even if they dutifully sent me a receipt, I personally wouldn't bother accounting for the donation.  I've taken [the standard deduction](https://en.wikipedia.org/wiki/Standard_deduction) for a couple years now, and most individuals do.  Still, as an individual, I might donate anyway, because it's my money and there's no accounts payable department or financial controls auditor I have to deal with.  Hell, I spent $10 on a Chinese knockoff of a classic English fountain pen last week, and I don't even remember doing it.
+
+As for business, and especially big business---the deep pockets---it's arguably worse.  Asking public companies to donate money to non-charities is like asking a muscular pack of wolves to bake vegan cookies for a litter of lapdogs.  Charity is not what apex economic predator teams do.  When they try, as a rule, they send big checks to big, uncontroversial charities, and make a big public fuss about it.  And definitely write it off.
+
+Finally, as the Babel folks themselves point out, donation appeals die in the great, yawning void of the Deep Dark Well of Dependencies.  Indeed, Babel is often used "under the hood", invoked by some other tool that users actually know the name of.  So you won't even know that you might donate to Babel unless you go looking for projects on which to shower small dollars gratuitously.  Even if the project [set funding metadata for its npm package](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#funding), which it should definitely do, people will mostly look right past the automated messages.
+
+So how do you tell people unequivocally that they _need_ to pay, for their own good, the good of the project, and the good of their souls?  How do you make that process rational, cognizable, and relatively painless, through the existing channels for earning, spending, and accounting for meaningful money?  How do you get your call to bubble up through arbitrary depths of wrappers, frameworks, and other technical dependents, to end users?
+
+You sell something.  The whole of material society speaks this protocol.
+
+Here's an outline sketch:
+
+- Change nothing about licensing or promotion of Babel 7.  Tell people to relax.
+
+- Release work on Babel 8 under a noncommercial license, like [PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0/).  If you want to let folks have a thirty-day free trial, tack on [PolyForm Free Trial](https://polyformproject.org/licenses/free-trial/1.0.0/), too.  If you've already published work on Babel 8 under MIT, that's fine.  Just publish all the _new_ work on that branch under the new terms, going forward.
+
+- Add a public page to your website that says that if you support Babel through Open Collective or GitHub Sponsors or another recurring payment platform for at least $x per month, or $x per developer on staff per month, you get to use Babel 8 for commercial purposes, too.  Yes, people have [done this before](https://patronlicense.com/versions/1.0.0.html).
+
+- If people get in touch who can't afford your price, can't pay you through your processors, or otherwise tug your heartstrings, give them free passes over e-mail.
+
+- If you need a license agreement and quote form to use with big companies, drop me a line.  I'll do it for free.  I don't want to see you keep struggling like this.
+
+- When Babel 9 comes out, relicense Babel 8 under MIT or whatever you're currently using, and run the paying play for Babel 9 instead.
+
+This is essentially [dual licensing](https://duallicensing.com/) with a [delayed release / "free the future"](https://blog.licensezero.com/2018/10/17/mapping-models.html#evolution) component, based on noncommercial terms---all well understood models older than JavaScript.  This variant leans heavily on the [honor system](https://en.wikipedia.org/wiki/Honor_system), which I suspect aligns with your nonconfrontational style.
+
+There can and will be many users who use at work or on paying projects without paying you, some of whom will be assholes, some of whom just won't know better.  But that is fine, as long as enough people pay.  Which they'll be both more aware they should do and better able to do through all the usual ways and means they spend money, personally and professionally, individually and through companies.
+
+There is no great moral or philosophical transition involved here.  This plan fundamentally reimplements the same proposition you are already making, under the pressure of material circumstances, only using mechanisms and patterns more _compatible_ with how significant sums actually flow.  I believe that makes makes it fundamentally more _understandable_, intellectually and ethically, as well.
+
+Good luck.
