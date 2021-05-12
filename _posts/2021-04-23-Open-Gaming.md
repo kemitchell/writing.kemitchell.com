@@ -82,3 +82,7 @@ Dancey's more careful.  He describes sharing initial terms and content with sele
 > At some time in the future, after we've gauged the effects of this activity, we may loosen those restrictions.
 
 In the end, they didn't.  They reverted to more control.
+
+---
+
+_I found out after publishing this post that Law Insider has done one of their "contract teardown" interviews [about the Open Gaming license](https://www.youtube.com/watch?v=Zqtv1A2AOjQ).  Worth the candle!_
