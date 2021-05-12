@@ -90,6 +90,6 @@ In some situations, you will serve clients better by writing your templating ins
 
 And for our notice address example:
 
-> If the contractor is an individual, All notices to the contractor under this agreement must be sent to the contractor's home address.  Otherwise, all notices to the contractor under this agreement must be sent to the contractor's corporate headquarters.
+> If the contractor is an individual, all notices to the contractor under this agreement must be sent to the contractor's home address.  Otherwise, all notices to the contractor under this agreement must be sent to the contractor's corporate headquarters.
 
-In other situations, this approach produces even longer documents stuffed with optional language and variations that simply don't apply to the client.  The client's terms end up hidden in a template.  At that point, the extra step of instructing the computer, rather than the reader, to prepare the finished becomes worthwhile.
+In other situations, this approach produces even longer documents stuffed with optional language and variations that simply don't apply to the client.  The client's terms end up hidden in a template.  At that point, the extra step of instructing the computer, rather than the reader, to prepare the finished document becomes worthwhile.
