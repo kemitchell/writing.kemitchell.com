@@ -44,7 +44,7 @@ We see Elastic [doing the same](https://www.elastic.co/licensing/elastic-license
 >
 > This is permitted under ELv2. The use of Kibana in this case is limited and this does not represent access to a substantial portion of the functionality of Kibana.
 
-We also see many of these new licenses following [PolyForm](https://polyformproject.org/licenses)'s lead in writing out their rules in plain, approachable terms devs can actually read for themselves and understand with confidence.  [Elastic's new license](https://polyformproject.org/) is no exception.  They're going above and beyond even the "open" state of the art.
+We also see many of these new licenses following [PolyForm](https://polyformproject.org/licenses)'s lead in writing out their rules in plain, approachable terms devs can actually read for themselves and understand with confidence.  [Elastic's new license](https://www.elastic.co/licensing/elastic-license) is no exception.  They're going above and beyond even the "open" state of the art.
 
 Stepping back and taking it all in, the interests here couldn't be plainer:
 
@@ -62,7 +62,7 @@ We are talking about a tiff within a small corner of the industry.  All of the p
 
 The specialists are writing new licenses that totally preserve the lived rather than ideological or conference-circuit-social experience of open source: finding good software online, realizing you can have it for free, getting your job done, and getting away with it.  But also drawing a line in front of companies that were expected to fight for the greater hacker good, but instead point to license terms, take money, and run.  [Sound familiar?](https://www.linuxtoday.com/infrastructure/1999121000105NWLF)
 
-The cloudies are straining to call software, developed in the open on the Internet, with license terms that let nearly everyone not working for a big cloud infra oligopolist use for free, "not open" every chance they get.  They're insinuating their rivals are "using" the good name of open source and the fellow-feeling of "community", implying a debt to that community that they are entitled to collect for their own account.  Link your favorite [ESR](https://en.wikipedia.org/wiki/ESR) post _not_ about money and how companies better share it here.
+The cloudies are straining to call software, developed in the open on the Internet, with license terms that let nearly everyone not working for a big cloud infra oligopolist use for free, "not open" every chance they get.  They're insinuating their rivals are "using" the good name of open source and the fellow-feeling of "community", implying a debt to that community that they are entitled to collect for their own account.  Link your favorite [ESR](https://en.wikipedia.org/wiki/Eric_S._Raymond) post _not_ about money and how companies better share it here.
 
 Nobody outside these companies should give a damn for one side or the other.  There is a larger, broader, and far more important concern at stake: the health, stability, and dynamism of the software game as a whole.  If you love software: How does this all affect the ability of good programmers to do their best work?  If you see more broadly: How does this all affect the capacity of software makers to serve society?
 
