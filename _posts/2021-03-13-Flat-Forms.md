@@ -30,7 +30,7 @@ Nested sections force readers to track not only the last heading they've seen, b
 
 This is so even with the benefit of formatting hints.  Indentation can set inner sections further from the margin than outer sections.  But it's very hard to tell how far something's indented just looking at the page without the use of a ruler.  Compound numbering schemes, which produce numbers like 5(a)(1) or 7.3.1, can help gauge depth.  But if you're in, say, section 5(a)(1), that number does not tell you what section 5(a) is called, or what section 5 is.  The part about my side's obligations, or the other side's?  You have to try and guess from the content in front of you, pageful or screenful.
 
-Flat forms are also easier to write, and not just in word processors like Microsoft Word, but in e-mails, HTML pages, Markdown files, and everywhere people type.  All lawyers have had knock-down, drag-out bouts with automatic numbering.  We've all screwed up margins and got cross-references to deeply nested sections wrong.  We could be not stepping into so many holes, instead of crawling our way out of them all the time.  And our results would be easier to read.
+Flat forms are also easier to write, and not just in word processors like Microsoft Word, but in e-mails, HTML pages, Markdown files, and everywhere people type.  All lawyers have had knock-down, drag-out bouts with automatic numbering.  We've all screwed up margins and got cross-references to deeply nested sections wrong.  We could not be stepping into so many holes, instead of crawling our way out of them all the time.  And our results would be easier to read.
 
 ## Against
 
