@@ -6,7 +6,7 @@ tags:
 - Legal Technology
 ---
 
-I believe that over the long term, true "legal technology" and "legal technologists" will find themselves confined to small, highly specialized niches.  Automation and the other large benefits of computing will accrue to law practice and law clients, but mostly through general-purpose technologies applicable to law, not legal technologies built for law.
+I believe that over the long term, true "legal technology" and "legal technologists" will find themselves confined to small, highly specialized niches.  Automation and the other large benefits of computing will accrue to law practice and law clients, but mostly through general-purpose technologies applicable to law, not legal technologies specifically built for lawyers.
 
 Superior general-purpose document authoring and collaboration technologies will do more to improve contract drafting and negotiation than lawyer-specific plugins for Microsoft Word.  General-purpose file management tools will aid contact management more than contract-specific platforms.  Robust calendaring and scheduling systems will supplant law-specific docketing and deadline-tracking solutions.
 
