@@ -30,7 +30,7 @@ In those ashes, the substance rather than the style of open source---its low-as-
 
 A lot more people got the price signal than any essays on "philosophy" or license terms.  So the phrase "open source" became technical jargon for "free", the way we mean "free" five nines of the time, with some looming valence of "some assembly required".  As more time piled in, the open source started to mostly Just Work, at least as well as the closed stuff did.  Which left the story at "free", most of the time.
 
-Looking back, I'm struck by how few of the dot-com companies built on open source.  Yes, they bought a lot of servers, routers, and overpriced colo space, because that was the only way at the time.  But the funny money bought a whole lot of software licenses, too.
+Looking back, I'm struck by how few of the dot-com companies built on open source.  Yes, they bought a lot of servers, routers, and overpriced colo space, because that was the only way at the time.  But the funny money bought a whole lot of license keys, too.
 
 Microsoft was the world's most valuable company.  Oracle was selling hand over fist.  Even smaller, specialized shops, like Macromedia, were killing it.  In short, the not-open incumbents the open "rebels" railed against---Windows v. Linux, Oracle v. MySQL, ColdFusion v. Perl and PHP---were still very much incumbent. The Internet Eats Everything story of open source, which boasts the virtue of looking back this far, doesn't leave much of a narrative gap for this transitional period.  But so it was.
 
