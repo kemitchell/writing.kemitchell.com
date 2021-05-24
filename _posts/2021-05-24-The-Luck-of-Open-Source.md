@@ -24,7 +24,7 @@ Through the middle to late 1990s, free software, eventually open source, achieve
 
 Such was open source as "revolution".  So far, so very good.
 
-Then reality reasserted itself.  The hype cycle ran out of new money.  People looked down.  The stocks tanked.  Paper gains evaporated.  Paper friends disappeared.
+Then reality came calling.  The hype cycle ran out of new money.  People looked down.  The stocks tanked.  Paper gains evaporated.  Paper friends disappeared.
 
 In those ashes, the substance rather than the style of open source---its low-as-can-go price tag and insatiable thirst for idle hacker cycles---asserted itself in the clear.  The "free" in "free software" _did_ mean "free as as in beer", after all.  At least, as they said, if your time was worth nothing.  Which often it was: a lot of competent geeks, plus a lot of precocious children, had dial-up lines and time to spare.
 
