@@ -76,7 +76,7 @@ This is deeply ironic, given the proximity of all this work to a celebrated revo
 
 [Here](https://github.com/indiecc/free-license/pull/3) is an example of a pull request going right now.  [Orlando Hill](https://github.com/orlandohill) is a joy on GitHub, as he is on forums or by e-mail.  We've never met in person.
 
-[Han Seoul-Oh](https://github.com/laughinghan)'s issues and pull requests are some of the best collaboration I've had on GitHub, period.  Licenses like [Round Robin](https://roundrobinlicense.com/) reflect his energy and attention, as much as mine.  The care and attention of his analysis invariably leads us _directly_ to the kinds of conversations about legal construction and underlying rules where real legal work gets done.
+[Han Seoul-Oh](https://github.com/laughinghan)'s issues and pull requests are some of the best collaboration I've had on GitHub, period.  Licenses like [Round Robin](https://roundrobinlicense.com/) reflect his energy and attention, as much as mine.  The care of his reading and analysis invariably leads us _directly_ to the kinds of conversations about legal construction and underlying rules where real legal work gets done.
 
 [Boris Mann](https://roundrobinlicense.com/), [Markus Binsteiner](https://github.com/makkus), and other friends at the [Artless Devices forum](https://forum.artlessdevices.com/) have had enormously positive guiding influence on my choice of which license terms to try and draft in the first place, as well as specific terms.  To a first approximation, they aim the canon.
 
