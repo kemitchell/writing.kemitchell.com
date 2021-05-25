@@ -2,6 +2,7 @@
 title: Citation Hustle
 description: hooking into academe for fair code credit
 series: Code Credit License
+date: 2021-05-25T18:23Z
 tags:
 - Academia
 - Licenses
