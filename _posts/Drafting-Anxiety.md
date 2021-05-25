@@ -1,7 +1,8 @@
 ---
 title: Drafter's Anxiety
 description: writing new licenses isn't scary
-brief: If you're anxious about the law, hit the books.  If you're anxious about your terms, fix your process.  Your only anxiety should be whether you're serving those who depend on lawyer help.
+brief: If you're anxious about the law, hit the books.  If you're anxious about your drafting, fix your process.  Your only gnawing concern should be whether you're serving those who need lawyer help.
+date: 2021-05-25T02:57Z
 tags:
 - Open Source
 - Licenses
@@ -37,7 +38,7 @@ Remember how nervous you were in grade school, when you moved up from pencil to 
 
 Most lawyers hear about "plain language drafting" in reference to legal terms for individual consumption, like privacy policies, the backs of baseball tickets, or the pages of a home mortgage loan.  The major theme is the unfairness of telling everyday people---slurred as "unsophisticated consumers", be they eighteen-year-old invalids or Nobel Prize winning emeriti---to agree to terms they cannot understand, written in ways known to crush their attention.
 
-An end product that people can actually read isn't the half of "plain language drafting".  Niching the technique that way is often a dodge by those afraid to change how they work.  Overwhelmingly, the benefit of plain language for lawyers in business, and for lawyers writing public licenses, lies on the _production_ side.  That is the lived experience of plain language in practice.
+An end product that people can actually read isn't the half of "plain language drafting".  Nicheing the technique that way is often a dodge by those afraid to change how they work.  Overwhelmingly, the benefit of plain language for lawyers in business, and for lawyers writing public licenses, lies on the _production_ side.  That is the lived experience of plain language in practice.
 
 We've all heard "given enough eyeballs, all bugs are shallow".  Welcome to the Internet in 2021.  Nobody is giving away eyeballs.
 
