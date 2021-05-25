@@ -1,0 +1,22 @@
+---
+image: debian/bullseye
+packages:
+  - ruby
+  - ruby-bundler
+  - rsync
+sources:
+  - https://git.sr.ht/~kemitchell/writing.kemitchell.com
+secrets:
+  # Deployment SSH Key
+  - c4dea92f-a9eb-4cef-a9c3-acfcb500d91f
+tasks:
+  - setup: |
+      cd writing.kemitchell.com
+      bundler install
+  - build: |
+      cd writing.kemitchell.com
+      bundler exec jekyll build
+  - deploy: |
+      cd writing.kemitchell.com
+      sshopts="ssh -o StrictHostKeyChecking=no"
+      rsync -a --delete _site/ kyle@kemitchell.com:/var/www/writing.kemitchell.com/
