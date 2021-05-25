@@ -18,5 +18,4 @@ tasks:
       bundler exec jekyll build
   - deploy: |
       cd writing.kemitchell.com
-      sshopts="ssh -o StrictHostKeyChecking=no"
-      rsync --rsh="$sshopts" -a --delete _site/ kyle@kemitchell.com:/var/www/writing.kemitchell.com/
+      rsync --rsh="ssh -o StrictHostKeyChecking=no" -a --delete _site/ kyle@kemitchell.com:/var/www/writing.kemitchell.com/
