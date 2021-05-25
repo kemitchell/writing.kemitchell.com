@@ -19,4 +19,4 @@ tasks:
   - deploy: |
       cd writing.kemitchell.com
       sshopts="ssh -o StrictHostKeyChecking=no"
-      rsync -a --delete _site/ kyle@kemitchell.com:/var/www/writing.kemitchell.com/
+      rsync --rsh="$sshopts" -a --delete _site/ kyle@kemitchell.com:/var/www/writing.kemitchell.com/
