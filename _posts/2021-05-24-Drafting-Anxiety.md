@@ -24,7 +24,7 @@ Dispense with the idea that any person---or any committee of people---can write 
 
 Many new license drafters do think to version their licenses these days, and that's a great first step.  But their relationship to the concept of versioning often seems oddly stuck in the 1990s, when any significant new release involved a press release, a media package, and a substantial outlay for gold masters and initial runs of CD-ROMs.  Versions marked passages through grueling milestones and gatekeepers, like stations of the cross.
 
-These are mental vestiges of the pre-Internet era.  Distributing license texts today costs nothing and almost no time.  It's cheaper and easier than sharing photos.  It's cheaper than sharing office documents.  The average license text file takes less disk space than the average e-mail transmission.
+These are mental vestiges of the pre-Internet era.  Distributing license texts today costs nothing and almost no time.  It's cheaper and easier than sharing photos.  It's cheaper and easier than sharing office documents.  The average license text file takes less disk space than the average e-mail transmission.
 
 Versions are also effectively free.  The only question is cognitive load, but that is also a question of mentality.
 
@@ -50,7 +50,7 @@ We've all heard "given enough eyeballs, all bugs are shallow".  Welcome to the I
 
 My current approach:
 
-1.  Remind yourself that unless what you're drafting will be used exclusively by other lawyers, exclusively for lawyerly purposes, you are not the expert in this endeavor.  The people in the field you aim to serve know better than you do what is going on there, and how people will react to written terms.  They always will.  You won't catch up to them.  You are always behind.
+1.  Remind yourself that unless what you draft will be used exclusively by other lawyers, exclusively for lawyerly purposes, you are not the expert in this endeavor.  The people in the field you aim to serve know better than you do what is going on there, and how people will react to written terms.  They always will.  You won't catch up to them.  You are always behind.
 
 2.  Put your drafts where the people you want to help do their reading and writing.  For software developers in 2021, that means a Markdown file in a public GitHub repo.  Your choice is simple:  Work their way or work alone.
 
@@ -64,7 +64,7 @@ My current approach:
 
 5.  Encourage the people you want to work with to "take the pen" and make changes or markups directly.  On GitHub, ask for pull requests and give commit bits.  In Google Docs, share commenting and editing privileges.  If this makes you nervous, improve your backup process until it doesn't.
 
-6.  Advertise.  I don't mean buy Google ads.  See how folks in the field promote their projects, an do likewise.  Stay in their world.
+6.  Advertise.  I don't mean buy Google ads.  See how folks in the field promote their projects, and do likewise.  Stay in their world.
 
 7.  Give credit.  [I love `THANKS.md` files, and you should, too.](https://github.com/berneout/round-robin-license/blob/main/THANKS.md)
 
