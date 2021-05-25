@@ -56,9 +56,9 @@ My current approach:
 
 3.  Use the best facility available---a `README.md` file, the top of a Google Doc in garish yellow highlighting---to declare for every passerby to see that they are competent and welcome to read, opine, and contribute.  My go-to blurb for software licenses looks like this:
 
-  > ***This license is a [flipped form](https://flippedform.com/) in everyday English.  If something doesn't make sense, that's the license's fault, not yours.  Please open an issue on GitHub so we can fix it.***
+    > ***This license is a [flipped form](https://flippedform.com/) in everyday English.  If something doesn't make sense, that's the license's fault, not yours.  Please open an issue on GitHub so we can fix it.***
 
-  [flippedform.com](https://flippedform.com) is a short, single-page website that does the best job I know how to state the relationship I want with collaborators.  Its job is to show people who might work with me what they want to see, in a way that emphasizes I really mean it.
+    [flippedform.com](https://flippedform.com) is a short, single-page website that does the best job I know how to state the relationship I want with collaborators.  Its job is to show people who might work with me what they want to see, in a way that emphasizes I really mean it.
 
 4.  Stick to the program when you actually get feedback.  You might prefer to print a copy of the current draft, review their comments over a cup of coffee, and outline or even write up your thoughts and changes at a big wood desk with a fancy pen.  You do you.  Just make sure to send a quick response immediately, so they know you're engaged.  Then, when you're ready to revert back, present your work the way they're used to going back and forth.  If you're really working some other way, they shouldn't have any idea.
 
