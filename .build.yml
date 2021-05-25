@@ -1,5 +1,5 @@
 ---
-image: debian/bullseye
+image: archlinux
 packages:
   - ruby
   - ruby-bundler
