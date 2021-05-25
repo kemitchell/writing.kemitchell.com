@@ -82,6 +82,6 @@ This is deeply ironic, given the proximity of all this work to a celebrated revo
 
 None of these folks are lawyers.  I like lawyers, too, of course.  And know a good many of them, including, increasingly, Michael.  But I'm not sure I'd be having any fun drafting licenses to please other lawyers, or, God help me, committees of them.
 
-Lawyering for layering's sake?  There are many more compelling forms of papercraft, and a lot more fun for options with a computer and a spare hour.
+Lawyering for layering's sake?  There are many more compelling forms of papercraft, and a lot more fun for options with a computer and an hour to spare.
 
 Lawyering for people I want to help, however, is really something.  That's not an anxious line of work.  Only a joyful one.
