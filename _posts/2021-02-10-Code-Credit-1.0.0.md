@@ -2,6 +2,7 @@
 title: Code Credit License 1.0.0
 description: a code-for-credit software license
 date: 2021-02-10T23:53Z
+series: Code Credit License
 tags:
 - Licenses
 - Open Source
