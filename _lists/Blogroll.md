@@ -19,6 +19,8 @@ description: other blogs of likely interest
 
 [Kat Walsh](http://www.mindspillage.org/)
 
+[Michael Weinberg](https://michaelweinberg.org/blog)
+
 ## Open People
 
 [Nadia Eghbal](https://nadiaeghbal.com/)
@@ -32,8 +34,6 @@ description: other blogs of likely interest
 [Mikeal Rogers](https://medium.com/@mikeal)
 
 [Dirk Riehle](https://dirkriehle.com)
-
-[Michael Weinberg](https://michaelweinberg.org/)
 
 ## Sustainability as a Service Companies
 
