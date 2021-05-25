@@ -72,7 +72,7 @@ My current approach:
 
 I missed the great 2.0 and 3.0 license committees run by the old open source foundations in the early 2000s.  The more I get to know colleagues involved, the less FOMO I feel.  Those processes sound terrible.  The major takeaway I get from participants, secondhand, is that they never want to go through such an ordeal again.
 
-This is deeply ironic, given the proximity of all this work to a celebrated revolution in remote collaboration.  It's also deeply sad, given how positive, non-bureaucratic, and, frankly fun my own adventures in collaborative license drafting have been since.  Things might have gone a lot worse for me if I'd had expectations set by past experience.
+This is deeply ironic, given the proximity of all this work to a celebrated revolution in remote collaboration.  It's also deeply sad, given how positive, non-bureaucratic, and, frankly fun my own adventures in collaborative license drafting have been since.  Things might have gone a lot worse for me with the benefit of past experience.
 
 [Here](https://github.com/indiecc/free-license/pull/3) is an example of a pull request going right now.  [Orlando Hill](https://github.com/orlandohill) is a joy on GitHub, as he is on forums or by e-mail.  We've never met in person.
 
