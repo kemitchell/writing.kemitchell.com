@@ -30,7 +30,7 @@ Such was open source as "revolution".  So far, so very good.
 
 Then reality came calling.  The hype cycle ran out of new money.  People looked down.  The stocks tanked.  Paper gains evaporated.  Paper friends disappeared.
 
-In those ashes, the substance rather than the style of open source---its low-as-can-go price tag and insatiable thirst for idle hacker cycles---asserted itself in the clear.  The "free" in "free software" _did_ mean "free as as in beer", after all.  At least, as they said, if your time was worth nothing.  Which often it was: a lot of competent geeks, plus a lot of precocious children, had dial-up lines and time to spare.
+In those ashes, the substance rather than the style of open source---its low-as-can-go price tag and insatiable thirst for idle hacker cycles---asserted itself in the clear.  The "free" in "free software" _did_ mean "free as as in beer", after all.  At least, as they said, if your time was worth nothing.  Which suddenly it was: a lot of competent geeks had time to spare, and a lot of precocious children got dial-up at home.
 
 A lot more people got the price signal than any essays on "philosophy" or license terms.  So the phrase "open source" became technical jargon for "free", the way we mean "free" five nines of the time, with some looming valence of "some assembly required".  As more time piled in, the open source started to mostly Just Work, at least as well as the closed stuff did.  Which left the story at "free" most of the time.
 
