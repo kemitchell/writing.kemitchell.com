@@ -1,6 +1,7 @@
 ---
 title: 2020 Annual Homeless Assessment Report
 description: bold text from the key findings
+date: 2021-05-31T17:22Z
 tags:
 - Homelessness
 ---
