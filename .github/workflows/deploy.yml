@@ -15,6 +15,7 @@ jobs:
       - run: |
           mkdir -p ~/.ssh/
           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+          chmod 700 ~/.ssh/id_ed25519
       - run: ssh -o StrictHostKeyChecking=no kyle@www3.kemitchell.com "uname -r"
       - env:
           RSYNC_RSH: ssh -o StrictHostKeyChecking=no -o PubkeyAuthentication=yes -o PasswordAuthentication=no
