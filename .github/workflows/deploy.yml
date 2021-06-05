@@ -12,11 +12,9 @@ jobs:
         with:
           bundler-cache: true
       - run: bundler exec jekyll build
-      - env:
-          SSH_AUTH_SOCK: /tmp/ssh_agent.sock
-        run: |
-          ssh-agent -a $SSH_AUTH_SOCK > /dev/null
-          ssh-add - <<< "${{ secrets.SSH_PRIVATE_KEY }}"
+      - run: |
+          mkdir -p ~/.ssh/
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
       - run: ssh -o StrictHostKeyChecking=no kyle@www3.kemitchell.com "uname -r"
       - env:
           RSYNC_RSH: ssh -o StrictHostKeyChecking=no -o PubkeyAuthentication=yes -o PasswordAuthentication=no
