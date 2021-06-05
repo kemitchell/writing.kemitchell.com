@@ -1,0 +1,23 @@
+---
+name: Deploy
+on:
+  push:
+    branches: [main]
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v1
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - run: bundler exec jekyll build
+      - env:
+          SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+        run: |
+          ssh-agent -a $SSH_AUTH_SOCK > /dev/null
+          ssh-add - <<< "${{ secrets.SSH_PRIVATE_KEY }}"
+      - run: ssh -o StrictHostKeyChecking=no kyle@www3.kemitchell.com "uname -r"
+      - env:
+          RSYNC_RSH: ssh -o StrictHostKeyChecking=no -o PubkeyAuthentication=yes -o PasswordAuthentication=no
+        run: rsync -v -a --delete _site/ kyle@www3.kemitchell.com:/var/www/writing.kemitchell.com/
