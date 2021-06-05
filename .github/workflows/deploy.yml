@@ -18,6 +18,7 @@ jobs:
           mkdir -p ~/.ssh/
           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
           chmod 700 ~/.ssh/id_ed25519
-      - env:
+      - name: Deploy to Server
+        env:
           RSYNC_RSH: ssh -o StrictHostKeyChecking=no -o PubkeyAuthentication=yes -o PasswordAuthentication=no
         run: rsync -v -a --delete _site/ kyle@www3.kemitchell.com:/var/www/writing.kemitchell.com/
