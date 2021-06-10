@@ -32,7 +32,7 @@ Part of the power of this play is that the nondiscrimination bits of the Open So
 
 Oppression requires discrimination, but oppression and discrimination are not the same.  Only oppression is inherently bad.  Discrimination can be overwhelmingly positive.  It's at the root of all morality.
 
-Consider the banner example of deplorable oppression in the United States: racism.  Enterprising "entrepreneurs", all of them nominally Christians, discovered that enslaving Africans and their descendants could be highly profitable.  So they propounded a social category---a lesser "race" of people, actually tons of different peoples with disparate languages and cultures---and taught others to _discriminate_ on that basis.  Having made the distinction, society could then _oppress_ those it set apart. [In time, the consequences convinced still more people that the distinction was valid](https://www.ibramxkendi.com/stamped-from-the-beginning/), whether they profited from it or not, even though it was morally wrong, ultimately self-limiting, concentrated wealth, and scientifically bunk.
+Consider the banner example of deplorable oppression in the United States: racism.  Enterprising "entrepreneurs", all of them nominally Christians, discovered that enslaving Africans and their descendants could be highly profitable.  So they propounded a social category---a lesser "race" of people, actually tons of different peoples with disparate languages and cultures---and taught others to _discriminate_ on that basis.  Having made the distinction, society could then _oppress_ those it set apart. [In time, the consequences convinced still more people that the distinction was valid](https://www.ibramxkendi.com/stamped), whether they profited from it or not, even though it was morally wrong, ultimately self-limiting, concentrated wealth, and scientifically bunk.
 
 Another society might _uplift_ those people instead, to offset the oppression they've suffered so long.  That would also require discrimination:  Who to uplift?  Ideally, those who've suffered from oppression.  But what does that mean in practice?  Just the descendants of African slaves?  Anyone of African heritage?
 
@@ -66,7 +66,7 @@ The towering behemoths:
 - [GitHub](https://github.com/) (now part of Microsoft): uses open source to make a closed social network
 - [Google](https://developers.google.com/): uses open source to make closed web services, previously including a social network
 - [Heptio](https://www.heptio.com): startup from the creators of Kubernetes, acquired by VMware
-- [IBM](https://www.ibm.com/): integrator, reseller, enterprise jack of all trades, major patent holder
+- [IBM](https://ibm.com/): integrator, reseller, enterprise jack of all trades, major patent holder
 - [Intel](https://www.intel.com/): chips and such,  major patent holder
 - [Microsoft](http://microsoft.com/): major patent holder, most famous closed software vendor in the world, transitioning toward using open source to make closed web services, wants to own the whole software development stack
 
