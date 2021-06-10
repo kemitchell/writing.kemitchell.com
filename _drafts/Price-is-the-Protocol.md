@@ -7,7 +7,7 @@ tags:
 - Software
 ---
 
-You want to start, grow, or keep up some software.  You've admitted to yourself you need money to do it.  Or maybe you just deserve it.  You need to send that message to those who'd benefit from your work.  You need them to see it, to understand it, to take it seriously, to act.  Achieving all that your own way is hard.  Fortunately, there's a widely understood, reliable, thoroughly "open" protocol you can use to send your message.  That protocol is price.
+You want to start, grow, or keep up some software.  You've admitted to yourself you need and money to do it.  Or maybe you just deserve it.  Either way, you need to send that message to those who'd benefit from your work.  You need them to see it, to understand it, to take it seriously, to act.  Achieving all that your own way is hard.  Fortunately, there's a widely understood, reliable, thoroughly "open" protocol you can use to send your message.  That protocol is price.
 
 To get money:
 
@@ -25,7 +25,9 @@ To get money:
 
 The price protocol is so strong that people sometimes put prices on things with little or no value, and still get paid.  And not just by friends, family, or rando Internet lulz hounds and speculators.  By businesses.  With accountants.  And managers.  And budgets.  Because, for whatever reason, someone with pull wants to pay, even if what's delivered alone doesn't make a good deal.  And, crucially, because the receiving end is _payable_.
 
-A person who sets no prices---for licenses, access, time, endorsement, whatever---isn't practically payable.  In the eyes of the price system, plus company policies, accounting, tax, and everything else built on the price system, that person is invisible, does not exist.  Figuring out how to pay them can cost more---time is money---than the amount eventually paid.  Without a price, receiving payment is exceptional.  With a price, receiving payment is the rule.
+A person who sets no prices---for licenses, access, time, endorsement, whatever---isn't practically payable.  In the eyes of the price system, plus company policies, accounting, tax, and everything else built on the price system, that person is invisible, does not exist.  Figuring out how to pay them can cost more---time is money---than the amount eventually paid.
+
+Without a price, receiving payment is exceptional.  With a price, receiving payment is the rule.  Companies _can_ make donations, but they rarely do.  When they do, they prefer to write relatively large checks to relatively large, well known, noncontroversial charities.  Which they write off their taxes.  When they pay for things that don't cost money, it's often unclear how to handle it.  Can they expense it?  Can they even process the payment?  How will the auditors tell this "donation" from an accounting bodge?  From a bribe?
 
 The price system isn't the only system.  There are others.  Some also route money around.  But they are all much smaller than the price system.  And often far more competitive.
 
