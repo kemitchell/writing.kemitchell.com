@@ -19,7 +19,7 @@ description: other blogs of likely interest
 
 [Kat Walsh](http://www.mindspillage.org/)
 
-[Michael Weinberg](https://michaelweinberg.org/blog)
+[Michael Weinberg](https://michaelweinberg.org/)
 
 ## Open People
 
