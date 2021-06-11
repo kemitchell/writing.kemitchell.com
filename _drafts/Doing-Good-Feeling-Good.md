@@ -1,0 +1,13 @@
+In a lot of life, doing good just doesn't feel good.  At least not at the time.  It's not until later, maybe, and sometimes much later, when you look back at what you've done, or hear from someone else, that you feel you met a personal goal, scored for your team, served the greater good.
+
+My personal introduction to this fact of life came through music.
+
+Early on, only I benefited from play.  Those in earshot, mostly family, suffered through.  A little further on, I became capable of making mom proud.  This comes fairly early with a mom like mine.  All the same, the lived experience of making mom proud the first or tenth time was largely crippling performance anxiety, gaping time dilation, and, eventually, relief I'd made it through.  Not, apparently, what mom was feeling.
+
+By the time I could pull off anything classed beautiful or exciting by people not in love with me, I was largely lost in the details.  I'd become aware of how my playing helped people feel.  But accepting the goal of those results, my attention shifted to method.  I wasn't feeling suspense or placidity or triumph.  I was making it.
+
+I did find moments when something like mastery---and a practiced numbness to performance anxiety---left me attention and feeling to spare, which I could spend on recognizing the effect my sounds had on others as I played, and feeling my own way through.  That puts you in the running for some very affirming kinds of experiences.  You can never _know_ for certain that you know or feel what your audience is feeling.  But you can feel it's true, to the point where analysis is, at best, a stick through your own spokes.
+
+I also came to appreciate that some kinds of artwork---work that makes art---lend themselves quicker, easier, or more reliably to moments where performer and audience can sync.  I wasn't there, but I believe this was true of rock and roll early on.  I've seen and felt wisps in rockabilly, simple punk, and ska, under the veneer of historical reenactment and nostalgia.  I definitely wasn't tuned in for the birth of hip hop, but judging by how far and fast it's gone, I have to believe there's some of this power in it, too.
+
+I also believe these kinds of coincidences of on- and off -stage experience happen in more technical work, albeit more rarely.  Classical virtuoso pieces.  Meditative, almost dirge-like progressive rock.  Hot jazz when jazz was still popular music.  The range emotions these forms lend to giving and receiving seem fairly narrow.  But that's true of three-chord rock as well, for a different range.
