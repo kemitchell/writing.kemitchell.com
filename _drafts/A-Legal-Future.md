@@ -13,3 +13,7 @@
 ## Independent study becomes the most popular way to qualify for a law license.
 
 ## Transactional practice abandons Microsoft Work and Adobe Acrobat.
+
+## Most operative documents have multiple, official translations.
+
+## Legal entity formation becomes fully automated.
