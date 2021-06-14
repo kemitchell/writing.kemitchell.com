@@ -1,6 +1,7 @@
 ---
 title: Legal Explainer Sites
 description: one-page URLs for common concepts and conundrums
+date: 2021-06-14T02:58Z
 tags:
 - Law Practice
 - Legal Information
