@@ -1,0 +1,151 @@
+---
+title: Big Time Public License 1.0.0
+description: a FRAND-ly license for software
+series: Big Time License
+tags:
+- Software
+- Licenses
+- Projects
+---
+
+Happy to announce version 1.0.0 of the [Big Time Public License](https://bigtimelicense.com), a software license that's free for noncommercial and small-business use, with a guarantee of fair commercial terms for big-company users.
+
+Here's a quick rundown.  [Your thoughts welcome!](mailto:kyle@kemitchell.com?subject=Big%20Time%20License)
+
+> # Big Time Public License
+>
+> Version 1.0.0
+>
+> <https://bigtimelicense.com/versions/1.0.0>
+
+No copyright or other lines to fill out at the top.
+
+> ## Purpose
+>
+> These terms let you use and share this software for noncommercial purposes and in small business for free, while also guaranteeing that paid licenses for big businesses will be available on fair terms.
+
+As usual, writing this part was the most difficult and important part.  I've written about this [elsewhere](https://writing.kemitchell.com/2019/01/10/Discipline-Stated-Purpose.html).  I will probably never be happy with this paragraph for more than five minutes at a time.
+
+> ## Acceptance
+>
+> In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
+
+This license is very much informed by [Blue Oak](https://blueoakcouncil.org/license/1.0.0) and the [PolyForm licenses](https://polyformproject.org).  It's most directly a "fork" of PolyForm [Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0) and [Small Business](https://polyformproject.org/licenses/small-business/1.0.0).
+
+> ## Noncommercial Purposes
+>
+> You may use the software for any noncommercial purpose.
+
+I've avoided PolyForm's "pluggable" concept of "permitted purpose", for clarity.  We'll likely do the same in the next versions of the PolyForm licenses.  Makes for easier reading.
+
+> ## Personal Uses
+>
+> Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, count as use for noncommercial purposes.
+
+Almost straight out of PolyForm Noncommercial.
+
+> ## Noncommercial Organizations
+>
+> Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution counts as use for noncommercial purposes, regardless of the source of funding or obligations resulting from the funding.
+
+Again, almost straight out of PolyForm Noncommercial.
+
+Many drafters, including this one, continue to have misgivings about whether American universities really deserve this generosity.  This week's link on that theme [here](https://www.eff.org/deeplinks/2021/06/15-universities-have-formed-company-looks-lot-patent-troll).  There will be another next week.
+
+> ## Small Business
+>
+> You may use the software for the benefit of your company if it meets all these criteria:
+>
+> - had fewer than 100 total individuals working as employees and independent contractors at all times during the last tax year
+>
+> - earned less than 1,000,000 USD (2019) total revenue in the last tax year
+>
+> - received less than 1,000,000 USD (2019) total debt, equity, and other investment in the last five tax years, counting investment in predecessor companies that reorganized into, merged with, or spun out your company
+>
+> Adjust these dollar figures for inflation according to the United States Bureau of Labor Statistics' consumer price index for all urban consumers, United States city average, for all items, not seasonally adjusted, with 1982–1984=100 reference base.
+
+This comes largely from [PolyForm Small Business](https://polyformproject.org/licenses/small-business/1.0.0/#small-business), with the addition of the financing prong.  Folks interested in this license were particularly concerned not to exempt well financed startups.
+
+> ## Big Business
+>
+> You may use the software for the benefit of your company:
+>
+> - for 128 days after your company stops qualifying under [Small Business](#small-business)
+
+This serves as a time limit on license negotiations.  If your business starts out small but grows over the limits, you have 128 days of free use to get a deal done.
+
+> - indefinitely, if the licensor or their legal successor does not offer a fair commercial license for the software within 32 days of [written request](#how-to-request)
+
+This is the teeth of the guarantee that fair licenses will be available to big business.  If you need a big-company license, reach out for a big-company license, and either don't get a response, or get a clearly unfair, unreasonable, or discriminatory proposal, this is your fallback.
+
+> ## How to Request
+>
+> If this software includes an address for the licensor or an agent of the licensor in a standard place, such as in documentation, software package metadata, or an "about" page or screen, try to request a fair commercial license at that address.  If this package includes both online and offline addresses, try online before offline.  If you can't deliver a request that way, or this software doesn't include any addressees, spend one hour online researching an address, recording all your searches and inquiries as you go, and try any addresses that you find.  If you can't find any addresses, or if those addresses also fail, that counts as failure to offer a fair commercial license by the licensor under [Big Business](#big-business).
+
+I was torn here.  On the one hand, a "fixed form" license, without blanks to fill out at the top, aids standardization, and is often just easier for everyone to handle.  On the other hand, the license text is an obvious place to identify the licensor and share contact information.  We need contact information so big companies can reach out to licensors for paid terms.
+
+In practice, we have the Internet.  It's rarely difficult to put a name and an e-mail address to published source code.  So the approach here is to set a baseline expectation for good faith effort to reach the licensor, without requiring companies to hire private investigators to secure software licenses.
+
+> ## Copyright License
+>
+> The licensor grants you a copyright license to do everything with the software that would otherwise infringe the licensor's copyright in it for any purpose allowed by these terms.
+>
+> ## Notices
+>
+> You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.  For example:
+>
+> > Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+>
+> ## Patent License
+>
+> The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
+>
+> ## Fair Use
+>
+> You may have "fair use" rights for the software under the law. These terms do not limit them.
+>
+> ## No Other Rights
+>
+> These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
+>
+> ## Patent Defense
+>
+> If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
+>
+> ## Violations
+>
+> The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice.  Otherwise, all your licenses end immediately.
+>
+> ## No Liability
+>
+> ***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
+
+All of the above come right out of PolyForm Noncomemrcial, with some small readability and consistency tweaks.
+
+> ## Definitions
+>
+> The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
+>
+> **You** refers to the individual or entity agreeing to these terms.
+>
+> **Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
+>
+> **Your licenses** are all the licenses granted to you for the software under these terms.
+>
+> **Use** means anything you do with the software requiring one of your licenses.
+
+The above come right out of PolyForm Noncommercial.
+
+> A **fair commercial license** allows use of the software in business by a company that does not qualify under [Small Business](#small-business), for a fair price, on reasonable terms, without discriminating against any particular licensee.  A fair commercial license may be perpetual or for a term, and may or may not cover new versions of the software.
+
+We could have just said "fair, reasonable, and nondiscriminatory license" above, and relied on usage in trade and developing case law to flesh that out.  We don't want to sacrifice the flexibility in that concept, or to make our use of it here unrecognizable.  On the other hand, experience with FRAND councils a bit of clarification.
+
+This license itself discriminates, in that it privileges some users and organizations with free use, while requiring others to deal.  In the vast majority of cases, that will fairly (and, I believe, legally) reflect massive differences in the costs of negotiating with large for-profit companies, as well as the kinds of legal terms---warranties, indemnities---deemed "reasonable" in that commercial context.  Still, "discriminating" here is somewhat narrowed to discrimination against "specific licensees".
+
+The last sentence is arguably the most important.  Free users effectively get a perpetual license, so long as they qualify.  But large commercial licensees buy a mix of perpetual and subscription licenses all the time.  It will effectively be up to the licensor what structure they want to propose.  Of course, the licensee can try to negotiate a change.  But not with arguments that only their preferred structure meets the requirements written out here.
+
+> A **fair price** is a fair market price for a fair commercial license.  If the licensor advertises a price or price structure for generally available fair commercial licenses, and more than one customer not affiliated with the licensor has paid that price in the past year, that is fair.
+
+Earlier drafts of this license placed much firmer upper limits on fair price, based on statistical measures of average coder compensation.  I've removed that limit for 1.0.0.  First because it's redundant of the more general requirements of fairness and reasonableness.  Second because its numerical specificity had the potential to massively over- and under-value specific projects.
+
+Declaring published pricing for previous arms-length transactions "fair" may also be redundant.  But I anticipate that will be a common case.  The certainty should be welcome.
