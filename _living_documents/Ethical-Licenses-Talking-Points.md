@@ -64,7 +64,7 @@ Yes, but as much because of those companies' inbound licensing policies as becau
 
 Some organizations choose to approve licenses only by company-wide policy, for any and all use cases, without supervision.  Some of those can't reliably tell what they're using software to do.  So many of those organizations ban copyleft, rather than worry about when it will or won't require sharing.  And many of those same organizations also impose ethically informed corporate social responsibility codes of conduct on all their vendors and subvendors.
 
-Some ethically motivated developers have adopted licenses that prohibit not unethical use as such, but use by particular forms of organization, as a proxy for the unethical of behavior they want to stop.  For example, the [Peer Production License](The number of big companies with all-or-nothing license-approval policies has led some developers to choose licenses that prohibit not unethical conduct, but use by large organizations,).
+Some ethically motivated developers have adopted licenses that prohibit not unethical use as such, but use by particular forms of organization, as a proxy for the unethical of behavior they want to stop.  For example, the Peer Production License.
 
 PolyForm's Noncommercial license improves on Creative Commons' approach by including a [special "safe harbor" provision for organizations](https://polyformproject.org/licenses/noncommercial/1.0.0/#noncommercial-organizations).   Predominantly noncommercial organizations, like charities, can rely on that provision to approve the license organization-wide, without worrying about specific use cases.  An ethical license could use a similar mechanism like PolyForm, or do without it, like Creative Commons.
 
