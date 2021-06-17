@@ -8,10 +8,6 @@ tags:
 - Funding
 ---
 
-This is the second in a series, [_Killjoy_](/series/Killjoy.html), in which I sketch unorthodox and unwelcome solutions to nagging open source problems.
-
----
-
 There's a lot of concern these days about financial support for open source software.  Who will pay for accomplished developers to make software that nobody pays for?
 
 For the last few years, there's actually been a fairly common answer:  angel investors.
