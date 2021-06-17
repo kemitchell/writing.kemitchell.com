@@ -8,7 +8,7 @@ tags:
 - Ethics Licenses
 ---
 
-It's only just occurred to me to add [Dirk Riehle](https://dirkriehle.com), Professor of Open Source at FAU in Bavaria, to the [blogroll](/blogroll.html).  If you read this blog, you'll very likely enjoy his.  I do.
+It's only just occurred to me to add [Dirk Riehle](https://dirkriehle.com), Professor of Open Source at FAU in Bavaria, to the [blogroll](/lists/Blogroll.html).  If you read this blog, you'll very likely enjoy his.  I do.
 
 Take a quick look, and you'll see his most recent post, [_Sorting Out the Ethical Licensing Mess_](https://dirkriehle.com/2020/02/27/sorting-out-the-ethical-licensing-mess/).  That post summarizes and links to a few recent efforts to write public licenses for software with ethically motivated restrictions on use, followed by two points.  I'd like to respond to those points, not necessarily to take any contrary position personally, but to relay the perspective and intentions of many of the hackers and other folks I've spoken to on the issue.
 
