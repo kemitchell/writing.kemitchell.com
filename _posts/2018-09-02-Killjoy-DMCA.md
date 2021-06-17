@@ -9,10 +9,6 @@ tags:
 - DMCA
 ---
 
-This is the first in a series, [_Killjoy_](/series/Killjoy.html), in which I'll sketch unorthodox and unwelcome solutions to nagging open source problems.
-
----
-
 Open source licenses ask very little of users.  Apparently even little is often too much.  When someone shares or builds on your open source work without following your license, you can send them a cease-and-desist letter demanding compliance and compensation.  That's dramatic, and depending on whether you hire a lawyer, a lot of time or money you don't have.
 
 When someone breaks your rules in work of their own, and puts that work online, it's often far easier, more effective, and fun to disappear their stuff from the Web with the Digital Millennium Copyright Act.
