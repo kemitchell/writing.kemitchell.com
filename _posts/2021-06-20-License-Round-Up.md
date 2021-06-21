@@ -1,6 +1,7 @@
 ---
 title: License Round-Up
 description: listing licenses I've contributed to
+date: 2021-06-21T06:36Z
 tags:
 - Software
 - Licenses
