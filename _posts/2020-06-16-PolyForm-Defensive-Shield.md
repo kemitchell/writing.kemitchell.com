@@ -1,6 +1,7 @@
 ---
 title: PolyForm Defensive is Now PolyForm Shield
 description: feedback strikes again
+series: PolyForm
 tags:
 - Licensing
 - Noncommercial
