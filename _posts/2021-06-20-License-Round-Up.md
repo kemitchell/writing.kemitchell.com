@@ -59,9 +59,9 @@ The [Small Business license](https://polyformproject.org/licenses/small-business
 
 [Free Trial](https://polyformproject.org/licenses/free-trial/1.0.0) gives a free trial for 32 days, for any purpose.  Again, we expect this license will often be used in combination with other licenses.  Offering software under both Noncommercial and Free Trial gives commercial users a free trial of 32 days, but requires them to negotiate for a long-term license after that time.
 
-[Perimeter](https://polyformproject.org/licenses/perimeter/1.0.0) and [Shield](https://polyformproject.org/licenses/shield/1.0.0) implement two approaches to "use our software for free, but not to compete with us".  Perimeter prohibits using the software to compete _with the project_.  Shield prohibits using the software to compete _with the developer_, not just in their work on the project, but more broadly.
+[Perimeter](https://polyformproject.org/licenses/perimeter/1.0.0) and [Shield](https://polyformproject.org/licenses/shield/1.0.0) implement two approaches to "use our software for free, but not to compete with us".  Perimeter prohibits using the software to compete _against the project_.  Shield prohibits using the software to compete _against the developer_, not just in their work on the project, but more broadly.
 
-Perimeter and Shield were harder to draft and took longer to finalize.  We published them some month after the initial crop of PolyForm licenses.
+Perimeter and Shield were harder to draft and took longer to finalize.  We published them some months after the initial crop of PolyForm licenses.
 
 In order to get them out quickly, the 1.0.0 versions of PolyForm licenses were generated from a common template, with most of the language reused across licenses.  In coming versions, we'll likely tone back some of the modularity, in favor of making each license easier to read on its own.
 
