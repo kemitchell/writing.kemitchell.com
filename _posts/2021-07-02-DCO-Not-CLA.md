@@ -1,6 +1,6 @@
 ---
 title: The Developer Certificate of Origin is Not a Contributor License Agreement
-description: dispelling magical DCO thinking to reveal the IP system below
+description: dispelling magical DCO thinking to reveal the system below
 series: Line by Line
 tags:
 - Open Source
