@@ -105,7 +105,7 @@ If you're thinking this reminds of the DCO, you're right on.  It's doing the sam
 
 > 5\. You represent that each of Your Contributions is Your original creation (see section 7 for submissions on behalf of others). You represent that Your Contribution submissions include complete details of any third-party license or other restriction (including, but not limited to, related patents and trademarks) of which you are personally aware and which are associated with any part of Your Contributions.
 
-Here we find echoes of the DCO's language about original work and work brought in from others, who've already released under their own license terms.  You can read "represent" as fancy pants legal for "say" or "promise" or "guarantee".  So this language puts the contributor on the hook for making sure they have the rights they need to bring in contributions.
+Here we find echoes of the DCO's language about original work and work brought in from others, who've already released under their own license terms.  You can read "represent" as fancy pants legal for "say" or "promise" or "guarantee".  So this language puts the contributor on the hook for making sure they have the rights they need to contribute.
 
 > 6\. You are not expected to provide support for Your Contributions, except to the extent You desire to provide support. You may provide support for free, for a fee, or not at all. Unless required by applicable law or agreed to in writing, You provide Your Contributions on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
 
