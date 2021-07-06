@@ -197,7 +197,7 @@ The DCO turned out so specialized---a great fit for a few projects, and a terrib
 
 For one, the DCO was the last part of the kernel system put in place.  GPLv2 had already been written, and had already been applied to kernel code for a long time.  Kernel flow was evolving and continues to evolve, but was already humming along at the time.
 
-Second, the kernel is an incredibly important project, important enough to warrant kernel-specific legal work and process discussion.  And other important software of the tim, like Git itself, also used Kernel Flow.  In 2004 and 2006, GitHub-style, pull request and hosted repository flow had yet to take off.
+Second, the kernel is an incredibly important project, important enough to warrant kernel-specific legal work and process discussion.  And other important software of the time, like Git itself, also used Kernel Flow.  In 2004 and 2006, GitHub-style, pull request and hosted repository flow had yet to take off.
 
 Third, the kernel's importance brought it under [legal fire from companies looking to claim a piece of, or forestall, its success](https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes).  The DCO was most immediately a response to claims by SCO that parts of the Linux source code came not from Linus or other open software developers, but from the original UNIX source code licensed to universities and companies, which SCO had bought the rights to.
 
