@@ -34,11 +34,3 @@ description: other blogs of likely interest
 [Mikeal Rogers](https://medium.com/@mikeal)
 
 [Dirk Riehle](https://dirkriehle.com)
-
-## Sustainability as a Service Companies
-
-[License Zero](https://blog.licensezero.com/) (my company)
-
-[OpenCollective](https://blog.opencollective.com/)
-
-[Tidelift](https://blog.tidelift.com/) (Luis Villa)
