@@ -42,7 +42,7 @@ And on and on.  Mostly in the dead of night, California time.
 
 Many tools make this possible, because my scripts need to do many different kinds of things.  At the moment:
 
-- `fcron` is my preferred version of cron.  I how easy it is to set up notifications by e-mail, only when there are errors.  I also like how it helps me avoid running too many commands at one time, even if I schedule them on top of each other.
+- `fcron` is my preferred version of cron.  I appreciate how easy it is to set up notifications by e-mail, only when there are errors.  I also like how it helps me avoid running too many commands at one time, even if I schedule them for the same time.
 
 - `rclone` moves files around between Dropbox, Google Drive, Backblaze, Digital Ocean Spaces, and the like.
 
