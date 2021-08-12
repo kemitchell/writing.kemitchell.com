@@ -17,7 +17,7 @@ today="$(date --iso-8601)"
 post="_posts/$today-$basename.md"
 git mv "$draft" "$post"
 now="$(date --iso-8601=seconds)"
-sed --in-place "s!^---\\n\\n\\n!date: $now\\n---\\n\\n\\n!" "$post"
+sed --in-place "s/^title: \\(.\\+\\)$/date: $now\\ntitle: \\1/"
 git add "$post"
 git commit --allow-empty-message --message ''
 git push

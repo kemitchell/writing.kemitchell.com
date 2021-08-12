@@ -1,4 +1,5 @@
 ---
+date: 2021-08-12T09:31:42-07:00
 title: Contract by E-Mail
 description: contract power is in your hands
 tags:
