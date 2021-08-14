@@ -661,7 +661,7 @@ As always, I welcome your comments via [e-mail], [Twitter], and
 
 [Twitter]: https://twitter.com/kemitchell
 
-[GitHub]: https://github.com/kemitchell/writing.kemitchell.com/tree/master/_posts/2016-09-21-MIT-License-Line-by-Line.md
+[GitHub]: https://github.com/kemitchell/writing.kemitchell.com/tree/main/_posts/2016-09-21-MIT-License-Line-by-Line.md
 
 <a name="further-reading"></a>A number of folks have asked where
 they can read more, or find run-downs of other licenses, like the
