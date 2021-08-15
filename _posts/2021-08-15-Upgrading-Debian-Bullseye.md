@@ -29,4 +29,6 @@ I ran into some `sudo apt full-upgrade` errors with [GStreamer](https://gstreame
 
 ## Overall
 
-After almost twenty years running Debian, you expect quirks.  This wasn't so bad.
+After almost twenty years running Debian, you expect quirks.
+
+This wasn't so bad.
