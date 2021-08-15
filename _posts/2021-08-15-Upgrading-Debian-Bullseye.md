@@ -25,7 +25,7 @@ NameResolvingService=systemd
 
 ## GStreamer Plugin Overwrite
 
-I ran into some `sudo apt full-upgrade` errors with [GStreamer](https://gstreamer.freedesktop.org/) plugin packages trying to overwrite the same file.  `apt` prompted for `install --fix-broken` calls to repair the problem, but those simply repeated the error.  The solution turned out to be specifying a `dpkg` flag to `apt`: `sudo apt --fix-broken install -o Dpkg::Options::="--force-overwrite"` just clobbers through the conflict.  I'll see how that holds up in time.
+I ran into some `sudo apt full-upgrade` errors with [GStreamer](https://gstreamer.freedesktop.org/) plugin packages trying to overwrite the same file.  `apt` prompted for `apt install --fix-broken` calls to repair the problem, but those simply repeated the error.  The solution turned out to be specifying a `dpkg` flag to `apt`: `sudo apt --fix-broken install -o Dpkg::Options::="--force-overwrite"` just clobbers through the conflict.  I'll see how that holds up in time.
 
 ## Overall
 
