@@ -2,6 +2,7 @@
 title: Help Fund Water for the Homeless
 description: legal access to public water for the East Bay's unhoused
 series: Water Boy
+date: 2021-08-15T22:35Z
 tags:
 - Oakland
 - Homelessness
