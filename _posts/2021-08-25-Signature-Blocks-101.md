@@ -59,9 +59,9 @@ To sign as Jane Jones, chief executive of Example, Inc., you would sign after "B
 
 "Customer" is the term used to refer to the company in the body of the contract.
 
-"Example, Inc." is the full legal name of the corporation on the records of the state where it's incorporated.  In this case, the state is Delaware.  Under Delaware law, companies can take several legal forms.  Example happens to be a corporation, rather than a partnership or a limited liability company or some other kind of "legal entity".
+"Example, Inc." is the full legal name of the corporation on the records of the state where it's incorporated.  In this case, the state is Delaware.  Example, Inc. happens to be a corporation, rather than a partnership or a limited liability company or some other kind of "legal entity".
 
-Note that legal entity names like "Example, Inc." get reserved and used on a per-state basis.  There may very well be a different "Example, Inc." under New York law, or under Texas law, or under California law.  That's why careful lawyers spell out both the official corporate name and its jurisdiction.  At a given time---the date of signature---that combination should uniquely identify a particular legal entity.
+Note that legal entity names like "Example, Inc." get reserved and used on a per-state basis.  There may very well be a different "Example, Inc." under New York law, under Texas law, or under California law.  That's why careful lawyers spell out both the official corporate name and its jurisdiction.  At a given time---the date of signature---that combination should uniquely identify a particular legal entity.
 
 Title is also important.  It gives a hint that Jane actually has authority to sign for the corporation.  If a signatory writes "Chief Executive Officer" and actually hold that title, chances are very good they have what lawyers call ["apparent authority" or "ostensible authority"](https://en.wikipedia.org/wiki/Apparent_authority) to sign things for the company.  If they don't have a title, or their title isn't typically an executive one, like "Chief Engineer" or "Office Manager", a smart counterparty will ask for confirmation that they have authority, or jump straight to asking for a signature from someone with a higher-level executive title.
 
