@@ -5,13 +5,13 @@ tags:
 - Contracts
 ---
 
-If you don't know _why_ signature blocks to contracts look the way they do, it all seems pretty arbitrary.  You're not going to divine your way backwards to a reason for every detail and a history for every style quirk.  Either you know what goes where or you don't.
+If you don't know _why_ signature blocks to contracts look the way they do, it all seems pretty arbitrary.  You're not going to divine your way backwards to a reason for every detail and a history for every style point.  Either you know what goes where or you don't.
 
-Here's a quick guide to signing legal documents.  I'll address the common conventions for documents as I've experienced them, working in the United States of America with documents signed under US law.
+Here's a quick guide to signing legal documents.  I'll address the common conventions for documents as I've experienced them, working in the United States of America under US law.
 
 ## Individuals
 
-The first, basic question is who is signing the document.  Is some individual person doing so?  Or is some "legal person", like a "legal entity" like a partnership or a corporation?  The signature block itself should make it clear.
+The first, basic question is who is signing the document.  Is some individual person doing so?  Or is some "legal person"---a "legal entity" like a partnership or a corporation?  The signature block itself should make that clear.
 
 Here's a typical signature block for an individual:
 
