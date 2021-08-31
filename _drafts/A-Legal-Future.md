@@ -1,3 +1,5 @@
+## Term sheets dictate complete legal terms.
+
 ## Incorporation by reference to online terms becomes commonplace.
 
 ## Most transactions are closed on named, published, standard forms.
@@ -12,8 +14,10 @@
 
 ## Independent study becomes the most popular way to qualify for a law license.
 
-## Transactional practice abandons Microsoft Work and Adobe Acrobat.
+## Transactional practice abandons Microsoft Word and Adobe Acrobat.
 
 ## Most operative documents have multiple, official translations.
 
 ## Legal entity formation becomes fully automated.
+
+## Nothing gets paginated.
