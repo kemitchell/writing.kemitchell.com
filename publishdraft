@@ -3,8 +3,7 @@ set -e
 
 basename="$1"
 if [ -z "$1" ]; then
-  echo "Usage: <draft basename>"
-  exit 1
+  basename="$(basename "$(find _drafts -iname "*.md" | fzf)" .md)"
 fi
 
 draft="_drafts/$basename.md"
