@@ -1,4 +1,5 @@
 ---
+date: 2021-09-07T14:11:14-07:00
 title: Pinky Pressing Problem
 description: discovering and addressing a lapse in typing technique
 date: Tue 07 Sep 2021 02:06:56 PM PDT
