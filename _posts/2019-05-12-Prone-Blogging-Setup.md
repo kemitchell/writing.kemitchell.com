@@ -2,6 +2,8 @@
 title: Prone Blogging Setup
 description: how to type when the pain puts you on your back
 layout: post
+tags:
+- Computing
 ---
 
 Throughout 2018 and 2019 so far, I've suffered repeated bouts of crippling back pain.  In the worst of times, I've been bedridden for days on end, stuck lying in specific positions to escape sciatic torment.  Since I couldn't sit and type at a desk, and I couldn't turn from side to side to read books, I ended up spending a lot of time on an iPad.  Here's the setup I landed on for blogging, after much wincing experiment:
