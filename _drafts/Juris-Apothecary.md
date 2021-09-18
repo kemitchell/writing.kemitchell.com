@@ -7,9 +7,9 @@ tags:
 - Standard Legal Terms
 ---
 
-The trouble with good analogies isn't so much coming up with them as shaking free of them once they've latched on.  One I just can't slip: contract standardization and the history of pharmacy.
+The trouble with good analogies isn't so much coming up with them as getting them out of your head once they've latched on.  One I just can't slip: contract drafting and the history of pharmacy.
 
-I can see a legal future where advising lawyers progress from preparing most legal documents themselves to referring clients to trusted preparers to "prescribing" an ever-increasing vocabulary of specialized forms and terms by name.  All backed by progressively stronger assurances of accuracy, integrity, and repeatability, across lengthening changes of delegation from the legal professional's office.
+I can see a legal future where advising lawyers switch from preparing most legal documents themselves to referring clients to trusted preparers to "prescribing" an ever-increasing vocabulary of specialized forms and terms by name.  All backed by progressively stronger assurances of accuracy, integrity, and repeatability, across lengthening changes of delegation from the legal professional's office.
 
 The [International Museum of Surgical Science in Chicago](https://imss.org/) has a mock nineteenth century apothecary's shop as a permanent exhibit.
 
@@ -24,7 +24,7 @@ It's not terribly hard to connect the phenomenon of a guy, a mortar, a pestle, a
 
 > Compounding is the creation of a pharmaceutical preparation---a drug---by a licensed pharmacist to meet the unique needs of an individual patient (either human or animal) when a commercially available drug does not meet those needs.  A patient may not be able to tolerate the commercially available drug, the exact preparation needed may not be commercially available, or a patient may require a drug that is currently in shortage or discontinued.
 
-It's the old trade-off between efficient standardization and resilient flexibility.  Compounding pharmacists handle exceptional situations where the mass-production pharmaceutical industry fails to provide what's needed "off the shelf" and the benefits of customization outweigh the costs of small-scale compounding.
+It's the old trade-off between efficient standardization and resilient flexibility.  Compounding pharmacists handle exceptional situations where the mass-production pharmaceutical industry fails to provide what's needed "off the shelf" and the benefits of a custom preparation outweigh the costs of a one-off.
 
 The Pharmacists Association continues:
 
@@ -38,6 +38,8 @@ This isn't a top-down, designed plan of progress.  It's a reflection of general 
 
 From the outside, as a lawyer, trying to "read in" to this system, I see a couple key mechanisms---conventions and standards---enabling collaboration.
 
+## Prescription
+
 The first is the prescription.  These are structured messages, adhering to a common format, that pass along the chain of delegated professional responsibility that begins between doctor and patient.  I've read descriptions of this format as of essentially four parts:
 
 1.  a "superscription" identifying the date and the patient
@@ -49,6 +51,8 @@ The first is the prescription.  These are structured messages, adhering to a com
 4.  a "signature" giving instructions to the patient
 
 I'm tempted to see in these parts the stamp of the old division of labor.  The inscription would tell an herbalist or similar broker of ingredients which to collect.  The subscription would tell the apothecary what to do with those materials.  The signature would tell the patient what to do with the apothecary's results---how much to take, when, and how often.
+
+## Vocabulary
 
 Second, prescriptions can be streamlined in large part because all professionals involved share common vocabularies of chemical, generic, and trade names for drugs.  A [key drug for lifesaving intervention in opioid overdoses](https://en.wikipedia.org/wiki/Naloxone) has the [IUPAC chemical name](https://en.wikipedia.org/wiki/IUPAC_nomenclature_of_organic_chemistry) "(4R,4aS,7aR,12bS)-4a,9-dihydroxy-3-(prop-2-en-1-yl)-2,3,4,4a,5,6-hexahydro-1H-4,12-methano[1]benzofurano[3,2-e]isoquinolin-7(7aH)-one", the [WHO-assigned International Nonproprietary Name](https://en.wikipedia.org/wiki/International_nonproprietary_name) or generic name "naloxone", and the trade or brand name "Narcan", among others.  The same drug, even under the same trade name, may also be available in different forms.  Thus we have Narcan nasal spray and also Narcan injection.  A higher dose of nasal spray goes by the trade name Kloxxado, but the drug involved, and therefore the generic name, remains naloxone.
 
