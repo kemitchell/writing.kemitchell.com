@@ -30,6 +30,8 @@ Pilot Hi-Tec-C (Gel)
 
 Pilot V5 (Rollerball)
 
+Sharpie Needle Point (Rollberball)
+
 Uni-Ball Vision Needle (Rollerball)
 
 ### Upright Hands
@@ -42,7 +44,7 @@ Pilot VBall (Rollerball)
 
 Pilot G2 (Gel)
 
-- They 0.38mm is defective: feed wires get jammed up against, and then protrude past, rollerballs.
+- The 0.38mm is defective.  Feed wires get jammed up against, and then protrude past, rollerballs.
 - Plastic pocket clips tend to snap off.  The Pro and especially Limited versions improve on this.
 
 Pilot Precise V5 and V7 RT
@@ -85,7 +87,7 @@ Calligraphy Oriented: Pilot Plumix
 
 - Multiple nib choices, including stubs and italics.
 
-Utilitarian: Lamy Safari
+Modern/Utilitarian: Lamy Safari
 
 - Interchangeable nibs.
 - Cartridge-converter-compatible.
@@ -95,20 +97,4 @@ Art: Noodler's Ahab (thick barrel) or Noodler's Konrad (thin barrel)
 
 - Highly customizable.
 - Many colors.
-
-## Ridiculous Things That I Own
-
-Lamy 2000 Fountain Fen, Extra Fine
-- More of a medium by modern, Japanese standards.
-
-Pilot/Namiki Falcon, Extra Fine
-- Actually extra fine.
-- I actually prefer this version to the metal one, which feels too heavy for long writing.
-- Requires good paper.
-
-Pilot Namiki Myu 701 H878, Fine
-- They don't make 'em like this any more.
-
-Rotring 600 Fountain Pen
-- They don't make 'em like this any more, either.
-- A bit on the heavy side.
+- Ink on your fingers.
