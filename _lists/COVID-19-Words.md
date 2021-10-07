@@ -1,5 +1,6 @@
 ---
 title: COVID-19 Jargon Dashboard
+description: all these new words and phrases
 ---
 
 - Acute Respiratory Distress Syndrome
