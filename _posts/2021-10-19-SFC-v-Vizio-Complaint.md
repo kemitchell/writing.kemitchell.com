@@ -9,7 +9,7 @@ tags:
 
 Software Freedom Conservancy [announced today](https://sfconservancy.org/copyleft-compliance/vizio.html) that they are suing Vizio, which makes TVs, for violations of GPLv2 and LGPLv2.1.  [Their website has a copy of a signed complaint](https://sfconservancy.org/docs/conservancy-v-vizio-original-complaint-2021-10-19.pdf), the legal document you file with a court to get a lawsuit started.
 
-Upshot:  SFC's suing for breach of contract.  They're claiming explicitly that GPLv2 and LGPLv2.1 are contracts, that Vizio breached those contracts, and that they should be held accountable under contract law.
+Upshot:  It looks like SFC's suing for breach of contract.  They're claiming explicitly that GPLv2 and LGPLv2.1 are contracts, that Vizio breached those contracts, and that they should be held accountable under contract law.
 
 The main remedy SFC requests---the thing they're asking the court to do for them---is to order Vizio to give them full corresponding source code, as agreed under GPLv2 and LGPLv2.1.  That's called "specific performance".  It's a remedy under contract law.  Not property law or intellectual property law, like copyright law.
 
