@@ -1,4 +1,5 @@
 ---
+date: 2021-10-26T18:32:42-07:00
 title: Square One Second Edition
 description: improved US hiring forms and terms
 series: Square One
