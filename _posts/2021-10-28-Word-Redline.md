@@ -1,4 +1,5 @@
 ---
+date: 2021-10-28T16:36:02-07:00
 title: Redlining in Microsoft Word 365
 description: a step-by-step guide to comparing legal drafts
 tags:
