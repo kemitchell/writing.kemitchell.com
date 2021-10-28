@@ -29,7 +29,7 @@ Explaining the "GPL Agreements", SFC says:
 
 SFC doesn't take this extra step.  They present the GPLs as classic, exchange-based contracts:
 
-> In short, each recipient of a computer program distributed under a GPL Agreement obtains a license from all of the authors of the problem to copy, use, distribute, re-distribute and modify the program, and in return, the recipient agrees to comply with the GPL Agreement's requirements.  These requirements include the obligation to provide Source Code under the Source Code Provision.
+> In short, each recipient of a computer program distributed under a GPL Agreement obtains a license from all of the authors of the program to copy, use, distribute, re-distribute and modify the program, and in return, the recipient agrees to comply with the GPL Agreement's requirements.  These requirements include the obligation to provide Source Code under the Source Code Provision.
 
 And later on, specifically on Vizio:
 
