@@ -1,4 +1,5 @@
 ---
+date: 2021-11-03T16:32:28-07:00
 title: Hydrant Meter for the Homeless
 description: a giant step forward for East Oakland Collective and EBMUD
 series: Water Boy
