@@ -7,6 +7,18 @@ tags:
 - Standard Legal Terms
 ---
 
+> Members of the public had a number of options if they needed treatment.  The first was to call in a physician, but their fees were very high and they were therefore generally only used by the rich, although there are instances of them treating the poor for a reduced fee or for no charge. ...
+>
+> The middle classes, both in London and in the country towns, usually relied on the apothecary to supply any medicines prescribed by the physician.  The apothecary was also consulted for his advice on treatment, and this aspect of the apothecary's business steadily increased during this period.  He understood that he was not permitted to charge for his consultation, and was quite prepared to rely on the sale of drugs and medicines for his profit.
+>
+> The poor also relied on the apothecary, while those who could not afford his charges were dependent ont he help they could obtain from their family, the padre or minister of religion, or perhaps the local wise woman.  This was particularly the case in country districts where there was a long tradition of using plants for their medical properties.  This practice had been refined by trial and error through the ages, although this was no guarantee of efficacy.
+>
+>  --- Peter M. Worling, "Pharmacy in the Early Modern World, 1617 to 1841 AD", in _Making Medicines: A Brief History of Pharmacy and Pharmaceuticals_
+
+>  During the Civil War (1642--1649), the apothecaries largely supported the parliamentary cause.  The physicians' patients, many of whom came from the ruling classes, left London and the physicians followed them, leaving the apothecaries to continue serving the remaining population.  This position was further aggravated during the plague of 1665, when again most of the apothecaries stayed with the people.  This consolidated their role in giving medical advice and supplying medicines.  The final factor was the Great Fire of London in 1666, during which the Guildhall and the Apothecaries' Hall were destroyed.  Because the Society of Apothecaries was in a stronger position, they were able to rebuild their premises quickly and re-establish their positions in London.
+>
+>  --- Peter M. Worling, "Pharmacy in the Early Modern World, 1617 to 1841 AD", in _Making Medicines: A Brief History of Pharmacy and Pharmaceuticals_
+
 The trouble with good analogies isn't so much coming up with them as getting them out of your head once they've latched on.  One I just can't slip: contract drafting and the history of pharmacy.
 
 I can see a legal future where advising lawyers switch from preparing most legal documents themselves to referring clients to trusted preparers to "prescribing" an ever-increasing vocabulary of specialized forms and terms by name.  All backed by progressively stronger assurances of accuracy, integrity, and repeatability, across lengthening changes of delegation from the legal professional's office.
