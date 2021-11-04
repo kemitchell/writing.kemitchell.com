@@ -21,7 +21,7 @@ All the equipment pictured above fits in one large duffel bag.  We can take that
 
 The meter weighs thirty pounds---less than a single five-gallon jug of water.  It fits easily in the footwell of a compact car.  With it, we can pump as much as water as we need, without additional weight.  We'll pay standard EBMUD rates for the water, the same as housed people pay to turn their taps.
 
-No more stuffing a five hundred pounds of jugs in a car.  No more lugging fifty-pound jerrycans through treacherous campsites.  No more paying a dollar a gallon for bottles that end up as trash piles.  Just grab the bag and go.
+No more stuffing five hundred pounds of full water jugs in a car.  No more lugging fifty-pound jerrycans through treacherous campsites.  No more paying a dollar a gallon for bottles that end up as trash piles.  Just grab the bag and go.
 
 My next steps are to do some trial runs on my local hydrant, pin down the equipment and process, and start training more volunteers.  Eventually, we want volunteers dropping by the East Oakland Collective distribution center, checking out the meter, driving to their camps, and filling everyone up spontaneously, on whatever schedule works for them.
 
