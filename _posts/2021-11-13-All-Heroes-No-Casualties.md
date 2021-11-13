@@ -1,4 +1,5 @@
 ---
+date: 2021-11-13T13:28:53-08:00
 title: All Heroes, No Casualties
 description: where are our stories of tech folks done wrong?
 tags:
