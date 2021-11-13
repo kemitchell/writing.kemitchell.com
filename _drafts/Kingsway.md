@@ -1,0 +1,85 @@
+---
+title: The Kingsway Basic License
+description: hip hop terms through a software lens
+tags:
+- Music
+- Licensing
+---
+
+[Kingsway](https://kingswaymusiclibrary.com) is a catalog of short music recordings designed to be sampled in other artists' music productions.  They're recorded and published intentionally as "samples"---sounds for sampling.  The first releases under the brand came from successful Canadian hip hop producer Frank Dukes.
+
+The origin story, as I gather, goes like this:  Frank loves sampling analog recordings from the 1970s in his hip hop.  But he ran into issues clearing samples for some important collaborations early in his career.  Despite the hold-ups, the clearance process connected him with artists still recording in the old ways, with old equipment.  That set him on a path to making his own analog recordings to "sample" in his own productions, free of clearance headaches.  He began sharing those samples in bulk with friends, and eventually made them available to the world as a kind of "library music" offering, on the understanding that he's open and available to license on fair terms.
+
+The [Kingsway Basic License](https://kingswaymusiclibrary.com/pages/kingsway-basic-license) set out legal terms.  Customers buy "packs" of recordings through Kingsway's website under those terms.  Frank's own going rate seems to be $40 per pack.  Other producers now sell their own packs on the site, too.
+
+I'm going to sketch the structure of the license terms briefly.  Obviously, what you read here isn't any substitute for parsing the language directly.  But even in imprecise summary, it's an interesting case study, outside of Software Land.  A high-quality producer of reusable "components" of valuable work has structured permission for his work to fit the dynamics of his industry while, avoid reproducing problems that frustrated him coming up, and strike a more convivial, collaborative tone than the hard edges of the legal regime otherwise facilitate.
+
+Sound familiar?
+
+## Personal Projects
+
+The blessed use case under the license is sampling the pack you bought in a personal music recording, outside the music label system, that don't register on any broad commercial scale.  This is what you're buying for $40, at least as reflected in the terms.
+
+If you sample in personal music projects that you distribute yourself, with or without changes, the fee you paid for the sample pack covers your use until you reach one million streams across a list of services---Apple Music, Spotify, and YouTube.  Once you hit that point, you have to reach out to negotiate a different license, like music label producers do.
+
+Apart from requiring payment, this division broadly parallels the noncommercial use grants under licenses like [Prosperity](https://prosperitylicense.com) and [PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0/).  Part of the motivation for these thresholds comes down to transactions costs.  It's not worth doing deals for projects that don't turn meaningful profits.  Part of the motivation also stems from a sense of fairness and the idea that good work must be valued.  Those achieving success should support the folks they relied on to get there.  A line has to be drawn where success---and support obligations---kick in.
+
+## Label Projects
+
+If you're working through a "Major Record Label"---a carefully defined term that includes several named companies, their corporate affiliates, labels distributing through them, and labels with national distribution nonetheless called "indie"---the fee you paid for the pack does _not_ cover sampling in your recording.  Ditto projects for any "Qualified Independent Label", defined to include those meeting month or all-time stream-count thresholds.
+
+Drawing this kind of line is precisely what a lot of software developers try to accomplish by licensing under free terms without warranties, choosing copyleft terms, claiming public domain status and not picking a license, and so on.  Roughly speaking, the users they don't want to sell make do on those terms.  The big companies they do want to sell aren't so comfortable with them.
+
+For label recording projects, the Kingsway terms require customers to:
+
+1.  Reach out to Kingsway, so Kingsway can connect them to the producer to talk clearance.
+
+    Software Parallel: [Fair Source License](https://fair.io/), any form of dual licensing where the user needs to reach out to the vendor because the free license doesn't cover their use case
+
+2.  Allocate 50% of various kinds of earnings on the recording using the sample.
+
+    Software Parallel: "fair price" concept of the [Big Time Public License](https://bigtimelicense.com/versions/1.0.0)
+
+3.  Give a co-producer credit in liner notes, metadata, and ads.
+
+    Software Parallel: [Code Credit License](https://codecreditlicense.com/)
+
+It doesn't seem that Kingsway actually guarantees any sample will be cleared for label recordings.  It's merely mentioned that they will connect to the producer who _could_ grant that license.  The deal for personal projects is baked into the terms.  Those terms only outline a _process_ for licensing beyond that.
+
+It's also not clear to me from the terms what the 50% of earnings on the recording must be allocated _for_.  Just the producer of the single Kingsway sample being used?  All the samples used in the recording more generally?  Maybe Kingsway wants to pre-commit customers to give sample producers 50% royalties.  Maybe they just want to make sure their customers keep at least 50% free to play with, going into clearance negotiations.
+
+I gather Kingsway is relying mostly on its artists' reputation for being willing to license for sampling on reasonable terms.  I don't see any _guarantee_ that samples will be licensed, much less on any particular terms.  When important dots aren't connected in legal terms, but good business is nonetheless being done on those terms, reputation often fills the gap.
+
+## Prohibitions
+
+There are also a number of terms making clear what _isn't_ allowed.  These are essentially protections for Kingsway and the producers it sells for.  All should sound familiar to software and SaaS negotiators:
+
+- No using the samples outside music recordings.
+
+  Software Parallel: licensed for one use case, no surprises
+
+- No using the samples alone, rather than samples in more complex recordings, or as part of other recordings meant for sampling, or redistributing them as part of other sample packs.
+
+  Software Parallel: Requirements that libraries, SaaS, APIs, &c. be integrated into projects offering substantial additional functionality, such as under [Round Robin](https://roundrobinlicense.com/2.0.0), [PolyForm Shield](https://polyformproject.org/licenses/shield/1.0.0/), and [PolyForm Perimeter](https://polyformproject.org/licenses/perimeter/1.0.0/)
+
+- No using the samples to compete with Kingsway or the sample producer.
+
+  Software Parallel: [PolyForm Shield](https://polyformproject.org/licenses/shield/1.0.0/) and [PolyForm Perimeter](https://polyformproject.org/licenses/perimeter/1.0.0/)
+
+- No licensing or otherwise passing on rights for the samples other than as samples in a broader recording.
+
+  Software Parallel: no resale clauses, no service bureau use clauses
+
+- No using the identity of the sample producer in promotion without their consent.
+
+  Software Parallel: third clause of the [three-clause BSD License](https://spdx.org/licenses/BSD-3-Clause)
+
+## Overall
+
+The immediate parallel that came to mind was [Stocksy](https://www.stocksy.com/), a kind of hybrid agency-marketplace for highly curated stock photography and B-roll.  Last I looked, Stocky mostly does "blanket licenses"---pay for access to the catalog, get use rights for everything in it---akin to a "performing rights organization" in music, like ASCAP, BMI, or SESAC.  Kingsway is still selling units of rights one-off, though each pack typically contains several recorded snippets, often separated by white noise.
+
+The license structure is a bit complex.  Layering of baked-in license terms for low-dollar use cases and specified procedures for exceptional cases reflects a totally normal caution early in a project's life.  Rights holders who intend to get paid directly for their work tend to let out control of their exclusive rights slowly, as they get a better sense of how their business model and transaction costs will scale.  They often start out doing business more or less within their own professional network, but soon find themselves dealing with people and companies they've never met, based on terms that have to spell out what's long been understood, and cover possibilities that haven't come up.
+
+In software, we see this with firms releasing proprietary code under binary licenses, then restricted source-available licenses, then stronger copyleft licenses, and eventually, perhaps, permissive terms like Apache, MIT, or BSD.  We also see it in _what_ they release: perhaps a library to start, then a feature-restricted application or service, then more features they'd previously held back, and perhaps one day their whole codebase, as they shift to earning money through services.
+
+On a personal note, I'm particularly touched by how quickly Frank seems to have moved on from finding a model that worked for him to making that model available to more producers.  He might have chosen to do that under a new brand name, rather than bringing them in under his "Kingsway" brand and established name.  Instead he's put his whole package behind them.  I'd be he's looking for change more than an asset.
