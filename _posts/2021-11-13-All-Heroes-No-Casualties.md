@@ -19,4 +19,4 @@ Older fields are more on top of this.  Comic artists have railed for years again
 
 I've yet to find a field where experienced folks can't answer the question, "What're the classic warning stories of good people done wrong in your industry?"  If someone asked me the same, I'd have to say ... _The Social Network_?  But that was early investors, not early devs.
 
-We should learn the dark side of tech industry lore, and make it part of what we pass along.  We should have an _Aesop's Fables_ and a _Grimm's Fairy Tales_ of software, not just a "Stan Lee Presents...".  Life in the bullpen's never quite [what it's cracked up to be](https://en.wikipedia.org/wiki/Bullpen_Bulletins).
+We should learn the dark side of tech industry lore, make it part of what we pass along.  We should have an _Aesop's Fables_ and a _Grimm's Fairy Tales_ of software, not just a "Stan Lee Presents...".  Life in the bullpen's never quite [what it's cracked up to be](https://en.wikipedia.org/wiki/Bullpen_Bulletins).
