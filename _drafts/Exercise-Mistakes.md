@@ -4,21 +4,23 @@ title: Exercise Mistakes
 
 ## Learn body positions without tension first.
 
-I took a lot longer to learn shoulder blade retraction and depression by thinking about them only during exercise.  A few minutes standing in front of a mirror, moving straight arms back and forth, gave me a chance to focus on the movements and learn what they feel like.
+I took a lot longer to learn to keep my shoulder blades bad and down---scapular retraction and depression---by thinking about it only during exercise.  A few minutes standing in front of a mirror, moving straight arms back and forth, gave me a much better chance to focus on the movements and learn what they feel like.
 
-I did not learn as much over several months of doing exercises where I knew I was supposed to be keeping my shoulder blades back and down.  It is hard to focus patiently when juggling a long list of other form cues, working against resistance, and managing fatigue.
+I did not learn as much over several months of doing exercises where I knew I was supposed to be keeping my shoulder blades back and down.  I guess it is hard to focus patiently when juggling a long list of other form cues, working against resistance, and managing fatigue.
 
 ## Don't cheat range of motion.
 
+The further I got toward my goals of doing so many repetitions for so many sets, but only moving part of the way, the more further behind my strength in those positions fell behind my strength where I _was_ moving.
+
 I find it really helps to pause at each extreme when starting with a new exercise.  Sometimes this means I don't get my target "minimum" number of repetitions per set at the beginning.  That's fine.
 
-If your pull-up bar is too short for you, make or find a taller one, so you can hang completely outstretched.
+I know from others that it's perfectly possible to learn good pull-up form at a bar you can reach standing flat-footed.  Equipment is not so important.  But I personally found it very helpful to find a pull-up bar tall enough that I had to step up or jump up to reach it.  I'm 6'2" or 188 cm tall.  The inexpensive "power tower" I started with got me started, but I could hang my wrists over its pull-up bar with my feet flat on the floor.
 
 ## Don't fall into your joints.
 
-Control your body all the way to the bottoms of falling motions.  Gravity can easily hurt you when you are weak and tired.
+Control your body all the way to the bottom of each falling motion.  Gravity can really hurt you when you are weak and tired, especially if you fall many times.
 
-This bit me during my first week doing lots of pull-ups throughout the day, three times a week, rather than in sets during a workout.  I suspect the ends of my final repetitions of those short sets got progressively floppier, even as I continued starting from dead hangs.  My shoulder hurt for quite a while.
+This bit me during my first week doing many small sets of pull-ups throughout the day, rather than fewer, larger sets during a workout.  I suspect the ends of my final repetitions got floppy, even as I started each one from a dead hang.
 
 ## Don't neglect stretching.
 
