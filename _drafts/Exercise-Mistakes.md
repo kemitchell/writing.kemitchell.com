@@ -2,18 +2,32 @@
 title: Exercise Mistakes
 ---
 
-## Do not cheat range of motion.
+## Learn body positions without tension first.
 
-I find it really helps to pause at both extremes when just starting out with a new movement.  Sometimes this means I don't get my target "minimum" number of repetitions per set to start.  But that's only natural spending more time doing each repetition.
+I took a lot longer to learn shoulder blade retraction and depression by thinking about them only during exercise.  A few minutes standing in front of a mirror, moving straight arms back and forth, gave me a chance to focus on the movements and learn what they feel like.
 
-If your pull-up bar is too short for you, make or find a taller pull-up bar.
+I did not learn as much over several months of doing exercises where I knew I was supposed to be keeping my shoulder blades back and down.  It is hard to focus patiently when juggling a long list of other form cues, working against resistance, and managing fatigue.
 
-## Do not fall into joints.
+## Don't cheat range of motion.
 
-Control your body all the way to the bottom of falling motions like pull-ups.
+I find it really helps to pause at each extreme when starting with a new exercise.  Sometimes this means I don't get my target "minimum" number of repetitions per set at the beginning.  That's fine.
 
-## Do not neglect stretching for challenging exercises.
+If your pull-up bar is too short for you, make or find a taller one, so you can hang completely outstretched.
 
-I've sometimes found myself limited by muscle cramps when progressing to a harder movement.  Some progressions just have big jumps in difficulty that have to be overcome by patience.  But I've often been able to avoid cramps with additional preparatory stretching specific to the movement.
+## Don't fall into your joints.
 
-Sometimes this meant stretching the muscle being worked.  For example, extra hamstring stretches helped me overcome cramps doing band-assisted nordic curls.  Other times it meant stretching something else.  For example, cramps in the bottoms of my feet limited my ability to do natural leg extensions.
+Control your body all the way to the bottoms of falling motions.  Gravity can easily hurt you when you are weak and tired.
+
+This bit me during my first week doing lots of pull-ups throughout the day, three times a week, rather than in sets during a workout.  I suspect the ends of my final repetitions of those short sets got progressively floppier, even as I continued starting from dead hangs.  My shoulder hurt for quite a while.
+
+## Don't neglect stretching.
+
+I've sometimes found myself limited by muscle cramps when starting a harder exercise.  Some progressions just have big jumps in difficulty that have to be overcome by patience.  But I've often been able to avoid cramps with additional preparatory stretching specific to the exercise.
+
+Thoroughly stretching my hamstrings helped me avoid cramps doing band-assisted Nordic curls.  Stretching my feet in pointed position---plantar flexion---helped me avoid cramps doing natural leg extensions.
+
+## Don't set repetitions goals without form rules.
+
+When I first started strength training, I set goals like "three sets of eight pull-ups with ninety-second breaks".  Leaving out form meant I wasn't constantly reminding myself that it's important.  Often, when I got close to a goal, I used bad form for an extra repetition or two.  Premature celebrations set me up for injuries or unnecessarily difficulties with the next progressions.
+
+Once I recognize this, I tried to address it by requiring myself to stay at my target number of sets and repetitions for an additional week, before moving to a harder exercise.  I thought this would give me time to iron out my form.  But I often those weeks doing the same number of repetitions with the same bad form.  It wasn't enough time to undo my bad habits.
