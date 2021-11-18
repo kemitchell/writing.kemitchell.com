@@ -1,4 +1,5 @@
 ---
+date: 2021-11-18T11:48:42-08:00
 title: Specifically Regulating Standardized Contracting
 description: quick thoughts on the Consumer Review Fairness Act of 2016
 tags:
