@@ -6,7 +6,7 @@ series: The Waypoint NDA
 tags:
 - Contracts
 - Nondisclosure Agreement
-- Standards
+- Standard Legal Terms
 - Trademark
 ---
 

@@ -6,7 +6,7 @@ date: Thu 28 Jan 2021 06:46:30 PM PST
 tags:
 - Contracts
 - Nondisclosure Agreement
-- Standards
+- Standard Legal Terms
 ---
 
 Late last year, the [Waypoint NDA](https://waypointnda.com) turned two years old.  Snuck right past me.

@@ -5,7 +5,7 @@ date: 2021-06-05T20:25Z
 tags:
 - Contracts
 - Nondisclosure Agreement
-- Standards
+- Standard Legal Terms
 ---
 
 I'm happy to announce [The Guestbook NDA](https://guestbooknda.com), a new standard _one-way_ nondisclosure agreement.  Guestbook builds on the success of its two-way predecessor, [Waypoint](https://waypointnda.com), with which it shares most of its terms.

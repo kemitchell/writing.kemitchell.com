@@ -6,7 +6,7 @@ series: The Waypoint NDA
 tags:
 - Contracts
 - Nondisclosure Agreement
-- Standards
+- Standard Legal Terms
 ---
 
 [The Waypoint NDA](https://waypointnda.com), a neutral, self-standardizing, two-way commercial nondisclosure agreement, is working toward a new version 2.0.0.  The primary goal of 2.0.0 is support for more common-law jurisdictions, in addition to the United States.

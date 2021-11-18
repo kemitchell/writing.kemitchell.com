@@ -6,7 +6,7 @@ brief: PolyForm Commercial's bringing standardization to business-to-business so
 tags:
 - Licensing
 - Software
-- Standards
+- Standard Legal Terms
 ---
 
 At [commercial.polyformproject.org](https://commercial.polyformproject.org) you can answer a series of questions, click a button, and download a ZIP archive with readable legal terms and an order template for a commercial software license.  Trial, unlimited, or seat-based, binary or source, single version or with updates, full, enterprise-class support or none whatever---the generator supports them all.  Answer the questions, download the files, fill out the order form, [read it through](https://notlegaladvice.law/), and go.

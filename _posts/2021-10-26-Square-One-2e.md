@@ -5,7 +5,7 @@ description: improved US hiring forms and terms
 series: Square One
 tags:
 - Forms
-- Standards
+- Standard Legal Terms
 - Drafting
 - Law Practice
 - Contracts

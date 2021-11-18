@@ -6,7 +6,7 @@ series: The Waypoint NDA
 tags:
 - Contracts
 - Nondisclosure Agreement
-- Standards
+- Standard Legal Terms
 brief: I'm seeking quick reads from non-US, common-law counsel for a new, international version of the Waypoint NDA.
 ---
 

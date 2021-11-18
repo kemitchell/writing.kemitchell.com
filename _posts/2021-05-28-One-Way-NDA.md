@@ -6,7 +6,7 @@ date: 2021-05-28T18:34Z
 tags:
 - Contracts
 - Nondisclosure Agreement
-- Standards
+- Standard Legal Terms
 ---
 
 I've been working with some colleagues to finalize a one-way alternatives to the two-way or "mutual" [Waypoint NDA](https://waypointnda.com).  The new form would fit situations where only one side shares confidential information.
