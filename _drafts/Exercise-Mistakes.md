@@ -22,11 +22,11 @@ Control your body all the way to the bottom of each falling motion.  Gravity can
 
 This bit me during my first week doing many small sets of pull-ups throughout the day, rather than fewer, larger sets during a workout.  I suspect the ends of my final repetitions got floppy, even as I started each one from a dead hang.
 
-## Don't neglect stretching.
+## Don't neglect warm-ups.
 
-I've sometimes found myself limited by muscle cramps when starting a harder exercise.  Some progressions just have big jumps in difficulty that have to be overcome by patience.  But I've often been able to avoid cramps with additional preparatory stretching specific to the exercise.
+I've sometimes found myself limited by muscle cramps when starting a harder exercise.  Some progressions just have big jumps in difficulty that have to be overcome by patience.  But I've often been able to avoid cramps with additional preparatory stretching and warm-ups specific to the exercise.
 
-Thoroughly stretching my hamstrings helped me avoid cramps doing band-assisted Nordic curls.  Stretching my feet in pointed position---plantar flexion---helped me avoid cramps doing natural leg extensions.
+Thoroughly stretching my hamstrings and doing bodyweight squats helped me avoid cramps doing band-assisted Nordic curls.  Stretching my feet into pointe position---plantar flexion---helped me avoid cramps doing natural leg extensions.
 
 ## Don't set repetitions goals without form rules.
 
