@@ -16,4 +16,4 @@ I don't read the Consumer Review Fairness Act to make DeWitt clauses illegal in 
 
 But the larger, more interesting theme is Congress' choice to regulate _standardized_ contracting specifically.  They haven't said you _can't_ restrict customers' abilities to review products and services.  I read the law to make it perfectly possible to _negotiate_ a deal that does just that, and to enforce it.  Rather, Congress only set new rules for what can and cannot be done in fixed terms that customers don't get to try to change.  If you want to sell at that low level of transaction cost, you can't sell this way.
 
-I struggle to think of other examples where Congress banned particular terms only in standardized contracting.  It's one of those free-associative, pattern-matching trivia questions that make law so challenging.
+I struggle to think of other examples of where Congress has banned particular terms specifically in standardized contracting.  It's one of those free-associative, pattern-matching trivia questions that make law so challenging.
