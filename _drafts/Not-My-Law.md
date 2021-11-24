@@ -1,0 +1,10 @@
+---
+title: Not My Law
+description: explainer page for cross-border legal help
+tags:
+- Law Practice
+---
+
+I've just published [Not My Law](https://notmylaw.com), another legal explainer page in the vein of [notlegaladvice.law](https://notlegaladvice.law), [Flipped Form](https://flippedform.com), and [Patent Potato](https://patentpotato.com).  Not My Law will be my go-to link when clients ask me for advice on legal terms governed by non-US law.
+
+As usual, I'm sure I'll improve the text over time.  I'm also very eager to hear feedback from clients, colleagues, and other visitors.  For the software folks, the [source is a Markdown file on GitHub](https://github.com/kemitchell/notmylaw.com/blob/main/homepage.md).
