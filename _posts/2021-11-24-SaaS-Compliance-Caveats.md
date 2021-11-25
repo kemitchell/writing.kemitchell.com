@@ -1,4 +1,5 @@
 ---
+date: 2021-11-24T22:14:48-08:00
 title: SaaS Compliance Caveats
 description: view page source ain't what it used to be
 tags:
