@@ -15,32 +15,32 @@
     <link rel=alternate href=/feed.xml type=application/rss+xml>
     <link rel=alternate href=/atom.xml type=application/atom+xml>
     <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary">
+    <meta name=twitter:card content=summary>
     {% if page.title %}
-    <meta name="twitter:title" content="{{page.title | smartify}}">
+    <meta name=twitter:title content="{{page.title | smartify}}">
     {% else %}
-    <meta name="twitter:title" content="{{site.name | smartify}}">
+    <meta name=twitter:title content="{{site.name | smartify}}">
     {% endif %}
     {% if page.description %}
-    <meta name="twitter:description" content="{{page.description | smartify}}">
+    <meta name=twitter:description content="{{page.description | smartify}}">
     {% else %}
-    <meta name="twitter:description" content="{{site.description | smartify}}">
+    <meta name=twitter:description content="{{site.description | smartify}}">
     {% endif %}
-    <meta name="twitter:image" content="https://writing.kemitchell.com/placeholder-on-white.png">
-    <meta name="twitter:creator" content="@kemitchell">
+    <meta name=twitter:image content=https://writing.kemitchell.com/placeholder-on-white.png>
+    <meta name=twitter:creator content=@kemitchell>
     <!-- OpenGraph -->
-    <meta name="og:type" content="website">
+    <meta name=og:type content=website>
     {% if page.title %}
-    <meta name="og:title" content="{{page.title | smartify}}">
+    <meta name=og:title content="{{page.title | smartify}}">
     {% else %}
-    <meta name="og:title" content="{{site.name | smartify}}">
+    <meta name=og:title content="{{site.name | smartify}}">
     {% endif %}
     {% if page.description %}
-    <meta name="og:description" content="{{page.description | smartify}}">
+    <meta name=og:description content="{{page.description | smartify}}">
     {% else %}
-    <meta name="og:description" content="{{site.description | smartify}}">
+    <meta name=og:description content="{{site.description | smartify}}">
     {% endif %}
-    <meta name="og:image" content="https://writing.kemitchell.com/placeholder-on-white.png">
+    <meta name=og:image content=https://writing.kemitchell.com/placeholder-on-white.png>
   </head>
   <body>
     <header role=banner>
