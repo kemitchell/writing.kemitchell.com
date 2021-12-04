@@ -19,7 +19,7 @@ It's now very common for SaaS app developers to run all their client-side code t
 
 It's perfectly normal to see three types of build tools in recent front-end build chains.
 
-To start, transpilers like [Babel](https://en.wikipedia.org/wiki/Babel_(transcompiler)) translate new and custom programming language syntax into older versions of JavaScript that visitors' web browsers reliably support.  These tools essentially "compile" dialects of JavaScript into an older, widespread, standard language.
+To start, transpilers like [Babel](https://en.wikipedia.org/wiki/Babel_(transcompiler)) translate new and custom programming language syntax into older versions of JavaScript that visitors' web browsers reliably support.  These tools essentially "compile" dialects of JavaScript into an older, widespread, standard dialect.
 
 Other transpilers, like the [ClojureScript](https://clojurescript.org/) compiler, don't even start with JavaScript.  They translate some other language, like Clojure, _into_ JavaScript.  The results aren't idiomatic, just functional.  They use the JavaScript runtime like the [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine) or [Common Language Infrastructure](https://en.wikipedia.org/wiki/Common_Language_Infrastructure).
 
