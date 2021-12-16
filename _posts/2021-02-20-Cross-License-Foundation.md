@@ -5,6 +5,7 @@ brief: Many collaborative projects treat license choices like once-and-forever c
 tags:
 - Open Source
 - Licensing
+- Contributor Licensing
 ---
 
 Many problems bedevil open licensing.  A shocking number stem from one cause: Once a project picks a license, it's usually stuck that way forever.  If you can't get all the contributors with work in the project to approve a change, you can't change the terms for the project as a whole.  Often, the trouble isn't so much agreement as just getting back in touch with people.

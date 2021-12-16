@@ -5,6 +5,7 @@ layout: post
 tags:
 - Open Source
 - Licensing
+- Contributor Licensing
 ---
 
 Earlier this week, I read Ben Balter's [_Why you probably shouldn't add a CLA to your open source project_](https://ben.balter.com/2018/01/02/why-you-probably-shouldnt-add-a-cla-to-your-open-source-project/).   You should read it, too.

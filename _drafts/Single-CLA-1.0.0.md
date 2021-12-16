@@ -1,0 +1,35 @@
+---
+title: Single CLA
+description: taking back contributor licensing for developers
+tags:
+- Open Source
+- Licensing
+- Contributor Licensing
+---
+
+Contributor license agreements [are a very good idea](https://writing.kemitchell.com/2018/01/06/CLAs-Are-Not-a-Sham.html).  They've just been implemented badly.  [Single CLA](https://github.com/singlecla/singlecla), now at version 1.0.0, shows how to do CLAs open style.  Not BigCo HR department style.
+
+Fork the repository to your GitHub or GitLab account.  [Read the terms.](https://github.com/singlecla/singlecla/blob/main/cla.md)  Sign by typing your name at the bottom.  Commit, push, and you're done.  Single CLA covers any pull requests you make to public projects on the same website.  A [simple shell script](https://github.com/singlecla/verify) verifies that you have signed, and what version:
+
+```shellsession
+$ ./verify github kemitchell
+GitHub user kemitchell has signed Single CLA version 1.0.0.
+```
+
+Putting MIT or GPL in a new public repo is easy.  Copy, commit, and push.  Why does licensing code for other repos feel like day one at a bad new job: "Here, sign these eye watering legal terms nobody understands."  It's no wonder devs have rebelled, veering off toward [the opposite extreme](https://writing.kemitchell.com/2021/07/02/DCO-Not-CLA.html), at the expense of not actually getting done what CLAs exist to do.  We can have a coder friendly process _and_ get the legal job done.
+
+We have seen some CLA streamlining in the last few years,  but mostly by way of tools and services that slightly optimize the Business As Usual.  Sign our CLA, but do it online, as a PDF, instead of mailing paper.  Police each new PR to make sure we've got a PDF from everyone, but use this bot to stay on top of it.  We're not reengineering the craggy, inefficient process.  We're reinforcing it---and dignifying it---with a who's who of business SaaS and automation.  We're filling digital filing cabinets with digital squiggle signatures in digital documents with print pagination.  We're reenacting 1930s office culture online.
+
+If I can authenticate as [kemitchell](https://github.com/kemitchell) to push `LICENSE` files and open pull requests, I can authenticate as kemitchell to specify license terms for my contributions.  If we can write a standard, understandable CLA, we can make that CLA cover all pull requests, rather than making and signing a new, redundant copy for every project.
+
+If Single CLA appeals to you, try it out and let me know your thoughts.
+
+If something's unclear [in the terms](https://github.com/singlecla/singlecla/blob/main/cla.md), open an issue or a pull request.
+
+If the `README` for [the repo](https://github.com/singlecla/singlecla/blob/main/README.md) could be improved, let's do it.
+
+If you can think of a good logo, drop me a line.
+
+If you'd like to get the Single CLA approved for your project, or by your institution, let me know.  I'll be happy to help.
+
+We can take this process back from pre-Internet bureaucracy.  We can make it a hackable part of how open gets done.
