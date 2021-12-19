@@ -43,6 +43,7 @@ _Inverse_ correlations can also be expressed with &prop;, as correlations to the
 <thead>
   <tr>
     <th>Symbol</th>
+    <th>Description</th>
     <th>Unicode</th>
     <th>HTML Entity</th>
     <th>Vim Digraph</th>
@@ -51,14 +52,16 @@ _Inverse_ correlations can also be expressed with &prop;, as correlations to the
 <tbody>
   <tr>
     <th>⅟</th>
+    <td>Fraction Numerator One</td>
     <td><code>U+215F</code></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <th>¹</th>
+    <td>Superscript One</td>
     <td><code>U+00B9</code></td>
-    <td><code>&amp;sup1</code></td>
+    <td><code>&amp;sup1;</code></td>
     <td><code>Ctrl+K 1S</code></td>
   </tr>
 </tbody>
