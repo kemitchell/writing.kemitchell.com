@@ -37,7 +37,32 @@ I accidentally did myself a very good turn when it comes to taking notes.  Using
 </tbody>
 </table>
 
-_Inverse_ correlations can also be expressed with &prop;, as correlations to the reciprocal: `x∝⅟y`, `x∝1/y`, or <code>x∝y<sup>-1</sup></code>.  The Unicode `⅟` is `U+215F`.  I don't think there's a default Vim digraph, but you could define one.
+_Inverse_ correlations can also be expressed with &prop;, as correlations to the reciprocal: `x∝⅟y`, `x∝1/y`, <code>x∝y<sup>-1</sup></code>, or `x∝y¹`.
+
+<table>
+<thead>
+  <tr>
+    <th>Symbol</th>
+    <th>Unicode</th>
+    <th>HTML Entity</th>
+    <th>Vim Digraph</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>⅟</th>
+    <td><code>U+215F</code></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>¹</th>
+    <td><code>U+00B9</code></td>
+    <td><code>&amp;sup1</code></td>
+    <td><code>Ctrl+K 1S</code></td>
+  </tr>
+</tbody>
+</table>
 
 I recall using `∴` for _therefore_ and `∵` for _because_ in grade school.  I believe I saw those first in chemistry class.  The arrows used in computer science and formal logic eventually won out in my personal shorthand.
 
