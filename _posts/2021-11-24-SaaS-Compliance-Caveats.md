@@ -38,7 +38,7 @@ For a quick sense of how inscrutable JavaScript ends up, visit [GMail](https://g
 
 Note that JavaScript keywords and API names like `function` and `this` and `var` and `prototype` remain.  These will be handled well by the compression algorithms browsers and servers use, since they repeat so often.  Note also that nearly all visible variable names---the names following `var` keywords---are but one or two letters.  The programmers didn't name their variables that way.  The minifier renamed them.
 
-If you asked me to add a feature or fix a bug in this code, it wouldn't be a maintenance project.  It would be a reverse-engineering project.  If I found it this code was originally GPL licensed, demanded ["Corresponding Source"](https://zoo.kemitchell.com/GPL-3.0#1p4) from Google, and got told I already have it---just click "View Source"---I'd call license violation.
+If you asked me to add a feature or fix a bug in this code, it wouldn't be a maintenance project.  It would be a reverse-engineering project.  If I found that this code was originally GPL licensed, demanded ["Corresponding Source"](https://zoo.kemitchell.com/GPL-3.0#1p4) from Google, and got told I already have it---just click "View Source"---I'd call license violation.
 
 ## WebAssembly
 
