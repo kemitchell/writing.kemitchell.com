@@ -1,4 +1,5 @@
 ---
+date: 2022-01-05T15:14:07-08:00
 title: Waypoint for M&A
 description: adding acquisition-specific terms to the standard business NDA
 series: The Waypoint NDA
