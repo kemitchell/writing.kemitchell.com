@@ -1,4 +1,5 @@
 ---
+date: 2022-01-06T10:04:45-08:00
 title: What Do We Call Functional Specs for Legal Forms?
 description: seeking help naming a concept
 tags:
