@@ -15,15 +15,21 @@ I really respect Ben, his writing, and his work at GitHub.  But I fundamentally 
 As I understand Ben's argument:
 
 -  Open source stewards should put attracting contributors first.
+
 -  CLAs increase friction for new contributors.
+
 -  Plenty of open source projects seem to get by without CLAs.
+
 -  So by default, don't use them.
 
 I'll quibble with each link in that chain, as well as the overall conclusion.  But I also want to address some themes cutting across Ben's discussion:
 
 - Lawyers are biased against, or incapable of, practical advice on open source licensing and community matters.
+
 - Programmers at steward-companies should regard advice about company risk with suspicion, and push back against it on behalf of outside contributors.
+
 - CLAs are mostly cover-your-ass maneuvers for steward-companies.
+
 - GitHub's recently updated site-wide terms of service better solve the underlying problem.
 
 We see differently on those underlying points, too.  Which partially explains our differing conclusions.
@@ -31,9 +37,13 @@ We see differently on those underlying points, too.  Which partially explains ou
 How do I see things?
 
 - Recording contributor license grants solves legal problems.
+
 - Contributor licensing needn't cause high friction.
+
 - Open source should teach contributor licensing, not hide it.
+
 - It's very hard to put contributor licensing off.
+
 - So by default, follow a process from the get-go.
 
 ## Your lawyer is not the enemy.
