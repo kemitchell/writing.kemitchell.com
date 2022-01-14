@@ -50,7 +50,7 @@ California recently passed a new law, [SB-331](https://leginfo.legislature.ca.go
 
 > A nondisparagement or other contractual provision that restricts an employee's ability to disclose information related to conditions in the workplace shall include, in substantial form, the following language: "Nothing in this agreement prevents you from discussing or disclosing information about unlawful acts in the workplace, such as harassment or discrimination or any other conduct that you have reason to believe is unlawful."
 
-The magic jargon "in substantial form" means we won't kicked out of Eden for trifling word changes.  Square One's confidentiality terms use "these terms" instead of "this agreement", and that's what we use in this mandated language.  But "in substantial form" means at the very least that you _start_ with copy-and-paste.
+The magic jargon "in substantial form" means we won't get kicked out of Eden for trifling word changes.  Square One's confidentiality terms use "these terms" instead of "this agreement", and that's what we use in this mandated language.  But "in substantial form" means at the very least that you _start_ with copy-and-paste.
 
 The Cali mandated language could have been a lot worse.  Longer.  Wordier.  Stuffier.  But we could end up with fifty of these things in any form that wants to "just work", no matter which state the worker's in.  Too many of these would be its own kind of eye-watering bad.
 
