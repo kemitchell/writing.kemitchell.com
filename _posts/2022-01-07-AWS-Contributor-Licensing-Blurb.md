@@ -1,7 +1,7 @@
 ---
 date: 2022-01-07T09:14:05-08:00
 title: AWS Contributor Licensing Blurb
-description: another mutation from the cauldron of CLA frustration
+description: another mutation from the cauldron of CLA angst
 tags:
 - Open Source
 - Licensing
