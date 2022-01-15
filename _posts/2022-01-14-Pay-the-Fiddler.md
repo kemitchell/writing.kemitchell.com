@@ -1,4 +1,5 @@
 ---
+date: 2022-01-14T22:22:29-08:00
 title: Pay the Fiddler
 description: an old line from days of yore
 ---
