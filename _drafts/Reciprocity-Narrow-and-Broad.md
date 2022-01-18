@@ -4,7 +4,7 @@ description:
 layout: post
 tags:
 - Open Source
-- Sustainability
+- Funding
 - Licensing
 ---
 
