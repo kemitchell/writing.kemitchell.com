@@ -1,4 +1,5 @@
 ---
+date: 2022-01-17T19:47:49-08:00
 title: To-Do List Polling
 description: event-based meatspace task management
 tags:
