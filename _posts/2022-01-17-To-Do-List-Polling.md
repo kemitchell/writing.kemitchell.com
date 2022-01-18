@@ -17,7 +17,7 @@ I recently added a new convention for tasks triggered by events to come at unkno
 CEO returns from holiday >> follow up on insurance inventory
 ```
 
-Everything before `>>` is the "event".  In this case, the client's CEO coming back from holiday.  Everything after `>>` is the task  Once the event happens, I need to be reminded of the task.
+Everything before `>>` is the "event".  In this case, the client's CEO coming back from holiday.  Everything after `>>` is the task.  Once the event happens, I need to be reminded of the task.
 
 This convention makes it easy for the computer to find the events I'm waiting on and ask me about them.  In other words, the computer can [_poll_](https://en.wikipedia.org/wiki/Polling_(computer_science)) me for these events.
 
