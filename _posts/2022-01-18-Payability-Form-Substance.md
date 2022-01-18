@@ -1,4 +1,5 @@
 ---
+date: 2022-01-18T12:35:21-08:00
 title: Payability, Form, and Substance
 description: getting company to pay you isn't just about a legal entity
 tags:
