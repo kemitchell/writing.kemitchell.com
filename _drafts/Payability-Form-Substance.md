@@ -6,7 +6,7 @@ tags:
 - Funding
 ---
 
-Reading [Nicholas Zakas' "Making Your Open Source Project Sponsor-Ready"](https://humanwhocodes.com/blog/2021/12/making-open-source-project-sponsor-ready-companies-trust/) and [Filippo Valsorda's "Professional Maintainers"](https://blog.filippo.io/professional-maintainers/) last week, I was struck by how they made the same too-rare but crucial point: a key part of getting paid by companies is taking a form that companies _can_ pay.
+Reading [Nicholas Zakas' "Making Your Open Source Project Sponsor-Ready"](https://humanwhocodes.com/blog/2021/12/making-open-source-project-sponsor-ready-companies-trust/) and [Filippo Valsorda's "Professional Maintainers"](https://blog.filippo.io/professional-maintainers/) last week, I was struck by how they both made the same too-rare but crucial point: a key part of getting paid by companies is taking a form that companies _can_ pay.
 
 Nicholas writes:
 
@@ -58,11 +58,11 @@ The same afflicts logo placement sponsorship.  How much is that really worth?  D
 
 One of the reasons I stress dual licensing as a model more devs should consider more often is how hard and square it hits payability.
 
-With dual licensing, the value proposition really _is_ the proposition.  Companies pay you because your software is good and they want to use it.  You don't have to have a friend inside the company who really wants to pay for software you give away for free, who can help you pretend that you're charging for something else, and then leave the company or lose pull.  There's no concern some accountability system will flag your payment stream and cut you off, because you're not really selling what they're paying for, or what they're paying is out of proportion to what they get.
+With dual licensing, the value proposition really _is_ the proposition.  Companies pay you because your software is good and they want to use it.  You don't have to have a friend inside the company who really wants to pay for software you give away for free, who can help you pretend that you're charging for something else, and then leave the company or lose pull.  There's no concern some accountability system will flag your payment stream and cut you off because you're not really selling what they're paying for, or what they're paying is out of proportion to what they get.
 
 There are only trade-offs in this game, no pure and easy wins.  Sponsorship, tag-along support, and tag-along maintenance are suiting some projects just fine, and I'm glad for it.
 
-The important point is that slowly but surely, one convo, blog post, and story at a time, we're working the money factor back into the way we think about open development and software production.  We're becoming more realistic, better primed to make decisions that get more good software out of more good people at global scale.  Our language is evolving, improving our conversations.
+The important point is that slowly but surely, one convo, blog post, and story at a time, we're working the money factor back into our mental picture of open development and software production.  We're becoming more realistic, better primed to make decisions that get more good software out of more good people at global scale.  Our language is evolving, improving our conversations with it.
 
 ---
 
