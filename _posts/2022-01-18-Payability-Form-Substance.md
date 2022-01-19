@@ -61,7 +61,7 @@ The same afflicts logo placement sponsorship.  How much is that really worth?  D
 
 One of the reasons I stress dual licensing as a model more devs should consider more often is how hard and square it hits payability.
 
-With dual licensing, the value proposition really _is_ the proposition.  Companies pay you because your software is good and they want to use it.  You don't have to have a friend inside the company who really wants to pay for software you give away for free, who can help you pretend that you're charging for something else, and then leave the company or lose pull.  There's no concern some accountability system will flag your payment stream and cut you off because you're not really selling what they're paying for, or what they're paying is out of proportion to what they get in exchange.
+With dual licensing, the value proposition really _is_ the proposition.  Companies pay you because your software is good and they want to use it.  You don't have to have a friend inside the company who really wants to pay you, who can help you pretend that you're charging for something, and then leave the company or lose pull.  There's no concern some accountability system will flag your payment stream and cut you off because you're not really selling what they're paying for, or what they're paying is out of proportion to what they get in exchange.
 
 There are only trade-offs in this game, no pure and easy wins.  Sponsorship, tag-along support, and tag-along maintenance are suiting some projects just fine, and I'm glad for it.
 
