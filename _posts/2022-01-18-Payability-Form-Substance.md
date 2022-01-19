@@ -45,7 +45,7 @@ This appeals to the naive moralism both Nicholas and Filipo call out.  Nicholas 
 >
 > The harsh reality is that companies don't operate as charities.
 
-Filippo links [the obligatory xkcd](https://xkcd.com/2347/).  Upshot: Maybe we can still get donations because it's the right thing to do, and just dress up like business people doing business things in business waybusiness things in business ways to get paid.
+Filippo links [the obligatory xkcd](https://xkcd.com/2347/).  Upshot: Maybe we can still get donations because it's the right thing to do, and just dress up like business people doing business things in business ways long enough to get paid.
 
 I've seen maintainers "hired" as independent contractors and paid every month without a single documented deliverable to the company.  This is the worst from a lawyer's point of view, because those terms almost certainly say that the company owns everything the dev does, without any mention of release.  As consolation, what those terms actually say may not matter at all, at least while things are going good.  They only exist to paper over payment to the dev, because a high-level technical manager or technical founder wants that to happen.  The companies involved are invariably small.  Startups, mostly.  No procurement processes.  No accounting control.
 
