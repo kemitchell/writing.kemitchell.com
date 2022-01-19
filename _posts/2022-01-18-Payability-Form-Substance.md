@@ -45,11 +45,13 @@ This appeals to the naive moralism both Nicholas and Filipo call out.  Nicholas 
 >
 > The harsh reality is that companies don't operate as charities.
 
-Filippo links [the obligatory xkcd](https://xkcd.com/2347/).  Upshot: Maybe we can still get donations because it's the right thing to do, and just dress up like business people doing business things in business ways to get paid.
+Filippo links [the obligatory xkcd](https://xkcd.com/2347/).  Upshot: Maybe we can still get donations because it's the right thing to do, and just dress up like business people doing business things in business waybusiness things in business ways to get paid.
 
 I've seen maintainers "hired" as independent contractors and paid every month without a single documented deliverable to the company.  This is the worst from a lawyer's point of view, because those terms almost certainly say that the company owns everything the dev does, without any mention of release.  As consolation, what those terms actually say may not matter at all, at least while things are going good.  They only exist to paper over payment to the dev, because a high-level technical manager or technical founder wants that to happen.  The companies involved are invariably small.  Startups, mostly.  No procurement processes.  No accounting control.
 
-The same can happen with support contracts, especially when the software and documentation are good enough that the devs receive roughly zero support tickets from any particular company in a year.  All the real work then is in features and bugfixes.  If the actual reason the company pays is that the company, or someone with pull at the company, _wants_ to pay, that's irrelevant.  But underlying it all is the risk of a reckoning.  It's the same problem Filippo identifies with working on open source for a big company:
+The same can happen with support contracts, especially when the software and documentation are good enough that the devs receive roughly zero support tickets from any particular company in a year.  All the real work then is in features and bugfixes.
+
+If the actual reason the company pays is that the company, or someone with pull at the company, _wants_ to pay, that's irrelevant.  But underlying it all is the risk of a reckoning.  It's the same problem Filippo identifies with working on open source for a big company:
 
 > Executives and promotion committees start asking "what is it that we pay you for exactly?", and suddenly you're spending more and more time proving your work is important, and less and less time doing it.
 
