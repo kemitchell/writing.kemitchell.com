@@ -19,7 +19,7 @@ Filippo writes:
 
 After many conversations, I've settled on the word "payability" for this phenomenon.  _If you want to get paid, you have to be payable._
 
-Nicholas and Filippo differ on how you should go about this.  Nicholas recommends signing up for "trusted intermediaries"---Open Collective and GitHub Sponsors---that at least some companies have already figured out how to pay.  Filippo recommends forming an LLC that can bill companies directly:
+Nicholas and Filippo differ on how you should go about this.  Nicholas recommends signing on with "trusted intermediaries"---Open Collective and GitHub Sponsors---that at least some companies have already figured out how to pay.  Filippo recommends forming an LLC that can bill companies directly:
 
 > You'd be amazed how much harder it is to explain "what the fuck is an open collective?" for a $10k donation, compared to paying a $100k invoice to an LLC that filed a W-9 or W-8BEN and takes payment through ACH.
 
