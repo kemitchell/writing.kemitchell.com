@@ -27,7 +27,7 @@ Part of payability is being a _thing_ that companies can pay.  An LLC.  A corpor
 
 But there's another part to payability: offering a _transaction_ company process can approve.
 
-Even if you have an organization ready to receive payment on your behalf, payor's procurement pipeline and accounting controls still need to grok what they're paying _for_.  If companies could pay whoever for whatever, so long as they're an LLC and send an invoice, a whole lot bribes, kickbacks, and outright thefts would walk off balance sheets through accounts payable, papered as purchases or service contracts.  This absolutely does happen, which is why companies invest in surveillance, control, and accountability against it.  "We should pay these people because we want to pay them." is _the_ big red flag.
+Even if you have an organization ready to receive payment on your behalf, payor's procurement pipeline and accounting controls still need to grok what they're paying _for_.  If companies could pay whoever for whatever, so long as they're an LLC and send an invoice, a whole lot of bribes, kickbacks, and outright thefts would walk off balance sheets through accounts payable, papered as purchases or service contracts.  This absolutely does happen, which is why companies invest in surveillance, control, and accountability against it.  "We should pay these people because we want to pay them." is _the_ big red flag.
 
 Interestingly, Nicholas and Filippo don't seem to differ that much on what they actually see developers selling.
 
