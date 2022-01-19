@@ -65,7 +65,9 @@ With dual licensing, the value proposition really _is_ the proposition.  Compani
 
 There are only trade-offs in this game, no pure and easy wins.  Sponsorship, tag-along support, and tag-along maintenance are suiting some projects just fine, and I'm glad for it.
 
-The important point is that slowly but surely, one convo, blog post, and story at a time, we're working the money factor back into our mental picture of open development and software production.  We're becoming more realistic, better primed to make decisions that get more good software out of more good people at global scale.  Our language is evolving, improving our conversations with it.
+The important point is that slowly but surely, one convo, blog post, and story at a time, we're working the money factor back into our mental picture of open development and software production.  We're becoming more realistic, better primed to make decisions that get more good software out of more good people at global scale.
+
+Our language is evolving, improving our conversations with it.
 
 ---
 
