@@ -1,6 +1,6 @@
 ---
 title: MIT for Noncommercial is Broken
-description: use a real noncommercial license
+description: use a real noncommercial software license
 tags:
 - Open Source
 - Software
