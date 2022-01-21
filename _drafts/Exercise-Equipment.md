@@ -7,18 +7,21 @@ tags:
 
 There is an amazing amount of seedy fitness marketing on the Internet.  Here's the workout crap I've bought over the last several years that actually worked well for me, doing calisthenics and weenie gymnastics-style training at home.
 
-To give a sense, here are some of the exercises I've enjoyed that required at least some equipment:
+To give a sense, here are some exercises involving equipment that I did in a recent workout:
 
-- Ab Rollouts, with Wheel and Rings
-- Chin-Ups and Pull-Ups, on Bar and Rings
-- Dips, on Bars and Rings
-- L-Sits, on Bars and Rings
-- Rings Push-Ups
+- Pull-Ups
+- Band-Assisted Natural Leg Extensions
+- Rings Dips
+- Band-Assisted Nordic Hamstring Curls
 - Rings Rows
+- Band-Resisted Push-Ups
+- Band-Assisted Ab Wheel
+
+Basically:  I need a bar, some bands, and something to hold my ankles down during hamstring curls.
 
 ### Khanh Trinh Pull-Up Bar
 
-I am 6 feet, 2 inches or 188 centimeters tall.  I started out with a very inexpensive "power tower" combining pull-up bar and dip station.  That worked great for dips, but wasn't tall enough for me to hang from the bar with my body straight and my feet off the floor.  As a result, though I convinced myself I was working the full pull-up range of motion, in reality I failed to develop strength in the bottom range, and never really achieved good form with shoulder blades pulled fully back and fully down.
+I am 6 feet, 2 inches or 188 centimeters tall.  I started out with a very inexpensive "power tower" combining pull-up bar and dip station.  That worked great for dips, but wasn't tall enough for me to hang from the bar with my body straight and my feet off the floor.  As a result, though I convinced myself I was working the full pull-up range of motion, in reality I failed to develop strength at the bottom, and never got used to pulling my shoulder blades all the way and all the way down.
 
 <figure><img src="/images/pullup-bar.gif" alt="product photo of pull-up bar"></figure>
 
