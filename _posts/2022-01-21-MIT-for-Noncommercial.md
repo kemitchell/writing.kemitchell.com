@@ -1,4 +1,5 @@
 ---
+date: 2022-01-21T12:32:00-08:00
 title: MIT for Noncommercial is Broken
 description: use a real noncommercial software license
 tags:
