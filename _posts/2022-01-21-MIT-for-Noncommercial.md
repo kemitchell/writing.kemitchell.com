@@ -24,4 +24,4 @@ The MIT License also allows sublicensing and "permit[ting] persons to whom the S
 
 In short, offering "MIT, but only for noncommercial purposes" creates a confusing contradiction in terms for the first user and a potential loophole for everyone they share with.  MIT just isn't built for implementing and passing on limits like noncommercial use rules.  It's built for the opposite.
 
-It's a sad indictment of licensing lawyers like me that "MIT for non-commercial" makes more sense to more people than the names of any of the actual noncommercial licenses now available.  Part of that is simply a function of time: "MIT" has been a recognized name for decades, while lawyers like me only got around to pushing standardized noncommercial terms in the last few years.
+It's a sad indictment of licensing lawyers like me that "MIT for noncommercial" makes more sense to more people than the names of any of the actual noncommercial licenses now available.  Part of that is simply a function of time: "MIT" has been a recognized name for decades, while lawyers like me only got around to pushing standardized noncommercial terms in the last few years.
