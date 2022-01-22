@@ -21,6 +21,7 @@ exclude:
 - Gemfile.lock
 - Makefile
 - listtags
+- serve
 defaults:
   - scope:
       path: ""
