@@ -7,9 +7,9 @@
 <p class=description>{{ post.description | smartify }}</p>
 <ul class=tags>
 {% if post.series %}
-  <li><a href="/series/{{post.series | slugify}}.html">{{ post.series | smartify }}</a></li>
+  <li><a href="/series/{{post.series | slugify}}">{{ post.series | smartify }}</a></li>
 {% endif %}
 {% for tag in post.tags %}
-  <li><a href="/tags/{{tag | slugify}}.html">{{ tag | smartify }}</a></li>
+  <li><a href="/tags/{{tag | slugify}}">{{ tag | smartify }}</a></li>
 {% endfor %}
 </ul>
