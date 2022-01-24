@@ -20,19 +20,19 @@
   {% endif %}
   {% if page.series %}
   <p class=series>
-    This post is part of a series, <a href="/series/{{ page.series | slugify }}.html">{{page.series}}</a>.
+    This post is part of a series, <a href="/series/{{ page.series | slugify }}">{{page.series}}</a>.
   </p>
   {% endif %}
   {{ content }}
   {% if series %}
   <p class=signature>
-    More in this series: <a href="/series/{{ page.series | slugify }}.html">{{page.series}}</a>
+    More in this series: <a href="/series/{{ page.series | slugify }}">{{page.series}}</a>
   {% endif %}
   </p>
   {% if tags %}
   <p class=signature>more posts about:
   {% for tag in page.tags %}
-  <a href="/tags/{{tag | slugify}}.html">{{ tag | smartify }}</a>
+  <a href="/tags/{{tag | slugify}}">{{ tag | smartify }}</a>
   {% endfor %}
   </p>
   {% endif %}
