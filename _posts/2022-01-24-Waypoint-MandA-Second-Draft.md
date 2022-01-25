@@ -1,4 +1,5 @@
 ---
+date: 2022-01-24T21:59:53-08:00
 title: Second Draft of Waypoint for M&A
 description: refining acquisition-specific terms to the standard business NDA
 series: The Waypoint NDA
