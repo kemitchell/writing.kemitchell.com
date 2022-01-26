@@ -8,7 +8,7 @@ tags:
 - Projects
 ---
 
-Happy to announce version 2.0.0 of the [Big Time Public License](https://bigtimelicense.com), a software license that's free for noncommercial and small-business use, with a guarantee of [fair, reasonable, and nondiscriminatory terms](https://en.wikipedia.org/wiki/Reasonable_and_non-discriminatory_licensing) for big-company users.
+Happy to announce version 2.0.0 of the [Big Time Public License](https://bigtimelicense.com), a software license that's free for noncommercial and small-business use, with a guarantee of [fair, reasonable, and nondiscriminatory terms](https://en.wikipedia.org/wiki/Reasonable_and_non-discriminatory_licensing) for big-company users.  This is thanks to recent enthusiasm and feedback, from [Hacker News](https://news.ycombinator.com/item?id=29924637), [Lobste.rs](https://lobste.rs/s/drsgro/big_time_public_license_1_0_0), and my friends and colleagues of the [Artless Devices forum](https://forum.artlessdevices.com) and [PolyForm](https://polyformproject.org).
 
 The whole text of the new version follows, with comments where there have been changes.  As always, [your thoughts are very welcome!](mailto:kyle@kemitchell.com?subject=Big%20Time%20License)
 
@@ -22,7 +22,7 @@ The whole text of the new version follows, with comments where there have been c
 >
 > These terms let you use and share this software for noncommercial purposes and in small business for free, while also guaranteeing that paid licenses for big businesses will be available on fair, reasonable, and nondiscriminatory terms.
 
-Note that this section now includes the full phrase "fair, reasonable, and nondiscriminatory".
+Note that this section now includes the full phrase "fair, reasonable, and nondiscriminatory".  It's a FRAND commitment, and it says so.
 
 > ## Acceptance
 >
@@ -62,7 +62,7 @@ We've reduced this threshold from 100 to 20 individuals.
 >
 > 2.  indefinitely, if the licensor or their legal successor does not offer fair, reasonable, and nondiscriminatory terms for a commercial license for the software within 32 days of [written request](#how-to-request) and negotiate in good faith to conclude a deal
 
-Note the addition of an obligation to negotiate in good faith.
+Note the addition of an obligation to negotiate in good faith.  No sending a proposal and then failing to follow through.
 
 > ## How to Request
 >
@@ -75,6 +75,8 @@ Note the addition of an obligation to negotiate in good faith.
 The clarifications around FRAND now live in this section, instead of definitions squirreled away at the bottom of the license.
 
 The "as-advertised" safe harbor now extends to license terms as well as pricing.  We've almost made more clear that the proposal needs to be in line with what's advertised to qualify.
+
+The clarifications around perpetual or not and with-updates or not remain.
 
 > ## Copyright License
 >
