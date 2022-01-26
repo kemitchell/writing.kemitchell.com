@@ -1,2 +1,2 @@
 #!/bin/sh
-exec bundler exec jekyll serve --incremental  --livereload --drafts
+exec bundler exec jekyll serve --incremental  --livereload --drafts --port=8080
