@@ -1,9 +1,13 @@
 > February 3, 1976
->
+
+Nearly 44 years ago.
+
 > AN OPEN LETTER TO HOBBYISTS
 >
 > By William Henry Gates III
->
+
+Published widely in magazines and computer club newsletters.
+
 > ¶ To me, the most critical thing in the hobby market right now is the lack of good software courses, books and software itself.  Without good software and an owner who understands programming, a hobby computer is wasted.  Will quality software be written for the hobby market?
 
 This framing feels very conscious, and in my view very correct.  There is an inherent tension in any engrossing craft---be it software development, legal drafting, motorcycle mechanics, or visual art---between the joy of the craft and service to the people.  The more concessions from the broader community the craft requires to sustain its practices, the more the interests of those outside the craft assert themselves over the interests of those within it.  Self-service is fine when it costs others nothing.
