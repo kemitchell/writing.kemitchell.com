@@ -1,4 +1,5 @@
 ---
+date: 2022-01-29T14:12:29-08:00
 title: Be the Water Boy (or Girl!) for Your Neighborhood
 description: East Oakland Collective's EBMUD hydrant meter is ready for action
 series: Water Boy
