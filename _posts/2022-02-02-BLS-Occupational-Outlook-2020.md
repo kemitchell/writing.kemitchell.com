@@ -1,4 +1,5 @@
 ---
+date: 2022-02-02T10:27:55-08:00
 title: Software Pay Data 2020
 description: data from the Bureau of Labor Statistics
 tags:
