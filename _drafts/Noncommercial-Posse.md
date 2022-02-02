@@ -32,17 +32,16 @@ We can think of it like a permissions field, or an access-control list.  For exa
 
 <table>
   <thead>
-    <tr><th rowspan=2>Context</th><th>Use </th></tr>
+    <tr><th rowspan=2>Context</th><th>Use </th>                                    </tr>
     <tr>                          <th>Tool</th><th>Service</th><th>Distributed</th></tr>
   </thead>
   <tbody>
-    <tr><td>Kids' Projects</td>   <td>Free</td><td>Free</td><td>Free</td></tr>
-    <tr><td>Noncommercial </td>   <td>Free</td><td>Free</td><td>Free</td></tr>
-    <tr><td>Indie         </td>   <td>Paid</td><td>Paid</td><td>Paid</td></tr>
-    <tr><td>Proprietary   </td>   <td>Pay Upfront</td><td>Pay Upfront</td><td>Pay Upfront</td></tr>
+    <tr><td>Kids' Projects   </td><td>Free</td><td>Free   </td><td>Free       </td></tr>
+    <tr><td>Noncommercial    </td><td>Free</td><td>Free   </td><td>Free       </td></tr>
+    <tr><td>Indie            </td><td>Paid</td><td>Paid   </td><td>Paid       </td></tr>
+    <tr><td>Proprietary      </td><td>Paid</td><td>Paid   </td><td>Paid       </td></tr>
   </tbody>
 </table>
-
 
 ## From the Top
 
@@ -53,4 +52,3 @@ Trouble is, as an industry, we're currently reproducing a mindset that pukes at 
 To overcome that mindset and its consequences, we need to run in a pack, not as lone wolves.
 
 Upshot:  There are situations where we want commercial use to start out free, but transition to paid when the project makes money. Not pay-up-front, but pay-when-paid.
-
