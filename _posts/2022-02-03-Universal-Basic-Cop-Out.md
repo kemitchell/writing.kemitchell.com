@@ -45,7 +45,7 @@ It's no excuse that good hacking alone "isn't a product".  Our industry is full 
 
 It's no excuse that companies "won't pay for software".  If that were the case, the software industry would be a bone pile.  It's leading the market.
 
-If you're doing good work without good pay, don't accept vague promises of newfangled fiscal justice to come.  You cannot live---or do your best work---on economic vaporware.  Few in this industry won't at least pretend familiarity with employment, contracting, consulting, training, support, auditing, licensing, speaking, sponsorships, and acquisitions.  The non-hypothetical, non-utopian approaches are obvious.
+If you're doing good work without good pay, don't accept vague promises of newfangled fiscal justice to come.  You cannot live---or do your best work---on economic vaporware.  Few in this industry won't at least feign familiarity with employment, contracting, consulting, training, support, auditing, licensing, speaking, sponsorships, and acquisitions.  The non-hypothetical, non-utopian approaches are obvious.
 
 It's nobody else's job to save you.  We've got the casualties to prove it.
 
