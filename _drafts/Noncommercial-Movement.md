@@ -6,9 +6,9 @@ tags:
 - Software Industry
 ---
 
-We want those making bank to pay the devs whose work they build on.  That's the transitive property we need for foundational work in our field.  At the same time, there's a bunch of potential users---tinkerers, students, charities---who can't or shouldn't pay, and shouldn't be shut out.  Paid or free, working in the open makes software better.
+We want those making bank to pay the devs whose work they build on.  That's the transitive property we need for foundational work in our field.  At the same time, there's a bunch of potential users---tinkerers, students, charities---who can't or shouldn't pay, and shouldn't be shut out.  Paid or free, open development makes better software.
 
-The direct path forward here is clear.  Stop pretending AGPL is noncommercial.  Stop passing fees off as ad spend, support payments, and donations.  Stop insisting that software must be black or white, completely open and unrestricted or completely closed and locked down.  Develop code in the open.  License it free for noncommercial use.  Sell permission for commercial use to businesses.  Pay your bills, hire good help, and spend more quality time on your software.  Make your project's self-sufficiency---if you must, its "sustainability"---a competitive selling point.
+The direct path forward here is clear.  Stop pretending AGPL is a noncommercial license.  Stop passing fees off as ad spend, support payments, and donations.  Stop insisting that software must be black or white, completely open and unrestricted or completely closed and locked down.  Develop code in the open.  License it free for noncommercial use.  Sell permission for commercial use to businesses.  Pay your bills, hire good help, and spend more quality time on your software.  Make your project's self-sufficiency---if you must, its "sustainability"---a competitive selling point.
 
 Charging business users acknowledges that broadly reusable software should not and cannot be left to idle-rich gentlemen-hackers, megafirms, heavily capitalized startups, graduate students, and martyrs.  But could charging business users for open code ever feel like a _movement_?  Could inducing a change in the industry, in the name of hard-nosed economic realism, be _fun_?
 
