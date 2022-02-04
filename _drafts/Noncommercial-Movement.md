@@ -26,4 +26,4 @@ How do we complete this broken cycle for noncommercial devs?  Does commercial li
 
 The answer _isn't_ that noncommercial devs should give other noncommercial devs a free pass for the sake of solidarity.  When a business makes money, the devs they rely on should make money, too.  That's the principle here, whether the money is made selling commercial-use licenses or some other way.  But nobody's getting paid if we gum up the works of software reuse with preemptive license negotiations.
 
-Again, the direct route is clear.  Stop using allergy to copyleft as a proxy for who should pay.  Stop requiring use of the same license.  If the point is that those making bank should pay the devs, define making bank and put it in license.  Since the terms in `LICENSE` for a commercial-licensing .
+Again, the direct route is clear.  Stop using fear of AGPL as a proxy for being a big company that should pay. If the point is that those making bank should pay their library, framework, and tool makers, define "making bank" and put it in the license terms.  Since the terms in the `LICENSE` file for a commercial-licensing project cover who can use for free, 
