@@ -1,4 +1,5 @@
 ---
+date: 2022-02-03T19:51:49-08:00
 title: Universal Basic Cop-Out
 description: We know how to pay devs for software. Some of us just prefer not to.
 tags:
