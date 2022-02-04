@@ -10,9 +10,9 @@ If universal basic income shows up on my ballot, I'll probably vote for it.  But
 
 Let's step out of the hall of mirrors for a second.
 
-Software development pays well.  The BLS median annual wage for a software developer in 2020 was $110,140.  The average for all jobs was $41,950.
+Software development pays well.  The United States Bureau of Labor Statistics median annual wage for a software developer in 2020 was $110,140.  The average for all jobs was $41,950.
 
-Demand for software development is growing.  The 2020 BLS job outlook was 22% growth in 10 years.  The average for all jobs was 8%.
+Demand for software development is growing.  The 2020 United States Bureau of Labor Statistics job outlook was 22% growth in 10 years.  The average for all jobs was 8%.
 
 Risky software ventures are well financed.  The National Venture Capital Association's 2021 yearbook puts software's "dominant" share of investment at $52 billion, or 31%.  Pharmaceuticals and biotechnology, in second place, got only 17%.
 
