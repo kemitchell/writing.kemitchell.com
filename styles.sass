@@ -57,12 +57,13 @@ header[role=banner]
   a
     color: #800000
 
-header[role=banner], main[role=main], footer[role=contentinfo]
-  max-width: 30rem
-  box-sizing: border-box
+@media screen
+  header[role=banner], main[role=main], footer[role=contentinfo]
+    max-width: 30rem
+    box-sizing: border-box
 
-main[role=main].doublewide
-  max-width: 40rem
+  main[role=main].doublewide
+    max-width: 40rem
 
 header[role=banner], main[role=main]
   margin: 20px auto
