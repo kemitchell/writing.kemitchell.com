@@ -20,7 +20,7 @@ Legal support for software business is strong.  We see strong deal flow in profe
 
 As a consequence, degree programs and coding bootcamps keep growing.  There's a stampede of people into the field.  The industry still can't get enough.
 
-The strongest justification for universal basic income is automation.  Machines are taking over jobs that people used to do.  Now it's machines running software taking jobs that people used to do.  Software is not the job getting automated.  Software is the job automating the other jobs.
+The strongest justification for universal basic income is automation.  Machines are taking over jobs that people used to do.  Today those machines get implemented in software.  Programming isn't the job getting automated.  Programming's the job automating so many other jobs.
 
 Maybe someday automation will also gobble up more programmers than it creates.  The AI faithful await the coming revolution.  Or maybe programming jobs will be so productive, requiring so much skill and training, that there will only be relatively few of them to serve all mankind.  Right now, that seems far off.  About as far off as universal basic income.
 
