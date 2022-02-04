@@ -23,7 +23,7 @@ As a consequence, degree programs and coding bootcamps keep growing.  There's a 
 
 The meme-iest motive for universal basic income is automation.  Machines are taking jobs people used to do.  Today a lot of those machines get implemented mostly in software.  Programming isn't the job getting automated.  Programming's the job automating the other jobs.
 
-Maybe someday software will eat its own tail and gobble up programmers father than it grows.  Or maybe programming jobs will become so productive, requiring so much skill and training, that a relative few will suffice for all mankind.  Right now, that seems far off.  About as far off as universal basic income.
+Maybe someday software will eat its own tail and gobble up programmers faster than it grows.  Or maybe programming jobs will become so productive, requiring so much skill and training, that a relative few will suffice for all mankind.  Right now, that seems far off.  About as far off as universal basic income.
 
 The key feature of universal basic income as an idea in "sustainability" talk today---the work that it does---is absolving people who do not need universal basic income.  Rather than facing fair pay as a practical and ethical problem the industry needs to solve for itself, a hypothetical universal basic income transforms our drama into one instance of generalized, society-wide problem that government must solve across the board.
 
