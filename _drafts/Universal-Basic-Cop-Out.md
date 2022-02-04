@@ -6,7 +6,7 @@ tags:
 - Funding
 ---
 
-If universal basic income shows up on my ballot, I'll probably vote for it.  But universal basic income has _no place_ in "sustainability" talk for software.  We know how to pay people in our industry.  Universal basic income is a cop-out.
+If universal basic income shows up on my ballot, I'll probably vote for it.  But universal basic income has _no place_ in "sustainability" talk for software.  We know how to get people paid in our industry.  Universal basic income is a cop-out.
 
 Let's step out of the hall of mirrors for a second.
 
