@@ -18,7 +18,7 @@ Risky software ventures are well financed.  The National Venture Capital Associa
 
 Legal support for software business is strong.  We see strong deal flow in professional services, work for hire, acquisitions, and licensing.  Consultants, resellers, and marketplaces abound.
 
-As a consequence, degree programs and coding bootcamps keep growing.  There's a stampede of people into the field.  The industry still can't seem to get enough.
+As a consequence, degree programs and coding bootcamps keep growing.  There's a stampede of people into the field.  The industry still can't get enough.
 
 The strongest justification for universal basic income is automation.  Machines are taking over jobs that people used to do.  Now it's machines running software taking jobs that people used to do.  Software is not the job getting automated.  Software is the job automating the other jobs.
 
