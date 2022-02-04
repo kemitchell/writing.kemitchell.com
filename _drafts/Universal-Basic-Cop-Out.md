@@ -6,7 +6,7 @@ tags:
 - Funding
 ---
 
-If universal basic income shows up on my ballot, I'll probably vote for it.  But universal basic income has _no place_ in talk of "sustainability" in software.  We know how to pay people in our industry.  Universal basic income is a cop-out.
+If universal basic income shows up on my ballot, I'll probably vote for it.  But universal basic income has _no place_ in "sustainability" talk for software.  We know how to pay people in our industry.  Universal basic income is a cop-out.
 
 Let's step out of the hall of mirrors for a second.
 
@@ -40,4 +40,6 @@ It's no excuse that software itself "isn't a product".  Our industry is full of 
 
 It's no excuse that companies "won't pay for software".  If that were the case, the software industry would be a bone pile, not leading the markets.
 
-If you're doing good work without good pay, don't accept vague promises of economic justice raining down like promised mana from heaven.  It's nobody's job to save you.  We've got the casualties to prove it.  Go get what you're worth.  Get it now.
+If you're doing good work without good pay, don't accept vague promises of newfangled fiscal justice just over the horizon.  You cannot live on economic vaporware.
+
+It's nobody's job to save you.  We've got the casualties to prove it.  Get what you're worth.  Get it now.
