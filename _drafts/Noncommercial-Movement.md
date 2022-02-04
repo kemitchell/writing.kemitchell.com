@@ -1,14 +1,14 @@
 ---
 title: Can Commercial Licensing Be A Movement?
-description: the importance of small-business licenses
+description: the social importance of small-business terms
 tags:
 - Funding
 - Software Industry
 ---
 
-We want those making bank to pay the devs whose work they build on.  That's the transitive property we need for foundational work in our industry.  At the same time, there's a bunch of potential users---tinkerers, students, charities---who can't or shouldn't pay, and shouldn't have to.  Paid or free, working in the open makes software better.
+We want those making bank to pay the devs whose work they build on.  That's the transitive property we need for foundational work in our field.  At the same time, there's a bunch of potential users---tinkerers, students, charities---who can't or shouldn't pay, and shouldn't be shut out.  Paid or free, working in the open makes software better.
 
-The direct path forward here is clear.  Stop pretending AGPL is noncommercial.  Stop passing fees off as ad spend, support payments, and donations.  Stop insisting that software is the only "content industry" where things have to be black or white, completely open-permissive or completely closed and locked down.  Develop code in the open.  License it free for noncommercial use.  Sell permission for commercial use to businesses.  Pay your bills, hire good help, and spend more quality time on your software.  Make your project's self-sufficiency---if you must, "sustainability"---a competitive selling point.
+The direct path forward here is clear.  Stop pretending AGPL is noncommercial.  Stop passing fees off as ad spend, support payments, and donations.  Stop insisting that software must be black or white, completely open and unrestricted or completely closed and locked down.  Develop code in the open.  License it free for noncommercial use.  Sell permission for commercial use to businesses.  Pay your bills, hire good help, and spend more quality time on your software.  Make your project's self-sufficiency---if you must, its "sustainability"---a competitive selling point.
 
 Charging business users acknowledges that broadly reusable software should not and cannot be left to idle-rich gentlemen-hackers, megafirms, heavily capitalized startups, graduate students, and martyrs.  But could charging business users for open code ever feel like a _movement_?  Could inducing a change in the industry, in the name of hard-nosed economic realism, be _fun_?
 
@@ -26,4 +26,10 @@ How do we complete this broken cycle for noncommercial devs?  Does commercial li
 
 The answer _isn't_ that noncommercial devs should give other noncommercial devs a free pass for the sake of solidarity.  When a business makes money, the devs they rely on should make money, too.  That's the principle here, whether the money is made selling commercial-use licenses or some other way.  But nobody's getting paid if we gum up the works of software reuse with preemptive license negotiations.
 
-Again, the direct route is clear.  Stop using fear of AGPL as a proxy for being a big company that should pay. If the point is that those making bank should pay their library, framework, and tool makers, define "making bank" and put it in the license terms.  Since the terms in the `LICENSE` file for a commercial-licensing project cover who can use for free, 
+Again, the direct route is clear.  Stop using fear of GPL as a proxy for being a big company that should pay. If the point is those making bank should pay their library, framework, and tool makers, define "making bank" and put it in the license terms.  For a commercial-licensing project, the terms in the `LICENSE` file say who can use for free, so we need to define the inverse---not making bank, otherwise known as being a small business---and include them with noncommercial users.
+
+That's the [Big Time license](https://bigtimelicense.com).
+
+Independent developer looking to bootstrap a software project finds a great library.  The project sells commercial licenses, but licenses small-business for free, along with noncommercial users, under the Big Time license.  Indie dev _can_ use the library without asking permission or buying a license.  They can adopt the same license terms---noncommercial free, small-business free, big-business paid---for their own project.  They can sell commercial-use licenses, and that is very much a commercial enterprise.  But they don't have to buy a license for the library until they're no longer small anymore.  Perhaps they reach $1m in revenue.  Perhaps they raise $1m in venture capital.  Big Time assures them they'll be able to get a license, and on fair, reasonable, and nondiscriminatory terms---no exploiting lock-in, based on them adopting when use was free.
+
+This transforms the social experience of commercial licensing.  Dealing with terms and handing over payment ceases to be a blocker.  It becomes part of the celebration.  There may be a negotiation, but the overall effect is more like a royalty than permission to try in the first place.  Pay when paid, not pay upfront.
