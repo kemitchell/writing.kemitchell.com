@@ -15,7 +15,7 @@ Software development pays well.  The United States Bureau of Labor Statistics me
 
 Demand for software development is growing.  The 2020 United States Bureau of Labor Statistics job outlook was 22% growth in 10 years.  The average for all jobs was 8%.
 
-Risky software ventures are well financed.  The National Venture Capital Association's 2021 yearbook puts software's "dominant" share of investment at $52 billion, or 31%.  Pharmaceuticals and biotechnology, in second place, got only 17%.
+Risky software ventures are well financed.  The National Venture Capital Association's 2021 yearbook puts software's "dominant" share of investment at 31%, or $52 billion.  Pharmaceuticals and biotechnology, in second place, got only 17%.
 
 Legal support for software business is strong.  We see brisk deal flow in professional services, work for hire, acquisitions, and licensing.  Consultants, resellers, and marketplaces abound.
 
