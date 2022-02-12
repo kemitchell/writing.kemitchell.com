@@ -73,7 +73,7 @@ There _are_ two situations where absolutely no one will use your code under some
 
 If you've been doing either of those things, and find yourself asking serious questions about your work, yeah, it's probably not worth doing anymore.  But open source is orthogonal---it can fail or pass these basic tests.  In the service of other devs or in the service of anyone else.
 
-When you catch a sideways glance in the mirror of your mind's eye, and ask yourself why you do this software thing, and whether it matters, _who_ tends to be a satisfying answer.  _Why_ only rarely, at first, until the high runs its course.
+When you catch a sideways glance in the mirror of your mind's eye, and ask yourself why you do this software thing, and whether it really matters, _who_ tends to make a satisfying answer.  _Why_ only rarely does, and only for a time.
 
 Serve.  Other people.  Earnestly.  Now.
 
