@@ -75,6 +75,6 @@ If you've been doing either of those things, and find yourself asking serious qu
 
 When you catch a sideways glance in the mirror of your mind's eye, and ask yourself why you do this software thing, and whether it really matters, _who_ tends to make a satisfying answer.  _Why_ only rarely does, and only for a time.
 
-Serve.  Other people.  Earnestly.  Now.
+Serve.  Other people.  Other devs if you like.  Now.
 
 Life's just better that way.
