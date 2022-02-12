@@ -32,7 +32,7 @@ There would be no meaningful "software industry" to speak of if money and code w
 
 Memorable stories, headlines, and Twitter chatter do not reflect this reality.  Representative samples or familiar reality don't drive clicks.
 
-How much has [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) made on the App Store?  How is [Panic](https://www.panic.com/) still in business? [JetBrains](https://jetbrains.com)?  Ever licensed a [game](https://unity.com/) [engine](https://www.unrealengine.com/)?
+How much has [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) made on the App Store?  How is [Panic](https://www.panic.com/) still in business? [JetBrains](https://jetbrains.com)?  [BBEdit](https://www.barebones.com/products/bbedit/)  [Sublime](https://www.sublimemerge.com/)?  [Ultra](https://www.ultraedit.com/)?  [Cursive](https://cursive-ide.com/)?  Ever licensed a [game](https://unity.com/) [engine](https://www.unrealengine.com/)?  How about a 3D library?
 
 Neither is web dev somehow immune, fickle and populist as it may be.
 
@@ -66,8 +66,12 @@ Writes Gavin:
 
 Hardly a fool's question.  Especially from an "open source person".  Maybe it is.  Maybe it isn't.  If serving users is really what it's all about, the developer should be _asking the people they want to serve_.  Not imagining what they might say, or even who they might be to begin with.
 
-It is far too easy to get this backwards, doing open source because that's what we want to do, what we're _reinforced_ in doing, all the while invoking generalized, thoroughly hypothetical "users" to lend importance and nobility to our onanism.  We have to ask frankly: Is open an implementation detail, or is it secretly the point?  If it's the point, why?  If the simple fact that we see bad headlines about open source these days, and not just good ones, pulls the rug on our joy, what were we standing on in the first place?  Personal crisis, or chance for personal growth?
+It is far too easy to get this backwards, doing open source because that's what we want to do, what we're _reinforced_ in doing, all the while invoking generalized, thoroughly hypothetical "users" to lend importance and nobility to our hobbies, compulsions, and fancies.  We have to ask frankly: Is open an implementation detail, or is it secretly the point?  If it's the point, why?  If the simple fact that we see bad headlines about open source these days, and not just good ones, pulls the rug on our joy, what were we standing on in the first place?  Could be a crisis.  Could be an opening for a real chance at personal growth.
 
-There _are_ two situations where absolutely no one will use your code under some set of terms, guaranteed.  If you don't put your work and your terms out there in the first place, no one _can_ use it.  Even if you do put it out there, if you do nothing earnest to connect to folks you think your work is supposed to serve, no one _will_ use it.  If you've been doing either of those things, and find yourself asking serious questions about your work, yeah, it's probably not worth doing anymore.
+There _are_ two situations where absolutely no one will use your code under some set of terms, guaranteed.  If you don't put your work and your terms out there in the first place, no one _can_ use it.  Even if you do put it out there, if you do nothing earnest to connect to folks you think your work is supposed to serve, no one _will_ use it.  If you've been doing either of those things, and find yourself asking serious questions about your work, yeah, it's probably not worth doing anymore.  Open source is orthogonal.
 
-Serve.  When you catch a sideways glance in the mirror of your mind's eye, and ask yourself why you do this software thing, and whether it matters, be ready with a _who_, not a _why_.  Life's just better that way.
+When you catch a sideways glance in the mirror of your mind's eye, and ask yourself why you do this software thing, and whether it matters, _who_ tends to be a satisfying answer.  _Why_ only rarely, at first, until the high runs its course.
+
+Serve.  Other people.  Earnestly.  Now.
+
+Life's just better that way.
