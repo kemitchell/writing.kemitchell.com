@@ -1,5 +1,5 @@
 ---
-title: People Use "Closed" Software
+title: Devs Use Closed Software
 description: that's why we have a software industry
 tags:
 - Software Industry
