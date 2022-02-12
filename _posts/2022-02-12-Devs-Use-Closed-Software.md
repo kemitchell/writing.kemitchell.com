@@ -29,7 +29,7 @@ Programmers use software in various shades of "closed" all the time.  It's not h
 
 Look in video games.  Computer-aided drafting.  3D printing.  Computer numerical control.  Throw a rock.
 
-There would be no meaningful "software industry" to speak of if money and code weren't changing hands, constantly, at commercial scale, for tools and components as well as finished products.  Nobody's that vertically integrated anymore.  There's too much to integrate, even for Google.  Not Invented Here isn't competitively viable anymore, even for the pinnacles of the industry.
+There would be no meaningful "software industry" to speak of if money and code weren't changing hands, constantly, at commercial scale, for tools and components as well as finished products.  Nobody's that vertically integrated anymore.  There's too much to integrate, even for Google.  Not Invented Here isn't competitively viable, even for the pinnacles of the industry.
 
 Memorable stories, headlines, and Twitter chatter do not reflect this reality.  Representative samples or familiar reality don't drive clicks.
 
