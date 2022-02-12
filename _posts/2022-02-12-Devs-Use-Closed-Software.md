@@ -1,4 +1,5 @@
 ---
+date: 2022-02-12T13:34:59-08:00
 title: Devs Use Closed Software
 description: too many devs pretend otherwise
 tags:
