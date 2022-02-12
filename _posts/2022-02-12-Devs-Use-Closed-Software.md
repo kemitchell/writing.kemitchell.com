@@ -49,7 +49,7 @@ So much so that [DHH](https://dhh.dk/arc/000433.html) and even [Paul Graham](htt
 
 I was agreeing with them, despite huge personal investments in Linux, BASH, Vim, Emacs, and more.
 
-That was the state of play.  And in large part thanks to it, Apple, Macromates, and Panic---not to mention [Basecamp](https://basecamp.com)---made good money for good work.  I was proud use and support good toolmakers.  That pride made a difference, pitching and working with designers and other professionals.
+That was the state of play.  And in large part thanks to it, Apple, Macromates, and Panic---not to mention [Basecamp](https://basecamp.com)---made good money for good work.  I was proud to pay good money to good toolmakers.  That pride made a difference, pitching and working with designers and other professionals.
 
 You'll see a lot of [Park blue](https://www.parktool.com/) in good bicycle shops.  You'll see a lot of [Snap-on red](https://www.snapon.com/) in high-end auto work.  I'm proud to turn [Kowa](https://www.kowa-seiki.co.jp/), [Vessel](https://www.vesseltoolsusa.com/), and [Motion Pro](https://www.motionpro.com/) tools on my Japanese motorcycles.  Long before stickers emblazoned devs' laptops, they were covering toolboxes, drag cars, work trucks, and race-day trailers.  It's a thing.
 
