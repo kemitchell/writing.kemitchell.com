@@ -1,6 +1,6 @@
 ---
 title: Devs Use Closed Software
-description: too many devs believe otherwise
+description: too many devs pretend otherwise
 tags:
 - Software Industry
 - Funding
