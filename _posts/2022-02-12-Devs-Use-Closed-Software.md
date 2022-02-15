@@ -31,7 +31,7 @@ Look in video games.  Computer-aided drafting.  3D printing.  Computer numerical
 
 There would be no meaningful "software industry" to speak of if money and code weren't changing hands, constantly, at commercial scale, for tools and components as well as finished products.  Nobody's that vertically integrated anymore.  There's too much to integrate, even for Google.  Not Invented Here isn't competitively viable, even for the pinnacles of the industry.
 
-Memorable stories, headlines, and Twitter chatter do not reflect this reality.  Representative samples of familiar reality don't drive clicks.
+Memorable stories, headlines, and Twitter chatter do not reflect this reality.  Representative samples of familiar fact don't drive clicks.
 
 How much has [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) made on the App Store?  How is [Panic](https://www.panic.com/) still in business? [JetBrains](https://jetbrains.com)?  [BBEdit](https://www.barebones.com/products/bbedit/)  [Sublime](https://www.sublimemerge.com/)?  [Ultra](https://www.ultraedit.com/)?  [Cursive](https://cursive-ide.com/)?  Ever licensed a [game](https://unity.com/) [engine](https://www.unrealengine.com/)?  How about a 3D library?
 
