@@ -47,7 +47,7 @@ So much so that [DHH](https://dhh.dk/arc/000433.html) and even [Paul Graham](htt
 
 > I would have a hard time imagining hiring a programmer who was still on Windows for 37signals.  If you don't care enough about your tools to get the best, your burden of proof just got a lot heavier.
 
-I was agreeing with them, despite huge personal investments in Linux, BASH, Vim, Emacs, and more.
+I was agreeing with them, despite huge personal investments in Linux, Bash, Vim, Emacs, and more.
 
 That was the state of play.  And in large part thanks to it, Apple, Macromates, and Panic---not to mention [Basecamp](https://basecamp.com)---made good money for good work.  I was proud to pay good money to good toolmakers.  That pride made a difference, pitching and working with designers and other professionals.
 
