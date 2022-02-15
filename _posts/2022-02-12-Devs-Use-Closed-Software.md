@@ -19,7 +19,7 @@ Gavin starts by parading a few recentish FOSS horribles---log4j, Twitch/OBS Stud
 
 Needless despair.  The trouble isn't the state of the software world.  The trouble is a series of unfounded, absolutist assertions about it:
 
-> ...Open Source has sort of eaten the software industry; other _programmers_ won't user your stuff unless it's Open Source.
+> ...Open Source has sort of eaten the software industry; other _programmers_ won't use your stuff unless it's Open Source.
 
 > Since my software will target programmers, I can't make it closed source, or it won't get used.  Simple as that.
 
