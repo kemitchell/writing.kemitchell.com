@@ -1,11 +1,11 @@
 {% include top.html %}
 <main role=main class="body post {% if page.doublewide %}doublewide{% endif %}">
   {% if page.date %}
-  <p class=dateline>
+  <time datetime="{{ page.date | date: "%Y-%m-%d" }}">
     <span class=month>{{ page.date | date: "%B" }}</span>
     <span class=day>{{ page.date | date: "%e" }}</span>,
     <span class=year>{{ page.date | date: "%Y" }}</span>
-  </p>
+  </time>
   {% endif %}
   <h1 id=title>{{ page.title | smartify}}<small>{{ page.description | smartify }}</small></h1>
   {% if page.brief %}
