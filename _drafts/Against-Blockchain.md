@@ -48,8 +48,12 @@ TODO
 
 ---
 
-Blockchain skepticism is having a bit of a rally moment, thanks to Dan Olson's ["The Line Goes Up"](https://www.youtube.com/watch?v=YQ_xWvX1n9g).  Yes, it's two hours.  Yes, it's very good.  Yes, there are occasional, offhand jabs that show a political bent, maybe four or five in the whole running time.  Yes, there are some errata on minutiae.
+Blockchain skeptics are in full rally, thanks to Dan Olson's ["The Line Goes Up"](https://www.youtube.com/watch?v=YQ_xWvX1n9g).  Yes, it's two hours.  Yes, it's very good.  Yes, there are occasional, offhand jabs tipping the author's political bent, particular on labor issues---maybe four or five in the whole running time.  Yes, there are some errata on details---Scuttlebutt isn't a blockchain---but only in illustrations, not on the argument path.
 
-But the thrust is correct, if only in reestablishing that the burden of proof of legitimate value is still on blockchain proponents.  Headlines, jargon, and lobbying aren't exchangeable for legitimacy.
+The argument is correct.  At least as far as that "blockchain" hasn't delivered, only evolved to persist and sustain.  Perhaps as far as that it empowers those Dan fears, and the ideas he disdains.
 
-To the extent my voice matters, to the folks who read this blog, .
+The rally is also correct.  Headlines, jargon, retweets, and lobbying spend do not exchange to legitimacy.  Being a thing everyone's heard of us is not the same as being a thing that matters.  Blockchain matters if and only if it delivers or serves outside the closed loop of blockchain itself---real use cases other than evading or outright breaking rules and controls that make good social sense.  Not reimplementing coal scrip.  Not reimplementing pyramid schemes.  Not reimplementing collectible crazes.  Not reimplementing whatever crafty and desperate promoters will say blockchain database entries point to next.
+
+Some of my readers are doubtless blockchain skeptics.  If you didn't know I'm with you, you know it now.
+
+Some of my readers are doubtless blockchain enthusiasts.  If you value my views, please consider.
