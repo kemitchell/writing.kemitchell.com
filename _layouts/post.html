@@ -1,5 +1,5 @@
 {% include top.html %}
-<main role=main class="body post {% if page.doublewide %}doublewide{% endif %}">
+<main role=main class="body post {% if page.doublewide %}doublewide{% endif %} {% if page.multilingual %}multilingual{% endif %}">
   {% if page.date %}
   <time datetime="{{ page.date | date: "%Y-%m-%d" }}">
     <span class=month>{{ page.date | date: "%B" }}</span>
