@@ -12,7 +12,7 @@ if ! [ -f "$draft" ]; then
   exit 1
 fi
 
-today="$(date --iso-8601)"
+today="$(date --iso-8601=minutes --utc)"
 post="_posts/$today-$basename.md"
 git mv "$draft" "$post"
 now="$(date --iso-8601=seconds)"
