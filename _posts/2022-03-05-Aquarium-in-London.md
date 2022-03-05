@@ -102,6 +102,6 @@ I've noted Grebenshchikov's interpretations in brackets.
 </tbody>
 </table>
 
-Grebenshchikov had earlier made public social media posts and a video address calling the war "insanity" and the people who started it "a shame upon Russia".  Even calling the war "a war" conflicts with official censorship, which continues to demand the term "special operation", no antiseptically shortened "spec-op".
+Grebenshchikov had earlier made public social media posts and a video address calling the war "insanity" and the people who started it "a shame upon Russia".  Even calling the war "a war" conflicts with official censorship, which continues to demand the term "special operation", now antiseptically shortened "spec-op".
 
 Yesterday, March 3, both houses of Russia's legislature passed a new law criminalizing "public actions intended to discredit the use of the armed forces of the Russian Federation to defend the interests of the Russian Federation and its citizens and supporting international peace and security".  The crime carries sliding-scale fines, risk of arrest, and up to three years in prison.
