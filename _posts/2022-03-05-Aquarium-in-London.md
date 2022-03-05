@@ -42,8 +42,8 @@ I've noted Grebenshchikov's interpretations in brackets.
 <td>Только так беспощадно [бесполезно], так зло и ненужно</td>
 </tr>
 <tr>
-<td>Lowered them down to eternal peace</td>
-<td>Опустили их [опускали их] в Вечный Покой</td>
+<td>Left them to eternal peace</td>
+<td>Опустили их [Отпускали их] в Вечный Покой</td>
 </tr>
 </tbody>
 <tbody>
