@@ -17,11 +17,13 @@ tags:
   </tr>
 </table>
 
-Then he sang a poem of [Alexander Vertinsky](https://en.wikipedia.org/wiki/Alexander_Vertinsky), the famous Kiev-born, Russian-then-Soviet cultural icon, ["That Which I Have to Say"](https://www.culture.ru/poems/3234/to-chto-ya-dolzhen-skazat).  It dates from 1917, more than a century past.
+Then he sang a poem of [Alexander Vertinsky](https://en.wikipedia.org/wiki/Alexander_Vertinsky), the famous Kiev-born, Russian-then-Soviet cultural icon, ["That Which I Have to Say"](https://www.culture.ru/poems/3234/to-chto-ya-dolzhen-skazat).  It dates from 1917, more than a century old.
 
 <iframe class="youtube" src="https://www.youtube.com/embed/kB60kN7vfBU"></iframe>
 
-This rather direct translation's mine.  I've noted Grebenshchikov's interpretations in brackets.
+This rather hasty, direct translation's my own.
+
+I've noted Grebenshchikov's interpretations in brackets.
 
 <table class="translation">
 <caption>That Which I Have To Say</caption>
