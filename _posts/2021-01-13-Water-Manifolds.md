@@ -6,6 +6,7 @@ series: Water Boy
 brief: San Francisco's water utility set up water access points connected to fire hydrants for people on the streets of its most infamous neighborhood.
 tags:
 - Homelessness
+- Charity
 ---
 
 I recently came across [this article](https://sfpucnewsroom.com/community/how-damon-spigelman-lives-out-the-sfpucs-mission-of-providing-safe-drinking-water/) from the San Francisco Public Utilities Commission. The post describes how Damon Spigelman, who works at SFPUC, started a program to attach multiple-spigot "manifolds" to fire hydrants throughout the [Tenderloin](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco), where the homeless can fill water bottles, clean their hands, and generally access safe drinking water.

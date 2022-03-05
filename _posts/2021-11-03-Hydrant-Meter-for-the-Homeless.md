@@ -6,6 +6,7 @@ series: Water Boy
 tags:
 - Oakland
 - Homelessness
+- Charity
 ---
 
 Earlier this afternoon, [East Oakland Collective](https://www.eastoaklandcollective.com/) Executive Director Candice Elder and I picked up the first [East Bay Municipal Utility District](https://www.ebmud.com) [hydrant meter](https://www.ebmud.com/customers/start-or-stop-service/hydrant-meters/) ever issued to pump drinking water for the homeless.  This marks the successful conclusion of a year-long project, begun with an [open letter](https://writing.kemitchell.com/2020/11/27/EBMUD-for-All.html) and capped off with a [successful fundraiser](https://writing.kemitchell.com/2021/08/15/Hydrant-Meter-Fundraiser.html).

@@ -6,6 +6,7 @@ date: 2021-08-15T22:35Z
 tags:
 - Oakland
 - Homelessness
+- Charity
 ---
 
 I'm about to mail a $1,000 check to [East Oakland Collective](https://www.eastoaklandcollective.com/) to help [fund a portable hydrant water meter](https://www.flipcause.com/secure/cause_pdetails/MTIxMzY0).  Volunteers, including yours truly, will use that meter to pump drinking water for folks living on the streets of the East Bay, right where they live.

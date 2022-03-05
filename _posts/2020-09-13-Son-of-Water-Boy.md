@@ -5,6 +5,7 @@ series: Water Boy
 tags:
 - Oakland
 - Homelessness
+- Charity
 ---
 
 I've been helping folks living in tents and cars here in Oakland with drinking water for a few weeks now.  I still haven't figured it all out.  Not even close.  But I have learned a few things.

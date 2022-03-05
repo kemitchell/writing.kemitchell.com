@@ -6,6 +6,7 @@ date: Fri 27 Nov 2020 10:58:20 AM PST
 tags:
 - Oakland
 - Homelessness
+- Charity
 ---
 
 Earlier this morning, a group of local organizations, volunteers, and homeless leaders submitted [a public letter](/files/EBMUD Letter.pdf) to EBMUD, our local water utility.  The letter proposes two significant steps---a rule change and an access program---to make safe drinking water available to our homeless neighbors.

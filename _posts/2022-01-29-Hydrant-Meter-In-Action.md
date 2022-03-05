@@ -6,6 +6,7 @@ series: Water Boy
 tags:
 - Oakland
 - Homelessness
+- Charity
 ---
 
 Natalie Orenstein, housing and homelessness beat writer for [The Oaklandside](https://oaklandside.org), published [a story on hydrant meter access program for providing safe drinking water to the homeless](https://oaklandside.org/2022/01/28/new-tool-lets-homeless-residents-access-clean-drinking-water-from-fire-hydrants/).  The story includes quotes from camp residents, an improvised tutorial, and shocking photos of me in a boilersuit.
