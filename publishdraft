@@ -12,11 +12,11 @@ if ! [ -f "$draft" ]; then
   exit 1
 fi
 
-today="$(date --iso-8601=minutes --utc)"
-post="_posts/$today-$basename.md"
+date="$(date --iso-8601)"
+post="_posts/$date-$basename.md"
 git mv "$draft" "$post"
-now="$(date --iso-8601=seconds)"
-sed --in-place "s/^title: \\(.\\+\\)$/date: $now\\ntitle: \\1/" "$post"
+time="$(date --iso-8601=seconds)"
+sed --in-place "s/^title: \\(.\\+\\)$/date: $time\\ntitle: \\1/" "$post"
 git add "$post"
 git commit --allow-empty-message --message ''
 git push
