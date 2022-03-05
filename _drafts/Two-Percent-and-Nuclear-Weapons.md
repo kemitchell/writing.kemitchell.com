@@ -1,5 +1,10 @@
 ---
+title: Two Percent and Nuclear Weapons
+description: listen in on Russians speaking freely
 multilingual: true
+tags:
+- Ukraine
+- Russia
 ---
 
 <https://youtu.be/70RmF0rPj9o?t=408>
