@@ -1,4 +1,5 @@
 ---
+date: 2022-03-07T12:11:00-08:00
 title: Switching Open Software Terms
 description: yes, you can switch from MIT to something else
 tags:
