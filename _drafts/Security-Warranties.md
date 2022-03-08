@@ -3,7 +3,9 @@ title: Warranties Solve Security at Scale
 description: the open source skeptics warned us
 ---
 
-How do you get a rare flock of nerds, with scarce, specialized talents, who require intense focus and attention, to bear down on all the right software, at all the right times, with the right material support, forever?  Then, once you've got that, how do you find and support some still smaller subgroup of them to invest in making scarce knowledge explicit, as analytics methods, techniques, tools, and training, to avoid needing ever more scarce specialized help?
+How do you get a rare flock of nerds, with scarce, specialized talents, who require intense focus and attention, to bear down on all the right software, at all the right times, with the right material support, forever?
+
+Then, once you've got that, how do you find and support still rarer birds among that flock in reducing their scarce knowledge to analytic methods, techniques, tools, and training, to avoid needing ever more scarce specialized help?
 
 Apparently not how we're doing it now.
 
