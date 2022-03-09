@@ -21,7 +21,7 @@ Vladimir Putin is in a completely different situation [than [Nicholas I](https:/
 </details>
 </blockquote>
 
-Facts Checked: The United Nations estimated Russia's GDP at roughly $1.48 trillion in 2020.  The Bureau of Economic analysis put Texas' at about $1,76 trillion.  Russia has roughly 145 million people.  Texas has about 29 million.
+The United Nations estimated Russia's GDP at roughly $1.48 trillion in 2020.  The Bureau of Economic analysis put Texas' at about $1,76 trillion.  Russia has roughly 145 million people.  Texas has about 29 million.
 
 [Akunin continues](https://www.youtube.com/watch?v=70RmF0rPj9o&t=438s):
 
