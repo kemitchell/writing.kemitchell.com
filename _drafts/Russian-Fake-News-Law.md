@@ -5,7 +5,7 @@ tags:
 - Russia
 ---
 
-Russia's [new "fake news" law](/files/russian-fake-news-law.pdf), passed on March 4 of this year, adds three new crimes to Russian's criminal code.  It's been covered in the English-language press, with many mentions of fifteen-year jail sentences.  Media outlets are shuttering or being shuttered by it.  Emigres are citing it as a key sign prompting them to flee the country.
+Russia's [new "fake news" law](/files/russian-fake-news-law.pdf), passed on March 4 of this year, adds three new crimes to Russian's criminal code.  It's been covered in the English-language press, with many mentions of fifteen-year jail sentences.  Media outlets are shuttering or being shuttered on account of it.  Emigres are citing it as a key sign they need to flee the country.
 
 Here's a quick translation, to make things concrete.  Please note that [I am _not_ a Russian-qualified lawyer](https://notmylaw.com).
 
