@@ -1,4 +1,5 @@
 ---
+date: 2022-03-14T10:59:05-07:00
 title: Getting the Most From Common Computer Filing Systems
 description: fundamental techniques for Dropbox, Google Drive, Box, and others
 tags:
