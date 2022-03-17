@@ -6,7 +6,7 @@ tags:
 - Open Source
 ---
 
-How do we get a rare flock of nerds, with scarce, specialized talents, who require intense focus and attention, to bear down on all the right software, at all the right times, with the right material support, forever?
+How do we get a rare flock of nerds, with scarce, specialized talents, who require intense focus, to bear down on all the right software, at all the right times, with the right material support, forever?
 
 Then, once we've got that down, how do we find and fund still rarer nerds among those few who are ready, willing, and able to reduce their scarce knowledge to more accessible methods, techniques, tools, and training, to spread it out among novices and other kinds of specialists?
 
