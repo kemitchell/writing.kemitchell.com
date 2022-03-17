@@ -1,4 +1,5 @@
 ---
+date: 2022-03-17T12:47:18-07:00
 title: The Open Source Initiative Did Not Win Neo4j v. PureThink
 description: everywhere it looks, OSI sees itself, and in triumph
 tags:
