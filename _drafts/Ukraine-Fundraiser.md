@@ -1,12 +1,12 @@
 ---
 title: FOSS Fundraiser for Ukraine?
-description: donors ask FOSS questions, panel of license lawyers answers
+description: donors ask questions, panel of licensing lawyers answers
 tags:
 - Open Source
 - Ukraine
 ---
 
-If you'd be interested in taking part in a fundraiser where a Zoom panel of open licensing lawyers answers questions from folks making donations for Ukraine, please [send me an e-mail at kyle@kemitchell.com](mailto:kyle@kemitchell.com?subject=Ukraine%20Benefit) to let me know.  If there's interest, we can make it happen.
+If you'd be interested in taking part in a fundraiser where a Zoom panel of open licensing lawyers answers questions in exchange for donations benefiting Ukraine, please [send me an e-mail at kyle@kemitchell.com](mailto:kyle@kemitchell.com?subject=Ukraine%20Benefit) to let me know.  If there's interest, we can make it happen.
 
 A few thoughts, nothing set in stone:
 
@@ -18,4 +18,4 @@ A few thoughts, nothing set in stone:
 
 - Legal clinic rules.  [Answers wouldn't be formal legal advice.](https://notlegaladvice.law)
 
-I already have a couple talents lined up for the panel.  Folks care.
+I already have a couple talents interested in sitting panel.  Folks care.
