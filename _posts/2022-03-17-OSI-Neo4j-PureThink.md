@@ -57,6 +57,8 @@ Why, why, why does all this need to be said?
 
 Despite [contrary](https://writing.kemitchell.com/2019/05/05/Rely-on-OSI.html) [evidence](https://writing.kemitchell.com/2019/04/23/OSD-wontfix.html), hackers still take OSI as it presents itself---as a technocratic, dispassionate source of authoritative legal guidance "for the community".  In their defense, that's how I took it, too, until I studied law and paid attention.  "Activists" drive OSI.  They hold the bullhorn.  Lawyers---my colleagues---don't post things like this.  They read court opinions very carefully.
 
-All of this takes me back to 2017. The [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) plague was rampant. [Coin Center](https://coincenter.org), the main booster mouthpiece, was hocking all manner of dubious posts on how securities regulations somehow did not apply to blockchain.  They did apply, and lawyers said so.  But people saw what they wanted to see, repeated what they wanted to hear, invoked the "magic words" they were told would protect them---"utility token!"---and got themselves and others into a lot of unnecessary trouble.  But the boosters mostly got what they were after.
+All of this takes me back to 2017. The [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) plague was rampant. [Coin Center](https://coincenter.org), the main booster mouthpiece, was hocking all manner of dubious posts on how securities regulations somehow did not apply to blockchain.  They did apply, and lawyers said so.  But people saw what they wanted to see, repeated what they wanted to hear, invoked the "magic words" they were told would protect them---"utility token!"---and got themselves and others into a lot of unnecessary trouble.
+
+But the boosters mostly got what they were after.  There was a cost, but they didn't pay it.
 
 Reader, beware.
