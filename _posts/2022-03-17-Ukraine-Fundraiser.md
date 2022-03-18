@@ -1,4 +1,5 @@
 ---
+date: 2022-03-17T17:27:26-07:00
 title: FOSS Fundraiser for Ukraine?
 description: donors ask questions, panel of licensing lawyers answers
 tags:
