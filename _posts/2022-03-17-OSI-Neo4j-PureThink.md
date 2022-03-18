@@ -59,6 +59,6 @@ Despite [contrary](https://writing.kemitchell.com/2019/05/05/Rely-on-OSI.html) [
 
 All of this takes me back to 2017. The [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) plague was rampant. [Coin Center](https://coincenter.org), the main booster mouthpiece, was hocking all manner of dubious posts on how securities regulations somehow did not apply to blockchain.  They did apply, and lawyers said so.  But people saw what they wanted to see, repeated what they wanted to hear, invoked the "magic words" they were told would protect them---"utility token!"---and got themselves and others into a lot of unnecessary trouble.
 
-The boosters mostly got what they were after.  There was a cost, but they didn't pay it.
+The boosters got what they wanted.  There was a cost, but they didn't pay it.
 
 Reader, beware.
