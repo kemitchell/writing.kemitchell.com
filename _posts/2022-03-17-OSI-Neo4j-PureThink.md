@@ -51,7 +51,7 @@ Is the real headline here "Federal Court Holds AGPL Plus Commons Clause is Open 
 
 Trial courts don't care, of themselves, what "open source" means.  They don't care about how you or I or OSI people feel about it.  They won't waste scarce time they do not have entertaining definitional politics.  They won't blow a well scoped lawsuit out into a sprawling debate about a marketing bauble.  It's not their job to settle our mailing list debates.
 
-Trial courts deal with just as much detail as they need to get lawsuits resolved.  Here, that meant grappling with the rather narrow question of whether AGPLv3 section 10, which allows removal of "additional restrictions", lets downstreamers remove Commons Clause.  The trial court found that it does not.  The appeals court didn't overturn that finding.  This _is_ a legal decision that could potential apply outside the specific context.  And a pretty interesting one at that.  On GPL interpretation.  Not on what counts as "open source".
+Trial courts deal with just as much detail as they need to get lawsuits resolved.  Here, that meant grappling with the rather narrow question of whether AGPLv3 section 7, which allows removal of "additional restrictions", lets downstreamers remove Commons Clause.  The trial court found that it does not.  The appeals court didn't overturn that finding.  This _is_ a legal decision that could potential apply outside the specific context.  And a pretty interesting one at that.  On GPL interpretation.  Not on what counts as "open source".
 
 Why, why, why does all this need to be said?
 
