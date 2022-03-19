@@ -23,7 +23,7 @@ But even if the appeals court _had_ made precedent, there's nothing in its decis
 
 The relevant bit from the appeals court is here:
 
-> <abbr title="PureThink et al's">Defendants'</abbr> representation that ONgDB is a "free and open-source" version of Neo4j(R) EE was literally false, because Section 7 of the <abbr title="the trial court's name for Neo4j's combination of AGPLv3 and Commons Clause">Sweden Software License</abbr> only permits a downstream licensee to remove "further restrictions" added by an upstream licensee to the original work.
+> <abbr title="PureThink et al's">Defendants'</abbr> representation that ONgDB is a "free and open-source" version of Neo4j(R) EE was literally false, because Section 7 of the <abbr title="Neo4j's combination of AGPLv3 and Commons Clause">Sweden Software License</abbr> only permits a downstream licensee to remove "further restrictions" added by an upstream licensee to the original work.
 
 If that seems like a strange way to decide if something's free and open source, that's because it is.  But it's the way that matters in this lawsuit, because it's the way the lawyers agreed to argue the point.  The trial court judge followed their lead:
 
