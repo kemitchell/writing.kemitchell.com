@@ -17,7 +17,7 @@ Here's the money quote from the Duma presentation:
 <blockquote markdown="1">
 Top priority --- stop the outflow of personnel.
 
-Главный приоритет --- остановить отток кадров.
+<p lang="ru" markdown="1">Главный приоритет --- остановить отток кадров.</p>
 </blockquote>
 
 What's our priority?  [Taking in fleeing Ukrainian talent is an obvious step.](https://www.nytimes.com/2022/03/21/business/refugees-ukraine-jobs.html)  But that displacement is a consequence of the war.  What about striking the root, on the Russian side?
@@ -30,13 +30,13 @@ They can't match Western comp.  They can't generate the opportunities.  They can
 
 Russian authorities are blocking mass-market social media left and right.  They are prosecuting everyday citizens for social media posts.  Dissenting or even merely casual voices are fleeing to Telegram, but it wasn't so long ago they were threatening to cut off Telegram, too.  The Russian Federation has had laws on the books for years mandating equipment and protocols for cutting Russia off from the global Net.  Think "[Great Firewall](https://en.wikipedia.org/wiki/Great_Firewall) of Russia".  They just haven't used them yet.
 
-Russian IT people know all this.  They have organizations like [Роскомсвобода](https://roskomsvoboda.org/about/en/), akin to EFF, who've gone on about it for years.  And these are the people who took the orders to install equipment they didn't want to install, provide security service access they didn't want to grant, share data they didn't want to share.
+Russian IT people know all this.  They have organizations like [Roskomsvoboda](https://roskomsvoboda.org/about/en/), akin to EFF, who've gone on about it for years.  And these are the people who took the orders to install equipment they didn't want to install, provide security service access they didn't want to grant, share data they didn't want to share.
 
 As for the politics, EWDN [quotes a popular Telegram channel](https://t.me/kremlinprachka/18002):
 
 > IT professionals' patriotism might be weakened by the fact that "these guys and girls do not watch TV and do not listen to the radio," suggests Kremlevskaya Prachka.  Controlled directly or indirectly by the authorities, these media channels are heavily supporting the Kremlin's propaganda effort in the current conflict.
 
-Russian IT people, as a rule, aren't sucking the tailpipe of the Russian propaganda machine.  They get their news from the Net---what's left of it---as IT people tend to do.  These folks are more likely to have watched [Масняня](https://www.youtube.com/watch?v=kzx_N8AJiKw)---think Russian South Park---compel Putin to seppuku than to have [Solovyov](https://en.wikipedia.org/wiki/Vladimir_Solovyov_(journalist)) bellowing on in the background.
+Russian IT people, as a rule, aren't sucking the tailpipe of the Russian propaganda machine.  They get their news from the Net---what's left of it---as IT people tend to do.  These folks are more likely to have watched [Masnyanya](https://www.youtube.com/watch?v=kzx_N8AJiKw)---think Russian South Park---compel Putin to seppuku than to have [Solovyov](https://en.wikipedia.org/wiki/Vladimir_Solovyov_(journalist)) bellowing on in the background.
 
 Any day now, they are waiting for news that YouTube, the last bastion, has finally been blocked, as well.  The years of jokes about RuTube, the [failed state-backed YouTube clone](https://www.agents.media/rutube-kremlin/), are gathering more characteristic Russian sting:
 
@@ -55,7 +55,7 @@ None of this is a secret, even among the self-defined "patriots".  Here's that T
 
 <blockquote markdown="1">
 The problem with loss of digital personnel, which Nezygar already wrote about earlier, against the background of sanctions and limitations, takes on a new scale.
-The conversation now is not only about Russian students and potential developers, <mark>who immediately after victory at international championships in programming sign contracts with western (earlier --- Korean) companies and fly overseas</mark>.
+The conversation now is not only about Russian students and potential developers, <mark>who immediately after victory at international championships in programming sign contracts with western (earlier — Korean) companies and fly overseas</mark>.
 The conversation is about a built-out system for pumping out prepared specialists in fields of information technology, who Russia started to lose with unbecoming speed.
 Our companies today aren't just not in a state to compete with foreign ones on salary.
 On the market there are very few large-scale projects that could keep talented young specialists away from fleeing the country.
@@ -66,7 +66,7 @@ In summary, <mark>a whole sector of the economy, the most prospective and promis
 And <mark>government resources, spent on the education of young people, go to the gain of our ideological rivals</mark>.
 The point of no return approaches, and if the dialogue with the industry isn't established in short order, than [Baikal processors](https://en.wikipedia.org/wiki/Baikal_CPU) [Wikipedia link added --- KEM] and [the YotaFon](https://ru.wikipedia.org/wiki/YotaPhone) will remain the most important achievement of the Russian technology industry of the 21st century.
 
-<details markdown="1">
+<details markdown="1" lang="ru">
 <summary>Russian Original</summary>
 Проблема с утечкой цифровых кадров, о которой уже ранее писал Незыгарь, на фоне санкций и ограничений приобретает новый масштаб.
 Речь идёт теперь не только о российских студентах и перспективных разработчиках, которые сразу после побед на международных чемпионате по программированию подписывают контракты с западными (реже - корейскими) компаниями и улетают за границу.

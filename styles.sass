@@ -70,10 +70,11 @@ header[role=banner]
   main[role=main].doublewide
     max-width: 40rem
 
-  main[role=main].multilingual
-    font-family: "Noto Serif"
-    font-size: 85%
-    line-height: $lineHeight + 0.1
+  main[role=main]
+    .multilingual, *[lang=ru]
+      font-family: "Noto Serif"
+      font-size: 85%
+      line-height: $lineHeight + 0.1
 
 header[role=banner], main[role=main]
   margin: 20px auto
