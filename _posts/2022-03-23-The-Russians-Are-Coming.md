@@ -36,7 +36,7 @@ As for the politics, EWDN [quotes a popular Telegram channel](https://t.me/kreml
 
 > IT professionals' patriotism might be weakened by the fact that "these guys and girls do not watch TV and do not listen to the radio," suggests Kremlevskaya Prachka.  Controlled directly or indirectly by the authorities, these media channels are heavily supporting the Kremlin's propaganda effort in the current conflict.
 
-Russian IT people, as a rule, aren't sucking the tailpipe of the Russian propaganda machine.  They get their news from the Net---what's left of it---as IT people tend to do.  These folks are more likely to have watched [Масняня](https://www.youtube.com/watch?v=kzx_N8AJiKw)---think Russian South Park---compel Putin to seppuku than to have [Solovyov](https://en.wikipedia.org/wiki/Vladimir_Solovyov_(journalist)) blathering on in the background.
+Russian IT people, as a rule, aren't sucking the tailpipe of the Russian propaganda machine.  They get their news from the Net---what's left of it---as IT people tend to do.  These folks are more likely to have watched [Масняня](https://www.youtube.com/watch?v=kzx_N8AJiKw)---think Russian South Park---compel Putin to seppuku than to have [Solovyov](https://en.wikipedia.org/wiki/Vladimir_Solovyov_(journalist)) bellowing on in the background.
 
 Any day now, they are waiting for news that YouTube, the last bastion, has finally been blocked, as well.  The years of jokes about RuTube, the [failed state-backed YouTube clone](https://www.agents.media/rutube-kremlin/), are gathering more characteristic Russian sting:
 
