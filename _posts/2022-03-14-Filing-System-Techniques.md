@@ -15,7 +15,7 @@ Let's take a look the most common tricks for file hosting services in particular
 
 Most digital filing systems allow sorting lists of files by name, creation date, modification date, and file type.  File types are fixed.  The computer sets and resets creation and modification dates.  But the remaining aspect, file names, remains entirely within our manual control.  Anticipating how the computer will sort by file name, we can use a file naming convention to make "sort by name" work as "sort by date".  The date can be whichever relevant date we choose.  We don't have to worry about the computer "updating" it on us.
 
-The format to learn and use is [international standard ISO-8601](https://en.wikipedia.org/wiki/ISO-8601), and specifically this pattern: `YYYY-MM-DD`.  For example, `2022-03-11` for March 14, 2022.
+The format to learn and use is [international standard ISO-8601](https://en.wikipedia.org/wiki/ISO-8601), and specifically this pattern: `YYYY-MM-DD`.  For example, `2022-03-14` for March 14, 2022.
 
 Note that the year comes first and that month and day numbers are _always_ two digits.  For January through September and days 1 through 9, add a `0` at the start.  For example, type `01` for January and `09` for the ninth.  Nerds call this "zero padding".
 
