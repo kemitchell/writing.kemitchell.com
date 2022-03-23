@@ -89,6 +89,6 @@ Russians took to the streets in millions at the twilight of the USSR.  And the a
 
 But meanwhile, all signs show that even wisps of rebellion---however minor---will still be brutally and publicly crushed by internal security services.  As they were in Belarus.  As they were in Kazakhstan.
 
-The state is intentionally telegraphing a massive and rising personal cost of popular uprising.  Even before the war, the decrepit state of the penal system, and it penchant for outright torture, were approved topics of concern in official media.  They just gave Alexei Navalny, the leading independent opposition voice of Russian politics, nine more years in a "strict regime" penal colony.
+The state is intentionally telegraphing a massive and rising personal cost of popular uprising.  Even before the war, the decrepit state of the penal system, and its penchant for outright torture, were approved topics of concern in official media.  They just gave Alexei Navalny, the leading independent opposition voice of Russian politics, nine more years in a "strict regime" penal colony.
 
 That makes the bravery of activists choosing to remain in Russia even more astounding.  But the talent taking flight can also play a massive role, short- and long-term, especially en masse.  If we're smart enough to take them.
