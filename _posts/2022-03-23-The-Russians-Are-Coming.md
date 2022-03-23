@@ -42,7 +42,7 @@ Any day now, they are waiting for news that YouTube, the last bastion, has final
 
 <figure>
 <a href="https://twitter.com/RealPezduza/status/1505948612718649346"><img src="/images/twitter-rutube-suffer.png" alt="screenshot of tweet"></a>
-<figcaption>“Let the Russians suffer”.  Hackers from Anonymous declined to hack RuTube</figcaption>
+<figcaption>“Let the Russians suffer”.  Hackers of Anonymous declined to hack RuTube</figcaption>
 </figure>
 
 Only today, [RuTube itself announced special accounts for government agencies](https://rb.ru/news/rutube-gosuslugi/), exempting them from "advance moderation", i.e. prior-restraint censorship, which will ostensibly apply to everyone else.  Meanwhile, Яндекс---think  Russian Google---has obligingly announced that it will spin out its upcoming video-hosting platform, Яндекс.Дзен, along with its news product, for acquisition, likely by state-backed Facebook clone ВКонтакте.  Having my ВКонтакте messages snooped by security services is what convinced me to quit ВКонтакте, and Facebook, years ago.
