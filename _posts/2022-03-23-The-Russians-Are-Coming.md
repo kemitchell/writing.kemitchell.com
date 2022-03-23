@@ -22,7 +22,7 @@ Top priority --- stop the outflow of personnel.
 
 What's our top priority?  [Taking in fleeing Ukrainian talent is an obvious number one.](https://www.nytimes.com/2022/03/21/business/refugees-ukraine-jobs.html)  But that displacement is a consequence of the war, not a cause of it.  What about striking the root, the aggressive Russian side?
 
-Russian guys are afraid of being drafted to die fighting their cousins in Ukraine.  So the government has passed a (limited) draft exemption for IT people.  Everyone's afraid of financial collapse under sanctions.  So they're passing tax holidays and other limp incentives.  Both companies and managers are fleeing the designated innovation centers and science clusters.  So they're queuing up new grants, as if that's gonna help.
+Russian guys are afraid of being drafted to die fighting their cousins in Ukraine.  So the government has passed a (limited) draft exemption for IT people.  Everyone's afraid of financial collapse under sanctions.  So they're passing tax holidays and other limp incentives, specifically for tech workers.  Both companies and managers are fleeing the designated innovation centers and science clusters.  So they're queuing up new grants, as if that's gonna help.
 
 I'm sure they'll think up some more.  It won't be enough.
 
