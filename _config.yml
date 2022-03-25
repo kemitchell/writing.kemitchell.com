@@ -1,7 +1,7 @@
 name: /dev/lawyer
 description: law, technology, and the space between
 url: https://writing.kemitchell.com
-permalink: :year/:month/:day/:title.html
+permalink: :year/:month/:day/:title
 author: Kyle E. Mitchell
 homepage: https://kemitchell.com
 highlighter: rouge
