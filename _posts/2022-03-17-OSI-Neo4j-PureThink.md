@@ -64,3 +64,8 @@ The boosters got what they wanted.
 There was a cost, but they didn't pay it.
 
 Reader, beware.
+
+---
+
+I license this article under a
+[Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
