@@ -69,3 +69,5 @@ Reader, beware.
 
 I license this article under a
 [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+
+This post has been translated into [Chinese](https://zhuangbiaowei.github.io/opensource/law/2022/03/25/the-osi-did-not-win-neo4j-v-purethink.html).
