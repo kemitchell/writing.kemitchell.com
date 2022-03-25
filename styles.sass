@@ -17,15 +17,15 @@ html, body
   html
     background-color: #f8f8f8
 
-header[role=banner], main[role=main], footer[role=contentinfo]
+body > header, body > main, body > footer
   margin: 0 auto
   padding: 0 1rem 0 1rem
 
-main[role=main]
+body > main
   img
     max-width: 100%
 
-header[role=banner]
+body > header
   margin-top: $interPostPadding
 
   img
@@ -63,27 +63,26 @@ header[role=banner]
   margin: 1rem 0
 
 @media screen
-  header[role=banner], main[role=main], footer[role=contentinfo]
+  body > header, body > main, body > footer
     max-width: 30rem
     box-sizing: border-box
 
-  main[role=main].doublewide
+  body > main.doublewide
     max-width: 40rem
 
-  main[role=main]
-    .multilingual, *[lang=ru]
-      font-family: "Noto Serif"
-      font-size: 85%
-      line-height: $lineHeight + 0.1
+  body > main.multilingual, *[lang=ru]
+    font-family: "Noto Serif"
+    font-size: 85%
+    line-height: $lineHeight + 0.1
 
-header[role=banner], main[role=main]
+body > header, body > main
   margin: 20px auto
   text-align: left
 
-main[role=main]
+body > main
   margin-bottom: 0
 
-footer[role=contentinfo]
+body > footer
   margin-top: 1rem
   border-top: 1px dashed #eee
   padding-top: 1rem
