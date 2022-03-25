@@ -5,6 +5,7 @@ date: 2020-05-12T06:48Z
 tags:
 - Open Source
 - Trademark
+- Open Source Initiative
 ---
 
 You quit a mailing list, people send you links to archives.  You quit Twitter, people send you links to tweets.  You stop reading GitHub, people send you links to issues.  I'm tired.  _I_ need something to link to.
