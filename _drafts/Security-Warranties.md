@@ -1,22 +1,20 @@
 ---
-title: Warranties Solve Security at Scale
+title: Warranties Solve Software Security
 description: the open source skeptics warned us
 tags:
 - Security
 - Open Source
 ---
 
-How do we get a rare flock of nerds, with scarce, specialized talents, who require intense focus, to bear down on all the right software, at all the right times, with the right material support, forever?
-
-Then, once we've got that down, how do we find and fund still rarer nerds among those few who are ready, willing, and able to reduce their scarce knowledge to more accessible methods, techniques, tools, and training, to spread it out among novices and other kinds of specialists?
+How do we get a rare flock of nerds, with scarce, specialized talent, bearing down on all the right problems, in all the right software, at all the right times, forever?
 
 Apparently not how we're doing it now.
 
-The solution to the software security crisis isn't [standardized packing slips](https://en.wikipedia.org/wiki/Software_bill_of_materials), [a centralized inspection agency](https://openssf.org/), or a [sign-off scheme](https://blog.tidelift.com/the-state-of-package-signing-across-package-managers).  It isn't more software.  Software security isn't actually a technical problem.  It's way more complex than that.  But it is also, to a first approximation, a solved problem.
+The solution to the software security crisis isn't [standardized packing slips](https://en.wikipedia.org/wiki/Software_bill_of_materials), [a centralized inspection agency](https://openssf.org/), or a [sign-off scheme](https://blog.tidelift.com/the-state-of-package-signing-across-package-managers).  It isn't more software.  Software security isn't actually a software problem.  It's way bigger than that.  But it is also, thankfully, a solved problem.  It's just that we unsolved it.  With open source.
 
-Allocating talent, resources, and responsibility for software security is a specific instance of the general product-service quality problem.  Users need and want software, but they can't tell on their own, in a hurry, whether it's secure or reliable, or whether it will stay that way.  The developers are in the best position to know about that.  But the customers, channeling _their_ customers in turn, know best how much security they need, or rather, how much they can afford to pay for.  To allocate resources---money and security talent---we need to integrate these signal paths.
+Allocating talent, resources, and responsibility for software security is a specific instance of the general product-service quality problem.  Users need and want software, but they can't tell on their own, in a hurry, whether it's secure or reliable, or whether it will stay that way.  The developers are in the best position to know.  But the customers, and their customers in turn, see best how much ought to be invested making sure.  To allocate resources---money and security talent---we need to convolute these signal paths.
 
-Fortunately, this general problem has a general solution: written guarantees, backed by money, enforceable at law, of quality, safety, reliability, and other product attributes.  In other words, warranties and indemnities.  If a particular customer requires assurances of security, or a company fears lawsuits by consumers for faults, it can initiate a chain of these commitments spanning dozens of firms.  One firm's customer is another firms' vendor.  At each link, warranties and indemnities bind together.
+Fortunately, this general problem has a general solution: written guarantees of quality, safety, reliability, and other product attributes, backed by money, enforceable at law.  In other words, warranties and indemnities.  If a particular customer requires assurances of security, or a company fears lawsuits by consumers for faults, it can initiate a chain of these commitments spanning dozens of firms.  One firm's customer is another firms' vendor.  At each link, warranties and indemnities bind together.
 
 The result of decentralized warranty-indemnity contacting is a self-assembling, self-balancing, many-nodes, many-edges network of insurance-like responsibility-reward relationships.  In other words, a market-based supply chain.  Markets have well known failure modes, usually related to many-versus-one dynamics in consumer enforcement and capture of regulators, including politicians, by better organized interests.  But far fewer than public-goods crisis chasing.  When the latest-greatest know-how we have is giving vuln disclosures marketing campaigns so they can reach the right people by reaching everyone, we know we have an information problem.
 
