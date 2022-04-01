@@ -41,7 +41,7 @@ The clearest path to success is a continuous track record of direct, high-value 
 
 Conversely, avoid giving your work or services away without an obvious intrinsic motive or a loss-leader play linked to other compensation.  Such signals read that your work is appraised at nothing---by you and any potential market.  If you find yourself in an arrangement where a fair trade is reality, but not the surface appearance, such as developing permissively licensed code on someone's payroll, make public recognition of that reality a non-negotiable part of your compensation.  Get clear, public recognition that you weren't just spending your own time, working "for exposure" that you do not need.  Get clear, public recognition that you are being paid, and not at some charity-case discount-rate.
 
-It's no excuse that projects remain speculative or unproven.  Mounds of capital pour out on high-risk slide decks each year.  Investors happily place bets, the overwhelming majority of which they know will fail completely.
+It's no excuse that projects remain speculative or unproven.  Oceans of capital pour out on high-risk slide decks each year.  Investors happily place bets, the overwhelming majority of which they know will fail completely.
 
 It's no excuse that good hacking alone "isn't a product".  Our industry is full of successful app and SaaS sole traders and tiny firms.  It has never been easier to buy good product help and tools.
 
