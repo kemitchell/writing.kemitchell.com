@@ -21,7 +21,9 @@ Legal support for software business is strong.  We see brisk deal flow in profes
 
 As a consequence, degree programs and coding bootcamps keep growing.  There's a stampede of people into the field.  The industry still isn't satisfied.
 
-The meme-iest motive for universal basic income is automation.  Machines are taking jobs people used to do.  Today a lot of those machines get implemented mostly in software.  Programming isn't the job getting automated.  Programming's the job automating the other jobs.
+The meme-iest motive for universal basic income is automation.  Machines are taking jobs people used to do.  Today a lot of those machines get implemented mostly in software.
+
+Programming isn't the job getting automated.  Programming's the job automating the other jobs.
 
 Maybe someday software will eat its own tail and gobble up programmers faster than it grows.  Or maybe programming jobs will become so productive, requiring so much skill and training, that a relative few full-timers will suffice for all mankind.  Right now, that seems far off.  About as far off as universal basic income.
 
