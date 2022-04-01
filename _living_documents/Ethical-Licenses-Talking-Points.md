@@ -22,7 +22,7 @@ We're aware that releasing code or any kind of work onto the open web means that
 
 So is writing software.
 
-It's all ASCII.  We're just as capable of collaborating on our ethics and their implementations as we can on our software.  Patches will be shared.  Bug reports will come in.  Forks will occur.  That's all good.
+It's all ASCII.  We're just as capable of collaborating on our ethics and their implementations as on our software.  Patches will be shared.  Bug reports will come in.  Forks will occur.  That's all good.
 
 <h2 id="adoption">Your license will harm adoption.</h2>
 
