@@ -43,7 +43,7 @@ Conversely, avoid giving your work or services away without an obvious intrinsic
 
 It's no excuse that projects remain speculative or unproven.  Oceans of capital pour out on high-risk slide decks each year.  Investors happily place bets, the overwhelming majority of which they know will fail completely.
 
-It's no excuse that good hacking alone "isn't a product".  Our industry is full of successful app and SaaS sole traders and tiny firms.  It has never been easier to buy good product help and tools.
+It's no excuse that good hacking alone "isn't a product".  Our industry is full of successful app and SaaS sole traders and tiny firms.  It has never been easier to buy good product help or product tools.
 
 It's no excuse that companies "won't pay for software".  If that were the case, the software industry would be a bone pile.  It's leading the market.
 
