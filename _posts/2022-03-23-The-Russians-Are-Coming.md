@@ -2,7 +2,6 @@
 date: 2022-03-23T11:43:43-07:00
 title: The Russians Are Coming
 description: hire the nerds for peace, profit, and progress!
-multilingual: true
 tags:
 - Russia
 - Ukraine
