@@ -1,4 +1,5 @@
 ---
+date: 2022-04-08T12:00:14-07:00
 title: HTML Scripting Tools
 description: a few free packages I've come to use
 doublewide: true
