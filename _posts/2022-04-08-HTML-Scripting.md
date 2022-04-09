@@ -99,7 +99,7 @@ When I'm done hacking up an HTML file, I can hit `<leader>f` and have the buffer
 
 ## Update: pup
 
-Thanks to [Anton Semjonov](https://semjonov.de/), today I learned that Debian repositories now distributes Eric Chiang's [`pup`](https://github.com/EricChiang/pup), so Debian-based distro users can install with `sudo apt install pup`.  I've also used `pup` for many scripts, and expect that many folks would find it easier to work with than the `hx-` tools.
+Thanks to [Anton Semjonov](https://semjonov.de/), today I learned that Debian repositories now distribute Eric Chiang's [`pup`](https://github.com/EricChiang/pup) in binary form, so Debian-based distro users can install with `sudo apt install pup`.  I've also used `pup` for many scripts, and expect that many folks would find it easier to work with than the `hx-` tools.
 
 ```bash
 $ pup -h
