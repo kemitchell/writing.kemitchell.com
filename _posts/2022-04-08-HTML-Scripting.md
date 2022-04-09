@@ -97,7 +97,6 @@ autocmd BufNewFile,BufRead *.html set filetype=html
 
 When I'm done hacking up an HTML file, I can hit `<leader>f` and have the buffer formatted for me.
 
-<aside markdown="1">
 ## Update: pup
 
 Thanks to [Anton Semjonov](https://semjonov.de/), today I learned that Debian repositories now distributes Eric Chiang's [`pup`](https://github.com/EricChiang/pup), so Debian-based distro users can install with `sudo apt install pup`.  I've also used `pup` for many scripts, and expect that many folks would find it easier to work with than the `hx-` tools.
@@ -110,4 +109,3 @@ Usage
 ```
 
 I hesitated to recommend `pup` in this post if installing `pup` meant installing a Go language build chain.  But that's not longer necessary, at least on Debian-based systems.
-</aside>
