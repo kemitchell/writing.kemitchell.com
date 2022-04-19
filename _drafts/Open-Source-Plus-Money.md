@@ -1,6 +1,9 @@
 ---
 title: Open Source Plus Money
-description: why are programmers the last to
+description: will programmers be the last to solve the whole problem?
+tags:
+- Open Source
+- Software Industry
 ---
 
 I've been rereading notes on open source from the '90s and early 2000s.  I'm struck by just how twisted a path they plotted around money and business.  "Open Source" courted industry, but also performatively bad-mouthed it.  "Free Software" was emphatically _not against business_, but obviously was, and pretty gratingly so.  Money in online software dev would ruin it for everyone, but every new full-time gig was a personal dream come true, a collective triumph.  The latest initial public offering pops were top news, but open source transcended industrial capitalism, maybe even the market as a whole.
