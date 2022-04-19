@@ -23,3 +23,5 @@ The force that cannot be stopped is the force of literally millions of untapped 
 Unlocking mass human software potential requires restoring the old maxim of honest work for honest pay.  We must recouple money earned and value received.  No group of people is better positioned to achieve this than programmers.  We are the people who automate counting and copying and paying for things at scale.
 
 Internet technology made communication between anyone and nearly anyone else shocking possible.  Society---nearly all societies---are still dealing with that traumatic turn of events.  [Russian state TV has a show where they debunk social media posts.](https://www.1tv.ru/shows/antifeyk/o-proekte)  [Your mom sees debunkable social media posts outsourced to Ghana and Nigeria.](https://techcrunch.com/2020/03/12/twitter-facebook-disinformation-africa-ghana-nigeria-ira-russia/)
+
+<!-- Broad acceptance of permissive licensing made scale differences irrelevant.  Big companies could give and take from sole hackers.  The same hasn't happened for paid transactions. -->
