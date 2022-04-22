@@ -1,4 +1,5 @@
 ---
+date: 2022-04-22T12:32:39-07:00
 title: EULAs Aren't Inherently Evil
 description: proprietary done right can beat free and open for users
 tags:
