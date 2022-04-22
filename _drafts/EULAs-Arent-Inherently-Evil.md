@@ -1,5 +1,5 @@
 ---
-title: There's No Inherent Evil in End User License Agreements
+title: EULAs Aren't Inherently Evil
 description: proprietary licensing done right can beat out free and open
 tags:
 - Software Licensing
