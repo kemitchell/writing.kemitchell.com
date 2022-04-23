@@ -31,7 +31,9 @@ Warranties and indemnities depend on institutions, namely public courts.  But th
 
 Markets have known failure modes, albeit far fewer than public-goods crisis chasing.  Many known failure modes also have known mitigations.
 
-For example, scurrilous vendors can take money, make promises, and undercapitalize their businesses or simply pocket their premiums, without investing in security.  Comes a problem, customers find themselves with strong legal claims against vendors with nothing to sue for.  Thus evolved insurance companies.
+<-- The customer encoded both the value they put on the software's functionality and the value the put on the software's security into price, and the vendor fails to decode proportionally. -->
+
+For example, a scurrilous vendor can take money, make promises, pull all the cash out of their business, and fail to invest in security.  Comes a problem, customers find themselves with strong legal claims against vendors with nothing to sue for.  Thus evolved insurance companies.
 
 If customers suspect a vendor will charge more for security but fail to invest in prevention or pay out for loss, they can insist the vendor carry insurance to cover their obligations.  An insurance company will look at the commitments the vendor makes, as well as their security practices.  Those commitments and practices will inform the premium the insurance company charges.  If a customer has a problem and the vendor has to pay, the insurance company will cover it.  But they will likely also charge the vendor more, or refuse to keep insuring them.
 
