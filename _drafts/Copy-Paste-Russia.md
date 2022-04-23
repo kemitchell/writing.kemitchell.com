@@ -6,7 +6,7 @@ tags:
 - Law Practice
 ---
 
-I've been really enjoying my grad-school colleague Rebecca Johnson's [Post-Soviet States Interviews for the Strauss Center](https://www.strausscenter.org/interviews/).  One interviewee in particular, attorney [Robert Langer](https://www.strausscenter.org/interviews/robert-langer/), really confirms what too many of us already know about lawyers: the copy-and-paste machine simply plods ahead until it hits something it cannot rumble over.
+I've been really enjoying my grad-school colleague Rebecca Johnson's [Post-Soviet States Interviews for the Strauss Center](https://www.strausscenter.org/interviews/).  One interviewee in particular, attorney [Robert Langer](https://www.strausscenter.org/interviews/robert-langer/), really confirms what too many of us already know about lawyers: the copy-and-paste law machine simply plods ahead until it hits something it cannot rumble over.
 
 On a deal in the 1990s, the early days of the Russian Federation, shortly after the fall of the Soviet Union:
 
@@ -20,6 +20,6 @@ And on another deal:
 
 I'm sure most American deals lawyers have seen all these tendencies in play on plenty of domestic transactions.  The stories are good for chuckles over drinks.
 
-In the context of the Russia of the nineties---a country that only just got corporate law---the bonkers factor triples.  Russia had only just got a corporate law.  Property, plant, and equipment in private hands was a new and exciting phenomenon.  Pulling out old US forms was like picking a house off its foundation and dropping it in Russia on bare, ungraded earth.
+In the context of the Russia of the nineties---a country that only just got corporate law---the bonkers factor triples.  Russia had only just got a corporate law.  Property, plant, and equipment in private hands was a new and exciting phenomenon.  Filling out the blanks in an old US deal form was like plucking a McMansion off its foundation and dropping it on bare, ungraded Russian earth.
 
 And yet, deals got done.
