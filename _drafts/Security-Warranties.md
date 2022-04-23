@@ -1,32 +1,41 @@
 ---
 title: Warranties Solve Software Security
 description: the open source skeptics warned us
+series: Killjoy
 tags:
 - Security
 - Open Source
 ---
 
-How do we cultivate software security talent?  Once we've got it, how do we get that talent applied to the right problems, in the right projects, at the right times, with the right support, forever?
+How do we cultivate software security talent?  Once we have it, how do we get it applied to the right problems, in the right projects, at the right times, with the right material support, forever?
 
-Apparently not how open source is doing it now.
+Apparently not how open source does it now.
 
-The solution to the open source security crisis isn't [standardized packing slips](https://en.wikipedia.org/wiki/Software_bill_of_materials), [a centralized inspection agency](https://openssf.org/), or a [sign-off scheme](https://blog.tidelift.com/the-state-of-package-signing-across-package-managers).  It's not more software or another foundation.  Software security isn't actually a software problem.  It's much bigger than that.  But it is also, thankfully, a solved problem.
-
-It's just that we unsolved it.
+The solution to the open source security crisis isn't [standardized packing slips](https://en.wikipedia.org/wiki/Software_bill_of_materials), [a centralized inspection agency](https://openssf.org/), or a [sign-off scheme](https://blog.tidelift.com/the-state-of-package-signing-across-package-managers).  It's not more software or another foundation.  Software security isn't actually a software problem.  It's much bigger than that.  But it is also, thankfully, a solved problem.  Open source _unsolved_ it.
 
 ## Known Class
 
-The software-security conundrum is a specific instance in the general class of product-service quality problems.  Much as drivers need reliable cars and depositors need dependable banks, users need and want secure enough software.  But they can't tell on their own, in a hurry, if particular software meets their requirement and will keep meeting it over time.
+The software-security conundrum is a specific instance in the general class of product-service quality problems.  Much as drivers need reliable cars and depositors need dependable banks, users need and want secure software.  But they can't tell on their own, in a hurry, if particular software's secure and will stay that way.
 
-Software developers are best positioned to know whether their work is secure, and to make sure it stays that way.  Especially with the help of security specialists.  But knowing, making sure, and security specialists cost.  Meanwhile, the users, perhaps through customers of their own, get paid the money.  They are also best positioned to know how much of that is worth investing in security.  To allocate resources---developer attention, security talent, and money for all the above---we need these signal paths connected, both ways.  We need a plug-and-play bus for security signals and security resources.
+Software developers are best positioned to know, and to keep their software secure.  Especially with the help of security specialists.  But software _users_ are best positioned to know the value of software and how much is worth investing in security.  To allocate resources---the costs of developer attention and even scarcer security talent---we need these signal paths connected, to they can be balanced.  We need a bus to carry the signals.
 
-Fortunately, the general problem has a general solution: written guarantees, backed by money, enforceable at law.  In legal terms, "warranties" and "indemnities", promises to cover customers financially if and when bad things happen.  In security terms, written promises from software makers that their software and services will remain secure, placed in license agreements and terms of service.
+Fortunately, the general product-service quality problem has a general solution: written guarantees, backed by money, enforced by courts.  In legal terms, "warranties" and "indemnities"---promises to cover customers financially when bad things happen.  For software security, this means promises from software vendors to cover customers financially when vulns and breaches cause them losses, written out and agreed in license agreements and terms of service.  In effect, software vendors writing software security insurance policies for their customers.
 
-The effect of warranties and indemnities is to encode security signals within price.  If users need more security, they pay their vendors more for it, and those vendors can therefore afford more.  If the vendors fail to spend accordingly, or spend unwisely, they end up owing their customers for the consequences.  Resources flow back from vendors to customers, from developer to users.
+Warranties and indemnities encode security signals in price.  If users need more security coverage---higher dollar limit, coverage in more situations---they pay their vendors more for it.  The vendors can therefore afford to invest more in security.  If the vendors fail to spend accordingly, or spend unwisely, they end up owing their customers for the consequences.  Resources flow back from vendors to customers, from developer to users.
 
-Warranties and indemnities aren't a system or an institution.  They don't go through one centralized clearinghouse.  Rather, they're a means for linking various players---developers, vendors, customers, vendors---in relationships, perhaps strictly confidential relationships, that convey security-relevant resources and security-relevant information.  The result in the large is a constellation of self-assembling, self-balancing, many-nodes, many-edges networks of insurance-like responsibility-reward exchanges.  In other words, a market-based supply chain.
+Links of that chain can be entirely confidential, covered by nondisclosure agreements, but still convey security-relevant signals and resources transitively.  A framework vendor can cover a website provider who in turn covers its own user-customers.  The end user-customers don't need to see the vendor-provider contract.
 
-Markets have known failure modes, but far fewer than public-goods crisis chasing.  Scurrilous vendors can take money, make promises, and undercapitalize their businesses or simply pocket their premiums, without investing in security.  Comes a problem, customers find themselves with strong legal claims against a vendor with nothing to sue for.  Thus evolved insurance companies, their pricing questionnaires and best practices requirements, along with customer demands that vendors carry insurance.  Organizing a lot of small user-customers to bring many little claims against one big vendor.  Thus evolved class action, consumer protection, and industry-specific regulations.  These are nice problems to have, compared to "How do we figure out which project to focus on?" and "How do we get companies, identifies unknown, who are currently paying nothing, to pay for the security they need?"
+## Market System
+
+Warranties and indemnities depend on institutions, namely public courts.  But they aren't any kind of centralized institution.  They're a means for linking nodes---developers, vendors, customers---in web-like networks.  The result in the large is a constellation of self-assembling, self-balancing, many-nodes, many-edges networks of insurance-like responsibility-resource exchanges.  In other words, a market-based supply chain.
+
+Markets have known failure modes, albeit far fewer than public-goods crisis chasing.  Many known failure modes also have known mitigations.
+
+For example, scurrilous vendors can take money, make promises, and undercapitalize their businesses or simply pocket their premiums, without investing in security.  Comes a problem, customers find themselves with strong legal claims against vendors with nothing to sue for.  Thus evolved insurance companies.
+
+If customers suspect a vendor will charge more for security but fail to invest in prevention or pay out for loss, they can insist the vendor carry insurance to cover their obligations.  An insurance company will look at the commitments the vendor makes, as well as their security practices.  Those commitments and practices will inform the premium the insurance company charges.  If a customer has a problem and the vendor has to pay, the insurance company will cover it.  But they will likely also charge the vendor more, or refuse to keep insuring them.
+
+Organizing a lot of small user-customers to bring many little claims against one big vendor.  Thus evolved class action, consumer protection, and industry-specific regulations.  These are nice problems to have, compared to "How do we figure out which project to focus on?" and "How do we get companies, identifies unknown, who are currently paying nothing, to pay for the security they need?"
 
 ## Open Source
 
