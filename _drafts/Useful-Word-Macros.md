@@ -1,5 +1,6 @@
 ---
 title: Useful Word Macros for Lawyers
+description: taming comments, styles, fields, and numbering
 ---
 
 The only commendable features:
@@ -10,11 +11,7 @@ The only commendable features:
 - Paragraph First Line Indentation, in increments of 0.5"
 - Page Breaks
 
-```vbscript
-Sub AllNumbersToText()
-    ActiveDocument.ConvertNumbersToText
-End Sub
-```
+## Mark All Comments Under Your Name
 
 ```vbscript
 Sub AdoptAllComments()
@@ -25,6 +22,8 @@ Sub AdoptAllComments()
     Next comment
 End Sub
 ```
+
+## Convert Styles to Regular Formatting
 
 ```vbscript
 Sub StylesToFormatting()
@@ -44,3 +43,14 @@ Sub StylesToFormatting()
     Next
 End Sub
 ```
+## Convert Automatic Numbers to Regular Text
+
+```vbscript
+Sub AllNumbersToText()
+    ActiveDocument.ConvertNumbersToText
+End Sub
+```
+
+## Convert Fields to Regular Text
+
+Word actually has a built-in shortcut to do this. Select all text with Ctrl+A, then hit Ctrl+Shift+F9.
