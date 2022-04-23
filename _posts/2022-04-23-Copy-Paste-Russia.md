@@ -1,4 +1,5 @@
 ---
+date: 2022-04-23T14:53:08-07:00
 title: Copy-and-Paste Goes to Russia
 description: lawyering by rote in the crazy 1990s
 tags:
