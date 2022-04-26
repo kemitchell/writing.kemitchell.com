@@ -3,10 +3,6 @@ title:  Blogroll
 description: other blogs of likely interest
 ---
 
-## Mine
-
-[License Zero Blog](https://blog.licensezero.com)
-
 ## Open Lawyers
 
 [Kate Downing](https://katedowninglaw.com/blog/)
@@ -34,3 +30,7 @@ description: other blogs of likely interest
 [Mikeal Rogers](https://medium.com/@mikeal)
 
 [Dirk Riehle](https://dirkriehle.com)
+
+## Also Mine
+
+[License Zero Blog](https://blog.licensezero.com)
