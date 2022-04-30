@@ -1,4 +1,5 @@
 ---
+date: 2022-04-30T16:30:47-07:00
 title: Zelensky Compound NDA
 description: the mystery of the ritual runs deeper than law
 tags:
