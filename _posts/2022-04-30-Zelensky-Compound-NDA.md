@@ -26,4 +26,4 @@ And of course nondisclosure agreements also invoke accountability.  When we fail
 
 We used to swear before the Gods.  May they strike me down!  Now we promise before the courts.  But we've always mostly feared consequences from our fellow man.
 
-I don't know who would enforce the NDAs for Zelensky's bunker, should loose or treasonous lips give him away.  Any perpetrator may well pass with their comrades, under the same fateful bomb, eating the same fateful salo.  Presumably, no one without trust even gets so far as the NDA.  But I understand its purpose.  It's beyond my jurisdiction.
+I don't know who would enforce the NDAs for Zelensky's bunker, should loose or treasonous lips give him away.  Any perpetrator may well pass with their comrades, under the same fateful bomb, eating the same fateful salo.  Presumably, no one without credibility even gets as far as the NDA.  But I understand its purpose.  It's beyond my jurisdiction.
