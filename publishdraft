@@ -19,4 +19,5 @@ time="$(date --iso-8601=seconds)"
 sed --in-place "s/^title: \\(.\\+\\)$/date: $time\\ntitle: \\1/" "$post"
 git add "$post"
 git commit --allow-empty-message --message ''
+sleep 2s
 git push
