@@ -1,6 +1,6 @@
 ---
 title: Open Source Plus Money
-description: will programmers be the last to solve the whole problem?
+description: or, how to have nice things on the Internet without financializing the shit out of everything
 tags:
 - Open Source
 - Software Industry
