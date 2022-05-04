@@ -1,5 +1,5 @@
 ---
-title: Open Source Plus Money
+title: Open Plus Money
 description: or, how to have nice things on the Internet without financializing the shit out of everything
 tags:
 - Open Source
