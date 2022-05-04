@@ -6,6 +6,8 @@ tags:
 - Software Industry
 ---
 
+<!-- TODO: title without open source -->
+
 Revisiting open source writing from the '90s and early 2000s, I'm struck by just how awkwardly boosters danced around money and business.  "Open Source" courted industry, but also performatively bad-mouthed it.  "Free Software" was emphatically _not against business_, but obviously was, and often gratingly so.  Money in online software dev would ruin it for everyone, but every new full-time gig was a shared dream come true.  The latest <abbr title="initial public offering">IPO</abbr> pop always made top news, but open source transcended capitalism, condemned markets to obsolescence.
 
 ["Wikinomics"](https://en.wikipedia.org/wiki/Wikinomics) for the C-suite.  ["Commons-based peer production"](https://en.wikipedia.org/wiki/The_Wealth_of_Networks) for the faculty lounge.  ["Bazaar"](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) for dimly lit dorms where modems kept warm.  An economy without prices, production without profit, a flea market of bytes where money never changed hands.  Exceptionalism for one and all.  Because the Internet.
@@ -29,6 +31,8 @@ As one of those grown-up kids whose middle-class parents brought a PC and dial-u
 As one of those grown-up kids, it's been hard to understand that for the vast majority of people now online, "money will ruin the community" isn't a feel-good callback to halcyon days of yore, but social [Catch-22](https://en.wikipedia.org/wiki/Catch-22).  Most people can't break into coding $0 software sans material support.  That door isn't open to them by default, but closed.  To let them in, we have to let money in with them.  We let them in with money.  But letting money in---or is it letting them in?---will, we say, ruin it.  So we say as credentialed members of the "community".
 
 It's a mass online equivalent of the swank business club downtown.  The value of the club is exclusivity.  No exclusivity, not the same club.  And the idea that the current, exclusive kind of club is the best kind to have---that software and other work online is best produced by "peers" who can afford to work for nothing or command substantial patronage---implies that defending the unsullied preserve of the few promises more than the untapped potential of the masses.  There are way fewer open-source gigs at large companies and the foundations they fund than potential open-source programmers.
+
+The lack of a mass money model for software today is where the lack of mass participation in monopoly-driven software of the 1990s did: standing in the way of the greatest untapped source of programmer potential.
 
 This view is just one symptom of living the future in the early 2000s and falling into the past circa 2020.  There are others.  It's now easier for most people online to publish photos or even videos than code, for example.  Same for long blog posts.  Anyone who's tried to author a patch on a smartphone knows this.  Most people don't surf with physical keyboards.  Kids approach 100 wpm with three fingers on phones, with and without autocorrect.
 
