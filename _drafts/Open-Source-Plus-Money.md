@@ -39,3 +39,7 @@ This view is just one symptom of living the future in the early 2000s and fallin
 Internet technology made communication between anyone and nearly anyone else shocking possible.  Society---nearly all societies---are still dealing with that traumatic turn of events.  [Russian state TV has a show where they debunk social media posts.](https://www.1tv.ru/shows/antifeyk/o-proekte)  [Your mom sees debunkable social media posts outsourced to Ghana and Nigeria.](https://techcrunch.com/2020/03/12/twitter-facebook-disinformation-africa-ghana-nigeria-ira-russia/)
 
 <!-- Broad acceptance of permissive licensing made scale differences irrelevant.  Big companies could give and take from sole hackers.  The same hasn't happened for paid transactions. -->
+
+<!-- TODO: return to old "honest pay for honest work" versus financialization, which introduces money with or (usually) without anything useful being done -->
+
+<!-- TODO: so slipper slope to the extreme, be it proprietary licensing of financialization -->
