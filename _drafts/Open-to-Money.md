@@ -6,8 +6,6 @@ tags:
 - Software Industry
 ---
 
-<!-- TODO: title without open source -->
-
 Revisiting open source writing from the '90s and early 2000s, I'm struck by just how awkwardly boosters danced around money and business.  "Open Source" courted industry, but also performatively bad-mouthed it.  "Free Software" was emphatically _not against business_, but obviously was, and often gratingly so.  Money in online software dev would ruin it for everyone, but every new full-time gig was a shared dream come true.  The latest <abbr title="initial public offering">IPO</abbr> pop always made top news, but open source transcended capitalism, condemned markets to obsolescence.
 
 ["Wikinomics"](https://en.wikipedia.org/wiki/Wikinomics) for the C-suite.  ["Commons-based peer production"](https://en.wikipedia.org/wiki/The_Wealth_of_Networks) for the faculty lounge.  ["Bazaar"](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) for dimly lit dorms where modems kept warm.  An economy without prices, production without profit, a flea market of bytes where money never changed hands.  Exceptionalism for one and all.  Because the Internet.
