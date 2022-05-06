@@ -35,47 +35,47 @@ There are a few things in Russian I'll probably never be able to keep up with.  
     </tr>
     <tr>
       <td>Голову в коробке пластмассовой вместе с телефоном, ключами и паспортом</td>
-      <td></td>
+      <td>Head into a plastic box together with phone, keys, and passport</td>
     </tr>
     <tr>
       <td>Рентгеном в сканере просветят ласково в целях безопасности государственной</td>
-      <td></td>
+      <td>X-ray in the scanner they'll expose carefully for purposes of national security</td>
     </tr>
     <tr>
       <td>И обратно вряд ли пришьют уже:</td>
-      <td></td>
+      <td>And back they'll hardly send it already:</td>
     </tr>
     <tr>
       <td>Руки ищут затылки над обрубками шей;</td>
-      <td></td>
+      <td>Hands seek the backs of heads on the stumps of necks</td>
     </tr>
     <tr>
       <td>Туловища жмутся грудными клетками к стенам —</td>
-      <td></td>
+      <td>Bodies huddle together with rib cages to the walls</td>
     </tr>
     <tr>
       <td>Не видно из контейнера, что там с телом.</td>
-      <td></td>
+      <td>Can’t see out of the container, what's going on there with the body</td>
     </tr>
     <tr>
       <td>Лента с монотонным гулом коробку тащит —</td>
-      <td></td>
+      <td>The ribbon with monotonous hum pulls</td>
     </tr>
     <tr>
       <td>И для тулова тоже подыщут ящик:</td>
-      <td></td>
+      <td>And for the body they will also find a box</td>
     </tr>
     <tr>
       <td>Станет стан обезглавленный, в нём лежащий,</td>
-      <td></td>
+      <td>The body will stand headless, laying in it,</td>
     </tr>
     <tr>
       <td>Почти покойником. Почти настоящим:</td>
-      <td></td>
+      <td>Almost dead.  Almost real:</td>
     </tr>
     <tr>
       <td>Кто-то, может быть, даже помянет на 40 дней…</td>
-      <td></td>
+      <td>Someone, maybe, will even mourn for 40 days…</td>
     </tr>
   </tbody>
   <tbody>
@@ -84,12 +84,12 @@ There are a few things in Russian I'll probably never be able to keep up with.  
       <td>[Chorus: Citizens Defense]</td>
     </tr>
     <tr>
-      <td>Всё как у людей...</td>
-      <td></td>
+      <td>Всё как у людей…</td>
+      <td>All as among men…</td>
     </tr>
     <tr>
-      <td>Всё как у людей...</td>
-      <td></td>
+      <td>Всё как у людей…</td>
+      <td>All as among men…</td>
     </tr>
   </tbody>
   <tbody>
@@ -99,19 +99,19 @@ There are a few things in Russian I'll probably never be able to keep up with.  
     </tr>
     <tr>
       <td>А девочка из конной полиции</td>
-      <td></td>
+      <td>A girl from the mounted police</td>
     </tr>
     <tr>
       <td>С белым айфоном на белом жеребце</td>
-      <td></td>
+      <td>With a white iPhone on a white stallion</td>
     </tr>
     <tr>
       <td>Ждёт в инстаграме лайка от принца</td>
-      <td></td>
+      <td>Awaits on Instagram a like from a prince</td>
     </tr>
     <tr>
       <td>И ждёт от Чёрной Пятницы низких цен.</td>
-      <td></td>
+      <td>And awaits from Black Friday lower prices.</td>
     </tr>
     <tr>
       <td>Мерно цокают копытца по улице;</td>
