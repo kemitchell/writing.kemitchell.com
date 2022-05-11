@@ -51,6 +51,17 @@ Sub AllNumbersToText()
 End Sub
 ```
 
+## Remove All Content Control Boxes
+
+
+```vbscript
+Sub RemoveAllContentControls
+	For Each ContentControl In ActiveDocument.ContentControls
+  	ContentControl.Delete
+  Next
+End Sub
+```
+
 ## Convert Fields to Regular Text
 
 Word actually has a built-in shortcut to do this. Select all text with Ctrl+A, then hit Ctrl+Shift+F9.
