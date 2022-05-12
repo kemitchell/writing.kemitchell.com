@@ -1,4 +1,5 @@
 ---
+date: 2022-05-11T22:31:54-07:00
 title: From Copy to Reference
 description: a plan to evolve legal drafting
 tags:
