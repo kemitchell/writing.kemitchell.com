@@ -14,7 +14,39 @@ Fortunately, there's an obvious theory of change: Shift from copying to referenc
 
 In simple social terms, unfamiliarity carries a cost.  Even among those used to incorporating terms, [seeing a permalink in a proposal is still weird](https://squareoneforms.com/employee/2e2u#confidentiality-and-intellectual-property).  Referencing [a pricey dead-tree tome](https://2go.iccwbo.org/incoterms-2020-eng-config+book_version-Book/), on the other hand, passes normally.  A huge advantage of incorporating standard language by reference is reviewing once and recognizing many times later, in new contexts.  But until taking parts by reference becomes widespread, most peers reading our work won't get that benefit.  They'll see what we reference for the first time, every time, and feel the way we all feel when one short document ends up weaving a big spider web out to a dozen others.
 
-<h2 id="step-1">Level 1: Copy in Text, Reference in Comment</h2>
+<figure>
+<table>
+  <caption>Four Steps toward Incorporation by Reference</caption>
+  <thead>
+    <tr><td></td><th>Document Text</th><th>Comment to Document</th></tr>
+  </thead>
+  <tbody>
+    <tr><th>Status Quo</th><td>Copy and Paste</td><td>None</td></tr>
+    <tr>
+      <th><a href="#level-1">Level 1</a></th>
+      <td>Copy and Paste</td>
+      <td>Reference</td>
+    </tr>
+    <tr>
+      <th><a href="#level-2">Level 2</a></th>
+      <td>Reference, then<br>Copy and Paste</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th><a href="#level-3">Level 3</a></th>
+      <td>Reference</td>
+      <td>Copy and Paste</td>
+    </tr>
+    <tr>
+      <th><a href="#goal">Goal</a></th>
+      <td>Reference</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+</figure>
+
+<h2 id="level-1">Level 1: Copy in Text, Reference in Comment</h2>
 
 Several arbitration services publish recommended language for contracts.  Even those of us who've put that language into our own drafts have to review it from nil again when we see it in someone else's.   We can do unto our readers better by adding comments to the language we copy like so:
 
@@ -24,7 +56,7 @@ Even the most distrustful counterparty, knowing the AAA language, can save time 
 
 Side Note: [redline.commonform.org](https://redline.commonform.org/) is a free, handy site for comparing two bits of copy-and-pasted text.  It's much quicker than pasting into new Word files and comparing.
 
-<h2 id="step-2">Level 2: Copy in Text, Reference in Text</h2>
+<h2 id="level-2">Level 2: Copy in Text, Reference in Text</h2>
 
 In the end, a comment to a draft is just another way to communicate with the other side.  If we want the other side not only to read but to rely on our message, why not put it in the doc we're proposing to sign?
 
@@ -66,7 +98,7 @@ To further predictability, each of these documents is also numbered.  Once a ver
 
 We know what we're referencing, and we know we'll be able to find it down the line.
 
-<h2 id="level-4">Level 4: Just Reference in Text</h2>
+<h2 id="goal">Goal: Just Reference in Text</h2>
 
 When we left off, we were incorporating arbitration language by reference in a document's text, but also copying that referenced language, for reviewers' convenience, into an accompanying comment.  Then we ran into problems, due to the way AAA versions and published its tool.
 
