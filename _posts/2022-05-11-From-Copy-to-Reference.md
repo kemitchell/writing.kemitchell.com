@@ -88,7 +88,7 @@ The problem with doing this---and the reason we don't see arbitration clauses ha
 
 What if five years from now we want to bring a claim, need to see the terms agreed, and clausebuilder.org no longer responds?  What if clausebuilder.org works, but it spits out different language than it did when the lawyers reviewed?
 
-Here lies the last rational bastion of the copy-and-paste machine.  The reason to confidently reference pricey print Incoterms and scorn free publications online.  Copying creates a full record we can lay to rest in our client's contract filing system.  Published books get send to librarians, especially at [depositary libraries](https://en.wikipedia.org/wiki/Legal_deposit).  One way or the other, we know we can dig the language up later.
+Here lies the last rational bastion of the copy-and-paste machine.  The reason to confidently reference pricey print Incoterms and scorn free publications online.  Copying creates a full record we can lay to rest in our client's contract filing system.  Published books get sent to librarians, especially at [depositary libraries](https://en.wikipedia.org/wiki/Legal_deposit).  One way or the other, we know we can dig the language up later.
 
 The problem is time and its ravages.  The solution is archives and archivists.
 
