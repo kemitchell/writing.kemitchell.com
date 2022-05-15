@@ -110,7 +110,7 @@ We'd know the text the reference refers to.  We'd know that it would remain avai
 
 There's no need to understand all of these details and their consequences, or to force everyone else to understand them, all at once.  That's impossible.  People don't work like that.
 
-There is a need to seriously evolve legal drafting, efficiency-wise, substance-wise, and lawyer-sanity-wise.  More shared language, developed collaboratively and incorporated prodigiously, will help.  And to hasten that process, we can:
+There is a need to seriously evolve legal drafting, efficiency-wise, substance-wise, and lawyer-sanity-wise.  More shared language, developed collaboratively and incorporated prodigiously, will help.  To hasten that process, we can:
 
 1.  Earnestly engage with colleagues to share, publish, and evolve shared standard language and forms.  If you need help, drop me a line.
 
