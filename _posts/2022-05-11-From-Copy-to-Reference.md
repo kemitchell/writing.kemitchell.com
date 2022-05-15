@@ -114,7 +114,7 @@ There is a need to seriously evolve legal drafting, efficiency-wise, substance-w
 
 1.  Earnestly engage with colleagues to share, publish, and evolve shared standard language and forms.  If you need help, drop me a line.
 
-2.  As terms and forms become available, use them.
+2.  Use those terms and forms as they become available.
 
 3.  Do so at the highest level that works in context, pushing toward reference-only.
 
