@@ -66,7 +66,7 @@ In the end, a comment to a draft is just another way to communicate with the oth
 >
 > > Any controversy or claim arising out of or relating to this contract, or the breach thereof, shall be settled by arbitration administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules and judgment on the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof.
 
-This has the advantage of _documenting_ the reliance that enables us to skip reading every word if we're already familiar with ClauseBuilder.  We have a clear incorporation by reference, reflecting mutual intent.  We have a clear rule of construction to deal with any malign or accidental tampering.  We have the rules on frauds and misrepresentations.
+This has the advantage of _documenting_ the reliance that enables us to skip reading every word if we're already familiar with ClauseBuilder.  We have a clear incorporation by reference, reflecting mutual intent.  We have a clear rule of construction to deal with malign or accidental tampering.  We have the rules on frauds and misrepresentations.
 
 <h2 id="level-3">Level 3: Reference in Text, Copy in Comment</h2>
 
@@ -86,7 +86,7 @@ The truly paranoid counterparty will ignore this comment as not to be trusted.  
 
 The problem with doing this---and the reason we don't see arbitration clauses handled this way in practice, and shouldn't---isn't with our method.  It's a problem with AAA.  More specifically, with clausebuilder.org.
 
-What if five years from now we want to bring a claim, need to see the terms agreed, and clausebuilder.org no longer responds?  What if clausebuilder.org works, but it spits out different language than it did the lawyers reviewed?
+What if five years from now we want to bring a claim, need to see the terms agreed, and clausebuilder.org no longer responds?  What if clausebuilder.org works, but it spits out different language than it did when the lawyers reviewed?
 
 Here lies the last rational bastion of the copy-and-paste machine.  The reason to confidently reference pricey print Incoterms and scorn free publications online.  Copying creates a full record we can lay rest in our client's contract filing system.  Published books get send to librarians, especially at [depositary libraries](https://en.wikipedia.org/wiki/Legal_deposit).  One way or the other, we know we can dig the language up later.
 
