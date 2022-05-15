@@ -102,7 +102,7 @@ We know what we're referencing, and we know we'll be able to find it down the li
 
 When we left off, we were incorporating arbitration language by reference in a document's text, but also copying that referenced language, for reviewers' convenience, into an accompanying comment.  Then we ran into problems, due to the way AAA versions and published its tool.
 
-If the AAA published its language With the benefits of versioning and archiving, we could dispense with the comment.  It would become pure convenience, exclusively for those willing to trust.  Just the reference would do the job.
+If the AAA published its language with the benefits of versioning and archiving, we could dispense with the comment.  It would become pure convenience, exclusively for those willing to trust.  Just the reference would do the job.
 
 We'd know the text the reference refers to.  We'd know that it would remain available, either directly at that address or from an archive.  We'd know we could continue referencing a particular version in terms and interpreting references to that version in terms from others.  It would become an adaptable piece of standard, like "Incoterms 2020 Ex Works", without the ceremony and expense of paper publishing.
 
