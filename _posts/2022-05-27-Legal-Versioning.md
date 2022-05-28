@@ -7,7 +7,7 @@ tags:
 - Standards
 ---
 
-I've just published [legalversioning.com](https://legalversioning.com), an single-webpage guide to a revised numbering scheme for legal forms and other functional documents.  I'll be moving my own forms and [Common Form](https://commonform.github.io) tools over to this new scheme shortly.
+I've just published [legalversioning.com](https://legalversioning.com), a single-webpage guide to a revised numbering scheme for legal forms and other functional documents.  I'll be moving my own forms and [Common Form](https://commonform.github.io) tools over to this new scheme shortly.
 
 Legal Versioning builds directly off my prior work on [Reviewers Edition](https://reviewersedition.org), with a few key changes:
 
