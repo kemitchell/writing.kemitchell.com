@@ -1,4 +1,5 @@
 ---
+date: 2022-05-27T20:41:40-07:00
 title: Legal Versioning
 description: refined scheme for functional prose projects
 tags:
