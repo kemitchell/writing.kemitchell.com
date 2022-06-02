@@ -4,35 +4,35 @@ title: Against Blockchain
 
 It's late 2017.  Bitcoin just broke a thousand dollars.  Ethereum is two years old.  The SEC's first investigation of a blockchain scheme, The DAO, buzzes on [the blogs](https://writing.kemitchell.com/2017/07/25/DAO-Report-of-Investigation.html).  The "initial coin offering" wave is rising.
 
-I advise a stable of promising blockchain companies.  Mine are the adults in the room: older, wiser veterans with life and business experience, doggedly focused on hard technical, social, and institutional problems.  Some of them are world-class engineers.  Some of them are world-class lawyers.  Some of them have deep money-center experience.  Some of them all of the above.
+I advise a stable of promising blockchain companies.  Mine are the adults in the room: older, wiser veterans with life and business experience, doggedly focused on hard technical, social, and institutional problems.  Some of them are world-class engineers.  Some of them are world-class lawyers.  Some of them have deep money-center experience.  Some of them have all of the above.
 
-They are all trying to make blockchains do real work.  To legitimize them, legally and practically.  They aren't basking in reflected glory from their own pitch decks.  They aren't pretending rules somehow don't apply to what they plan to do, or that those rules have no purpose.  They lived through the 2008 financial crisis as self-responsible adults.
+They are all trying to make blockchains do real work.  To legitimize them, legally and practically.  They aren't basking in reflected glory from their own pitch decks.  They aren't pretending laws somehow don't apply to what they plan to do, or that those laws have no purpose.  They lived through the 2008 financial crisis as self-conscious and responsible adults.  They've got work done in the financial system, and are quick to criticize it.
 
 I fire them all.
 
-One by one, in careful e-mails, I end our attorney-client relationships, unilaterally.  Refer them to other lawyers, more eager to establish in the field.  Try to preserve what I can of good personal and professional relationships.  Attempt to reinforce that it's really not about them.  I respect them.  It's about "the space".
+One by one, in careful e-mails, I end our attorney-client relationships, unilaterally.  Refer them to other lawyers, more eager to establish names in the field.  Try to preserve what I can of good personal and professional relationships.  Attempt to reinforce that it's really not about _them_.  I respect them.  It's about "the space".
 
-I don't pick and choose.  Everyone blockchain gets an e-mail.  I tell them this also.  They get it.  I'm out.  I don't want this on me.  I don't want to be associated with it.
+I don't pick and choose.  Everyone blockchain gets an e-mail.  I tell them this also.  And they get it.  I'm out.
 
-My immediate prospects for income dip.  I am deeply relieved.
+My immediate income prospects dip.  But I am deeply relieved.
 
-Since 2017, I've occasionally been coaxed into helping someone blockchain-adjacent.  As a rule, these have been small, engineer-driven shops with strong crypto chops---actual cryptography---doing contract work and paid research for other firms.  Not startups hocking coins, tokens, or whatever the next marketable buzzword for resalable database entries will be.  But sometimes closer than I'd like.  They drink from little trickles off the great burbling river of blockchain cash.
+Since 2017, I've been coaxed into helping good people "blockchain-adjacent" here and there.  As a rule, these have been small, engineer-driven concerns with strong crypto chops---actual cryptography---doing contract work and paid research for other firms.  Not startups hocking coins, tokens, or whatever the next marketable buzzword for resalable database entries will be.  But sometimes closer than I'd like.
 
-I take comfort in the diversion of some drops to productive use.  I feel a deep sadness seeing that is what's left to them.
+I take some pleasure diverting a few trickles from the raging river of dumb cash to intelligence use.  But I feel a deep sadness seeing that is what's left to them.  Especially after the hype machine has wrung the nerd-cred it needs from the tech that they love, and moves on.  It always moves on.
 
 ---
 
-Five years ago, blockchain _disappointed_ me.  Less charitably: I got duped, felt a fool, and walked away.  I never owned a blockchain "coin" or "token", for the same reason I've never owned a share or option of startup stock.  Clients need disinterested advice.  But there was a time, and not an insignificant one, when I believed.  I invested my time and no little scarce energy.  I read, wrote, and coded, talked and listened.
+Five years ago, blockchain _disappointed_ me.  Less charitably: I got duped, felt a fool, and walked away.  I never owned a blockchain "coin" or a blockchain "token", for the same reason I've never owned a share or option of startup stock.  Clients need disinterested advice, and buying in is having an interest.  But there was a time, and not an insignificant one, when I believed.  I invested my time and no little scarce energy.  I read, wrote, and coded, talked and listened.
 
-A part of me still wants to believe, at least in the tech as a nascent line of research.  But my faith in the capacity of the people, the ideas, and the institutions inhabiting the space to actually carry that research into the meaningful service of people is gone.  The very human context with which the tech has emerged is off those rails.
+A part of me still wants to believe, at least in the tech as a nascent line of research.  But my faith in the capacity of the people, the ideas, and the institutions inhabiting the space to actually carry that research into meaningful public service has gone.  The very human context with which the tech has emerged is off those rails.
 
-To make things more concrete, my reasons for bailing were three.
+To make things more concrete, my reasons for bailing were basically three.
 
-First, the work was starting to suck.  Greenfield compliance planning, regulation watching, entity structuring, and collaboration brokering challenged and excited me.  It is fun to be at the front of a new field with a lot of open questions.  But later, even if _my_ clients were grown-ups with their pants on, deals increasingly entailed negotiating with muppets---a bevy of techie nouveau papier-riche flush with more dumb cash than sense or discipline.
+For one, the work started to suck.  Greenfield compliance planning, emergent regulation watching, novel entity structuring, and collaboration brokering challenged and excited me.  It is fun to be at the front of a new field with a lot of open questions.  But later, even if _my_ clients were grown-ups with their pants on, deals increasingly entailed negotiating with muppets---a bevy of techie nouveau papier-riche flush with more cash than discipline.
 
-Basic deals broke down under rampant "financial engineering" by free-associating amateurs, bereft of even elementary business vocabulary.  Term sheets in facial violation of countless intuitive laws, often fomented by dubious readings of settled rules promoted as memes by interested parties, beset my inbox.  Even when the "winners" had lawyers, those often proved recent transplants from utterly disparate specialties, trying desperately to cross-train into dealmaking---and not get dumped as "hidebound" obstructionists---while their clients ran amok, bandying dollar sums at orders of magnitude well ripe for litigation.
+Basic deals broke down under rampant "financial engineering" by free-associating amateurs, bereft of even elementary business vocabulary.  Term sheets in facial violation of countless intuitive laws, often fomented by dubious readings of settled rules promoted as memes by interested parties, beset my inbox.  Even when the "winners" had lawyers, those often proved recent transplants from utterly disparate specialties, trying desperately to cross-train into deals work and not get dumped as obstructionists.  Meanwhile, their clients ran amok, bandying dollar sums at orders of magnitude well within litigation range.
 
-The money was there.  Sophistication was not.  I wasn't playing in my league, much less above it.  I was playing rec sports with rich kids who'd met gambling.  Life's too short.  And the deals weren't closing.  I had no idea how to get them to close.
+The money was there.  Care, attention, and knowledge were not.  I wasn't playing in my league, much less above it.  I was playing rec sports with rich kids who'd met gambling and won.  Life's too short.  And the deals weren't closing.  I had no idea how to get them to close.  Everything was possible.  So nothing got done.
 
 Second, the space was teeming with crime.  Increasingly, brazen fraud.  Like a chunk of fallen fruit swarmed by flies, it was hard to make out what the sustenance had been, under the black, gorging mass.
 
