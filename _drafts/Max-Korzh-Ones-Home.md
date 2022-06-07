@@ -1,0 +1,204 @@
+---
+title: "Max Korzh’s “His Home”"
+description: a Russian-language rap translation
+doublewide: true
+multilingual: true
+tags:
+- Russia
+- Ukraine
+- Hip-Hop
+---
+
+Stadium-filling Belarussian rapper Max Korzh released a new track yesterday addressing the war on Ukraine.  Here's a stab.
+
+<iframe class="youtube" src="https://www.youtube.com/embed/XPVIWPap7X0"></iframe>
+
+<table class="translation">
+<caption>Verse 1 <a href="https://www.youtube.com/watch?v=XPVIWPap7X0&t=0">0:00</a></caption>
+<tr>
+<td>We hardly understand what we have when it’s all good</td>
+<td>Вряд ли мы понимали, что имеем, когда было всё хорошо</td>
+</tr>
+<tr>
+<td>We blindly hoped that someone from above kept it all under sound control</td>
+<td>Слепо надеялись, что кто-то свыше за этим всем держит здравый контроль</td>
+</tr>
+<tr>
+<td>As kids they taught us, raised us, to be noble, that the world is only saved by good</td>
+<td>С детства учили, воспитали, быть благородным, мир спасает лишь только добро</td>
+</tr>
+<tr>
+<td>We lived and made plans, naively, [like] a dreamer with a backpack<sup>&darr;</sup></td>
+<td>Жили и строили планы наивные мечтатели с рюкзаком</td>
+</tr>
+<tr>
+<td>“We don’t need anybody else’s”, they cried in their incomparable speeches</td>
+<td>«Нам чужого не надо», — кричали они в своих бесподобных речах</td>
+</tr>
+<tr>
+<td>Pissed in our ears about fraternity of peoples<sup>&darr;</sup>, but every one of us already had an automatic<sup>&darr;</sup></td>
+<td>Ссали в уши про дружбу народов, но на каждого из нас уже был автомат*</td>
+</tr>
+<tr>
+<td>So, not a lot of options here, for the homeland sign right there, on the line<sup>&darr;</sup></td>
+<td>Короче, вариков тут немного, за родину распишись вот там, где штамп</td>
+</tr>
+<tr>
+<td>And right from the jump, if you believe in God, then, boy, welcome to Hell</td>
+<td>И прямо с порога если веришь в Бога, то, малый, — добро пожаловать в ад</td>
+</tr>
+</table>
+
+<dl>
+<dt>dreamer with a backpack</dt>
+<dd><p>Might be autobiographic, referring to the rapper himself, itinerant rhymesayer.</p></dd>
+<dt>fraternity of peoples</dt><dd><p>An oft-heard Communist slogan of the Soviet period and a common name for universities, civic buildings, and other institutions.  Now largely devoid of Communist dogmatic flavor, it evokes official peace and cooperation among the many ethnic groups within the Union’s vast expanse.  Some of their homelands remain within the Russian Federation today.  Others, including Ukraine and Korzh’s native Belarus, were established as separate republics within the Union and gained independence after its collapse.</p></dd>
+<dt>every one of us already had an automatic</dt>
+<dd><p>“Automatic” is the Russian term for the class of firearms including the ubiquitous AK-47 “Kalashnikov” rifle and its progeny.  The <em>A</em> in “AK” stands for “automatic”, the “K” for “Kalashnikov”.</p>
+<p>Older Soviet and post-Soviet schoolchildren not uncommonly <a href="https://www.youtube.com/watch?v=LrxjYfl05ek">drilled field stripping and reassembly of AK-47 rifles for time</a> as a class acitivity, much as 1980s American children <a href="https://en.wikipedia.org/wiki/Sport_stacking">stacked cups</a>.  Many post-Soviet states also retain universal male conscription, though in practice many especially well-to-do, urban men evade service, and many service experiences amount to yearlong bouts of forced menial labor in uniform, devoid of combat training.</p>
+</dd>
+<dt>sign right there</dt>
+<dd>
+<p>In Russia, as in other countries with universal male conscription, "enlisting" means signing a contract for military service, as opposed to being drafted.  Early in the war, Putin publicly announced that no conscripts would be used in combat, leading to a hasty, immediate admission from military public relations that conscripts had in fact been found in combat and would be recalled immediately.  Meanwhile, media stories have mounted about conscripts pressured or forced to sign, “upgrading” their status from conscript to contract soldier, as well as commanders asserting contracts were signed without evidence and recruitment centers dispatching baseless mailings calling eligible males in for visits.  The government heavily advertises contract service in depressed regions where it is often the only meaningful income opportunity.</p>
+<p>The nearest American experience dates to the Vietnam War.  In America then, as now in Russia, the burden of conscription fell disproportionately on the poor, the rural, and disprivileged minorities, unable to navigate the maze of deferments, exemptions, and corruptible decisionmakers.  In Russia’s prior wars in Chechnya, as in Vietnam, public views sometimes distinguished the culpability of those made to fight from those who volunteered to do so.</p></dd>
+</dl>
+
+<table class="translation">
+<caption>Chorus <a href="https://www.youtube.com/watch?v=XPVIWPap7X0&t=30">0:30</a></caption>
+<tr>
+<td>Hey, bro, take care, where we’ll be, who knows?</td>
+<td>Эй, брат, бывай, где будем, кто знает?</td>
+</tr>
+<tr>
+<td>War’s on, and at war there’s a rule</td>
+<td>Идёт война, а в ней закон</td>
+</tr>
+<tr>
+<td>They shoot, you shoot, everyone lies, but know this</td>
+<td>Стреляют — стреляй, все врут, но знай</td>
+</tr>
+<tr>
+<td>He’s right, who defends his home</td>
+<td>Тот прав, кто защищает свой дом</td>
+</tr>
+<tr>
+<td>Spring weeps, Ukraine burns</td>
+<td>Весна рыдает, Украина пылает<sup>4</sup></td>
+</tr>
+<tr>
+<td>The world hasn’t changed, the world’s the same</td>
+<td>Мир не менялся, мир таков</td>
+</tr>
+<tr>
+<td>Hey, bro, take care, where we’ll be, who knows?</td>
+<td>Эй, брат, бывай, где будем, кто знает?</td>
+</tr>
+<tr>
+<td>But he’s right, who defends his home</td>
+<td>Но прав, кто защищает свой дом</td>
+</tr>
+</table>
+
+<dl>
+  <dt>Ukraine burns</dt>
+  <dd><p>There are a few words for “burn” in Russian.  Max uses one evoking big flames, like “blaze”, not mere “smoulder”.  It’s also right in figurative and poetic usages, as for bright stars and burning passions.  Max hints at more than Ukraine being literally on fire.</p><p>Appreciate a photo of Ukrainian firefighters today!</p></dd>
+</dl>
+
+<table class="translation">
+<caption>Verse 2 <a href="https://www.youtube.com/watch?v=XPVIWPap7X0&t=60">1:00</a></caption>
+<tr>
+<td>We hardly thought that we’d have to deal with what’s happened</td>
+<td>Вряд ли мы думали, что придётся разбираться в том, в чём пришлось</td>
+</tr>
+<tr>
+<td>Our generation always understand one another without borders or passports<sup>&darr;</sup></td>
+<td>Наше поколение друг друга всегда понимало без границ и паспортов<sup>&darr;</sup></td>
+</tr>
+<tr>
+<td>Where we sung about friendship<sup>&darr;</sup>, now they're dreaming of revenge in full</td>
+<td>Там, где мы пели о дружбе, сегодня мечтают лишь отомстить сполна</td>
+</tr>
+<tr>
+<td>All that regular people built up over years … it’s all destroyed</td>
+<td>Всё, что нормальные люди возводили годами, — всё уничтожено</td>
+</tr>
+<tr>
+<td>God, so many innocent lives killed point-blank</td>
+<td>Боже, сколько невинных загублено жизней, убито в упор</td>
+</tr>
+<tr>
+<td>So many mangled guys, for what, no one has explained to this day</td>
+<td>Сколько искалеченных пацанов, ради чего — никто не объяснит до сих пор</td>
+</tr>
+<tr>
+<td>So many regular people framed, all thrown in one pit</td>
+<td>Сколько подставили нормальных людей, всех кинув в одну яму</td>
+</tr>
+<tr>
+<td>What in the fuck y'all done, you still don’t understand yourselves</td>
+<td>Чё ж вы, блядь, натворили, вы ещё не понимаете сами</td>
+</tr>
+</table>
+
+<dl>
+  <dt>passports</dt>
+  <dd><p><em>Passport</em> has a double meaning in the former Soviet world.  Nearly every citizen has an <em>internal</em> passport, which acts as a national identity document.  Those traveling abroad apply for <em>external</em> passports, as in the USA.</p><p>It’s not directly evoked here, but internal passports are also well known for the phenomenon of “line five”, the blank where, in Soviet times, citizens were required to indicate an ethnicity from an approved list, subject to rules based on parentage.  Removing or reintroducing, requiring or not requiring such a blank has long been a topic of heated debate among post-Soviet states.</p></dd>
+  <dt>what in the fuck y’all done</dt>
+  <dd>
+    <p>Russian-language profanity is its own language-in-a-language.  I'm no master, but I’ve tried to convey the level of emphasis here, rather than translating word by word.</p>
+    <p>For the nerds playing along, we’ve got:</p>
+    <ol>
+      <li>a low, slurred, emphatic colloquial form of “what”</li>
+      <li>a tiny grammatical particle adding emphasis to “what”</li>
+      <li>the third-person plural pronoun, which is sometimes used as the polite third-person singular, but obviously not here</li>
+      <li>a profane term literally translated “bitch”, but often used as a basically genderless, free-roaming, demeaning interjection</li>
+      <li>a colloquial verb meaning “to do”, as far as I know used exclusively for the doing of dumb and otherwise deplorable things, sardonically derived from a high-sounding root often translated as “creation” in the sense of artistic or deity work and a redundant, therefore emphatic, prefix</li>
+    </ol>
+    <p>I defend the use of y’all as a native of the Texas Piney Woods. Third person plural.  Familiar, not formal.</p>
+  </dd>
+  <dt>sung about friendship</dt>
+  <dd><p>Korzh has toured Ukraine extensively.  Many of his songs are far more light-hearted, fun-party-life affairs.  He’s touched weightier themes before, but this track, standing on its own, released at this time, will take some fans by surprise.</p></dd>
+</dl>
+
+<table class="translation">
+<caption>Bridge <a href="https://www.youtube.com/watch?v=XPVIWPap7X0&t=90">1:30</a></caption>
+<tr>
+<td>All these armchair warriors, spreading hostility, adding strife</td>
+<td>Все эти диванные войны, распыляющие вражду, добавляя раздор</td>
+</tr>
+<tr>
+<td>All these animals, for years pouring snot into hate's fire</td>
+<td>Все эти животные, что эти годы лили слюну в ненависти котёл</td>
+</tr>
+<tr>
+<td>All these fans of history who justify everything, if they'd swallow their pride</td>
+<td>Все эти любители истории, что всё оправдают, лишь бы гордость утолить глотком</td>
+</tr>
+<tr>
+<td>And people just wanted to live, smile, enjoy every day</td>
+<td>А люди просто хотели жить, улыбаться и наслаждаться каждым днём</td>
+</tr>
+<tr>
+<td>Those who got tired of sitting home, bitch, better bang walls with your head</td>
+<td>Кому не сиделось дома, блядь, — лучше стены бы разбивал лбом</td>
+</tr>
+<tr>
+<td>Whoever the fuck wanted repeat<sup>&darr;</sup>, well here you go, bitch, go repeat</td>
+<td>Кому, нахуй, хотелось повторить — так вот смотри, блядь, и ставь на повтор</td>
+</tr>
+<tr>
+<td>It’s you who call it fairness, turning children into wolves<sup>&darr;</sup></td>
+<td>Это вы называете справедливостью, делая из детей волков</td>
+</tr>
+<tr>
+<td>And how it all ends up, only God knows</td>
+<td>И чем всё обернётся — лишь это видит Бог</td>
+</tr>
+</table>
+
+<dl>
+  <dt>repeat</dt>
+  <dd><p>Evokes a Russian nationalist slogan, “can repeat”, seen on shirts, bumper stickers, and online.  Refers to the Russian victory of Nazi Germany in World War II and nationalists’ professed willingness to do it all again if needed.</p></dd>
+  <dt>wolves</dt>
+  <dd><p>The Latin maxim “homo homini lupus est” (“man is wolf to man”) is widely known in Russia.</p><p>If you’re looking for more Russian hip-hop recommendations, try <a href="https://www.youtube.com/watch?v=FO0Tdu_mISo">this rendition of a ninety-year-old Mandelshtam poem by Noise MC</a>, arguably timely well before its time, more than once.</p></dd>
+</dl>
