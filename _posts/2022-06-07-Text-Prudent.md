@@ -1,4 +1,5 @@
 ---
+date: 2022-06-07T16:13:05-07:00
 title: Text Prudent
 description: what everyone should know about texting, chatting, and the law
 tags:
