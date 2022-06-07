@@ -17,7 +17,7 @@ Stadium-filling Belarussian rapper Max Korzh released a new track earlier this w
 <table class="translation">
 <caption>Verse 1 <a href="https://www.youtube.com/watch?v=XPVIWPap7X0&t=0">0:00</a></caption>
 <tr>
-<td>We hardly understood what we had when all was good</td>
+<td>We hardly understood what we had when everything was good</td>
 <td>Вряд ли мы понимали, что имеем, когда было всё хорошо</td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ Stadium-filling Belarussian rapper Max Korzh released a new track earlier this w
 <td>С детства учили, воспитали, быть благородным, мир спасает лишь только добро</td>
 </tr>
 <tr>
-<td>We lived and made plans, naively, [like] a dreamer with a backpack<sup>&darr;</sup></td>
+<td>We lived and made plans, naively, [like] a dreamer with a backpack<sup>&#11147;</sup></td>
 <td>Жили и строили планы наивные мечтатели с рюкзаком</td>
 </tr>
 <tr>
@@ -37,11 +37,11 @@ Stadium-filling Belarussian rapper Max Korzh released a new track earlier this w
 <td>«Нам чужого не надо», — кричали они в своих бесподобных речах</td>
 </tr>
 <tr>
-<td>Pissed in our ears about fraternity of peoples<sup>&darr;</sup>, but every one of us already had an automatic<sup>&darr;</sup></td>
+<td>Pissed in our ears about fraternity of peoples<sup>&#11147;</sup>, but every one of us already had an automatic<sup>&#11147;</sup></td>
 <td>Ссали в уши про дружбу народов, но на каждого из нас уже был автомат*</td>
 </tr>
 <tr>
-<td>So, not a lot of options here, for the homeland sign right there, on the line<sup>&darr;</sup></td>
+<td>So, not a lot of options here, for the homeland sign right there, on the line<sup>&#11147;</sup></td>
 <td>Короче, вариков тут немного, за родину распишись вот там, где штамп</td>
 </tr>
 <tr>
@@ -112,11 +112,11 @@ Stadium-filling Belarussian rapper Max Korzh released a new track earlier this w
 <td>Вряд ли мы думали, что придётся разбираться в том, в чём пришлось</td>
 </tr>
 <tr>
-<td>Our generation always understand one another without borders or passports<sup>&darr;</sup></td>
-<td>Наше поколение друг друга всегда понимало без границ и паспортов<sup>&darr;</sup></td>
+<td>Our generation always understand one another without borders or passports<sup>&#11147;</sup></td>
+<td>Наше поколение друг друга всегда понимало без границ и паспортов<sup>&#11147;</sup></td>
 </tr>
 <tr>
-<td>Where we sung about friendship<sup>&darr;</sup>, now they’re dreaming of revenge in full</td>
+<td>Where we sung about friendship<sup>&#11147;</sup>, now they’re dreaming of revenge in full</td>
 <td>Там, где мы пели о дружбе, сегодня мечтают лишь отомстить сполна</td>
 </tr>
 <tr>
@@ -184,11 +184,11 @@ Stadium-filling Belarussian rapper Max Korzh released a new track earlier this w
 <td>Кому не сиделось дома, блядь, — лучше стены бы разбивал лбом</td>
 </tr>
 <tr>
-<td>Whoever the fuck wanted repeat<sup>&darr;</sup>, well here you go, bitch, go repeat</td>
+<td>Whoever the fuck wanted repeat<sup>&#11147;</sup>, well here you go, bitch, go repeat</td>
 <td>Кому, нахуй, хотелось повторить — так вот смотри, блядь, и ставь на повтор</td>
 </tr>
 <tr>
-<td>It’s you who call it fairness, turning children into wolves<sup>&darr;</sup></td>
+<td>It’s you who call it fairness, turning children into wolves<sup>&#11147;</sup></td>
 <td>Это вы называете справедливостью, делая из детей волков</td>
 </tr>
 <tr>
