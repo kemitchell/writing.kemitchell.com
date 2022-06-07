@@ -1,4 +1,5 @@
 ---
+date: 2022-06-07T11:20:53-07:00
 title: "Max Korzh’s “His Home”"
 description: a Russian-language rap translation
 doublewide: true
