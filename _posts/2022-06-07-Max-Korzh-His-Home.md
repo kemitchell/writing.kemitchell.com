@@ -18,35 +18,35 @@ Stadium-filling Belarussian rapper Max Korzh released a new track earlier this w
 <caption>Verse 1 <a href="https://www.youtube.com/watch?v=XPVIWPap7X0&t=0">0:00</a></caption>
 <tr>
 <td>We hardly understood what we had when everything was good</td>
-<td>Вряд ли мы понимали, что имеем, когда было всё хорошо</td>
+<td lang="ru">Вряд ли мы понимали, что имеем, когда было всё хорошо</td>
 </tr>
 <tr>
 <td>We blindly hoped someone from above would keep it all under sound control</td>
-<td>Слепо надеялись, что кто-то свыше за этим всем держит здравый контроль</td>
+<td lang="ru">Слепо надеялись, что кто-то свыше за этим всем держит здравый контроль</td>
 </tr>
 <tr>
 <td>As kids they taught us, raised us, to be noble, that the world is only saved by good</td>
-<td>С детства учили, воспитали, быть благородным, мир спасает лишь только добро</td>
+<td lang="ru">С детства учили, воспитали, быть благородным, мир спасает лишь только добро</td>
 </tr>
 <tr>
 <td>We lived and made plans, naively, [like] a dreamer with a backpack<sup>&#11147;</sup></td>
-<td>Жили и строили планы наивные мечтатели с рюкзаком</td>
+<td lang="ru">Жили и строили планы наивные мечтатели с рюкзаком</td>
 </tr>
 <tr>
 <td>“We don’t need anybody else’s”, they cried in their incomparable speeches</td>
-<td>«Нам чужого не надо», — кричали они в своих бесподобных речах</td>
+<td lang="ru">«Нам чужого не надо», — кричали они в своих бесподобных речах</td>
 </tr>
 <tr>
 <td>Pissed in our ears about fraternity of peoples<sup>&#11147;</sup>, but every one of us already had an automatic<sup>&#11147;</sup></td>
-<td>Ссали в уши про дружбу народов, но на каждого из нас уже был автомат*</td>
+<td lang="ru">Ссали в уши про дружбу народов, но на каждого из нас уже был автомат*</td>
 </tr>
 <tr>
 <td>So, not a lot of options here, for the homeland sign right there, on the line<sup>&#11147;</sup></td>
-<td>Короче, вариков тут немного, за родину распишись вот там, где штамп</td>
+<td lang="ru">Короче, вариков тут немного, за родину распишись вот там, где штамп</td>
 </tr>
 <tr>
 <td>And right from the jump, if you believe in God, then, boy, welcome to Hell</td>
-<td>И прямо с порога если веришь в Бога, то, малый, — добро пожаловать в ад</td>
+<td lang="ru">И прямо с порога если веришь в Бога, то, малый, — добро пожаловать в ад</td>
 </tr>
 </table>
 
@@ -60,7 +60,7 @@ Stadium-filling Belarussian rapper Max Korzh released a new track earlier this w
 </dd>
 <dt>sign right there</dt>
 <dd>
-<p>In Russia, as in other countries with universal male conscription, "enlisting" means signing a contract for military service, as opposed to being drafted.  Early in the war, Putin publicly announced that no conscripts would be used in combat, leading to a hasty, immediate admission from military public relations that conscripts had in fact been found in combat and would be recalled immediately.  Meanwhile, media stories have mounted about conscripts pressured or forced to sign, “upgrading” their status from conscript to contract soldier, as well as commanders asserting contracts were signed without evidence and recruitment centers dispatching baseless mailings calling eligible males in for visits.  The government heavily advertises contract service in depressed regions where it is often the only meaningful income opportunity.</p>
+<p>In Russia, as in other countries with universal male conscription, “enlisting” means signing a contract for military service, as opposed to being drafted.  Early in the war, Putin publicly announced that no conscripts would be used in combat, leading to a hasty, immediate admission from military public relations that conscripts had in fact been found in combat and would be recalled immediately.  Meanwhile, media stories have mounted about conscripts pressured or forced to sign, “upgrading” their status from conscript to contract soldier, as well as commanders asserting contracts were signed without evidence and recruitment centers dispatching baseless mailings calling eligible males in for visits.  The government heavily advertises contract service in depressed regions where it is often the only meaningful income opportunity.</p>
 <p>The nearest American experience dates to the Vietnam War.  In America then, as now in Russia, the burden of conscription fell disproportionately on the poor, the rural, and disprivileged minorities, unable to navigate the maze of deferments, exemptions, and corruptible decision makers.  In Russia’s prior wars in Chechnya, as in Vietnam, public views sometimes distinguished the culpability of those made to fight from those who volunteered to do so.</p></dd>
 </dl>
 
@@ -68,35 +68,35 @@ Stadium-filling Belarussian rapper Max Korzh released a new track earlier this w
 <caption>Chorus <a href="https://www.youtube.com/watch?v=XPVIWPap7X0&t=30">0:30</a></caption>
 <tr>
 <td>Hey, bro, take care, where we’ll be, who knows?</td>
-<td>Эй, брат, бывай, где будем, кто знает?</td>
+<td lang="ru">Эй, брат, бывай, где будем, кто знает?</td>
 </tr>
 <tr>
 <td>War’s on, and at war there’s a rule</td>
-<td>Идёт война, а в ней закон</td>
+<td lang="ru">Идёт война, а в ней закон</td>
 </tr>
 <tr>
 <td>They shoot, you shoot, everyone lies, but know this</td>
-<td>Стреляют — стреляй, все врут, но знай</td>
+<td lang="ru">Стреляют — стреляй, все врут, но знай</td>
 </tr>
 <tr>
 <td>He’s right, who defends his home</td>
-<td>Тот прав, кто защищает свой дом</td>
+<td lang="ru">Тот прав, кто защищает свой дом</td>
 </tr>
 <tr>
 <td>Spring weeps, Ukraine burns</td>
-<td>Весна рыдает, Украина пылает<sup>4</sup></td>
+<td lang="ru">Весна рыдает, Украина пылает<sup>4</sup></td>
 </tr>
 <tr>
 <td>The world hasn’t changed, the world’s the same</td>
-<td>Мир не менялся, мир таков</td>
+<td lang="ru">Мир не менялся, мир таков</td>
 </tr>
 <tr>
 <td>Hey, bro, take care, where we’ll be, who knows?</td>
-<td>Эй, брат, бывай, где будем, кто знает?</td>
+<td lang="ru">Эй, брат, бывай, где будем, кто знает?</td>
 </tr>
 <tr>
 <td>But he’s right, who defends his home</td>
-<td>Но прав, кто защищает свой дом</td>
+<td lang="ru">Но прав, кто защищает свой дом</td>
 </tr>
 </table>
 
@@ -109,35 +109,35 @@ Stadium-filling Belarussian rapper Max Korzh released a new track earlier this w
 <caption>Verse 2 <a href="https://www.youtube.com/watch?v=XPVIWPap7X0&t=60">1:00</a></caption>
 <tr>
 <td>We hardly thought that we’d have to deal with what’s happened</td>
-<td>Вряд ли мы думали, что придётся разбираться в том, в чём пришлось</td>
+<td lang="ru">Вряд ли мы думали, что придётся разбираться в том, в чём пришлось</td>
 </tr>
 <tr>
 <td>Our generation always understand one another without borders or passports<sup>&#11147;</sup></td>
-<td>Наше поколение друг друга всегда понимало без границ и паспортов<sup>&#11147;</sup></td>
+<td lang="ru">Наше поколение друг друга всегда понимало без границ и паспортов<sup>&#11147;</sup></td>
 </tr>
 <tr>
 <td>Where we sung about friendship<sup>&#11147;</sup>, now they’re dreaming of revenge in full</td>
-<td>Там, где мы пели о дружбе, сегодня мечтают лишь отомстить сполна</td>
+<td lang="ru">Там, где мы пели о дружбе, сегодня мечтают лишь отомстить сполна</td>
 </tr>
 <tr>
 <td>All that regular people built up over years … it’s all destroyed</td>
-<td>Всё, что нормальные люди возводили годами, — всё уничтожено</td>
+<td lang="ru">Всё, что нормальные люди возводили годами, — всё уничтожено</td>
 </tr>
 <tr>
 <td>God, so many innocent lives killed point-blank</td>
-<td>Боже, сколько невинных загублено жизней, убито в упор</td>
+<td lang="ru">Боже, сколько невинных загублено жизней, убито в упор</td>
 </tr>
 <tr>
 <td>So many mangled guys, for what, no one has explained to this day</td>
-<td>Сколько искалеченных пацанов, ради чего — никто не объяснит до сих пор</td>
+<td lang="ru">Сколько искалеченных пацанов, ради чего — никто не объяснит до сих пор</td>
 </tr>
 <tr>
 <td>So many regular people framed, all thrown in one pit</td>
-<td>Сколько подставили нормальных людей, всех кинув в одну яму</td>
+<td lang="ru">Сколько подставили нормальных людей, всех кинув в одну яму</td>
 </tr>
 <tr>
 <td>What in the fuck y’all done, you still don’t understand yourselves</td>
-<td>Чё ж вы, блядь, натворили, вы ещё не понимаете сами</td>
+<td lang="ru">Чё ж вы, блядь, натворили, вы ещё не понимаете сами</td>
 </tr>
 </table>
 
@@ -165,35 +165,35 @@ Stadium-filling Belarussian rapper Max Korzh released a new track earlier this w
 <caption>Bridge <a href="https://www.youtube.com/watch?v=XPVIWPap7X0&t=90">1:30</a></caption>
 <tr>
 <td>All these armchair warriors, spreading hostility, adding strife</td>
-<td>Все эти диванные войны, распыляющие вражду, добавляя раздор</td>
+<td lang="ru">Все эти диванные войны, распыляющие вражду, добавляя раздор</td>
 </tr>
 <tr>
 <td>All these animals, for years pouring snot into hate’s fire</td>
-<td>Все эти животные, что эти годы лили слюну в ненависти котёл</td>
+<td lang="ru">Все эти животные, что эти годы лили слюну в ненависти котёл</td>
 </tr>
 <tr>
 <td>All these fans of history who justify everything, if they’d swallow their pride</td>
-<td>Все эти любители истории, что всё оправдают, лишь бы гордость утолить глотком</td>
+<td lang="ru">Все эти любители истории, что всё оправдают, лишь бы гордость утолить глотком</td>
 </tr>
 <tr>
 <td>And people just wanted to live, smile, enjoy every day</td>
-<td>А люди просто хотели жить, улыбаться и наслаждаться каждым днём</td>
+<td lang="ru">А люди просто хотели жить, улыбаться и наслаждаться каждым днём</td>
 </tr>
 <tr>
 <td>Those who got tired of sitting home, bitch, better bang walls with your head</td>
-<td>Кому не сиделось дома, блядь, — лучше стены бы разбивал лбом</td>
+<td lang="ru">Кому не сиделось дома, блядь, — лучше стены бы разбивал лбом</td>
 </tr>
 <tr>
 <td>Whoever the fuck wanted repeat<sup>&#11147;</sup>, well here you go, bitch, go repeat</td>
-<td>Кому, нахуй, хотелось повторить — так вот смотри, блядь, и ставь на повтор</td>
+<td lang="ru">Кому, нахуй, хотелось повторить — так вот смотри, блядь, и ставь на повтор</td>
 </tr>
 <tr>
 <td>It’s you who call it fairness, turning children into wolves<sup>&#11147;</sup></td>
-<td>Это вы называете справедливостью, делая из детей волков</td>
+<td lang="ru">Это вы называете справедливостью, делая из детей волков</td>
 </tr>
 <tr>
 <td>And how it all ends up, only God knows</td>
-<td>И чем всё обернётся — лишь это видит Бог</td>
+<td lang="ru">И чем всё обернётся — лишь это видит Бог</td>
 </tr>
 </table>
 
