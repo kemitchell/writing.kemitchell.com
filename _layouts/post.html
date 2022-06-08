@@ -23,12 +23,14 @@
     This post is part of a series, <a href="/series/{{ page.series | slugify }}">{{page.series}}</a>.
   </p>
   {% endif %}
+
   {{ content }}
+
   {% if series %}
   <p class=signature>
     More in this series: <a href="/series/{{ page.series | slugify }}">{{page.series}}</a>
-  {% endif %}
   </p>
+  {% endif %}
   {% if tags %}
   <p class=signature>more posts about:
   {% for tag in page.tags %}
