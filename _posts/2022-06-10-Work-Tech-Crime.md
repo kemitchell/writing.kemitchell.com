@@ -34,7 +34,7 @@ Even setting foolishness aside, many a capable startup gave in to issuing a "coi
 
 I had serious concerns that my lawyer photo would end up pasted into marketing materials for some ICO I'd never heard of, perhaps as part of a template for fly-by-night scams.  To my knowledge, none of my actual clients ever did one while I was engaged.  I certainly never approved one.  But many a business plan or compliance strategy nonetheless bent around the ever-widening distortion field.  If people wanted to mine for turds to hock as treasures, there was money in pickaxes, cans, storage, and transportation.  A more honest living, by one step removed.  But the work and the company still stank to high heaven.
 
-I didn't judge my clients.  I knew them too well.  Under the right (wrong) incentives, we can expect even the staunchest to succumb.  But I was one more step removed still, and I also had a choice.  Five years of my prime down the line, I'm glad to have frittered them otherwise.
+I didn't judge my clients.  I knew them too well.  Under the right (wrong) incentives, we can expect even the staunchest to heel.  But I was one more step removed still, and I also had a choice.  Five years of my prime down the line, I'm glad to have frittered them otherwise.
 
 ## The Tech
 
