@@ -60,7 +60,7 @@ Nobody needs this blog to parade blockchain horribles or define the new slang fo
 
 ## Flash Lobby
 
-Walking away doesn't actually solve anything.
+But walking away doesn't actually solve anything for anyone else.
 
 Largely by repeating self-serving nonsense about how criminal use was negligible, banking regulations were illegitimate, and securities laws somehow did not apply---and finding enough lawyers willing to flatter the latter, and eventually work the litigation---the critical, interested mass of crypto players bum rushed the regulatory system.
 
