@@ -20,13 +20,13 @@ I fired them all.
 
 One by one, in careful e-mails, I ended our attorney-client relationships.  Referred them to other counsel, more eager to be "crypto lawyers".  Tried as I could to preserve personal rapport, founded on deep respect.  I did what I could to explain, plain and honest, that it really wasn't them, personally.  It was the whole "crypto space".  I'd had enough.  I didn't want to be associated.  I was out.  Every blockchain client got an e-mail.
 
-My income prospects tanked.  I was deeply relieved.  I still am.  I've taken some blockchain-_adjacent_ clients since --- all small, engineer-driven concerns doing actual cryptography on trickle-down dollars.  But nobody hocking chains, coins, or tokens.  I've lost track of all the new business I've turned down.  Gladly.
+My income prospects tanked.  I was deeply relieved.  I still am.  I've taken some blockchain-<em>adjacent</em> clients since --- all small, engineer-driven concerns doing actual cryptography on trickle-down dollars.  But nobody hawking chains, coins, or tokens.  I've lost track of all the new business I've turned down.  Gladly.
 
 My pretenses against blockchain were then and remain now basically three: the work, the tech, and the crime.  In no particular order.
 
 ## The Work
 
-As a lawyer, working in blockchain increasingly sucked.  Legal "greenfield" is fun, but we weren't out there alone.  Even ace clients increasingly sat across from jokers on on very meaningful transactions.  Countless negotiations were derailed by rampant amateur "incentives engineering".  Countless proposals, earnestly made at great time expense, should have been preemptively debunked by into-level business-law course or a quick skim through a book.
+As a lawyer, working in blockchain increasingly sucked.  Legal "greenfield" is fun, but we weren't out there alone.  Even ace clients increasingly sat across from jokers on very meaningful transactions.  Countless negotiations were derailed by rampant amateur "incentives engineering".  Countless proposals, earnestly made at great time expense, should have been preemptively debunked by intro-level business-law course or a quick skim through a book.
 
 Chaos in a new space tends high.  That's half the fun.  But I started getting the feeling that somehow, even relatively early in my law career, I wasn't playing in the right league.  A lot of basic homework clearly wasn't getting done.  A lot of transactions well into the dollar danger range for litigation were signing on tottering, incomplete, or downright broken terms.
 
