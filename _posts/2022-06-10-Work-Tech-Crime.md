@@ -1,4 +1,5 @@
 ---
+date: 2022-06-10T11:34:26-07:00
 title: The Work, the Tech, and the Crime
 description: blockchain deserves no regulatory favors
 tags:
