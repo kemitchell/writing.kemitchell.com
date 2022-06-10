@@ -26,7 +26,7 @@ My pretenses against blockchain were then and remain now basically three: the wo
 
 ## The Work
 
-As a lawyer, working in blockchain increasingly sucked.  Legal "greenfield" is fun, but we weren't out there alone.  Even ace clients increasingly sat across from jokers on very meaningful transactions.  Countless negotiations were derailed by rampant amateur "incentives engineering".  Countless proposals, earnestly made at great time expense, should have been preemptively debunked by intro-level business-law course or a quick skim through a book.
+As a lawyer, working in blockchain increasingly sucked.  Legal "greenfield" is fun, but we weren't out there alone.  Even ace clients increasingly sat across from jokers on very meaningful transactions.  Countless negotiations were derailed by rampant amateur "incentives engineering".  Countless proposals, earnestly made at great time expense, should have been preemptively debunked by an intro-level business-law course or a quick skim through a book.
 
 Chaos in a new space tends high.  That's half the fun.  But I started getting the feeling that somehow, even relatively early in my law career, I wasn't playing in the right league.  A lot of basic homework clearly wasn't getting done.  A lot of transactions well into the dollar danger range for litigation were signing on tottering, incomplete, or downright broken terms.
 
