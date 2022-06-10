@@ -7,31 +7,31 @@ tags:
 - Securities
 ---
 
-I have signed the open [Letter in Support of Responsible Fintech Policy](https://concerned.tech) calling on members of the United States legislature to take a hard second look at blockchain lobby regulatory proposals.  Because I strongly agree with it.
+I have signed the open [Letter in Support of Responsible Fintech Policy](https://concerned.tech) calling on members of the United States legislature to take a hard second look at blockchain lobby regulatory proposals.
 
 Independence is the first privilege of a freelance professional.  Independence writes this blog.  But many out there will have noticed that I haven't posted anything blockchain since July of 2017, almost five years gao.  It's the one big, obvious topic I've denied myself, and not for lack of anything to say.
 
 Five years ago, Bitcoin had just broken a thousand dollars.  Ethereum was just two years old.  The Securities and Exchange Commission's first investigation of a blockchain scheme, "The DAO", buzzed on [the blogs](https://writing.kemitchell.com/2017/07/25/DAO-Report-of-Investigation.html), including this one.  The "initial coin offering" wave was rising.
 
-I advised a stable of promising blockchain clients.  Mine were the adults in the room: older, wiser veterans with life, business, and legal experience, focused on hard technical, policy, and institutional problems.  All were trying to make blockchains do real work.  All were trying to legitimize the concepts, legally and practically.  They weren't basking in reflected glow from their pitch decks.  They weren't pretending daring-do or unfathomable tech-magic exempted them from public policy.  They'd lived through the 2008 financial crisis as self-conscious, responsible adults.
+I advised a stable of promising blockchain clients.  Mine were the adults in the room: older, wiser veterans with life, business, and legal experience, focused on hard technical, policy, and institutional problems.  All were trying to make blockchains do real work.  All were trying to legitimize the concepts.  They weren't basking in reflected glow from their pitch decks.  They weren't pretending daring-do or unfathomable tech-magic exempted them from all known public policy.  They'd lived through the 2008 financial crisis as self-conscious, responsible adults.
 
 I fired them all.
 
-One by one, in careful e-mails, I ended our attorney-client relationships.  Referred them to other counsel, more eager to be "crypto lawyers".  Tried as I could to preserve personal rapport, founded on personal and professional respect.  I did what I could to explain, plain and honest, that it really wasn't them.  It was the whole "space".  I was out.
+One by one, in careful e-mails, I ended our attorney-client relationships.  Referred them to other counsel, more eager to be "crypto lawyers".  Tried as I could to preserve personal relations, founded on deep respect.  I did what I could to explain, plain and honest, that it really wasn't them.  It was the whole "crypto space".  I'd had enough.  I was out.  Every blockchain client got an e-mail.
 
-Every blockchain client got an e-mail.  No exceptions were made.
-
-My income prospects tanked.  I was deeply relieved.  I still am.  I've taken some blockchain-adjacent clients since --- all small, engineer-driven concerns doing actual cryptography on trickle-down dollars.  But nobody hocking chains, coins, or tokens.  I've lost track of all the new business I've turned down.  Gladly.
+My income prospects tanked.  I was deeply relieved.  I still am.  I've taken some blockchain-_adjacent_ clients since --- all small, engineer-driven concerns doing actual cryptography on trickle-down dollars.  But nobody hocking chains, coins, or tokens.  I've lost track of all the new business I've turned down.  Gladly.
 
 My pretenses against blockchain were then and remain now basically three: the work, the tech, and the crime.  In no particular order.
 
 ## The Work
 
-As a lawyer, the work increasingly sucked.  Legal "greenfield" is fun, but we weren't alone out there, and even ace clients increasingly sat across from jokers on many meaningful transactions.  Countless negotiations were derailed by neophyte "incentives engineering" run amok.  Countless proposals, earnestly made at great time expense, should have been debunked at intro-business-law level.  Chaos levels in a new field ten to be high.  That's part of the fun.  But fairly early on in my career, I started to get the feeling I wasn't playing in a league at my level.  A lot of basic homework clearly wasn't getting done.
+As a lawyer, the work increasingly sucked.  Legal "greenfield" is fun, but we weren't alone out there.  Even ace clients increasingly sat across from jokers on on meaningful transactions.  Countless negotiations were derailed by rampant "incentives engineering" run amok.  Countless proposals, earnestly made at great time expense, should have been debunked at intro-business-law level.  Chaos in a new space tends to be high.  That's half the fun.  But I started getting the feeling that somehow, even relatively early in my law career, I wasn't playing in the right league.  A lot of basic homework clearly wasn't getting done.
 
-Aven setting fools aside, many clients who held out against temptation to issue a "coin" for quick, dumb capital nonetheless succumbed to accommodating those who caved.  If the people wanted to mine for turds and hock them as treasures, there was cleaner money in pickaxes, cans, transportation, storage, and advice.  The company stank, but at least it was an honest living.
+Aven setting fools aside, many firms were yielding to temptation to issue a "coin" for quick, dumb capital.  Among the startup-founder precariat, the pull was massive.  You're worried about payroll on one hand.  You're sick at the thought of pounding pavement for pro finance on the other.  Suddenly, a new sign: exit right to Easy Street.
 
-I got it.  Among the startup-founder precariat, temptation was massive.  You're worried about payroll on one hand.  You're sick at the thought of pounding pavement for pro finance on the other.  Suddenly, a new sign: exit right to Easy Street.  In the right (wrong) circumstances, even the stuanchest will take it.  I didn't judge.  But I had a choice.  Five years of my prime down the line, I'm glad to have frittered them otherwise.
+I greatly feared that my lawyer portrait would end up pasted into the market materials for some ICO I'd never heard about, perhaps as part of a template for fly-by-night scams.  To my knowledge, none of my actual clients ever did one while I was engaged.  But many a busines plan or compliance stragegy bent to accomodate those who did.  If the people wanted to mine for turds and hock them as treasures, there was money in pickaxes, cans, storage, and transportation.  The company stank, but it was a more honest living, by one step removed.
+
+I don't judge.  In the right (wrong) circumstances, the only reasonable expectations is that even the stuanchest will heed incentive.  So I didn't judge.  But I did have a choice.  Five years of my prime down the line, I'm glad to have frittered them otherwise. I'm glad I wasn't associated.
 
 ## The Tech
 
