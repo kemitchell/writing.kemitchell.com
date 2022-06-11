@@ -87,4 +87,6 @@ The argument for using open source without guarantees where security matters boi
 
 <!-- TODO: Red Hat model -->
 
+<!-- TODO: leave the means up to the vendor -->
+
 <!-- TODO: centralized/global-singleton security projects -->
