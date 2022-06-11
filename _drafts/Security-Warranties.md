@@ -9,23 +9,23 @@ tags:
 
 How do we cultivate software security talent?  Once we have it, how do we apply it to the right problems, in the right projects, at the right times, with the right support, forever?
 
-No small feat.  But at least we can say: apparently _not_ how open source does it now.
+No small feat.  But at least we can say: apparently _not_ how open source is doing it now.
 
 The solution to the open security crisis isn't [standardized packing slips](https://en.wikipedia.org/wiki/Software_bill_of_materials), [a centralized inspection agency](https://openssf.org/), or a [sign-off scheme](https://blog.tidelift.com/the-state-of-package-signing-across-package-managers).  It's not more software or another foundation.  After all, this isn't actually a software problem.  It's much bigger than that.
 
-It is also, thankfully, a solved problem.  It's just that open source _unsolved_ it.  That isn't part of the open source story we learn and share.  It should be.
+It is also, thankfully, a solved problem.  It's just that open source _unsolved_ it.
 
 ## Known Class
 
-The software-security problem is a specific instance in the general class of product-service quality problems.  Much as drivers need reliable cars and everyone wants a competent dentist, users need and want secure software.  How secure varies from case to case.  Trouble is, users can't tell on their own, in a hurry, if particular software's as secure as they need or will stay that way.
+The software-security problem is a specific instance in the general class of product-service quality problems.  Much as drivers need reliable cars and everyone wants a competent dentist, users need and want secure software.  How secure varies from case to case.  Trouble is, consumers can't tell on their own, in a hurry, if a particular car is a lemon, a particular dentist's a dunce, or some software's as secure as they need it to be.
 
-Software users know best how much security they need and how much they can afford to pay for it.  But software developers know best how secure their software is and how much secure it could be, and at what cost.  To allocate relevant resources---developer attention, security talent, related tools and services---we need to connect these signal paths.  Not just between between any particular vendor and customer, but among the vendor's vendors and the customer's customers, too.
+Software users know best how much security they need and how much they can afford to pay for it.  But software developers know best how secure their software is and how much more secure it could be at what cost.  To allocate relevant resources---developer attention, security talent, preventive tools and services---we need to connect these signal paths.  Not just between vendors and customers, but among the vendors' vendors and customers' customers, as well.
 
-The solution is written, legally enforceable promises to cover customers financially when bad things happen.  In legal terms, "warranties" and "indemnities".  For software security, promises from software vendors to software users to cut checks when vulns and breaches cause them losses, included in license agreements for software and terms of service for services.  The result is a bit like selling an insurance policy along with your software.
+The solution is written, legally enforceable promises from vendors to cover customers financially when bad things happen.  In legal terms, "warranties" and "indemnities".  Software vendors should promise their users that they'll pay out if and when vulns or breaches cause losses, in license agreements and terms of service.  Customers that care about security get something like an insurance policy along with the software.
 
-Warranties and indemnities close the signal path by encoding security signals in price signals.  If users need more security---higher limits, broader coverage---they pay more dollars for it.  The vendors, receiving the dollars, and can afford to spend more on security, however they deem most cost-effective.  If they fail to do so proportionately, they can end up sending more dollars back to customers for the consequences than they took in for the software.
+Warranties and indemnities complete the signal path by encoding security signals in price signals.  If users need more security---higher limits, broader coverage---they pay more dollars for it.  The vendors, receiving the dollars, and can spend more on security, however they think most cost-effective.  If they fail to do so proportionately or effectively, they can end up sending dollars back to customers for the consequences.
 
-With warranties and indemnities, each customer-vendor pair forms an edge in a network conveying resources and information about the appropriate level of security.  Any edge can be entirely opaque, as under nondisclosure agreement, but still convey security-relevant signals and resources, transitively.  A framework supplier can cover a website operator who in turn covers end users.  End users needn't see the supplier-operator contract.  Any customer, who may in turn be someone else's vendor, need only see the prices and terms with their immediate counterparty.  The terms each node is able offer in part aggregate the terms they were able to get upstream.
+With warranties and indemnities, each customer-vendor pair forms an edge in a network conveying resources and information about the appropriate level of security.  Any edge can be entirely opaque, as under nondisclosure agreement, but still convey security-relevant signals and resources transitively.  For example, a framework supplier can cover a website operator who in turn covers end users.  End users needn't see or even know about the supplier-operator contract.  But the terms the operator can offer in part aggregate the terms they were able to get from all their providers upstream.
 
 ## Market System
 
