@@ -18,7 +18,7 @@ I advised a stable of promising blockchain clients.  Mine were the adults in the
 
 I fired them all.
 
-One by one, in careful e-mails, I ended our attorney-client relationships.  Referred them to other counsel, more eager to be "crypto lawyers".  Tried as I could to preserve personal rapport, founded on deep respect.  I did what I could to explain, plain and honest, that it really wasn't them, personally.  It was the whole "crypto space".  I'd had enough.  I didn't want to be associated.  I was out.  Every blockchain client got an e-mail.
+One by one, in careful e-mails, I ended our attorney-client relationships.  Referred them to other counsel, more eager to be "crypto lawyers".  Tried as I could to preserve personal rapport, founded on deep respect.  Did what I could to explain, plain and honest, that it really wasn't them, personally.  It was the whole "crypto space".  I'd had enough.  I didn't want to be associated.  I was out.  Every blockchain client got an e-mail.
 
 My income prospects tanked.  I was deeply relieved.  I still am.  I've taken some blockchain-<em>adjacent</em> clients since --- all small, engineer-driven concerns doing actual cryptography on trickle-down dollars.  But nobody hawking chains, coins, or tokens.  I've lost track of all the new business I've turned down.  Gladly.
 
