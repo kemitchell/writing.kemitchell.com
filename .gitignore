@@ -3,3 +3,4 @@ vendor
 .jekyll-metadata
 .jekyll-cache
 **.bak
+_drafts/*.pdf
