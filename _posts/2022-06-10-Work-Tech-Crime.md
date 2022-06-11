@@ -56,7 +56,7 @@ Technical achievement requires a certain measure of discipline.  But an utter la
 
 Perhaps this shouldn't have come as any surprise.  A lot of the crime was securities fraud.  It's a series of short mutagenic hops from investing in hype to reinvesting in "community" to running a direct and self-conscious lobby operation, initially on the regulators, then over their heads to the pols.  And meanwhile weak or striving backwater jurisdictions, such as may be found.
 
-Nobody needs this blog to parade blockchain horribles or define the new slang for old heists ported over to "crypto".  Suffice to say it was obviously bad enough in 2017 that even a longtime computer programmer, who did research for a securities don in law school, who had a career plan derailed by international financial sanctions, could see enough sleaze to turn around and find an exit.  I didn't want to be associated.
+Nobody needs this blog to parade blockchain horribles or define the new slang for old heists ported over to "crypto".  Suffice to say it was obviously bad enough in 2017 that even a longtime computer programmer, who did research for a securities don in law school, who had a career plan derailed by international financial sanctions, could see enough sleaze to turn around and find the exit.
 
 ## Flash Lobby
 
