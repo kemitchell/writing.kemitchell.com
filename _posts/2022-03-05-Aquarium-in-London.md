@@ -31,73 +31,73 @@ I've noted Grebenshchikov's interpretations in brackets.
 <tbody>
 <tr>
 <td>I don’t know for what or who this is needed</td>
-<td>Я не знаю, зачем и кому это нужно</td>
+<td lang="ru">Я не знаю, зачем и кому это нужно</td>
 </tr>
 <tr>
 <td>Who sent them to die with an untrembling hand</td>
-<td>Кто послал их на смерть недрожавшей рукой</td>
+<td lang="ru">Кто послал их на смерть недрожавшей рукой</td>
 </tr>
 <tr>
 <td>Only so without mercy [so uselessly], so evilly and unnecessarily</td>
-<td>Только так беспощадно [бесполезно], так зло и ненужно</td>
+<td lang="ru">Только так беспощадно [бесполезно], так зло и ненужно</td>
 </tr>
 <tr>
 <td>Left them to eternal peace</td>
-<td>Опустили их [Отпускали их] в Вечный Покой</td>
+<td lang="ru">Опустили их [Отпускали их] в Вечный Покой</td>
 </tr>
 </tbody>
 <tbody>
 <tr>
 <td>Indifferent onlookers silently stood wrapped in furs</td>
-<td>Равнодушные зрители молча кутались в шубы,</td>
+<td lang="ru">Равнодушные зрители молча кутались в шубы,</td>
 </tr>
 <tr>
 <td>And some woman with a distorted face</td>
-<td>И какая-то женщина с искажённым лицом</td>
+<td lang="ru">И какая-то женщина с искажённым лицом</td>
 </tr>
 <tr>
 <td>Kissed a dead man on his blued lips</td>
-<td>Целовала покойника в посиневшие губы</td>
+<td lang="ru">Целовала покойника в посиневшие губы</td>
 </tr>
 <tr>
 <td>And pelted the priest with an engagement ring</td>
-<td>И швырнула в священника обручальным кольцом</td>
+<td lang="ru">И швырнула в священника обручальным кольцом</td>
 </tr>
 </tbody>
 <tbody>
 <tr>
 <td>They covered them with spruces, mixed them [covered them] with dirt</td>
-<td>Закидали их ёлками, замесили [закидали] их грязью</td>
+<td lang="ru">Закидали их ёлками, замесили [закидали] их грязью</td>
 </tr>
 <tr>
 <td>And took off for home, on the quiet to expound</td>
-<td>И пошли по домам — под шумок толковать,</td>
+<td lang="ru">И пошли по домам — под шумок толковать,</td>
 </tr>
 <tr>
 <td>That it might be time [it's already time] to put an end to the scandal</td>
-<td>Что пора положить бы уж [уже] конец безобразью,</td>
+<td lang="ru">Что пора положить бы уж [уже] конец безобразью,</td>
 </tr>
 <tr>
 <td>And so already soon, they say, we will start to starve [we will as the countryside (?) starve]</td>
-<td>Что и так уже скоро, мол, мы начнем голодать [мы селочнью (?) голодать]</td>
+<td lang="ru">Что и так уже скоро, мол, мы начнем голодать [мы селочнью (?) голодать]</td>
 </tr>
 </tbody>
 <tbody>
 <tr>
 <td>And no one thought it through, just to take to their knees</td>
-<td>И никто не додумался просто стать на колени</td>
+<td lang="ru">И никто не додумался просто стать на колени</td>
 </tr>
 <tr>
 <td>And to tell these boys, that in a talentless country</td>
-<td>И сказать этим мальчикам, что в бездарной стране</td>
+<td lang="ru">И сказать этим мальчикам, что в бездарной стране</td>
 </tr>
 <tr>
 <td>Even bright feats, they’re just footsteps,</td>
-<td>Даже светлые подвиги — это только ступени</td>
+<td lang="ru">Даже светлые подвиги — это только ступени</td>
 </tr>
 <tr>
 <td>In a bottomless abyss, toward an unreachable Spring</td>
-<td>В бесконечные пропасти — к недоступной Весне</td>
+<td lang="ru">В бесконечные пропасти — к недоступной Весне</td>
 </tr>
 </tbody>
 </table>
