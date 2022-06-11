@@ -78,8 +78,8 @@ I've noted Grebenshchikov's interpretations in brackets.
 <td lang="ru">Что пора положить бы уж [уже] конец безобразью,</td>
 </tr>
 <tr>
-<td>And so already soon, they say, we will start to starve [we will as the countryside (?) starve]</td>
-<td lang="ru">Что и так уже скоро, мол, мы начнем голодать [мы селочнью (?) голодать]</td>
+<td>And so already soon, they say, we will [all] begin to starve </td>
+<td lang="ru">Что и так уже скоро, мол, мы [все] начнем голодать</td>
 </tr>
 </tbody>
 <tbody>
