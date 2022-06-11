@@ -14,7 +14,7 @@ tags:
 <table class="translation">
   <tr>
     <td>I pray that during this song even one bullet could fly past, that even one shell could miss a home.</td>
-    <td>Молюсь, чтобы во время этой песни хоть одна пуля пролетела мимо, чтобы хоть один снаряд не попал в дом.</td>
+    <td lang="ru">Молюсь, чтобы во время этой песни хоть одна пуля пролетела мимо, чтобы хоть один снаряд не попал в дом.</td>
   </tr>
 </table>
 
