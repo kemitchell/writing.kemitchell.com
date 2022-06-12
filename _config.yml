@@ -12,7 +12,6 @@ subscribe_url: "https://groups.io/g/kemitchell"
 plugins:
 - jekyll-sass-converter
 - jekyll-feed
-- jekyll-tidy
 feed:
   path: atom.xml
 exclude:
