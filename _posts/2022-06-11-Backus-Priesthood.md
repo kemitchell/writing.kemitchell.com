@@ -1,4 +1,5 @@
 ---
+date: 2022-06-11T20:37:43-07:00
 title: Priest Against Priesthood
 description: father of FORTRAN on programming in the fifties
 tags:
