@@ -10,7 +10,7 @@ tags:
 
 [John Backus](https://en.wikipedia.org/wiki/John_Backus), director of the FORTRAN team, co-inventor of Backus-Naur Form, and numerous computing award winner:
 
-> Just as Westners and other frontier types developed a rather chauvinistic pride in their frontiersmanship, and a corresponding kind of conservatism that went with it, so many pioneering programmers in the fifties began to regard themselves as members of a priesthood, guarding skills and mysteries that were far too complex for ordinary people.  This feeling was really---I mean, it sounds silly to say that now, but it's really true.  The feeling was noted in an article in fact at that same ONR symposium, in which...Brown and Carr...quoting them:
+> Just as Westerners and other frontier types developed a rather chauvinistic pride in their frontiersmanship, and a corresponding kind of conservatism that went with it, so many pioneering programmers in the fifties began to regard themselves as members of a priesthood, guarding skills and mysteries that were far too complex for ordinary people.  This feeling was really---I mean, it sounds silly to say that now, but it's really true.  The feeling was noted in an article in fact at that same ONR symposium, in which...Brown and Carr...quoting them:
 >
 > > Many professional machine users strongly oppose the use of decimal numbers.  To this group, the process of machine instruction was one that could not be turned over to the uninitiated.
 >
