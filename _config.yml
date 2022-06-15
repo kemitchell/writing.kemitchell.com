@@ -18,6 +18,13 @@ exclude:
 - Makefile
 - listtags
 - serve
+jekyll_tidy:
+  exclude:
+    - '*.js'
+    - '**/*.js'
+    - '**/*.json'
+    - '*.xml'
+    - '*.txt'
 defaults:
   - scope:
       path: ""
