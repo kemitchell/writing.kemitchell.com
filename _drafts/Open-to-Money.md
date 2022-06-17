@@ -8,13 +8,13 @@ tags:
 
 The open source view of software production today is right where properties-and-rents was when Netscape unleashed Mozilla: in the way of the greatest pent-up wave of programmer potential yet beheld by man.
 
-To maximize that potential, we have to think about how software ought to be made _both_ in terms of the free flow of bits _and_ in terms of the free flow of dollars.  Not because money rules everything else around us, but because that's the means to bring maximum programing talent into productive service.  The "crowd" with Internet access and lots of spare time pales in comparison to the mass with Internet access who could do honest work for honest pay.
+To maximize that potential, we have to think about how software ought to be made _both_ in terms of the free flow of bits _and_ in terms of the free flow of dollars.  Not because money rules everything else around us, but because that's the means to bring maximum programming talent into productive service.  The "crowd" with Internet access and lots of spare time pales in comparison to the mass with Internet access who could do honest work for honest pay.
 
 Those of us willing and able to nurse a guildsman's ideal of software production aloof from financial concern represent a small, passing aberration.  And no anointed elect lays out the welcome mat for millions of competitors.  Welcome or not, the talent will come.  Software production _will_ bend to global Internet penetration.  That is not the question.
 
 The question is whether a prior generation's thinking, largely framed by open source agitprop arrayed against '90s incumbents, will stay humble and flexible enough to adapt to the new now, distill lasting wisdom, and pass it on.  It could very well harden into reactionary dogma instead, in which case the new talent will have to push off against it, likely repeating no few of its mistakes.  This could happen if ideas stay too rigid.  It could happen if individuals fail to cede right of way.
 
-The question ways heavy on me, because I stand between.  I was coding in the late '90s, but my work life began in earnest only after [the crash](https://en.wikipedia.org/wiki/2008_financial_crisis).  As a result, I looked up to, studied, and inherited from the dot-com generation, but I didn't live their experience firsthand, and had to take a lot of their points abstractly.  I'm not and never will be an "open source founding father", but neither am I stuck that way.
+The question ways heavy on me, because I stand between.  I was coding in the late '90s, but my work life began in earnest only after [the crash](https://en.wikipedia.org/wiki/2008_financial_crisis).  As a result, I looked up to, studied, and inherited from the dot-com generation, but I didn't live their experience firsthand, and had to take a lot of their points abstractly.  I'm not and never will be an "open source founding father", but at this point, nor would I want to be.
 
 What is that good for?
 
