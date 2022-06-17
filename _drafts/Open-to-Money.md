@@ -6,15 +6,15 @@ tags:
 - Software Industry
 ---
 
-The open source view of software production today is right where the properties-and-rents view stood when Netscape released Mozilla: in the way of the greatest pent-up wave of programmer potential yet beheld by man.
+The open source view of software production today is right where properties-and-rents was when Netscape unleashed Mozilla: in the way of the greatest pent-up wave of programmer potential yet beheld by man.
 
-To maximize that potential, we have to think about how software ought to be made _both_ in terms of the free flow of bits _and_ in terms of the free flow of dollars.  Not because money rules all and ought to rule software, too.  Because that's what it will take to bring maximum programing talent into service.  The "crowd" with Internet and lots of free time from which source software is dwarfed by the "crowd" of those with Internet who could do honest work for honest pay.
+To maximize that potential, we have to think about how software ought to be made _both_ in terms of the free flow of bits _and_ in terms of the free flow of dollars.  Not because money rules everything else around us, but because that's the means to bring maximum programing talent into productive service.  The "crowd" with Internet access and lots of spare time pales in comparison to the mass with Internet access who could do honest work for honest pay.
 
-Those of us willing and able to nurse an ideal of software production aloof from financial concern represent a small, passing aberration.  And no anointed elect lays out the welcome mat for millions of new competitors.  Not even ours.  But welcome or not, the programmers will come.  Software production _will_ bend to global Internet penetration.  That is not the question.
+Those of us willing and able to nurse a guildsman's ideal of software production aloof from financial concern represent a small, passing aberration.  And no anointed elect lays out the welcome mat for millions of competitors.  Welcome or not, the talent will come.  Software production _will_ bend to global Internet penetration.  That is not the question.
 
-The question is whether a prior generation's thinking, largely framed by "open source" agitprop against '90s incumbents, will adapt enough to new now to pass on lasting wisdom, or whether it will harden into a new reactionary dogma the new talent has to push off against.  Will the new generation of programmers stand to learn from open source, or repeat its mistakes?
+The question is whether a prior generation's thinking, largely framed by open source agitprop arrayed against '90s incumbents, will stay humble and flexible enough to adapt to the new now, distill lasting wisdom, and pass it on.  It could very well harden into reactionary dogma instead, in which case the new talent will have to push off against it, likely repeating no few of its mistakes.  This could happen if ideas stay too rigid.  It could happen if individuals fail to cede right of way.
 
-The question ways heavy on me, because I stand between.  I was coding in the late '90s and early 2000s, but work life began in earnest only after [the crash](https://en.wikipedia.org/wiki/2008_financial_crisis).  As a result, I looked up to, studied, and inherited from the dot-com generation, but didn't live their experience, and to take a lot of their points abstractly.  My upbringing was 1998, but my experience was a generation later.  I'm not and never will be one of the "founding generation", but neither am I stuck that way.
+The question ways heavy on me, because I stand between.  I was coding in the late '90s, but my work life began in earnest only after [the crash](https://en.wikipedia.org/wiki/2008_financial_crisis).  As a result, I looked up to, studied, and inherited from the dot-com generation, but I didn't live their experience firsthand, and had to take a lot of their points abstractly.  I'm not and never will be an "open source founding father", but neither am I stuck that way.
 
 What is that good for?
 
