@@ -32,7 +32,7 @@ But also, as we know, exceedingly unlikely to care.  Through the lens of lived i
 
 Of all the projects we use, we contribute to very few.  We fork-adopt fewer still.  We download software direct from where developers put it---GitHub, repositories, and project websites---rather than passing among friends.  We don't like paying just to try something out, but once we're in, we immediately start worrying whether the project will fall out from under us.  The question shifts from the software as such to all the life-support work to keep it usable---doc, bugs, maintenance, security, roadmap---and the other people we hope will do that work for us.
 
-Those odds in mind, practically speaking, users under a proprietary deal like this concede a whole lot of nothing.  Permission for things they won't want to do.  Protections against problems they won't have.  In return, they get real benefits _within_ the folks of probability.  Consider:
+Those odds in mind, practically speaking, users under a proprietary deal like this concede a whole lot of nothing.  Permission for things they won't want to do.  Protections against problems they won't have.  In return, they get real benefits _within_ the folds of probability.  Consider:
 
 - The customer gets source and permission to hack it.  This is way more normal in business-to-business software deals than hackers tend to think.
 
