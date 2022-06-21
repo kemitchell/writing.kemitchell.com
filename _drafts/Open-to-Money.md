@@ -1,14 +1,14 @@
 ---
 title: Open to Money
-description: how to free a few million new programmers without financializing the Hell out of everything
+description: how to boot up a few million new programmers without financializing the Hell out of everything
 tags:
 - Open Source
 - Software Industry
 ---
 
-The open source view of software production today is right where properties-and-rents was when Netscape unleashed Mozilla: in the way of the greatest pent-up wave of programmer potential yet beheld by man.
+The open source view of software production today is right where properties-and-rents dogma stood when Netscape unleashed Mozilla: in the way of the greatest pent-up wave of programmer potential yet beheld by man.
 
-To maximize that potential, we have to think about how software ought to be made _both_ in terms of the free flow of bits _and_ in terms of the free flow of dollars.  Not because money rules everything else around us, but because that's the means to bring maximum programming talent into productive service.  The "crowd" with Internet access and lots of spare time pales in comparison to the mass with Internet access who could do honest work for honest pay.
+To maximize that potential, we have to think about how software ought to be made _both_ in terms of the free flow of bits _and_ in terms of the free flow of dollars.  Not because money rules everything else around us.  Because that's what it will take to bring an order of magnitude more coding talent into service.  The "crowd" with Internet access and lots of spare time pales in comparison to the mass with Internet access who could do honest work for honest pay.
 
 Those of us willing and able to nurse a guildsman's ideal of software production aloof from financial concern represent a small, passing aberration.  And no anointed elect lays out the welcome mat for millions of competitors.  Welcome or not, the talent will come.  Software production _will_ bend to global Internet penetration.  That is not the question.
 
