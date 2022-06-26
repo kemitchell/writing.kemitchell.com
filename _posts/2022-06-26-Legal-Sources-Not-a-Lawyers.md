@@ -1,5 +1,6 @@
 ---
 public: true
+date: 2022-06-26T15:28:47-07:00
 title: Legal Sources for Not-a-Lawyers
 description: learn some law without totally warping your brain
 tags:
