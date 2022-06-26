@@ -58,7 +58,7 @@ Many a project raised money, got smart, but _had_ to stay blockchain, because th
 
 ## The Crime
 
-Technical achievement requires a certain measure of discipline.  But an utter lack thereof is attractive in its own compelling way, for a much broader set of people --- those for whom money, not technical achievement, represents the whole goal.  The worst and scariest aspect of blockchain is obviously the mounting, persistent crime, the money that crime makes, and the speed with which it turns that money back around on the system it at first evaded.
+Technical achievement requires a certain measure of discipline.  But an utter lack thereof is attractive in its own compelling way, for a much broader set of people --- those for whom money, not technical achievement, represents the whole goal.  The worst and scariest aspect of blockchain is obviously the mounting, persistent crime, the money that crime makes, and the speed with which it turns its money back around on the system it initially evaded.
 
 Perhaps this shouldn't have come as any surprise.  A lot of the crime was securities fraud.  It's a series of short mutagenic hops from investing in hype to reinvesting in "community" to running a direct and self-conscious lobby operation, initially on the regulators, then over their heads on the pols.  And meanwhile weak or striving backwater jurisdictions, such as may be found.
 
