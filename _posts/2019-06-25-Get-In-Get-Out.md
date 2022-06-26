@@ -25,7 +25,7 @@ In the future, after you're established, you may decide that showing lots of ado
 
 But in the meantime, you need to be very mindful of your immediate task, how open source will and won't contribute, and the need to defend your time.  Yes, even if you're unemployed.
 
-I say "defend" in all seriousness.  Open source is thoroughly social-media-gamified.  GitHub wants "contribution" like Twitter wants "engagement".  It is designed to get you hooked in, and to keep you coming back, blindly indifferent to any cost-benefit analysis on behalf of your fledgling career.  Whether you're doing your first pull request or declaring issue bankruptcy, the mechanics of the game are the same.
+I say "defend" in all seriousness.  Open source is thoroughly social-media-gamified.  GitHub wants "contribution" like Twitter wants "engagement."  It is designed to get you hooked in, and to keep you coming back, blindly indifferent to any cost-benefit analysis on behalf of your fledgling career.  Whether you're doing your first pull request or declaring issue bankruptcy, the mechanics of the game are the same.
 
 So is the social landscape.  Companies and their workers want free work---code, feature additions, support---from open source maintainers.  Thanks to GitHub, many open source maintainers drown in these requests, and need all the help they can get, including from you, to keep up with them.  Some successful programmers who also happen to do open source don't defend their own time, and actually suffer guilt about their inability to do all the free work others ask for.
 
@@ -35,7 +35,7 @@ If you think it's important to demonstrate particular aptitudes, like Git, GitHu
 
 If you think open source is important to network with other programmers, and you don't have a more personal, full-spectrum way to do that, like local meetups, a hackerspace, or volunteering, then you can try to meet people through open source.  But recognize that merely corresponding online _does not count_.
 
-If you can get free tickets as a newbie, attend conferences.  Don't be afraid to ask.  Then skip all the sessions, and stick to the hallway track.
+If you can get free tickets as a newbie, attend conferences.  Don't be afraid to ask.  Then skip all the sessions.  Stick to the hallway track.
 
 When open source work goes well---you land a pull request, someone makes you a collaborator on a repository---reach out to your collaborator privately, and see if you can't "upgrade" to a phone call.  Introduce yourself, talk shop, mention you're out for work, and ask their advice.
 
