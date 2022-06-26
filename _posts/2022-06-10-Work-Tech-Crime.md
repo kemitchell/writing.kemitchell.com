@@ -40,7 +40,7 @@ I didn't judge my clients.  I knew them too well.  Under the right (wrong) incen
 
 More tragically, as a coder, it gutted me seeing attention, money, and brains evacuated out of promising scene after scene.  Systematically.
 
-Second-wave peer-to-peer.  Privacy-first engineering.  User-friendly cryptography.  The machine put a bounty on any untapped technical cred.  The marketeers hunted it like beaver pelts, far and wide across the hacker Web, trodding into dark thickets as yet uncharted by business.  Many a promising hobby concept went from software to a white paper and back to software, only worse.  Some really cool ideas were more or less strip-mined of jargon, then left bare.
+Second-wave peer-to-peer.  Privacy-first engineering.  User-friendly cryptography.  The machine put a bounty on any untapped technical cred.  The marketeers hunted it like beaver pelts, far and wide across the hacker Web, trodding into dark thickets as yet unmapped by speculative capital.  Many a promising hobby concept went from software to a white paper and back to software, only worse.  Some really cool ideas were more or less stripped of jargon, then left bare, to rot.
 
 In the process, some good coders---hell, even some unsuspecting grad students---did get proper paying gigs, care of promoters with promises to fill.  I happen to really like some coders who got rich on one upswing or another.  But even ignoring the many worthy who didn't, a lot of talent blessed with crypto mana duly went the way of [the HURD](https://en.wikipedia.org/wiki/GNU_Hurd).
 
