@@ -54,7 +54,7 @@ Even the amalgamated, monetized want of thousands of eager speculators cannot wi
 
 Have a budget, but tie installments to milestones.  Ensure there's someone motivated to monitor progress, not a big collective action problem about it.  Scout team first, and expect change on the tech, or even the fundamental business.
 
-Many a project raised money, got smart, but _had_ to stay blockchain, because that, more than delivering practical value, was the social contract.
+Many a project raised money, got smart, but _had_ to stay blockchain, because that, more than delivering practical value, was the social contract.  No blockchain story, no frothy blockchain capital, no heady blockchain hype.
 
 ## The Crime
 
