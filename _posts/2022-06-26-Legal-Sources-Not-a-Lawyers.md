@@ -34,7 +34,7 @@ The [Ninth Circuit civil instructions](https://www.ce9.uscourts.gov/jury-instruc
 
 Most textbooks that law students have to buy are big, expensive, poorly edited faculty bodge-jobs that nobody would pay for otherwise.  $150 tomes in fancy binding, often full of typos and formatting errors.  It's a racket.  Most legal study guides are also pretty terrible and expensive.  The [Examples &amp; Explanations](https://www.aspenpublishing.com/study-aids/examples-explanations) series is the exception.  As a rule, they're affordable, thoughtfully written, and carefully edited.  How this is possible, I know not still.
 
-E&Es are available for all the mandatory first-year-of-law-school courses, plus most of the common electives at second- and third-year level.  If you want an overview of a general area of law, like contracts, intellectual property, or personal tax, this should be your first bet.  And you can probably get buy with a used copy of an old edition in most fields, especially the first-year subjects.
+E&Es are available for all the mandatory first-year-of-law-school courses, plus most of the common electives at second- and third-year level.  If you want an overview of a general area of law, like contracts, intellectual property, or personal tax, this should be your first bet.  And you can probably get by with a used copy of an old edition in most fields, especially the first-year subjects.
 
 I personally try to read or review an E&E each year.  I'm not embarrassed to admit this, or to shelve the books in my office.  I'm embarrassed fundamental review isn't the norm in my profession.
 
