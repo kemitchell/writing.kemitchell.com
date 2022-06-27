@@ -18,7 +18,7 @@ Don't get turned off by the cryptic, sentence-like runs of italicized names, abb
 
 Note that the Reporter usually summarizes only the "opinion of the court"---the written decision that a majority of justices signed onto.  There may also be "concurring" and "dissenting" opinions in the PDF, agreeing or disagreeing with the opinion of the court.  For example, the dissenting opinion of Justice Breyer in _Dobbs_ begins on PDF page 148.
 
-Don't be afraid of the large PDF page counts.  Some opinions run long.  But the Reporter uses generous margins and type, designed for [printing booklets](https://writing.kemitchell.com/2021/01/06/Printing-Booklets) or marking up.  The justices also have a habit of heaping on supporting material at the ends of some opinions, like the two appendices to the opinion of the court in _Dobbs_.  They're rarely worth more than a quick skim on first read.
+Don't be afraid of the large PDF page counts.  Some opinions run long.  But the Reporter uses generous margins and type, designed for [printing booklets](https://writing.kemitchell.com/2021/01/06/Printing-Booklets) or marking up.  The justices also have a habit of heaping on supporting material at the ends of some opinions, like the appendices at the ends of _both_ majority and dissent in _Dobbs_.  They take a lot of pages.  They're rarely worth more than a quick skim.
 
 ## Model Jury Instructions
 
