@@ -26,7 +26,7 @@ When lawsuits go to trial before a jury, the judge ends up giving the jury a big
 
 Do not get too excited.  I wish I could say they went as far as using actual English.  But at least if it's still legalese, it comes in smaller bites.
 
-Here in California, both the federal [Ninth Circuit Court of Appeals](https://www.ce9.uscourts.gov/jury-instructions/node/105) and the [California state courts](https://www.courts.ca.gov/partners/juryinstructions.htm) publish model jury instructions online.  They're organized into criminal-law and civil-law sets, then broken down by subject.  The instructions themselves come with comments that cite to important cases and statutes.
+Here in California, both the federal [Ninth Circuit Court of Appeals](https://www.ce9.uscourts.gov/jury-instructions/node/105) and the [California state courts](https://www.courts.ca.gov/partners/juryinstructions.htm) publish model jury instructions online.  They're organized into criminal-law and civil-law sets, then broken down by subject.  The instructions themselves come with comments that cite important cases and statutes.
 
 The [Ninth Circuit civil instructions](https://www.ce9.uscourts.gov/jury-instructions/sites/default/files/WPD/Civil_Instructions_2022_3_0.pdf) have a whole section on copyright, starting on PDF page 392. The [2022 California civil instructions](https://www.courts.ca.gov/partners/documents/Judicial_Council_of_California_Civil_Jury_Instructions.pdf) have a whole series on contracts, starting on PDF page 153.
 
