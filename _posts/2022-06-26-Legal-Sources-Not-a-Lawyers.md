@@ -24,7 +24,7 @@ Don't be afraid of the large PDF page counts.  Some opinions run long.  But the 
 
 When lawsuits go to trial before a jury, the judge ends up giving the jury a big packet of instructions for how to decide each legal claim in the case.  Because these instructions get used so much, and because screwing them up can require a trial do-over, appeals courts often publish big books of model jury instructions.  In other words, the appeals courts themselves publish summaries of legal rules specifically for non-lawyers to read, understand, and apply.
 
-Do not get too excited.  I wish I could say they were written in actual English.  But at least if there's legalese, there's mercifully less of it.  Small bites.
+Do not get too excited.  I wish I could say they went as far as using actual English.  But at least if it's still legalese, it comes in smaller bites.
 
 Here in California, both the federal [Ninth Circuit Court of Appeals](https://www.ce9.uscourts.gov/jury-instructions/node/105) and the [California state courts](https://www.courts.ca.gov/partners/juryinstructions.htm) publish model jury instructions online.  They're organized into criminal-law and civil-law sets, then broken down by subject.  The instructions themselves come with comments that cite to important cases and statutes.
 
