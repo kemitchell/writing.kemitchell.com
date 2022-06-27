@@ -14,7 +14,7 @@ When non-lawyer folks ask me about reading some law for themselves, four sources
 
 The [US Supreme Court](https://supremecourt.gov) has an in-house publishing department called the "Reporter of Decisions" that adds outline summaries, or "syllabi", to the fronts of all major published court decisions.  For example, the first eight pages of the recent [abortion decision in the _Dobbs_ case](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf) are all syllabus.
 
-Don't get turned off by the cryptic, sentence-like runs of italicized names, abbreviations, and numbers.  These are legal "citations" that reference texts like other court decisions, statutes, regulations, scholarly articles, and so on.  It's perfectly fine to skim the citations when reading for a general sense of what was decided and how those decisions were justified.
+Don't get turned off by the cryptic, sentence-like runs of italicized names, abbreviations, and numbers.  These are legal "citations" that reference texts like other court decisions, statutes, regulations, scholarly articles, and so on.  It's perfectly fine to skim the citations when reading for a general sense of what was decided and how it was justified.
 
 Note that the Reporter usually summarizes only the "opinion of the court"---the written decision that a majority of justices signed onto.  There may also be "concurring" and "dissenting" opinions in the PDF, agreeing or disagreeing with the opinion of the court.  For example, the dissenting opinion of Justice Breyer in _Dobbs_ begins on PDF page 148.
 
