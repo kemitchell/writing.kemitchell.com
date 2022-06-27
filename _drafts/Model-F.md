@@ -5,15 +5,7 @@ tags:
 - Computing
 ---
 
-On May 14, 2021, I paid the absurd sum of $433 United States dollars for a computer keyboard.  Specifically, an IBM Model F reproduction from [modelfkeyboards.com](https://modelfkeyboards.com).  The specs:
-
-- Model F62 ("Kishsaver")
-- Black Case
-- Regular, Unprinted Keys
-- Standard ANSI/ISO Layout
-- Plus Repair Kit
-
-Essentially, a 60% keyboard with [capacitive buckling spring switches](https://patents.google.com/patent/US4118611A/en) running QMK firmware.
+On May 14, 2021, I paid the absurd sum of $433 United States dollars for a computer keyboard.  Specifically, an IBM Model F reproduction from [modelfkeyboards.com](https://modelfkeyboards.com).  Model F62 ("Kishsaver"), black case, regular unprinted keys, standard ANSI/ISO layout, with repair kit.  Essentially, a 60% keyboard with [capacitive buckling spring switches](https://patents.google.com/patent/US4118611A/en) running QMK firmware.
 
 The keyboard shipped nearly a year later, on May 19, 2022.  It arrived at my home in Oakland, California on May 27, 2022.  A long wait.
 
