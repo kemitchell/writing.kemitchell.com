@@ -44,7 +44,7 @@ When it comes to proposed legislation, state and federal, it's often way easier 
 
 At the federal level, that's the [Congressional Research Service](https://www.loc.gov/crsinfo/).  For California, it's the [Senate](https://sfa.senate.ca.gov/whatisthesenateofficeofflooranalysis) and [Assembly](https://clerk.assembly.ca.gov/assembly-floor-analysis) "floor analysis" groups, plus the [Legislative Analyst's Office](https://lao.ca.gov/), that last especially for the budget.
 
-The Congressional Research Service in particular is a really underappreciated resource.  They more or less function as a federal public think tank.  In addition to guides on specific legislative projects, they often publish background pieces summarizing existing legislation under debate or giving broader context on a whole area of policy.  For example, [here's a report on Section 230](https://crsreports.congress.gov/product/pdf/R/R46751) from last year.  And [here's one from December on the US, Russia, and Ukraine](https://crsreports.congress.gov/product/pdf/R/R45008).
+The Congressional Research Service in particular is a really underappreciated resource.  They more or less function as a federal public think tank.  In addition to guides on specific legislative projects, they often publish background pieces summarizing existing legislation under debate or giving broader context on a whole area of policy.  For example, [here's a report on Section 230](https://crsreports.congress.gov/product/pdf/R/R46751) from last year.  And [here's one from December on the US, Ukraine, and Russia](https://crsreports.congress.gov/product/pdf/R/R45008).
 
 ---
 
