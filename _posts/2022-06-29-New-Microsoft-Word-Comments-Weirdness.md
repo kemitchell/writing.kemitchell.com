@@ -1,4 +1,5 @@
 ---
+date: 2022-06-29T16:33:00-07:00
 title: New Microsoft Word Comments Weirdness
 description: a gotcha for legal power users
 tags:
