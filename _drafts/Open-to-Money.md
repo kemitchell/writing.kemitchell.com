@@ -50,6 +50,34 @@ This view is just one symptom of living the future in the early 2000s and fallin
 
 <!-- Broad acceptance of permissive licensing made scale differences irrelevant.  Big companies could give and take from sole hackers.  The same hasn't happened for paid transactions. -->
 
-<!-- TODO: return to old "honest pay for honest work" versus financialization, which introduces money with or (usually) without anything useful being done -->
+<!-- return to old "honest pay for honest work" versus financialization, which introduces money with or (usually) without anything useful being done -->
 
-<!-- TODO: No slippery slope to the extreme, be it proprietary licensing of financialization -->
+<!-- No slippery slope to the extreme, be it proprietary licensing of financialization -->
+
+<!-- not restricting the new online elite v. empowering the online masses (who are growing) -->
+
+<!-- fundamentals now: mass Internet penetration -->
+
+<!-- fundamentals then: massive drop in price of digital communication and distribution -->
+
+<!-- Open source could leave money out as solved because first-mover advantage blessed everyone. -->
+
+<!-- Gates' letter to hobbyists: different POV, different circumstances now -->
+
+<!-- open source "theory" a rationalization and coping strategy for rapid change -->
+
+<!-- Lesson: Extreme positions have side effects. -->
+
+<!-- Lesson: Don't undervalue intrinsic motivation. -->
+
+<!-- Lesson: A big enough crowd has one or two anoraks. -->
+
+<!-- Lesson: Activists win by outcompeting their opponents. -->
+
+<!-- Lesson: You can't fight the money forever. -->
+
+<!-- Lesson: Don't surrender to the money. -->
+
+<!-- Lesson: Beware of lotteries. -->
+
+<!-- Lesson: Don't confuse theory and fundamentals. -->
