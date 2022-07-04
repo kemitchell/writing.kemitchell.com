@@ -82,4 +82,6 @@ This view is just one symptom of living the future in the early 2000s and fallin
 
 <!-- Lesson: Don't confuse theory and fundamentals. -->
 
+<!-- Lesson: Look out when thinks get cheap fast. -->
+
 <!-- Lesson: Beware exceptionalism. Study the rules. -->
