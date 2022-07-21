@@ -40,11 +40,11 @@ I highly recommend a read through these prepared remarks of [Robert H. Jackson](
 >
 > Sharp critics have called us "quasi-supernatural medicine men" and "political theologians".  Ultra-respectable magazines are carrying articles describing lawyers as a privileged, parasitic class.  One magazine of impeccable standing announces forthcoming articles entitled "Should the Law Profession be Socialized?"  A more temperate critic has well said:
 >
-> > "The principle conclusion......is that a very large part of what is called social injustice exists because the legal profession has not shouldered the responsibilities that go with the privilege it enjoys.  In theory it is charged with the task of seeing that all men obtain justice, and not only those men who have the price to pay for it.  This theory has been largely observed in the breach,....  Were existing legal-aid societies to be multiplied a hundred fold they would not come near to meeting the existing need of one-half, more or less, of the citizenry for the means to obtain their legal rights."
+> > The principle conclusion......is that a very large part of what is called social injustice exists because the legal profession has not shouldered the responsibilities that go with the privilege it enjoys.  In theory it is charged with the task of seeing that all men obtain justice, and not only those men who have the price to pay for it.  This theory has been largely observed in the breach,....  Were existing legal-aid societies to be multiplied a hundred fold they would not come near to meeting the existing need of one-half, more or less, of the citizenry for the means to obtain their legal rights.
 >
 > Or, as Professor Robinson of Yale described it:
 >
-> > "Actually, of course, the courts are available in proportion to one's ability to pay for their use, but legal theory has little to say about this stark reality.  The lawmen know that the courts are accessible only to those able to bear the expense of litigation, but legal theory treats this fact as an unfortunate accident rather than a fundamental characteristic of the legal institution."
+> > Actually, of course, the courts are available in proportion to one's ability to pay for their use, but legal theory has little to say about this stark reality.  The lawmen know that the courts are accessible only to those able to bear the expense of litigation, but legal theory treats this fact as an unfortunate accident rather than a fundamental characteristic of the legal institution.
 >
 > Our danger lies, not so much in the fact that there is stormy weather ahead, as in the fact that the largest and most influential part of our crew refuses to heed the storm signals.
 >
