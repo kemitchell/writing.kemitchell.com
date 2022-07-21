@@ -1,4 +1,5 @@
 ---
+date: 2022-07-20T21:06:05-07:00
 title: Briefless Barristers and Lawyerless Clients
 description: future Supreme Court justice to young lawyers in 1939
 tags:
