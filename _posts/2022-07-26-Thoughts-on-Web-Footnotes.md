@@ -10,7 +10,7 @@ I avoid footnotes on this blog because I don't like them as a reader.  I know di
 
 Footnotes are bad enough in law review articles, where the convention is notes at bottom of page.  They're worse in books, with flipping to the back, or worse still, finding the end of the chapter.  On the web, there's a bit less hassle with links down and back, but the and herk and jerk of the interruption remains.
 
-Consistency's obviously been no impediment here, because I hyperlink bits of post text all the time.  Those links have precisely the same effect as a footnote---invitation, without explanation, to _somewhere_, presumably with related information.  I suspect my game here is that links are "what the Web wants" and don't involve bodging a print practice into hypertext.  The facade of spiff and _correctness_ spares me the awkward rebuke of facing my own hypocrisy.
+Consistency's obviously been no impediment here, because I hyperlink bits of post text all the time.  Those links have precisely the same effect as a footnote---invitation, without explanation, to _somewhere_, presumably with related information.  I suspect my game here is that links are "what the Web wants" and don't involve bodging a print practice into hypertext.  The facade of _correctness_ spares me awkwardly facing my own hypocrisy.
 
 There is nothing stopping me from linking bits of text to notes at the end of a post, without giving away that they're footnotes.  I could even give those headings, so folks who reach the end without clicking can skim and dive in at the end if the like.  Point is, if you want to know more and I'm able to offer it, there you go.  You never know quite what you'll get, clicking a link.  If it's more page from me, it's no crisis.
 
