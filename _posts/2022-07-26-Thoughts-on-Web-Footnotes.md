@@ -1,4 +1,5 @@
 ---
+date: 2022-07-26T11:31:16-07:00
 title: Thoughts on Web Footnotes
 description: links, notes, asides, details, and parentheticals
 tags:
