@@ -17,4 +17,4 @@ There is nothing stopping me from linking bits of text to notes at the end of a 
 
 All this comes to mind because a number of Russian blogs I've been reading, like [Агентство](https://www.agents.media/) for instance, moved onto [a platform](https://setka.io/) with expandable inline notes.  That got me looking into whether the [HTML5 `<details>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details) can be used inline with browsers' native open-close UI, which I surmised it shouldn't.  There may be some benefit to giving people their extra text inline when they click for it, like an opt-in parenthetical.  But personally, I'm not terribly used to that yet, and tend to think most folks would find a backlink perfectly tractable.  Or even just prefer pressing Back.
 
-Anyone worried my posts might be about to get _longer_ can rest assured.
+Anyone worried my posts might be about to get _longer_ can rest easy.
