@@ -34,7 +34,7 @@ _Oracle v. Google_ and follow-on cases like _Pyrotechnics Management v. XFX_, a 
 
 My mental map has two more well-worn paths from "open source and trademark", both common hacker misconceptions I run into a lot:
 
-First, trademark rights differ from copyrights and patents in that their owners have to maintain some control over their use.  Otherwise, they risk breaking the association between them and their trademarks.
+First, trademark rights differ from copyrights and patents in that their owners have to maintain some control over their use.  Otherwise, they risk breaking the link between their business and the trademarks they use.
 
 The public policy behind trademarks protects associations between names, logos, and other marks that tell people who, or what company, is responsible for products and services.  They guard the vocabulary of brands and logos we're all exposed to in the market, the language of commercial reputation.  Thus, if you buy a computer mouse from Logitech, you're supposed to know the Logitech _company_'s responsible for it.  If it's a good product, their reputation rises in your eyes.  If it breaks after a week, their reputation falls.  You bring that reputation with you the next time you shop for a mouse.
 
