@@ -261,6 +261,14 @@ ol.pages
   a[href]
     &:after
       content: '➲'
+    &.note
+      &:after
+        content: ' ⮋'
+    &.back
+      &:before
+        content: '⮉ '
+      &:after
+        content: none
   hr
     border: none
     text-align: center
