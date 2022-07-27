@@ -1,5 +1,6 @@
 ---
 public: true
+date: 2022-07-27T12:08:38-07:00
 title: Trademark Undefined Behavior
 description: the awkward hole in free and open IP
 tags:
