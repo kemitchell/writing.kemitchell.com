@@ -1,0 +1,52 @@
+---
+title: Putting Software in the Public Domain
+tags:
+- Software
+- Software Licensing
+- Public Domain
+- Blue Oak Council
+---
+
+Perhaps once or twice a year, someone asks me about "putting software into the public domain".  This is a thing some programmers want to do.  But an increasing number of them have read into, or heard, concerns about [The Unlicense](https://spdx.org/licenses/Unlicense.html), [CC0](https://creativecommons.org/publicdomain/zero/1.0/), and other forms that purport to get it done.  Concerns about implementation.  Concerns about patents.
+
+Most of these programmers would better use the [Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0).  That's the state of the art for a maximally permissive "give it away" software legal tool.  And it's a license.  Nowhere in its text will you find "public domain".
+
+The "public domain" became the name of a cause thanks to activists like Larry Lessig and James Boyle.  But in my view, in the context of US law, it's more of a policy concept than a legal mechanism, a way of describing a potential state of copyright, rather than a method of it to be called or a flag on it to be set.  Framing end goals as "put it in the public domain" tends to mire people in generalizations and complexities they really don't need.  Framing as "let people do what they want with it" cuts closer to practical realities, without overstress on implementation detail.
+
+The public domain _is_ a legal idea, the great well of all things not covered by intellectual property.  For example, patents and works on which patents or copyrights have expired.  Perhaps also works of the US government [generally not covered by copyright in the first place](https://uscode.house.gov/view.xhtml?req=(title:17%20section:105%20edition:prelim)).  You will find the phrase "public domain" in US court opinions, used broadly, in this sense.  And you will find copyright "abandonment" used much as activists mean "dedication to the public domain".
+
+But you're not going to find any well defined mechanism or structured process for putting things in the public domain.  Not in the Copyright Act.  Not in court decisions.
+
+I'm very familiar with [Daniel Bernstein's public domain page](https://cr.yp.to/publicdomain.html).  It is one of my least favorite places on the Web, featuring a cryptographer I deeply respect, whose software I use, bad mouthing a lawyer I deeply respect, whose [writing](https://www.amazon.com/Open-Source-Licensing-Software-Intellectual/dp/0131487876) and [license](https://opensource.org/licenses/OSL-3.0) [work](https://opensource.org/licenses/AFL-3.0) were formative.  Yet another sign that the message of the medium of the mailing list is that the best of us are capable of being terrible, given a long enough thread.
+
+The full paragraph from _MicroStar v. FormGen_ that DJB cites reads:
+
+> In case FormGen didn't license away its rights, Micro Star argues that, by providing the Build Editor and encouraging players to create their own levels, FormGen abandoned all rights to its protected expression.  <mark>It is well settled that rights gained under the Copyright Act may be abandoned.  But abandonment of a right must be manifested by some overt act indicating an intention to abandon that right.  _See_ _Hampton v. Paramount Pictures Corp._, 279 F.2d 100, 104 (9th Cir.1960).</mark> [cited by DJB ---KEM]  Given that it overtly encouraged players to make and freely distribute new levels, FormGen may indeed have abandoned its exclusive right to do the same.  But abandoning some rights is not the same as abandoning all rights, and <mark>FormGen never overtly abandoned its rights to profit commercially from new levels</mark>.  Indeed, FormGen warned players not to distribute the levels commercially and has actively enforced that limitation by bringing suits such as this one.
+
+This opinion is emblematic.  It cites the rule that abandonment _can_ happen, but doesn't actually find anything relevant was abandoned.  The same is true of the case it cites, _Hampton v. Paramount Pictures_:
+
+> Rights gained under the Copyright Law, 17 U.S.C.A. § 1 et seq., may be abandoned.  Abandonment of such rights, however, must be manifested by some overt act indicative of a purpose to surrender the rights and allow the public to copy.  _National Comics Publications v. Fawcett Publications_, 2 Cir., 191 F.2d 594, 598.
+>
+> Evidence of such an overt act is here totally lacking.  There was at most lack of action.
+
+And of _National Comics_, the decision that decision cites:
+
+> We do not doubt that the "author or proprietor of any work made the subject of copyright" by the Copyright Law may "abandon" his literary property in the "work" before he has published it, or his copyright in it after he has done so; but he must "abandon" it by some overt act which manifests his purpose to surrender his rights in the "work," and to allow the public to copy it.  There was no evidence in this case of any such an intent ...
+
+Indeed, federal courts have acknowledged that copyrights can be abandoned.  And we could call the result "dedication to the public domain" if we like.  Moreover, I highly doubt that DJB will be suing anyone for using his code, or will succeed if he loses his mind and tries.  We're safe.
+
+But the courts have been consistently unhelpful telling us anything about specific kinds of "overt acts" that work, or how they'll be interpreted.  If anything, as in _MicroStar_, they hint at the potential for perilous uncertainty around the key question of _what_ is abandoned---both in terms of work and in terms of the kinds of legal rights.  This isn't a paved path.
+
+Conversely, it's easy to find detailed decision about assignment---making someone else the copyright owner.  And it's even easier to find guidance on licensing---giving folks permission to do what copyright would otherwise prohibit.
+
+Since "dedication to the public domain" is a head-scratcher, while licensing is familiar, paved path, folks who want to make their software available without any of the usual copyright restrictions are usually better off _licensing_ their work on very broad, generous terms.  Here's the Blue Oak Model License's copyright license grant, for example:
+
+Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
+
+As far as copyright goes, I think that's the point in brief.
+
+You mentioned you're not interested in "attribution"---requiring people to keep copies of your license terms and "Copyright (c) Such-and-Such" lines with copies of your software.  The Blue Oak Model _doesn't_ require copies of copyright lines, but _does_ require copies of license terms.  The concern there was 100% legal.  Even folks who want to give their software away with all permissions granted still want the protection of the disclaimer that says they won't be held legally responsible if something goes wrong with the code they gave away for nil.  To be frank, the legal mechanics of how those disclaimers work don't seem terribly clear to me, or to any other lawyer-colleagues I've spoken to.  But the members of Blue Oak felt it would be very risky trying to enforce a disclaimer against someone who'd got a copy of some software but never got a copy of any disclaimer.
+
+The alternative to a very permissive license is a true self-styled "public domain dedication", like CC0.  But as you've doubtless noticed, Creative Commons is onto the uncertainty around the mechanism, too.  CC0 is called "public domain dedication", but is actually one big `IF we can dedicate things to the public domain THEN do that ELSE here's a big, long permissive license`.  The "public domain" CC's concerned about is very much the _copyright_ public domain, hence the no-patent language.
+
+A third approach is using a common permissive software license that _does_ require attribution, like MIT, BSD, or Apache 2.0, but then adding a note to your license file or header comments "waiving"---saying you won't enforce---the attribution requirement.  But in my experience, that does more to confuse than to help those really diligent about license compliance.  Exceptions, even generous ones, aren't always welcome, especially when there are lots of deps to deal with, as in many Rust/Cargo projects.  It also raises the question of enforcing disclaimers, discussed above.
