@@ -9,25 +9,29 @@ tags:
 - Blue Oak Council
 ---
 
-Perhaps once or twice a year, someone asks me about "putting software into the public domain".  This is a thing some programmers want to do.  But an increasing number of them have read into, or heard about, concerns over [The Unlicense](https://spdx.org/licenses/Unlicense.html), [CC0](https://creativecommons.org/publicdomain/zero/1.0/), and other forms that purport to get that job done.  Concerns about legal quirks.  Concerns about patents.
+Perhaps once or twice a year, someone asks me about "putting software into the public domain".  This is a thing some programmers want to do.  But an increasing number of them have read into, or heard about, concerns over [The Unlicense](https://spdx.org/licenses/Unlicense.html), [CC0](https://creativecommons.org/publicdomain/zero/1.0/), and other forms that purport to do the job.  Concerns about legal quirks.  Concerns about patents.
 
-Most of these programmers would better use the [Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0).  That's the state of the art for a maximally permissive "give it away" legal tool.  But it is a license.  Nowhere in its short text will you find "public domain".
+Most of these programmers would better use the [Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0).  That's the state of the art for a maximally permissive legal tool to give software away.  But it is a license.  Nowhere in its short text will you find the phrase "public domain".
 
-"Public domain" became a thing to look for, as I see it, thanks to activists like Larry Lessig and James Boyle.  But at least here in the US, it remains more policy concept than legal mechanism, a way of describing a state of legal reality more than a method you can call or bit you can flip.  As a result, framing their end goal as "put it in the public domain" can mire people in generalizations, complexities, and rhetoric they really don't need.  Framing as "let people do what they want" usually gets closer to the effect people want.
+"Public domain" became a thing, as I see it, thanks to activists like [James Boyle](https://en.wikipedia.org/wiki/James_Boyle_(academic)) and [Larry Lessig](https://en.wikipedia.org/wiki/Lawrence_Lessig).  But at least here in the US, it remains more policy concept than legal mechanism, more a way of describing legal state than a particular method you can call or bit you can flip on it.  As a result, framing end goal as "put it in the public domain" can mire people in generalizations, complexities, and rhetoric they really don't need.  Framing as "let people do what they want" refocuses intended effect.
 
-That said, the public domain _is_ a legal idea: the great and growing well of works, ideas, symbols, and designs not encumbered by intellectual property claims.  Mostly inventions and works on which patents and copyrights have expired.  And you will find the phrase "public domain" in US court opinions used broadly in this sense.  You will find discussion of copyright "abandonment" used much as activists mean "dedication to the public domain".
+That said, the public domain _is_ a legal idea: the great and growing well of works, ideas, symbols, and designs not encumbered by intellectual property claims.  In practice, mostly inventions and works on which patents and copyrights have expired.
 
-But you won't find any well structured process, nor much guidance on how to invoke it, or how to interpret words that seem to want to.  Not in the Copyright Act.  Not in the court decisions.
+You _will_ find the phrase "public domain" in US court opinions used broadly in this sense.  And you will find discussion of copyright "abandonment" used much as activists mean "dedication to the public domain".  But you won't find any well structured process.  You won't find clear guidance on how to invoke it, or how to interpret words that try to.  Not in the Copyright Act.  Not in the court decisions.
 
-Some folks may have read [Daniel Bernstein's public domain page](https://cr.yp.to/publicdomain.html).  It is one of my least favorite places on the Web, featuring a cryptographer I deeply respect, whose software I use, bad-mouthing a lawyer I deeply respect, whose [writing](https://www.amazon.com/Open-Source-Licensing-Software-Intellectual/dp/0131487876) and [license](https://opensource.org/licenses/OSL-3.0) [work](https://opensource.org/licenses/AFL-3.0) were formative.  Yet another sign that the message of the medium of the mailing list is that even the best of us can tie each other in angry knots, given a long enough thread.  For those who haven't read it, DJB's gist is that dedication to the public domain is indeed a thing under US law, and it doesn't take but a few works in a software repo to do it.
+This typically legal combination of general doctrinal clarity and utter practical uncertainty is ideal for frustrating programmers of deterministic logic machines.
 
-Here's the full paragraph from _MicroStar v. FormGen_ that DJB quotes in part:
+Some folks may have read [Daniel Bernstein's public domain page](https://cr.yp.to/publicdomain.html).  It is one of my least favorite places on the Web, featuring a cryptographer I deeply respect, whose software I admire, bad-mouthing a lawyer I deeply respect, whose [writing](https://www.amazon.com/Open-Source-Licensing-Software-Intellectual/dp/0131487876) and [license](https://opensource.org/licenses/OSL-3.0) [work](https://opensource.org/licenses/AFL-3.0) were formative.  Yet another sign that the message of the medium of the mailing list is that even the best of us can tie each other in angry knots, given a long enough thread.
+
+For those who haven't read it, DJB's gist is that dedication to the public domain is indeed a thing under US law.  And that it doesn't take but a few works in a software repo to do it.
+
+Here's the full paragraph from _MicroStar v. FormGen_ that DJB quotes from:
 
 > In case FormGen didn't license away its rights, Micro Star argues that, by providing the Build Editor and encouraging players to create their own levels, FormGen abandoned all rights to its protected expression.  <mark>It is well settled that rights gained under the Copyright Act may be abandoned.  But abandonment of a right must be manifested by some overt act indicating an intention to abandon that right.  _See_ _Hampton v. Paramount Pictures Corp._, 279 F.2d 100, 104 (9th Cir.1960).</mark> [cited by DJB ---KEM]  Given that it overtly encouraged players to make and freely distribute new levels, FormGen may indeed have abandoned its exclusive right to do the same.  But abandoning some rights is not the same as abandoning all rights, and <mark>FormGen never overtly abandoned its rights to profit commercially from new levels</mark>.  Indeed, FormGen warned players not to distribute the levels commercially and has actively enforced that limitation by bringing suits such as this one.
 
-This opinion is emblematic.  It recites the rule that copyrights _can_ be abandoned, but doesn't actually find that the relevant copyrights were.  Same story in the case it cites, _Hampton v. Paramount Pictures_:
+Alas, this opinion's emblematic.  It recites the general rule that copyrights _can_ be abandoned, but doesn't actually find that any relevant copyrights were.  Same story in the case it cites, _Hampton v. Paramount Pictures_:
 
-> Rights gained under the Copyright Law, 17 U.S.C.A. § 1 et seq., may be abandoned.  Abandonment of such rights, however, must be manifested by some overt act indicative of a purpose to surrender the rights and allow the public to copy.  _National Comics Publications v. Fawcett Publications_, 2 Cir., 191 F.2d 594, 598.
+> Rights gained under the Copyright Law...may be abandoned.  Abandonment of such rights, however, must be manifested by some overt act indicative of a purpose to surrender the rights and allow the public to copy.  _National Comics Publications v. Fawcett Publications_, 2 Cir., 191 F.2d 594, 598.
 >
 > <mark>Evidence of such an overt act is here totally lacking.</mark>  There was at most lack of action.
 
@@ -35,15 +39,15 @@ And of _National Comics_, the decision _that_ decision cites:
 
 > We do not doubt that the "author or proprietor of any work made the subject of copyright" by the Copyright Law may "abandon" his literary property in the "work" before he has published it, or his copyright in it after he has done so; but he must "abandon" it by some overt act which manifests his purpose to surrender his rights in the "work," and to allow the public to copy it.  <mark>There was no evidence in this case of any such an intent...</mark>
 
-Indeed, federal courts have acknowledged, over and over again, that copyrights can be abandoned.  And we could call that "dedication to the public domain" if we like.  I highly doubt that DJB will be suing anyone for using his code, or would succeed if he went nuts and tried, in part due to all he's said and written about it.  We're safe there.  And, of course, grateful.
+Indeed, federal courts have acknowledged that copyrights can be abandoned.  We could call that "dedication to the public domain" if we like.  And I highly doubt that DJB will be suing anyone for using his code, or would succeed if he went nuts and tried, in part due to all he's said and written about it.  We're safe there.  And, of course, grateful.
 
 But the courts have been consistently unhelpful telling us what "overt acts" do the abandonment trick, or, more crucially, how their scope will be interpreted.  Rather, they've come out and admitted straight-up that the doctrine's full of question marks, deploying the usual legalisms for *waves hands in the air*.
 
-Here's from the District of Nevada in _Rimini Street v. Oracle_, <abbr title="Federal Supplement, Third Series, Volume 473, Page 1158">473 F.Supp.3d 1158</abbr>, fresh from 2020:
+Here's from the District of Nevada in _Rimini Street v. Oracle_, <abbr title="Federal Supplement, Third Series, Volume 473, Page 1158">473 F.Supp.3d 1158</abbr>, relatively fresh from 2020:
 
 > The _Marya_ Court [the Central District of California] noted that "what does or does not constitute abandonment appears to be a <mark>highly fact-specific inquiry</mark>" because <mark>there is no clear rule as to what constitutes abandonment</mark>. [_Marya v. Warner/Chappell Music_, ]131 F.Supp.3d [975] at 992.
 
-Indeed, _MicroStar_, our touchstone appeals-court-level opinion, hints at the potential for perilous uncertainty around the key question of what is abandoned.  It's been cited for the proposition that copyright owners can abandon some rights but not others.  In other words, to muddy things.
+Indeed, _MicroStar_, our touchstone appeals-court-level opinion, hints at the potential for perilous uncertainty around the key question of what is abandoned.  It's been cited specifically for the proposition that copyright owners can abandon some rights but not others.  In other words, to muddy things.
 
 The practical upshot here is that copyright abandonment isn't a well paved path.  It's pleasing to the coder-mind, including mine, to try and pin it down deterministically:
 
@@ -52,15 +56,19 @@ The practical upshot here is that copyright abandonment isn't a well paved path.
 - I have done an overt act.
 - Therefore, I have dedicated my work to the public domain.
 
-But that is ignoring the reality that in law, a clear if-then only shifts the fight to the inputs.  What's an overt act?  What does it apply to?  What evidence from context---all those pesky "facts" potentially driving the "inquiry"---will push those questions one way or the other?  When an appeals court says "highly fact-specific inquiry", what lower courts hear is "it really depends on all the context, so feel it out".
+But that is ignoring the reality that in law, a clear if-then only shifts the fight to inputs and outputs.  What's an overt act?  Which copyrights are abandoned?  What evidence from context---all those pesky "facts" potentially driving the "inquiry"---will push those questions one way or the other?
 
-On top of that, we have to remember that public policy pulls against us here.  The point of the Copyright Act---give authors exclusivity---plus the general legal default---abhorrence of "forfeitures"---will haunt us in open-ended "fact-specific inquiries".  We'd probably have seen those almost cliche legal principles cited in the decisions quoted above, had any of them had actually held a copyright on its decision path abandoned.
+When an appeals court writes "highly fact-specific inquiry", what lower courts see is "it depends on all the context, so feel it out".  The appeals court could have announced an `IF`-`THEN` rule instead.  It didn't.  It could have given structure to "feeling it out" by listing factors to weigh, like we have [for fair use](https://en.wikipedia.org/wiki/Fair_use#U.S._fair_use_factors).  It didn't do that, either.  Because it didn't have to.  In the cases quoted above, even the most basic question---whether the copyright holder did literally anything at all to show abandonment of the specific copyrights in dispute---was enough to answer "no" and find no abandonment.  Like a disciplined programmer [growing software driven by tests](http://www.growing-object-oriented-software.com/), they've built a rule only as complex as needed to decide cases seen so far.
+
+On top of that, looking forward, we have to remember that public policy will pull against us here.  The point of the Copyright Act---give authors exclusivity---plus the general legal default---abhorrence of "forfeitures"---will haunt us in open-ended "fact-specific inquiries", and in how future courts flesh out the rule.  We'd probably have seen these cliche legal principles cited already, in the decisions quoted above, had any of them had actually held a copyright on its decision path abandoned.  We may very well see them cited one day to set rules that require more skepticism, and therefore more specificity or formality, about abandoning copyrights than about licensing them.
 
 Where does that leave us?
 
-In terms of recommending a practical and especially standardizable solution---something reliable and repeatable enough that we can tell people to do it by rote, like copying a form license into `LICENSE`---it's hard to get behind sticking "Public Domain" where the copyright notice would go.  It's hard to get behind short, single-sentence statements like "I hereby dedicate this software to the public domain".  It's hard to get behind any terms that travel only the legal pig trail of abandonment.  Because even if we know abandonment's an outcome we can get, the courts are telling us the path from here to there is a whole lot of undefined behavior.  So far.
+In terms of recommending a practical and especially standardizable solution---something reliable and repeatable enough that we can tell people to do it by rote, like copying a form license into `LICENSE`---it's hard to get behind sticking "Public Domain" where the copyright notice would go.  It's hard to get behind short, single-sentence statements like "I hereby dedicate this software to the public domain".  It's hard to get behind any legal route that only traverses the legal pig trail of abandonment.  Because even if we know abandonment's an outcome we can get, in theory, the courts are telling us the path from here to there is a whole lot of undefined behavior.  So far.
 
-Drafters trying to deliver public domain dedications have had to confront this reality.  [The Unlicense](https://spdx.org/licenses/Unlicense) is a loose permissive license with attribution ripped out and two paragraphs tacked in:
+Drafters trying to deliver quality public domain dedications have confronted this reality.  We can see it directly in their terms.
+
+[The Unlicense](https://spdx.org/licenses/Unlicense) is a loose permissive license with attribution ripped out and two paragraphs tacked in:
 
 > This is free and unencumbered software released into the public domain.
 
@@ -70,13 +78,13 @@ Then, lieu of just "I hereby dedicate....":
 
 Note that this bit is conditional.  `IF` the dedication is being read in a jurisdiction where such a thing works, `THEN` it's dedicated.  `ELSE` it falls back on the remaining terms, which make a license.
 
-Insofar as the dedication achieves the same practical result as the license---people can do what they like with the software---the dedication's no more than a less reliable redundancy.  It's there for the sake of saying "public domain".
+Insofar as the dedication achieves the same practical result as the license---people can do what they like with the software---the dedication's no more than a dubious redundancy.  It's there for the sake of saying "public domain".  We have one method, licensing, that's reliable, and one method for the same thing, dedication, that's not.  We're calling the unreliable method, expecting it might throw, and when it does, calling the reliable one.
 
-Same for [Creative Commons' CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode).  It's called a "public domain dedication", but it's actually another big `IF` we can do that, `THEN` do it, `ELSE` here's a license.  The bulk shows.  Its preamble is almost as long as the whole Blue Oak Model License.  Its waiver is longer than Unlicense's.  Its license terms are longer than Blue Oak again.
+Same for [Creative Commons' CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode).  It's called a "public domain dedication", but it's actually another big `IF` we can do that, `ELSE` here's a license.  The bulk shows.  Its preamble is almost as long as the whole Blue Oak Model License.  Its waiver is longer than Unlicense's.  Its license terms are longer than Blue Oak again.
 
-It all calls to mind the car culture here in Oakland.  You'll meet a lot of guys with an old American muscle car in the garage, a cool but temperamental ride for the weekends, parked where it can stay shiny.  That's "dedication to the public domain".  But the same guy, as often as not, parks a reliable, later-model, A-to-B kind of car in the driveway out front.  Because more often than not, he just needs to get where he's going when he needs to be there.  That's the license.
+I'm reminded of the car nuts here in Oakland.  You'll meet a lot of guys with an shiny old American muscle car in the garage, a flashy but temperamental ride for the weekends, when breaking down's no big deal.  That's "dedication to the public domain".  But the same guy, as often as not, parks a later-model, A-to-B-mobile in the driveway.  Because come Monday, and more often than not, he just needs to get where he's going when he needs to be there.  That's the license.
 
-Unlicense and CC0 fall back on software licensing because we've comparative mountains of guidance on it and confidence in it.  Plus the benefits of pervasive familiarity among users, even lumbering corporate ones, who are all used to receiving software license grants from `LICENSE` files.  It's a people system, not fully rationalized.  That comes through for projects like SQLite, a "public domain" project that I suspect makes most of its money [on licenses](https://www.sqlite.org/purchase/license) from companies that just need license-shaped documents to plug license-shaped release-process holes.
+Unlicense and CC0 fall back on software licensing because we've comparative mountains of guidance on it.  Plus the benefits of pervasive user familiarity, even among lumbering corporate users.  They're all used to getting software license grants from `LICENSE` files.  Indeed, it's a people system, not fully rationalized.  That comes through for projects like SQLite, a "public domain" project that I suspect makes most of its money [on licenses](https://www.sqlite.org/purchase/license) from companies that just need license-shaped documents to plug license-shaped release-process holes.
 
 Returning to how we state our goals---in terms of what we let people do, rather than the abstract cause that advances---here's the Blue Oak Model's License's copyright language:
 
@@ -92,9 +100,7 @@ There goes patent. With copyright, the combined effect is much the same as a bro
 
 Note that Unlicense's and CC0's license parts are _not_ equivalent here.
 
-Unlicense inherits MIT's mistake of at best implying, never saying, the word "patent".  CC0's fallback license does say "patent", but specifically to say "no...patent rights...are waived, abandoned, surrendered, licensed or otherwise affected by this document".  In other words, no patent license.
-
-Creative Commons, like its founders, sees "public domain" first and foremost in terms of copyright.  Its mission has long scoped software out, as free software's thing.  Red Hat just [delisted CC0 as a good-go-green license on account of this](https://lwn.net/ml/fedora-legal/CAC1cPGw1xScGAXo-0NRs92zFB7ptRxTt=oCYi0BxfZDfAgUtYQ@mail.gmail.com/).
+Unlicense inherits MIT's mistake of at best implying, never saying, the word "patent".  CC0's fallback license does say "patent", but specifically to say "no...patent rights...are waived, abandoned, surrendered, licensed or otherwise affected by this document".  In other words, to say there _isn't_ any patent license.  Because Creative Commons, like its founders, sees "public domain" first and foremost in terms of copyright.  Its mission has long scoped software out, as free software's thing.  End result, Red Hat just [delisted CC0 as a good-go-green license for software](https://lwn.net/ml/fedora-legal/CAC1cPGw1xScGAXo-0NRs92zFB7ptRxTt=oCYi0BxfZDfAgUtYQ@mail.gmail.com/).
 
 The remaining wrinkle is "attribution"---requirements to keep copyright notices and license terms running with copies of the software.  These are common to all popular permissive licenses.  But they also produce a chore that public domain advocates dislike and would rather not impose.
 
