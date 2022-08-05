@@ -1,4 +1,5 @@
 ---
+date: 2022-08-05T10:58:45-07:00
 title: Putting Software in the Public Domain
 description: if you want "waive" or "dedicate", you should probably just "license"
 brief: People who want to dedicate software to the public domain should really consider the Blue Oak Model License.
