@@ -24,7 +24,7 @@ This typically legal combination of general doctrinal clarity and utter practica
 
 Some folks may have read [Daniel Bernstein's public domain page](https://cr.yp.to/publicdomain.html).  It is one of my least favorite places on the Web, featuring a cryptographer I deeply respect, whose software I admire, bad-mouthing a lawyer I deeply respect, whose [writing](https://www.amazon.com/Open-Source-Licensing-Software-Intellectual/dp/0131487876) and [license](https://opensource.org/licenses/OSL-3.0) [work](https://opensource.org/licenses/AFL-3.0) were formative.  Yet another sign that the message of the medium of the mailing list is that even the best of us can tie each other in angry knots, given a long enough thread.
 
-For those who haven't read it, DJB's gist is that dedication to the public domain is indeed a thing under US law.  And that it doesn't take but a few works in a software repo to do it.
+For those who haven't read it, DJB's gist is that dedication to the public domain is indeed a thing under US law.  And that it doesn't take but a few short words in a software repo to do it.
 
 Here's the full paragraph from _MicroStar v. FormGen_ that DJB quotes from:
 
