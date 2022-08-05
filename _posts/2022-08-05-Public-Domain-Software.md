@@ -52,7 +52,7 @@ Indeed, _MicroStar_, our touchstone appeals-court-level opinion, hints at the po
 
 The practical upshot here is that copyright abandonment isn't a well paved path.  It's pleasing to the coder-mind, including mine, to try and pin it down deterministically:
 
-- `IF` over act `THEN` copyright abandoned.
+- `IF` overt act `THEN` copyright abandoned.
 - `IF` copyright abandoned `THEN` work dedicated to the public domain.
 - I have done an overt act.
 - Therefore, I have dedicated my work to the public domain.
