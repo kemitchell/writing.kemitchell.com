@@ -79,7 +79,7 @@ Then, instead of just "I hereby dedicate....":
 
 Note that this bit is conditional.  `IF` the dedication is being read in a jurisdiction where such a thing works, `THEN` it's dedicated.  `ELSE` it falls back on the remaining terms, which make a license.
 
-Insofar as the dedication achieves the same practical result as the license---people can do what they like with the software---the dedication's no more than a dubious redundancy.  It's there for the sake of saying "public domain".  We have one method, licensing, that's reliable, and one method for the same thing, dedication, that's not.  We're calling the unreliable method, expecting it might throw, and when it does, calling the reliable one.
+Insofar as the dedication achieves the same practical result as the license---people can do what they like with the software---the dedication's no more than a dubious redundancy.  It's there for the sake of saying "public domain".  We have one method, licensing, that's reliable, and one method for the same thing, dedication, that's not.  We're calling the unreliable method, expecting it might throw, and when it does, calling the equivalent, reliable alternative.
 
 Same for [Creative Commons' CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode).  It's called a "public domain dedication", but it's actually another big `IF` we can do that, `ELSE` here's a license.  Its bulk shows.  Its preamble is almost as long as the whole Blue Oak Model License.  Its waiver is longer than Unlicense's.  Its license terms are longer than Blue Oak again.
 
