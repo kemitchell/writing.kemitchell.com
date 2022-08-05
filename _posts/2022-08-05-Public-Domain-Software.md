@@ -18,7 +18,7 @@ Most of these programmers would better use the [Blue Oak Model License](https://
 
 That said, the public domain _is_ a legal idea: the great and growing well of works, ideas, symbols, and designs not encumbered by intellectual property claims.  In practice, mostly inventions and works on which patents and copyrights have expired.
 
-You _will_ find the phrase "public domain" in US court opinions used broadly in this sense.  And you will find discussion of copyright "abandonment" used much as activists mean "dedication to the public domain".  But you won't find any well structured process.  You won't find clear guidance on how to invoke it, or how to interpret words that try to.  Not in the Copyright Act.  Not in the court decisions.
+As such, you _will_ find the phrase "public domain" in US court opinions used broadly in this sense.  And you will find discussion of copyright "abandonment" used much as activists mean "dedication to the public domain".  But you won't find any well structured process.  You won't find clear guidance on how to invoke it, or how to interpret words that try to.  Not in the Copyright Act.  Not in the court decisions.
 
 This typically legal combination of general doctrinal clarity and utter practical uncertainty is ideal for frustrating programmers of deterministic logic machines.
 
