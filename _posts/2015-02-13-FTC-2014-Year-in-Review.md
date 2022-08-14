@@ -10,7 +10,7 @@ tags:
 - Federal Trade Commission
 ---
 
-By my count, the FTC brought 28 significant enforcement actions on the basis of data privacy and security in 2014.[^1]
+By my count, the FTC brought 28 significant enforcement actions on the basis of data privacy and security in 2014.<a href="#completeness" id="#completeness-back" class="note"><sup>1</sup></a>
 
 - Thirteen concerned failure to renew self-certification of compliance with, or change disclosures about, European Union Safe Harbor.
 - Six dealt broadly with inadequate data security measures, two of which concerned failure to verify certificates for Transport Layer Security, a data encryption standard, in mobile application for iOS and Android mobile computing devices.
@@ -38,7 +38,7 @@ Make sure you get the software you pay for.
 
 The FTC plead that Credit Karma's mobile applications were developed by outsource developers. According to the complaint, Credit Karma allowed its developers to disable SSL certificate verification during development, but not in the version of the software delivered for publication. This is a common, if not ideal, practice in the software industry, both because verification isn't needed for testing in development, and because acquiring a certificate that's many kinds of devices can verify takes time and costs money.
 
-Often a company won't know that it needs a certificate before hiring a developer. In most cases the developer should not acquire the certificate, but direct its client to go through the related verification procedures itself.[^2] In the meantime, the developer may ask for a change order under its contract to make clear it can keep working on schedule with verification turned off. Whether or not this was the case with Credit Karma, the company seems to have acted correctly by retaining fully functional SSL in the specification for its final product. An audit—essentially, hiring an additional team of programmers to produce no new code, but only review what had already been written and released—might have been out of the question.
+Often a company won't know that it needs a certificate before hiring a developer. In most cases the developer should not acquire the certificate, but direct its client to go through the related verification procedures itself.<a href="#certificates" id="certificates-back" class="note"><sup>2</sup></a> In the meantime, the developer may ask for a change order under its contract to make clear it can keep working on schedule with verification turned off. Whether or not this was the case with Credit Karma, the company seems to have acted correctly by retaining fully functional SSL in the specification for its final product. An audit—essentially, hiring an additional team of programmers to produce no new code, but only review what had already been written and released—might have been out of the question.
 
 If the security characteristics of your software are particularly important, novel, or complex, a third-party security audit of your developers' work is money wisely spent. Security vulnerabilities can dramatically affect goodwill and acceptance on the part of the public. A public breach or a reputation for laxity can doom a company faster and more effectively than FTC ever could. Reassurance on that front, if not perfect certainty, is something you can buy.
 
@@ -53,7 +53,7 @@ Scope your security audits correctly.
 
 Good security auditors will insist on a statement of scope for their work, in part because security issues vary widely by nature, and can arise from any part or unfortunate combination of parts of a software system. A product typically comprises or relies on hundreds of discernible components, creating a huge universe of possibly vulnerable interactions. Unfortunately, drawing hard lines is error-prone in software as in law; if you can state a perfect bright line rule for what's in and out of a effective audit's scope, you should probably be doing high-dollar audits, not paying to have them done.
 
-For the rest of us mere mortals, there can be no silver bullet. You can add "verify SSL" to your scope description, but that's already out of date, and will age badly as technology further evolves.[^3] Work with your auditor to define a practical scope. Their knowledge and experience, which they have good incentive to keep up-to-date and relevant, should be applied to make sure their efforts on your behalf provide meaningful risk reduction. An auditor who does not understand why their services are worth your business' money is unlikely to provide worthwhile services. A few billable hours determining scope can make subsequent hours more cost effective, plus give you a chance to identify and drop a dud auditor before paying out for a full job.
+For the rest of us mere mortals, there can be no silver bullet. You can add "verify SSL" to your scope description, but that's already out of date, and will age badly as technology further evolves.<a href="#ssl-tls" id="ssl-tls-back" class="note"><sup>3</sup></a> Work with your auditor to define a practical scope. Their knowledge and experience, which they have good incentive to keep up-to-date and relevant, should be applied to make sure their efforts on your behalf provide meaningful risk reduction. An auditor who does not understand why their services are worth your business' money is unlikely to provide worthwhile services. A few billable hours determining scope can make subsequent hours more cost effective, plus give you a chance to identify and drop a dud auditor before paying out for a full job.
 
 Keep your privacy policy in sync with reality.
 ----------------------------------------------
@@ -117,8 +117,22 @@ There are always a few companies that FTC goes out of its way to portray as "the
 
 Only the courts will decide what, if any part, of these accusations is true, and pointing fingers at these businesses as "the kind of operation FTC _should_ be bothering" will never help your company. Instead, take a moment to imagine the story of your company in the worst possible light you can manage. If what you do, maybe just perhaps because it's novel, could be force-fit into the stereotype of a get-rich-or-die tech marauder, then consider what concrete steps you can take to buck that narrative. With the FTC and privacy-conscious media alike on the prowl, those steps are likely to be good investments, in addition to good compliance.
 
-[^1]: I have checked my notes against the FTC's website. If you can think of an action that I've forgotten, please feel free to contact me by e-mail.
+## Notes
 
-[^2]: Your [certificate authority](http://en.wikipedia.org/wiki/Certificate_authority)---the company that sells you a certificate---may require back-and-forth to verify your identity, legal form, jurisdiction, or other attributes before issuing certain kinds of desirable certificates. Your certificate should be particular to your business, not your developer's business. On the other hand, you may want your developer to handle your domain name (yourcompany.com) and the servers that point that domain name to your website (via the [Domain Name System](http://en.wikipedia.org/wiki/Domain_Name_System)). Control of the domain and DNS can be transferred back to you online if you decide to switch developers or bring it in-house.
+<h3 id="completeness">Completeness</h3>
 
-[^3]: Strangely, the FTC's own documents, including its complaint, never mention [Transport Layer Security, SSL's successor](http://en.wikipedia.org/wiki/Transport_Layer_Security). The TLS standard [emerged in a prior millenium](http://tools.ietf.org/html/rfc2246). Lest the private sector scoff: Don't ask me how many times I've seen a [SAS 70](http://en.wikipedia.org/wiki/Statement_on_Auditing_Standards_No._70:_Service_Organizations) covenant in a commercial deal.
+I have checked my notes against the FTC's website. If you can think of an action that I've forgotten, please feel free to contact me by e-mail.
+
+<a href="#completeness-back" class="back">Back to context</a>
+
+<h3 id="certificates">Certificates</h3>
+
+Your [certificate authority](http://en.wikipedia.org/wiki/Certificate_authority)---the company that sells you a certificate---may require back-and-forth to verify your identity, legal form, jurisdiction, or other attributes before issuing certain kinds of desirable certificates. Your certificate should be particular to your business, not your developer's business. On the other hand, you may want your developer to handle your domain name (yourcompany.com) and the servers that point that domain name to your website (via the [Domain Name System](http://en.wikipedia.org/wiki/Domain_Name_System)). Control of the domain and DNS can be transferred back to you online if you decide to switch developers or bring it in-house.
+
+<a href="#certificates-back" class="back">Back to context</a>
+
+<h3 id="ssl-tls">SSL and TLS</h3>
+
+Strangely, the FTC's own documents, including its complaint, never mention [Transport Layer Security, SSL's successor](http://en.wikipedia.org/wiki/Transport_Layer_Security). The TLS standard [emerged in a prior millenium](http://tools.ietf.org/html/rfc2246). Lest the private sector scoff: Don't ask me how many times I've seen a [SAS 70](http://en.wikipedia.org/wiki/Statement_on_Auditing_Standards_No._70:_Service_Organizations) covenant in a commercial deal.
+
+<a href="#ssl-tls-back" class="back">Back to context</a>
