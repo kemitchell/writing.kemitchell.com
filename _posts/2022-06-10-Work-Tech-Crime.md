@@ -48,7 +48,7 @@ Five years is a lot in software land.  The sole inflexible business requirement-
 
 Dominant chain nodes still convect surrounding airspace solving nothing.  Public-key crypto still confuses and frightens users.  The data stores remain slow and expensive, in the midst of a commodifying cloud war.  "Decentralization" is most often enablingly vague, and when achieved in any specificity, with any adoption, also promptly sacrificed to speed and convenience.  Privacy properties remain largely ill-conceived or aspirational.
 
-In short, the leaves off the tech trees not facing the money withered or got pruned away.  Good good devs, knowing better, grind away at bad compromise technology.  When [Signal](https://signal.org), which is damn fine crypto work, announced MobileCoin support, and I got bummed and stopped donating.
+In short, the leaves off the tech trees not facing the money withered or got pruned away.  Good devs, knowing better, grind away at bad compromise technology.  When [Signal](https://signal.org), which is damn fine crypto work, announced MobileCoin support, and I got bummed and stopped donating.
 
 Basic research is hard.  Industrialization is hard.  Both at once is miraculous.  Allocating resources to call forth such a miracle, under one guiding force, on the basis of _promotional_ talent, has again proved unwise.
 
