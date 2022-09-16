@@ -38,7 +38,7 @@ If EBMUD has to count and charge for water, as required by law, then we use mete
 
 When we bring a meter to a camp, we can also bring all the tools and best practices to keep the water and the water system safe.  Otherwise, people are going to improvize.  They have to.  And they are unlikely to guess it all right.
 
-This is how we end up with situations like the monkey wrench in the Oaklandside tutorial video.  This is how we end up with direct connections via simple adapters, without any protection against backflow of contamination into the system:
+This is how we end up with situations like the monkey wrench in the Oaklandside tutorial video.  This is how we end up with direct connections via simple adapters, without any protection against backflow contamination into the system:
 
 <figure>
 <img src="/images/inferior-hydrant-connection.jpg">
