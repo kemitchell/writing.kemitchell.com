@@ -24,7 +24,7 @@ There are inherent trade-offs between specificity and generality, akin to off-th
 
 In general, I see two sweet spots:
 
-- general-purpose technologies whose mechanics facilitate maximum creativity and adaptation by end-users, such as end-user lawyers for law fork
+- general-purpose technologies whose mechanics facilitate maximum creativity and adaptation by end-users, such as end-user lawyers for law work
 
 - general-purpose technologies whose architectures facilitate markets in customizations and integrations by other technologists, such as plug-ins
 
