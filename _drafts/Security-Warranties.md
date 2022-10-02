@@ -13,7 +13,7 @@ Apparently not how open source does it now.
 
 The solution to the open security crisis isn't [standardized packing slips](https://en.wikipedia.org/wiki/Software_bill_of_materials), [a centralized inspection agency](https://openssf.org/), or a [sign-off scheme](https://blog.tidelift.com/the-state-of-package-signing-across-package-managers).  It's not more software or another foundation fundraiser.  This isn't actually a software problem.  It's much bigger than that.
 
-But it is also, thankfully, a solved problem.  It's just that open source _unsolved_ it.
+But it is also, thankfully, a solved problem.  Open source _unsolved_ it.
 
 ## Known Class
 
