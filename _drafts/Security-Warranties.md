@@ -19,9 +19,9 @@ But it is also, thankfully, a solved problem.  Open source _unsolved_ it.
 
 The software-security problem is a product-service quality problem.  Much as drivers need reliable cars and everyone wants competent dentistry, users need and want secure software.  Trouble is, consumers can't tell on their own, in a hurry, if a particular car is a lemon, a particular dentist's a dunce, or some piece of software's full of holes.
 
-Users know best how much security they need.  Developers know best how much security they've got, and what getting more would cost.  To allocate security resources, we need to combine these signal paths.  Not just among vendors and customers, but among vendors' vendors and customers' customers, however many there may be.
+Users know best what security they need.  Developers know best how what security they've got, and what getting more would cost.  To allocate security resources, we need to combine these signal paths.  Not just among vendors and customers, but among vendors' vendors and customers' customers, however many there may be.
 
-This general problem has a general solution: legally enforceable promises from vendors to customers to cover them financially when expectations aren't met.  In legal terms, "warranties" and "indemnities".  Developers can promise users that they'll make them whole when vulns or breaches cause harm.  These promises fit naturally in licenses, terms of service, support contracts, or completely separate agreements.
+This general problem has a general solution: legally enforceable promises from vendors to customers to cover them financially when expectations aren't met.  In legal terms, "warranties" and "indemnities".  Developers can promise users they'll make them whole when vulns or breaches cause harm.  These promises fit naturally in licenses, terms of service, support contracts, or completely separate agreements.
 
 Warranties and indemnities for security encode security signals in price.  If users demand more security---higher limits, broader coverage---they negotiate better terms and pay more for them.  The vendors, receiving the money, can better afford to supply it.  If they fail to invest proportionately and effectively, they can end up sending money back to customers for the consequences.
 
