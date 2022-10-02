@@ -17,7 +17,7 @@ But it is also, thankfully, a solved problem.  Open source _unsolved_ it.
 
 ## Known Class
 
-The software-security problem is a specific instance in the general class of product-service quality problems.  Much as drivers need reliable cars and everyone wants a competent dentist, users need and want secure software.  Trouble is, consumers can't tell on their own, in a hurry, if a particular car is a lemon, a particular dentist's a dunce, or some piece of software's full of holes.
+The software-security problem is a product-service quality problem.  Much as drivers need reliable cars and everyone wants competent dentistry, users need and want secure software.  Trouble is, consumers can't tell on their own, in a hurry, if a particular car is a lemon, a particular dentist's a dunce, or some piece of software's full of holes.
 
 Users know best how much security they need.  Developers know best how much security they've got, and what getting more would cost.  To allocate security resources, we need to combine these signal paths.  Not just among vendors and customers, but among vendors' vendors and customers' customers, however many there may be.
 
