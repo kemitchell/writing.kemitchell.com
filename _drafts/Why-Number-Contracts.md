@@ -19,7 +19,7 @@ Then we can flip pages until we see 16.2.  Unless someone has broken the rules o
 
 The same goes for cross-references in the text.
 
-But cross-references in the text annoy us more than references over the phone.  To figure out what cross-references _mean_, we have to stop reading, flip to the referenced section, then flip back.  We have to remember what we found was referenced and put it back in context where the reference was made.
+But cross-references in the text annoy us more than references over the phone.  To figure out what cross-references _mean_, we have to stop reading, flip to the referenced section, then flip back.  We have to remember where we started, where we went, and what we found there, then put it back in context.
 
 Some lawyers have felt this annoyance and decided to copy section headings in parentheses after their cross-references:
 
@@ -28,6 +28,7 @@ Some lawyers have felt this annoyance and decided to copy section headings in pa
 If we remember what's under "Payment Obligations", we may be able to keep reading through this cross-reference without flipping to section 16.2.  For example:
 
 > The following sections will survive the expiration or termination of this agreement:
+>
 > - Section 16.2 (Payment Obligations)
 > - Section 20.2 (Governing Law)
 
@@ -36,6 +37,7 @@ This approach makes references easier to read, but also creates risk.  Someone m
 To avoid this, we could just reference by number.  But we could also just reference by heading:
 
 > The following sections will survive the expiration or termination of this agreement:
+>
 > - Payment Obligations
 > - Governing Law
 
