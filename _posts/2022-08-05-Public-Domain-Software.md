@@ -85,7 +85,9 @@ Same for [Creative Commons' CC0](https://creativecommons.org/publicdomain/zero/1
 
 I'm reminded of the car nuts here in Oakland.  You'll meet a lot of guys with a shiny old American muscle car in the garage, a flashy but temperamental ride for the weekends, when breaking down's no big deal.  That's "dedication to the public domain".  But the same guy, as often as not, parks a later-model, A-to-B-mobile in the driveway.  Because come Monday, and more often than not, he just needs to get where he's going when he needs to be there.  That's the license.
 
-Unlicense and CC0 fall back on software licensing because we've comparative mountains of guidance on it.  Plus the benefits of pervasive user familiarity, even among lumbering corporates.  They're all used to getting software license grants from `LICENSE` files.  Indeed, it's a people system, not fully rationalized.  That comes through for projects like SQLite, a "public domain" project that I suspect makes most of [its license money](https://www.sqlite.org/purchase/license) on company programmers who need license-shaped documents to fit license-shaped holes in established release process.  Easier to expense the license fee than explain "public domain" to the process.
+Unlicense and CC0 fall back on software licensing because we've comparative mountains of guidance on it.  Plus the benefits of pervasive user familiarity, even among lumbering corporates.  They're all used to getting software license grants from `LICENSE` files.
+
+It's a people system, not fully rationalized.  That comes through for projects like SQLite, a "public domain" project that I suspect makes most of [its license money](https://www.sqlite.org/purchase/license) on company programmers who need license-shaped documents to fit license-shaped holes in established release process.  Easier to expense the license fee than explain "public domain" to the process.
 
 Returning to how we state our goals---in terms of what we let people do, rather than the abstract cause that advances---here's the Blue Oak Model's License's copyright language:
 
