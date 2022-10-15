@@ -117,7 +117,7 @@ All in, my sense of the Blue Oak Council collective view was that it could be ha
 
 License terms are a classic source of leverage to get notices copied along with your software.  So a "copies of terms" requirement it is for the Blue Oak Model.
 
-The end result is different, by the way, than what we'd get by simply using a common license that requires copies of terms and notices, like MIT, BSD, or Apache 2.0, and then adding a note giving up, or waiving", that requirement.  Waiving both means waiving copies-of-terms, as well.
+The end result is different, by the way, than what we'd get by simply using a common license that requires copies of terms and notices, like MIT, BSD, or Apache 2.0, and then adding a note giving up, or waiving, that requirement.  Waiving both means waiving copies-of-terms, as well.
 
 Moreover, in my experience, waiving attribution does more to confuse than to help.  Especially for those really diligent on license compliance.  You may get fewer license-related issues on your repo, putting "Apache-2.0" in metadata and Apache plus a waiver in `LICENSE`.  People will tend to take the good news, and not look deeper, on first glance.  But better auditors, human or automated, will notice the change.  It's only good news once they read it.  But they will have to read it.  And if they've got an automated process, and especially if they've got a lot of other deps, more likely than not, they'll end up copying your `LICENSE` anyway.  They've automated the rule.  Not your exception.
 
