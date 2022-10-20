@@ -31,3 +31,5 @@ GPLv2 says, among other things:
 Blue Oak 1.0.0 says:
 
 > You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <https://blueoakcouncil.org/license/1.0.0>.
+
+Blue Oak also intentionally _avoids_ having any copyright-notice line or other bits that people can fill out or change.  Blue Oak 1.0.0 is a fixed, verbatim text, like GPLv2 and Apache 2.0, not a template, like MIT or BSD.
