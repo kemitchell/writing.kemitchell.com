@@ -5,6 +5,7 @@ series: Line by Line
 tags:
 - Open Source
 - Software Licensing
+- Contributor Licensing
 brief: The [Developer Certificate of Origin](http://developercertificate.org) is neither a contributor license agreement nor a substitute for one.  For most projects, replacing CLAs with the DCO leaves big gaps.
 ---
 
