@@ -1,4 +1,5 @@
 ---
+date: 2022-10-21T15:17:31-07:00
 title: Notice by Hyperlink
 description: can't we just link to the licenses file for our JavaScript?
 tags:
