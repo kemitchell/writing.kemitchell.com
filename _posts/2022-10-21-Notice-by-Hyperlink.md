@@ -57,7 +57,7 @@ All this clarity sure is nice.  I'm glad to have contributed to a license that d
 
 So what to do?
 
-In practice, context matters.  Could a highly motivated software licensor argue that distributing their JavaScript without the license terms in a code comment violates the conditions of their MIT or BSD terms, killing the license, resulting in breach of contract or copyright infringement, and sue?  I think they could.  Colleagues I respect share this view, and worry about potential abuse.
+In practice, context matters.  Could a highly motivated software licensor argue that distributing their JavaScript without the license terms in a code comment violates the conditions of their MIT or BSD terms, killing the license, resulting in breach of contract or copyright infringement?  I think they could.  Colleagues I respect share this view, and worry about potential abuse.
 
 But would someone making this kind of legal claim actually win?  I doubt it.  Courts don't _like_ to bend language, but they're more than capable, given the motivation.  I suspect it would be very hard to make a claim like this without appearing the paragon of pettiness.
 
