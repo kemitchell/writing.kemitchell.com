@@ -31,7 +31,7 @@ This seems to assume the license appears in a source comment in the first place.
 
 This seems to assume a material, i.e. tangible, distribution.  Again, this made perfect sense when software "distributions" were shippable, shelvable boxes or jewel cases.  As for referencing, rather than copying, we'd have to read "reproduce" really loosely to mean anything but "copy".  The drafters simply didn't anticipate the question.
 
-Well, how about a much newer license?  Tradition haunts us.  Take Apache 2.0:
+Well, how about a much newer license?  Tradition prevails.  Take Apache 2.0:
 
 > You <mark>must give</mark> any other recipients of the Work or Derivative Works <mark>a copy</mark> of this License
 
