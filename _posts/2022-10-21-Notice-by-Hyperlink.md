@@ -2,6 +2,7 @@
 date: 2022-10-21T15:17:31-07:00
 title: Notice by Hyperlink
 description: can't we just link to the licenses file for our JavaScript?
+brief: Very popular licenses read to  require terms in code bundles.  Yes, that's ridiculous, and lots of devs are ignoring it.  This is what happens when we keep using license terms from 1984.
 tags:
 - Licensing
 - Open Source
