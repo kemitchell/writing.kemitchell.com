@@ -61,7 +61,7 @@ In practice, context matters.  Could a highly motivated software licensor argue 
 
 But would someone making this kind of legal claim actually win?  I doubt it.  Courts don't _like_ to bend language, but they're more than capable, given the motivation.  I suspect it would be very hard to make a claim like this without appearing the paragon of pettiness.
 
-I struggle to think of circumstances where the difference between getting license terms from one HTTP `GET` or the next one, after a single click, really seems significant, in light of the public policy behind intellectual property law.  If someone's bringing a lawsuit anyway, that implies they may be more interested in leveraging the pain of the process, and whatever legal uncertainty they can find, to scare people into signing settlements.
+I struggle to think of circumstances where the difference between getting license terms in the same HTTP `GET` or one more, after a link click, really seems significant, in light of the public policy behind intellectual property law.  If someone's bringing a lawsuit anyway, that implies they may be more interested in leveraging the pain of the process, and whatever legal uncertainty they can find, to scare people into signing settlements.
 
 There's an old legal get-rid-of-lawsuit card, so transparently simple judges defensively keep it in Latin: "de minimis non curat lex", the law does not concern itself with trifles.  The difference between a license comment with a URL and a license comment with the license text and copyright notice might just be a trifle.  But it's not going to be fun wondering and waiting for a judge to actually write that in a decision where you appear as defendant.
 
