@@ -1,6 +1,6 @@
 ---
-title: Warranties Solve Software Security
-description: the open source skeptics warned us
+title: Open Source Unsolved Software Security
+description: the pointed-headed skeptics warned us
 series: Killjoy
 tags:
 - Security
@@ -11,41 +11,43 @@ How do we cultivate software security talent?  Once we have it, how do we apply 
 
 Apparently not how open source does it now.
 
-The solution to the open security confidence crisis isn't [standardized packing slips](https://en.wikipedia.org/wiki/Software_bill_of_materials), [a centralized inspection agency](https://openssf.org/), a [centrally planned sustainable-software economy](https://sovereigntechfund.de/en), or a [sign-off scheme](https://blog.tidelift.com/the-state-of-package-signing-across-package-managers).  It's not more software or another fundraiser.  This isn't actually a software problem.  It's much bigger than that.
+The solution to the open security confidence crisis isn't [standardized packing slips](https://en.wikipedia.org/wiki/Software_bill_of_materials), [a roving security inspectorate](https://openssf.org/), a [centrally planned sustainable-software economy](https://sovereigntechfund.de/en), or a [sign-off scheme](https://blog.tidelift.com/the-state-of-package-signing-across-package-managers).  It's not more software or another fundraiser.  This isn't actually a software problem.  It's much bigger than that.
 
 But it is also, thankfully, a solved problem.  It's just that open source _unsolved_ it.
 
 ## Known Class
 
-The software-security problem is a product-service quality problem.  Much as drivers need reliable cars and everyone wants competent dentistry, users need and want secure software.  Trouble is, consumers can't tell on their own, in a hurry, if a particular car is a lemon, a particular dentist's a klutz, or some piece of software's full of security holes.
+The software-security problem is a product-service quality problem.  Much as drivers need reliable cars and everyone wants competent dentistry, users need and want secure software.  Trouble is, consumers can't tell on their own, in a hurry, if a particular car is a lemon, a particular dentist's a klutz, or some piece of software's too riddled with vulns for their use case.
 
-Users know best what security they need.  Developers know best how they've invested in their software's security, and what investing more would cost.  To allocate security resources, we need to connect these signal paths.  Not just among vendors and customers, but among vendors' vendors and customers' customers, however many there may be.
+Users know best what security they need.  Developers know best how they've invested in security, and what investing more would cost.  To allocate security resources, we need to connect these signal paths.  Not just among vendors and customers, but among vendors' vendors and customers' customers, however many there may be.
 
-The picture is complex, but the general problem has a general solution: legally enforceable promises from vendors to customers to cover them financially when expectations aren't met.  In legal terms, "warranties" and "indemnities".  Developers can promise users they'll make them whole when vulns or breaches cause harm.  These promises fit naturally in licenses, terms of service, support contracts, or completely separate agreements.  Businesspeople and lawyers know how to write them and courts know how to read them.
+The picture is complex, but the general problem has a general solution: legally enforceable promises from vendors to customers to cover them financially when things go wrong.  In legal terms, "warranties" and "indemnities".  Developers can promise users they'll make them whole when vulns or breaches cause harm.  These promises fit naturally in licenses, terms of service, support contracts, or completely separate agreements.  Businesspeople and lawyers know how to write them.  Courts know how to read and apply them.
 
-Warranties and indemnities for software security encode security signals in price.  If users demand more security---more protection, in more situations---they negotiate and pay more for them.  The vendors, receiving the money, can better afford to supply.  If they fail to invest proportionately and effectively, they can end up owing money back to customers, for the consequences.
+Warranties and indemnities for software security encode security signals in price.  If users demand more security---more protection, in more situations---they negotiate for more protections and pay more for them.  The vendors, receiving the money, can better afford to secure and supply.  If they fail to invest proportionately and effectively, they can end up owing money back for the consequences.
 
 ## Network
 
-With warranties and indemnities, each customer-vendor pair forms an edge in a network.  That network distributes resources and information about the demand and supply of security.  Any particular edge can be completely opaque, such as under a nondisclosure agreement, but still convey security-relevant signals and resources transitively.
+With warranties and indemnities, each customer-vendor pair forms an edge in a network.  That network distributes resources.  The resource flows encode data about supply and demand for security.  Any particular edge can be completely opaque, such as under a nondisclosure agreement.  But it still conveys security-relevant signals and resources transitively.
 
-For example, a web app framework developer can cover a website operator who in turn covers end users.  The end users needn't see or even know about the framework developer's warranty or price.  However, the terms and price the website operator can offer to end users aggregates and reflects the warranties and fees of all its vendors, including the framework developer.
+For example, a web app framework developer can give a warranty to a SaaS provider that in turn indemnifies end users.  The end users needn't see or even know about the framework developer's warranty or price.  But the terms and price the website operator can offer aggregate the terms and prices of all of its vendors, including the framework dev.
 
-Warranties and indemnities depend on courts, but they aren't themselves a centralized institution.  They rely on a universal and mandatory system of justice that enforcing private contracts, but atop that platform, they facilitate autonomous, uncoordinated dealing.  The result in the large is a constellation of self-assembling, self-balancing, many-nodes, many-edges networks of responsibility-resource exchanges.  In other words, a market-based software supply chain.
+Warranties and indemnities depend on a universal and mandatory system of justice that enforces private contracts---courts---but atop that platform, they facilitate autonomous, uncoordinated dealing.  The result in the large is a constellation of self-assembling, self-balancing, many-nodes, many-edges networks of responsibility-resource exchanges.  In other words, a market-based software supply chain.
 
-People used to thinking about products and services that aren't given out free on the Internet sometimes use "supply chain" to talk about open source.  Especially when there's a problem with it, and they find themselves missing things supply chains provide, like warranties and indemnities.  But open-source as we know it isn't a supply chain.  It's just a distribution system.  Software passes from developer through any number of distributors to users, but the links only go one way.  Calling this system a "supply chain" is wishing it had features it does not.
+People used to thinking about products and services that aren't given out free on the Web sometimes use "supply chain" language to talk about open source.  Especially when there's a problem, and they find themselves missing things supply chains provide, like warranties and indemnities.  But open-source as we know it isn't a supply chain.  It's just a distribution system.  Software passes from developer through any number of distributors to users, but the links only go one way.  Calling this system a "supply chain" is wishing it had features it does not.  Features you never paid for.
 
 ## Failures
 
-Market-based supply chains do exhibit failure modes.  Those failures differ from those of public, non-market goods.  But many market failure modes also have well known solutions.  Our understanding of these solutions, while imperfect, is strong enough to make the go-to solution for public-good failures turning the public-good problem into a market problem.
+Market-based supply chains do exhibit failure modes.  Those failures differ from those of public, non-market goods.  But many market failure modes also have well known solutions.  Our understanding of these solutions, while imperfect, is strong enough to make the go-to solution for public-good failures turning the public goods into market goods and solving those problems instead.
+
+A few examples.
 
 ### Consumer Protection
 
-As an example, market-based supply chains frequently do a good job balancing risk and reward...until the last link in the chain, where an organized group, like a company, often does business with unorganized consumers.  People often lack leverage to negotiate good terms, and accept what's offered to them, or make a choice of non-negotiable offerings.  This leads to outrageous situations where consumers get badly hurt in utterly predictable and preventable ways, but take-or-leave-it terms say the seller doesn't have to cover them.
+Market-based supply chains frequently do a good job balancing risk and reward...until the last link in the chain.  There an organized group, like a company, often does business with individual consumers.  Consumers often lack skill and leverage to negotiate, and accept what's offered to them, one of a few such choices.  This leads to outrageous situations where consumers get badly hurt in utterly predictable and preventable ways, but take-or-leave-it terms say the seller doesn't have to pay for it.
 
-Consumer protection laws---mandatory rules that impose warranty- and indemnity-like obligations in sales to end users---step in to impose just minimums.  They essentially _mandate_ specific terms in vendor-consumer contracts, by patching the legal system that contracts "run on".  Sometimes they give individuals the right to sue for violation of quality or safety standards.  Sometimes they let them team up, in "class actions", to overcome the trouble of organizing lots of individuals by making it opt-out instead of opt-in.  They may also let public officials or regulators sue on consumers' behalf, using government as the buying public's representative.
+Consumer protection laws---mandatory rules that impose warranty- and indemnity-like obligations in sales to end users---step in.  They essentially _mandate_ specific terms in vendor-consumer contracts, by patching the legal system that contracts "run on".  Sometimes they give individuals the right to sue for violation of basic standards.  Sometimes they let them team up, in "class actions", to overcome the trouble of organizing lots of individuals by making it opt-out instead of opt-in.  They may also let public officials or regulators sue on consumers' behalf, using government as the buying public's champion.  Sellers may charge more, but society as a whole can net out better.
 
-We are beginning to see more of these kinds of laws for secure software as a service, implemented as security requirements under privacy laws.  Individual Google, Facebook, or Twitter users aren't going to drive hard, one-off bargains with public companies for better protection.  But they can vote for legislators who pass laws like the EU General Data Protection Regulation and California Consumer Privacy Act, with similar effect.  Naturally, we are also seeing seeing fierce lobbying around whether these laws allow individuals, rather than just public officials or regulators, to sue, and whether they can use class actions.  Less economic arguments about "freedom of contract" will let the market correct the companies automatically, without regulation.
+We are beginning to see more of these kinds of laws for software as a service, implemented as security requirements under privacy laws.  Typical Google, Facebook, or Twitter users aren't going to drive hard, one-off bargains with public companies for better protection.  But they can vote for legislators who pass laws like the EU General Data Protection Regulation and California Consumer Privacy Act, which affect everyone's deal.  Naturally, we also see ramp-up in lobbying around whether these laws allow individuals, rather than just public officials or regulators, to sue, and whether they can use class actions.  Just as we see economic arguments about "freedom of contract" letting the market correct the companies wind down, without regulation.  It didn't happen.
 
 ### Insurance
 
