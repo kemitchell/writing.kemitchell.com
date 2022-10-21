@@ -49,7 +49,7 @@ There's that word "copy" again.  Elsewhere, GPLv2 speaks specifically in terms o
 
 Had enough?  Now compare [Blue Oak 1.0.0](https://blueoakcouncil.org/license/1.0.0):
 
-> You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license <mark>or a link to <https://blueoakcouncil.org/license/1.0.0></mark>.
+> You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license <mark>or a link to <a href="https://blueoakcouncil.org/license/1.0.0">https://blueoakcouncil.org/license/1.0.0</a></mark>.
 
 Blue Oak acknowledges that links to license terms are a thing.  It specifically allows them.  It can do that with a permalink because it avoids having any copyright notice or other text that licensors have to fill out or customize.  That makes the license a fixed, standardized text, like Apache 2.0.  But unlike Apache 2.0, there's no `NOTICE` file or other mechanism for the customized copyright notices.  They're unnecessary.
 
