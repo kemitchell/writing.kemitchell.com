@@ -50,9 +50,9 @@ We are beginning to see more of these kinds of laws for secure software as a ser
 
 ### Insurance
 
-Terms of protection aside, we also see that scurrilous vendors sometimes take customers' money, make the right promises, and either pass all the cash to owners and investors or fail to invest as needed, in security.  Comes a problem, customers find themselves with shoddy products or strong legal claims against vendors with nothing to sue for.  This tends to happen especially with young, small companies---so-called "fly by night" operations.
+Terms of protection aside, we also see that vendors sometimes take customers' money, make the right promises, and either bank the money or fail to invest as needed.  Comes a problem, customers find themselves with strong legal claims against vendors with not enough cash or property to sue for.  This tends to happen especially with young, small companies---so-called "fly by night" operations.
 
-Cue the actual insurance industry.
+Warranties and indemnities work a bit like insurance.  For this risk, cue the actual insurance industry.
 
 If customers suspect a vendor will take their money for security but fail to prevent or pay out for a loss, they can insist the vendor carry insurance to cover.  This brings a third party into the picture for accountability.  An insurance company will look at the commitments the vendor makes to the customer, as well as their security practices.  They'll compute a premium for the insurance policy accordingly.  If a customer has a problem and the vendor has to pay, the insurance company will cover the cost.  But they will also likely increase the vendor's premium, or simply refuse to keep covering.  This makes closing new deals with insurance requirements costly or impossible.
 
