@@ -1,5 +1,5 @@
 ---
-title: Open Source Unsolved Software Security
+title: Open Source Unsolved Security
 description: the pointed-headed skeptics warned us
 series: Killjoy
 tags:
