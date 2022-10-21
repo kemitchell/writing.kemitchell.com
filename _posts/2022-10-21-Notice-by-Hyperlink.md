@@ -4,8 +4,8 @@ title: Notice by Hyperlink
 description: can't we just link to the licenses file for our JavaScript?
 brief: Very popular licenses read to  require terms in code bundles.  Yes, that's ridiculous, and lots of devs are ignoring it.  This is what happens when we keep using license terms from 1984.
 tags:
-- Licensing
 - Open Source
+- Licensing
 ---
 
 Open licenses for software almost always say that if you share a copy of the software, you have to share a copy of the license terms, too.  When the vast majority of these licenses were written, "software distribution" inevitably meant copying software to physical media and shipping in the mail.  Including the license with the software meant copying to the media or printing out and stuffing in the box.  Newer licenses largely follow the older ones, because that's what's been done.
