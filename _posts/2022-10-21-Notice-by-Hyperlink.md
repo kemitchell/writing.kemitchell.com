@@ -47,7 +47,7 @@ Finally, GPLv2 says, among many, many other things:
 
 There's that word "copy" again.  Elsewhere, GPLv2 speaks specifically in terms of offers.  A link could be an offer.  But "offer" doesn't appear in the requirement above.  You're supposed to give the license when you give the software.
 
-Now compare [Blue Oak 1.0.0](https://blueoakcouncil.org/license/1.0.0):
+Had enough?  Now compare [Blue Oak 1.0.0](https://blueoakcouncil.org/license/1.0.0):
 
 > You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license <mark>or a link to <https://blueoakcouncil.org/license/1.0.0></mark>.
 
