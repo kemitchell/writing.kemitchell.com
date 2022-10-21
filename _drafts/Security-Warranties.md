@@ -115,10 +115,10 @@ Whether compensation is paid "for software" or called "a license fee" is irrelev
 
 The argument for using open source without guarantees where security matters boils down to "we get away with it"---an argument not from reason but experience.  We hear this reprised whenever assembly programmers bump into C programmers, C programmers bump into interpreted-language programmers, and just about anybody bumps into JavaScript programmers.  How do you trust all this code you're importing from somebody---anybody---and sell it customers.  Like you do.
 
-<!-- TODO: Red Hat model -->
+TODO: Red Hat model, Tidelift model
 
-<!-- TODO: leave the means up to the vendor -->
+TODO: leave the means up to the vendor
 
-<!-- TODO: centralized/global-singleton security projects -->
+TODO: centralized/global-singleton security projects
 
-<!--"Given enough eyeballs, all bugs are shallow" proved far more fun to say than to live by, not least because so many of those eyeballs want zero days more than CVE kudos.-->
+TODO: "Given enough eyeballs, all bugs are shallow" proved far more fun to say than to live by, not least because so many of those eyeballs want zero days more than CVE kudos.
