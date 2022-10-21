@@ -1,52 +1,50 @@
 ---
 title: Notice by Hyperlink
-description: can't we just link to the license file?
+description: can't we just link to the licenses file for our JavaScript?
 tags:
 - Licensing
 - Open Source
 ---
 
-Open licenses for software almost always say that if you share a copy of the software, you have to share a copy of the license terms, too.  When the vast majority of these licenses were written, "software distribution" meant copying software to physical media and shipping it in the mail.  Including the license with the software meant copying to the media, or at least printing out and stuffing in the box.  Newer licenses largely follow the older ones, because that's what's been done.
+Open licenses for software almost always say that if you share a copy of the software, you have to share a copy of the license terms, too.  When the vast majority of these licenses were written, "software distribution" inevitably meant copying software to physical media and shipping in the mail.  Including the license with the software meant copying to the media or printing out and stuffing in the box.  Newer licenses largely follow the older ones, because that's what's been done.
 
-There wasn't any unified, worldwide Web of documents software distributors could point to when all this was "decided".  There was no mass-consumer Internet.  Now there is.  It now makes just about as much sense to link to license terms as to copy them, modulo link rot and permalink stability.
+There wasn't any unified, worldwide Web of documents point to when all this was "decided".  There was no mass-consumer Internet.  Now there is.  It now makes just about as much sense to link to license terms as to copy them, modulo link rot and permalink stability.  Sometimes it makes more sense.
 
-Can't we just link to a copy of the license or licenses?
+Apps and OS developers typically don't sweat the space for a plain-text file of license terms they can show deep in settings or behind a menu.  But when the software is client-side script and distribution is putting on a web server, there's often a genuine performance concern.  Very few who visit are going to want duplicate souvenir copies of common open source license terms.  Sending them to everyone else preemptively means slowing their cold load experience, even if the boilerplate compresses very well.  All of these visitors clearly have the means to click a link and download a separate text file.  Can't we just put the URL to the licenses file in a comment at the top of the script, or in the page footer?
 
-Makers of apps and device operating systems typically don't sweat the space for a plain-text file of license terms they can cat to a "Licenses" screen deep within their software's settings.  But when the software is client-side script and distribution is "putting on a web server", there's often a genuine performance concern.  Very few who visit are going to want duplicative souvenir copies of common open source terms.  Sending them to everyone else means slowing their initial load experience.  All of these visitors clearly have means to click a link and download a separate text file at no cost and incredible speed.  Can't we just put a link to the license file in a comment at the top of the script, or in the page footer?
-
-Let's look at the license language.  There is no mysterious lawyer jargon here the average programmer cannot understand.
+Let's look at the license language.  There is no mysterious lawyer jargon here the average coder can't understand.  Just a lot of cobwebs.
 
 The MIT License says:
 
 > The above copyright notice and this permission notice <mark>shall be included</mark> in all copies or substantial portions of the Software.
 
-"Include in a copy" doesn't sound very forgiving.  If you asked me, lawyer guy, what an MIT dependency requires from your JavaScript app, and I told you "include the license file in the software", I suspect you'd hear "copy it into a header comment".
+"Include in a copy" doesn't sound very forgiving.  If you asked me, lawyer guy, what an MIT dependency requires from your JavaScript app, and I told you "include the license in the software", I suspect you'd hear "copy it into a header comment".  That's about the best we have to go on.
 
 Now the BSD licenses:
 
-> 1. Redistributions of source code <mark>must retain</mark> the above copyright notice, this list of conditions and the following disclaimer.
->
-> 2. Redistributions in binary form <mark>must reproduce</mark> the above copyright notice, this list of conditions and the following disclaimer <mark>in the documentation and/or other materials provided with the distribution</mark>.
+> 1\. Redistributions of source code <mark>must retain</mark> the above copyright notice, this list of conditions and the following disclaimer.
 
-Point one seems to assume that the license notice appears in a comment within the source code.  Not, say, in a `LICENSE` file elsewhere in the repo.  But it seems too legalistic, and pointlessly risky, to conclude that finding the license in `NOTICE` or `README` instead of in the source itself means you don't have to "retain" the license at all.  The purpose, in context, is clearly that copies of the software, source or binary, need to come with the license terms.
+This seems to assume the license appears in a source comment in the first place.  Not, say, in a `LICENSE` file elsewhere in the repo.  But it feels way too legalistic to conclude that finding the license in `NOTICE` or `README` instead of in the source means you don't have to "retain" the license at all.  The purpose, in context, is clearly that copies of the software, source or binary, need to come with the license terms.
 
-Point two seemingly assumes a material, i.e. tangible, distribution.  Again, this made perfect sense when software "distributions" were shippable, shelvable boxes.  As for referencing, rather than copying, we'd have to read "reproduce" really loosely to mean anything but a copy.
+> 2\. Redistributions in binary form <mark>must reproduce</mark> the above copyright notice, this list of conditions and the following disclaimer <mark>in the documentation and/or other materials provided with the distribution</mark>.
 
-How about a much newer license?  Tradition haunts us.  Take Apache 2.0:
+This seems to assume a material, i.e. tangible, distribution.  Again, this made perfect sense when software "distributions" were shippable, shelvable boxes or jewel cases.  As for referencing, rather than copying, we'd have to read "reproduce" really loosely to mean anything but "copy".  The drafters simply didn't anticipate the question.
+
+Well, how about a much newer license?  Tradition haunts us.  Take Apache 2.0:
 
 > You <mark>must give</mark> any other recipients of the Work or Derivative Works <mark>a copy</mark> of this License
 
-Copy, not reference to.  Looks like bad news.  And there's more:
+"Copy of", not "reference to".  Looks like bad news.  And there's more:
 
 > If the Work includes <mark>a &ldquo;NOTICE&rdquo; text file</mark> as part of its distribution, then any Derivative Works that You distribute <mark>must include a readable copy</mark> of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, <mark>in at least one of the following places</mark>: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear.
 
-Apache 2.0 separates the fixed text of the license terms from copyright and other project-specific notices.  But it also requires copies of those notices.
+Apache 2.0 separates the fixed text of the license terms from copyright and other project-specific notices.  But it requires copies of both.
 
 Finally, GPLv2 says, among many, many other things:
 
 > You may copy and distribute verbatim copies of the Program's source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice and disclaimer of warranty; keep intact all the notices that refer to this License and to the absence of any warranty; and <mark>give any other recipients of the Program a copy of this License along with the Program</mark>.
 
-There's that word "copy" again.  Elsewhere, GPLv2 speaks specifically in terms of offers.  But "offer" doesn't appear in this requirement.  You're supposed to give the license when you give the software.
+There's that word "copy" again.  Elsewhere, GPLv2 speaks specifically in terms of offers.  A link could be an offer.  But "offer" doesn't appear in the requirement above.  You're supposed to give the license when you give the software.
 
 Now compare [Blue Oak 1.0.0](https://blueoakcouncil.org/license/1.0.0):
 
@@ -54,10 +52,18 @@ Now compare [Blue Oak 1.0.0](https://blueoakcouncil.org/license/1.0.0):
 
 Blue Oak acknowledges that links to license terms are a thing.  It specifically allows them.  It can do that with a permalink because it avoids having any copyright notice or other text that licensors have to fill out or customize.  That makes the license a fixed, standardized text, like Apache 2.0.  But unlike Apache 2.0, there's no `NOTICE` file or other mechanism for the customized copyright notices.  They're unnecessary.
 
-All this clarity sure is nice.  I'm glad to have contributed to a license that doesn't just perpetuate the uncertainty.  But the fact that Blue Oak gets it "right" doesn't help the older licenses.
+All this clarity sure is nice.  I'm glad to have contributed to a license that doesn't just perpetuate the problem.  But Blue Oak getting this right doesn't help older licenses...or people using software stuck under them.
 
-In practice, context predominates here.  Could a very angry or highly motivated software licensor argue that distributing JavaScript without license comments violates the conditions of their MIT or BSD code, terminating the license, resulting in breach of contract or copyright infringement, and sue?  I suspect they could.  Colleagues I respect share this view, and worry about potential abuse.
+So what to do?
 
-Would someone making this kind of legal claim be guaranteed a win?  I don't think so.  Courts don't _like_ to bend language, but they're more than capable, given the motivation.  I suspect it would be very hard to make a claim like this without appearing as the paragon of pettiness.  So the win to be had, if there is one, would probably have more to do with leveraging the legal process and uncertainty to draw out a settlement, far more than any moral or business value in the space between getting license terms from the same HTTP `GET` or the next, after one click.
+In practice, context matters.  Could a highly motivated software licensor argue that distributing their JavaScript without the license terms in a code comment violates the conditions of their MIT or BSD terms, killing the license, resulting in breach of contract or copyright infringement, and sue?  I think they could.  Colleagues I respect share this view, and worry about potential abuse.
 
-Open software licensing stands on dozens of rickety old piles like this.  The licenses are decades old, and the methods they were built with are in many cases decades older.  The "community" never normalized a process for changing or upgrading license terms over time, apart from assigning all the rights in a project to a company or foundation.  We laugh at COBOL, but cool, new software will come out tomorrow on legal terms about as old.
+But would someone making this kind of legal claim actually win?  I doubt it.  Courts don't _like_ to bend language, but they're more than capable, given the motivation.  I suspect it would be very hard to make a claim like this without appearing the paragon of pettiness.
+
+I struggle to think of circumstances where the difference between getting license terms from one HTTP `GET` or the next one, after a single click, really seems significant, in light of the public policy behind intellectual property law.  If someone's bringing a lawsuit anyway, that implies they may be more interested in leveraging the pain of the process, and whatever legal uncertainty they can find, to scare people into signing settlements.
+
+There's an old legal get-rid-of-lawsuit card, so transparently simple judges defensively keep it in Latin: "de minimis non curat lex", the law does not concern itself with trifles.  The difference between a license comment with a URL and a license comment with the license text and copyright notice might just be a trifle.  But it's not going to be fun wondering and waiting for a judge to actually write that in a decision where you appear as defendant.
+
+In the end, I doubt any well-read lawyer would say there's no legal risk.  The old licenses say what they say, and what they say isn't terribly helpful.  But pretty much anyone anyone who can figure out the keyboard combo for [Dev](https://developer.mozilla.org/en-US/docs/Tools) [Tools](chrome dev tools) can see that thousands of companies are serving their JavaScript license notices separately,  or not at all, and apparently getting away with it.  Takeaway?  If you choose to play those odds, you certainly won't be alone.  Just [don't come to me](https://notlegaladvice.law) if someone goes ["troll"](https://en.wikipedia.org/wiki/Copyright_troll) and tries to squeeze you for a settlement.
+
+Open software licensing stands on dozens of rickety old piles.  The licenses are decades old, and the approaches they implement were in many cases old even when they were written.  We laugh at the government's desperate pleas for COBOL help, but cool, new software will come out tomorrow on legal terms about as fresh.  Until we normalize a way to field-upgrade legal terms for long-lived projects over time, beyond just dumping it all in a foundation, we're just going to have to wait until something like this crumbles under us.
