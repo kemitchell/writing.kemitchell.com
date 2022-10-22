@@ -2,6 +2,7 @@ name: /dev/lawyer
 description: law, technology, and the space between
 url: https://writing.kemitchell.com
 permalink: :year/:month/:day/:title
+timezone: America/Los_Angeles
 author: Kyle E. Mitchell
 homepage: https://kemitchell.com
 highlighter: rouge
