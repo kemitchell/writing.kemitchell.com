@@ -30,6 +30,8 @@ Alphabetically, by first named author:
 
 - <!-- Kelty --> Christopher Kelty's [_Two Bits_](https://twobits.net), Parts II and III
 
+- <!-- Lancashire --> David Lancashire's ["Code, Culture and Cash: The Fading Altruism of Open Source Development"](https://firstmonday.org/ojs/index.php/fm/article/download/1488/1403)
+
 - <!-- Levine --> Peter Levine, Andreessen Horowitz, ["Open Source: From Community to Commercialization"](https://www.youtube.com/watch?v=c9SJAPxU5bs)
 
 - <!-- Levine --> Peter Levine, ["Why There Will Never Be Another Red Hat: The Economics of Open Source"](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source/)
