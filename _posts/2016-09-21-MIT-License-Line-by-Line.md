@@ -355,34 +355,34 @@ Second, the verbs given as examples of "deal in" are a hodgepodge.
 Some have specific meanings under copyright or patent law, others
 almost do or just plain don't:
 
--  _use_  appears in [United States Code title 35, section 271(a)][35
+-  "use" appears in [United States Code title 35, section 271(a)][35
    USC 271], the patent law's list of what patent owners can sue
    others for doing without permission.
 
--  _copy_ appears in [United States Code title 17, section 106][17
+-  "copy" appears in [United States Code title 17, section 106][17
    USC 106], the copyright law's list of what copyright owners can
    sue others for doing without permission.
 
--  _modify_ doesn't appear in either copyright or patent statute.
+-  "modify" doesn't appear in either copyright or patent statute.
    It is probably closest to "prepare derivative works" under the
    copyright statute, but may also implicate improving or otherwise
    derivative inventions.
 
--  _merge_ doesn't appear in either copyright or patent statute.
+-  "merge" doesn't appear in either copyright or patent statute.
    "Merger" has a specific meaning in copyright, but that's clearly
    not what's intended here.  Rather, a court would probably read
    "merge" according to its meaning in industry, as in "to merge code".
 
--  _publish_ doesn't appear in either copyright or patent statute.
+-  "publish" doesn't appear in either copyright or patent statute.
    Since "the Software" is what's being published, it probably hews
    closest to "distribute" under the [copyright statute][17 USC 106].
    That statute also covers rights to perform and display works
    "publicly", but those rights apply only to specific kinds of
    copyrighted work, like plays, sound recordings, and motion pictures.
 
--  _distribute_ appears in the [copyright statute][17 USC 106].
+-  "distribute" appears in the [copyright statute][17 USC 106].
 
--  _sublicense_ is a general term of intellectual property law.
+-  "sublicense" is a general term of intellectual property law.
    The right to sublicense means the right to give others licenses
    of their own, to do some or all of what you have permission to do.
    The MIT License's right to sublicense is actually somewhat unusual
@@ -393,13 +393,13 @@ almost do or just plain don't:
    the MIT License will probably end up with a copy of the license
    telling them they have a direct license, too.
 
--  _sell copies of_ is a mongrel.  It is close to "offer to sell" and
+-  "sell copies of" is a mongrel.  It is close to "offer to sell" and
    "sell" in the [patent statute][35 USC 271], but refers to "copies",
    a copyright concept.  On the copyright side, it seems close to
    "distribute", but the [copyright statute][17 USC 106] makes no
    mention of sales.
 
-- _permit persons to whom the Software is furnished to do so_ seems
+- "permit persons to whom the Software is furnished to do so" seems
   redundant of "sublicense".  It's also unnecessary to the extent
   folks who get copies also get a direct license.
 
