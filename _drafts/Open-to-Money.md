@@ -65,23 +65,3 @@ This view is just one symptom of living the future in the early 2000s and fallin
 <!-- Gates' letter to hobbyists: different POV, different circumstances now -->
 
 <!-- open source "theory" a rationalization and coping strategy for rapid change -->
-
-<!-- Lesson: Extreme positions have side effects. -->
-
-<!-- Lesson: Don't undervalue intrinsic motivation. -->
-
-<!-- Lesson: A big enough crowd has one or two anoraks. -->
-
-<!-- Lesson: Activists win by outcompeting their opponents. -->
-
-<!-- Lesson: You can't fight the money forever. -->
-
-<!-- Lesson: Don't surrender to the money. -->
-
-<!-- Lesson: Beware of lotteries. -->
-
-<!-- Lesson: Don't confuse theory and fundamentals. -->
-
-<!-- Lesson: Look out when thinks get cheap fast. -->
-
-<!-- Lesson: Beware exceptionalism. Study the rules. -->
