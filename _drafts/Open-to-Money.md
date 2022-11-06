@@ -1,6 +1,5 @@
 ---
 title: Open to Money
-description: how to boot up a few million new programmers without financializing the Hell out of everything
 series: Killjoy
 tags:
 - Open Source
@@ -9,9 +8,9 @@ tags:
 
 The open source mindset in 2022 is right where proprietary mania was thirty years ago: standing in the way of the biggest rush of pent-up programmer potential yet to hit computing.  Half of humanity's online.  Millions more could contribute good tools, libraries, frameworks, and languages, but they'll need to earn in the open, not just work there.  They'll need an open source people pay for.  And they'll get it.
 
-When old believers say money and open source shouldn't mix, what more and more new prospects hear is that they're not welcome.  They can't work for nothing like earlier hackers, wait years to catch a break, or raise a big grant or a seed round to pay all their bills.  If coding in the open can't pay as they go, they can't code in the open.  If some kinds of software just have to cost nothing, no matter how much they're worth, those aren't kinds of software they can do.
+When old believers say money and open source shouldn't mix, what more and more new prospects hear is that they're not welcome.  They can't work for nothing like earlier hackers, wait years to catch a break, or raise a bunch of someone else's money to pay all their bills.  If coding in the open can't pay as they go, they can't code in the open.  If some kinds of software just have to cost nothing, no matter how much they're worth, those aren't kinds of software they can do.
 
-Programmers who can aren't dying out, but too few realize they're no longer the story.  Toppling barriers between coder can-do and source code can still serve progress.  But on a free Web, rallying cries for the few shouldn't hold back the many, even if they got there first.  If there's one way to software right on the Web, it needs to enable the lot, not impose trade-offs.
+Programmers who can aren't dying out, but too few realize they're no longer the story.  Toppling barriers between righteous coder can-do and source code can still enable progress.  Problems arise when the battle cries of earlier, wealthier cohorts harden into a culture that holds back more numerous newcomers.  On a free and open Web, the ideology of the few shouldn't hold back the many, even if the few got there first.  If there's one way to do software right online, it needs to enable the lot, not impose needless trade-offs.
 
 Big numbers win in the end.  Coders and companies are going to pay for tools and components again.  They're going to get their money's worth, and they're going to outcompete rivals who don't.  New talent both working and selling online will do for languages, databases, libraries, and frameworks what offshoring, immigration, and remote work have already done for the rest of software.  It's coming.
 
