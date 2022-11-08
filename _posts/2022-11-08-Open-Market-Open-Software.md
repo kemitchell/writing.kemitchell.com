@@ -8,9 +8,11 @@ tags:
 - Software Industry
 ---
 
-The open source mindset in 2022 is right where proprietary mania was thirty years ago: standing in the way of the biggest rush of pent-up programmer potential yet to hit computing.  Half of humanity's online.  Millions more could contribute fundamental code.  But they'll need to earn in the open, not just work there.  They'll need an open users pay for.  They'll get it.
+The open source mindset in 2022 is right where proprietary mania was thirty years ago: standing in the way of the biggest rush of pent-up programmer potential yet to hit computing.  Half of humanity's online.  Millions more could contribute fundamental code.  But they'll need to earn in the open, not just work there.  They'll need an open users pay for.
 
-When old believers say money and open source shouldn't mix, what more and more prospects hear is that they're not welcome.  They know there's money in open source, but not where they can reach it.  They can't work for nothing, wait years to catch a break, or raise seed money or a grant to pay all their bills until it all comes through.  If coding in the open can't pay as they go, they can't code in the open.  If some kinds of software just have to cost nothing, no matter how much they can make them worth, those aren't kinds of software they can do.
+They'll get it.
+
+When old believers say money and open source shouldn't mix, what more and more prospects hear is that they're not welcome.  They know there's money in open source, just not where they can reach it.  They can't work for nothing, wait years to catch a break, or raise seed money or a grant to pay all their bills until it all comes through.  If coding in the open can't pay as they go, they can't code in the open.  If some kinds of software just have to cost nothing, no matter how much they can make them worth, those aren't kinds of software they can do.
 
 Programmers who can aren't dying out, but they're no longer the story.  Potential workaday coders outnumber hackers of leisure like hackers of leisure outnumber staff at proprietary firms.  More eyes for maintenance.  Better odds that someone's itchy and motivated.  Toppling barriers between that coder can-do and source code enables technical progress, whether the barriers happen to be legal, technical, financial, or cultural.
 
