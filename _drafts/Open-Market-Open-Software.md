@@ -1,5 +1,6 @@
 ---
 title: The Open Market in Open Software
+description: programmers who can't afford to do open source will revolutionize the tools of the craft
 series: Killjoy
 tags:
 - Open Source
