@@ -6,7 +6,7 @@ tags:
 - Software Industry
 ---
 
-The open source mindset in 2022 is right where proprietary mania was thirty years ago: standing in the way of the biggest rush of pent-up programmer potential yet to hit computing.  Half of humanity's online.  Millions more could contribute fundamental software.  But they'll need to earn in the open, not just work there.  They'll need an open users have to pay for.
+The open source mindset in 2022 is right where proprietary mania was thirty years ago: standing in the way of the biggest rush of pent-up programmer potential yet to hit computing.  Half of humanity's online.  Millions more could contribute fundamental software.  But they'll need to earn in the open, not just work there.  They'll need an open users pay for.
 
 When old believers say money and open source shouldn't mix, what more and more new prospects hear is that they're not welcome.  They know there's money in open source.  But they can't work for nothing, wait years to catch a break, or raise seed money or a grant to pay their bills.  If coding in the open can't pay as they go, they can't code in the open.  If some kinds of software just have to cost nothing, no matter how much they're worth, those aren't kinds of software they can do.
 
