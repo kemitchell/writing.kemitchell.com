@@ -1,4 +1,5 @@
 ---
+date: 2022-11-08T12:49:20-08:00
 title: Open Market for Open Software
 description: coders who can't afford to do open source will revolutionize software
 series: Killjoy
