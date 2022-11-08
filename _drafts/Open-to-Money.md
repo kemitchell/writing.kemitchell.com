@@ -1,5 +1,5 @@
 ---
-title: Open to Money
+title: Open Market for Open Software
 series: Killjoy
 tags:
 - Open Source
@@ -10,7 +10,7 @@ The open source mindset in 2022 is right where proprietary mania was thirty year
 
 When old believers say money and open source shouldn't mix, what more and more new prospects hear is that they're not welcome.  They know there's money in open source.  But they can't work for nothing, wait years to catch a break, or raise seed money or a grant to pay their bills.  If coding in the open can't pay as they go, they can't code in the open.  If some kinds of software just have to cost nothing, no matter how much they're worth, those aren't kinds of software they can do.
 
-Programmers who can aren't dying out, but too few realize they're no longer the story.  Toppling barriers between affluent coder can-do and source code still enables progression.  But problems arise when the battle cries of earlier, wealthier cohorts harden into dogma that holds more numerous newcomers back.  On a free and open Web, the interests of the few shouldn't spinlock the many, even if the few got there first.  If there's one ideal for doing software online, it needs to maximize global progress, not enshrine a local maximum and impose trade-offs.
+Programmers who can aren't dying out, but too few realize they're no longer the story.  Less affluent newcomers outnumber today's hackers like hackers outnumbered staff programmers at proprietary vendors.  Toppling barriers between affluent coder can-do and source code can still enable technical progression.  But problems start when battle cries of the old chosen few end up shouting down more numerous newcomers.  If there's one ideal for doing software online, it needs to maximize global progress, not enshrine a local maximum and impose trade-offs from there.
 
 Big numbers win in the end.  Coders and companies are going to pay for basic tools and components again, they're going to get their money's worth, and they're going to outcompete those who don't.  Because licensing's the step up on the business-model ladder that workaday coders can reach from entry-level global jobs.  Not just collaborating on the open Web, but finding and selling to customers there.  Not by monetizing something else, but by monetizing what they do.
 
