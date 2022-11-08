@@ -1,5 +1,5 @@
 ---
-title: Open Market for Open Software
+title: The Open Market in Open Software
 series: Killjoy
 tags:
 - Open Source
