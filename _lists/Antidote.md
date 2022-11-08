@@ -1,5 +1,5 @@
 ---
-title: Open Source Antidote
+title: Open Source Hype Antidote
 description: critical and alternative views on free and open source software
 layout: post
 ---
