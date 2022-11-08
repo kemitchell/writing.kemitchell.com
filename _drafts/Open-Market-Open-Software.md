@@ -14,12 +14,12 @@ Programmers who can aren't dying out, but they're no longer the story.  Potentia
 
 The mantras of a open source circa 1999 hammered on licenses and source code, because those were the blockers for the relatively affluent, early adopting few.  They've hardened into a framework that not only can't see money problems, but tells itself user fees will puff collaboration's magic smoke out.  If there's one true ideal for getting software made online, it needs to maximize contribution Web-wide, from all Web-connected people, not enshrine a local maximum and set up conflicts from there.
 
-Big numbers win in the end.  Coders and companies are going to pay for basic tools and components again, they're going to get their money's worth, and they're going to outcompete those who don't.  Because licensing's the next rung up the business-model ladder that workaday coders can reach from entry-level global jobs.  Not just collaborating on the open Web, but finding and selling to customers there.  Not by monetizing something else, requiring money or time they don't have, but by monetizing what they do.
+Demographics win in the end.  Coders and companies are going to pay for basic tools and components again, they're going to get their money's worth, and they're going to outcompete those who don't.  Because licensing's the next rung up the business-model ladder that workaday coders can reach from entry-level global jobs.  Not just collaborating on the open Web, but finding and selling to customers there.  Not by selling something else, which takes money or time they don't have, but by monetizing what they do directly.  No profession's better equipped to count the fees and automate the payments.
 
 Newly unblocked talent will do for languages, databases, libraries, and frameworks what offshoring, immigration, and remote work have already done for the rest of software built with them.  The potential energy of so many minds just can't be dammed up indefinitely.
 
-Facilitating the change, rather than fighting it, is a big, unrealized opportunity for those who do have skills and spare cycles in software.  Bigger than applying known tech to one more market niche after another, startup by startup, product by product.  The software game can be improved, not just played well.
+Facilitating this change, rather than fighting it, is a big, unrealized opportunity for those who do have skills and cycles to spare.  Bigger than applying known tech to one more market niche after another, startup by startup, product by product.  The software game can be improved, not just played well.
 
 At the same time, proactively guiding this process toward open competition, rather than leaving it to the bounty hunters of Big Tech, is a big, unappreciated political challenge.  Will the world software market be a free, open Web or a private platform under some feudal firms' pricey protection?
 
-We are engineering the answer to that question now.  We are doing it mostly socially.  We are doing it mostly without noticing.
+We are engineering the answer to that question now.  Mostly socially.  Mostly unwittingly.
