@@ -9,9 +9,7 @@ tags:
 
 [LibreOffice is for sale on the Microsoft Store](https://apps.microsoft.com/store/detail/libreoffice/9PB80DCFP83W), proceeds to [The Document Foundation](https://www.documentfoundation.org/).  Net of Redmond's take, I presume.
 
-There has already been a [related kerfuffle](https://www.pcgamer.com/microsoft-store-u-turn-open-source/).  Best I can tell, the Microsoft part of Microsoft, which runs the Store, became alarmed at the laundering of open source as paid apps over its counter.  Their policy response, predictably overbroad, banned putting prices on free open source, predictably prompting [concerned outcry](https://sfconservancy.org/blog/2022/jul/07/microsoft-bans-commerical-open-source-in-app-store/) from stewards of projects who would beg that way.  Mostly I think this served to raise awareness that selling open source through apps stores is a thing to be done these days, even in Windows Land.
-
-Fitzgerald wrote that "the test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function."  I suspect this quote endures because it flatters.  Orwell also extolled the knack "to hold simultaneously two opinions which cancelled out, knowing them to be contradictory and believing in both of them".  He dubbed it "doublethink".  It's hardly flattering, so I suspect it endures because for being all too true.
+There has already been a [related kerfuffle](https://www.pcgamer.com/microsoft-store-u-turn-open-source/).  Best I can tell, the Microsoft part of Microsoft, which runs the Store, became alarmed at the laundering of open source as paid apps over its counter.  Their policy response, predictably overbroad, banned putting prices on free open source.  This prompting [predictable outcry](https://sfconservancy.org/blog/2022/jul/07/microsoft-bans-commerical-open-source-in-app-store/) from stewards of projects that would beg that way.  Mostly I think this served to raise awareness that selling open source through apps stores is a thing to be done in 2022.  Even in Windows Land.
 
 On the one hand, software, or at least
 
