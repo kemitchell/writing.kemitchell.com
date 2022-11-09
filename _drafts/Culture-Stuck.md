@@ -2,10 +2,13 @@
 title: Culturestuck
 ---
 
-Fitzgerald wrote that "the test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function".  I suspect this quote endures because it flatters.  But Orwell also extolled the knack "to hold simultaneously two opinions which cancelled out, knowing them to be contradictory and believing in both of them".  He dubbed it "doublethink".  Hardly flattering, but too true to deny.
+Fitzgerald [wrote](https://en.wikipedia.org/wiki/The_Crack-Up) that "the test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function".  Orwell [dubbed](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) it doublethink---"to hold simultaneously two opinions which cancelled out, knowing them to be contradictory and believing in both of them".  The Fitzgerald persists because it flatters.  The Orwell persists as too true to forget.
 
-When it comes to business, money, and culture, open source is exceptional.  universally accessible, costless, and unencumbered.
+I know that open source is the exception, herald of a new rule.  It shows and tells everyone, before and since, how to be one with the Web, and how to thrive on it.  ["Wikinomics"](https://en.wikipedia.org/wiki/Wikinomics) for the C-suite.  ["Commons-based peer production"](https://en.wikipedia.org/wiki/The_Wealth_of_Networks) for the faculty lounge.  ["Bazaar"](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) for squinting hackers.  A [White Elephant sale](https://en.wikipedia.org/wiki/White_elephant) of bits and bytes for computing masses, where money never changes hands.  Exceptionalism for one and all, [because the Internet](https://en.wikipedia.org/wiki/A_Declaration_of_the_Independence_of_Cyberspace).
 
+But at the same time, traipsing the Web, I see software acting just like everything else.  It follows more than it leads.  The same money models.  The same marketing tactics.  The same interminable, idealist debates to nowhere.  A parallel bevy of brawling platforms, app stores, and marketplaces, all trying quietly to off each, without scaring off the users.  If I could find my reset switch and start again, I'm not sure I'd see a real difference.  Except for all the old-timers, like me, telling themselves software is different.
+
+Software in general, and open source in particular, has matured its relationship with money despite itself.  The wisdom embedded in its practice has not only exceeded what individual members can know and express, but begun to directly contradict it.  The way we understood the software world in 2002 is telling us the ways of 2022 are wrong.  But and social proof tell us otherwise.
 
 Coders of the '90s and 2000s brought software dist and dev online.  Open source gave them a story, jargon, heroes, allies, and enemies---a way to see the software world.  They won some recognition.  But their program left funding and payoff to industry and the academy.  They made their money in meatspace, when they needed to make money at all.
 
