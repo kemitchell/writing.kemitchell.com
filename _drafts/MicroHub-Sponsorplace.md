@@ -2,6 +2,9 @@
 title: MicroHub Sponsorplace
 ---
 
+
+Fitzgerald once wrote that "the test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function."  I suspect this quote endures because it flatters.  Orwell also extolled the knack "to hold simultaneously two opinions which cancelled out, knowing them to be contradictory and believing in both of them".  He called it "doublethink" in _Ninety Eighty-Four_.  I suspect this winged phrase endures because
+
 GitHub launched a software marketplace five years ago...[for GitHub integrations](https://github.blog/2017-05-22-introducing-github-marketplace-and-more-tools-to-customize-your-workflow/).  A month later, they hosted the first [Sustain](https://sustainoss.org/assets/pdf/SustainOSS-west-2017-report.pdf).  After two years, [joining the Borg](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/), and another Sustain, they didn't open Marketplace to the rest of software as we know it.  They [first-partied donations](https://github.blog/2019-05-23-announcing-github-sponsors-a-new-way-to-contribute-to-open-source/), then literally threw [free](https://docs.github.com/en/sponsors/getting-started-with-github-sponsors/about-github-sponsors#about-the-github-sponsors-matching-fund) [money](https://docs.github.com/en/sponsors/getting-started-with-github-sponsors/about-github-sponsors#about-github-sponsors) at it, to close the [Patreon](https://www.patreon.com)-[Open Collective](https://www.opencollective.com) gap.
 
 For what GitHub does, there's a market.  For what we do on GitHub, a tip jar.
