@@ -7,6 +7,8 @@ tags:
 brief: Who wants this thing?  Or legal trivia, for that matter?
 ---
 
+<!-- TODO: Accelerator and VC fund announcement https://github.blog/2022-11-09-an-open-source-economy-built-by-developers-for-developers/ -->
+
 A number of folks have asked me about [Copilot](https://copilot.github.com/), GitHub's code-completion engine trained on its oodles of source code repos.  There's been all kinds of vaguely legal hue and cry, as well as some honest if preliminary legal comment, not least by friend and colleague [Luis Villa](https://twitter.com/luis_in_brief).  Flocks of social media gumshoes hunt "gotcha" scoops about which repos they trained on, or how likely Copilot is to simply recommend copying someone else's code verbatim.
 
 My own thoughts point decidedly elsewhere.
