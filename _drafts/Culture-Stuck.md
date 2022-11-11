@@ -8,7 +8,7 @@ I know that open source is the exception, herald of a new rule.  It shows and te
 
 But at the same time, traipsing about the Web, I see software acting just like everything else.  The same money models.  The same marketing tactics.  The same idealist debates to nowhere.  A parallel bevy of brawling platforms, app stores, and marketplaces, all trying quietly to off each, without scaring off the users.  If I could find my memory-reset switch and start again, I'm not sure I'd see a difference.  Except for all the old-timers, including me, telling themselves that software is different.
 
-Software in general, and open source in particular, has matured its relationship with money despite itself.  The wisdom embedded in its practice has not only exceeded what individual members can know and express, but begun to directly contradict it.  The way we understood the software world in 2002 is telling us the ways of 2022 are wrong.  But and social proof tell us otherwise.
+Software in general, and open source in particular, has matured its relationship with money despite itself.  What it does in practice has run far ahead of the old stories it still tells about itself.
 
 Coders of the '90s and 2000s brought software dist and dev online.  Open source gave them a story, jargon, heroes, allies, and enemies---a way to see the software world.  They won some recognition.  But their program left funding and payoff to industry and the academy.  They made their money in meatspace, when they needed to make money at all.
 
