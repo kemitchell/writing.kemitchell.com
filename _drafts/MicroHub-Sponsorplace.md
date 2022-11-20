@@ -9,7 +9,7 @@ tags:
 
 [LibreOffice is for sale on the Microsoft Store](https://apps.microsoft.com/store/detail/libreoffice/9PB80DCFP83W), proceeds to [The Document Foundation](https://www.documentfoundation.org/).  Net of Redmond's take, I presume.
 
-There has already been a [related kerfuffle](https://www.pcgamer.com/microsoft-store-u-turn-open-source/).  Best I can tell, the Microsoft part of Microsoft, which runs the Store, became alarmed at the laundering of open source as paid apps over its counter.  Their policy response, predictably overbroad, banned putting prices on free open source.  This prompting [predictable outcry](https://sfconservancy.org/blog/2022/jul/07/microsoft-bans-commerical-open-source-in-app-store/) from stewards of projects that would beg that way.  Mostly I think this served to raise awareness that selling open source through apps stores is a thing to be done in 2022.  Even in Windows Land.
+There has already been a [related kerfuffle](https://www.pcgamer.com/microsoft-store-u-turn-open-source/).  Best I can tell, Microsoft became alarmed at the "laundering" of open source code as paid apps over its counter.  Their policy response, overbroad, banned putting prices on free open source.  This prompted [predictable outcry](https://sfconservancy.org/blog/2022/jul/07/microsoft-bans-commerical-open-source-in-app-store/) from stewards of projects that would earn that way.  Mostly I think this served to raise awareness that selling open source through apps stores is a thing to be done in 2022.  Even in Windows Land.
 
 On the one hand, software, or at least
 
