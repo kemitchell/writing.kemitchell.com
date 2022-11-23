@@ -43,7 +43,7 @@ If you get quality balloons designed for twisting, some will still pop here and 
 
 Go watch a few videos from [Michael Floyd's "Balloon Animals for Beginners" series on YouTube](https://www.youtube.com/watch?v=JzpMuO1BnJQ&list=PLkbFkY1_qG3jGNHOFlSxXBpgreM5ChyAq).  Start from the beginning.  Learning to tie off might be the hardest part.
 
-  Michael's a pro.  He inflates with his mouth.  Don't expect to be able to do that without a lot of practice.  Use your pump.
+_Important Note_:  Michael's a pro.  He inflates with his mouth.  Don't expect to be able to do that without a lot of practice.  Use your pump.
 
 If you take to twisting, make sure you watch through [his "Ask the Balloon Guy" series, too.](https://www.youtube.com/watch?v=jLbCs5qYOCQ&list=PLkbFkY1_qG3hC7IFVxCev8XISEhDksQi9)  Lots of great tips.
 
