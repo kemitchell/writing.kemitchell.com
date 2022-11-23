@@ -37,7 +37,7 @@ If you get quality balloons designed for twisting, some will still pop here and 
 
 5.  Apron
 
-    If you see yourself standing up or moving around as you twist, get yourself a half- or waist-apron with big front pockets, like restaurant waitstaff wear, to hold your pumps and balloons.  I fold mine in half, so it's shorter.
+    If you see yourself standing up or moving around as you twist, get yourself a half-apron or waist apron with big front pockets, like fancy restaurant waitstaff wear, to hold your pumps and balloons.  I fold mine in half, so it's shorter.
 
 ## Step 2: Work Through Some Tutorials
 
