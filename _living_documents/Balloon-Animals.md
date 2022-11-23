@@ -31,7 +31,7 @@ If you get balloons designed to stand up to basic twisting, some will still pop 
 
 4.  Permanent Marker
 
-    A single medium, black Sharpie marker or similar will do.  Mostly for drawing eyes and animal spots.
+    A couple medium, black Sharpie markers will do.  Mostly for drawing eyes and animal spots.
 
 5.  Apron
 
