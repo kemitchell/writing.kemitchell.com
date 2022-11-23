@@ -13,7 +13,7 @@ If you get balloons designed to stand up to basic twisting, some will still pop 
 
     Buy an assorted color bag of [Qualatex](https://us.qualatex.com/) size 260Q balloons.  I get mine [on eBay](https://www.ebay.com/sch/i.html?_nkw=qualatex+260+assortment+bag).
 
-    Try to buy from a seller that looks like they sell a lot of balloons.  You can keep your balloons for years, but if you get old ones that have been on some warehouse shelf for years to start, you might have a harder time.
+    Try to buy from a seller that looks like they sell a lot of balloons.  You can keep your balloons for years, but if you get old ones that have already been on some warehouse shelf for half a decade, you might have a harder time.
 
     For folks outside North America, I have read, but not tested, that [Sempertex](https://www.sempertext.com), based in Columbia, also makes good twisting balloons.  I've also read that [Betallatex](https://www.betallic.com), out of St. Louis, makes good ones.  But I haven't tried them.
 
