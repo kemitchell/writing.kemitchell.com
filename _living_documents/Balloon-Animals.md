@@ -5,7 +5,7 @@ description: supplies and resources, step by step
 
 Making basic balloon animals that kids love is a lot easier than most people think.  They key is good balloons.
 
-If you get balloons designed to stand up to basic twisting, some will still pop here and there.  But it will go from discouragingly often to tolerably rare.
+If you get quality balloons designed for twisting, some will still pop here and there.  But it will go from discouragingly often to tolerably rare.  It's amazing how much good balloons can take.
 
 ## Step 1: Acquire Basic Supplies
 
