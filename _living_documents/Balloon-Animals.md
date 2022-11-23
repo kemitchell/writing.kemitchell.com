@@ -45,7 +45,7 @@ Go watch a few videos from [Michael Floyd's "Balloon Animals for Beginners" seri
 
 _Important Note_:  Michael's a pro.  He inflates with his mouth.  Don't expect to be able to do that without a lot of practice.  Use your pump.
 
-If you take to twisting, make sure you watch through [his "Ask the Balloon Guy" series, too.](https://www.youtube.com/watch?v=jLbCs5qYOCQ&list=PLkbFkY1_qG3hC7IFVxCev8XISEhDksQi9)  Lots of great tips.
+If you take to twisting, make sure you watch through [his "Ask the Balloon Guy" series](https://www.youtube.com/watch?v=jLbCs5qYOCQ&list=PLkbFkY1_qG3hC7IFVxCev8XISEhDksQi9), too.  Lots of great tips.
 
 ## Step 3: Go For It
 
