@@ -1,4 +1,5 @@
 ---
+date: 2022-12-03T13:25:08-08:00
 title: MicroHub Sponsorplace
 description: one software store, many corporate faces
 tags:
