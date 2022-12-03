@@ -4,3 +4,4 @@ vendor
 .jekyll-cache
 **.bak
 _drafts/*.pdf
+_drafts/*.odt

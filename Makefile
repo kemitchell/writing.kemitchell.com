@@ -8,3 +8,9 @@
 		--pdf-engine=xelatex \
 		-o "$@" \
 		$<
+
+%.odt: %.md
+	pandoc \
+    -V author="/dev/lawyer Draft --- $(shell date)" \
+		-o "$@" \
+		$<
