@@ -1,6 +1,6 @@
 ---
 title: MicroHub Sponsorplace
-description: one online software store, many corporate faces
+description: one software store, many corporate faces
 tags:
 - Business Models
 - Open Source
@@ -8,19 +8,19 @@ tags:
 - Software Industry
 ---
 
-Coders of the '90s and 2000s brought software distribution and development online.  Open source gave them a story, jargon, heroes, allies, and enemies---a way to see and relate to the software world.  They congealed into a kind of movement, and that movement won recognition.  But they left money to industry and the academy.  They made their payoffs and funded their projects in meatspace, when they needed money at all.
+Coders of the '90s and 2000s brought software distribution and development online.  Open source gave them a story, jargon, heroes, allies, and enemies---a way to see the software world.  They became a kind of movement, and that movement won recognition.  But their thinking left money to industry and the academy.  They made their payoffs and funded their projects in meatspace, when they needed money at all.
 
-The early Web did not do payments.  It barely did access control.  Naturally, the ideology it selected, freedom of information, made gating access or permission taboo.  Gating meant preventing copies, taking money, or both.  Either was awkward or impossible in practice.  Popular theory made them unnecessary.
+The early Web did not do payments.  It barely did access control.  Naturally, the ideology it selected, freedom of information, made gating access or permission taboo.  Gating meant preventing copies, taking money, or both.  Either was awkward or impossible in practice.  Popular theory made them unnecessary, undesirable.
 
-Even with PayPal, eBay, Amazon, and Transport Layer Security in the late 1990s, it took years for Americans to trust the Net with their dollars.  Meanwhile, open source, like the Web that coevolved it, moved furthest and spread fastest by leveraging what had already shipped.  This was the land-grab stage, for installed base as for mindshare.  Feature fights came later.
+Even with eBay, Amazon, PayPal, and Transport Layer Security in the late 1990s, it took years for Americans to trust the Net with their money.  Meanwhile, open source, like the Web that grew up with it, moved furthest and spread fastest by leveraging what had already shipped.  This was the land-grab stage, for installed base and for mindshare.  Feature fights came later.
 
 We're past that now.  Today's Internet people grow up on a more complete Web.  It does a lot more, for a whole lot more people, across a whole lot more countries.  Locked doors and price tags are as common online as in real life.  The electronic frontier has been civilized, such as that goes.
 
-It's not just ads, like in the good old days.  The very words "platform" and "marketplace" are merging.  If you make stuff on the Internet for others today, chances are good your distributor also wants to be your payment processor, paving a path to going pro.  Features facilitate segmenting your free from your premium, the former growing their platform, the latter paying a cut.  They're ready to help you "monetize" one segment or both.
+It's not just ads, like in the good old days.  Networks became platforms and platforms become marketplaces.  If you make digital stuff on the Internet today, chances are good your distributor also wants to be your payment processor.  They pave a path to going pro.  Features facilitate segmenting your free from your premium, the former growing their platform, the latter paying a cut.  They've tools to help you "monetize" one segment or both.
 
-Then there's software.  The paved path for software made in public for other software people is an off-ramp: go make money doing something, literally anything, other than charging for it.  A remnant of history.
+Then there's software.  The paved path for public software is an off-ramp: go make money doing something, literally anything, but charging for it.  That which is public must remain open, and that which is open must remain pure.
 
-Software components from older industries, like entertainment or manufacturing, don't persist this exceptionalism.  Nor, of course, do most complete apps.  Outside open source, there's often not just a market but competing marketplaces, angling to bring in more buyers and showcase success.  The less advantaged a seller, the more appealing their rise, cue [Horatio Alger](https://en.wikipedia.org/wiki/Horatio_Alger).
+Software components from older industries, like entertainment or manufacturing, don't persist this exceptionalism.  Nor, of course, do most complete apps.  Outside open source, there's often not just a market but competing marketplaces, angling to bring in more buyers and showcase more success.  The less advantaged a seller, the more appealing their rise.  [Horatio Alger](https://en.wikipedia.org/wiki/Horatio_Alger) all over again.
 
 GitHub launched a software marketplace five years ago...[for GitHub integrations](https://github.blog/2017-05-22-introducing-github-marketplace-and-more-tools-to-customize-your-workflow/).  A month later, they hosted the first [Sustain](https://sustainoss.org/assets/pdf/SustainOSS-west-2017-report.pdf), a kind of support group for maintainer types.  After two years, [joining the Borg](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/), and another Sustain, they didn't open Marketplace to the rest of software on GitHub.  They [first-partied donation](https://github.blog/2019-05-23-announcing-github-sponsors-a-new-way-to-contribute-to-open-source/), then literally threw [free](https://docs.github.com/en/sponsors/getting-started-with-github-sponsors/about-github-sponsors#about-the-github-sponsors-matching-fund) [money](https://docs.github.com/en/sponsors/getting-started-with-github-sponsors/about-github-sponsors#about-github-sponsors) at it, to close the [Patreon](https://www.patreon.com)-[Open Collective](https://www.opencollective.com) signup gap.
 
@@ -32,16 +32,14 @@ GitHub does donation as a button with a heart on it.  The button resides in a si
 
 Even with optimized appeals and big, shiny "calls to action", tips brings less than payments for good or service.  So it takes a bigger audience to yield meaningful cash.  Fewer people do.  This is a problem when competing as a platform means showcasing success.
 
-Owning distribution, GitHub can mint new celebrities.  Celebrity boosts audience, which helps low-yield donations add up and cross the line.  Of course, successful celebrities also shine light back on the platform.  The right choice of stars and starlets can brighten its image.  But there can only be so many notables.  If everyone's famous, even just coder-famous, then no one is.
+Owning distribution, GitHub can scout the field and mint celebrities.  Celebrity boosts audience, which helps low-yield donations add up and cross the line.  Of course, successful celebrities also shine light back on the platform.  The [right choice of stars and starlets](https://stars.github.com/) can burnish its image.  But there can only be so many notables.  If everyone's famous, even just coder-famous, then no one is.
 
-Like the patronage platforms it cloned, GitHub Sponsors quietly morphs into a market.  The lead offering is ads, in the form of logo placements.  Largely in `README` and on Pages sites, where they [tend less to offend](https://feross.org/funding-experiment-recap/).  But wherever perks of sponsorship cross open expectations---access to code, availability of support, roadmap steering---they're hidden from view.  [Paid private repos.  Members-only forums.](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/)  You might use GitHub daily and not have noticed this is a thing.  There isn't just public GitHub and private GitHub.  There are constructed toll gates between them.
+Like the patronage platforms it cloned, GitHub Sponsors quietly morphs into a market.  The lead offering is ads, in the form of logo placements.  Largely in `README` and on Pages sites, where they [tend less to offend](https://feross.org/funding-experiment-recap/).  This is the go-to monetize model for the free in freemium.
+
+But wherever perks of sponsorship cross open expectations---access to code, availability of support, roadmap steering---they're hidden from view.  [Paid private repos.  Members-only forums.](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/)  You might use GitHub daily and never have noticed these are a thing.  There isn't just public GitHub and private GitHub.  There are paid gates between them, dubbed "sponsorship", but actually exchange.
 
 Microsoft paid $7.5 billion for the hub of public software distribution and development.  They want to be the payment rail of public software, too.  But money for the kind of software public GitHub hosts remains stubbornly, culturally taboo.  What's a platform preaching open source to do?  [Integrate with the Microsoft Store?](https://www.pcgamer.com/microsoft-store-u-turn-open-source/)
 
-This is already happening.  [LibreOffice is for sale](https://apps.microsoft.com/store/detail/libreoffice/9PB80DCFP83W), proceeds to [The Document Foundation](https://www.documentfoundation.org/).
+Already happening.  [LibreOffice is for sale](https://apps.microsoft.com/store/detail/libreoffice/9PB80DCFP83W), proceeds to [The Document Foundation](https://www.documentfoundation.org/).  Net of Redmond's cut, I presume.
 
-There has also been a [related kerfuffle](https://www.pcgamer.com/microsoft-store-u-turn-open-source/).  Best I can tell, Microsoft became alarmed at the "laundering" of open source code as paid apps over its counter by non-contributors.  Their policy response, predictably overbroad, banned putting prices on free open source.  This prompted [equally predictable outcry](https://sfconservancy.org/blog/2022/jul/07/microsoft-bans-commerical-open-source-in-app-store/) from stewards of projects of the older school.
-
-Mostly I think this served to raise awareness that selling open source through apps stores is a thing to be done in 2022.  Even in Windows Land.
-
-There's no legal, technical, or business reason not to.  Just a conceptual one.  Which is to say, not much of one.
+There has also been a [related kerfuffle](https://www.pcgamer.com/microsoft-store-u-turn-open-source/).  Enterprising nobodies were offering open source for sale on their app store.  Microsoft became alarmed and overreacted, banning sales of open source.  Cue [predictable outcry](https://sfconservancy.org/blog/2022/jul/07/microsoft-bans-commerical-open-source-in-app-store/) from stewards and developers actually using this to ask money for their projects.  Call it "sales", but isn't this mostly sponsorship?  How much are people paying for the convenience of one-click installation, and how much in support?
