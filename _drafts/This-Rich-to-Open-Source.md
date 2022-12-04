@@ -7,23 +7,19 @@ tags:
 - Sustainability
 ---
 
-Reading Linus Torvalds from back at peak open source, I'm struck by just how big a gap there often was between what Linus himself had to say and what everyone else suddenly wanted to say through him.  Linus seems a pretty practical guy, but Linux was having its moment.  Everybody had their big theory.  Tie Linus and Linux in, maybe you and your theory will be important, popular, and revolutionary, too.
+Reading Linus Torvalds from back at peak open source, I'm struck by just how big a gap there often was between what Linus himself had to say and what seemingly everyone else wanted to say through him.  Linus comes across as a pretty practical guy.  But Linux was having its moment.  Everybody has their big theory.  Tie Linus and Linux in, maybe you and your theory will be important, popular, and revolutionary, too.
 
-Not to be outdone, Linus was hocking a theory of his own:
+Not to be outdone, Linus hocked a theory of his own:
 
 > Linus's law says that all of our motivations fall into three basic categories.  More important, progress is about going through those very same things as "phases" in a process of evolution, a matter of passing from one category to the next.  The categories, in order, are "survival," "social life," and "entertainment."
 >
 > --- Linus Torvalds in "What Makes Hacker's Tick? a.k.a Linus's Law", prologue to Pekka Himanen's [_The Hacker Ethic_](https://www.penguinrandomhouse.com/books/80240/the-hacker-ethic-by-pekka-himanen/) (2001)
 
-You can find the same at the beginning and end of [_Just For Fun_](https://www.harperbusiness.com/book/9780066620732/Just-for-Fun-Linus-Torvalds-and-David-Diamond/), his team-written authorized quasi-biography, out the same year.
+Wait a minute, you might think.  That's not Linus's Law!  [Linus's Law](https://en.wikipedia.org/wiki/Linus%27s_law) is "given enough eyeballs, all bugs are shallow".  That was actually [Eric Raymond](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html) in  _The Cathedral and the Bazaar_.  There were competing Linus's Laws.  Apparently Linus's lost.
 
-Wait a minute, you think.  That's not Linus's Law!  [Linus's Law](https://en.wikipedia.org/wiki/Linus%27s_law) is "given enough eyeballs, all bugs are shallow".  That was actually [Eric Raymond](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html), not Linus, in  _The Cathedral and the Bazaar_.  There were competing Linus's Laws.  Linus's lost.
+[_Just For Fun_](https://www.harperbusiness.com/book/9780066620732/Just-for-Fun-Linus-Torvalds-and-David-Diamond/), which also mentions Linus's Linu's Law, is the book to read.   But _The Hacker Ethic_'s the one to preserve for science, as the probable epitome of [Dot-Com](https://en.wikipedia.org/wiki/Dot-com_bubble)-era theory hitching.  Only the prologue's by Linus, standing in for [Levy-ite hackers](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution), rather than "free software" or "open source" as such.  The epilogue's yet another tie-in, for a newly revised, 1,500-page academic trilogy assumingly titled [_The Information Age: Economy, Society and Culture_](https://en.wikipedia.org/wiki/The_Information_Age:_Economy,_Society_and_Culture).  Running the middle is a 153-page mini-monograph by a fellow-Finnish philosopher, arguing that generalized hackerdom's relationship to work represents a new, paradigm-busting---and thoroughly hacker-flattering---departure from the [Protestant work ethic](https://en.wikipedia.org/wiki/Protestant_work_ethic), beyond both capitalism and communism.  The author's conclusion features mock corporate board meeting minutes for creation of the universe and a written contract for God's grace in two installments, disputes resolved in Helsinki.  I shit you not.
 
-_Just For Fun_'s the one to read, but _The Hacker Ethic_'s the one to preserve for science, as the probable epitome of [Dot-Com](https://en.wikipedia.org/wiki/Dot-com_bubble)-era theory hitching.  Only the prologue's by Linus, standing in for [Levy-ite hackers](https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution), rather than "free software" or "open source" as such.  The epilogue's yet another tie-in, for a newly revised, 1,500-page academic trilogy assumingly titled [_The Information Age: Economy, Society and Culture_](https://en.wikipedia.org/wiki/The_Information_Age:_Economy,_Society_and_Culture).  Running the middle is a 153-page mini-monograph by a fellow-Finnish philosopher, arguing that generalized hackerdom's relationship to work represents a new, paradigm-busting---and thoroughly hacker-flattering---departure from the [Protestant work ethic](https://en.wikipedia.org/wiki/Protestant_work_ethic), beyond both capitalism and communism.  The author's conclusion features mock corporate board meeting minutes for creation of the universe and a written contract for God's grace in two installments, disputes resolved in Helsinki.  I shit you not.
-
-Linus's bit does boast some choice bits of Torvaldsian bluntness, characteristically lost in the hype.  One in particular stands out to me now.
-
-Hacking is for rich people.  The money problem isn't just assumed away.  Its absence largely defines the phenomenon.
+Linus's bit does boast some choice bits of Torvaldsian bluntness, characteristically lost in the hype.  One in particular stands out to me now: Hacking is for rich people.  The money problem isn't just assumed away.  Its absence largely defines the phenomenon.
 
 In Linus' words:
 
