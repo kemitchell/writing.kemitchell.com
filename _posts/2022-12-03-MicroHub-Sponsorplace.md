@@ -13,7 +13,7 @@ Coders of the '90s and 2000s brought software distribution and development onlin
 
 The early Web did not do payments.  It barely did access control.  Naturally, the ideology that evolved with it, freedom of information, made gating access or permission taboo.  Gating meant preventing copies, taking money, or both.  Either was awkward or impossible in practice.  Popular theory made them unnecessary or undesirable.
 
-Even with eBay, Amazon, PayPal, and Transport Layer Security in the later 1990s, it took years for Americans to trust the Net with their money.  Meanwhile, open source, like the Web that grew up with it, moved furthest and spread fastest by leveraging was already shipped.  This was the land-grab stage, for installed base and for mindshare.  Feature fights came later.
+Even with eBay, Amazon, PayPal, and Transport Layer Security in the later 1990s, it took years for Americans to trust the Net with their money.  Meanwhile, open source, like the Web that grew up with it, moved furthest and spread fastest by leveraging what had already shipped.  This was the land-grab stage, for installed base and for mindshare.  Feature fights came later.
 
 We're there now.  Today's Internet people grow up on a more complete Web.  It does a lot more, for a whole lot more people, across a whole lot more countries.  The electronic frontier has been civilized, such as that goes.  Locked doors and price tags are as common online as in real life.
 
