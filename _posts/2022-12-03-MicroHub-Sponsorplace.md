@@ -17,9 +17,7 @@ Even with eBay, Amazon, PayPal, and Transport Layer Security in the later 1990s,
 
 We're there now.  Today's Internet people grow up on a more complete Web.  It does a lot more, for a whole lot more people, across a whole lot more countries.  The electronic frontier has been civilized, such as that goes.  Locked doors and price tags are as common online as in real life.
 
-It's not just ads, like in the good old days.  Networks became platforms.  Platforms become marketplaces.  If you make digital stuff on the Internet today, chances are good your distributor also wants to be your payment processor.
-
-They pave a path to going pro.  They facilitate segmenting your free from your premium, the former growing their platform, the latter paying a cut.  They offer tools, sometimes as simple as toggle switches, to "monetize" one segment or all.
+It's not just ads, like in the good old days.  Networks became platforms.  Platforms become marketplaces.  If you make digital stuff on the Internet today, chances are good your distributor also wants to be your payment processor.  They pave a path to going pro.  They facilitate segmenting your free from your premium, the former growing their platform, the latter paying a cut.  They offer tools, sometimes as simple as toggle switches, to "monetize" one segment or all.
 
 Then there's software.  The paved path for public software is an off-ramp: go make money doing something, literally anything, but charging for it.  That which is public must remain open, and that which is open must remain pure.  Such was the faith of our Internet forefathers.
 
