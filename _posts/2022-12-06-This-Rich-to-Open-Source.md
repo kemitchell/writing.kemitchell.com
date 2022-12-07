@@ -52,4 +52,4 @@ If we pretend our only interests are as users, rather than as creators or mainta
 
 Sounds an awful lot like where we are now.
 
-A little blunt Linus-style economic realism could go a long way.  A little less point-headed theory, too.
+A little blunt Linus-style economic realism could go a long way.  A little less pointy-headed theory, too.
