@@ -1,4 +1,5 @@
 ---
+date: 2022-12-06T18:49:38-08:00
 title: This Rich To Open Source
 description: neglected Torvalds straight-talk on how great software gets made, and by who
 tags:
