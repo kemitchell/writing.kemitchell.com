@@ -10,7 +10,7 @@ tags:
 
 Reading Linus Torvalds from back at peak open source, I'm struck by how big the gap could be between what Linus had to say for himself and what seemingly everyone else wanted to say through him.  Linus comes across a pretty practical guy.  But Linux was having its moment.  Everybody has their big idea.  Tie Linux in, maybe you and your theory will be important, insightful, and revolutionary, too.
 
-Not to be left out, Linus brought his own social insight, too:
+Not to be left out, Linus brought his own social insight:
 
 > Linus's law says that all of our motivations fall into three basic categories.  More important, progress is about going through those very same things as "phases" in a process of evolution, a matter of passing from one category to the next.  The categories, in order, are "survival," "social life," and "entertainment."
 >
