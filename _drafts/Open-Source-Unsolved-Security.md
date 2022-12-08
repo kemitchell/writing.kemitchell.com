@@ -7,7 +7,7 @@ tags:
 - Open Source
 ---
 
-How do we cultivate software security skill?  Once we have it, how do we apply it to the right problems, in the right projects, at the right times, with sufficient support, forever?
+How do we cultivate software security talent?  Once we have it, how do we apply it to the right problems, in the right projects, at the right times, with sufficient support, forever?
 
 Apparently not how open source does it now.
 
