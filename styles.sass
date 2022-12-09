@@ -264,6 +264,23 @@ ol.pages
     height: auto
     &:before
       content: '·  ·  ·'
+  a[href]
+    background-image: url('/images/external.svg')
+    background-position: center right
+    background-repeat: no-repeat
+    padding-right: 13px
+  a[href].note, a[href].back
+    background: none
+    padding-right: 0
+  a[href].note:after
+    content: ' ⤓'
+  a[href].back:after
+    content: ' ↺'
+  a[href*="wikipedia.org"]
+    background-image: url('/images/wikipedia.svg'), url('/images/external.svg') !important
+    background-position: center right 11px, center right
+    background-size: 12px
+    padding-right: 25px
 
 // Code
 
