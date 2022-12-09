@@ -1,4 +1,5 @@
 ---
+date: 2022-12-09T13:30:36-08:00
 title: Delayed Release in Investigative Reporting
 description: newsroom licensing strategy in familiar software terms
 brief: ProPublica used a blurb at the top of a story to schedule automatic release under free public license terms.  Their terms are a twist on a known Creative Commons form.
