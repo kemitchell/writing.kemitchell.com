@@ -22,9 +22,8 @@ body > header, body > main, body > footer
   margin: 0 auto
   padding: 0 1rem 0 1rem
 
-body > main
-  img
-    max-width: 100%
+body > main img
+  max-width: 100%
 
 body > header
   margin-top: $interPostPadding
@@ -55,6 +54,7 @@ body > header
 
 .subscribe, .blogroll
   font-size: 100%
+
   a
     color: #800000
 
@@ -91,8 +91,10 @@ body > footer
   font-size: 85%
   text-align: right
   padding-bottom: 200px
+
   p
     margin: 0.5em 0
+
   a[href]
     color: #800000
 
@@ -113,23 +115,28 @@ ol.posts
   list-style-type: none
   margin: 0
   padding: 0
+
   &> li
     width: 100%
     padding: $interPostPadding 0 0 0
-    .tags
-      border-bottom: 1px solid #ddd
-      padding-bottom: $interPostPadding
     &:last-child
       .tags
         border-bottom: none
+
+    .tags
+      border-bottom: 1px solid #ddd
+      padding-bottom: $interPostPadding
+
   .description, .title, .tags
     margin-left: $dateWidth + $datePadding
 
 ol.pages
   list-style-type: none
+
   &> li
     padding: $interPostPadding 0 0 0
     &:last-child
+
       .tags
         border-bottom: none
 
@@ -163,11 +170,13 @@ ol.pages
 
 .categories
   list-style-type: none
+
   li
     &:before
       content: '/'
 
 .posts
+
   time
     display: block
     text-align: right
@@ -195,87 +204,113 @@ ol.pages
       font-size: 75%
 
 .post
+
   time
     padding-top: 1rem
     font-size: 80%
+
   .brief, .retrospect
     background: white
     padding: 1rem
     margin: 1rem 0
     border: 1px solid #777
+
   .brief
     &:before
       content: 'In Brief'
       font-weight: bold
+
   .retrospect
     &:before
       content: 'In Retrospect'
       font-weight: bold
+
   h1
     font-size: 200%
     font-family: "Concourse 6"
     line-height: 1.0
     padding: 0 0 0.25em 0
+
     small
       padding: 0.5rem 0 0 0
       display: block
       clear: both
       font-size: 50%
       color: #444
+
   h2
     font-size: 150%
     font-family: "Concourse 6"
     font-weight: normal
     padding: 1em 0 0.25em 0
+
   h3, h4, h5
     padding: 1em 0 0.25em 0
+
   h5
     font-weight: normal
     font-style: italic
+
   p
     padding: 0.5em 0
     // text-indent: 1em
+
   p, li
     text-align: left
+
   h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, hr + p
     text-indent: 0
+
   .series
     font-style: italic
+
   .signature
     color: #444
     font-size: 85%
     text-align: right
+
   ol, ul, dl
     margin-left: 1em
+
     p
       text-indent: 0
+
     li
       padding: 0
+
   dt
     font-weight: bold
     margin-top: 0.5rem
+
   dd
     margin-bottom: 0.5rem
+
   a
     color: $darkRed
+
   hr
     border: none
     text-align: center
     height: auto
     &:before
       content: '·  ·  ·'
+
   a[href]
     background-image: url('/images/external.svg')
     background-position: center right
     background-repeat: no-repeat
     padding-right: 13px
+
   a[href].note, a[href].back
     background: none
     padding-right: 0
+
   a[href].note:after
     content: ' ⤓'
+
   a[href].back:after
     content: ' ↺'
+
   a[href*="wikipedia.org"]
     background-image: url('/images/wikipedia.svg'), url('/images/external.svg') !important
     background-position: center right 11px, center right
@@ -305,8 +340,10 @@ blockquote
   padding: 0.5rem 1rem
   margin-top: 0.5rem
   margin-bottom: 0.5rem
+
   p:first-child
     text-indent: 0
+
   footer
     text-align: right
 
@@ -323,6 +360,7 @@ div.footnotes
   border-top: 1px solid #ccc
   border-bottom: 1px solid #ccc
   margin-top: 1em
+
   ol
     margin: 0
     padding: 0.5em
@@ -339,6 +377,7 @@ ins
   text-decoration: underline
   color: green
   background: none
+
 del
   text-decoration: line-through
   color: red
@@ -349,25 +388,32 @@ del
 
 table
   margin: 0 auto
+
   caption
     font-weight: bold
     border-bottom: 1px solid black
     padding-bottom: 0.25rem
+
   td, th
     padding: 0.5rem
+
   td:first-child, th:first-child
     padding-left: 0
+
   td:last-child, th:last-child
     padding-right: 0
 
 .translation
   width: 100%
   margin-top: 1rem
+
   caption
     margin-bottom: 1rem
+
   td, th
     padding: 0.25rem 0.5rem
     width: 50%
+
   tbody tr:last-child
     td, th
       padding-bottom: 2rem
@@ -542,8 +588,10 @@ aside.annotation
 
 .totebag
   border-radius: 1ex
+
   p
     text-align: center
+
   p:first-child
     font-size: 200%
     font-family: serif
@@ -552,6 +600,7 @@ aside.annotation
 @media screen
   .totebag
     background-color: black
+
     p
       color: white
 
@@ -581,6 +630,7 @@ aside.annotation
 figure
   margin: 0.5rem 0
   padding: 1rem
+
   a[href]
     border: none
     &:after
