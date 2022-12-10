@@ -1,11 +1,16 @@
-Open source left payment offline and avoided talking straight about money.  In hindsight, this was basically a spell to summon Blockchain.  Blockchain people spawned an uncountable brood of online payment systems.  If there's a spell to make them _stop_ talking money, nobody's found it yet.
+---
+title: Blockchain LARP'd Free Software and Lost
+description: the dangers of learning what ”open“ teaches, not what it shows
+---
 
-The blockchain set also makes a lot of open source.  They practice all the rituals its true believers preach, from baptism by license to consecration unto nonprofit foundation .  But they miss the greater lessons free-and-open performed, as a parable.  They practice its taboos and repeat its mistakes.  Including, ironically, its money aversion.
+Open source left payment offline and avoided talking straight about money.  In hindsight, this was basically a spell to summon Blockchain.  Blockchain people spawned a whole brood of online payment systems.  If there's a spell to make them _stop_ talking money, nobody's found it yet.
 
-While GitHub was off [Sherlocking](https://en.wikipedia.org/wiki/Sherlock_(software)#Sherlocked_as_a_term) patronage, decentralizers had a real opening to complete the networking of software production.  Instead, they reenacted the Free Software story, not as it was but ["as it ought to have been
-"](https://en.wikipedia.org/wiki/Society_for_Creative_Anachronism).  They achieved similar results: few if any of the objectives they professed, but any number of side effects conducive to other interests.
+The blockchain set also makes a lot of open source.  They practice all the rituals its truest believers preach, from baptism by license to consecration unto new foundation.  But they miss the greater lessons free-open showed, as a parable.  They maintain its taboos and repeat its mistakes.  Including, ironically, its inner money aversion.
 
-For the sake of whoever and whatever comes next, we ought to put this story down and tell it to whoever will listen, all across the Web.  We ought to make it part of what the next technologists will have in mind.
+While GitHub was off [Sherlocking](https://en.wikipedia.org/wiki/Sherlock_(software)#Sherlocked_as_a_term) patronage, decentralizers had a real chance to complete its work: the full and final networking of the software production system.  Instead, they reenacted the Free Software story, not as it was but ["as it ought to have been
+"](https://en.wikipedia.org/wiki/Society_for_Creative_Anachronism).  The exercise carried them to similar results: few if any of the goals they professed, but any number of side effects conducive to other interests.  Speculators.  Cybercrooks.  Sanctions evaders.
+
+For the sake of whoever and whatever comes next, we ought to put this story down and tell whoever will listen, all across the Web.  We ought to make it part of what the next technologists will have in mind.
 
 ## The Money Game
 
