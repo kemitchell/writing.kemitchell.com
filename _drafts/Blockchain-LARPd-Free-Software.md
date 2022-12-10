@@ -1,13 +1,13 @@
 ---
 title: Blockchain LARP'd Free Software and Lost
-description: the dangers of learning what ”open“ teaches, not what it shows
+description: the dangers of learning what free and open taught, not what they showed
 ---
 
-Open source left payment offline and avoided talking straight about money.  In hindsight, this was basically a spell to summon Blockchain.  Blockchain people spawned a whole brood of online payment systems.  If there's a spell to make them _stop_ talking money, nobody's found it yet.
+Open source left payment offline and avoided talking straight about money.  In hindsight, this was basically a spell to summon Blockchain.  Blockchain people spawned a whole brood of payment systems.  If there's a spell to make them _stop_ talking money, nobody's found it.
 
-The blockchain set also makes a lot of open source.  They practice all the rituals its truest believers preach, from baptism by license to consecration unto new foundation.  But they miss the greater lessons free-open showed, as a parable.  They maintain its taboos and repeat its mistakes.  Including, ironically, its inner money aversion.
+The blockchain set also makes a lot of open source.  They practice all the rituals its true believers preach, from baptism by license to foundation consecration.  But they miss the greater lessons free-open showed, reenacting its parable instead of learning from it.  They maintain its taboos and repeat its mistakes, including, ironically, its weird money aversion.
 
-While GitHub was off [Sherlocking](https://en.wikipedia.org/wiki/Sherlock_(software)#Sherlocked_as_a_term) patronage, decentralizers had a real chance to complete its work: the full and final networking of the software production system.  Instead, they reenacted the Free Software story, not as it was but ["as it ought to have been
+While GitHub was off [Sherlocking patronage](https://writing.kemitchell.com/2022/12/03/MicroHub-Sponsorplace), decentralizers had a chance to complete its work: the full and final networking of the software production system.  Instead, they reenacted the Free Software story, not as it was but ["as it ought to have been
 "](https://en.wikipedia.org/wiki/Society_for_Creative_Anachronism).  The exercise carried them to similar results: few if any of the goals they professed, but any number of side effects conducive to other interests.  Speculators.  Cybercrooks.  Sanctions evaders.
 
 For the sake of whoever and whatever comes next, we ought to put this story down and tell whoever will listen, all across the Web.  We ought to make it part of what the next technologists will have in mind.
