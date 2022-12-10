@@ -1,15 +1,17 @@
-Open source left payment offline and avoided talking money.  In hindsight, this is basically a spell to summon Blockchain.  If there's a spell to make crypto people _stop_ talking money, no one's found it yet.
+Open source left payment offline and avoided talking straight about money.  In hindsight, this was basically a spell to summon Blockchain.  Blockchain people spawned an uncountable brood of online payment systems.  If there's a spell to make them _stop_ talking money, nobody's found it yet.
 
-The blockchain set also makes a lot of open source.  The practice all the rituals it preaches, from license unto foundation.  But they missed the greater lessons free to open showed, as a parable.  They repeated its mistakes.  Including, ironically, on money.
+The blockchain set also makes a lot of open source.  They practice all the rituals its true believers preach, from baptism by license to consecration unto nonprofit foundation .  But they miss the greater lessons free-and-open performed, as a parable.  They practice its taboos and repeat its mistakes.  Including, ironically, its money aversion.
 
-While GitHub was off convincing itself to [Sherlock](https://en.wikipedia.org/wiki/Sherlock_(software)#Sherlocked_as_a_term) patronage, blockchain had an opening.  Instead of taking it, the decentralizers reenacted Free Software history, not as it was but ["as it ought to have been
-"](https://en.wikipedia.org/wiki/Society_for_Creative_Anachronism).
+While GitHub was off [Sherlocking](https://en.wikipedia.org/wiki/Sherlock_(software)#Sherlocked_as_a_term) patronage, decentralizers had a real opening to complete the networking of software production.  Instead, they reenacted the Free Software story, not as it was but ["as it ought to have been
+"](https://en.wikipedia.org/wiki/Society_for_Creative_Anachronism).  They achieved similar results: few if any of the objectives they professed, but any number of side effects conducive to other interests.
+
+For the sake of whoever and whatever comes next, we ought to put this story down and tell it to whoever will listen, all across the Web.  We ought to make it part of what the next technologists will have in mind.
 
 ## The Money Game
 
-Open source left money to meatspace.  Blockchain brings money online.  But even the best coins do not usurp American dollars.  As in '99, so in '22, fantastic gains and dramatic losses are invariably stated in USD, for the headlines.  Nominal, highly hypothetical, dubiously redeemable gains.
+Open source left money to meatspace.  Blockchain brings money online.  But even the best coins are just proxies for strong national currencies.  As in '99, so in '22, fantastic gains and dramatic losses are invariably stated in USD, for the headlines, preferably on the basis of a credible one-to-one peg.  If you're fleeing the Russian Federation with your dollar stash and ruble account, your main concern is how many lari, dinar, tenge, lira, euros, or dollars you'll end up with on the other side.
 
-Under the dot-com bubble, many open source contributors with serious suit resentment nonetheless cheered for certain startups, even for IBM.  Even some without financial stakes came to see them as surrogates or champions, securing recognition on behalf of nerd-kind.  Alas, the necessary rituals, from wrangling E-Trade to buy $RHT to signing FedEx for fancy-paper stock certificates, tended to spoil the sweet taste of victory.  They belied the narrative of success.  It was winning, but not on their terms.  Winning by concession to lawyers and bankers.  Winning offline.
+Under the dot-com bubble, many open source contributors with serious suit resentment nonetheless cheered for certain startups, even IBM.  Many without any financial stake in these firms nonetheless came to see them as champions, surrogates securing recognition on their behalf, for nerd-kind.  Alas, the attendant rituals, from wrangling E-Trade to receive $RHT to signing FedEx for fancy bond-paper certificates, tended to sour the sweet milk of victory.  They belied the narrative of success.  It was winning, but not on their terms.  Winning by concession to lawyers and bankers.  Winning by concession to defiantly offline lawyerspace and bankerspace, of which cyberspace remained but a new precocious colony.
 
 Between making up money and convincing the world to take it and accepting cryptic promises from sleazy suit-bound finance types, there's an obvious, well trodden path.  Programmers delivering valuable work should be paid in the coin of their realm.  Dollars.  Euros.  Rupees.  Pesos.  Whatever they spend for food, shelter, and services.  Not unvested promises therefore.  If there are costs for transfer or exchange, the customer should bear them.
 
