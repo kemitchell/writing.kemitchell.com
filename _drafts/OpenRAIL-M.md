@@ -1,6 +1,24 @@
 ---
 title: BigScience OpenRAIL-M
+series: Line by Line
+tags:
+- Licensing
+- Artificial Intelligence
 ---
+
+## Big-Picture Takeaways
+
+- Competitive leaders in this kind of work have learned they can use licenses to give codes of conduct for users teeth.  Ethical licensing has a home at the cutting edge of this work.
+
+- OpenRAIL-M borrows very directly from existing work on permissive software licenses, specifically The Apache License, Version 2.0.  But it doesn't seem to have been informed much by prior work on stronger-copyleft, noncommercial, or ethically-restricted licenses for software.
+
+## Open Questions
+
+- To what extent does OpenRAIL-M have copyleft-like effects?
+
+- If a licensee _fails_ to pass on OpenRAIL-M's ethical-use rules as required, what can the project steward, users, or people affected by prohibited uses do about it, legally?
+
+## The License
 
 > ## BigScience Open RAIL-M License
 >
@@ -87,9 +105,9 @@ These terms define "Derivative of the Model" for themselves.
 
 Parts of that definition seem point out to copyright law.  Specifically, the phrase "works based on the model" seems to allude to the Copyright Act's definition of "derivative work" as "a work based on one or more preexisting works...".  This could be read to define copyright derivative works of the copyrightable parts of the model into "Derivatives of the Model" throughout the terms of OpenRAIL-M.
 
-Other parts of the definition seem to reach much more broadly. 
+Other parts of the definition seem to reach much more broadly.
 
-"Modifications" isn't a term with a strongly associated meaning under either copyright or patent law.  A court reading into that term would look to general usage and usage within the AI field.
+"Modification" isn't a term with a strongly associated meaning under either copyright or patent law.  A court reading into that term would look to general usage and usage within the AI field.
 
 The last part of the definition is very broad indeed.  The lawyers who've raised the vague and disfavored doctrine of "copyright misuse" against stronger copyleft licenses that don't limit their reach to copyright derivative works could raise the same argument here.  This isn't just copyright derivative works of copyrightable works in the model.  It's explicitly more than that.
 
@@ -147,19 +165,49 @@ Apache-2-style patent grant with termination clause, plus some conforming change
 Small bug to squash here: There's a remaining reference to "Work" here, which isn't a defined term under OpenRAIL-M.  Should have been replaced with "the Model and/or Complementary Material".
 
 > ### Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION
->
+
 > 4\. Distribution and Redistribution. You may host for Third Party remote access purposes (e.g. software-as-a-service), reproduce and distribute copies of the Model or Derivatives of the Model thereof in any medium, with or without modifications, provided that You meet the following conditions:
->
+
+Attaching some requirements.
+
+Whether these rules are conditions to copyright or patent licenses, and therefore grounds for infringement lawsuits that can get all the things infringement plaintiffs can get, like minimum "statutory" damages and attorneys' fees, will be open to debate.
+
 > a. Use-based restrictions as referenced in paragraph 5 MUST be included as an enforceable provision by You in any type of legal agreement (e.g. a license) governing the use and/or distribution of the Model or Derivatives of the Model, and You shall give notice to subsequent users You Distribute to, that the Model or Derivatives of the Model are subject to paragraph 5. This provision does not apply to the use of Complementary Material.
->
+
+This is the crux of the license's attempt to make sure the ethical "use restrictions" at the end of the license follow the software around so they apply to all users.
+
+This language tries to do three things:
+
+1.  Let others choose the license terms for their own model work, but require those terms to include the use restrictions.
+
+2.  Require those others to make anyone _they_ share with aware of the use restrictions.
+
+3.  Require all this for models, but not the other stuff that comes with this model.
+
+A few things jump out.
+
+First, the requirement is to make the use restrictions "an enforceable provision by You", which I'd read as "a provision enforceable by You".  "You" is defined to mean whoever's getting a license under OpenRAIL-M.  I do _not_ see a requirement to make the use restrictions enforceable by the Licensor giving the original, OpenRAIL-M license for the model.  Nor do I see any requirement to make the use restrictions enforceable by end users or people affected by a use in violation of the restrictions.  Enforcing the use restrictions under a different license seems to be entirely up to the people or companies giving that license.  I don't see anything that says they actually have to enforce it.
+
+Second, requiring other people to be made aware of restrictions isn't necessarily the same as making sure they're legally accountable to follow those restrictions.  OpenRAIL-M itself assumes that people and companies need copyright licenses to work with the model as released.  To get those licenses, they have to agree to OpenRAIL-M, which only comes along with the use restrictions.  Depending on the context, that may not be true of the original model plus additions or modifications, or models based on the original model that are covered by the definition of "Derivatives of the Model".
+
+Third, I don't know why the team might be alright allowing use of their Complementary Materials---scripts running, loading, benchmarking, and evaluation, for example---in any of the nefarious ways prohibited by the use restrictions.  Perhaps quality scripts and tools for those tasks are already available or progressing under permissive license terms without restrictions.
+
 > b. You must give any Third Party recipients of the Model or Derivatives of the Model a copy of this License;
->
+
+This looks mostly like a typical copy-of-the-license requirement under any common permissive license.  But again, the scope of "Derivatives of the Model", as defined, potentially goes far beyond what's license under OpenRAIL-M.  If I create a Derivative of the Model with nothing more than some initial weights from the original Model and release it under my own license terms, incorporating the use restrictions as required, apparently I still have to provide a copy of OpenRAIL-M downstream.  I'd want to add some notes to make clear that only the use restrictions form that copy apply to anything.
+
 > c. You must cause any modified files to carry prominent notices stating that You changed the files;
->
+
+An annoying but common requirement of many permissive and copyleft licenses.  Straight out of Apache 2.0.
+
 > d. You must retain all copyright, patent, trademark, and attribution notices excluding those notices that do not pertain to any part of the Model, Derivatives of the Model.
->
-> You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions - respecting paragraph 4.a. - for use, reproduction, or Distribution of Your modifications, or for any such Derivatives of the Model as a whole, provided Your use, reproduction, and Distribution of the Model otherwise complies with the conditions stated in this License.
->
+
+Straight out of Apache 2.0, with some adaptation.
+
+> You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions --- respecting paragraph 4.a. --- for use, reproduction, or Distribution of Your modifications, or for any such Derivatives of the Model as a whole, provided Your use, reproduction, and Distribution of the Model otherwise complies with the conditions stated in this License.
+
+<!-- TODO: Continue annotating from here. -->
+
 > 5\. Use-based restrictions. The restrictions set forth in Attachment A are considered Use-based restrictions. Therefore You cannot use the Model and the Derivatives of the Model for the specified restricted uses. You may use the Model subject to this License, including only for lawful purposes and in accordance with the License. Use may include creating any content with, finetuning, updating, running, training, evaluating and/or reparametrizing the Model. You shall require all of Your users who use the Model or a Derivative of the Model to comply with the terms of this paragraph (paragraph 5).
 >
 > 6\. The Output You Generate. Except as set forth herein, Licensor claims no rights in the Output You generate using the Model. You are accountable for the Output you generate and its subsequent uses. No use of the output can contravene any provision as stated in the License.
