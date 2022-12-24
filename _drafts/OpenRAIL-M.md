@@ -9,23 +9,76 @@ title: BigScience OpenRAIL-M
 > ### Section I: PREAMBLE
 >
 > This Open RAIL-M License was created by BigScience, a collaborative open innovation project aimed at the responsible development and use of large multilingual datasets and Large Language Models ("LLMs"). While a similar license was originally designed for the BLOOM model, we decided to adapt it and create this license in order to propose a general open and responsible license applicable to other machine learning based AI models (e.g. multimodal generative models).
->
-> In short, this license strives for both the open and responsible downstream use of the accompanying model. When it comes to the open character, we took inspiration from open source permissive licenses regarding the grant of IP rights. Referring to the downstream responsible use, we added use-based restrictions not permitting the use of the Model in very specific scenarios, in order for the licensor to be able to enforce the license in case potential misuses of the Model may occur. Even though downstream derivative versions of the model could be released under different licensing terms, the latter will always have to include - at minimum - the same use-based restrictions as the ones in the original license (this license).
->
-> The development and use of artificial intelligence ("AI"), does not come without concerns. The world has witnessed how AI techniques may, in some instances, become risky for the public in general. These risks come in many forms, from racial discrimination to the misuse of sensitive information. BigScience believes in the intersection between open and responsible AI development; thus, this License aims to strike a balance between both in order to enable responsible open-science in the field of AI. This License governs the use of the model (and its derivatives) and is informed by the model card associated with the model.
->
+
+Very typical story in open licensing.  First a license is written for a specific project.  Then it's tweaked for use with other projects.  GPL, MIT, BSD, and Apache all took this path.
+
+> In short, this license strives for both the open and responsible downstream use of the accompanying model. When it comes to the open character, we took inspiration from open source permissive licenses regarding the grant of IP rights. Referring to the downstream responsible use, we added use-based restrictions not permitting the use of the Model in very specific scenarios, in order for the licensor to be able to enforce the license in case potential misuses of the Model may occur.
+
+The phrase "open and responsible" feels like a good pitch for the purpose here.
+
+> Even though downstream derivative versions of the model could be released under different licensing terms, the latter will always have to include --- at minimum --- the same use-based restrictions as the ones in the original license (this license).
+
+This is likely to be an example of a set of terms where explanatory background or preamble text matter for interpretation of the operative terms that follow.  Which is to say, another example of how the sharp boundary between operative terms and other terms is fiction.
+
+At summary level, this reminds a lot of copyleft and capsule summaries of the GPLs.  But it sounds like their intent is to require other licenses to include their use restrictions, as a kind of part or component of the overall license, rather than require use of this license as a whole.
+
+> The development and use of artificial intelligence ("AI"), does not come without concerns.
+
+Oh, it doesn't now?
+
+> The world has witnessed how AI techniques may, in some instances, become risky for the public in general. These risks come in many forms, from racial discrimination to the misuse of sensitive information. BigScience believes in the intersection between open and responsible AI development; thus, this License aims to strike a balance between both in order to enable responsible open-science in the field of AI.
+
+Repeating the open-and-responsible frame.
+
+> This License governs the use of the model (and its derivatives) and is informed by the model card associated with the model.
+
+None of "use", "model", or "derivatives" is terribly well defined here.  But that's for the operative terms to contend with.
+
+The phrase "informed by" is unusual in legal writing.  To my eye, it doesn't clearly express that the model card's text is _part_ of the license text---"incorporated by reference".  But it could certainly help arguments that the model card is important evidence of what was meant by the terms, if a court determines some term is ambiguous and goes looking for evidence to resolve it.
+
 > NOW THEREFORE, You and Licensor agree as follows:
->
+
+The drafters seem to have started with the Apache License, Version 2.0 for their terms.  Apache says `TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION.`, which are mostly terms associated with copyright law.  `NOW, THEREFORE` is archaic cruft common in old American-style contract forms, and `agree as follows` is clearly contract language.
+
 > 1\. Definitions
->
+
+Apache-style, definitions-up-front section.
+
 > (a) "License" means the terms and conditions for use, reproduction, and Distribution as defined in this document.
->
-> (b) "Data" means a collection of information and/or content extracted from the dataset used with the Model, including to train, pretrain, or otherwise evaluate the Model. The Data is not licensed under this License.
->
+
+Clearly based on Apache.
+
+> (b) "Data" means a collection of information and/or content extracted from the dataset used with the Model, including to train, pretrain, or otherwise evaluate the Model.  The Data is not licensed under this License.
+
+I read this as trying to address the "Copilot spat out my source code!" problem.  These models are trained on a bunch of data.  Many of those data encode creative work covered by copyright.  People own those copyrights and potentially other kinds of rights involved.  The AI developers can't license those rights.
+
+The mind-bender here is how the AI developers can both:
+
+1.  give you a dataset that encodes everything you need to spit out copies of copyrighted works
+2.  _not_ "reproduce" or "distribute" those works, in copyright terms, such that they'd need a license to do so
+
 > (c) "Output" means the results of operating a Model as embodied in informational content resulting therefrom.
->
+
+This is extremely vague, and "therefrom" doesn't really help any.  The definition makes "output" targetable.  Remains to be seen what they're going with that.
+
 > (d) "Model" means any accompanying machine-learning based assemblies (including checkpoints), consisting of learnt weights, parameters (including optimizer states), corresponding to the model architecture as embodied in the Complementary Material, that have been trained or tuned, in whole or in part on the Data, using the Complementary Material.
->
+
+Oh, boy.  Need some structure here.
+
+```javascript
+Object.prototype.isModel = function () {
+  return this.accompanying(what/* the Model? */) &&
+  this instanceof MachineLearningBasedAssemblies /* includes "checkpoints" */ &&
+  (
+    this.consistingOf(learntWeights) ||
+    this.consistingOf(/* learnt? */Parameters/* including "optimizer states" */)
+  ) &&
+  this.correspondingTo(theModelArchitecture.asEmbodiedIn(theComplementaryMaterial)) &&
+  this.trainedOrTunedOn(theData, {inWholOrInPart: true}) &&
+  this.trainedOrTunedUsing(theComplementaryMaterial)
+}
+```
+
 > (e) "Derivatives of the Model" means all modifications to the Model, works based on the Model, or any other model which is created or initialized by transfer of patterns of the weights, parameters, activations or output of the Model, to the other model, in order to cause the other model to perform similarly to the Model, including - but not limited to - distillation methods entailing the use of intermediate data representations or methods based on the generation of synthetic data by the Model for training the other model.
 >
 > (f) "Complementary Material" means the accompanying source code and scripts used to define, run, load, benchmark or evaluate the Model, and used to prepare data for training or evaluation, if any. This includes any accompanying documentation, tutorials, examples, etc, if any.
