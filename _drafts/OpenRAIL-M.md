@@ -79,26 +79,73 @@ Object.prototype.isModel = function () {
 }
 ```
 
-> (e) "Derivatives of the Model" means all modifications to the Model, works based on the Model, or any other model which is created or initialized by transfer of patterns of the weights, parameters, activations or output of the Model, to the other model, in order to cause the other model to perform similarly to the Model, including - but not limited to - distillation methods entailing the use of intermediate data representations or methods based on the generation of synthetic data by the Model for training the other model.
->
+> (e) "Derivatives of the Model" means all modifications to the Model, works based on the Model, or any other model which is created or initialized by transfer of patterns of the weights, parameters, activations or output of the Model, to the other model, in order to cause the other model to perform similarly to the Model, including --- but not limited to --- distillation methods entailing the use of intermediate data representations or methods based on the generation of synthetic data by the Model for training the other model.
+
+Copyright law defines "derivative work", but of all copyrightable works, generically.  It doesn't say anything about what derivative work means specifically for software or more specifically for trained models.
+
+These terms define "Derivative of the Model" for themselves.
+
+Parts of that definition seem point out to copyright law.  Specifically, the phrase "works based on the model" seems to allude to the Copyright Act's definition of "derivative work" as "a work based on one or more preexisting works...".  This could be read to define copyright derivative works of the copyrightable parts of the model into "Derivatives of the Model" throughout the terms of OpenRAIL-M.
+
+Other parts of the definition seem to reach much more broadly. 
+
+"Modifications" isn't a term with a strongly associated meaning under either copyright or patent law.  A court reading into that term would look to general usage and usage within the AI field.
+
+The last part of the definition is very broad indeed.  The lawyers who've raised the vague and disfavored doctrine of "copyright misuse" against stronger copyleft licenses that don't limit their reach to copyright derivative works could raise the same argument here.  This isn't just copyright derivative works of copyrightable works in the model.  It's explicitly more than that.
+
 > (f) "Complementary Material" means the accompanying source code and scripts used to define, run, load, benchmark or evaluate the Model, and used to prepare data for training or evaluation, if any. This includes any accompanying documentation, tutorials, examples, etc, if any.
->
-> (g) "Distribution" means any transmission, reproduction, publication or other sharing of the Model or Derivatives of the Model to a third party, including providing the Model as a hosted service made available by electronic or other remote means - e.g. API-based or web access.
->
+
+In short, all the stuff in the repo that isn't the Model proper.
+
+> (g) "Distribution" means any transmission, reproduction, publication or other sharing of the Model or Derivatives of the Model to a third party, including providing the Model as a hosted service made available by electronic or other remote means --- e.g. API-based or web access.
+
+"Transmission" isn't a word with specific copyright meaning for the kinds of copyright works involved here.  "Reproduction" is, as more or less a synonym for "copy".  "Publication" had a specific meaning under an old version of the Copyright Act, and is often mapped to "distribution...to the public" in the wording of the current Copyright Act.  But here's it's tied to "sharing", which isn't a typical term in either patent or copyright law.
+
+Note that "Distribution" covers things done to "Derivatives of the Model".  These terms are using copyright-like terms, with relationships like those under copyright law, but with far broader meanings all around.
+
+Defining "distribution" to include providing network services is a move we've seen long ago in some less-used "network-copyleft" licenses like the Open Software License.  The GPLs and copyleft licenses inspired by them typically implemented copyleft as triggered by "distribution".  Later licenses looking to plug the "ASP Loophole"---avoiding copyleft by hosting services for users, rather than sending copies of the software to users to run for themselves---sometimes did so by expanding "distribution" in this way.
+
 > (h) "Licensor" means the copyright owner or entity authorized by the copyright owner that is granting the License, including the persons or entities that may have rights in the Model and/or distributing the Model.
->
-> (i) "You" (or "Your") means an individual or Legal Entity exercising permissions granted by this License and/or making use of the Model for whichever purpose and in any field of use, including usage of the Model in an end-use application - e.g. chatbot, translator, image generator.
->
+
+> (i) "You" (or "Your") means an individual or Legal Entity exercising permissions granted by this License and/or making use of the Model for whichever purpose and in any field of use, including usage of the Model in an end-use application --- e.g. chatbot, translator, image generator.
+
+Note the two-pronged structure here, _either_:
+1. you need this license for permission to do what copyright or patent law would otherwise make infringement
+2. you're _using_ the model
+
 > (j) "Third Parties" means individuals or legal entities that are not under common control with Licensor or You.
->
+
 > (k) "Contribution" means any work of authorship, including the original version of the Model and any modifications or additions to that Model or Derivatives of the Model thereof, that is intentionally submitted to Licensor for inclusion in the Model by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Model, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
->
+
+Copied form Apache 2.0 and tweaked.
+
+The phrase "work of authorship" is copyright-speak.  Roughly, it means stuff that could be copyrighted.  But as we saw earlier, modifications to, additions to, or "Derivatives of the Model" range more broadly.  "Including" is a bit confusing here, but in the end the concern is getting license rights from contributors.  Even projects under the Apache Foundation, using the Apache License with these terms, tend to rely on separate contributor license agreements, making this definition and related terms essentially dead code.
+
 > (l) "Contributor" means Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Model. Section II: INTELLECTUAL PROPERTY RIGHTS Both copyright and patent grants apply to the Model, Derivatives of the Model and Complementary Material. The Model and Derivatives of the Model are subject to additional terms as described in Section III.
->
+
+More rigging for Apache-style CLA-style language built into the license.
+
 > 2\. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, and distribute the Complementary Material, the Model, and Derivatives of the Model.
->
+
+Apache-style copyright license grant.  Note the scope:
+- Model
+- Complementary Material
+- Derivatives of the Model
+
+That last begs the question: Is this actually a permissive license?  The terms seem to be granting us a license not just for the model, but for further work on it and even other models just loosely based on it, according to the broad definition of "Derivatives of the Model".
+
+The limit here might be "Contributor".  Only Contributors are granting licenses here.  Per the definition of "Contributor", you're only a Contributor---i.e., granting licensees under these terms---if the Licensor has received and "incorporated" a Contribution from you.
+
+That definition of "Contributor" ended with a bunch of terms about the scope of this Section II.  Kind of a surprise seeing them there.  The effect I see is just reinforcing that the license grants in Section II do in fact apply to Derivatives of the Model.  But we've also been promised some wrinkles in Section III.
+
 > 3\. Grant of Patent License. Subject to the terms and conditions of this License and where and as applicable, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this paragraph) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Model and the Complementary Material, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Model to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Model and/or Complementary Material or a Contribution incorporated within the Model and/or Complementary Material constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for the Model and/or Work shall terminate as of the date such litigation is asserted or filed.
->
+
+Apache-2-style patent grant with termination clause, plus some conforming changes.  Apart from covering both Model and Complementary Material, the only substantive change I see is a shorter trigger for termination:
+
+> > If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the <del>Work</del><ins>Model and/or Complementary Material</ins> or a Contribution incorporated within the <del>Work</del><ins>Model and/or Complementary Material</ins> constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for <del>that Work</del><ins>the Model and/or Work</ins> shall terminate <mark>as of the date such litigation is <ins>asserted or</ins> filed</mark>.
+
+Small bug to squash here: There's a remaining reference to "Work" here, which isn't a defined term under OpenRAIL-M.  Should have been replaced with "the Model and/or Complementary Material".
+
 > ### Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION
 >
 > 4\. Distribution and Redistribution. You may host for Third Party remote access purposes (e.g. software-as-a-service), reproduce and distribute copies of the Model or Derivatives of the Model thereof in any medium, with or without modifications, provided that You meet the following conditions:
