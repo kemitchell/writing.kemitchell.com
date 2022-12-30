@@ -101,7 +101,7 @@ In specialized, business-to-business software, we see the private-sector parts o
 
 ## Open Source
 
-Open source licenses break the chain of security responsibility.  Commitments to stand behind security do not flow forward with code distribution, and resources to buy security help do not flow back.  The network that distributes open source code doesn't carry security signals.
+Open source licenses broke prevailing norms in the software business in part by breaking the chain of security responsibility.  Commitments to stand behind security do not flow forward with code distribution, and resources to buy security help do not flow back.  The network that distributes open source code doesn't carry security signals.
 
 I am a ridiculous person to be writing this on the Internet.  In the late 1990s and early 2000s, I was one of the kids with dial-up flaming the business meanies attacking open source as unprofessional, negligent, and unwise because there wasn't any "vendor standing behind the product".
 
