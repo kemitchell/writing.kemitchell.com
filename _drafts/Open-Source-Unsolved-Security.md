@@ -51,7 +51,7 @@ A few examples.
 
 Market-based supply chains frequently do a good job balancing risk and reward...until the last link in the chain.  There an organized group, like a company, often does business with individual consumers.  Consumers often lack skill and leverage to negotiate, and accept what's offered to them.  This leads to outrageous situations where consumers get badly hurt in utterly predictable ways, but take-or-leave-it terms say the seller doesn't stand responsible.
 
-Mandatory legal rules that impose warranty- and indemnity-like obligations in sales to end users, called "consumer-protection rules", step in here.  These more or less specific risk terms into vendor-consumer contracts, by patching the legal system those contracts themselves run on.
+Mandatory legal rules that impose warranty- and indemnity-like obligations in sales to end users, called "consumer-protection rules", step in here.  These more or less impose specific risk terms into vendor-consumer contracts, by patching the legal system that governs those deals.
 
 Sometimes consumer-protection rules give individuals the right to sue for violations.  Sometimes they also let them gang up in "class actions" to overcome collective action problems, by making coordination opt-out rather than opt-in.  They may also let public officials or regulators sue on consumers' behalf, avoiding the collective-action problem and socializing the costs of enforcement.  Sellers may charge more when forced to stand responsible under consumer-protection rules, but society as a whole can net out better.
 
