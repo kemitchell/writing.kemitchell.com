@@ -43,7 +43,7 @@ Open source as we know it isn't a supply chain.  It's just distribution.  Softwa
 
 ## Failures
 
-Market-based supply chains offer robust solutions to product-service quality problems, but they do exhibit failure modes.  Market failures differ from those of public goods.  But many well known market failures also have well known solutions.  So much so that the go-to solution for public-good failures is turning the public goods into market ones and solving the market problems instead.
+Market-based supply chains offer robust solutions to product-service quality problems, but they do exhibit failure modes.  Market production failures differ somewhat from public good production failures.  But many well known market failures also have well known solutions.  So much so that the go-to solution for public-good failures is often turning public goods into market ones and solving the market problems from there.
 
 A few examples.
 
