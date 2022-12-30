@@ -39,7 +39,7 @@ Warranties and indemnities depend on a universal and mandatory system for enforc
 
 People used to thinking about products and services that aren't given out free on the Web sometimes use "supply chain" to talk about open source.  Especially when there's a problem and they find themselves short the recourse that supply chains provide.
 
-Open source as we know it isn't a supply chain.  It's just distribution.  Software passes from a developer through any number of repos and clones and archives and mirrors to users, but choice of terms is harshly restricted and resources flow just one way.  Calling this system a "supply chain" is wishing it had features it does not, which nobody paid for.  Calling a maintainer a "supplier" doesn't summon them to solve your problem, as if under spell.
+Open source as we know it isn't a supply chain.  It's just a loose distribution standard, plus some public infrastructure like containerized shipping.  Software passes from a developer through any number of repos and clones, archives and mirrors, until it reaches users.  But choice of terms is harshly constrained and resources flow in just one direction.  Calling this system a "supply chain" is wishing aloud it had features it does not.  Calling a maintainer a "supplier" doesn't magically summon them to solve your problem, as if compelled by a spell.
 
 ## Failures
 
