@@ -13,31 +13,33 @@ Apparently not how open source does it now.
 
 The solution to the open security confidence crisis isn't [standardized packing slips](https://en.wikipedia.org/wiki/Software_bill_of_materials), [a roving security inspectorate](https://openssf.org/), a [centrally planned sustainable-software economy](https://sovereigntechfund.de/en), or a [sign-off scheme](https://blog.tidelift.com/the-state-of-package-signing-across-package-managers).  It's not more software or another fundraiser.  This isn't actually a software problem.  It's much bigger than that.
 
-But it is also, thankfully, a solved problem.  It's just that open source _unsolved_ it.
+But it is also, thankfully, a solved problem.
+
+Open source _unsolved_ it.
 
 ## Known Class
 
-The software-security problem is a product-service quality problem.  Much as drivers need reliable cars and everyone wants competent dentistry, users need and want secure software.  Trouble is, consumers can't tell on their own, in a hurry, if a particular car is a lemon, a particular dentist's a klutz, or some piece of software's too riddled with vulns for their use case.
+The software-security problem is a product-service quality problem.  Much as drivers need reliable cars and everyone wants competent dentistry, users need and want secure software.  But they can't tell on their own, in a hurry, if a particular car is a lemon, a particular dentist's a klutz, or some piece of software's too riddled with vulns for their use case.  They need more information.
 
-Users know best what security they need.  Developers know best how much they've invested in security and how much investing more would cost.  To allocate security resources, we need to connect these signal paths.  Not just among vendors and customers, but among vendors' vendors and customers' customers, too.  However many there may be.
+Users know best what security they need.  Developers know best how much they've invested in it and how much more would cost.  To allocate security resources, we need to connect these signal paths.  Not just among vendors and customers, but among vendors' vendors and customers' customers, too.  However many there may be.
 
 The picture is complex, but this highly general problem has a similarly general solution: legally enforceable promises from vendors to customers to cover them financially when things go wrong.  In legal terms, "warranties" and "indemnities".
 
-Developers can promise users they'll make them whole when vulns or breaches cause harm.  These promises fit naturally in licenses, terms of service, support contracts, or completely separate agreements.  Businesspeople and lawyers know how to write them.  Courts know how to read and apply them.
+Developers can promise they'll make users whole when vulns or breaches cause them harm.  These promises fit naturally in licenses, terms of service, and support contracts.  Business people and lawyers know how to read and write them.  Courts know how to apply and enforce them.
 
-Warranties and indemnities for software security encode security signals in price and terms.  If users demand more security---more protection, in more situations---they negotiate for more protections and pay more for them.  The vendors, receiving the money, can better afford to secure and supply.  If they fail to invest proportionately and effectively, they can end up owing money back for the consequences.
+Warranties and indemnities for software security encode security signals in monetary prices and contract terms.  If users demand more security---more protection, in more situations---they negotiate for more, and likely pay more for it.  The vendors, in turn, can better afford to secure and supply.  If they fail to invest proportionately and effectively, they can end up owing money back for the consequences.
 
 ## Network
 
-With warranties and indemnities, each customer-vendor pair forms an edge in a network.  That network distributes resources.  The resource flows encode data about supply and demand for security.  Any particular edge can be completely opaque, such as under a nondisclosure agreement.  But it still conveys security-relevant signals and resources transitively.
+With warranties and indemnities, customer-vendor deals form edges in a kind of network.  The network distributes resources and obligations, which encode information about supply and demand for security.  Any particular deal can be private, such as under a nondisclosure agreement.  But paths through that edge still conveys security-relevant signals transitively.
 
-For example, a web app framework developer can give a warranty to a SaaS provider that in turn indemnifies end users.  The end users needn't see or even know about the framework developer's terms or price.  But the terms and price the website operator can offer aggregate the terms and prices of all of its vendors, including the framework dev.
+For example, a web app framework developer can give a warranty to a SaaS provider that in turn indemnifies end users.  The end users needn't see or even know about the payments and terms between provider and developer.  But the terms and price the SaaS provider can offer aggregate and reflect the terms and prices of all of its vendors, including the framework dev.
 
-Warranties and indemnities depend on a universal and mandatory system of justice that enforces private contracts---courts---but atop that platform, they facilitate autonomous, uncoordinated dealing.  The result in the large is a constellation of self-assembling, self-balancing, many-nodes, many-edges networks of responsibility-resource exchanges.  In other words, a market-based software supply chain.
+Warranties and indemnities depend on a universal and mandatory system for enforcing private contracts---courts, arbitrators.  But atop that platform, they facilitate autonomous, uncoordinated dealing.  The result in the large is a constellation of self-assembling, self-balancing, many-nodes, many-edges networks of responsibility-resource exchanges.  In other words, a market-based software supply chain.
 
-People used to thinking about products and services that aren't given out free on the Web sometimes use "supply chain" to talk about open source.  Especially when there's a problem and they find themselves short the recourse that supply chains provide.  It's semantic wishful thinking.
+People used to thinking about products and services that aren't given out free on the Web sometimes use "supply chain" to talk about open source.  Especially when there's a problem and they find themselves short the recourse that supply chains provide.
 
-Open source as we know it isn't a supply chain.  It's just a distribution system.  Software passes from a developer through any number of distributors to users, but the links only go one way.  Calling this system a "supply chain" is wishing it had features it does not.  Features nobody paid for.
+Open source as we know it isn't a supply chain.  It's just distribution.  Software passes from a developer through any number of repos and clones and archives and mirrors to users, but choice of terms is harshly restricted and resources flow just one way.  Calling this system a "supply chain" is wishing it had features it does not, which nobody paid for.  Calling a maintainer a "supplier" doesn't summon them to solve your problem, as if under spell.
 
 ## Failures
 
