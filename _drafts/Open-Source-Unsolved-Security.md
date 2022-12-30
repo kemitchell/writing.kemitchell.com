@@ -93,7 +93,7 @@ These things aren't for geek cred.  They're for cred with literally anyone else.
 
 ## Open Source
 
-Open source licenses break the chain of security responsibility.  Customers don't pay developers for open source, and they don't get security assurances.  Security resources do not flow through open source distribution channels, and neither do price-encoded security signals.  The network that distributes open source code does not distribute price- or terms-encoded security signals.
+Open source licenses break the chain of security responsibility.  Commitments to stand behind security do not flow forward with code distribution, and resources to buy security help do not flow back.  The network that distributes open source code doesn't carry security signals.
 
 I am a ridiculous person to be writing this on the Internet.  In the late 1990s and early 2000s, I was one of the kids with dial-up flaming the business meanies attacking open source as unprofessional, negligent, and unwise because there wasn't any "vendor standing behind the product".
 
@@ -132,6 +132,8 @@ There's no reason warranties couldn't become just another form of loss-leading. 
 Whether compensation is paid "for software" or called "a license fee" is irrelevant.  Whether comp takes the form of cash is orthogonal.  Selling software cheap can be an act of charity.  Think student discount or emerging-market pricing.  Giving it away can be the cruelest commercial ploy.  Think "commodify your complement" or malicious [product dumping](https://en.wikipedia.org/wiki/Dumping_(pricing_policy)).  In the end, people want software to do useful things.  They also want it to not leak their data, lend their hardware to malware gangs, or cause myriad other security mayhem.
 
 The argument for using open source without guarantees where security matters boils down to "we get away with it"---an argument not from reason but experience.  We hear this reprised whenever assembly programmers bump into C programmers, C programmers bump into interpreted-language programmers, and just about anybody bumps into JavaScript programmers.  How do you trust all this code you're importing from somebody---anybody---and sell it customers.  Like you do.
+
+Many of the most persuasive arguments for "we'll get away with it" is evidence that a larger, savvier firm is already depending on the code in a high-risk use case.  In other words, free riding.  The concern is that _no one_'s investing in code security.  Showing a rich, capable firm's commitment answers that concern.
 
 TODO: Red Hat model, Tidelift model
 
