@@ -35,7 +35,7 @@ With warranties and indemnities, customer-vendor deals form edges in a kind of n
 
 For example, a web app framework developer can give a warranty to a SaaS provider that in turn indemnifies end users.  The end users needn't see or even know about the payments and terms between provider and developer.  But the terms and price the SaaS provider can offer aggregate and reflect the terms and prices of all of its vendors, including the framework dev.
 
-Warranties and indemnities depend on a universal and mandatory system for enforcing private contracts---courts, arbitrators.  But atop that platform, they facilitate autonomous, uncoordinated dealing.  The result in the large is a constellation of self-assembling, self-balancing, many-nodes, many-edges networks of responsibility-resource exchanges.  In other words, a market-based software supply chain.
+Warranties and indemnities depend on a universal and mandatory system for enforcing private contracts---courts, arbitrators.  But atop that platform, they facilitate autonomous, uncoordinated dealing.  The result in the large is a constellation of self-assembling, self-healing, and self-balancing networks of responsibility-resource exchanges.  In other words, a market-based software supply chain.
 
 People used to thinking about products and services that aren't given out free on the Web sometimes use "supply chain" to talk about open source.  Especially when there's a problem and they find themselves short the recourse that supply chains provide.
 
@@ -43,7 +43,7 @@ Open source as we know it isn't a supply chain.  It's just a loose distribution 
 
 ## Failures
 
-Market-based supply chains offer robust solutions to product-service quality problems, but they do exhibit failure modes.  Market production failures differ somewhat from public good production failures.  But many well known market failures also have well known solutions.  So much so that the go-to solution for public-good failures is often turning public goods into market ones and solving the market problems from there.
+Market-based supply chains offer robust solutions to product-service quality problems, but they do exhibit failure modes.  Common market-production failures differ somewhat from common public-good production failures.  But many well known market failures also have well known solutions.  So much so that the go-to solution for intolerable public-good failures is passing a law to turn public goods into private or club goods and addressing the market failures instead.
 
 A few examples.
 
