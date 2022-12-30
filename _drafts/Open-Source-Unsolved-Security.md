@@ -41,7 +41,7 @@ People used to thinking about products and services that aren't given out free o
 
 Open source as we know it isn't a supply chain.  It's just a loose distribution standard, plus some public infrastructure like containerized shipping.  Software passes from a developer through any number of repos and clones, archives and mirrors, until it reaches users.  But choice of terms is harshly constrained and resources flow in just one direction.  Calling this system a "supply chain" is wishing aloud it had features it does not.  Calling a maintainer a "supplier" doesn't magically summon them to solve your problem, as if compelled by a spell.
 
-## Failures
+## Markets
 
 Market-based supply chains offer robust solutions to product-service quality problems, but they do exhibit failure modes.  Common market-production failures differ somewhat from common public-good production failures.  But many well known market failures also have well known solutions.  So much so that the go-to solution for intolerable public-good failures is passing a law to turn public goods into private or club goods and addressing the market failures instead.
 
@@ -57,7 +57,7 @@ Sometimes consumer-protection rules give individuals the right to sue for violat
 
 We are beginning to see more of these kinds of laws for software as a service, implemented as security requirements under privacy laws.  Typical Google, Facebook, or Twitter users aren't going to drive hard, one-off bargains with public companies for better protection.  But they can vote for legislators who pass laws like the EU General Data Protection Regulation, or pass laws like the California Consumer Privacy Act themselves.  These affect everyone's deal with regulated service providers.
 
-Naturally, we also see ramp-ups in lobbying on who these laws allow to sue, and whether they can use class actions.  Just as we see window-downs in arguments that "freedom of contract" will let the market correct the companies on its own.
+Naturally, we also see ramp-ups in lobbying on who these laws allow to sue, and whether they can use class actions.  Just as we see window-downs in arguments that "freedom of contract" will let the market correct the companies on its own.  We see the same against minimum wage laws and other labor protections---voters getting from their legislatures what they can't get from their employers.
 
 ### Insurance
 
@@ -79,7 +79,7 @@ Broader financial mechanics aside, insurance can also perform a signaling functi
 
 The customer's insistence on insurance can function as a side channel.  When a customer specifically asks for "cyber insurance" they signal a higher need for security.  The vendor may charge the customer more, to cover part of the cost of insurance.  That's fine: the more security the customer needs, the more they should pay.  If multiple customers want the vendor insured, the vendor can spread the cost of the coverage across their bills.
 
-### Certification
+### Certifications
 
 Insurance companies tend to insure for claims under contracts rather generally.  While getting a big policy from a big insurer might involve providing quite a bit of documentation on security practices, insurers don't typically specialize just in those risks.  But specialists there certainly are.  To make their assessments inteligible to the rest of the market, including insurance companies' pricing tools, specialists frequently work within the frameworks of standards.
 
