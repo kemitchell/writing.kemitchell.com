@@ -91,6 +91,14 @@ Everyone bristles about how general, awkward, and expensive conforming to securi
 
 These things aren't for geek cred.  They're for cred with literally anyone else.
 
+## Familiar
+
+If you're in the industry, you know all this.  We already do all this for software.  As a service.
+
+SaaS firms boast all their certs on their marketing pages.  Warranties, indemnities, and their limits on liability probably get negotiated more than any other terms past the cover page.  "Cyber" insurance is a growing and competitive industry.  Countries and parts of countries are passing privacy laws with security requirements one after another.
+
+In specialized, business-to-business software, we see the private-sector parts of this, too.  We saw a lot more when distribute-and-install was the primary model for consumer sales, as well.
+
 ## Open Source
 
 Open source licenses break the chain of security responsibility.  Commitments to stand behind security do not flow forward with code distribution, and resources to buy security help do not flow back.  The network that distributes open source code doesn't carry security signals.
