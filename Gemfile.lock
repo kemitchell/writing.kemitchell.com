@@ -58,7 +58,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
-    rouge (4.0.0)
+    rouge (4.0.1)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -78,4 +78,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.2.30
+   2.3.26
