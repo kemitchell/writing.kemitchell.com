@@ -1,4 +1,5 @@
 ---
+date: 2023-01-05T11:55:08-08:00
 title: "Type Error: “Democratizing”"
 description: runaway sales speak hits the curb again
 tags:
