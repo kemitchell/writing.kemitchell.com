@@ -1,6 +1,5 @@
 #!/bin/sh
 set -e
 git ls-files _drafts | while read -r file; do
-  date="$(git log -1 --format="%cI" -- "$file")"
-  printf "%s %s\n" "$date" "$file"
+  git log -q --format="%aI $file" -- "$file"
 done | sort
