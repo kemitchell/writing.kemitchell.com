@@ -1,5 +1,2 @@
 #!/bin/sh
-set -e
-git ls-files _drafts | while read -r file; do
-  git log -q --format="%aI $file" -- "$file"
-done | sort
+git ls-tree --name-only -z HEAD:_drafts | xargs -0 -I{} git log -1 -q --format="%aI {}" -- "_drafts/{}" | sort -r
