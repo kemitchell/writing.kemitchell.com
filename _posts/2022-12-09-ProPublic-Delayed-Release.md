@@ -9,7 +9,7 @@ tags:
 - Creative Commons
 ---
 
-I read and donate to [ProPublica](https://propublica.org), a nonprofit investigative reporting group.  Their [recent piece on the arrest and release of a former Mexican defense minister on drug-corruption charges](https://www.propublica.org/article/mexico-drug-cartels-cienfuegos-case-dea) as this at the top, right after a signup link for their mailing list:
+I read and donate to [ProPublica](https://propublica.org), a nonprofit investigative reporting group.  Their [recent piece on the arrest and release of a former Mexican defense minister on drug-corruption charges](https://www.propublica.org/article/mexico-drug-cartels-cienfuegos-case-dea) has this at the top, right after the link for their mailing list:
 
 > This article is not subject to ProPublica's Creative Commons license until Jan. 7, 2023.
 
