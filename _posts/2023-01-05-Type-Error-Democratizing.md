@@ -22,4 +22,4 @@ Nothing new here, of course.  Giving software to everyone has long meant giving 
 
 The dynamic today is the same.  The difference lies in how easy it is, emotionally and analytically, to avoid the issue or rationalize it away.  Pretty easy for Americans in the middle '90s, with the USSR fallen, their nukes secure, and the US economy booming, its homeland seemingly safe.  Not so easy today, with Iranian drones overflying the Dnieper, Korean ones overflying the DMZ, missiles whizzing over Japan, Chinese jets roaring around Taiwan, and Ukraine making the news every day.
 
-If you're thinking more about the nefarious potential users of your software, you're not alone.  But ask yourself: Is that because the world has really gotten so much harder?  Or because it's gotten harder not to see what was always there?
+If you're thinking more about the nefarious potential users of your software, you're not alone.  But ask yourself: Is that because the world has really gotten so much harder, or because it's gotten harder not to see what was always there?
