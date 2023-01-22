@@ -8,7 +8,7 @@ tags:
 brief: Circumstances remind us that “democratizing” tech as open source also means handing it to autocrats.
 ---
 
-In dictionaries "democratization" means more democracy, first and foremost.  In marketing it means something else.  "Democratizing robotics" means more robotics for more people, not more democracy.  "Democratizing Ecuador" means more democracy in Ecuador, not more Ecuador.
+In dictionaries "democratization" means more democracy, first and foremost.  In marketing it means something else.  "Democratizing Ecuador" means more democracy in Ecuador, not more Ecuador.  "Democratizing robotics" means more robotics for more people, not more democracy.
 
 The very word "democracy" evokes shiny, high-minded ideals.  Overloading "democratize" with "make more available" helps advertisers and activists bounce that light on what they're pitching.  They tend to get away with it, even if they've got no solid line to draw from what they sell to any institutions, civil society, or popular principles component to democracy.
 
