@@ -1,4 +1,5 @@
 ---
+date: 2023-01-23T18:13:36-08:00
 title: Open Game License Version 1.2 Draft
 description: how to say "irrevocable" like you mean it when you just revoked everybody's licenses
 series: First Reads
