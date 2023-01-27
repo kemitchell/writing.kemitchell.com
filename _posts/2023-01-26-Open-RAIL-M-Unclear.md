@@ -1,4 +1,5 @@
 ---
+date: 2023-01-26T18:41:50-08:00
 title: Open RAIL-M Is More Unclear Than Scary
 description: Does AI devs want to fight abuse, or just not feel bad about enabling it?
 tags:
