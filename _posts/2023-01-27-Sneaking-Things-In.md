@@ -1,4 +1,5 @@
 ---
+date: 2023-01-27T10:59:37-08:00
 title: Sneaking Things In
 description: yes, lawyers actually do this
 tags:
