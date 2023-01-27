@@ -23,4 +23,4 @@ The lessons here are hints about the general circumstances under which gamesmans
 
 For the foreseeable future, this still describes NDAs.  We will have to keep sweeping them for mines.  It may come again soon in privacy, if-when the new EU-US privacy deal's final.  But not because of anything special about secrecy, security, or privacy.  Quite the contrary.
 
-As individual players, our risk of taking a knife with our guard down rises as we slip into associating this problem with where we've seen it before.  This rot grows on process, not the substance of the terms we expect.  The problem is substance we do _not_ expect.
+As individual players, our risk of taking a knife with our guard down rises as we slip into associating this problem with the agreements in wich we've spotted one before.  This rot grows on process, whenever conditions are right, not the substance of the terms we expect.  The problem is substance we do _not_ expect.
