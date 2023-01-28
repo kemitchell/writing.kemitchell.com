@@ -19,7 +19,7 @@ They are there because customers want them, but couldn't reliably get them on de
 
 The cost-benefit here is a fairly simple calculation.  Every counterparty that capitulates---knowingly or not---offsets your rising regulatory risks by some marginal amount.  On the other hand, every counterparty that notices and objects gums up the works a little bit, bleeding off more time and attention from admins, lawyers, and other contract wranglers.  But perversely, the more annoying and time-consuming it is replacing transparent grabs with "[intentionally omitted]", the more annoying and time-consuming it is for the counterparty who spotted them, too.  A few might object but give in eventually.  They also go in the wins column, albeit at some staff-time cost.  Then there is the risk that delay puts relationships past the deadline.  That risk is also mutually borne, affecting both vendor and customer.
 
-The lessons here are hints about the general circumstances under which gamesmanship thrives.  Routine contracts with well established content expectations.  High volumes of transactions.  Time pressure.  Backlogs.
+The lessons here are hints about the general circumstances under which gamesmanship thrives.  Routine contracts with well established content expectations.  High volumes of transactions.  Time pressure.  Backlogs.  Cover.
 
 For the foreseeable future, this still describes NDAs.  We will have to keep sweeping them for mines.  It may come again soon in privacy, if-when the new EU-US privacy deal's final.  But not because of anything special about secrecy, security, or privacy.  Quite the contrary.
 
