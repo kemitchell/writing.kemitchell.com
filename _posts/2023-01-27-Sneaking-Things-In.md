@@ -13,7 +13,7 @@ There is, as of yet, no effective deterrent against this deviant spoilerism.  Wh
 
 Lately, the Schrems II decision, the release of the new "standard contractual clauses" for taking data out of the European Union, and further bureaucratic Brexit carnage had a bunch of orgs updating their contract terms for privacy compliance.  The vast majority of proposals I saw stuck just to this business, getting compliance done at minimal admin cost.  But a small handful included massive new privacy-compliance indemnities, often toward the end, often paired with explicit exemptions from prior-negotiated limits on liability.
 
-These would be top-priority deal points in negotiations from scratch.  Nothing in GDPR requires them.
+These would be contentious, top-priority asks in any negotiation from scratch.  Nothing in GDPR requires them.
 
 They are there because customers want them, and couldn't reliably get them in original deals.  They are there, I suspect, because privacy lawyers know counterparties might sign "compliance chores" without scrutinizing.  And if they do pass along to counsel, the lawyers will have backlogs of maybe dozens to deal with, all under pressure of imminent regulatory deadline.  In short, companies slip in big, one-sided risk shifting terms because they just might away with it.
 
