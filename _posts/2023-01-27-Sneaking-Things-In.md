@@ -11,7 +11,7 @@ Shocking amounts of lawyer time get spent reviewing contract proposals for terms
 
 There is, as of yet, no effective deterrent against this deviant spoilerism.  Which accrues to the benefit of lawyers billing hourly, and against clients who pay that way.
 
-Lately, the Schrems II decision, the release of the new "standard contractual clauses" for taking data out of the European Union, and further bureaucratic Brexit carnage had a bunch of orgs updating their contract terms for privacy compliance.  The vast majority of proposals I saw stuck just to this business, getting compliance done at minimal cost in admin.  But a small handful included massive new privacy-compliance indemnities, often toward the end, often paired with explicit exemptions from prior-negotiated limits on liability.
+Lately, the Schrems II decision, the release of the new "standard contractual clauses" for taking data out of the European Union, and further bureaucratic Brexit carnage had a bunch of orgs updating their contract terms for privacy compliance.  The vast majority of proposals I saw stuck just to this business, getting compliance done at minimal admin cost.  But a small handful included massive new privacy-compliance indemnities, often toward the end, often paired with explicit exemptions from prior-negotiated limits on liability.
 
 These would be top-priority deal points in negotiations from scratch.  Nothing in GDPR requires them.
 
