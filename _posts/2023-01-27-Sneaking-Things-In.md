@@ -7,7 +7,7 @@ tags:
 - Negotiation
 ---
 
-Shocking amounts of lawyer time get spent reviewing contract proposals for terms that clearly don't belong in them.  A typical nondisclosure agreement shouldn't license a customer's logo, require any sale on the customer's choice of law, or prohibit disparaging one side's famous founder.  The overwhelming majority of NDA proposals don't.  But sneaking things in is practically possible, and the tiny percentage of players who try keep the rest of us rubbing tired eyeballs.
+Shocking amounts of lawyer time get spent reviewing contract proposals for terms that clearly do not belong.  A typical nondisclosure agreement shouldn't license a customer's logo, require any sale on the customer's choice of law, or prohibit disparaging one side's famous founder.  The overwhelming majority of NDA proposals don't.  But sneaking things in is practically possible, and the tiny percentage of players who try keep the rest of us rubbing tired eyeballs.
 
 There is, as of yet, no effective deterrent against this deviant spoilerism.  Which accrues to the benefit of lawyers billing hourly, and against clients who pay that way.
 
