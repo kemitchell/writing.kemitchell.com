@@ -11,7 +11,7 @@ tags:
 
 Coders of the '90s and 2000s brought software distribution and development online.  Open source gave them a story, jargon, heroes, allies, and enemies---a way to see the software world.  They became a kind of movement, and that movement won recognition.  But they left money to industry and the academy.  They made their payoffs and funded their projects in meatspace, when they needed money at all.
 
-The early Web did not do payments.  It barely did access control.  Naturally, the ideology that evolved with it, freedom of information, made gating access or permission taboo.  Gating meant preventing copies, taking money, or both.  Either was awkward or impossible in practice.  Popular theory made them unnecessary or undesirable.
+The early Web did not do payments.  It barely did access control.  Naturally, the ideology that evolved with it, freedom of information, made gating access or permission taboo.  That meant preventing copies, taking money, or both.  Either was awkward or impossible in practice.  Popular theory made them needless and stupid.
 
 Even with eBay, Amazon, PayPal, and Transport Layer Security in the later 1990s, it took years for Americans to trust the Net with their money.  Meanwhile, open source, like the Web that grew up with it, moved furthest and spread fastest by leveraging what had already shipped.  This was the land-grab stage, for installed base and for mindshare.  Feature fights came later.
 
