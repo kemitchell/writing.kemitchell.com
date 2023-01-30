@@ -51,7 +51,7 @@ There has also been a [related kerfuffle](https://www.pcgamer.com/microsoft-stor
 
 I have grave concerns about the dominance of GitHub under Microsoft.  But I'm not sure any of the above, or its predictable convergence, counts as bad news.  At least not yet.  Nature abhors hard, sharp categories.  The lines between and around public and private, open and closed, business and community have always been mostly made up, sharpened mostly by our wont to engage with the world as if it were as we see it.  In reality, more monetization methods help more projects to thrive and more developers achieve independence.
 
-Getting those methods implemented is good for software.  Getting them socialized even moreso.  Nobody's better positioned to socialize developers right now than Microsoft.  But nobody's better positioned to bind them up, either.
+Getting those methods implemented is good for software.  Getting them socialized even moreso.  Nobody's better positioned to socialize devs right now than Microsoft.  But nobody's better positioned to bind them up, either.
 
 The most obvious hook, to my eye, is the payment network.  If every company's set up to pay for GitHub, and every developer's set up for Sponsors or Marketplace, then the network effect could be a lot like AWS.  One side's already set up to buy.  One side's already set up to sell.  Big convenience benefit not to go through anyone else.  Heck, companies could end up doing dev payroll through GitHub.
 
