@@ -31,7 +31,7 @@ For what GitHub does, there's a market.  For what we do on GitHub, a tip jar.
 
 Donations, in a word, are weak.  They excel in just one way: offending almost no one.  As long as you don't beg too often.  As long as you don't beg too loud.  As long as you don't make too much money.
 
-GitHub does donation as a button with a heart on it.  The button resides in a sidebar, often below the fold.  The button is gray.  Theme gray.  Very weak.  Very safe.
+GitHub does donation as a button with a heart on it.  The button resides in a sidebar, often below the fold.  The button is gray.  Very weak.  Very safe.
 
 Even with optimized appeals and big, shiny "calls to action", tips brings less than payments for good or service.  So it takes a bigger audience to yield meaningful cash.  Fewer people do.  This is a problem when competing as a platform means showcasing success.
 
