@@ -29,7 +29,7 @@ GitHub launched a software marketplace five whole years ago...[for GitHub integr
 
 For what GitHub does, there's a market.  For what we do on GitHub, a tip jar.
 
-Donations, in a word, are weak.  They excel in just one way: offending almost no one.  As long as you don't beg too often.  As long as you don't beg too loud.
+Donations, in a word, are weak.  They excel in just one way: offending almost no one.  As long as you don't beg too often.  As long as you don't beg too loud.  As long as you don't make too much money.
 
 GitHub does donation as a button with a heart on it.  The button resides in a sidebar, often below the fold.  The button is gray.  Theme gray.  Very weak.  Very safe.
 
