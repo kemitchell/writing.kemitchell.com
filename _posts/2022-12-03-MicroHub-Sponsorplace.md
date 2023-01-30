@@ -35,11 +35,13 @@ GitHub does donation as a button with a heart on it.  The button resides in a si
 
 Even with optimized appeals and big, shiny "calls to action", tips brings less than payments for good or service.  So it takes a bigger audience to yield meaningful cash.  Fewer people do.  This is a problem when competing as a platform means showcasing success.
 
-Owning distribution, GitHub can scout the field and mint celebrities.  Celebrity boosts audience, which helps low-yield donations add up.  Of course, successful celebrities also reflect back on the platform.  The [right choice of stars and starlets](https://stars.github.com/) can shine up GitHub's image.  But there can only be so many notables.  If everyone's famous, even just coder-famous, then no one is.
+Owning distribution, GitHub can scout the field and mint celebrities.  Celebrity boosts audience, which helps low-yield donations add up.  Of course, successful celebrities also reflect back on the platform.  The [right choice of stars and starlets](https://stars.github.com/) can shine up GitHub's image.  But there can only be so many notables.  If everyone's famous, even just coder-famous, then nobody is.
 
-Like the patronage platforms it aped, GitHub Sponsors quietly morphs into a market.  The lead offering is ads---the go-to monetize model for the free end of freemium---in the form of logo placements.  Largely in `README` and on Pages sites, where they [tend less to offend](https://feross.org/funding-experiment-recap/).
+Like the patronage platforms it aped, GitHub Sponsors quietly morphs into a market.  The lead offering is ads---the go-to money model for the free end of freemium---in the form of logo placements.  Largely in `README` and on Pages sites, where they [tend less to offend](https://feross.org/funding-experiment-recap/).
 
-But wherever perks of sponsorship cross open expectations---access to code, availability of support, roadmap steering---they're hidden from view.  [Paid private repos.  Members-only forums.](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/)  You might use GitHub daily and not have noticed these exist.  They are private, after all.  There isn't just public GitHub and private GitHub.  There are paid gates between them, dubbed "sponsorship", but in many cases actually based on direct exchange.
+But wherever perks of sponsorship cross open expectations---access to code, availability of support, roadmap steering---they're hidden from view.  [Paid private repos.  Members-only forums.](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/)  You might use GitHub daily and not have noticed these exist.  They are private, after all.
+
+There isn't just public GitHub and private GitHub.  There are paid gates between them, dubbed "sponsorship", but in many cases actually based on direct exchange.
 
 Microsoft paid $7.5 billion for the hub of public software distribution and development.  They want to be the payment rail of public software, too.  But money for the kind of software public GitHub hosts remains stubbornly taboo, or at least controversial.  What's a platform preaching open source to do?  [Integrate with the Microsoft Store?](https://www.pcgamer.com/microsoft-store-u-turn-open-source/)
 
