@@ -94,7 +94,7 @@ There are rules for vagueness and ambiguity, of course.  More about who can argu
 
 For the record, the worst way is writing what you mean in affected lawyerish, which is how [sad French clowns](https://en.wikipedia.org/wiki/Pierrot) would talk if they weren't also mimes.  Second worst is expecting some lawyer to read your mind, then paying them to write it down in a language you can't or won't try to read.  "Here is your card, sir.  No, you can't flip it over."
 
-My law school barely had a class on contract drafting.  If they could read minds, they'd never have asked me for a dollar.
+My law school barely had a class on contract drafting.  If they could read minds, they'd never ask me for a dollar.
 
 ## Moral?
 
