@@ -86,7 +86,7 @@ Words in contracts bear more weight.  Not just because they describe what someon
 
 Load-bearing, free-standing writing is hard brain work no matter whose brain does it.  The skill of a good contract lawyer lies in doing it a lot, writing as clearly and completely as possible where the effort serves the client.
 
-Judging what to cover and when it's worthwhile is more than half the game.  It takes knowing the business, the deal, the industry, often way more than the law.  The law usually matters most through its defaults: what courts will fill in on their own if you don't cover it.  And, occasionally, for remembering what you _can't_ say, because it's illegal.   Not _how_ to say all the things that _are_ enforceable.  You can say those in plain English and the jargon of your field.
+Judging what to cover and when it's worthwhile is more than half the game.  It takes knowing the business, the deal, the industry, often way more than the law.  The law usually matters most through its defaults: what courts will fill in on their own if you don't cover it.  And, occasionally, for remembering what you _can't_ say, because it's illegal.   Not _how_ to say all the things that _are_ enforceable.  You can say those in English and the jargon of your field.
 
 Even with the best drafting help, sometimes it's just not clear what terms meant or how to apply them.  It's also normal and common to mean to leave some points vague, or leave them out entirely, when pinning them down could slow up or kill a deal.  And sometimes terms that seemed totally predictable one day become utterly ambiguous when applied to some new situation.  Nobody sees the future, but everyone writing contracts tries to boss it around a little.
 
