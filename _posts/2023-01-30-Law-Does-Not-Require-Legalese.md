@@ -38,7 +38,7 @@ Again from Cali's code:
 
 Notice what's missing here: any mention of lawyers.  The question is what the _parties_ intended, not what their lawyers intended.  After all, there may not have been any lawyers.  Lawyers aren't required to make contracts.  Lawyers are just there to help.  Hopefully.
 
-But notice what _is_ mentioned above: timing.  Courts ask what both sides meant _back when they agreed_.  Not what they say they meant now, when they're in some lawsuit fighting each other about it.  If we ask them now, they'll say both sides clearly meant whatever wins the case for them.  Or have their lawyers say it.
+But notice what _is_ mentioned above: timing.  Courts ask what both sides meant _back when they agreed_.  Not what they say they meant now, when they're in some lawsuit fighting each other about it.  If we ask them now, they'll say both sides intended whatever wins the case for them.  Or have their lawyers say it.
 
 Plain meaning and parties' intent are the core of contract interpretation.  If you were going to [sum up contract interpretation in a couple hundred words](https://www.justice.gov/jm/civil-resource-manual-72-principles-contract-interpretation), these are the phrases you'd absolutely have to get in there.
 
