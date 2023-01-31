@@ -84,7 +84,7 @@ California being California aside, we've seen general contract rules sacrifice s
 
 Words in contracts bear more weight.  Not just because they describe what someone else---a court---ought to do, but because of the rules those courts have for reading them.  Terms can't rely on readers to fill from context, mine personal history, or interrupt with clarifying questions, like a good friend texting on a Thursday night.  Contract words must be sturdy and stand on their own.  Not sound older.  Not be "settled".  Not seem fancy somehow, like they're wearing tiny black Oxfords on all their little [serifed](https://en.wikipedia.org/wiki/Serif) feet.
 
-Load-bearing, free-standing writing is hard brain work no matter who does it.  The skill of a good contract lawyer lies in doing it a lot, writing as clearly and completely as possible where the effort serves the client.
+Load-bearing, free-standing writing is hard brain work no matter whose brain does it.  The skill of a good contract lawyer lies in doing it a lot, writing as clearly and completely as possible where the effort serves the client.
 
 Judging where it's worthwhile is more than half the game.  It takes knowing the business, the deal, the industry, often even more than knowing the law.  The law usually matters most through its defaults: what courts will fill in on their own if you don't cover it.  And, occasionally, for realizing out what you _can't_ say, because it's illegal.   Not _how_ to say all the things that you can say.  You can say those in plain English and the jargon of your field.
 
