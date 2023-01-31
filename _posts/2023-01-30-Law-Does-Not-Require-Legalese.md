@@ -72,7 +72,7 @@ In legalese, for nerds going deep? Search ["parol evidence rule"](https://en.wik
 
 Implementations and names aside, what do these rules do, functionally?  They _restrict_ the evidence we can use to argue intent.
 
-Ruling evidence and arguments out of bounds creates risk of excluding something important.  We could imagine situations where a court could _need_ something beyond the terms to truly understand what two sides meant when they contracted.  But just as we can expect them to argue whatever meaning wins them the lawsuit, we can also expect them to drag in literally whatever evidence they think helps their case.
+Ruling evidence and arguments out of bounds risks excluding something important.  We could imagine situations where a court could _need_ something beyond the terms to truly understand what two sides meant when they contracted.  But just as we can expect them to argue whatever meaning wins them the lawsuit, we can also expect them to drag in literally whatever evidence they think helps their case.
 
 This would make it hard to know for sure what you agreed to looking back, since you'd need not just a copy of your contract but records of whatever else the other side might cite to bend them.  It would also turn contract lawsuits into even longer, more expensive, less well bounded slug fests, which could easily gum up the courts.  Backlogs are already hellish today.
 
