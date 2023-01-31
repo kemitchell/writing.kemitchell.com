@@ -8,7 +8,7 @@ tags:
 - Drafting
 ---
 
-People think legal writing sucks because it has to.  All the terms see they hurt their eyes and fog their brains.  But all the lawyers seem to do it.  It must just have to be that way.  To be precise.  Enforceable.  Respectable.  Something.
+People think legal writing sucks because it has to.  All the terms they see hurt their eyes and fog their brains.  But all the lawyers seem to do it.  It must just have to be that way.  To be precise.  Enforceable.  Respectable.  Something.
 
 _Wrong._
 
