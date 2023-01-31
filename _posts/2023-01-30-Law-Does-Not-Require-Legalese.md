@@ -36,7 +36,7 @@ Again from Cali's code:
 
 > A contract must be so interpreted as to give effect to the mutual intention of the parties as it existed at the time of contracting, so far as the same is ascertainable and lawful.
 
-Notice what's missing here: any mention of lawyers.  The question is what the _parties_ intended, not what their lawyers intended.  After all, there may not have been any lawyers.  Lawyers aren't required to make contracts.  Lawyers are there to help.  Hopefully.
+Notice what's missing here: any mention of lawyers.  The question is what the _parties_ intended, not what their lawyers intended.  After all, there may not have been any lawyers.  Lawyers aren't required to make contracts.  Lawyers are just there to help.  Hopefully.
 
 But notice what _is_ mentioned above: timing.  Courts ask what both sides meant _back when they agreed_.  Not what they say they meant now, when they're in some lawsuit fighting other about it.  If we ask them now, they'll say both sides clearly meant whatever wins the case for them.  Or have their lawyers say it.
 
