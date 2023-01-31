@@ -92,7 +92,7 @@ Even with the best drafting help, sometimes it's just not clear what terms meant
 
 There are rules for vagueness and ambiguity, of course.  More about who can argue what, and how.  If all else fails, there are even some deep fallbacks, like interpreting wonky language against whoever wrote it.  But focusing on those exceptions is a bit like Googling brain surgery when you could be buying a helmet.  The clearest, most reliable way to avoid some judge going haywire on you is to write out what you want clearly and get the other side to sign off on it.
 
-For the record, the worst way is writing what you mean in affected lawyerish, which is how [sad French clowns](https://en.wikipedia.org/wiki/Pierrot) would talk if they weren't also mimes.  Second worst is expecting some lawyer to read your mind, then paying them to write it down in a language you can't read.  "I found your card, but no, you can't flip it over."
+For the record, the worst way is writing what you mean in affected lawyerish, which is how [sad French clowns](https://en.wikipedia.org/wiki/Pierrot) would talk if they weren't also mimes.  Second worst is expecting some lawyer to read your mind, then paying them to write it down in a language you can't or won't try to read.  "Here is your card, sir.  No, you can't flip it over."
 
 My law school barely had a class on contract drafting.  If they could read minds, they'd never have asked me for a dollar.
 
