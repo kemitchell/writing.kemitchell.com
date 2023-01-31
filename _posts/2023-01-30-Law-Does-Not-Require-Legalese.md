@@ -1,4 +1,5 @@
 ---
+date: 2023-01-30T20:13:45-08:00
 title: The Law Does Not Require Legalese
 description: a reassuring dive into contract interpretation
 tags:
