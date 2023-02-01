@@ -23,6 +23,7 @@
     <meta name=twitter:card content=summary>
     {% if page.title %}
     <meta name=twitter:title content="{{page.title | smartify}}">
+    <meta name=twitter:site content="{{site.name | smartify}}">
     {% else %}
     <meta name=twitter:title content="{{site.name | smartify}}">
     {% endif %}
@@ -37,6 +38,7 @@
     <meta name=og:type content=website>
     {% if page.title %}
     <meta name=og:title content="{{page.title | smartify}}">
+    <meta name=og:site_name content="{{site.name | smartify}}">
     {% else %}
     <meta name=og:title content="{{site.name | smartify}}">
     {% endif %}
@@ -46,7 +48,6 @@
     <meta name=og:description content="{{site.description | smartify}}">
     {% endif %}
     <meta name=og:image content=https://writing.kemitchell.com/placeholder-on-white.png>
-    <meta name=og:site_name content="{{site.name | smartify}}">
   </head>
   <body>
     <header>
