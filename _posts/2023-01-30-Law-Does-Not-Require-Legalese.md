@@ -60,7 +60,7 @@ Setting aside the new carve-outs for specifics kinds of contracts---sales tax re
 
 In California, the most important process defenses read like this:
 
-> When a contract is reduced to writing [written down ---KEM], the intention of the parties is to be ascertained from the writing alone, if possible...
+> When a contract is reduced to writing [written down ---KEM], the intention of the parties is to be ascertained [figured out ---KEM] from the writing alone, if possible...
 
 > The whole of a contract is to be taken together, so as to give effect to every part, is reasonably practicable, each clause helping to interpret the other.
 
