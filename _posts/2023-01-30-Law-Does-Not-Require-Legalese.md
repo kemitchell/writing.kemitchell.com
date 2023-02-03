@@ -52,7 +52,7 @@ There are more rules, of course.  The whole [contracts part of the California ci
 >
 > <mark><em>(Enacted 1872.)</em></mark>
 
-Fun Fact: All the language I've quoted so far was passed in in 1872.  You could probably tell the sentences felt a bit stodgy.  But they were also relatively manageable, with just one sentence per section.  The endless run-on sentences and (a) imposing (b) enumerated (c) lists came in later centuries.  No further comment.
+Fun Fact: All the language I've quoted so far was passed in in 1872.  You could probably tell the sentences felt a bit stodgy.  But they were also relatively manageable, with just one sentence per section.  The endless run-on sentences and (a) imposing (b) enumerated (c) lists came later.  No further comment.
 
 Setting aside the new carve-outs for specifics kinds of contracts---sales tax reimbursement, heavy equipment rentals, real estate sales---we can spot two themes running through the general sections.  First, where there's a gap in what a contract says, the law tries to fill in what most would probably expect there.  Second, the rules help keep the lawsuit process practically workable.
 
