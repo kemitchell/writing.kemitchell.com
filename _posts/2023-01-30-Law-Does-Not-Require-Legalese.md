@@ -40,7 +40,7 @@ Notice what's missing here: any mention of lawyers.  The question is what the _p
 
 But notice what _is_ mentioned above: timing.  Courts ask what both sides meant _back when they agreed_.  Not what they say they meant now, when they're in some lawsuit fighting each other about it.  If we ask them now, they'll say the contract meant whatever wins them the case.  Or have their lawyers argue it.
 
-Plain meaning and parties' intent are the core of contract interpretation.  If you were going to [sum up contract interpretation in a couple hundred words](https://www.justice.gov/jm/civil-resource-manual-72-principles-contract-interpretation), these are the phrases you'd absolutely have to get in there.
+Plain meaning and parties' intent are the core of contract interpretation.  If you were going to [sum up contract interpretation in a couple hundred words](https://www.justice.gov/jm/civil-resource-manual-72-principles-contract-interpretation), these are the phrases you'd absolutely have to mention.
 
 I am feeling long-winded all of a sudden.
 
