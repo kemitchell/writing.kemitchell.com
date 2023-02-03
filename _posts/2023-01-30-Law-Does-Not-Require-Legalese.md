@@ -102,6 +102,6 @@ My law school barely had a class on contract drafting.  If they could read minds
 
 ## Moral?
 
-Expect better from lawyers.  We've been glazing eyes ahead of sharper, more literate minds than our own for many generations.  But only because we're lazy and insecure as the rest of you, and you let us.
+Expect better from lawyers.  We've been glazing eyes ahead of sharper minds than ours for many generations.  But only because we're lazy and insecure as the rest of you, and you let us.
 
 Please stop.  We shovel this shit all day.
