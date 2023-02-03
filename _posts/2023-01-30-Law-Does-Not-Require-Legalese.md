@@ -82,7 +82,7 @@ Actually, that's kind of California's rep on contracts cases.  It has the same b
 
 ## Write the Future
 
-California being California aside, we've seen general contract rules sacrifice some accuracy so we can know what we agreed to or fight it out in court relatively quick.  This trade-off, not any quizzical dictate to write like a whole shelf of [hornbooks](https://en.wikipedia.org/wiki/Hornbook_(law)) fell on your head in some dusty law library, accounts for the inherent specialness of contract terms.
+California being California aside, we've seen general contract rules sacrifice some accuracy so we can know what we agreed to or fight it out in court relatively quick.  This trade-off, not any quizzical dictate to write like a whole shelf of [hornbooks](https://en.wikipedia.org/wiki/Hornbook_(law)) fell on your head in a law library, accounts for the inherent specialness of contract terms.
 
 Words in contracts bear more weight.  Not just because they describe what someone else---a court---ought to do, but because of the rules those courts have for reading them.  Terms can't rely on readers to fill from context, mine personal history, or interrupt with clarifying questions, like a good friend texting on a Thursday night.  Contract words must be sturdy and stand on their own.  Not sound older.  Not be "settled".  Not seem fancy somehow, like they're wearing tiny black Oxfords on all their little [serifed](https://en.wikipedia.org/wiki/Serif) feet.
 
