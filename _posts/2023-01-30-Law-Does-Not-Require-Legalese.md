@@ -92,7 +92,7 @@ Judging what to cover and when it's worthwhile is more than half the game.  It t
 
 ## Facing Imperfection
 
-Even with the best drafting help, sometimes it's just not clear what terms meant or how to apply them.  It's also normal and common to mean to leave some points vague, or leave them out entirely, when pinning them down could delay or kill a deal.  And sometimes terms that seemed totally predictable one day become utterly ambiguous when applied to some new situation.  Nobody sees the future, but everyone writing contracts is trying to boss it around a little.
+Even with the best drafting help, sometimes it's just not clear what terms meant or how to apply them.  It's also normal and common to intentionally leave some points vague, or leave them out entirely, when pinning them down could delay or kill a deal.  And sometimes terms that seemed totally predictable one day become utterly ambiguous when applied to some new situation.  Nobody sees the future, but everyone writing contracts is trying to boss it around a little.
 
 There are rules for vagueness and ambiguity, of course.  More about who can argue what, and how.  If all else fails, there are even some deep fallbacks, like interpreting wonky language against whoever wrote it.  But focusing on those exceptions is a bit like Googling brain surgery when you could be buying a helmet.  The clearest, most reliable way to avoid some judge going haywire on you is to write out what you want clearly and get the other side to sign off on it.
 
