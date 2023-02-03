@@ -78,7 +78,7 @@ Ruling evidence and arguments out of bounds risks excluding something important.
 
 This would make it hard to know for sure what you agreed to looking back, since you'd need not just a copy of your contract but records of whatever else the other side might use to try and bend or break them.  It would also turn contract lawsuits into even longer, more expensive, less well bounded slug fests, which could easily gum up the courts.
 
-Actually, that's kind of California's rep on contracts cases.  It has the same _basic_ rule as most other states, but its courts are somewhat more willing to hear about fraud, deceit, and other exceptions that undermine the terms.  Court backlogs are crazy.  If you're playing for literally all the points in this blog post, try to point out the civil code section that heavily foreshadows this turn of legal events.
+Actually, that's kind of California's rep on contracts cases.  It has the same basic legal rules as most other states, but its courts are somewhat more willing to hear about fraud, deceit, and other exceptions that undermine the terms.  Court backlogs are crazy.  If you're playing for literally all the points in this blog post, try to point out the civil code section that heavily foreshadows this turn of legal events.
 
 ## Write the Future
 
