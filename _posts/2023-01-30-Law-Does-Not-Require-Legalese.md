@@ -38,7 +38,7 @@ Again from Cali's code:
 
 Notice what's missing here: any mention of lawyers.  The question is what the _parties_ intended, not what their lawyers intended.  After all, there may not have been any lawyers.  Lawyers aren't required to make contracts.  Lawyers are just there to help.  Hopefully.
 
-But notice what _is_ mentioned above: timing.  Courts ask what both sides meant _back when they agreed_.  Not what they say they meant now, when they're in some lawsuit fighting each other about it.  If we ask them now, they'll say the contract meant whatever wins them the case.  Or have their lawyers argue it.
+But notice what _is_ mentioned above: timing.  Courts ask what both sides meant _back when they agreed_.  Not what they say they meant now, when they're in some lawsuit fighting each other about it.  If we ask them now, they'll say the contract meant whatever wins them the case.
 
 Plain meaning and parties' intent are the core of contract interpretation.  If you were going to [sum up contract interpretation in a couple hundred words](https://www.justice.gov/jm/civil-resource-manual-72-principles-contract-interpretation), these are the phrases you'd absolutely have to mention.
 
@@ -52,7 +52,7 @@ There are more rules, of course.  The whole [contracts part of the California ci
 >
 > <mark><em>(Enacted 1872.)</em></mark>
 
-Fun Fact: All the language I've quoted so far was passed in in 1872.  You could probably tell the sentences felt a bit stodgy.  But they were also relatively manageable, with just one sentence per section.  The endless run-on sentences and (a) imposing (b) enumerated (c) lists came later.  No further comment.
+Fun Fact: All the language I've quoted so far was passed in 1872.  You could probably tell the sentences felt a bit stodgy.  But they were also relatively manageable, with just one sentence per section.  The endless run-on sentences and (a) imposing (b) enumerated (c) lists came later.  No further comment.
 
 ## Tuning
 
