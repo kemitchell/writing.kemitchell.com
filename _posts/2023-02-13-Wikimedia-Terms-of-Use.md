@@ -1,4 +1,5 @@
 ---
+date: 2023-02-13T12:27:19-08:00
 title: Wikimedia's Terms of Use
 description: thoughts from a recent review
 tags:
