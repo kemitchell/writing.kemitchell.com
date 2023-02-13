@@ -70,7 +70,7 @@ More 1872?  You bet.
 
 In modern English:  When a contract's written down, try to decide what it means just based on the terms.  All of them in context, not just snippets.  If several contracts were part of one big deal, read them all together.
 
-In legalese, for nerds going deep? Search ["parol evidence rule"](https://en.wikipedia.org/wiki/Parol_evidence_rule)---name from old [Law French](https://en.wikipedia.org/wiki/Law_French).  Then try "four corners".
+In legalese, for nerds going deep? Search ["parol evidence rule"](https://en.wikipedia.org/wiki/Parol_evidence_rule), name from old [Law French](https://en.wikipedia.org/wiki/Law_French).  Then try "four corners".
 
 Implementations and names aside, what do these rules do, functionally?  They _restrict_ the evidence we can use to argue intent.
 
