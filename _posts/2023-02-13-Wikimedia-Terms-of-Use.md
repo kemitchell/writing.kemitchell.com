@@ -23,7 +23,7 @@ I've just reviewed [Wikimedia's terms of use](https://foundation.wikimedia.org/w
 
 On Wikipedia, you have to proactively disclose your paid affiliations.  This rule does not exist on GitHub, which leads to all kinds of social consequences I've [blogged about before](https://writing.kemitchell.com/2017/10/16/Mercenary-Rapport).
 
-> ## [7. Licensing of Content](https://foundation.wikimedia.org/wiki/Terms_of_Use/en#7._Licensing_of_Content)
+> ## 7. Licensing of Content
 >
 > ...
 >
@@ -49,7 +49,7 @@ To license open software with a real, practical requirement for due credit, see 
 
 At the same time, we see this a lot with Creative Commons licenses.  Those licenses say you have to attribute, but don't say much about specifically how to do that.  They can't.  There are too many different conventions and traditions across media and industries.
 
-So licensors "overlay" specifics on top of their license grants.  Here, Wikimedia wants to make sure that its projects aren't bogged down with administrative burden.  They're potentially susceptible, given the volume of licensed material they handle.  On the flip side, they're also strong in code-fu.  Uniformity facilitates automation in software, which they've done a lot of.
+So licensors overlay specifics on top of their license grants.  Here, Wikimedia wants to make sure that its projects aren't bogged down with administrative burden.  They're potentially susceptible, given the volume of licensed material they handle.  On the flip side, they're also strong in code-fu.  Uniformity facilitates automation in software, which they've done a lot of.
 
 > You may import text that you have found elsewhere or that you have co-authored with others, but in such case you warrant that the text is available under terms that are compatible...
 
@@ -91,22 +91,22 @@ There are potentially interesting questions about limits to how far this can go 
 >
 > The Wikimedia Foundation Board of Trustees releases [official policies](https://foundation.wikimedia.org/wiki/Resolutions) from time to time.  Some of these policies may be mandatory for a particular Project or Project edition, and, when they are, you agree to abide by them as applicable.
 
-This is one of those points where terms of use, which look long enough you start reading, exploding out to encompass tons of other documents, many of which may or may not apply.  This page isn't terms of us.  It's the root of a big, knotty tree of terms that branches out dozens upon dozens of times.
+This is one of those points where terms of use, which look long enough you start reading, explode out to encompass tons of other documents, many of which may or may not even apply.  This page isn't terms of us.  It's the root of a big, knotty tree of terms that branches out dozens of times.
 
 It may not even be administrative possible for someone at Wikimedia to sit down and compile all the text brought in by references and references-in-references.  This is disturbingly common online.
 
 > ## 13. Disputes and Jurisdiction
 > <mark><em>Highlighted for emphasis</em></mark>
 
-I use HTML highlighting in my legal terms too, but I've never felt compelled to write anything like this out.  I don't see how it hurts.  I'm just kind of scratching my head.
+I use `background-color: yellow;` highlighting in my legal terms too, but I've never felt compelled to write anything like this out.  I don't see how it hurts.  I'm just kind of scratching my head.
 
 Quotes of emphasized language without highlighting follow.
 
 > If you seek to file a legal claim against us, you agree to file and resolve it exclusively in a state or federal court located in San Francisco County, California. You also agree that the laws of the State of California and, to the extent applicable, the laws of the United States of America will govern these Terms of Use, as well as any legal claim that might arise between you and us (without reference to conflict of laws principles).
 
-"Lawsuits in our back yard" irks all kinds of people, but the argument from transactions costs makes sense.  The wrong, highly motivated Internet brigade could eat big chunks of Wikimedia's budget in legal fees hiring lawyer worldwide, if users could sue literally anywhere.
+"Lawsuits in our back yard" irks all kinds of people, but the argument from transaction costs makes sense.  The wrong, highly motivated Internet brigade could eat big chunks of Wikimedia's budget in legal fees hiring lawyers worldwide if users could sue literally wherever.
 
-The more global reach an organization's sites and services have, the more the org needs that protection.  But at the same time, more people in far-off countries, and in potentially tenuous financial circumstances, sign up to the absurdly hypothetical possibility of suing in San Francisco.
+The more global reach an organization's sites and services have, the more the org needs that protection.  But at the same time, the more people in far-off countries, and in potentially tenuous financial circumstances, sign up to the absurdly hypothetical necessity of vindicating legal rights in San Francisco.
 
 > ## 15. Limitation of Liability
 >
