@@ -8,7 +8,7 @@ tags:
 - Terms of Service
 ---
 
-I've just reviewed [Wikimedia's terms of use](https://foundation.wikimedia.org/wiki/Terms_of_Use/en) for Wikipedia and its other projects.  A few thoughts.
+I've just reviewed [Wikimedia's terms of use](https://foundation.wikimedia.org/wiki/Terms_of_Use/en) for the first time in a long while.  A few thoughts.
 
 > ## Paid contributions without disclosure
 >
@@ -34,9 +34,9 @@ This is a contributor license agreement.
 
 > Please note that these licenses [CC-BY-SA and GFDL, the licenses required for original text] do allow commercial uses of your contributions, as long as such uses are compliant with the terms.
 
-It's completely understandable that contributors to freely accessible projects hosted online by charitable nonprofits would think of their stuff being used first and foremost noncommercially.  I didn't run through the old versions of these terms of use to see when this was added, but we can all imagine _why_ it was added, before or after the fact.
+It's completely understandable how contributors to freely accessible projects hosted online by charitable nonprofits might think of their stuff being used first and foremost noncommercially.  I didn't run through the old versions of these terms of use to see when this was added, but we can all imagine _why_ it was added, before or after the complaint.
 
-The total permissivity of Creative Commons licenses, inspired by the ideological permissivity of early open software licenses, catches people by surprise.
+The total permissivity of Creative Commons licenses, inspired by the ideological permissivity of early open software licenses, still catches people by surprise.
 
 > Attribution is an important part of these licenses.
 
@@ -118,5 +118,3 @@ This is a very roundabout way of saying "no damages at all".  If you start with 
 > Notwithstanding any provision to the contrary in these Terms of Use, we (the Wikimedia Foundation) and you agree not to modify the applicable terms and requirements of any free license that is employed on the Projects or Project editions when such free license is authorized by these Terms of Use.
 
 Integrity protection for standardized license terms.
-
-
