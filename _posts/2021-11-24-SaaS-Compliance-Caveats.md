@@ -4,7 +4,7 @@ title: SaaS Compliance Caveats
 description: view page source ain't what it used to be
 tags:
 - Open Source
-- JavaScript
+ JavaScript
 ---
 
 I read [Heather Meeker's blog](https://heathermeeker.com/) and highly recommend it.  Her [recent piece on open source compliance for SaaS vendors](https://heathermeeker.com/2021/11/23/open-source-compliance-for-saas-vendors/) is another good one, with two big caveats:
