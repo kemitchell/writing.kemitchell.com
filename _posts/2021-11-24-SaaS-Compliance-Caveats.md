@@ -46,7 +46,7 @@ This is the situation as I see it now, for many web apps.  Granted, older apps a
 
 [WebAssembly](https://webassembly.org/), a standard kind of binary code for web browsers, isn't so widely adopted as transpiling, bundling, and minifying.  But some large and technically progressive firms are already using it in production apps.  Rising-star programming languages, like [Rust](https://www.rust-lang.org), already [rely on it as compilation target for the Web](https://www.rust-lang.org/what/wasm).
 
-We already see apps combining minified JavaScript and WebAssembly.  Last I checked, a little bit of JavaScript's still required to make WebAssembly run.  But I foresee apps shipping entirely WebAssembly in the foreseeable future.  Unlike JavaScript, WebAssembly was designed from its start to load quick and run fast, and better fills that role.  Hence "Assembly for the Web".
+We already see apps combining minified JavaScript and WebAssembly.  Last I checked, a little bit of JavaScript's still required to make WebAssembly run.  But I foresee apps shipping entirely WebAssembly not too long from now.  Unlike JavaScript, WebAssembly was designed from its start to load quick and run fast, and better fills that role.  Hence "Assembly for the Web".
 
 ## Copyleft as Usual
 
