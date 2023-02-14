@@ -41,7 +41,7 @@ The total permissivity of Creative Commons licenses, inspired by the ideological
 
 > Attribution is an important part of these licenses.
 
-When Creative Commons wrote its licenses for open content other than software, the requirements of popular open software licenses to keep copyright notices still worked as fairly decent credit or attribution requirements in practice.  For some kinds of software, in some industries, they still do.  But the rise of ever more development tools on the production side, and ever more services on the delivery end, eventually undermined notice-as-credit.  Creative Commons, to its enduring credit, explicitly implemented .
+When Creative Commons wrote its licenses for open content other than software, the requirements of popular open software licenses to keep copyright notices still worked as fairly decent credit or attribution requirements in practice.  For some kinds of software, in some industries, they still do.  But the rise of ever more development tools on the production side, and ever more services on the delivery end, eventually undermined notice-as-credit.  Creative Commons, to its enduring credit, explicitly implemented what was intended and expected, rather than following software terms and stopping short at copyright notices.
 
 To license open software with a real, practical requirement for due credit, see the [Code Credit License](https://codecreditlicense.com).  There's no dignified reason meaningful attribution couldn't be "backported" to software culture.  It's mostly holdover corporate secrecy reflex and the laziness of developers who would have to give credit, and haven't been induced to [automate the process yet](https://www.npmjs.com/package/creditstxt).
 
