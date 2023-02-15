@@ -16,7 +16,7 @@ Alphabetically, by first named author:
 - <!-- De Filippi --> Primavera De Filippi and Miguel Said Vieira's ["The Commodification of Information Commons"](https://journals.library.columbia.edu/index.php/stlr/article/view/3991), in The Columbia Science and Technology Law Review, volume 16, number 1, 2014
 - <!-- Dryden --> Ashe Dryden's ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 - <!-- Garfinkel --> Garfinkel, Weise, and Strassmann's [_The UNIX-HATERS Handbook_](https://homes.cs.washington.edu/~weise/unix-haters.html)
-- <!-- Goodman-Wilson --> Don Goodman-Wilson's ["Open Source is Broken"](https://don.goodman-wilson.com/posts/open-source-is-broken/)
+- <!-- Goodman-Wilson --> Don Goodman-Wilson's ["Open Source is Broken"](https://don.goodman-wilson.com/posts/open-source-is-broken/) and ["A Post-Open Source World"](https://don.goodman-wilson.com/posts/state-of-the-source/)
 - <!-- Hill --> Mako Hill's "When Free Software Isn't Better", [essay](https://mako.cc/writing/hill-when_free_software_isnt_better.html) and [talk](https://www.youtube.com/watch?v=Er1pM9suxvE)
 - <!-- Kelty --> Christopher Kelty's [_Two Bits_](https://twobits.net), Parts II and III
 - <!-- Lancashire --> David Lancashire's ["Code, Culture and Cash: The Fading Altruism of Open Source Development"](https://firstmonday.org/ojs/index.php/fm/article/download/1488/1403)
