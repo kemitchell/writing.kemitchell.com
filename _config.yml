@@ -17,7 +17,6 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - Makefile
-- listtags
 - serve
 jekyll_tidy:
   exclude:

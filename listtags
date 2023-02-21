@@ -1,2 +1,0 @@
-#!/bin/bash
-find _posts -type f -print0 | xargs -0 -L 1 awk -r 'BEGIN{counter=0}; /^---$/{counter++}; /^tags:$/{tags=1}; /^- /{if(tags==1 && counter==1) print}' | sort | uniq -c | sort -rh

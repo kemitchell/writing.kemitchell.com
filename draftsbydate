@@ -1,2 +1,0 @@
-#!/bin/sh
-git ls-tree --name-only -z HEAD:_drafts | xargs -0 -I{} git log -1 -q --format="%aI {}" -- "_drafts/{}" | sort -r
