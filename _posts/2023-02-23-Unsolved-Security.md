@@ -98,7 +98,7 @@ Of course, insurance companies have also been known to go bust.  Enter rating ag
 
 We have now reached core financial infrastructure.  Ratings agencies have scandals, too.  They're international news.  Bad news.
 
-## Prevention and Cure
+## Prevention Hurts Less Than Cure
 
 Software users of all sorts would clearly prefer avoiding security crises in the first place to falling on a firm contractual safety net.  And there are some limits to what warranties, indemnities, and insurance can catch, in dollar terms and otherwise.
 
