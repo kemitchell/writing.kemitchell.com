@@ -114,7 +114,7 @@ When the risk is particularly high, we can contract prevention as well as cure.
 
 If you're in the software industry, none of these countermeasures likely come as breaking news.  They're exactly what we've been doing for <abbr title="business-to-business">B2B</abbr> <abbr title="software as a service">SaaS</abbr> for years.
 
-Pick a random, famous service provider and go to their website.  You'll likely find a list of certs and standards squirreled away among their marketing pages.  If they post public terms of sale, those may or may not include meaningful protections.  But the people behind "contact sales" link in the "enterprise" column are probably sick of dickering them with those who will pay.
+Pick a random, famous service provider and go to their website.  You'll likely find a list of certs and standards squirreled away among their marketing pages.  If they post public terms of sale, those may or may not include meaningful protections.  But the people behind "contact sales" link in the "enterprise" column are probably sick of dickering them with those willing to pay.
 
 ## The Break
 
