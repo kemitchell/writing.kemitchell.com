@@ -34,7 +34,7 @@ They were relatively rare in the wilds of early software, because early software
 
 Warranties and indemnities for software security encode signals about security in legal terms.  Terms in turn affect prices.
 
-Users needing more security negotiate for stronger terms and pay more for them.  Sellers taking more responsibility demand more compensation, with which they can afford more security.  If they fail to invest, they can end up owing customers for consequences out-of-pocket.  When they invest wisely, they earn more take-home profit for their trouble.  A bounty on competence encourages more competence.  Security know-how develops, gets paid, and routes its way to the most acute needs.
+Users needing more security negotiate for stronger terms and pay more for them.  Sellers taking more responsibility demand more compensation, with which they can afford more security.  If they fail to invest, they can end up owing customers for consequences out-of-pocket.  When they invest wisely, they earn more take-home profit for their trouble.  A bounty on competence encourages competence.  Security know-how develops, gets paid, and routes its way to the most acute needs.
 
 Deals balancing security risk and cost form edges in a kind of network.  The network routes software, terms, and money among buyers and sellers.
 
