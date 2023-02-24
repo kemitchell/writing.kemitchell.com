@@ -24,7 +24,7 @@ The software-security problem is a product-service quality problem.  People need
 
 To allocate resources effectively, we need input from developers and users, and we need those signals balanced.  Not just among users and developers, customers and vendors, but among developers' developers and customers' customers, too.  However long those chains may be.
 
-The structure we want is complex, but we can grow it from simple, repeatable parts: legally enforceable promises from developers to users to cover them financially when things go wrong.  Lawyers call these "warranties" and "indemnities".  Think "we'll warrant that security holes get patched within thirty days."  Or "we need data-breach indemnity to buy this."
+The structure we want is complex, but we can grow it from simple, repeatable parts: legally enforceable promises from developers to users to cover them financially when things go wrong.  Lawyers call these "warranties" and "indemnities".  Think "we'll warrant that security holes get patched in thirty days."  Or "we need data-breach indemnity to buy this."
 
 Lawyers and business people know how to write warranties and indemnities.  They fit nicely into license agreements, terms of service, and support contracts.  The courts know how to read those terms.  They're a thing.
 
@@ -46,7 +46,7 @@ The legal system for any given state is usually centralized and hierarchical.  B
 
 ## Interlude: Supply Chains
 
-People used to procuring products and services professionally like to talk about "open source supply chains".  Some of this is "supply chain" being nearest familiar concept available.  Too much of it is wishing aloud that open source had features it doesn't.
+People used to procuring products and services professionally like to talk about "open source supply chains".  Some of this is "supply chain" being the nearest familiar concept available.  Too much of it is wishing aloud that open source had features it doesn't.
 
 There aren't any warranties, indemnities, or service obligations in open source as such.  Companies don't get to be "adopters" at the start, when customers would have to pay, then magically transmute into into customers comes a problem, when adopters would have no one else to blame.
 
@@ -122,7 +122,7 @@ Open source broke with these practices by standardizing on license terms that di
 
 > The software is provided "as is", without warranty of any kind, express or implied.... In no event shall the developers be liable for any claim....
 
-Usually these parts are in `SHOUT CAPS`, because even US contract laws imply some reasonable defaults, informed by widespread expectations, including the expectation that people will pay for valuable products.  You can override those defaults, which is what these disclaimer try to do.  But the overrides have to be called out in the text.  Lawyers interpreted that to mean `SHOUT CAPS`.
+Usually these parts are in `SHOUT CAPS`, because even US contract laws imply some reasonable defaults, informed by widespread expectations, including the expectation that people will pay for valuable products.  You can override those defaults, which is what these disclaimers try to do.  But the overrides have to be called out in the text.  Lawyers interpreted that to mean `SHOUT CAPS`.
 
 Some jurisdictions, including [a couple states of the USA](https://en.wikipedia.org/wiki/UCITA), and, I'm told, some foreign countries, actually insist on minimal warranties for software _no matter what software license terms say_.  These aren't defaults but mandatory features.  You can't `SHOUT CAPS` your way out of them.
 
