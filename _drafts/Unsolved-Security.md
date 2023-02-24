@@ -1,6 +1,6 @@
 ---
 title: Open Source Unsolved Security
-description: the pointy-headed boss-types warned us
+description: the pointy-headed corpo-types warned us
 series: Killjoy
 tags:
 - Security
@@ -149,10 +149,12 @@ I am a ridiculous person to be writing all this on the Internet.  In the late 19
 
 The idea that people would use software without paying for it wasn't crazy _to me_.  After all, I didn't have any money.  And the idea that people would use software without getting any assurance of quality, safety, or reliability wasn't reckless _to me_.  I wasn't doing anything important.
 
-Any time I spent thrashing on config files, twiddling ports, and patching source code was free education.  As long as "user beware" meant more code available for zero dollars, it was all good for me---modulo not learning how security works when it matters and you can't do it all yourself.  From where I was sitting---Mom's house---the sales teams from Oracle and Redmond could all go to Hell.
+Any time I spent thrashing on config files, twiddling ports, and patching source code was free education.  As long as "user beware" meant more code available for zero dollars, it was all good for me---modulo not learning how security works when it matters and you can't do it all yourself.  From where I was sitting, Mom's house, the people setting Microsoft and Oracle's sales quotas could all go to Hell.
 
-I wouldn't put anybody's sales team in charge of policy today, either.  But as fun as "given enough eyeballs, all bugs are shallow" was to [meme](https://en.wikipedia.org/wiki/Meme)-splain into comment boxes, it was more of a pep rally cheer than a revealed law of commerce.  The Internet grew up and built out.  The market in software begat a parallel market in vulnerability.  Ever more eyeballs gazed across critical code, but more came seeking zero days over patch credits.  Some play to make a name on GitHub, cashing in via VC or job offers.  Others guard anonymity like their freedom, taking their pay in cryptodollars on the darknets.  The system we've built makes both games viable.
+I wouldn't put anybody's sales team in charge of policy today, either.  But as fun as "given enough eyeballs, all bugs are shallow" was to [meme](https://en.wikipedia.org/wiki/Meme)-splain into comment boxes, it was more of a pep-rally cheer than a revealed truth.  The Internet grew up and built out.  The market in software begat a parallel market in vulnerability.  Ever more eyeballs gazed across critical code, but more and more came looking for zero days more than patch credits.
 
-In short, reality asserts itself.  Nature abhorred the pure simplicity of openness like it abhorred the righteous absolutism of enclosure.  But the world is a grody, grey kind of place.  Stable states for the social whole are rarely very easy and pleasing for each of us as individuals.
+Some of us play to make a name on GitHub, cashing in via VC or job offers.  Others guard anonymity like their lives, taking their pay in cryptodollars on the darknets.  The system we've built offers both games.  Trust breeds exploitation.  We tested how much trust we could get by with.  We've started finding the limits.
 
-So we'll seesaw back from open toward closed again.  That is what we know how to do for security.
+In short, reality reasserts itself.  Nature abhorred the pure simplicity of openness like it abhorred the righteous absolutism of enclosure.  But the world is a grody, grey kind of place, as we see it.  Stable states for the social whole are rarely very easy and pleasing for each of us alone.
+
+So we'll seesaw back from open a bit toward closed again.  That is what we know how to do for security.  There's opportunity in making---intermediating, monopolizing---that transition.  But the greater bounty lies on understanding the logic of the balance.  Not just "how do we make open more secure?", but "what would a more securable kind of open look like?"
