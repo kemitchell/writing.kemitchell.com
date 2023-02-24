@@ -48,7 +48,7 @@ The legal system for any given state is usually centralized and hierarchical.  B
 
 People used to procuring products and services professionally like to talk about "open source supply chains".  Some of this is "supply chain" being the nearest familiar concept available.  Too much of it is wishing aloud that open source had features it doesn't.
 
-There aren't any warranties, indemnities, or service obligations in open source as such.  Companies don't get to be "adopters" at the start, when customers would have to pay, then magically transmute into into customers comes a problem, when adopters would have no one else to blame.
+There aren't any warranties, indemnities, or service obligations in open source as such.  Companies don't get to be "adopters" at the start, when customers would have to pay, then, comes a problem, magically transmute into customers, when adopters would have no one else but themselves to blame.
 
 Open source is a distribution system.  Think containerized shipping: some standards, some conventions, a whole lot of compatible infrastructure, and a gaggle of vendors, all vaguely unified by a buzzword.  A pretty big deal.  But not a supply chain.  Edges of the graph only point one way.
 
