@@ -56,7 +56,7 @@ Global trade in _computers_ is a supply chain.  It uses containerized shipping, 
 
 Starving open-source types, heed my call here.  Every "open source supply chain" is a corporation whimpering for a warranty, imploring for an indemnity, sniveling for a support contract it doesn't want to admit it should already have.  It's a corporate [Freudian slip](https://en.wikipedia.org/wiki/Freudian_slip) betraying a wish you were actually in business, and not just a licensing contributor.
 
-The question is whether you can offer what they're missing for what they're willing to pay.  _Not_ whether they will pay.  These are responsible grown-up-types.  They expect to pay.  They keep subconsciously forgetting they haven't.
+The question is whether you can offer what they're missing for what they're willing to pay.  _Not_ whether they will pay.  These are responsible grown-up-types.  They expect to pay.  They keep subconsciously forgetting they haven't already.
 
 ## Failure Modes
 
