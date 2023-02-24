@@ -1,4 +1,5 @@
 ---
+date: 2023-02-23T18:15:38-08:00
 title: Open Source Unsolved Security
 description: the pointy-headed corpo-types warned us
 series: Killjoy
