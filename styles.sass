@@ -389,6 +389,23 @@ del
 table
   margin: 0 auto
 
+  &.borders
+    td, th
+      border: 1px solid black
+      padding: 1ex
+    thead
+      td, th
+        vertical-align: bottom
+      tr:last-child
+        border-bottom: 2px solid black
+    tbody
+      td, th
+        vertical-align: top
+    td:first-child, th:first-child
+      padding-left: 1ex
+    td:last-child, th:last-child
+      padding-right: 1ex
+
   &.left
     text-align: left
 
