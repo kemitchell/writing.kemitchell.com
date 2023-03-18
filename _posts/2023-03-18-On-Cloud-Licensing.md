@@ -1,4 +1,5 @@
 ---
+date: 2023-03-18T11:31:18-07:00
 title: On-Cloud Licensing
 description: the wheel of software delivery keeps on turning
 doublewide: true
