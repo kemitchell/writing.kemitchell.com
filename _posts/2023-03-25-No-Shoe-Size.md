@@ -56,7 +56,7 @@ People with wide feet have their own kinds of problems.  But they often get the 
 
 As a result, it's now fairly common at US retail to find shoes in wide "E" or extra-wide "EE" or "F" widths, in addition to the standard "D" medium.  In certain kinds of shoes, like work boots, the "standard" may in fact be wide.  "Size 10" may mean "10E" instead of "10D".
 
-Online, we're seeing a trend toward wider toe boxes.  [Square-toe western boots](https://www.ariat.com/RAMBLER_M_FOO.html) are all the rage, and wider-toed [running](https://www.altrarunning.com/) and ["heritage"](https://www.redwingshoes.com/heritage/mens/iron-ranger/Iron-Ranger-08111.html?cgid=mens-iron-ranger) styles are moving.  This is business, not just style.  No long-lost biomechanics revelations here.
+Online, we're seeing a trend toward wider toe boxes.  [Square-toe western boots](https://www.ariat.com/RAMBLER_M_FOO.html) are all the rage, and wider-toed [running](https://www.altrarunning.com/) and ["heritage"](https://www.redwingshoes.com/heritage/mens/iron-ranger/Iron-Ranger-08111.html?cgid=mens-iron-ranger) styles are moving.  This is business, not just style.  No long-lost revelations about what feet do "naturally" here.
 
 Beyond not being able to get their feet in, the one fit problem near-guaranteed to cause complaint is crammed toes.  As long as people accept the broad, bulbous toe look---a fashion point susceptible to marketing---widening the fronts means fewer squished toes, fewer returns, and less [reverse logistics](https://en.wikipedia.org/wiki/Reverse_logistics) spend.  Sales incentives breed roomy shoes like American football breeds 300+-pound [linemen](https://en.wikipedia.org/wiki/Defensive_tackle).
 
