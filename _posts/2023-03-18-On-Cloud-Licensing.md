@@ -94,7 +94,7 @@ No longer.  Downtime hurts in proportion to what's computerized.  Breaches hurt 
 
 ## Why can things change?
 
-The industry can twiddle who has data access thanks to the tireless work of nerds, startups, and the desperate heaves of firms getting choked out by Amazon.
+The industry can twiddle who has data access thanks to the tireless work of nerds, startups, and the frantic flailing of firms getting choked out by Amazon.
 
 Deployment tools like Puppet, Chef, and Ansible evolved toward "infrastructure-as-code".  Startups like Convox and Hashi abstracted over platform APIs, exposing the common "multi-cloud" denominator.  Docker and CoreOS containerized and versioned the operating system.  Ops people automating their jobs made operations more repeatable.  Now even customers can do it.  Those who can't buy online with credit cards.
 
