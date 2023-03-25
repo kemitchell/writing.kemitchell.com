@@ -62,7 +62,7 @@ Beyond not being able to get their feet in, the one fit problem near-guaranteed 
 
 When shoes were made by local makers to measure, and everyday shoe heels tended more tall, fitting width was better understood.  That knowledge, for both buyers and sellers, survived into mass production.
 
-Long-running shoemakers of the old school, like [Allen Edmonds](https://www.allenedmonds.com/product/mens-park-avenue-cap-toe-oxford-dress-shoe-3023014) and [Red Wing](https://www.redwingshoes.com/work/mens/soft-toe/Traction-Tred-10877.html) in the USA, still stock a great many "lasts", or shoe molds, in length-width combinations.  But that got optimized away for modern, fully automated mass production.  The big international athletic brands don't even market widths now, only length sizes.  And those sizes tend to differ from older shoes'.  Hence a common heuristic, based on measurement with the US-standard [Brannock device](https://brannock.com/):
+Long-running shoemakers of the old school, like [Allen Edmonds](https://www.allenedmonds.com/product/mens-park-avenue-cap-toe-oxford-dress-shoe-3023014) and [Red Wing](https://www.redwingshoes.com/work/mens/soft-toe/Traction-Tred-10877.html) in the USA, still stock a great many "lasts", or shoe molds, in length-width combinations.  But that got optimized away for modern mass production.  The big international athletic brands don't even market widths now, only length sizes.  And those sizes tend to differ from older shoes'.  Hence a common heuristic, based on measurement with the US-standard [Brannock device](https://brannock.com/):
 
 <table>
   <thead>
