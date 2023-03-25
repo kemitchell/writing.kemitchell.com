@@ -52,7 +52,7 @@ I once wore [western "cowboy" boots](https://en.wikipedia.org/wiki/Cowboy_boot) 
 
 Shoes in narrow widths---in the US, ["A", "B", and "C"](https://narrowwidthshoes.kemitchell.com/sizing), combined with lengths like "size 10B", "size 11A", and so on---can solve these problems.  But unless you know they're problems in the first place, they're unlikely to call themselves out.
 
-People with wide feet have their own kinds of problems.  But they often get the message just by trying shoes on.  Their feet simply won't fit in shoes built too narrow, or they'll suffer sores and blisters as they stretch them out from within.  This also tends to wear shoes out prematurely, so wide-footed people end up shopping more often.  That means more chances to take hints and see the light.
+People with wide feet have their own kinds of problems.  But they often get the message just by trying shoes on.  Their feet simply won't fit in shoes built too narrow, or they'll suffer sores and blisters as they stretch them out from within.  This also tends to wear shoes out prematurely, so wide-footed people end up shopping more often.  That means more chances to take some hints.
 
 As a result, it's now fairly common at US retail to find shoes in wide "E" or extra-wide "EE" or "F" widths, in addition to the standard "D" medium.  In certain kinds of shoes, like work boots, the "standard" may in fact be wide.  "Size 10" may mean "10E" instead of "10D".
 
