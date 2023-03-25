@@ -116,7 +116,7 @@ Venting on the blog, apparently.
 
 Years ago, I released a now very dated software-service contract form called "Slipstream" that made on-prem-or-SaaS an order-form-configurable parameter.  A sale that began as SaaS could switch to on-prem just by ticking a different box.  This happened all the time.
 
-On-prem business among my clients steadily declined.  Several ended up running "forks" of Slipstream with all the license prongs of the `IF` statements removed.
+On-prem business among my clients steadily declined.  Several ended up running "forks" of Slipstream with all the license prongs of the `IF` statements torn right out.
 
 Now we're going back.
 
