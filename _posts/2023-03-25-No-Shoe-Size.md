@@ -112,7 +112,7 @@ If you can't go to a store, Brannock devices can be had online.  But they aren't
 
 If your feet measure narrow, hope is not lost.
 
-If measure length at or below about 10⅔″, look for classic shoes offered in men's _and women's_ sizes.  Athletic shoe companies don't typically offer widths...except when they offer both men- and women-specific sizes.  The standard width for women's is usually the same as narrow for men: "B" in the jargon.  The ["lasts", or shoemaking molds](https://en.wikipedia.org/wiki/Last), aren't gendered, just numbered.  Only beware of subtle build differences.  Sometimes the women's is more [fast fashion](https://en.wikipedia.org/wiki/Fast_fashion), and cheaper.  Other times it's built just the same.
+If your length comes in at or below about 10⅔″, look for classic shoes offered in men's _and women's_ sizes.  Athletic shoe companies don't typically offer widths...except when they offer both men- and women-specific sizes.  The standard width for women's is usually the same as narrow for men: "B" in the jargon.  The ["lasts", or shoemaking molds](https://en.wikipedia.org/wiki/Last), aren't gendered, just numbered.  Only beware of subtle build differences.  Sometimes the women's is more [fast fashion](https://en.wikipedia.org/wiki/Fast_fashion), and cheaper.  Other times it's built just the same.
 
 If your feet are long enough to put you out of women's range, you'll want to look for models offered in men's narrow specifically.  The keywords for filters when shopping online will be the traditional "A"/"B"/"C", plus "N" for "narrow" and occasionally "S" for "slim".  A page on the maker's website will often tell you that "Narrow"'s really "B".
 
