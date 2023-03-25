@@ -120,6 +120,6 @@ If your feet are long enough to put you out of women's range, you'll want to loo
 
 ## The Meta
 
-This is not becoming a shoe blog.  But I hope my interest here is clear: The more skinny-footed tall guys rediscover that shoes can serve us better, the more shoe companies will have incentive to oblige.
+This is not becoming a shoe blog.  But I hope my interest here is clear: The more skinny-footed tall guys rediscover that shoes can serve our feet better, the more shoe companies will have incentive to oblige.
 
 There is always more to learn.
