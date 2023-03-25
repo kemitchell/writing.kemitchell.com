@@ -1,4 +1,5 @@
 ---
+date: 2023-03-25T11:32:19-07:00
 title: You Do Not Have a Shoe Size
 description: thirty-five years standing over a bad assumption
 ---
