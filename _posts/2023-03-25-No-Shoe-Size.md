@@ -58,7 +58,7 @@ As a result, it's now fairly common at US retail to find shoes in wide "E" or ex
 
 Online, we're seeing a trend toward wider toe boxes.  [Square-toe western boots](https://www.ariat.com/RAMBLER_M_FOO.html) are all the rage, and wider-toed [running](https://www.altrarunning.com/) and ["heritage"](https://www.redwingshoes.com/heritage/mens/iron-ranger/Iron-Ranger-08111.html?cgid=mens-iron-ranger) styles are moving.  This is business, not just style.  Not long-lost wisdom about what's foot "natural".
 
-Beyond not being able to get their feet in, the one fit problem near-guaranteed to cause complaint is crammed toes.  As long as people accept the broad, bulbous toe look---a fashion point susceptible to marketing---widening the fronts means fewer squished toes, fewer returns, and less [reverse logistics](https://en.wikipedia.org/wiki/Reverse_logistics) spending.  Sales incentives and guess-at-home sizing breed roomy shoes like American football breeds 300+-pound [linemen](https://en.wikipedia.org/wiki/Defensive_tackle).
+Beyond not being able to get their feet in, the one fit problem near-guaranteed to cause complaint is crammed toes.  As long as people accept the broad, bulbous toe look---a fashion point susceptible to marketing---widening the fronts means fewer squished toes, fewer returns, and less [reverse logistics](https://en.wikipedia.org/wiki/Reverse_logistics) spending.  Sales incentives and guess-at-home sizing breed roomy shoes, much like American football breeds 300+-pound [linemen](https://en.wikipedia.org/wiki/Defensive_tackle).
 
 When shoes were made by local makers to measure, and everyday shoe heels tended more tall, fitting width was better understood.  That knowledge, for both buyers and sellers, survived into mass production.
 
