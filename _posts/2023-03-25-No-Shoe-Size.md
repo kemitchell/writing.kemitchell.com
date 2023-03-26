@@ -4,9 +4,9 @@ title: You Do Not Have a Shoe Size
 description: thirty-five years standing over a bad assumption
 ---
 
-At some point in my thirties, I went from learning new things about life to learning new things and feeling dumb for not knowing them yet.  An exhaustive list would be too embarrassing to blog, even for me.  But here's one I definitely want to put out there:
+At some point in my thirties, I went from learning new things about life to learning new things and feeling dumb for not knowing them yet.  An exhaustive list would be too embarrassing to blog, even for me.  But here's one I want to out there:
 
-_You do not have "a shoe size".  You have shoes in sizes that hopefully fit you._
+_You do not have "a shoe size".  You have shoes in sizes that hopefully fit._
 
 ## "13"
 
