@@ -54,7 +54,7 @@ Shoes in narrow widths---in the US, ["A", "B", and "C"](https://narrowwidthshoes
 
 People with wide feet have their own kinds of problems.  But they often get the message just by trying shoes on.  Their feet simply won't fit in shoes built too narrow, or they'll suffer sores and blisters as they stretch them out from within.  This also tends to wear shoes out prematurely, so wide-footed people end up shopping more often.  That means more chances to take the right hints.
 
-As a result, it's now fairly common at US retail to find shoes in wide "E" or extra-wide "EE" or "F" widths, in addition to the standard "D" medium.  In certain kinds of shoes, like work boots, the "standard" may in fact be wide.  "Size 10" may mean "10E" instead of "10D".
+As a result, it's now fairly common at US retail to find shoes in wide "E" or extra-wide "EE" or "F" widths, in addition to the standard "D" medium.  In certain kinds of shoes, like work boots, "standard" may in fact be wide.  "Size 10" may mean "10E" instead of "10D".
 
 Online, we're seeing a trend toward wider toe boxes.  [Square-toe western boots](https://www.ariat.com/RAMBLER_M_FOO.html) are all the rage, and wider-toed [running](https://www.altrarunning.com/) and ["heritage"](https://www.redwingshoes.com/heritage/mens/iron-ranger/Iron-Ranger-08111.html?cgid=mens-iron-ranger) styles are moving.  This is business, not just style.  No long-lost revelations about what feet do "naturally" here.
 
