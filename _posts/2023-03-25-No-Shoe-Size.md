@@ -40,7 +40,7 @@ Uh oh.
 
 ## Hindsight
 
-Up until that point, lacing nearly every shoe I'd owned meant pulling the eyelets so close that the sides touched and the front bulged.  I often had enough lace left over to wrap around my ankles.
+Up until that point, lacing nearly every shoe I'd owned meant pulling the eyelets so close that the sides touched and the front bulged.  I often had enough lace left over to wrap my ankles.
 
 Workable, but not ideal.  When that happens, the lacing doesn't actually put the foot under tension.  As a result, it can slide side to side.  It may also rise and fall at the instep, within a sizable void below the laces.  Like a sandal.
 
