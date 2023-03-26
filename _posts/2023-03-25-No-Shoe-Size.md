@@ -42,7 +42,7 @@ Uh oh.
 
 Up until that point, lacing nearly every shoe I'd owned meant pulling the eyelets so close that the sides touched and the front bulged.  I often had enough lace left over to wrap my ankles.
 
-Workable, but not ideal.  When that happens, the lacing doesn't actually put the foot under tension.  As a result, it can slide side to side.  It may also rise and fall at the instep, within a sizable void below the laces.  Like a sandal.
+Workable, but not ideal.  When that happens, the lacing doesn't actually put the foot under tension.  As a result, it can slide side to side.  It may also rise and fall at the instep, within a sizable void under the laces.  Like a sandal.
 
 What's worse, in shoes with heels, the feet tend to slide forward, cramming the toes and slipping at the back.  The top front parts of the shoes---the "vamps"---are meant to wedge feet in place over the insteps.  Too wide, they don't catch.  The result is essentially a small leather tube slide, sealed off at the exit.  A foot slides down and crashes into the toe box, making the shoe seem "too small", i.e. too short.
 
