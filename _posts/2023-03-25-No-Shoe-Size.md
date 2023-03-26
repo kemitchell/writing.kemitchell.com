@@ -103,7 +103,7 @@ When different widths are available, there's a new dimension.  You might also tr
 
 ## Wait
 
-Don't make conclusions about your feet and start replacing footwear based on something you read on some lawyer's blog.  Get your feet measured at a store by someone competent.  Your best bet is a store that sells shoes in widths, so the salespeople actually know how to use the Brannock sliders.
+Don't make conclusions about your feet and start replacing footwear based on something you read on some lawyer's blog.  Get your feet measured at a store by someone competent.  Your best bet is a store that sells shoes in widths, so the salespeople actually know how to measure it.
 
 If you can't go to a store, Brannock devices can be had online.  But they aren't super cheap.  For one-off sessions, you can measure your feet in inches with a ruler and [convert with a table I put online](https://narrowwidthshoes.kemitchell.com/sizing).  Watch a YouTube video or two on how to use a Brannock device, then approximate.
 
