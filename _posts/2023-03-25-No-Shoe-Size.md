@@ -97,7 +97,7 @@ Long-running shoemakers of the old school, like [Allen Edmonds](https://www.alle
   </tr>
 </table>
 
-There's no substitute for actually trying shoes on.  But this often works as rough guide for shopping online, if you're willing to tolerate a size exchange.  There is also "bracket ordering"---sending for adjacent sizes all at once, planning to try on and return all but one.  Ideally before your credit card bill comes due.
+There's no substitute for actually trying shoes on.  But this often works as rough guide for shopping online, if you're willing to tolerate a size exchange.  There is also "bracket ordering"---sending for adjacent sizes all at once, planning to try on and return all but one.  Ideally before your credit card bill date.
 
 When different widths are available, there's a new dimension.  You might also try-buy or bracket up and down a width.
 
