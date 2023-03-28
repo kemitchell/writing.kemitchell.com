@@ -1,4 +1,5 @@
 ---
+date: 2023-03-28T15:00:48-07:00
 title: Utah Social Media Regulation Act
 description: two new laws on social media and children
 tags:
