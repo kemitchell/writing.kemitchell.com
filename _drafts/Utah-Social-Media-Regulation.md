@@ -13,14 +13,14 @@ For those wondering if the new laws will apply to them come March 1, 2024, the k
 
 > "Social media company" means a person or entity that:
 >
-> (a) provides a social media platform [a defined term] that has at least 5,000,000 account holders worldwide; and
+> (a) provides a social media platform [defined term] that has at least 5,000,000 account holders [defined term] worldwide; and
 >
-> (b) is an interactive computer service [a defined term].
+> (b) is an interactive computer service [defined term].
 
 "Interactive computer service" is defined quite broadly.
 
-"Social media platform" is defined in terms of ability to create profiles, make and see posts, and interact with other users.  There are a number of carve-outs from "social media platform", most of which are based on having a listed "predominant or exclusive function" of the platform _and_ a combination of the provider providing most of the content, with user interaction related to that content.
+"Social media platform" is defined in terms of ability to create profiles, make and see posts, and interact with other users.  There are a number of carve-outs from "social media platform", most of which are based on having a listed "predominant or exclusive function" _and_ the provider being the source of most content, with interaction centering around that content.
 
-On quick glance, I believe all of the major obligations, prohibitions, and legal "causes of action"---things you can sue for---are worded in terms of "social media company", and not "social media platform" alone.
+On quick glance, I believe all of the major obligations, prohibitions, and legal "causes of action"---things you can sue for---in these twin bills are worded in terms of "social media company".  Not in terms of "social media platform" alone, regardless of number of account holders.
 
 As always, if you need a definitive yay-nay on whether these new laws apply to your business, don't rely on this blog post.  Hire a lawyer who will stand professionally responsible to you for an answer.
