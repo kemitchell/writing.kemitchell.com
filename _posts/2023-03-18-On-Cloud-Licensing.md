@@ -80,7 +80,7 @@ Operationally, two main things.
 
 First, the vendor no longer touches customer data.  Instead they provide tech support, relying on customer tickets, logs, and perhaps some custom reports their app's coded to generate.  If vendor personnel qualify in for access to customer systems, they're either subjected to all the security-compliance machinery of in-system contractors, or they're playpenned to dev and staging instances, where only dummy data may appear.  Production may or may not phone home with usage, performance, and other improve-the-service data.  Always sanitized.
 
-Second, at least from what I've seen so far, the customer picks up the cloud tab.  I've not yet seen a deal where the customer demands expense reimbursement from the vendor, treating their fee as all-inclusive.  But I won't be surprised when I do.  Probably depends on who can get the better discount.  Big buyers may drive harder bargains for AWS, GCP, or Azure, especially when the vendor's just a startup.  Even when the customer signs an exclusive deal for their infra, they still want portability, at least in theory, for longer-term leverage.
+Second, at least from what I've seen so far, the customer picks up the cloud tab.  I've not yet seen a deal where the customer demands expense reimbursement from the vendor, treating their fee as all-inclusive.  But I won't be surprised when I do.  It probably depends on who can get the better discount.  Big buyers may drive harder bargains for AWS, GCP, or Azure, especially when the vendor's just a startup.  Even when the customer signs an exclusive deal for their infra, they still want portability, at least in theory, for longer-term leverage.
 
 ## Why are things changing?
 
