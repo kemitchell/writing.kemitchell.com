@@ -68,7 +68,7 @@ Instead of building apps for machines abstracted by operating systems and handin
 
 We could trace this cycle even further back.  Managed installations.  Service bureaus.
 
-The giveaway that we're headed back to the future is the return of system requirements and performance warranties, even if we're not yet calling them by name.  Customers want to know not how much something is going to cost, not just how much one vendor will charge them for it.  They fear the vendor will skimp on optimization, leaving them with the big AWS bill.  This began already with subaccount SaaS.
+The giveaway that we're headed back to the future is the return of system requirements and performance warranties, even if we're not yet calling them by name.  Customers want to know how much something is going to cost, not just how much one vendor will charge them for it.  They fear the vendor will skimp on optimization, leaving them with the big AWS bill.  This began already with subaccount SaaS.
 
 Customers also want to know if the app they're buying is portable.  Can they play the Big 3 clouds against each other, like they used to play IBM against Dell?  Or is this mission-critical service really a hook in their lip, with the line running back to Redmond, Mountain View, or Seattle?
 
