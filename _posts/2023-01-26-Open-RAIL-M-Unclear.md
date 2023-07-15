@@ -6,6 +6,7 @@ tags:
 - Licenses
 - Machine Learning
 - Ethics Licenses
+- RAIL
 ---
 
 Three things strike me about last year's [Open RAIL-M License](https://www.licenses.ai/blog/2022/8/26/bigscience-open-rail-m-license) from [BigScience](https://bigscience.huggingface.co/) and [Responsible AI](https://responsible.ai):
