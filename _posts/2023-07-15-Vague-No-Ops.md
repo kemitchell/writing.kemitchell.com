@@ -33,7 +33,7 @@ Where's this rule of contract law that says "vague" terms fall out of license ag
 
 We have legal rules against enforcement of vague public _laws_, especially criminal penalties.  Those are grounded in the idea of due process.  No putting people away under laws so unclear they couldn't possibly tell whether what they wanted to do was illegal.  No passing criminal laws so broad they effectively turn judges into autocrats.
 
-But public law isn't private contract la laww.  Laws apply to people whether they agree to them or not.  Part of protecting people from government gone wrong is imposing higher standards on rules that government makes than rules free people opt themselves into.
+But public law isn't private contract law.  Laws apply to people whether they agree to them or not.  Part of protecting people from government gone wrong is imposing higher standards on rules that government makes than rules free people opt themselves into.
 
 <!-- property deeds -->
 
