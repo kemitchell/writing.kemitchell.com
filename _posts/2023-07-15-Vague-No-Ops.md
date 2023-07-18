@@ -45,7 +45,7 @@ It's often impossible to argue from evidence about what was intended decades or 
 
 In contract practice proper, we do often talk about terms as "vague".  But in contract _law_, we don't have anything called a "vagueness rule".  We have a rule of "indefiniteness" and we have rules of "construction".  Indefiniteness is a nuclear option that destroys entire contracts.  The rules of construction exist to take vague language in and spit specific decisions out.
 
-If a term is so unclear _and so important_ that its unfinished-looking state casts doubt on whether two sides even thought they'd made a deal, courts can decide there wasn't any contract.  The would-be contract becomes "void for indefiniteness".  _All_ the terms become inoperative.  In the case of a license agreement, the work would become unlicensed, as if there weren't any terms at all.
+If a term is so unclear _and so important_ that its unfinished-looking state casts doubt on whether two sides even thought they'd made a deal yet, courts can decide there wasn't any contract.  The would-be contract becomes "void for indefiniteness".  _All_ the terms become inoperative.  In the case of a license agreement, the work would become unlicensed, as if there weren't any terms at all.
 
 Courts don't throw out whole documents for indefiniteness very often.  It takes a lot for a court to just give up on its public policy function, which is holding people accountable for the promises they exchange.
 
