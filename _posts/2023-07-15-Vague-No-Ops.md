@@ -49,7 +49,7 @@ If a term is so unclear _and so important_ that its unfinished-looking state cas
 
 Courts don't throw out whole documents for indefiniteness very often.  It takes a lot for a court to just give up on its public policy function, which is holding people accountable for the promises they exchange.
 
-If the bar is so low for definiteness, what do courts do with all the fuzzy terms that clear?  What they do in all their contract fights where the issue's what was promised, rather than what the promising party did or didn't do.  They apply "rules of construction", the law's framework for reading, interpreting, and applying promise terms under conflict.
+If the bar is so low for definiteness, what do courts do with all the fuzzy terms that clear it?  What they do in all their contract fights where the issue's what was promised, rather than what the promising party did or didn't do.  They apply "rules of construction", the law's framework for reading, interpreting, and applying promise terms under conflict.
 
 I've [blogged on these rules for a different point before](https://writing.kemitchell.com/2023/01/30/Law-Does-Not-Require-Legalese).  I won't try to write a legal reference book here.  Those wanting a taste of implementation can read the "interpretation" items in series 300 of [the Judicial Council of California's Civil Jury Instructions](https://www.courts.ca.gov/partners/documents/Judicial_Council_of_California_Civil_Jury_Instructions.pdf), which are written for jurors in something approximating English.
 
