@@ -63,7 +63,7 @@ Uncertainty in contract terms is half the craft, as negative space is to art.  G
 
 <!-- widely known -->
 
-Indefiniteness and construction aren't deep legal mysteries peculiar to narrow specialists.  Indefiniteness and construction get covered in first-year contracts courses throughout American law schools.  You can find them in [law students' outlines](https://www.aspenpublishing.com/ELO-Contracts11), as well as [commercially published ones](https://www.aspenpublishing.com/ELO-Contracts11).  You'll find them in [my go-to rec for people looking to study a little law](https://www.aspenpublishing.com/EE-Blum-Contracts8).
+Indefiniteness and construction aren't deep legal mysteries peculiar to narrow specialists.  Indefiniteness and construction get covered in first-year contracts courses throughout American law schools.  You can find them in [law students' outlines](https://www.aspenpublishing.com/ELO-Contracts11), as well as [commercially published ones](https://www.aspenpublishing.com/ELO-Contracts11).  You'll find them in [my go-to rec for people looking to try studying a little law](https://www.aspenpublishing.com/EE-Blum-Contracts8).
 
 Intellectual property lawyers understand the game the contract rules structure, because contracts are most of how IP owners make money.  Good intellectual property lawyers learn the costs of playing by those rules in court, and how the process of fighting about a term affects cost-benefit analysis for drafting and compliance.
 
