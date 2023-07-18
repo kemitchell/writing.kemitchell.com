@@ -57,7 +57,7 @@ There are rules for reading particular words and syntactic constructs.  There ar
 
 Rules of contract construction exist to deal with ambiguity, vagueness, and gaps.  No uncertainty, no conflict, no lawsuit, no law.  Conversely, the idea that "legalese" represents a deterministic, fully specified, precisely technical superset of English is pure fantasy.
 
-Uncertainty in contract terms is half the craft, as negative space is to art.  Good contract drafters [think systematically](https://www.michbar.org/file/barjournal/article/documents/pdf4article2969.pdf) about varieties of incompleteness and uncertainty, how they play out in practice, how to avoid them accidentally, and how to manage them.  There are very good reasons for willingly choosing not to address every possibility you can think of, or even choosing not to address a topic at all.  Money's tight, life is short, and nobody wants a thousand-page contract's worth of unlikely speculative business fiction.
+Uncertainty in contract terms is half the craft, as negative space is to art.  Good contract drafters [think systematically](https://www.michbar.org/file/barjournal/article/documents/pdf4article2969.pdf) about varieties of incompleteness and uncertainty, how they play out in practice, how to avoid them accidentally, and how to manage them intentionally.  There are very good reasons for willingly choosing not to address every possibility you can think of, or even choosing not to address a topic at all.  Money's tight, life is short, and nobody wants a thousand-page contract's worth of unlikely speculative business fiction.
 
 ## In Practice
 
