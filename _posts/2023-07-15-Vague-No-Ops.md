@@ -81,6 +81,8 @@ We _do_ see companies who can't risk relying on ethically motivated license rule
 
 Are [slimly elaborated noncommercial use restrictions](https://wiki.creativecommons.org/wiki/NonCommercial_interpretation) unenforceable copyright misuse?  Is GPLv2 copyleft unenforceable for persistent vagueness about [what it covers or when it's triggered](https://heathermeeker.com/open-source-faq/what-are-the-most-difficult-questions-in-open-source-licensing/)?  Is MIT's notice provision really a public domain dedication, since what "including in...the Software" means in practice has become totally unclear for front-end code?
 
-Companies worth suing sure don't act like it.  They follow the rules or avoid work under the licenses.  But at the same time, they don't mind discouraging licenses that don't give them a free pass.  If the legal system clearly wouldn't honor these terms in practice, companies that won't follow them wouldn't have anything to complain about.  They could say nothing, do what they want, and get away with it, avoiding evolution of more enforceable license terms by denying adopters corrective feedback.  But it's best for them to say one way, do another, and not think about the difference.
+Companies worth suing sure don't act like it.  They follow the rules or avoid work under the licenses.  But at the same time, they don't mind discouraging licenses that don't give them a free pass.
+
+If the legal system clearly wouldn't honor these terms in practice, companies that won't follow them wouldn't have anything to complain about.  They could say nothing, do what they want, and get away with it, avoiding evolution of more enforceable license terms by denying adopters corrective feedback.  But it's best for them to say one way, do another, and not think about the difference.
 
 With our interests fully engaged, the only reliable consistency checks we have are other people with contrary interests.  This our legal culture understands.
