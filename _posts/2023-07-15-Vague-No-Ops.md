@@ -39,11 +39,11 @@ But public law isn't private contract law.  Laws apply to people whether they ag
 
 On the private side, we have rules against vagueness in deeds affecting who owns what land.  A key goal of the real estate title system is documenting clear boundaries over many generations.  If terms aren't clear enough about what land's ownership is changing, admitting that to the record jams up the "chain of title", maybe forever.
 
-It's often impossible to argue from evidence about what was intended decades or centuries ago.  So the real property system sets a higher bar for what it admits than does general contract law for sales of goods and services.  In California, we don't even let people sue for breach of contract after [four years](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=337.&lawCode=CCP), [two ](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=339.&lawCode=CCP) if it's not written down.  Either's a speck on the real estate timeline.
+It's often impossible to argue from evidence about what was intended decades or centuries ago.  So the real property system sets a higher bar for what it admits than does general contract law for sales of goods and services.  In California, we don't even let people sue for breach of contract after [four years](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=337.&lawCode=CCP), [two](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=339.&lawCode=CCP) if it's not written down.  Either's a speck on the real estate timeline.
 
 ## Contract Law
 
-In contract practice proper, we do often talk about terms as "vague".  But in contract _law_, we don't have anything called a "vagueness rule".  We have a rule of "indefiniteness" and we have rules of "construction".  Indefiniteness is a nuclear option that destroys entire contracts.  The rules of construction exist to take vague language in and spit specific decisions out.
+In contract practice proper, we do often talk about terms as "vague".  But in contract _law_, we don't have anything called a "vagueness rule".  We have a rule of "indefiniteness" and we have rules of "construction".  Indefiniteness is a nuclear option that destroys entire contracts.  The rules of construction exist to wring decisions out of unclear language.
 
 If a term is so unclear _and so important_ that its unfinished-looking state casts doubt on whether two sides even thought they'd made a deal yet, courts can decide there wasn't any contract.  The would-be contract becomes "void for indefiniteness".  _All_ the terms become inoperative.  In the case of a license agreement, the work would become unlicensed, as if there weren't any terms at all.
 
