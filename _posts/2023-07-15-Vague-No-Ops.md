@@ -39,7 +39,7 @@ But public law isn't private contract law.  Laws apply to people whether they ag
 
 On the private side, we have rules against vagueness in deeds affecting who owns what land.  A key goal of the real estate title system is documenting clear boundaries over many generations.  If terms aren't clear enough about what land's ownership is changing, admitting that to the record jams up the "chain of title", maybe forever.
 
-It's often impossible to argue from evidence about what was intended decades or centuries ago.  So the real property system sets a higher bar for what it admits than does general contract law for sales of goods and services.  In California, we don't even let people sue for breach of contract after [four years](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=337.&lawCode=CCP), [two ](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=339.&lawCode=CCP) if it's not written down.  At real estate scale, those are specks on the timeline.
+It's often impossible to argue from evidence about what was intended decades or centuries ago.  So the real property system sets a higher bar for what it admits than does general contract law for sales of goods and services.  In California, we don't even let people sue for breach of contract after [four years](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=337.&lawCode=CCP), [two ](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=339.&lawCode=CCP) if it's not written down.  Either's a speck on the real estate timeline.
 
 ## Contract Law
 
