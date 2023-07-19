@@ -67,7 +67,7 @@ Indefiniteness and construction aren't deep legal mysteries peculiar to narrow s
 
 Intellectual property lawyers understand the game the contract rules structure, because contracts are most of how IP owners make money.  Good intellectual property lawyers learn the costs of playing by those rules in court, and how the process of fighting about a term affects cost-benefit analysis for drafting and compliance.
 
-In practice, overall, fuzzy-edged rules don't create free passes, as if by forfeit.  They prompt savvy players to avoid big reliance, unless they're confident they're well within the letter and the enforcing parties' incentives align with letting them be.  In other words, terms in broad language aren't malformed, defective weapons---they have splash damage.  A radius of uncertainty surrounds their imprecisely designated targets.  Uncertainty itself costs to resolve.  Imposing that cost on others is a common drafting stratagem.
+In practice, overall, fuzzy-edged rules don't create free passes, as if by forfeit.  They prompt savvy players to avoid big reliance, unless they're confident they're well within the letter and the enforcing parties' incentives align with letting them be.  In other words, terms in broad language aren't malformed, defective weapons---they have splash damage.  A radius of uncertainty surrounds their imprecisely designated targets.  Uncertainty itself costs to resolve.  Imposing that cost on others is a common drafting tactic.
 
 We see this play out in readily observable behavior.
 
