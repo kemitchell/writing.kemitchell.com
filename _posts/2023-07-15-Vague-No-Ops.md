@@ -83,6 +83,6 @@ Are [slimly elaborated noncommercial use restrictions](https://wiki.creativecomm
 
 Companies worth suing sure don't act like it.  They follow the rules or avoid work under the licenses.  But at the same time, they don't mind discouraging licenses that don't give them a free pass.
 
-If the legal system clearly wouldn't honor these terms in practice, companies that won't follow them wouldn't have anything to complain about.  They could say nothing, do what they want, and get away with it, avoiding evolution of more enforceable license terms by denying adopters corrective feedback.  But it's best for them to say one way, do another, and not think about the difference.
+If the legal system clearly wouldn't honor these terms in practice, companies that won't follow them wouldn't have anything to complain about.  They could say nothing, do what they want, and get away with it, avoiding evolution of more enforceable license terms by denying adopters corrective feedback.  But it's best for them to say one way, do another, and not to think about the difference.
 
 With our interests fully engaged, the only reliable consistency checks we have are other people with contrary interests.  This our legal culture understands.
