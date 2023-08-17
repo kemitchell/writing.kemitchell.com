@@ -394,8 +394,6 @@ table
       border: 1px solid black
       padding: 1ex
     thead
-      td, th
-        vertical-align: bottom
       tr:last-child
         border-bottom: 2px solid black
     tbody
@@ -409,6 +407,9 @@ table
   &.left
     text-align: left
 
+  thead
+    td, th
+      vertical-align: bottom
   caption
     font-weight: bold
     border-bottom: 1px solid black
