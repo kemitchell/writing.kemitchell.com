@@ -75,3 +75,4 @@ Earlier HashiCorp release remain available under MPLv2, so altogether, the "perm
 <!-- TODO: why bother with delayed release at all? -->
 <!-- TODO: PolyForm Shield-style competition -->
 <!-- TODO: BSL + Change License + Delay + Additional Use Grant a kludge -->
+<!-- TODO: FAQ doing as https://polyformproject.org/licenses/shield/1.0.0/#new-products -->
