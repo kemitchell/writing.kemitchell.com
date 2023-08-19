@@ -97,7 +97,7 @@ HashiCorp inhabits a world with circumstances that compel this kind of change.  
 
 Modules and templates are great...as long as "end users" can't see or feel the sharp edges at all the seams.
 
-A [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs) license few devs have heard of, plus a configurable "Change License", plus a configurable release delay, plus an "Additional Use Grant", plus a long FAQ with statements about license permissions, hardly adds up to a coherent, approachable whole.  When you build a license for software people use from a kit out of bits like this, rather than just write what you mean in words your people understand, you are going to end up with [an FAQ][faq].
+A [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs) license few devs have heard of, plus a configurable "Change License", plus a configurable release delay, plus an "Additional Use Grant", plus a long FAQ with statements about permission, hardly adds up to a coherent, approachable whole.  When you build a license for software people use from a kit out of bits like this, rather than just write what you mean in words your people understand, you are going to end up with [an FAQ][faq].
 
 In return for this complexity, Hashi gets to say that they didn't make this up.  MariaDB---the company the MySQL guy started after he sold to Oracle and then left Oracle again---did it first.
 
