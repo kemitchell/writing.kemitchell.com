@@ -1,4 +1,5 @@
 ---
+date: 2023-08-18T21:56:24-07:00
 title: HashiCorp's New Licensing
 description: a new benchmark for presenting license change
 tags:
