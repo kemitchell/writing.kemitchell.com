@@ -21,7 +21,7 @@ In more detail, as bullet points:
 
 - They're using the [Business Source License](https://mariadb.com/bsl-faq-adopting/), a configurable license template that makes the software free for non-production release and automatically relicenses new code onto open terms after a set time.
 
-- The chose their usual [Mozilla Public License, Version 2.0][mpl2] a [weak-copyleft license](https://blueoakcouncil.org/copyleft#weak-copyleft-family) as the eventual open terms and four years as the timing.
+- They chose their usual [Mozilla Public License, Version 2.0][mpl2] a [weak-copyleft license](https://blueoakcouncil.org/copyleft#weak-copyleft-family) as the eventual open terms and four years as the timing.
 
 - While the template itself covers non-production use, they added extra permission for most production use cases, too.  It's worth quoting:
 
