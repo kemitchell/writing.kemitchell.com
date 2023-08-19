@@ -4,7 +4,6 @@ description: feedback strikes again
 series: PolyForm
 tags:
 - Licensing
-- Noncommercial
 - Software
 - Standard Legal Terms
 ---
