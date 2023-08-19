@@ -15,7 +15,7 @@ tags:
 
 [mpl2]: https://www.mozilla.org/en-US/MPL/2.0/
 
-HashiCorp announced a license change for a number of its open source projects.  In a nutshell, some of their projects are now free only for products and services not competing with theirs, with new code released under weak-copyleft after automatically four years from publication.
+HashiCorp announced a license change for a number of its open source projects.  In a nutshell, some of their projects are now free only for products and services not competing with theirs, with new code released under weak-copyleft automatically after four years.
 
 In more detail, as bullet points:
 
