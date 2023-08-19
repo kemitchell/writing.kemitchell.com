@@ -89,7 +89,7 @@ On users, HashiCorp gets specific.  They don't simply claim "this change doesn't
 
 On the other hand, their blog post begins with what reads for all the world like an extracted confession of enduring love for open source.  Their FAQ includes the cringe-inducing "Does HashiCorp still believe in open source?"  Spoiler here: They say they do.
 
-This question doesn't need to be dignified, much less emphasized.  They've been "doing open source" for more than a decade.  A ton of SDKs and libraries are staying MPLv2, without delayed release.  There is no karmic committee standing by to smite them from high should their chivalric love of openness be seen to flag.  Stallman, Torvalds, and Raymond won't [snip their thread short like the fates](https://en.wikipedia.org/wiki/Fates) for [trespassing upon the holy temple of `LICENSE`](https://github.com/hashicorp/terraform/blob/main/LICENSE).
+This question doesn't need to be dignified, much less emphasized.  They've been "doing open source" for more than a decade.  A ton of SDKs and libraries are staying MPLv2, without delayed release.  There is no karmic committee standing by to smite them from high should their chivalric love of openness be seen to flag.  Stallman, Torvalds, and Raymond won't [snip their thread short like the fates](https://en.wikipedia.org/wiki/Fates) for [trespassing the temple of the `LICENSE` file](https://github.com/hashicorp/terraform/blob/main/LICENSE).
 
 HashiCorp inhabits a world that compels this kind of change.  There is nothing to be gained by coddling or conceding to those who'd rather not acknowledge that.
 
