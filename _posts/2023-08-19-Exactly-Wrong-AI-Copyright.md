@@ -1,4 +1,5 @@
 ---
+date: 2023-08-19T13:39:58-07:00
 title: Exactly the Wrong AI Copyrightability Case
 description: Creativity Machine guy assumed away the debate and lost
 tags:
