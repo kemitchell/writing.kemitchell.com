@@ -99,7 +99,7 @@ Modules and templates are great...as long as "end users" can't see or feel the s
 
 A [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs) license few devs have heard of, plus a configurable "Change License", plus a configurable release delay, plus an "Additional Use Grant", plus a long FAQ with statements about permission, hardly adds up to a coherent, approachable whole.  When you build a license for software people use from a kit out of bits like this, rather than just write what you mean in words your people understand, you are going to end up with [an FAQ][faq].  That FAQ is going to say a lot about who can do what, which is what the license is there to say.
 
-In return for this complexity, Hashi gets to say that they didn't make this up.  MariaDB---the company the MySQL guy started after he sold to Oracle and then left Oracle again---did it first.
+In return for this complexity, Hashi gets to say that they didn't make all this up.  MariaDB---the company the MySQL guy started after he sold to Oracle and then left Oracle again---did it first.
 
 They may also get to tell their engineers---and hear their engineers tell themselves---that they are still "working on open source".  They are still on GitHub.  They still `git push` in public.  In time---four years of it---it's all MPLv2 forever again, as in bygone days of naive corporate youth.  Tightening up a license grant not only affects how outside adopters perceive it, but also how potential insiders do.
 
