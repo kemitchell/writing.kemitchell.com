@@ -82,57 +82,45 @@ Unlike many, many companies announcing license changes recently, HashiCorp's blo
 
 On self-defense, they highlight their millions of R&D spend and the fact that their funders are their customers.  They don't call out their $300m+ in investment funding, and wisely so.  But they wouldn't be wrong responding that investors buy into in the prospect of customers.  Funding-wise, it sure helps when "investing" in open code turns a profit.
 
-<details>
-<summary>From the Blog Post</summary>
-<blockquote markdown="1">
-Our open source model has been made possible by the thousands of commercial customers who partner with us on their mission-critical infrastructure.  We invest tens of millions of dollars in research and development in our open source projects annually, and our commercial efforts enable us to continue to support, and sponsor, our vibrant community of users.
-</blockquote>
-</details>
-
-<details>
-<summary>From the FAQ</summary>
-<blockquote markdown="1">
-HashiCorp provides feature-rich products to the community for free, and that development is made possible by our commercial customers who partner with us.
-</blockquote>
-</details>
-
-On users, HashiCorp gets specific.  They don't simply claim "this change doesn't affect the vast majority of people", expecting the alarmed to take general comfort for specific concerns.  They call out important categories of people---[customers](https://www.hashicorp.com/license-faq#implications-of-change-for-commercial-customers), [integration partners](https://www.hashicorp.com/license-faq#implications-of-change-for-partners), [Terraform provider maintainers](https://www.hashicorp.com/license-faq#impact-on-terraform-providers), [consultants](https://www.hashicorp.com/license-faq#assisting-customers-to-use-products_)---and confirm they can keep doing what they're doing, directly.
+On users, HashiCorp gets specific.  They don't simply claim "this change doesn't affect the vast majority of people", expecting the alarmed to take general comfort for specific concerns.  They call out important groups---[customers](https://www.hashicorp.com/license-faq#implications-of-change-for-commercial-customers), [integration partners](https://www.hashicorp.com/license-faq#implications-of-change-for-partners), [Terraform provider maintainers](https://www.hashicorp.com/license-faq#impact-on-terraform-providers), [consultants](https://www.hashicorp.com/license-faq#assisting-customers-to-use-products_)---and confirm they can keep doing what they're doing, explicitly.
 
 ## Defensiveness
 
 On the other hand, their blog post begins with what reads for all the world like an extracted confession of enduring love for open source.  Their FAQ includes the cringe-inducing "Does HashiCorp still believe in open source?"  Spoiler here: They say they do.
 
-This question doesn't need asking, much less emphasizing.  They've been "doing open source" for more than a decade.  A ton of SDKs and libraries are staying MPLv2, without any delayed release.  There is no karmic committee standing by to smite them from high should their chivalric love of openness flag.  Stallman, Torvalds, and Raymond won't [snip their thread short like the fates](https://en.wikipedia.org/wiki/Fates) for [messing with `LICENSE`](https://github.com/hashicorp/terraform/blob/main/LICENSE).
+This question doesn't need the dignity of Hashi asking it of itself, much less marketing emphasis.  They've been "doing open source" for more than a decade.  A ton of SDKs and libraries are staying MPLv2, without delayed release.  There is no karmic committee standing by to smite them from high should their chivalric love of openness be seen to flag.  Stallman, Torvalds, and Raymond won't [snip their thread short like the fates](https://en.wikipedia.org/wiki/Fates) for [trespassing upon the holy temple of `LICENSE`](https://github.com/hashicorp/terraform/blob/main/LICENSE).
 
-HashiCorp inhabits a world in which there are reasons for this kind of change.  There is nothing to be gained by coddling or conceding to those who'd rather not acknowledge that reality.
+HashiCorp inhabits a world that compels this kind of change.  There is nothing to be gained by coddling or conceding to those who'd rather not acknowledge that.
 
 ## Kit License
 
-A [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs) style license template few devs have heard of, plus a designated "Change License", plus a configurable release delay, plus an "Additional Use Grant", hardly adds up to a coherent, approachable whole.  When you build a license out of bits like this, rather than just write what you mean, you basically have to have an FAQ.
+A [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs) license few devs have heard of, plus a configurable "Change License", plus a configurable release delay, plus an "Additional Use Grant", hardly adds up to a coherent, approachable whole.  When you build a license for software people use from a kit out of bits like this, rather than just write what you mean in words your people understand, you are going to end up with [an FAQ][faq].
 
 In return for this complexity, Hashi gets to say that they didn't make this up.  MariaDB---the company the MySQL guy started after he sold to Oracle and then left Oracle again---did it first.
 
-They may also get to tell their engineers---and hear their engineers tell themselves---that they are "still working on open source".  They are still on GitHub.  They are still "out in the open".  In time---four years' time---it's all MPLv2 again, like the old days.  Tightening up a license grant not only affects how outside adopters perceive it, but also how potential insiders do.
+They may also get to tell their engineers---and hear their engineers tell themselves---that they are still "working on open source".  They are still on GitHub.  They still `git push` in public.  In time---four years' time---it's all MPLv2 again, just like the old days.  Tightening up a license grant not only affects how outside adopters perceive it, but also how potential insiders do.
 
 ## Things Change in Time
 
-What Hashi did _not_ get by taking up MariaDB's BSL and bolting on a don't-compete-with-us bit was the benefit of all the thinking wonks have done about this kind of licensing in the five-plus years since BSL&nbsp;1.1 came out.  For example, [PolyForm Shield](https://polyformproject.org/licenses/shield/1.0.0/), which similarly implements ["but not to compete with us"](https://polyformproject.org/licenses/shield/1.0.0/#noncompete) software licensing, has [a "New Products" section](https://polyformproject.org/licenses/shield/1.0.0/#new-products):
+What Hashi did _not_ get by taking up MariaDB's Business Source License and bolting on a don't-compete-with-us bit was the benefit of all the thinking wonks have done about this kind of licensing in the five-plus years since BSL&nbsp;1.1 came out.  For example, [PolyForm Shield](https://polyformproject.org/licenses/shield/1.0.0/), which similarly implements ["but not to compete with us"](https://polyformproject.org/licenses/shield/1.0.0/#noncompete) for software, has [a "New Products" section](https://polyformproject.org/licenses/shield/1.0.0/#new-products):
 
 > If you are using the software to provide a product that does not compete, but the licensor or any of its affiliates brings your product into competition by providing a new version of the software or another product using the software, you may continue using versions of the software available under these terms beforehand to provide your competing product, but not any later versions.
 
-Hashi's Additional Use Grant to MariaDB's BSL doesn't cover this.  So its [FAQ has to](https://www.hashicorp.com/license-faq#future-competitive-products):
+Hashi's Additional Use Grant doesn't cover this.  So of course its [FAQ has to](https://www.hashicorp.com/license-faq#future-competitive-products):
 
 > If HashiCorp creates an offering in the future that is competitive with a product you are already offering in production, your continued use of the hosted or embedded HashiCorp product will not be considered a violation of the HashiCorp BSL license.
 
-Because people will ask.
+People will ask.
 
-PolyForm Shield also addresses [what happens if Hashi _discontinues_ an offering](https://polyformproject.org/licenses/shield/1.0.0/#discontinued-products).  No sign of that from Hashi yet.
+PolyForm Shield _also_ addresses [what would happen if Hashi _discontinued_ an offering](https://polyformproject.org/licenses/shield/1.0.0/#discontinued-products).  No sign of that from Hashi yet.
+
+As it stands, if you want to follow Hashi's licensing lead, someone like me is going to tell you that you to copy not just their license, but big chunks of their FAQ, too.
 
 ## Hooray Dual Licensing
 
 The Business Source License was written for [dual licensing](https://duallicensing.com):
 
-> If your use of the Licensed Word does not comply with the requirements currently in effect as described in this License, <mark>you must purchase a commercial license from the Licensor</mark>...<mark>or you must refrain from using the Licensed Work</mark>.
+> If your use of the Licensed Word does not comply with the requirements currently in effect as described in this License, <mark>you must purchase a commercial license from the Licensor...or you must refrain from using the Licensed Work</mark>.
 
 Of course it was.  MySQL was a big, successful dual-licensing company.  [Monty Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) did not forget.
 
@@ -144,6 +132,4 @@ Hashi's FAQ repeatedly mentions licensing@hashicorp.com as entry point for other
 >
 > Please reach out to us.  We are happy to speak with you.  The best way to begin the conversation is at licensing@hashicorp.com.  We can provide timely feedback to your questions and discuss constructive solutions, including potential exemptions and/or partnership arrangements.
 
-I have added HashiCorp to [duallicensing.com](https://duallicensing.com).
-
-Rumors of the model's demise remain, as ever, wishfully and self-defeatingly exaggerated.
+I have added HashiCorp to [duallicensing.com](https://duallicensing.com).  Rumors of the model's demise remain, as ever, wishfully and self-defeatingly exaggerated.
