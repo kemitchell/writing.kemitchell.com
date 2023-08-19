@@ -95,7 +95,7 @@ HashiCorp inhabits a world with circumstances that compel this kind of change.  
 
 ## Kit License
 
-Modules and templates are great...as long as "end users" can't see or feel the sharp edges at the seams.
+Modules and templates are great...as long as "end users" can't see or feel the sharp edges at all the seams.
 
 A [Mad Lib](https://en.wikipedia.org/wiki/Mad_Libs) license few devs have heard of, plus a configurable "Change License", plus a configurable release delay, plus an "Additional Use Grant", hardly adds up to a coherent, approachable whole.  When you build a license for software people use from a kit out of bits like this, rather than just write what you mean in words your people understand, you are going to end up with [an FAQ][faq].
 
