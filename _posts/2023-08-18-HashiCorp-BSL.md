@@ -73,7 +73,7 @@ A few quick thoughts follow.
 
 ## Non-Production
 
-The word "non-production" isn't much more precise than "non-commercial", but technical people probably _feel_ like it does.  That is worth something.  Maybe a lot,  given Hashi's audience.
+The word "non-production" isn't much more precise than "non-commercial", but technical people probably _feel_ like it is.  That is worth something.  Maybe a lot,  given Hashi's audience.
 
 In practice, I don't expect the fuzziness around "non-production" to matter any more than for "non-commercial".  If your use case is on the line, that's [probably more your problem than theirs](/2023/07/15/Vague-No-Ops).
 
