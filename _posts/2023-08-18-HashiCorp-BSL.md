@@ -81,7 +81,7 @@ In practice, I don't expect the fuzziness around "non-production" to matter any 
 
 Unlike many, many companies announcing license changes recently, HashiCorp's blog post and FAQs do a good job emphasizing the link between commercial competition, self-defense, and ongoing development, as well as the fact that the license change doesn't directly affect the vast majority of users.
 
-On self-defense, they highlight their millions of R&D spend and the fact that their funders are their customers.  They don't call out their $300m+ in investment funding, and wisely so.  But they wouldn't be wrong responding that investors buy into in the prospect of customers.  Funding-wise, it sure helps when investments in open turn a profit.
+On self-defense, they highlight their millions of R&D spend and the fact that their funders are their customers.  They don't call out their $300m+ in investment capital, and wisely so.  But they wouldn't be wrong responding that investors buy into in the prospect of customers.  Funding-wise, it sure helps when investments in open turn a profit.
 
 On users, HashiCorp gets specific.  They don't simply claim "this change doesn't affect the vast majority of people", expecting the alarmed to take general comfort for specific concerns.  They call out important groups---[customers](https://www.hashicorp.com/license-faq#implications-of-change-for-commercial-customers), [integration partners](https://www.hashicorp.com/license-faq#implications-of-change-for-partners), [Terraform provider maintainers](https://www.hashicorp.com/license-faq#impact-on-terraform-providers), [consultants](https://www.hashicorp.com/license-faq#assisting-customers-to-use-products_)---and confirm they can keep doing what they're doing, explicitly.
 
