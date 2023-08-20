@@ -93,7 +93,7 @@ This question doesn't need to be dignified, much less emphasized.  They've been 
 
 There is no karmic committee standing by to smite them from high should their chivalric love of openness be seen to flag.  Stallman, Torvalds, and Raymond won't [snip their thread short like the fates](https://en.wikipedia.org/wiki/Fates) for [trespassing the temple of the `LICENSE` file](https://github.com/hashicorp/terraform/blob/main/LICENSE).
 
-HashiCorp inhabits a world with circumstances that compel this kind of change.  There is nothing to be gained coddling or conceding to those who'd rather not acknowledge that.
+HashiCorp inhabits a world with circumstances that compel this kind of change.  There is nothing to be gained coddling those who'd rather not acknowledge that.
 
 ## Kit License
 
