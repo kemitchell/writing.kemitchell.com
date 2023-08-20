@@ -119,7 +119,7 @@ People will ask.
 
 PolyForm Shield _also_ addresses [what would happen if Hashi _discontinued_ an offering](https://polyformproject.org/licenses/shield/1.0.0/#discontinued-products).  No sign of that from Hashi yet.
 
-As it stands, if you want to follow Hashi's licensing lead, someone like me is going to tell you that you need to copy not just their license, but a few FAQs, too.
+As it stands, if you want to follow Hashi's licensing lead, someone like me is going to tell you that you need to copy not just their license, but a few FAQs, too.  Not unlike the old MongoDB AGPL and clarification page situation.
 
 ## Hooray Dual Licensing
 
