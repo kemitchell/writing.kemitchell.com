@@ -12,11 +12,9 @@ title: Reading for a New Software Lawyer
 - Maynard, Warren, and Trevino's _Business Planning: Financing the Start-Up Business and Venture Capital Financing_
 
 ## Licensing
-- Examples and Explanations: Intellectual Property
 - Meeker's [Technology Licensing Primer](https://www.amazon.com/dp/1791355110/)
+- Tollen's _The Tech Contracts Handbook_
 - Classen's _Practical Guide to Software Licensing..._
-
-## Open Licensing
 - Blue Oak Council's [Open Software Licensing Primer](https://blueoakcouncil.org/primer)
 
 ## Skills
