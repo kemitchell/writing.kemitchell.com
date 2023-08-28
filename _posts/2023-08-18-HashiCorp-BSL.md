@@ -87,7 +87,7 @@ On users, HashiCorp gets specific.  They don't simply claim "this change doesn't
 
 ## Defensiveness
 
-On the other hand, their blog post begins with what reads for all the world like an extracted confession of enduring love for open source.  And their FAQ includes the cringe-inducing "Does HashiCorp still believe in open source?"  Spoiler: They say they do.
+On the other hand, their blog post begins with what reads for all the world like an extracted confession of enduring love for open source.  And their FAQ includes the cringe-inducing "Does HashiCorp still believe in open source?"  Spoiler Alert: They say they do.
 
 This question doesn't need to be dignified, much less emphasized.  They've been "doing open source" for more than a decade.  A ton of SDKs and libraries are staying MPLv2, without delayed release.
 
