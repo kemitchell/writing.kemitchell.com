@@ -1,0 +1,2 @@
+- Choice of Open
+- Free and Paid

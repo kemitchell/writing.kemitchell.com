@@ -1,0 +1,2 @@
+- Permissive
+- Copyleft
