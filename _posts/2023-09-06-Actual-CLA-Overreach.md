@@ -1,6 +1,7 @@
 ---
 date: 2023-09-06T15:49:09-07:00
 title: Real and Imagined CLA Overreach
+description: CLAs go wrong when they act like hiring terms
 tags:
 - Open Source
 - Contributor Licensing
