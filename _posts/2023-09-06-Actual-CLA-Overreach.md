@@ -46,7 +46,7 @@ When I try to imagine situations where taking a perpetual, open-ended obligation
 1.  circumstances where it's either clear no "further assurances" will ever be needed at all, so it's dead letter
 2.  where Artifex actually is paying the dev, but has them sign the CLA instead of a proper work contract
 
-As part of a generic CLA form to be used as most CLAs are used, it doesn't feel fair.  A bit like saying "we'll take your free puppy, but you have to agree come back and drive around the neighborhood with us if it ever runs away".
+As part of a generic CLA form to be used as most CLAs are used, it doesn't feel fair.  A bit like saying "we'll take your free puppy, but you have to agree come back and drive around the neighborhood with us if we let it run away".
 
 There isn't any further assurances clause in [Apache's CLA forms](https://www.apache.org/licenses/contributor-agreements.html#clas), which have become popular standard templates.  There isn't any in [the Fedora CLA](https://docs.fedoraproject.org/en-US/legal/fpca/), either.  There isn't in the ill-fated "standard" [Harmony CA](https://harmonyagreements.org/docs/ha-combined-v1), which is actually a copyright _assignment_.  I'm not sure I've _ever_ seen a "further assurances" obligation in a CLA before this.
 
