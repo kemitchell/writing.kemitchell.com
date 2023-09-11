@@ -2,6 +2,10 @@
 title: Two Kinds of "Dual Licensing"
 description: a license operator and a business model
 series: Overloaded
+tags:
+- Open Licensing
+- Business Models
+- Dual Licensing
 ---
 
 "Dual licensing" is the inclusive-or operator for free, public license terms.  It lets us glue two forms together and stick them to one project.

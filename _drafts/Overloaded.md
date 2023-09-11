@@ -2,6 +2,8 @@
 title: Overloaded
 description: putting finer points on established fuzzy terms
 series: Overloaded
+tags:
+- Open Licensing
 ---
 
 Boosterism would have us look on open source as an eternal parade of righteous triumphs.  Experience suggests we'd better look for and learn from mistakes, as well.  There have been plenty.  Terminology represents a particularly rich vein of persistent hacker folly, right through the history of doing software online.
