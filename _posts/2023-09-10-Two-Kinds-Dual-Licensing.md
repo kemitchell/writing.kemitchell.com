@@ -15,7 +15,7 @@ tags:
 
 These meanings are just close and far enough to make "dual licensing" more a question in itself than any useful answer, absent heaps of clarifying context.  And various kinds of dual licensing are common enough to trip up nearly everyone on their path through the industry, somewhere along the line.
 
-If I say my new project is "dual-licensed", all you're given to know is that more than one set of license terms is potentially involved.  Compared to "knock yourself out, we're MIT!", "it's dual-licensed" is the "It's Complicated" of software.  Even if the picture isn't really that complicated.  Even though half the complexity is usually narrowing down on which "dual licensing" is in play.
+If I say my new project is "dual-licensed", all you're given to know is that more than one set of license terms is potentially involved.  Compared to "knock yourself out, we're MIT!", "it's dual-licensed" is the "It's Complicated" of software.  Even if the picture isn't really that complicated.  Even though half the complexity is usually narrowing down which "dual licensing" is involved.
 
 Slice through this confusion by distinguishing two kinds of dual licensing:  [choice-of-terms](#choice-of-terms) and [free-and-paid](#free-and-paid).
 
