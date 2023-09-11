@@ -39,7 +39,7 @@ I've sometimes heard choice-of-terms dual licensing called "multi-licensing".  "
 
 <h2 id="free-and-paid">Free-and-Paid Dual Licensing</h2>
 
-Free-and-paid dual-licensed projects come with free-of-charge, licenses that permit everyone some, but not all, uses.  Would-be customers can then _buy_ licenses that allow some or all of what the free terms don't.
+Free-and-paid dual-licensed projects come with free-of-charge licenses that permit everyone some, but not all, uses.  Would-be customers can then _buy_ licenses that allow some or all of what the free terms don't.
 
 The free license might allow noncommercial use, while paid licenses cover use in business.  Or the free license might require "sharing alike", while paid licenses allow use in closed products and services.  Anything the free license withholds permission to do, the paid licenses can permit for a price.
 
