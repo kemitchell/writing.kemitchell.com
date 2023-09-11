@@ -27,7 +27,7 @@ All the licenses are costless and public, but they are not necessarily "open".  
 
 Regardless of what kinds of licenses stand on offer, if you do what's required by _one_ of them, you aren't infringing copyright in the project, even if you're _not_ doing what's required by another.  In practice, that means you get the most that each license allows, the union set.  Offering a choice of free, public licenses only means _more_ permission.
 
-A project licensed "MIT or GPLv2" is in essence MIT licensed.  MIT allows more than MIT does, so anyone charged with a violation will show compliance with the more permissive terms.  Similarly, a project licensed "LGPLv2 or GPLv2" would in essence be LGPL-licensed.  LGPL is a "weaker"---more permissive---copyleft license than GPL.  Expressing these kinds of choices is practically pointless, which is why you won't see it much.
+A project licensed "MIT or GPLv2" is in essence MIT licensed.  MIT allows more than GPLv2 does, so anyone charged with a violation will show compliance with the more permissive terms.  Similarly, a project licensed "LGPLv2 or GPLv2" would in essence be LGPL-licensed.  LGPL is a "weaker"---more permissive---copyleft license than GPL.  Expressing these kinds of choices is practically pointless, which is why you won't see it much.
 
 Why would a project _ever_ want this complication?
 
