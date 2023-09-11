@@ -1,4 +1,5 @@
 ---
+date: 2023-09-10T21:07:50-07:00
 title: Two Kinds of "Dual Licensing"
 description: a license operator and a business model
 series: Overloaded
