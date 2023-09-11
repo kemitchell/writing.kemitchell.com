@@ -21,7 +21,7 @@ Slice through this confusion by distinguishing two kinds of dual licensing:  [ch
 
 <h2 id="choice-of-terms">Choice-of-Terms Dual Licensing</h2>
 
-Choice-of-open dual-licensed projects offer everyone the choice of one or more free-of-charge licenses that apply to everyone, like "MIT or GPLv2" or "BSD or Apache 2".
+Choice-of-open dual-licensed projects offer everyone the choice of one or more free-of-charge licenses, like "MIT or GPLv2" or "BSD or Apache 2".
 
 All the licenses are costless and public, but they are not necessarily "open".  A choice-of-terms dual-licensed project could also offer a choice of more restrictive terms, like "[CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/) or [CC-BY-NoDerivs](https://creativecommons.org/licenses/by-nd/3.0/)" or "[PolyForm Small Business](https://polyformproject.org/licenses/small-business/1.0.0) or [PolyForm Free Trial](https://polyformproject.org/licenses/free-trial/1.0.0)".
 
