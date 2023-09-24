@@ -1,5 +1,5 @@
 ---
-name: Two Kinds of "Relicensing"
+title: Two Kinds of "Relicensing"
 description: going-forward and retroactive
 series: Overloaded
 tags:
