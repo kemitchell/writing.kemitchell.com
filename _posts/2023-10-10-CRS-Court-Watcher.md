@@ -1,4 +1,5 @@
 ---
+date: 2023-10-10T13:02:35-07:00
 title: "Recommended Resource: CRS Congressional Court Watcher"
 description: free briefs of new cases
 tags:
