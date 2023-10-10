@@ -24,4 +24,4 @@ jobs:
       - name: Deploy to Server
         env:
           RSYNC_RSH: ssh -o StrictHostKeyChecking=no -o PubkeyAuthentication=yes -o PasswordAuthentication=no
-        run: rsync --checksum --recursive --delete --out-format "%n" _site/ kyle@www3.kemitchell.com:/var/www/writing.kemitchell.com/
+        run: rsync --checksum --recursive --delete --out-format "%n" _site/ kyle@writing.kemitchell.com:/var/www/writing.kemitchell.com/
