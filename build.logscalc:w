@@ -1,0 +1,8 @@
+Configuration file: /home/kyle/writing.kemitchell.com/_config.yml
+            Source: /home/kyle/writing.kemitchell.com
+       Destination: /home/kyle/writing.kemitchell.com/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 9.873 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
