@@ -5,6 +5,7 @@ description: SFC's Vizio suit brings the right kind of claim
 tags:
 - Licenses
 - Software Licensing
+- Conservancy v. Vizio
 ---
 
 Software Freedom Conservancy [announced today](https://sfconservancy.org/copyleft-compliance/vizio.html) that they are suing Vizio, which makes TVs, for violations of GPLv2 and LGPLv2.1.  [Their website has a copy of a signed complaint](https://sfconservancy.org/docs/conservancy-v-vizio-original-complaint-2021-10-19.pdf), the legal document you file with a court to get a lawsuit started.
