@@ -5,6 +5,7 @@ tags:
 - Open Source
 - Licensing
 - SSPL
+- Copyright Misuse
 ---
 
 I've had a great time debating the inimitable Van Lindberg, a fellow coder-lawyer, on topics related to the Server Side Public License.  Van and I connected briefly, sometime back, through his writing about open source.  Unfortunately we didn't cross paths again much after that.

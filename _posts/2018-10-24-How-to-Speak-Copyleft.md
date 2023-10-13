@@ -8,6 +8,7 @@ tags:
 - Licensing
 - Copyleft
 - Open Source Initiative
+- Copyright Misuse
 ---
 
 What does the Open Source Definition have to say about how strong copyleft licenses can be?  As it turns out, not much that's helpful, and quite a bit that's not.  The Definition's twenty-year-old criteria at best mildly suggest limits on open source copyleft, without offering any terms in which to analyze of express them.
