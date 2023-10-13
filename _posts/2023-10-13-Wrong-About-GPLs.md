@@ -1,4 +1,5 @@
 ---
+date: 2023-10-13T13:57:35-07:00
 title: We Were Wrong About the GPLs
 description: an unsurprising admission in Conservancy v. Vizio
 tags:
