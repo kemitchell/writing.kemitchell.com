@@ -1,4 +1,5 @@
 ---
+date: 2023-10-12T21:55:06-07:00
 title: Understanding "RISC-y Business"
 description: trading chips progression for chips advantage
 tags:
