@@ -68,7 +68,7 @@ Fortunately, many well known market problems also have well known, market-compat
 
 Library Co. does a deal with Framework Inc.  Framework Inc. turns around and makes its own, negotiated sale to Provider LLC.  But Provider sells to individuals, not companies.  The only terms Providers offers are heinous, leaving customers wholly on their own for any security mishaps.  The customers mostly don't read these terms, because they can't change them.
 
-When individuals and consumer advocacy groups can't go to the Provider to drive better deals, they go to government instead.  They lobby for "consumer-protection laws" that forces more balanced on deals on providers.
+When individuals and consumer advocacy groups can't go to the Provider to drive better deals, they go to government instead.  They lobby for "consumer-protection laws" that force more balanced deal terms on providers.
 
 Consumer-protection laws can "patch" the contract law sellers' terms run on to makes certain warranties or indemnities mandatory.  They can add new "torts" to public law that people can sue companies for committing.  They can even impose direct, affirmative requirements to take basic security precautions, with fines or other liability for failures to comply.
 
