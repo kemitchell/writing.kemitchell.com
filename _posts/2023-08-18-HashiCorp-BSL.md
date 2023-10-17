@@ -5,6 +5,7 @@ description: a new benchmark for presenting license change
 tags:
 - Licensing
 - Software
+- Defensive Licenses
 ---
 
 [announcement]: https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license
