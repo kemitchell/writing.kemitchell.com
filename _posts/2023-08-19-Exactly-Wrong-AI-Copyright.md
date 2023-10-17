@@ -12,11 +12,11 @@ Friday's trial-court decision in Thaler v. Perlmutter, case 22-1564 in the DC di
 
 I'm sure there will be links like "Court Rules AI Art Can't Be Copyrighted" aplenty.  They will be wrong.  The court didn't rule that AI art can't be copyrighted.  It ruled that copyright requires human authorship, surprising approximately zero copyright lawyers...or people who have read [the Wikipedia page](https://en.wikipedia.org/wiki/Copyright).
 
-Stephen Thaler tried to register copyright in an image purportedly output by his "Creativity Machine", which he claims works entirely on its own.  The Copyright Office predictably rejected his application, saying only creative works authored by people can be registered.  Thaler sued, and the court agreed with the Copyright Office.  No copyright for Thaler.
+Stephen Thaler tried to register copyright in an image purportedly output by his "Creativity Machine", which he claims works entirely on its own.  The Copyright Office predictably rejected his application, saying only creative works authored by people can be registered.  Thaler sued, and the court agreed with the Copyright Office.  No copyright for Mr. Machine.
 
 The reason the click mongers can write headlines about "AI" is that Thaler _insisted_, and therefore the court accepted, that his particular "AI" was fully autonomous.  That wasn't argued, but assumed.  The assumption limited the legal question involved not to whether AI art in general can be copyrighted, but whether human creativity's required for copyright.  The answer's been clear a long time.
 
-Thaler's stance put him in with failed plaintiffs of the past who insisted that gods, spirits, or unattributed voices communicated works they transcribed, and therefore got no copyrights.  It put him in with the handlers in the "monkey selfie" case.  It put him _away from_ the big, old, obviously relevant Supreme Court decision allowing copyrights for photographs, even though then-newfangled cameras did so much work an artists would have had to do before.  The decision against Thaler cites all these cases.
+Thaler's stance put him in with failed plaintiffs of the past who insisted that gods, spirits, or unattributed voices communicated works they transcribed, and therefore got no copyrights.  It put him in with the handlers in the "monkey selfie" case.  It put him _away from_ the big, old, obviously relevant Supreme Court decision allowing copyrights for photographs, even though then-newfangled cameras did so much work an artist would have had to do before.  The decision against Thaler cites all these cases.
 
 The court says:
 
