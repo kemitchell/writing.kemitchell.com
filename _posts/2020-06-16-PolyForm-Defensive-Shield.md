@@ -6,6 +6,7 @@ tags:
 - Licensing
 - Software
 - Standard Legal Terms
+- Defensive Licenses
 ---
 
 Thank to feedback, the PolyForm Defensive license, which prohibits competing with the provider of the software being licensed, has now been renamed [PolyForm Shield](https://polyformproject.org/licenses/shield/1.0.0).
