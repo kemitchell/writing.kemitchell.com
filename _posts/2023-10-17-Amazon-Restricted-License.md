@@ -1,4 +1,5 @@
 ---
+date: 2023-10-17T10:28:11-07:00
 title: Amazon Has a Restricted License, Too
 description: this is not a bad thing
 tags:
