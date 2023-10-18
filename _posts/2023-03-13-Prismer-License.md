@@ -1,6 +1,6 @@
 ---
 date: 2023-03-13T12:49:15-07:00
-title: NVIDIA Prismer License
+title: Nvidia Prismer License
 description: another noncommercial model license, kind of
 series: First Reads
 tags:
