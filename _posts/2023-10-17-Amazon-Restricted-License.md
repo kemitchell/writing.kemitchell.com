@@ -12,7 +12,7 @@ For all the brouhaha over new company licenses keeping code from Amazon, it utte
 
 > 3.3  **Use Limitation**.  The Work and any derivative works thereof only may be used or intended for use with the web services, computing platforms or applications provided by Amazon.com, Inc. or its affiliates, including Amazon Web Services, Inc.
 
-In other words, "you can use this software for whatever, but only with AWS or other Amazon platforms and apps".  No using with Google Cloud Platform or Azure or whoever.  No using _without_ Amazon services at all.
+In other words, "you can use this software for whatever, but only with AWS or other Amazon platforms and apps".  No using with Google Cloud Platform or Azure.  No using _without_ Amazon services at all.
 
 I didn't initially class this license with the defensive terms we've seen from smaller companies.  It doesn't speak in terms of competition with the developer, like [PolyForm Shield](https://polyformproject.org/licenses/shield/1.0.0).  Nor does it prohibit free riding against the original project, like [PolyForm Perimeter](https://polyformproject.org/licenses/perimeter/1.0.0).  But the Amazon license's permissions are in fact _more_ restrictive, and strictly so.  They allow fewer uses than the self-defense forms.
 
