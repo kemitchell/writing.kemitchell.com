@@ -8,7 +8,7 @@ tags:
 - Defensive Licenses
 ---
 
-For all the brouhaha over new company licenses keeping code from Amazon, it utterly slipped my mind that [Amazon has its own restricted, "source-available" license](https://aws.amazon.com/asl/).  You can find it [in the wild](https://github.com/search?q=%22Amazon+Software+License%22&type=code) and [on aws.amazon.com](https://aws.amazon.com/asl/).  Here's the crux:
+For all the brouhaha over new company licenses keeping code from Amazon, it utterly slipped my mind that [Amazon has its own restricted, "source-available" license](https://aws.amazon.com/asl/), too.  You can find it [in the wild](https://github.com/search?q=%22Amazon+Software+License%22&type=code) and [on aws.amazon.com](https://aws.amazon.com/asl/).  Here's the crux:
 
 > 3.3  **Use Limitation**.  The Work and any derivative works thereof only may be used or intended for use with the web services, computing platforms or applications provided by Amazon.com, Inc. or its affiliates, including Amazon Web Services, Inc.
 
