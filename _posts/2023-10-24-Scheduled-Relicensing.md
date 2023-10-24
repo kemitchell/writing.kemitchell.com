@@ -36,7 +36,7 @@ I don't have any inside information on Hashi's decision path.  But I strongly su
 
 Hashi's grafted-on customization now runs almost as long as the whole rest of the license.  And it links to---potentially incorporating by reference---[their whole FAQ](https://www.hashicorp.com/license-faq).  Their FAQ has _also_ been growing.  As [I mentioned in my earlier blog post](https://writing.kemitchell.com/2023/08/18/HashiCorp-BSL#things-change-in-time), in part to address issues PolyForm licenses saw coming and had solved already.
 
-Upshot: Instead of contributing to shareable refinement or standardization of the kind of license rules HashiCorp really wants, we have another, one-off mutation to contend with.  Even though delayed relicensing is easy enough to implement.  Even though it's easy enough to decouple from initial license terms.
+Upshot: Instead of contributing to shareable refinement or standardization of the kind of license rules HashiCorp really wants, we have another, one-off mutation.  Even though delayed relicensing is easy enough to implement.  Even though it's easy enough to decouple from initial license terms.
 
 ## Enough
 
