@@ -153,6 +153,6 @@ Throwing a relicensing notice into each release tarball also helps avoid myriad 
 
 ## Upshot
 
-We have got a lot of work to do figuring out which license rules for published software developers want, getting them written right, and educating users.  Some developers that want those license rules will want to schedule license changes, as well.  There are some nuances there, which I've hopefully addressed above.  But it is fundamentally a separate and narrower problem than licensing.  With a separate, self-contained form and process for it, one project needn't complicate the other.
+We have got a lot of work to do figuring out which license rules for published software developers want, getting them written right, and educating users.  Some developers that want those license rules will want to schedule license changes, as well.  There are some nuances there, which I've hopefully addressed above.  But it is fundamentally a separate and narrower problem.  With a separate, self-contained form and process for it, one project needn't complicate the other.
 
 I'm not yet set on a name for this, or how to go about publishing and proselytizing it.  I'll probably ask colleagues whether [PolyForm](https://polyformproject.org) might be a good home.  After I get back from vacation.
