@@ -1,4 +1,5 @@
 ---
+date: 2023-10-24T14:02:49-07:00
 title: A Short, Simple Template for Scheduled Relicensing
 description: decouple license rules from how we relax them
 brief: Separating initial license rules from terms for changing those rules later will improve development and reuse of both. Here's a form just for scheduling license changes later.
