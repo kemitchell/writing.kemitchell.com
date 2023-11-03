@@ -4,6 +4,7 @@ description: seventies-era automation for the working lawyer
 tags:
 - Law Practice
 - Legal Technology
+- Task Management
 ---
 
 The [UNIX shell](https://en.wikipedia.org/wiki/Unix_shell) was a very good idea.  If you can command a UNIX shell, like a [Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) on a [Linux](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) computer, to do something, you can also automate doing that thing.  All you have to do is key it into a file---a "script"---instead of to the command line, and then tell the computer to follow that script, one or many times.  Each time, the computer will read the file and follow each of its commands, as if you were typing them in on the keyboard yourself, but a lot faster.  A person still needs to tell the computer to read the script.  Or they can start a program that tells the computer for them.

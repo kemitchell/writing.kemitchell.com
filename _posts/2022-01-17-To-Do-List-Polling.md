@@ -5,6 +5,7 @@ description: event-based meatspace task management
 tags:
 - Law Practice
 - Legal Technology
+- Task Management
 ---
 
 As I've [mentioned offhand before](https://writing.kemitchell.com/2021/06/16/In-Praise-of-Cron.html), I keep to-do lists as plain-text files in a Git repository.  Every morning, before I wake up, a cheap cloud computer I rent downloads my lists, pulls out every line with today's date in it, and e-mails them to me.
