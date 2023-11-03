@@ -24,7 +24,7 @@ This convention makes it easy for the computer to find the events I'm waiting on
 I've scheduled another task for my cloud server: sending me a list of all the triggers in my to-do lists every Monday and Thursday morning.  For fellow nerds, the crontab line looks like this:
 
 ```crontab
-30     11    *   *   1,4 ~/.cron/emailtodotriggers
+30 11 * * 1,4 ~/.cron/emailtodotriggers
 ```
 
 Crucially, if multiple tasks are waiting on the same event, this script only e-mails me the event description once.  I may have a hundred tasks waiting on events, but only receive a list of five or six events by e-mail.  Easy enough to glance through---and likely delete without further action---in a few seconds, as I start my day.
