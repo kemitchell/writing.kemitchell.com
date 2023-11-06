@@ -718,6 +718,6 @@ I license this article under a
 
 [Japanese]: http://postd.cc/mit-license-line-by-line/
 
-[Ukrainian]:  https://edu-helper.org/p28/
+[Ukrainian]: https://clipart-library.com/p28.html
 
 [Chinese]: https://linux.cn/article-13180-1.html
