@@ -1,4 +1,5 @@
 ---
+date: 2023-11-19T12:19:33-08:00
 title: Toward PolyForm Shield Version 2
 description: streamline and revise for easier reading
 series: PolyForm
