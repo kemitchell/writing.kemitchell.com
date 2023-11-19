@@ -24,14 +24,14 @@ One of our key, early decisions drafting the original batch of PolyForm licenses
 | [Small Business](https://polyformproject.org/licenses/small-business/1.0.0#small-business) | "Use of the software for the benefit of your company is use for a permitted purpose if your company has fewer than 100 total individuals working as employees and independent contractors, and less than 1,000,000 USD (2019) total revenue in the prior tax year." |
 | [Free Trial](https://polyformproject.org/licenses/free-trial/1.0.0#free-trial) | "Use to evaluate whether the software suits a particular application for less than 32 consecutive calendar days, on behalf of you or your company, is use for a permitted purpose." |
 
-Those with exceptions led to two-branch decision trees, which could feel a bit like double negatives.  Readers really had to step through the terms to find answers.
-
 Then came Shield and Perimeter, which _both_ relied heavily on "Permitted Purposes" with exceptions:
 
 | License | Definition |
 |-|-|
 | [Perimeter](https://polyformproject.org/licenses/perimeter/1.0.0#noncompete) | "Any purpose is a permitted purpose, <mark>except</mark> for providing to others any product that competes with the software." |
 | [Shield](https://polyformproject.org/licenses/shield/1.0.0#noncompete) | "Any purpose is a permitted purpose, <mark>except</mark> for providing any product that competes with the software or any product the licensor or any of its affiliates provides using the software." |
+
+Those exceptions creations to two-branch decision trees, which could feel a bit like double negatives.  Readers really had to step through the terms to find answers.
 
 "Except" needs to show up in these licenses.  Fundamentally, they're licenses to "do whatever..._except_ compete" with the project itself---that's Perimeter---or the project or the developer's products and services that are using it---that's Shield.  But those "except"s belong up top, not buried behind the indirection of "Permitted Purpose".
 
