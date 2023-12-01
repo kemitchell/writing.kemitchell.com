@@ -8,6 +8,7 @@ tags:
 - Licensing
 - Forms
 - Business Models
+- Delayed Relicensing
 ---
 
 Companies choosing to release their software under restricted terms, but scheduling transition to more permissive ones later, have usually lumped their legal language for initial and long-term licensing together.  They've _coupled_ the terms that apply from day one to the terms that change those rules later.
