@@ -1,4 +1,5 @@
 ---
+date: 2023-12-04T11:15:58-08:00
 title: Support the Blue Oak License List
 description: fund the Web's actionable allow-list of software licenses
 series: Blue Oak Council
