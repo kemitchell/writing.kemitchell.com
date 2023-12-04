@@ -1,5 +1,5 @@
 ---
-title: Help Expand the Blue Oak License List
+title: Support the Blue Oak License List
 description: fund the Web's actionable allow-list of software licenses
 series: Blue Oak Council
 tags:
@@ -8,22 +8,23 @@ tags:
 
 If you've benefited from this blog and other licensing material I've published, please consider [donating to Blue Oak Council's license list this year!](https://blueoakcouncil.org/fund-the-list)
 
-Even donations of a few dollars will help us:
+Even donations of just a few dollars will help us:
 
-- add more licenses to Blue Oak's [permissive license list](https://blueoakcouncil.org/list) and [data file](https://blueoakcouncil.org/list.json)
+- add more licenses to Blue Oak's [permissive license list](https://blueoakcouncil.org/list) and [data file](https://blueoakcouncil.org/list.json) for [tools](https://www.npmjs.com/package/licensee)
 
-- identify more licenses for the [copyleft lists](https://blueoakcouncil.org/copyleft#families), also available [as structured data](https://blueoakcouncil.org/copyleft.json) for [tools](https://www.npmjs.com/package/licensee)
+- identify more licenses for the [copyleft lists](https://blueoakcouncil.org/copyleft#families), also available [as structured data](https://blueoakcouncil.org/copyleft.json)
 
 - mentor aspiring open software licensing talents by exposing them to licenses and discussion with council members
 
 Blue Oak's permissive license list currently identifies over 180 licenses.  Each was reviewed by a council member, identified as permissive, and rated---sometimes after extensive discussion---from ["Gold"](https://blueoakcouncil.org/list#gold) down to ["Lead"](https://blueoakcouncil.org/list#lead).
 
-The ratings are functional, not ideological or political, producing a list that can be "imported" like a module into [development contracts](https://blueoakcouncil.org/development-use), [grant conditions](https://blueoakcouncil.org/grant-release), [company](https://blueoakcouncil.org/starter-policy) [policies](https://blueoakcouncil.org/company-policy), and other terms, in addition to software.  Blue Oak's license list is at work today in everything from open source policies at small nonprofits to commercial contracts with household-name public companies.  It draws a clear line around the open licenses that are welcome nearly everywhere and always.
+The ratings are functional, not [ideological or political](/2019/05/05/Rely-on-OSI), producing a list that can be "imported" like a module into [development contracts](https://blueoakcouncil.org/development-use), [grant conditions](https://blueoakcouncil.org/grant-release), [company](https://blueoakcouncil.org/starter-policy) [policies](https://blueoakcouncil.org/company-policy), and other terms, in addition to [software](https://www.npmjs.com/package/licensee).  Blue Oak's license list is at work today in everything from open source policies at small nonprofits to commercial contracts with household-name public companies.  It draws a clear line around the open licenses that are welcome nearly everywhere and always.
 
-Since its start, the Council has used [SPDX license identifiers](https://spdx.org/licenses/) to list licenses.  Meanwhile, SPDX itself has continued identifying more licenses, often submitted by Linux distributions that use SPDX IDs in package metadata.  Blue Oak uses a GitHub Action to compare its lists against SPDX's each quarter, outputting a backlog of licenses to assess.  That backlog has been growing.  Here's the output from a re-run today:
+Since its start, the Council has used [SPDX license IDs](https://spdx.org/licenses/) to list licenses.  Meanwhile, SPDX itself has continued identifying more licenses, often submitted by Linux distributions that use SPDX IDs in package metadata.  Blue Oak uses a GitHub Action to compare its lists against SPDX's each quarter, outputting a backlog of licenses to assess.  That backlog has been growing.  Here's the output from a re-run today, over 200 licenses long:
 
 <details>
-<summary>Most Recent Blue Oak To-Do List</summary>
+<summary>Blue Oak License To-Do List</summary>
+<ul>
 <li><a href="https://spdx.org/licenses/NOSL">NOSL</a></li>
 <li><a href="https://spdx.org/licenses/O-UDA-1.0">O-UDA-1.0</a></li>
 <li><a href="https://spdx.org/licenses/DRL-1.0">DRL-1.0</a></li>
@@ -260,18 +261,17 @@ Since its start, the Council has used [SPDX license identifiers](https://spdx.or
 <li><a href="https://spdx.org/licenses/SimPL-2.0">SimPL-2.0</a></li>
 <li><a href="https://spdx.org/licenses/Interbase-1.0">Interbase-1.0</a></li>
 <li><a href="https://spdx.org/licenses/gSOAP-1.3b">gSOAP-1.3b</a></li>
+</ul>
 </details>
-
-There are now over 200 licenses on that list!
 
 Blue Oak's mission was born out of the dearth of open software licensing expertise, which leaves small and nonprofit orgs, as well as solo developers, without good guidance:
 
 > Blue Oak Council opens the software commons up to those who can't find or afford specialized legal help by bringing experienced lawyer-technologists together to publish free, practical materials about software licenses.
 
-That same shortage keeps the volunteer members of the Council very busy.  I have personally done several weekend sessions powering through dozens of licenses for Blue Oak's lists.  Even with the speedy eye of someone who's read many, many licenses over the years, these are hours-long sessions.
+That same shortage keeps the volunteer members of the Council very busy.  Nonetheless, I have personally done several weekend sessions powering through dozens of licenses for Blue Oak's lists.  Even with the speedy eye of someone who's read many, many licenses over the years, those sessions runs hours long.
 
-The long-term solution to this problem obviously isn't any magic spell that gives Council members 25 hours per day.  It's welcoming in and mentoring new open licensing talents who can contribute to these kinds of resources.  Talents that would grow on the chance to review and discuss more open licenses with practicing experts.
+The long-term solution to this problem obviously isn't any magic spell that gives Council members 25 hours per day.  It's welcoming in and mentoring new open licensing talents who gain from contributing to free resources.  Talents that would grow on the chance to review and discuss more open licenses with practicing experts.
 
 A number of us on the Council work with new or aspiring lawyers in various capacities---as subcontractors, as assistants on academic projects, as fellow volunteers serving charities [pro bono publico](https://en.wikipedia.org/wiki/Pro_bono).  Our goal is to turn the license list backlog into a structured, paying opportunity for exposure and mentorship, producing both an improved license list that orgs can reference and rely on, as well as new legal talent available to advise on other needs and projects.
 
-Your [online donation](https://blueoakcouncil.org/fund-the-list), [deductible from income tax in the US](https://blueoakcouncil.org/about), will further all those objectives.  Thanks so much for supporting Blue Oak Council.
+Your [online donation](https://blueoakcouncil.org/fund-the-list), [deductible from income tax in the US](https://blueoakcouncil.org/about), would further all those objectives.  Thanks so much for considering.
