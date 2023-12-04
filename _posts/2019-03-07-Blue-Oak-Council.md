@@ -2,6 +2,7 @@
 title: Blue Oak Council
 description: opening the software commons to everyone
 layout: post
+series: Blue Oak Council
 tags:
 - Nonprofits
 - Intellectual Property

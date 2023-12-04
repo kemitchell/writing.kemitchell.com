@@ -2,6 +2,7 @@
 date: 2021-11-24T10:32:57-08:00
 title: Blue Oak Open Software Licensing Primer
 description: Theory of Operation, updated and expanded
+series: Blue Oak Council
 tags:
 - Blue Oak Council
 - Open Source

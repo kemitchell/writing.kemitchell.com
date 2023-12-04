@@ -2,6 +2,7 @@
 title: Blue Oak Reading List
 description: reading list for lawyers new to open source
 layout: post
+series: Blue Oak Council
 tags:
 - Blue Oak Council
 - Open Source

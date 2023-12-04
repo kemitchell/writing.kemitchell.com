@@ -2,6 +2,7 @@
 title: Blue Oak Guidance on Mergers and Acquisitions
 description: please stop paying me so much to fix reps and warranties
 layout: post
+series: Blue Oak Council
 tags:
 - Open Source
 - Mergers and Acquisitions

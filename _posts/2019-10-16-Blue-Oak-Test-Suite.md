@@ -2,6 +2,7 @@
 title: Blue Oak Test Suite
 description: test cases for new public licenses
 layout: post
+series: Blue Oak Council
 tags:
 - Blue Oak Council
 - Open Source
