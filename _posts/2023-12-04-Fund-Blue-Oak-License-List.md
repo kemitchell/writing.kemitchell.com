@@ -23,7 +23,7 @@ The ratings are functional, not [ideological or political](/2019/05/05/Rely-on-O
 
 Since its start, the Council has used [SPDX license IDs](https://spdx.org/licenses/) to list licenses.  Meanwhile, SPDX itself has continued identifying more licenses, often submitted by Linux distributions that use SPDX IDs in package metadata.  Blue Oak uses a GitHub Action to compare its lists against SPDX's each quarter, outputting a backlog of licenses to assess.  That backlog has been growing.  Here's the output from a re-run today, over 200 licenses long:
 
-<details>
+<details id="list">
 <summary>Blue Oak License To-Do List</summary>
 <ul>
 <li><a href="https://spdx.org/licenses/NOSL">NOSL</a></li>
