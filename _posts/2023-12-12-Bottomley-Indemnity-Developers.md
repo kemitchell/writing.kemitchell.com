@@ -1,4 +1,5 @@
 ---
+date: 2023-12-12T15:12:18-08:00
 title: Unlimited Indemnity for Unpaid Developers?
 description: James Bottomley on liability, politics, and forgotten boilerplate
 tags:
