@@ -19,6 +19,8 @@ description: other blogs of likely interest
 
 ## Open People
 
+[James Bottomley](https://blog.hansenpartnership.com/)
+
 [Nadia Eghbal](https://nadiaeghbal.com/)
 
 [Bradley Kuhn](http://ebb.org/bkuhn/blog/)
