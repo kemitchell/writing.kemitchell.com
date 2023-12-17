@@ -11,7 +11,7 @@ tags:
 ---
 
 
-Dirk Riehle's ["The Future of the Open Source Definition"](https://writing.kemitchell.com/2016/05/13/What-Open-Source-Means) reminds me a lot of one of [my own posts](https://writing.kemitchell.com/2016/05/13/What-Open-Source-Means) an eon ago, circa 2016.  Back then, I wrote:
+Dirk Riehle's ["The Future of the Open Source Definition"](https://dirkriehle.com/publications/2023-selected/the-future-of-the-open-source-definition/) reminds me a lot of one of [my own posts](https://writing.kemitchell.com/2016/05/13/What-Open-Source-Means) an eon ago, circa 2016.  Back then, I wrote:
 
 > If the process [of gradually calling more things "open"] dulls the fine edges of the Open Source Definition, which I consider one of the most laudable inter-generational bequests in programmingdom, then so be it.  Its political foundation has shifted, but its value as an artifact and teacher aren't lost, and won't be while I still type.
 
