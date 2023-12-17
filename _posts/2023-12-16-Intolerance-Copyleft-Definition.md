@@ -93,7 +93,7 @@ Quoth AGPLv3:
 
 When software got distributed to customers as installable binaries, Free Software-allied companies used the GPL to contribute without getting smashed by hostile proprietary firms.  When distribution to customers via network services picked up, Free Software-allied companies got a new license for Web apps---its text quite literally mentions users interacting over networks.  That license was initially written with movement help _by and in the name of a commercial company_, later officially adopted and rewritten by the FSF, to enable corporate contribution without getting smashed by proprietary competitors.  Even though RMS [didn't like the shift in distribution](https://www.gnu.org/philosophy/who-does-that-server-really-serve.en.html) that made that mode commercially relevant.
 
-Why?  Allies were asking for it.  FSF [explicitly intended](https://www.gnu.org/press/2002-03-19-Affero.html) to address _business_ concerns:
+Why?  Allies were asking for it.  The FSF [explicitly intended](https://www.gnu.org/press/2002-03-19-Affero.html) to address _business_ concerns:
 
 > The FSF worked with Affero to address the licensing requirements for their business model and is considering including this additional provision in the upcoming version of the GNU GPL 3.0 and is inviting public comment.
 
