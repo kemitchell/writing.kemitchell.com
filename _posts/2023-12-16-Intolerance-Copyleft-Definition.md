@@ -59,7 +59,7 @@ The meta-debate has most recently resolved _against_ the idea that new approval 
 
 At the same time, as far as I know, there still isn't any active process for reversing previous license approvals.
 
-This is not a functioning, precedent-based adjudication system.  It's an improvement, but not a redeeming one, that it no longer pretends to be, at least if you know where to look.  If it all of seems to walk and talk more like parliamentary debate procedure than specialist consultation on a technical standard, that's because it is.  It can't define itself by fiat to be otherwise.
+This is not a functioning, precedent-based adjudication system.  It's an improvement, but not a redeeming one, that it no longer pretends to be, at least if you know where to look.  If it seems to walk and talk more like parliamentary debate procedure than specialist consultation on a technical standard, that's because it is.  It can't define itself by fiat to be otherwise.
 
 ## Copyleft
 
