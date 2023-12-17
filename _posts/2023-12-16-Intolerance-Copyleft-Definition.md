@@ -133,7 +133,7 @@ On the other hand, stark facts: All copyleft licenses intentionally discriminate
 
 There are ways you are _not_ allowed to use code under these OSI-approved licenses: to make and deliver proprietary software.  "Deliver" in the sense most commercially relevant at the time of their drafting.  But the "Open Source Definition" nowhere says that a license can do that.  Even though the [Debian Free Software Guidelines](https://www.debian.org/social_contract#guidelines), from which the Open Source Definition was hastily forked, lists GPL as the first example of a conforming license, and GPLv2 was on the inaugural list of OSI-approveds.
 
-An irregular drip of feedback wondering how GPL meets the criteria started immediately, and has continued since.  It's been pilfering hours off well meaning devs for decades now, like a rare but treatable communicable disease.
+An irregular drip of feedback wondering how GPL meets the criteria started immediately, and has continued since.  It's been pilfering hours off well meaning devs for decades now, like a rare but transitory communicable brain disease.
 
 ## Policy
 
