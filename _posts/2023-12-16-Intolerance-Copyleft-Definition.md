@@ -147,6 +147,6 @@ Left on their own, without the support of institutions that have stopped making 
 
 I don't see these companies trying to change the definition of "open source".  I see them realizing that "open source" isn't _defined_, by OSI or any other institution.  I see them realizing, from experience, sometimes quite despite their own prior beliefs, that they don't need OSI approval to reach users, distribute their software, or reap the benefits of open, marketing-wise or otherwise.  Even if they don't call themselves "open", their fans will.  Even if they went and got "the license may prohibit use in software that is not open-source" and an ASCII-art [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) tacked onto OSI's "definition", it wouldn't stop their critics from deriding them as "fauxpen".
 
-I do see the activist wing of free and open falling ever further behind the state of major-league competitive play.  I do see the sad combinatorics of "license compatibility" stymying reuse across for-profit and meh-profit allies.
+I do see the activist wing of free and open falling ever further behind the state of major-league competitive play.  I do see the sad combinatorics of "license compatibility" stymying reuse among for-profit and meh-profit allies.
 
 Divide and fall.
