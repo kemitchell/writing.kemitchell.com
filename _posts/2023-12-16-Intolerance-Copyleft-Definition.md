@@ -49,7 +49,7 @@ As for the Definition itself, Dirk writes:
 
 This is an easy enough statement to make about controversial license assessments _only once they have been made_.  The Definition's so vague where it matters that victors can always find bits to cite to make their victories seem clear and inevitable.  They can make on those bits have always been read, have to be read, to compel their conclusion.
 
-Looking at the actual debates, before decisions---or, just as often, before one sides gets a whiff of the real "process" and runs away---you'll very often find both sides _citing the same Open Source Definition language_ for and against the same license terms.  And, predictably, devolving into a meta-debate about how to read the criteria and the process for putting sharpening up its eternally blunt, glittering generalities.
+Looking at the actual debates, before decisions---or, just as often, before one sides gets a whiff of the real "process" and runs away---you'll very often find both sides _citing the same Open Source Definition language_ for and against the same license terms.  And, predictably, devolving into a meta-debate about how to read the criteria and the process for putting finer points to its eternally blunt, glittering generalities.
 
 The Open Source Definition is neither practical nor sharp.  It is more like one of those [shiny, harmless novelty sabres used to pop champagne](https://www.youtube.com/watch?v=qCp9-tEHa8U), kept around as souvenir of the reverently remembered but dimly recalled wedding of Raymond-esque ambition and Perensian idealism, officiated by Tim O'Reilly.
 
