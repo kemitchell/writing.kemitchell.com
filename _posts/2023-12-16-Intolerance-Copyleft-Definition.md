@@ -51,7 +51,7 @@ This is an easy enough statement to make about controversial license assessments
 
 Looking at the actual debates, before decisions---or, just as often, before one sides gets a whiff of the real "process" and runs away---you'll very often find both sides _citing the same Open Source Definition language_ for and against the same license terms.  And, predictably, devolving into a meta-debate about how to read the criteria and the process for putting finer points to its eternally blunt, glittering generalities.
 
-The Open Source Definition is neither practical nor sharp.  It is more like one of those [shiny, harmless novelty sabres used to pop champagne](https://www.youtube.com/watch?v=qCp9-tEHa8U), kept around as souvenir of the reverently remembered but dimly recalled wedding of Raymond-esque ambition and Perensian idealism, officiated by Tim O'Reilly.
+The Open Source Definition is neither practical nor sharp.  It is more like one of those [shiny, harmless novelty sabres used to pop champagne](https://www.youtube.com/watch?v=qCp9-tEHa8U), kept around as souvenir of the revered but dimly recalled wedding of Raymond-esque ambition and Perensian idealism, officiated by Tim O'Reilly.
 
 The meta-debate has most recently resolved _against_ the idea that new approval decisions have to be consistent with past readings of the criteria.  While I'd strongly caution anyone against taking OSI's [review process documentation](https://opensource.org/licenses/review-process/) as an accurate statement of actual process, its most recent inspired-reformer rewrite currently reads:
 
