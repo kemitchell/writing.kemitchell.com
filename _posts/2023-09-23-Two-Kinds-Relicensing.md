@@ -13,7 +13,7 @@ tags:
 
 <h2 id="going-forward">Going-Forward Relicensing</h2>
 
-The ongoing parade of companies "relicensing" their projects---Mongo, Elastic, Redis, Comodo, Confluent, Hashi, more I'm forgetting---all announced changes to the license therms for new work going forward.  They didn't announce new or different terms for past work already released.
+The ongoing parade of companies "relicensing" their projects---Mongo, Elastic, Redis, Comodo, Confluent, Hashi, more I'm forgetting---all announced changes to the license terms for new work going forward.  They didn't announce new or different terms for past work already released.
 
 Nowhere in any common open license does anyone promise to keep working on their project, much less on particular terms.  Any contributor to a [permissively-licensed project](https://blueoakcouncil.org/list) can license their next contribution however they want.  Any steward of a [copyleft](https://blueoakcouncil.org/copyleft) project with rights to all contributions can, too.  Much as you could pick an Apache-licensed project, fork it, and sell your enhanced version under proprietary terms, a project steward can share new work under new terms, as well.
 
