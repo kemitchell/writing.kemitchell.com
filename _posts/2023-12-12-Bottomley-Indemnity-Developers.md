@@ -8,7 +8,7 @@ tags:
 - Open Licensing
 ---
 
-If you read this blog for open software licensing and policy, have a look at James Bottomley's latest, ["Solving the Looming Developer Liability Problem"](https://blog.hansenpartnership.com/solving-the-looming-developer-liability-problem/).  James shares his view on why open software licenses have warranty disclaimers, how open source went from amateur to commercial, how the recent lawsuit against Bitcoin developers fits in, and what it all means for new laws like the EU's Cyber Resilience Act.  Then he reminds us of section 9 of the Apache License and proposes that open developers expand on it to require that users or financially cover them for new legal liabilities from use of their work.
+If you read this blog for open software licensing and policy, have a look at James Bottomley's latest, ["Solving the Looming Developer Liability Problem"](https://blog.hansenpartnership.com/solving-the-looming-developer-liability-problem/).  James shares his view on why open software licenses have warranty disclaimers, how open source went from amateur to commercial, how the recent lawsuit against Bitcoin developers fits in, and what it all means for new laws like the EU's Cyber Resilience Act.  Then he reminds us of section 9 of the Apache License and proposes that open developers expand on it to require users to financially cover them for new legal liabilities from use of their work.
 
 A few thoughts came to mind as I read James' post.
 
