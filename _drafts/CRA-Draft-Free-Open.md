@@ -6,34 +6,40 @@ tags:
 - European Union
 ---
 
+New provisions related to free and open software in [the December 20 draft of the CRA](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_17000_2023_INIT):
+
 ## Recitals
 
 ### Recital 10
 > This Regulation applies to economic operators only in relation to products with digital elements made available on the market, hence supplied for distribution or use on the Union market in the course of a commercial activity.   The supply in the course of a commercial activity might be characterized <mark>not only by charging a price for a product</mark>, but also by <mark>charging a price for technical support services</mark> when this does not serve only the recuperation of actual costs, or by <mark>an intention to monetise</mark>, for instance by providing a software platform through which the manufacturer monetises other services, <mark>by requiring as a condition for use the processing of personal data</mark> for reasons other than exclusively for improving the security, compatibility or interoperability of the software, or by <mark>accepting donations exceeding the costs</mark> associated with the design, development and provision of a product with digital elements.   Accepting donations without the intention of making a profit should not be considered to be a commercial activity.
 
-Note the _inclusion_ of donations meant to exceed costs as a form of monetization.
+Interesting to see language specifically _including_ donations over costs as a form of monetization.
 
 ### Recital 10b
 > Software and data that are <mark>openly shared and where users can freely access, use, modify and redistribute them or modified versions thereof</mark>, can contribute to research and innovation in the market.   To foster the development and deployment of free and open- source software, <mark>in particular by microenterprises and small, medium-sized enterprises, including start-ups, and not-for-profit organisations, academic research and individuals</mark>, the application of this Regulation to free and open-source software products supplied for distribution or use in the course of a commercial activity <mark>should take into account the nature of the different development models</mark> of software distributed and developed under free and open-source software licences.
 
 ### Recital 10c
 > <mark>Free and open-source software is understood as software the source code of which is openly shared and the license of which provides for all rights to make it freely accessible, usable, modifiable and redistributable.</mark>
->
+
+This shows up in a definition, also quoted below.
+
 > Free and open-source software is developed, maintained, and distributed openly, including via online platforms.
 
-The development part of this doesn't follow from the others.
+Not all software distributed "openly" gets developed and maintained "openly".  But I don't see open development and maintenance in the actual definition within the text.
 
-> In relation to the economic operators covered by this regulation, <mark>only free and open-source software made available on the market, and therefore supplied for distribution or use in the course of a commercial activity should be covered by this Regulation</mark>.   <mark>The mere circumstances under which the product has been developed, or how the development has been financed should therefore not be taken into account when determining the commercial or non- commercial nature of that activity.</mark>
+> In relation to the economic operators covered by this regulation, <mark>only free and open-source software made available on the market, and therefore supplied for distribution or use in the course of a commercial activity should be covered by this Regulation</mark>.
+
+> <mark>The mere circumstances under which the product has been developed, or how the development has been financed should therefore not be taken into account when determining the commercial or non- commercial nature of that activity.</mark>
 
 Keeping focus on when software can cause harm.  Not elevating free- or open- process distinctions above that focus.
 
 > More specifically, for the purpose of this Regulation and in relation to the economic operators referred therein, <mark>to ensure that there is a clear distinction between the development and the supply phases</mark>, <mark>the provision of free and open-source software products with digital elements that are not monetised by their manufacturers is not considered a commercial activity</mark>.
 
-Here is the line.  I wonder how "clear" this distinction will actually be in practice.
+Here is the line.  I wonder how "clear" this will actually be in practice.
 
 > Furthermore, <mark>the supply of products with digital elements qualifying as free and open-source software components intended for integration by other manufacturers into their own products with digital elements should only be considered as making available on the market if the component is monetised by its original manufacturer</mark>.
 
-> For instance, the mere fact that an open- source software product with digital elements receives financial support by manufacturers or that manufacturers contribute to the development of such a product should not in itself determine that the activity is of commercial nature.
+> For instance, the mere fact that an open-source software product with digital elements receives financial support by manufacturers or that manufacturers contribute to the development of such a product should not in itself determine that the activity is of commercial nature.
 
 > In addition, the mere presence of regular releases in itself does not lead to the conclusion that a product is supplied in the course of a commercial activity.
 
@@ -43,16 +49,18 @@ I'm noting "not-for-profit", rather than "charitable", here.
 
 > <mark>This Regulation does not apply to natural or legal persons who contribute source code to free and open-source products that are not under their responsibility.</mark>
 
+Safe harbor for individual contributors.  "Under their responsibility" is an interesting turn of phrase here.
+
 ### Recital 10d
 > Taking into account the cybersecurity importance of many free and open-source software products with digital elements that are published but, within the meaning of this Regulation, not made available on the market, legal persons which provide support on a sustained basis for the development of such products with digital elements qualifying as free and open-source software, which are intended for commercial activities, and play a main role in ensuring the viability of those products (<mark>'open-source software stewards'</mark>) <mark>should be subject to a light-touch and tailor-made regulatory regime</mark>.
 
-Why?
+Why?  How does this advance the purpose the law?
 
 > This includes certain foundations as well as entities that develop and publish free and open-source software in a business context, such as not-for-profit entities developing free and open-source software in a business context.   This regulatory regime should take account of their specific nature and compatibility with the type of obligations imposed.   <mark>It should only cover free and open-source software products with digital elements that are ultimately intended for commercial activities</mark>, such as for integration into commercial services or into monetised products with digital elements.
 
 Why not others?
 
-> For the purpose of the light- touch and tailor-made regulatory regime, an intention for integration into monetised products includes cases where manufacturers that integrate a component into their own products with digital elements either contribute to the development of that component in a regular manner or provide regular financial assistance to ensure the continuity of the software product.
+> For the purpose of the light-touch and tailor-made regulatory regime, an intention for integration into monetised products includes cases where manufacturers that integrate a component into their own products with digital elements either contribute to the development of that component in a regular manner or provide regular financial assistance to ensure the continuity of the software product.
 
 > The provision of sustained support to the development of a product with digital elements includes but is not limited to the hosting and managing of software development collaboration platforms, the hosting of source code or software, the governing or managing of free and open-source software products with digital elements as well as the steering of the development of such products.   Given that the light-touch and tailor-made regulatory regime does not subject open-source software stewards to the same obligations as manufacturers under this Regulation, they should not be able to affix the CE marking to the products with digital elements whose development they support.
 
@@ -89,7 +97,7 @@ Can the older US-based foundations that qualified for tax exemption as charities
 #### Paragraph 40a
 > 'free and open-source software' means software the source code of which is openly shared and which is made available under a free and open-source license which provides for all rights to make it freely accessible, usable, modifiable and redistributable
 
-A definition of "FOSS".
+A definition of "FOSS".   Note the _absence_ of any deferral to private organizations like OSI, FSF, or Debian, to say what's in or out.  Nobody familiar with how legislatures writes laws expects such a thing.
 
 ### Chapter II
 
