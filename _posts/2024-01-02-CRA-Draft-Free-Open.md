@@ -1,4 +1,5 @@
 ---
+date: 2024-01-02T09:01:36-08:00
 title: Free and Open in the Latest Draft of the EU Cyber Resilience Act
 tags:
 - Cyber Resilience Act
