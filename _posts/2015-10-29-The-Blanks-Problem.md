@@ -98,7 +98,7 @@ That Common Form has a fingerprint that any program speaking Common Form can fin
 
 Blanks allow users to put arbitrary text into a form. The only limitation on this freedom is that the arbitrary text must go where the blanks in the forms are.
 
-One effect of that freedom is the [security concerns I've covered before](http://writing.kemitchell.com/2015/10/08/Term-Injection.html). Another is that it becomes very difficult to work backwards from contract text that you see "in the wild", say on paper, to Common Form.
+One effect of that freedom is the [security concerns I've covered before](https://writing.kemitchell.com/2015/10/08/Term-Injection). Another is that it becomes very difficult to work backwards from contract text that you see "in the wild", say on paper, to Common Form.
 
 Consider this tiny bit of contract:
 

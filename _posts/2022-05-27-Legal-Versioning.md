@@ -27,4 +27,4 @@ Fellow nerds will see the debt to [Semantic Versioning](https://semver.org/) eve
 
 - There is just one scheme for drafts, the optional <code>-<em>number</em></code> suffix.  There is no semi-freeform allowance for build tags or prerelease numbers.
 
-This work fell out of a broader effort to implement the stairstep approach to more widespread incorporation by reference of legal clauses that I outlined in ["From Copy to Reference"](https://writing.kemitchell.com/2022/05/12/From-Copy-to-Reference) in the Common Form tools.
+This work fell out of a broader effort to implement the stairstep approach to more widespread incorporation by reference of legal clauses that I outlined in ["From Copy to Reference"](https://writing.kemitchell.com/2022/05/11/From-Copy-to-Reference) in the Common Form tools.

@@ -15,6 +15,6 @@ A taste:
 > Open source is a licensing and delivery mechanism, period. It means you get the source for software and the right to use and modify it.  All social impositions associated with it, including the idea of 'community-driven-development' are part of a recently-invented mythology with little basis in how things actually work, a mythology that embodies, cult-like, both a lack of support for diversity in the ways things _can_ work and a pervasive sense of communal entitlement.
 
 
-I've done a bit of writing on different meanings of open source myself, to try and broaden respect for their diversity.  [_It's Not About Community_](http://writing.kemitchell.com/2017/06/04/Its-Not-About-Community.html) comes to mind.
+I've done a bit of writing on different meanings of open source myself, to try and broaden respect for their diversity.  [_It's Not About Community_](https://writing.kemitchell.com/2017/06/04/Its-Not-About-Community) comes to mind.
 
-As for myself, I'm sympathetic to Rich's minimalist view, but also see "open source" as a movement with some energy left.  [_I Don't Want to Know What "Open Source" Means_](http://writing.kemitchell.com/2016/05/13/What-Open-Source-Means.html) makes a case for allowing definitions to blur, if that spreads more of the good around.
+As for myself, I'm sympathetic to Rich's minimalist view, but also see "open source" as a movement with some energy left.  [_I Don't Want to Know What "Open Source" Means_](https://writing.kemitchell.com/2016/05/13/What-Open-Source-Means.html) makes a case for allowing definitions to blur, if that spreads more of the good around.
