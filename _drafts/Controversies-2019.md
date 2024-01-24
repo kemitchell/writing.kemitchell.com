@@ -22,7 +22,7 @@ My Take:  Best case, standards and software people get their heads together and 
 
 Other Writing:
 
-- [_Standards, Patents, Open Source_](https://writing.kemitchell.com/2019/10/03/Open-Standards.html)
+- [_Standards, Patents, Open Source_](https://writing.kemitchell.com/2019/10/03/Open-Standards))
 
 <h2 id="weak">Stronger Weak Copyleft</h2>
 [MongoDB](https://mongodb.com), maker of an eponymous database, wrote and adopted a new license, the [Server Side Public License](https://www.mongodb.com/licensing/server-side-public-license), that requires sharing back changes and extensions to the software, as well as infrastructure for offering the database as a service, but not applications built with the database.  They cited weaknesses in AGPLv3 and a fear that competitors like Amazon Web Services will outcompete them in offering MongoDB as a service.
@@ -33,10 +33,10 @@ My Take:  Businesses need stronger copyleft licenses.  Starting from that baseli
 
 Other Writing:
 
-- [_The Copyleft Bust-Up_](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html)
-- [_SSPL Was Not Commons Clause_](https://writing.kemitchell.com/2019/06/13/SSPL-Not-Commons-Clause.html)
-- [_Weak or Strong is Wrong_](https://writing.kemitchell.com/2019/03/11/Weak-Strong-Wrong.html)
-- [_API Copyleft_](https://writing.kemitchell.com/2019/01/30/API-Copyleft.html)
+- [_The Copyleft Bust-Up_](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up))
+- [_SSPL Was Not Commons Clause_](https://writing.kemitchell.com/2019/06/13/SSPL-Not-Commons-Clause))
+- [_Weak or Strong is Wrong_](https://writing.kemitchell.com/2019/03/11/Weak-Strong-Wrong))
+- [_API Copyleft_](https://writing.kemitchell.com/2019/01/30/API-Copyleft)
 - [_A Quick Note on SSPLv1_](https://blog.licensezero.com/2018/11/08/ssplv1-note.html)
 
 <h2 id="strong">Stronger Strong Copyleft</h2>
@@ -51,7 +51,7 @@ Other Writing:
 - [_Free to Take Freedom_](https://blog.licensezero.com/2018/09/14/free-to-take-freedom.html)
 - [_No Other Terms Before Me_](https://blog.licensezero.com/2018/10/26/no-other-terms.html)
 - [_Mapping Open Business Models_](https://blog.licensezero.com/2018/10/17/mapping-models.html)
-- [_The Open Source Definition as Copyleft Regulation_](https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation.html)
+- [_The Open Source Definition as Copyleft Regulation_](https://writing.kemitchell.com/2018/11/05/OSD-Copyleft-Regulation)
 
 <h2 id="ethical">Ethical Licensing</h2>
 2019 saw a sudden uptick in proposals for open licenses with various added rules against use for unethical purposes or by specific unethical actors.  The [Responsible AI Licenses](http://licenses.ai/) prohibit a list of troubling use cases.  The [NoHarm License](https://github.com/raisely/NoHarm) is attempting to write out a full moral code.  Various licenses denying permission to United States immigration authorities, Immigration and Customer Enforcement, and their contractors, have tracked protests within and without large technology companies.  [996.ICU](https://996.icu/#/zh_CN), an effort out of China, prohibits use by companies violating labor laws.
@@ -60,8 +60,8 @@ My Take:  Free Software licenses began as ethical licenses.  A great deal of cod
 
 Other Writing:
 
-- [_Talking Points: Ethical Licenses_](https://writing.kemitchell.com/living/Ethical-Licenses-Talking-Points.html)
-- [_Ethical Subcommons Starter Kit_](https://writing.kemitchell.com/2019/03/15/Ethical-Subcommons.html)
+- [_Talking Points: Ethical Licenses_](https://writing.kemitchell.com/living/Ethical-Licenses-Talking-Points)
+- [_Ethical Subcommons Starter Kit_](https://writing.kemitchell.com/2019/03/15/Ethical-Subcommons)
 
 <h2 id="api">API Derivative Works</h2>
 Oracle's lawsuit against Google for infringement of copyright in APIs of the Java programming platform is headed to the Supreme Court.  So far, appellate holdings have favored Oracle and a broader reading of copyright to cover creative API designs.  That spells trouble for activists who oppose software copyright generally.  It also promises ripple effects through several popular copyleft licenses, including GPLv2, that set the reach of copyleft based on the legal definition of "derivative work".

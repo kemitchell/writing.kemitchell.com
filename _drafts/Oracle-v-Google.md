@@ -77,7 +77,7 @@ Name another Supreme Court decision where the majority explicitly _assumes_ a pr
 
 ## Bad Metaphors
 
-After the lawyers argued this case at the Supreme Court, I [blogged a list of the many metaphors](https://writing.kemitchell.com/2020/10/12/Oracle-Google-Metaphors.html) bandied from podium and bench.  Competitive analogizing continued in the written opinions.
+After the lawyers argued this case at the Supreme Court, I [blogged a list of the many metaphors](https://writing.kemitchell.com/2020/10/12/Oracle-Google-Metaphors) bandied from podium and bench.  Competitive analogizing continued in the written opinions.
 
 The majority lobbed a few, some of which we'd heard before.  An API is like a factory floor stocked with tools.  An API is like the gas pedal in a car.  An API is like the QWERTY keyboard layout on ... a typewriter.
 

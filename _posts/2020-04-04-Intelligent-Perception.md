@@ -32,7 +32,7 @@ People tend to skip block quotations, but that would be getting this post very b
 
 This line of thinking can give a helpful structure to my own meanderings through various points of legal craft.  Of course it can.
 
-_Why_ is it good [write out the purposes of policies and provisions in legal terms?](https://writing.kemitchell.com/2019/01/10/Discipline-Stated-Purpose.html)  _Why_ is it good to write those things in plain, everyday terms, even---no, _especially_---for deals between large, well resourced firms and educated people?  _Why_ is it good to share the history and thinking behind changing legal terms and policies publicly?
+_Why_ is it good [write out the purposes of policies and provisions in legal terms?](https://writing.kemitchell.com/2019/01/10/Discipline-Stated-Purpose)  _Why_ is it good to write those things in plain, everyday terms, even---no, _especially_---for deals between large, well resourced firms and educated people?  _Why_ is it good to share the history and thinking behind changing legal terms and policies publicly?
 
 I'm not here to claim that I have each answer, ground out to a fine empirical point.  But Loomis suggests that I know the category from which the answers might be found.  I know where to go looking.
 

@@ -7,7 +7,7 @@ tags:
 
 As family and a number of clients already know, I've spent a little more than the last two weeks bedridden, due to a relapse of a recurring issue with nerves in my lower spine.  I was entirely out of comms for several of those days, and spent the rest limited to phone and tablet, when I could find a pain-free position on my side.
 
-The [computing-in-bed setup](https://writing.kemitchell.com/2019/05/12/Prone-Blogging-Setup.html) friends were so helpful in establishing for me the last time largely fell through, since I couldn't lay on my back.  As a result, practice, projects, writing stalled out.
+The [computing-in-bed setup](https://writing.kemitchell.com/2019/05/12/Prone-Blogging-Setup) friends were so helpful in establishing for me the last time largely fell through, since I couldn't lay on my back.  As a result, practice, projects, writing stalled out.
 
 I was able to sit up without pain for the first time yesterday, and have been able to sit at the computer and unblock some deals and deliverables in fifteen-minute stints today.  I'm cautiously optimistic that it's all improvement from here out.  I'm off the meds, and have restarted the physical therapy recuperation exercises from my last recovery.  A close friend was kind enough to move a proper office chair into my apartment, and to offer some much needed encouragement to revisit my work from home accommodations, largely unchanged since the first months of the pandemic.
 

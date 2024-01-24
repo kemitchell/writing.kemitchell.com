@@ -6,7 +6,7 @@ tags:
 - Licensing
 ---
 
-I've [reviewed the license terms for the Kingsway music sample marketplace](https://writing.kemitchell.com/2021/11/13/Kingsway.html) here on this blog.  Researching Frank Dukes, Kingsway's creator, led also to [an interview](https://www.youtube.com/watch?v=aS5qmONlBcY0б) with [Tracklib](https://tracklib.com), another online platform for selling recordings to sample.
+I've [reviewed the license terms for the Kingsway music sample marketplace](https://writing.kemitchell.com/2021/11/13/Kingsway) here on this blog.  Researching Frank Dukes, Kingsway's creator, led also to [an interview](https://www.youtube.com/watch?v=aS5qmONlBcY0б) with [Tracklib](https://tracklib.com), another online platform for selling recordings to sample.
 
 Tracklib's business model and licensing approach differ a bit from Kingsway's.  For one, Tracklib access starts with a subscription.
 

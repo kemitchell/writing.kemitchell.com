@@ -67,7 +67,7 @@ In order to get them out quickly, the 1.0.0 versions of PolyForm licenses were g
 
 ## Round Robin
 
-[Round Robin](https://roundrobinlicense.com), earlier called the "API Copyleft License", fell out of [my frustrations with MongoDB's Server Side Public License and reaction to it](https://writing.kemitchell.com/2019/06/13/SSPL-Not-Commons-Clause.html).
+[Round Robin](https://roundrobinlicense.com), earlier called the "API Copyleft License", fell out of [my frustrations with MongoDB's Server Side Public License and reaction to it](https://writing.kemitchell.com/2019/06/13/SSPL-Not-Commons-Clause).
 
 In short, I thought Mongo's decision to "patch" AGPL obscured the issues and enabled those who preferred derailing the conversation to recognizing the problem.  So I sat down and implemented the licensing approach---permissive for applications, copyleft for everything else---without inheriting GPL's morass or introducing tropes from enterprise software licensing.
 
@@ -85,7 +85,7 @@ Icepick isn't overconcerned with putting its demands in the language of copyrigh
 
 ## Code Credit
 
-I began working on [`credits.txt`](https://github.com/creditstxt/creditstxt.com) convention for listing credits for web apps and other software services in response to many discussions about fair credit for open software developers, and a desire to give credit where due for my own apps.  I'd already heard some requests for a license requiring credit through License Zero, and [published a form for a friend under the License Zero banner](https://writing.kemitchell.com/2018/07/12/Posterity.html).
+I began working on [`credits.txt`](https://github.com/creditstxt/creditstxt.com) convention for listing credits for web apps and other software services in response to many discussions about fair credit for open software developers, and a desire to give credit where due for my own apps.  I'd already heard some requests for a license requiring credit through License Zero, and [published a form for a friend under the License Zero banner](https://writing.kemitchell.com/2018/07/12/Posterity).
 
 Revisiting that license, due to yet more hacker requests, led to the [Code Credit License](https://github.com/creditstxt/creditstxt.com), which requires users of software to give credit to projects and developers in whatever way is appropriate for the medium they work in: end credits for films, citations in academe, and so on.  For software services, that convention is `credits.txt`.  Since the license is really just the Blue Oak Model with an additional requirement, we also [published that requirement](https://codecreditlicense.com/add-on/1.1.0) as an "add-on" people can add to other licenses.
 

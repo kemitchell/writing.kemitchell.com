@@ -63,7 +63,7 @@ Got it?  Feeling good?
 
 You know what's coming, right?
 
-Under California law, there's a catch.  [Special provisions of the labor and insurance codes](https://writing.kemitchell.com/2018/05/31/California-Work-Made-for-Hire.html) basically say that if you sign a work made for hire contract, the contractor isn't a contractor.  For the purposes of state law, they're an employee.
+Under California law, there's a catch.  [Special provisions of the labor and insurance codes](https://writing.kemitchell.com/2018/05/31/California-Work-Made-for-Hire) basically say that if you sign a work made for hire contract, the contractor isn't a contractor.  For the purposes of state law, they're an employee.
 
 Treating employees as contractors can be a crime.  People have gone to jail for it. California lock-up has been so stuffed, primarily with folks whose crimes don't involve putting the wrong words to paper, that [the Supreme Court ruled it unconstitutional](https://www.supremecourt.gov/opinions/10pdf/09-1233.pdf).  So that's rather a bigger concern than who-owns-what.
 

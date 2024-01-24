@@ -25,7 +25,7 @@ Be a legal vampire.  Suck every last drop of meaning from every last license sec
 
 1.  Read [The MIT License](https://spdx.org/licenses/MIT.html), a _very_ popular open source license.
 
-    Read [_The MIT License, Line by Line_](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html).
+    Read [_The MIT License, Line by Line_](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line).
 
 2.  Read [The ISC License](https://spdx.org/licenses/ISC.html), a fairly popular open source license.
 
@@ -83,7 +83,7 @@ Be a legal vampire.  Suck every last drop of meaning from every last license sec
 
 7.  Read [_Why you should use a BSD style license for your open source project_](https://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html).
 
-8.  Read [_Unhappy Coincidences_](https://writing.kemitchell.com/2018/08/28/Unhappy-Coincidences.html).
+8.  Read [_Unhappy Coincidences_](https://writing.kemitchell.com/2018/08/28/Unhappy-Coincidences).
 
 ### Series 3:  Weak Copyleft
 

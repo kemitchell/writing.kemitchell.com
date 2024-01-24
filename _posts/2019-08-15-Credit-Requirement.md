@@ -11,7 +11,7 @@ I've received several e-mails over the years from open source software developer
 
 I've pointed out before that [typical attribution requirements in open source licenses aren't really about credit](https://writing.kemitchell.com/2018/08/28/Unhappy-Coincidences.html#attribution-doesnt-mean-credit).  That illusion, which was pretty easy to maintain in the installed-software era, crumbled as software-as-a-service rose.
 
-Some time back, I also [sketched a license that required credit specifically for components used to build web services](https://writing.kemitchell.com/2018/07/12/Posterity.html).  I've worked with some other folks on a [bare bones, plain-text standard for SaaS credits](https://creditstxt.com), too.
+Some time back, I also [sketched a license that required credit specifically for components used to build web services](https://writing.kemitchell.com/2018/07/12/Posterity).  I've worked with some other folks on a [bare bones, plain-text standard for SaaS credits](https://creditstxt.com), too.
 
 All of those ideas come together in the new legal tool.  Its effect is to make giving credit a requirement of the license, whether the software gets used to make other software, a service, or other kinds of goods or services, like motion pictures, music, and so on.
 

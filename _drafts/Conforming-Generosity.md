@@ -4,7 +4,7 @@ layout: post
 series: Unsustainability at Scale
 ---
 
-_Part of a series, [Unsustainability at Scale](https://writing.kemitchell.com/2017/10/15/Unsustainability-at-Scale.html)_
+_Part of a series, [Unsustainability at Scale](https://writing.kemitchell.com/2017/10/15/Unsustainability-at-Scale))_
 
 Prevailing wisdom goes, anything but an old, crusty, highly permissive open source license, especially MIT, is _wrong_.  But other than "it works", few can say if or why MIT is _right_.
 

@@ -35,7 +35,7 @@ Some candidates:
 
 - GitHub's terms of service have a kind of ["default" license to GitHub and its users for all data pushed to repos](https://docs.github.com/en/github/site-policy/github-terms-of-service#4-license-grant-to-us).  That's normal.  And usually fairly in line with the practical expectations of people who don't read terms of service, which is most of them.
 
-- Their terms also have an [attempt](https://writing.kemitchell.com/2017/02/16/Against-Legislating-the-Nonobvious.html) at a [site-wide contributor license agreement](https://docs.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).  That's weird.  First because "inbound=outbound" is an idea about programmer expectations, not explicit legal terms.  Second because it's open licensing stuff appearing in terms of service, which is a bit oil and water.
+- Their terms also have an [attempt](https://writing.kemitchell.com/2017/02/16/Against-Legislating-the-Nonobvious) at a [site-wide contributor license agreement](https://docs.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).  That's weird.  First because "inbound=outbound" is an idea about programmer expectations, not explicit legal terms.  Second because it's open licensing stuff appearing in terms of service, which is a bit oil and water.
 
 - Their ["feedback"](https://docs.github.com/en/github/site-policy/github-terms-of-service#3-feedback) terms are typical website terms and contract terms.  But as is typical for such website and contract terms, it's not particularly clear they really do any practical work.  As far as I can tell---and I've spent some time looking---they're more legal meme than well reasoned protection.
 

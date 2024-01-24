@@ -59,7 +59,7 @@ The standardized permissive license _with credit_ would appeal to developers who
 
 There would be just three copyleft licenses: a _consistent_ copyleft license, a _selective_ copyleft license, and a _historical_ copyleft license.
 
-For more on why I say _consistent_ and _selective_ instead of _weak_ and _strong_ see [my post on the topic](https://writing.kemitchell.com/2019/03/11/Weak-Strong-Wrong.html).
+For more on why I say _consistent_ and _selective_ instead of _weak_ and _strong_ see [my post on the topic](https://writing.kemitchell.com/2019/03/11/Weak-Strong-Wrong).
 
 In the notes below, I will use the terms _trigger_, _reach_, _licensing_, and _distribution_ to describe the aspects of copyleft rules.  For more on that copyleft design vocabulary, see [my vocubulary of copyleft](https://writing.kemitchell.com/2018/10/24/How-to-Speak-Copyleft.html#design).  You can likely infer most of it from usage below.
 
@@ -71,7 +71,7 @@ The consistent copyleft license would say:
 
 The consistent copyleft license would apply copyleft to all use cases, and require sharing alike of as much code as possible, in as many situations as possible.
 
-Its trigger would be very light.  Copyleft would not hinge on distribution, or provision as a network service, but trigger on use or making changes alone.  It would reach [private changes](https://writing.kemitchell.com/2018/09/17/Private-Changes.html), with the exception of prototypes that never achieve viability.  From the [API Copyleft License 1.0.0](https://writing.kemitchell.com/2019/02/22/API-Copyleft-1.0.0.html):
+Its trigger would be very light.  Copyleft would not hinge on distribution, or provision as a network service, but trigger on use or making changes alone.  It would reach [private changes](https://writing.kemitchell.com/2018/09/17/Private-Changes), with the exception of prototypes that never achieve viability.  From the [API Copyleft License 1.0.0](https://writing.kemitchell.com/2019/02/22/API-Copyleft-1.0.0):
 
 > You need not contribute prototype changes, extensions, or applications that you do not end up using for more than fourteen calendar days, share with anyone else, or use to provide a service to anyone else.
 
@@ -101,7 +101,7 @@ Under the selective-copyleft license, the exception would be applications that o
 
 The selective-copyleft license's licensing and distribution rules would track those of the consistent-copyleft license, but licensing would also allow use of the same selective-copyleft terms.
 
-[The API Copyleft License](https://writing.kemitchell.com/2019/02/22/API-Copyleft-1.0.0.html) is close to my spec for the ideal selective-copyleft license.
+[The API Copyleft License](https://writing.kemitchell.com/2019/02/22/API-Copyleft-1.0.0) is close to my spec for the ideal selective-copyleft license.
 
 The selective-copyleft license would appeal to software freedom activists [concerned about proprietary and permissive competition](https://www.gnu.org/licenses/license-recommendations.en.html#libraries), foundations that want to encourage contribution back to a single shared project without empowering proprietary competition, like [Mozilla](https://mozilla.org), and companies with parallel needs on the commercial side, like [MongoDB](https://mongodb.com).
 
@@ -125,7 +125,7 @@ The marginal benefits of standardizing on this approach would be enormous.  The 
 
 This plan would repair the credit function of notice requirements, making that benefit reliably available to developers again.  Moreover, developers would be able to clearly express whether they do or don't want credit.  Many developers choosing MIT, BSD, and even Apache 2.0 terms today don't care about anything but liability, and don't enforce notice conditions, even informally.
 
-The new license slate would also reunify the [two historical camps of copyleft license users](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html#copyleft): competitive upstarts seeking protection through licensing, and activists promoting software freedom likewise.  As I've [mentioned before](https://writing.kemitchell.com/2019/03/11/Weak-Strong-Wrong.html), I think those camps are currently violently disagreeing where they could be productively collaborating.  Strong copyleft is dual-use legal technology, useful for both business and activist ends.  The constituencies of copyleft benefit by mutual reinforcement.  [In open licensing, all bedfellows are strange.](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html#permissive)
+The new license slate would also reunify the [two historical camps of copyleft license users](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html#copyleft): competitive upstarts seeking protection through licensing, and activists promoting software freedom likewise.  As I've [mentioned before](https://writing.kemitchell.com/2019/03/11/Weak-Strong-Wrong), I think those camps are currently violently disagreeing where they could be productively collaborating.  Strong copyleft is dual-use legal technology, useful for both business and activist ends.  The constituencies of copyleft benefit by mutual reinforcement.  [In open licensing, all bedfellows are strange.](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html#permissive)
 
 If the terms were written to be read, and read by hackers, like the [Blue Oak Model](https://blueoakcouncil.org/license/1.0.0), we'd see broad, systemic benefits, across the commons.  Self-administration and community deliberation of licensing issues would become far more practical, in far more situations.  The practice would need fewer lawyers, and could rely less on [compromise solutions to serve those who can't find or afford professional help](https://blueoakcouncil.org/).
 

@@ -9,7 +9,7 @@ tags:
 
 A group coalescing around [firstdonoharm.dev](https://firstdonoharm.dev) has published [version 2.0 of a "Hippocratic License"](https://firstdonoharm.dev/version/2/0/license.html).  I'm not directly involved.  But here's a quick fly-through pass.
 
-[Usual disclaimer applies.](https://writing.kemitchell.com/2019/11/30/Legal-Advice.html)  If you take my comments and run with them, you're on your own.  I won't be held professionally responsible for any ills that may befall you.  Need a lawyer?  Hire one.
+[Usual disclaimer applies.](https://writing.kemitchell.com/2019/11/30/Legal-Advice)  If you take my comments and run with them, you're on your own.  I won't be held professionally responsible for any ills that may befall you.  Need a lawyer?  Hire one.
 
 > Copyright (YEAR) (COPYRIGHT HOLDER)
 
@@ -23,11 +23,11 @@ Versioning is good.  I tend to like three-component, `x.y.z` numbers.  But that'
 
 Legal word salad.  Even "Licensor licenses..." would be redundant.  Throat clearing.
 
-I'd strongly recommend starting the license with a [statement of its general purpose and intent](https://writing.kemitchell.com/2019/01/10/Discipline-Stated-Purpose.html).  Then implement that purpose with more specific terms.
+I'd strongly recommend starting the license with a [statement of its general purpose and intent](https://writing.kemitchell.com/2019/01/10/Discipline-Stated-Purpose).  Then implement that purpose with more specific terms.
 
 > free of charge, to any person or entity (the "Licensee") obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-MIT-derived.  But [MIT is a crusty old license](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) with [lots of known issues](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html).  Several of which Hippocratic inherits here.
+MIT-derived.  But [MIT is a crusty old license](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line) with [lots of known issues](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line).  Several of which Hippocratic inherits here.
 
 > * The above copyright notice and this License or a subsequent version published on the Hippocratic License Website (https://firstdonoharm.dev/) shall be included in all copies or substantial portions of the Software.
 
@@ -55,7 +55,7 @@ Unclear whether this is purely advisory or trying to incorporate those documents
 
 To give a sense, UDHR 16(1) says "Men and women of full age ... have the right to marry and to found a family."  Does the license permit use in classifying marriage applicants, and denying marriage applications for same-sex marriages?  Article 24 reads "Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay."  How does that apply?
 
-I've [described an approach to formulating consensus around ethical codes of conduct](https://writing.kemitchell.com/2019/03/15/Ethical-Subcommons.html) here on the blog.  I'm dismayed to see so many writing ethically motivated licenses attempting to draft off problematic and highly generalist declarations, like UDHR, on the one hand, or using proxies for ethical behavior, like cooperative form of organization, on the other.
+I've [described an approach to formulating consensus around ethical codes of conduct](https://writing.kemitchell.com/2019/03/15/Ethical-Subcommons) here on the blog.  I'm dismayed to see so many writing ethically motivated licenses attempting to draft off problematic and highly generalist declarations, like UDHR, on the one hand, or using proxies for ethical behavior, like cooperative form of organization, on the other.
 
 If I had to distill it all down to a pithy phrase:  Don't incorporate your code of ethics by reference.  It's more important to put hands on that content, and deliberate it, than to rig up some legal machinery to connect existing high-minded documents to software licensing.
 

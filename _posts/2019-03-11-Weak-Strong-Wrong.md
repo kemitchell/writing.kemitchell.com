@@ -20,9 +20,9 @@ There's been [talk of an LAGPLv3](http://mo.morsi.org/blog/2009/08/13/lesser_aff
 
 To recap, SSPL is both weaker and stronger than AGPLv3.  It's weaker insofar as it makes an exception to copyleft for specific use cases, namely applications that use without changing or extending the licensed software, like LGPLv3 does.  But SSPL is stronger than AGPLv3 insofar as it also applies copyleft to code and situations that AGPLv3 does not.  If AGPLv3 were already strong enough to cover that code and those situations, SSPL would in fact be LAGPLv3, a patch exempting applications use cases.
 
-I've written before that [Mongo hired the best possible talent to write SSPL, then hobbled itself by choosing to patch AGPLv3 instead of writing from scratch](https://writing.kemitchell.com/2019/01/12/Shared-Component-License.html).  I'd also fault them for failing to write a more broadly applicable license, one that would apply to more kinds of software, attract broader support, and [avoid narrowsighted charges of naked commercial conspiracy](https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/thread/IQIOBOGWJ247JGKX2WD6N27TZNZZNM6C/).
+I've written before that [Mongo hired the best possible talent to write SSPL, then hobbled itself by choosing to patch AGPLv3 instead of writing from scratch](https://writing.kemitchell.com/2019/01/12/Shared-Component-License).  I'd also fault them for failing to write a more broadly applicable license, one that would apply to more kinds of software, attract broader support, and [avoid narrowsighted charges of naked commercial conspiracy](https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/thread/IQIOBOGWJ247JGKX2WD6N27TZNZZNM6C/).
 
-My stab at writing that more broadly applicable license, aided by the essential help of fantastic hacker-reviewers, yielded the [API Copyleft License](https://writing.kemitchell.com/2019/02/22/API-Copyleft-1.0.0.html).  Here are the two exceptions patching that license's otherwise stronger-than-strong, consistent copyleft rule:
+My stab at writing that more broadly applicable license, aided by the essential help of fantastic hacker-reviewers, yielded the [API Copyleft License](https://writing.kemitchell.com/2019/02/22/API-Copyleft-1.0.0).  Here are the two exceptions patching that license's otherwise stronger-than-strong, consistent copyleft rule:
 
 > ## Prototypes
 > You need not contribute prototype changes, extensions, or applications that you do not end up using for more than fourteen calendar days, share with anyone else, or use to provide a service to anyone else.
@@ -65,11 +65,11 @@ We could put use cases into three categories:
 
 3. code that wraps the licensed software, perhaps changing or adding to it by intermediating its public API, and makes that API available to other applications
 
-My first drafts of the the API Copyleft License, then called the [Shared Component License](https://writing.kemitchell.com/2019/01/12/Shared-Component-License.html), made just this kind of categorization.
+My first drafts of the the API Copyleft License, then called the [Shared Component License](https://writing.kemitchell.com/2019/01/12/Shared-Component-License), made just this kind of categorization.
 
 How does LGPL map onto those use-case categories?  LGPL exempts _both_ applications and wrappers from copyleft.  How does the API Copyleft License, an abstraction of SSPL, map onto those use-case categories?  The API Copyleft licenses exempts _only_ applications, not wrappers.
 
-Why?  You should really [follow](https://twitter.com/luis_in_brief) [Luis](https://lu.is/blog/) [everywhere](https://blog.tidelift.com/author/luis-villa).  I've [blogged](https://writing.kemitchell.com/2019/01/30/API-Copyleft.html) [this tweet](https://twitter.com/luis_in_brief/status/1088250694010695680) before, but didn't make enough of it:
+Why?  You should really [follow](https://twitter.com/luis_in_brief) [Luis](https://lu.is/blog/) [everywhere](https://blog.tidelift.com/author/luis-villa).  I've [blogged](https://writing.kemitchell.com/2019/01/30/API-Copyleft) [this tweet](https://twitter.com/luis_in_brief/status/1088250694010695680) before, but didn't make enough of it:
 
 > Scoping to the API for service consumers is a pretty good 2019 equivalent for the original MPL "scope for plug-ins" intention.
 
@@ -107,6 +107,6 @@ MongoDB is a networked database, and Netscape was a GUI application.  But we cou
 >
 > Interfaces exposed by this software include all the interfaces this software provides users or other software to invoke its functionality, such as command line, graphical, application programming, remote procedure call, and inter-process communication interfaces.
 
-Of course, selective copyleft isn't the only kind of copyleft a developer could want to apply to their work.  Consistent copyleft also makes sense, and [makes sense for both activists and businesses](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html#cohesion).  There will be differences, of course.  FSF-school activists want to exempt [private changes](https://writing.kemitchell.com/2018/09/17/Private-Changes.html).  Many businesses [don't](https://opensource.org/licenses/RPL-1.5).  But all those choices could be written as exceptions to a single, common, maximally strong and consistent copyleft license.
+Of course, selective copyleft isn't the only kind of copyleft a developer could want to apply to their work.  Consistent copyleft also makes sense, and [makes sense for both activists and businesses](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html#cohesion).  There will be differences, of course.  FSF-school activists want to exempt [private changes](https://writing.kemitchell.com/2018/09/17/Private-Changes).  Many businesses [don't](https://opensource.org/licenses/RPL-1.5).  But all those choices could be written as exceptions to a single, common, maximally strong and consistent copyleft license.
 
 We can express their goals, and map them to license rules, in terms of selectivity.  Trying to decide whether one combination of permissive exceptions is _weaker_ or _stronger_ than another only puts more fog between problem and solution.

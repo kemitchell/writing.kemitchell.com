@@ -44,6 +44,6 @@ The result, at least in theory, is that these companies lose their licenses unde
 
 As a whole, software developers do not read software licenses.  They see what other developers choose and use, what they get away with, and follow suit.  They pick up summaries and stereotypes about other terms as they go.
 
-I do a lot of writing [to help developers who do want to read up make sense of what they find](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html).  I do a lot of other work [contributing to licenses that are easier to read on their own](https://blueoakcouncil.org/license/1.0.0).
+I do a lot of writing [to help developers who do want to read up make sense of what they find](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line).  I do a lot of other work [contributing to licenses that are easier to read on their own](https://blueoakcouncil.org/license/1.0.0).
 
 But in the end, the result is better grist for the rumor mill.  More developers who can read and understand for themselves, and less misunderstanding, means licenses with reputations that more reliably track legal and practical reality.

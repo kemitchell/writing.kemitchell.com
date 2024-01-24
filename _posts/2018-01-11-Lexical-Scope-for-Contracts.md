@@ -8,7 +8,7 @@ tags:
 - Contract Architecture
 ---
 
-_Following on from [Contract Components](https://writing.kemitchell.com/2017/12/29/Contract-Components.html)_
+_Following on from [Contract Components](https://writing.kemitchell.com/2017/12/29/Contract-Components)_
 
 My definition of "Component" allowed me to change the results for any subdivision of a contract to facilitate reuse of generic contract parts without fear of structural conflict.  Why limit component rules to specific subdivisions?  Couldn't we apply a _general_ rule to all subdivisions of a document that give us the desired effects?
 

@@ -55,7 +55,7 @@ Trial courts deal with just as much detail as they need to get lawsuits resolved
 
 Why, why, why does all this need to be said?
 
-Despite [contrary](https://writing.kemitchell.com/2019/05/05/Rely-on-OSI.html) [evidence](https://writing.kemitchell.com/2019/04/23/OSD-wontfix.html), hackers still take OSI as it presents itself---as a technocratic, dispassionate source of authoritative legal guidance "for the community".  In their defense, that's how I took it, too, until I studied law and paid attention.
+Despite [contrary](https://writing.kemitchell.com/2019/05/05/Rely-on-OSI) [evidence](https://writing.kemitchell.com/2019/04/23/OSD-wontfix), hackers still take OSI as it presents itself---as a technocratic, dispassionate source of authoritative legal guidance "for the community".  In their defense, that's how I took it, too, until I studied law and paid attention.
 
 "Activists" drive OSI.  They hold the bullhorn.  Lawyers---my colleagues---don't post things like this.  They read court opinions carefully.
 

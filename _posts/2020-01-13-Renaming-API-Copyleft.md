@@ -11,7 +11,7 @@ Feedback on 2.0.0-pre versions of the [API Copyleft License](https://apicopyleft
 
 I'm inclined to agree.
 
-My original working title for the license was ["Shared Component License"](https://writing.kemitchell.com/2019/01/12/Shared-Component-License.html).  Discussing the early drafts, mostly with others very well versed in copyleft licensing, led to renaming as "API Copyleft".
+My original working title for the license was ["Shared Component License"](https://writing.kemitchell.com/2019/01/12/Shared-Component-License).  Discussing the early drafts, mostly with others very well versed in copyleft licensing, led to renaming as "API Copyleft".
 
 I think "API Copyleft" succinctly and accurately describes the license in relation to other licenses.  API Copyleft _is_ a copyleft license.  And rather than being traditionally ["weak"](https://blueoakcouncil.org/copyleft#weak-copyleft-family) like LGPL, ["strong"](https://blueoakcouncil.org/copyleft#strong-copyleft-family) like GPL, ["network"](https://blueoakcouncil.org/copyleft#network-copyleft-family) like AGPL, or "file-based" like the [Mozilla Public License](https://www.mozilla.org/en-US/MPL/2.0/), API Copyleft's implementation of copyleft [focuses on interfaces, including APIs](https://apicopyleft.com/versions/2.0.0-pre.3.html#applications).
 

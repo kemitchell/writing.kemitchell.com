@@ -7,7 +7,7 @@ tags:
 - Business Models
 ---
 
-[Dirk Riehle's blog](https://dirkriehle.com/) is a gold mine.  I've said it [before](https://writing.kemitchell.com/2020/02/27/Ethics-Mess.html).  I'm saying it again.  His latest is ["Please Help Keep Our Language Precise"](https://dirkriehle.com/2020/03/12/please-help-keep-our-language-precise-single-vendor-open-source-is-neo-proprietary-source-not-closed-source/), a plea against branding businesses leading their own open source projects "the new closed source".
+[Dirk Riehle's blog](https://dirkriehle.com/) is a gold mine.  I've said it [before](https://writing.kemitchell.com/2020/02/27/Ethics-Mess).  I'm saying it again.  His latest is ["Please Help Keep Our Language Precise"](https://dirkriehle.com/2020/03/12/please-help-keep-our-language-precise-single-vendor-open-source-is-neo-proprietary-source-not-closed-source/), a plea against branding businesses leading their own open source projects "the new closed source".
 
 Appearing against hyperbole in the name of precision, Dirk's post includes a nifty, four-quadrant chart that plots open or closed license and open or closed process as independent axes, yielding four distinct quadrants: "community open source", the "proper open source", "closed source", "user innovation", and "single-vendor open source".  Dirk has worked to popularize the last for a few years now.  He also submits "neo-proprietary" as a less-wrong jab at single-vendor projects, to hedge.
 

@@ -14,7 +14,7 @@ I've run into a number of commits to AWS GitHub repositories with this language 
 
 Contributors aren't writing this themselves.  Rather, AWS seems to have made including it in GitHub pull request templates standard operating procedure, starting at least a few years back.  [Here's a site-wide GitHub search with examples.](https://github.com/search?q=%22under+the+terms+of+your+choice%22+user%3Aaws+extension%3Amd&type=Code&l=&l=)
 
-If anyone has the inside line on how this approach came about, or public sources to link to about it, I'd greatly appreciate [a tip via e-mail](mailto:kyle@kemitchell.com?subject=AWS%20Contributor%20Licensing%20Blurb).  I'm endlessly fascinated with the push and pull of justified coder frustration, unjustified anti-CLA hysteria, and legal reality.  I like to think I'm a [responsible, proactive player in that game](https://writing.kemitchell.com/2021/12/16/Single-CLA-1.0.0.html).
+If anyone has the inside line on how this approach came about, or public sources to link to about it, I'd greatly appreciate [a tip via e-mail](mailto:kyle@kemitchell.com?subject=AWS%20Contributor%20Licensing%20Blurb).  I'm endlessly fascinated with the push and pull of justified coder frustration, unjustified anti-CLA hysteria, and legal reality.  I like to think I'm a [responsible, proactive player in that game](https://writing.kemitchell.com/2021/12/16/Single-CLA-1.0.0).
 
 As for the language and the approach itself, I haven't had time to really consider in detail.  But shooting from the hip:
 

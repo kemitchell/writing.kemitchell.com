@@ -172,7 +172,7 @@ Joe might leverage this new standard by way of a certified form, like the [Waypo
 
 This approach makes sense when potential clients are used to seeing complete packets of terms, when clients may not have heard of the industry group form, or when many clients will want to make changes.
 
-When most deals go through without changes, or when the standard form's well known, Joe's probably better off proposing even more streamlined [springboard agreements](https://writing.kemitchell.com/2020/05/13/Springboard-Agreement.html):
+When most deals go through without changes, or when the standard form's well known, Joe's probably better off proposing even more streamlined [springboard agreements](https://writing.kemitchell.com/2020/05/13/Springboard-Agreement):
 
 > # Elvis Impersonation Agreement
 >

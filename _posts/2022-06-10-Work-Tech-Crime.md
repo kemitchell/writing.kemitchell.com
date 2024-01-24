@@ -12,7 +12,7 @@ I have signed the open [Letter in Support of Responsible Fintech Policy](https:/
 
 As a freelance professional, independence is my privilege.  Independence writes this blog.  But many out there will have noticed that I haven't posted anything blockchain since July of 2017, almost five years ago.  It's the one big, obvious topic I've denied myself, and hardly for lack of what to say.
 
-Five years ago, Bitcoin had just broken a thousand dollars.  Ethereum was barely two years old.  The Securities and Exchange Commission's first investigation of a blockchain scheme, "The DAO", buzzed on the blogs, including [this one](https://writing.kemitchell.com/2017/07/25/DAO-Report-of-Investigation.html).  The "initial coin offering" wave was rising.
+Five years ago, Bitcoin had just broken a thousand dollars.  Ethereum was barely two years old.  The Securities and Exchange Commission's first investigation of a blockchain scheme, "The DAO", buzzed on the blogs, including [this one](https://writing.kemitchell.com/2017/07/25/DAO-Report-of-Investigation).  The "initial coin offering" wave was rising.
 
 I advised a stable of promising blockchain clients.  Mine were the adults in the room: older, wiser veterans with life, business, and legal experience, focused on hard technical, policy, and institutional problems.  They weren't basking in reflected glow from their pitch decks.  They weren't pretending derring-do or unfathomable tech-magic exempted them from all known public policy.  They were trying to make blockchains do real work.  They'd lived through the 2008 financial crisis as self-conscious, responsible adults.
 

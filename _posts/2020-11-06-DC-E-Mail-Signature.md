@@ -10,6 +10,6 @@ tags:
 
 This sounds in many themes.
 
-One is the universality of writing.  There's nothing magical about any particular way people write words.  [Why can't we just put the text of our drafts of terms in e-mails, too?](https://writing.kemitchell.com/2019/12/09/Paste-Terms-E-Mails.html)
+One is the universality of writing.  There's nothing magical about any particular way people write words.  [Why can't we just put the text of our drafts of terms in e-mails, too?](https://writing.kemitchell.com/2019/12/09/Paste-Terms-E-Mails)
 
-Another theme is the [hubris of "legal technology"](https://writing.kemitchell.com/2020/03/29/Against-Legal-Technology.html).  Why do we need apps and services specific to legal signature, like DocuSign?  What's insufficient about the general-purpose tools we have?  We didn't really need law-specific pens, [law-specific handwriting](https://en.wikipedia.org/wiki/Court_hand), or law-specific paper.  Do we really benefit from inhabiting a parallel technical universe of law-specific products, processes, and services?  Do clients benefit?
+Another theme is the [hubris of "legal technology"](https://writing.kemitchell.com/2020/03/29/Against-Legal-Technology).  Why do we need apps and services specific to legal signature, like DocuSign?  What's insufficient about the general-purpose tools we have?  We didn't really need law-specific pens, [law-specific handwriting](https://en.wikipedia.org/wiki/Court_hand), or law-specific paper.  Do we really benefit from inhabiting a parallel technical universe of law-specific products, processes, and services?  Do clients benefit?

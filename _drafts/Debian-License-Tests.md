@@ -7,7 +7,7 @@ tags:
 - Licensing
 ---
 
-The Debian project rightly holds its [Free Software Guidelines](https://www.debian.org/social_contract#guidelines) out as just that: guidelines, not [rigid rules or a quasi-technical standard](https://writing.kemitchell.com/2019/04/23/OSD-wontfix.html).  That messaging is transparent, honest, and good.  But when discussing licenses within that framework, Debian license wonks also turn to a couple hypotheticals that _do_ feel rigid and technical.  Unfortunately, those tests don't make any broader sense.
+The Debian project rightly holds its [Free Software Guidelines](https://www.debian.org/social_contract#guidelines) out as just that: guidelines, not [rigid rules or a quasi-technical standard](https://writing.kemitchell.com/2019/04/23/OSD-wontfix).  That messaging is transparent, honest, and good.  But when discussing licenses within that framework, Debian license wonks also turn to a couple hypotheticals that _do_ feel rigid and technical.  Unfortunately, those tests don't make any broader sense.
 
 In my own words:
 

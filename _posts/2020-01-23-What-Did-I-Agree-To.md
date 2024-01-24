@@ -10,7 +10,7 @@ tags:
 
 I just got around to watching a recording of Marc Jones' talk at FOSDEM 2019, ["What did I just agree to? A Quick Trip Through the Un-"Popular" Open Source Licenses"](https://www.youtube.com/watch?v=SZ9x-g7ft9g&list=WL).  Marc points out a number of oddities, flaws, and curiosities in Open Source Initiative approved licenses.  He also provides some interesting statistics on how many approved licenses evidence which types and features.
 
-I wrote up my own warning about the irregularity of OSI approved terms in ["Don't Rely on OSI Approval"](https://writing.kemitchell.com/2019/05/05/Rely-on-OSI.html).  Adding Marc's observations to my own, my advice remains the same:
+I wrote up my own warning about the irregularity of OSI approved terms in ["Don't Rely on OSI Approval"](https://writing.kemitchell.com/2019/05/05/Rely-on-OSI).  Adding Marc's observations to my own, my advice remains the same:
 
 > Unless your purpose is to track OSI political history or bolster OSI esteem, don't define "open source" by OSI approval in written rules, and don't incorporate OSI's list of approved licenses by reference for consistency or completeness.
 

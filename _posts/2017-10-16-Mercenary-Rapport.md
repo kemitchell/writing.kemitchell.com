@@ -8,7 +8,7 @@ tags:
 - Social Media
 ---
 
-_Part of a series, [Unsustainability at Scale](https://writing.kemitchell.com/2017/10/15/Unsustainability-at-Scale.html)_
+_Part of a series, [Unsustainability at Scale](https://writing.kemitchell.com/2017/10/15/Unsustainability-at-Scale)_
 
 It's Thursday afternoon.  Javier, Senior Engineer, opens a pull request on the company's open source framework of choice.  It will take six hours of maintainer time to amend and merge, over two weeknights and the weekend.  The pull request adds a feature of immediate use only to the company, which hires a consultancy to roll it out.  The consultancy bills eight hours.  Meanwhile, Javier spends 20% Friday on his own unreleased framework.
 

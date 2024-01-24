@@ -22,7 +22,7 @@ But the fundamental legal requirement that both sides have to take some action t
 
 Neither is clicking an "I agree" box as low as the legal bar can go.  Folks who don't study law are often surprised to find out that American courts can and do enforce agreements that were never written down at all.  So long as conversation or other communication between two sides makes sufficiently clear that they mean to agree, and what their agreement was about, that's a contract.  There are some exceptions, like sales of real estate and agreements to do crimes.  But they are only exceptions, not the rule.
 
-The trick with unwritten contracts isn't the law so much as proving things that weren't written down actually happened, later on, in court.  The trick with terms of service, as I [discussed earlier this month](https://writing.kemitchell.com/2020/11/10/Snow-v-Eventbrite.html), is keeping records good enough to show that someone suing you did in fact do something to show that they agreed to your terms.
+The trick with unwritten contracts isn't the law so much as proving things that weren't written down actually happened, later on, in court.  The trick with terms of service, as I [discussed earlier this month](https://writing.kemitchell.com/2020/11/10/Snow-v-Eventbrite), is keeping records good enough to show that someone suing you did in fact do something to show that they agreed to your terms.
 
 Zuboff mentions "take it or leave it", and that is exactly right.  To be legally enforceable, folks have to be able to leave it, too.  But they aren't entitled to take the service and leave the terms.  Webmasters aren't required to provide websites, and when they do, they're free to require agreement to terms, in exchange.
 

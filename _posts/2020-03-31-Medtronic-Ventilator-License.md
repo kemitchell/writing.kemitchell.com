@@ -30,7 +30,7 @@ All background, no legal terms.  But note the term definitions: COVID-19, WHO, P
 
 > As the U.S. Food and Drug Administration stated in its March 2020 ventilator guidance ("FDA Guidance"), it is necessary to maintain an adequate supply of mechanical ventilators "to support patients who develop respiratory compromise from COVID-19."  Consistent with the FDA Guidance, and in accordance with the public health and medical response of governmental agencies around the world, Medtronic is making available this package of materials to enable participants across industries to leverage their own expertise and resources to evaluate options for rapid ventilator manufacturing to help doctors and patients dealing with COVID-19.
 
-Long.  But I'm so glad to see a set of legal terms with a [clear statement of purpose at the top](https://writing.kemitchell.com/2019/01/10/Discipline-Stated-Purpose.html).
+Long.  But I'm so glad to see a set of legal terms with a [clear statement of purpose at the top](https://writing.kemitchell.com/2019/01/10/Discipline-Stated-Purpose).
 
 > ## Enclosed Materials
 >

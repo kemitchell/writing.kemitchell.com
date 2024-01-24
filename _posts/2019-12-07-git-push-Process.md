@@ -7,7 +7,7 @@ tags:
 - Policy
 ---
 
-Some time ago, I [floated a theory](https://writing.kemitchell.com/2019/05/18/Schools.html) of divergent instincts in open software.  Natives of big, singleton projects like Linux learn to value one breakaway success and thrive in the bureaucracy that grows on it.  Those who call small-module ecosystems like npm first home thrive on constant, permissionless experiment and revel in the noise and churn that come of it.
+Some time ago, I [floated a theory](https://writing.kemitchell.com/2019/05/18/Schools) of divergent instincts in open software.  Natives of big, singleton projects like Linux learn to value one breakaway success and thrive in the bureaucracy that grows on it.  Those who call small-module ecosystems like npm first home thrive on constant, permissionless experiment and revel in the noise and churn that come of it.
 
 I see the same same mentalities in open _license_ development.
 
@@ -21,7 +21,7 @@ One:  I put my work where the devs are.  Yeah, I've been on GitHub nearly ten ye
 
 Two:  I make as clear as possible that other folks can and should read the terms for themselves.  Actually, it's a big advantage _not_ to be a lawyer.  Developers will "run" the license---read it, apply it, explain it---a lot more than lawyers will.  And folks deserve to understand their own terms.  If they do, they'll spot edge cases I don't.
 
-Three:  I make folks as comfortable as I can putting hands on the language.  Pull requests, not issues.  Patches, not bugs.  Just another Markdown file.  I can spot issues in their drafting---which is what lawyers train to do---better than in my own.  So one lawyer has-and-belongs-to-many collaborators works fine.  Besides, developers are as literate in simple English as I am, and their brains aren't so warped by overeducation.  As long as [my role is clear](https://writing.kemitchell.com/2019/11/30/Legal-Advice.html), we're good.
+Three:  I make folks as comfortable as I can putting hands on the language.  Pull requests, not issues.  Patches, not bugs.  Just another Markdown file.  I can spot issues in their drafting---which is what lawyers train to do---better than in my own.  So one lawyer has-and-belongs-to-many collaborators works fine.  Besides, developers are as literate in simple English as I am, and their brains aren't so warped by overeducation.  As long as [my role is clear](https://writing.kemitchell.com/2019/11/30/Legal-Advice), we're good.
 
 Four:  I have no problem letting projects whither, die, and mulch in public.  I've lost count of how many licenses I've sketched over the past few years.  Some grew up, most didn't.  Or at least most haven't yet.  I've seen forgotten licenses suddenly gush feedback a year after I'd forgotten about them.  I've cast terms aside as trash, only to recycle 80% by weight in new terms, months later.  As for my precious reputation, let the world see work shown.  Especially the parts where I acknowledge and work through mistakes.
 

@@ -6,7 +6,7 @@ tags:
 - Blog
 ---
 
-Thanks to pointers and encouragement from Matt Campbell, who reached out for a great e-mail exchange about [Reduce, Reuse, Reconsider](https://writing.kemitchell.com/2020/02/09/Reduce-Reuse-Reconsider.html), I've been able to make a few small accessibility improvements to this blog:
+Thanks to pointers and encouragement from Matt Campbell, who reached out for a great e-mail exchange about [Reduce, Reuse, Reconsider](https://writing.kemitchell.com/2020/02/09/Reduce-Reuse-Reconsider), I've been able to make a few small accessibility improvements to this blog:
 
 - Links to blog posts on the homepage and tag pages now come in `<h2>`, or second-level heading tags.
 

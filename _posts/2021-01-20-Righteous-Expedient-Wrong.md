@@ -65,7 +65,7 @@ That is not what Elastic [said](https://www.elastic.co/blog/licensing-change).  
 
 > It [the change to SSPL --- KEM] also protects our continued investment in developing products that we distribute for free and in the open by restricting cloud service providers from offering Elasticsearch and Kibana as a service <mark>without contributing back</mark>.
 
-[SSPL was not Commons Clause.](https://writing.kemitchell.com/2019/06/13/SSPL-Not-Commons-Clause.html)  Commons Clause just said "you can't offer this database as a cloud service".  SSPL says "sure, go ahead and offer this database as a cloud service, but make your service open source".  OSI chopped a direct quote in such a way that invites folks to confuse this again.  Because it's a heck of a lot easier to say Commons Clause isn't open source than SSPL isn't.
+[SSPL was not Commons Clause.](https://writing.kemitchell.com/2019/06/13/SSPL-Not-Commons-Clause)  Commons Clause just said "you can't offer this database as a cloud service".  SSPL says "sure, go ahead and offer this database as a cloud service, but make your service open source".  OSI chopped a direct quote in such a way that invites folks to confuse this again.  Because it's a heck of a lot easier to say Commons Clause isn't open source than SSPL isn't.
 
 If a license that says you have to contribute back can't be an open source license, because it restricts use in the "field of endeavor" of making closed source software, no copyleft license can be an open source license.  All copyleft licenses do that, in at least some situations.  Even the so-called "weak" ones.
 
