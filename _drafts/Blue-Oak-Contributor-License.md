@@ -18,7 +18,7 @@ The form will work for many kinds of project stewards, both companies and founda
 
 ## Design Decisions
 
-This is an individual form only, with no variant for companies, rather than people, to sign.  But it addresses making sure workers have permission from work:
+This is an individual form only, with no version for companies, rather than people, to sign.  But it addresses making sure workers have permission from work:
 
 > The contributor is aware that because of legal rules and contracts, they may need to get someone else's permission to submit contributions, even of their own work.  For example, "work made for hire" rules can make employers and clients the owners of copyrights in the contributor's work.  Contracts with clients, or to form new companies, may make them the owners of copyrights in the contributor's work.
 
@@ -30,7 +30,7 @@ The patent license is broad, [in line with the Blue Oak Model License](https://b
 
 > The contributor licenses the steward to do everything with their contributions that would otherwise infringe any patent claims they can license or become able to license.
 
-The terms do _not_ require all contributed work be original.  Contributions can include open code from others:
+The terms do _not_ require all contributed work be original.  Contributions can include open code from others, so long as it's under permissive license terms:
 
 > All work in contributions the contributor submits for inclusion in the project will be either:
 >
@@ -38,11 +38,9 @@ The terms do _not_ require all contributed work be original.  Contributions can 
 >
 > - work licensed by others under permissive license terms that Blue Oak Council rates “bronze” or better at <https://blueoakcouncil.org/list>
 
-They just need to make sure they're preserving the info needed to tell who licensed what, and under what terms:
+Contributors just need to make sure they're preserving the info needed to tell who licensed what under which license:
 
 > The contributor promises to copy copyright notices, license terms, and other licensing-related notices for work licensed by others in their contributions, so the steward can tell what work is licensed by others under what terms and follow their notice requirements.
-
-Checking outside license terms for "compatibility" with the intended public license of the project falls on the steward.
 
 The Blue Oak contributor license does _not_ impose any ongoing obligation to warn of or correct intellectual property problems that crop up later.  Contrast section 8 of [Apache's individual contributor license agreement](https://www.apache.org/licenses/icla.pdf).
 
@@ -53,6 +51,7 @@ The contributor license does _not_ expect or describe any particular methods or 
 ## Examples Usages
 
 ### E-Mail
+
 > To: licensing@foofoundation.example.com
 >
 > From: jack@dev.example.com
@@ -64,6 +63,7 @@ The contributor license does _not_ expect or describe any particular methods or 
 > Jack McDev
 
 ### DocuSign Template
+
 > For Signature: jack@dev.example.com
 >
 > Copy To: licensing@foofoundation.example.com
