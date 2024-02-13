@@ -1,4 +1,5 @@
 ---
+date: 2024-02-13T13:05:51-08:00
 title: Blue Oak Contributor License
 description: it's just a license
 series: Blue Oak Council
