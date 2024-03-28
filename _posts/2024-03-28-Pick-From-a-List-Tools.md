@@ -1,4 +1,5 @@
 ---
+date: 2024-03-28T10:59:02-07:00
 title: Pick-From-a-List Tools
 description: my favorite heretical UNIX programs
 tags:
