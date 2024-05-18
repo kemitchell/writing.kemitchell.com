@@ -27,6 +27,6 @@ What we have now are open projects, like Linux, with enormous, high-value user b
 
 While the work output of researchers like Roccia turn into "open source contributions" in the end, the relationship of security researcher to project is often very different from than of maintainer, or even regular contributor.  The skill sets diverge.  Specialization continues.
 
-It's hard to know how to see all this, because it's not just in _what_ we see, but _how_ we see it.  Are the arguments and cliches of yesteryear---enough eyeballs, security by obscurity, rep for reporting vulns---really useful in the frame of today?  Lessons can be learned from the past.  But I'm not convinved Linux' own past is the book for today.
+It's hard to know how to see all this, because it's not just in _what_ we see, but _how_ we see it.  Are the arguments and cliches of yesteryear---enough eyeballs, security by obscurity, rep for reporting vulns---really useful in the frame of today?  Lessons can be learned from the past.  But I'm not convinced Linux' own past is the book for today.
 
 We might have more to learn from Windows.
