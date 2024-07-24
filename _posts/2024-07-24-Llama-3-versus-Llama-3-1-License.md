@@ -1,3 +1,12 @@
+---
+title: Llama 3 versus LLama 3.1 License Terms
+description: quick reline
+tags:
+- AI
+- Meta
+- Licenses
+---
+
 Quick redline of the new license agreement for Meta's LLama 3.1 against the prior agreement for 3:
 
 <blockquote>
