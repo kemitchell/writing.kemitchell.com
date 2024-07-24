@@ -1,6 +1,6 @@
 ---
 title: Llama 3 versus LLama 3.1 License Terms
-description: quick reline
+description: handy redline and takeaways
 tags:
 - AI
 - Meta
