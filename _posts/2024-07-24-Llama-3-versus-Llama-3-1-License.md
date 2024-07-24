@@ -17,6 +17,8 @@ Notable takeaways:
 
 - They're incorporating <a href="#takeaways-aup">a new 3.1-versioned acceptable use policy</a>.
 
+- They've dropped the subsection explicitly prohibiting use to improve other large language models.
+
 > <del>META</del> LLAMA <del>3</del><ins>3.1</ins> COMMUNITY LICENSE AGREEMENT
 >
 > <del>Meta </del>Llama <del>3</del><ins>3.1</ins> Version Release Date: <del>April 18</del><ins>July 23</ins>, 2024
@@ -49,7 +51,7 @@ Notable takeaways:
 >
 > <a id="takeaways-aup"></a>iv. Your use of the Llama Materials must comply with applicable laws and regulations (including trade compliance laws and regulations) and adhere to the Acceptable Use Policy for the Llama Materials (available at <del>https://llama.meta.com/llama3/use-policy</del><ins>https://llama.meta.com/llama3_1/use-policy</ins>), which is hereby incorporated by reference into this Agreement.
 >
-> <del>v. You will not use the Llama Materials or any output or results of the Llama Materials to improve any other large language model (excluding Meta Llama 3 or derivative works thereof).</del>
+> <a id="takeaways-improve-other"></a><del>v. You will not use the Llama Materials or any output or results of the Llama Materials to improve any other large language model (excluding Meta Llama 3 or derivative works thereof).</del>
 >
 > 2\. Additional Commercial Terms. If, on the <del>Meta </del>Llama <del>3</del><ins>3.1</ins> version release date, the monthly active users of the products or services made available by or for Licensee, or Licensee's affiliates, is greater than 700 million monthly active users in the preceding calendar month, you must request a license from Meta, which Meta may grant to you in its sole discretion, and you are not authorized to exercise any of the rights under this Agreement unless or until Meta otherwise expressly grants you such rights.
 >
