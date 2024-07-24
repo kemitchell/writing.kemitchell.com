@@ -17,7 +17,7 @@ Notable takeaways:
 
 - They're incorporating <a href="#takeaways-aup">a new 3.1-versioned acceptable use policy</a>.
 
-- They've dropped the subsection explicitly prohibiting use to improve other large language models.
+- They've <a href="#takeaways-improve-other">dropped</a> the subsection explicitly prohibiting use to improve other large language models.
 
 > <del>META</del> LLAMA <del>3</del><ins>3.1</ins> COMMUNITY LICENSE AGREEMENT
 >
