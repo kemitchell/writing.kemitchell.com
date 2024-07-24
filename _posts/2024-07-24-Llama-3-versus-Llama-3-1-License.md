@@ -9,7 +9,7 @@ tags:
 
 Quick redline of the [new license agreement for Meta's LLama 3.1](https://llama.meta.com/llama3_1/license/) against [the prior agreement for Llama 3](https://llama.meta.com/llama3/license/):
 
-Notable takeaways:
+## Takeaways
 
 - They've dropped the "Meta" in front of "Meta Llama" throughout.  Perhaps a move to dissociate slightly, so the branding bespeaks more a community rather than vendor-dominated project.
 
@@ -18,6 +18,8 @@ Notable takeaways:
 - They're incorporating <a href="#takeaways-aup">a new 3.1-versioned acceptable use policy</a>.
 
 - They've <a href="#takeaways-improve-other">dropped</a> the subsection explicitly prohibiting use to improve other large language models.
+
+## Text
 
 > <del>META</del> LLAMA <del>3</del><ins>3.1</ins> COMMUNITY LICENSE AGREEMENT
 >
