@@ -9,6 +9,14 @@ tags:
 
 Quick redline of the [new license agreement for Meta's LLama 3.1](https://llama.meta.com/llama3_1/license/) against [the prior agreement for Llama 3](https://llama.meta.com/llama3/license/):
 
+Notable takeaways:
+
+- They've dropped the "Meta" in front of "Meta Llama" throughout.  Perhaps a move to dissociate slightly, so the branding bespeaks more a community rather than vendor-dominated project.
+
+- They've tightened up <a href="#takeaway-trigger">the language about use that triggers requirements to badge or brand derivative projects</a>.
+
+- They're incorporating <a href="#takeaways-aup">a new 3.1-versioned acceptable use policy</a>.
+
 > <del>META</del> LLAMA <del>3</del><ins>3.1</ins> COMMUNITY LICENSE AGREEMENT
 >
 > <del>Meta </del>Llama <del>3</del><ins>3.1</ins> Version Release Date: <del>April 18</del><ins>July 23</ins>, 2024
@@ -33,13 +41,13 @@ Quick redline of the [new license agreement for Meta's LLama 3.1](https://llama.
 >
 > b. Redistribution and Use.
 >
-> i. If you distribute or make available the Llama Materials (or any derivative works thereof), or a product or service <ins>(including another AI model)</ins> that <del>uses</del><ins>contains</ins> any of them, <del>including another AI model,</del> you shall (A) provide a copy of this Agreement with any such Llama Materials; and (B) prominently display "Built with <del>Meta </del>Llama<del> 3</del>" on a related website, user interface, blogpost, about page, or product documentation. If you use the Llama Materials <ins>or any outputs or results of the Llama Materials</ins> to create, train, fine tune, or otherwise improve an AI model, which is distributed or made available, you shall also include "Llama<del> 3</del>" at the beginning of any such AI model name.
+> i. <a id="takeaways-trigger"></a>If you distribute or make available the Llama Materials (or any derivative works thereof), or a product or service <ins>(including another AI model)</ins> that <del>uses</del><ins>contains</ins> any of them, <del>including another AI model,</del> you shall (A) provide a copy of this Agreement with any such Llama Materials; and (B) prominently display "Built with <del>Meta </del>Llama<del> 3</del>" on a related website, user interface, blogpost, about page, or product documentation. If you use the Llama Materials <ins>or any outputs or results of the Llama Materials</ins> to create, train, fine tune, or otherwise improve an AI model, which is distributed or made available, you shall also include "Llama<del> 3</del>" at the beginning of any such AI model name.
 >
 > ii. If you receive Llama Materials, or any derivative works thereof, from a Licensee as part of an integrated end user product, then Section 2 of this Agreement will not apply to you.
 >
 > iii. You must retain in all copies of the Llama Materials that you distribute the following attribution notice within a "Notice" text file distributed as a part of such copies: "<del>Meta </del>Llama <del>3</del><ins>3.1</ins> is licensed under the <del>Meta </del>Llama <del>3</del><ins>3.1</ins> Community License, Copyright © Meta Platforms, Inc. All Rights Reserved."
 >
-> iv. Your use of the Llama Materials must comply with applicable laws and regulations (including trade compliance laws and regulations) and adhere to the Acceptable Use Policy for the Llama Materials (available at <del>https://llama.meta.com/llama3/use-policy</del><ins>https://llama.meta.com/llama3_1/use-policy</ins>), which is hereby incorporated by reference into this Agreement.
+> <a id="takeaways-aup"></a>iv. Your use of the Llama Materials must comply with applicable laws and regulations (including trade compliance laws and regulations) and adhere to the Acceptable Use Policy for the Llama Materials (available at <del>https://llama.meta.com/llama3/use-policy</del><ins>https://llama.meta.com/llama3_1/use-policy</ins>), which is hereby incorporated by reference into this Agreement.
 >
 > <del>v. You will not use the Llama Materials or any output or results of the Llama Materials to improve any other large language model (excluding Meta Llama 3 or derivative works thereof).</del>
 >
