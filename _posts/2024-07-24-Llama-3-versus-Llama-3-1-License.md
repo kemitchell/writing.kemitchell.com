@@ -7,7 +7,7 @@ tags:
 - Licenses
 ---
 
-Quick redline of the new license agreement for Meta's LLama 3.1 against the prior agreement for 3:
+Quick redline of the [new license agreement for Meta's LLama 3.1](https://llama.meta.com/llama3_1/license/) against [the prior agreement for Llama 3](https://llama.meta.com/llama3/license/):
 
 > <del>META</del> LLAMA <del>3</del><ins>3.1</ins> COMMUNITY LICENSE AGREEMENT
 >
