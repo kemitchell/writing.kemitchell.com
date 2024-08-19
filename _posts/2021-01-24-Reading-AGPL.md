@@ -93,7 +93,7 @@ The consequent is a kind of checklist:
   - "from a network server"
   - "at no charge"
   - "through some standard or customary means of facilitating copying of software"
-- The Corresponding Source you offer must include source for any GPLv3 work covered the GPL-AGPL bridge.
+- The Corresponding Source you offer must include source for any GPLv3 work covered by the GPL-AGPL bridge.
 
 Surprised yet?  Let's dig deeper.
 
