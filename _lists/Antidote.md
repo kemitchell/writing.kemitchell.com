@@ -23,7 +23,7 @@ Alphabetically, by first named author:
 - <!-- Levine --> Peter Levine, Andreessen Horowitz, ["Open Source: From Community to Commercialization"](https://www.youtube.com/watch?v=c9SJAPxU5bs)
 - <!-- Levine --> Peter Levine, ["Why There Will Never Be Another Red Hat: The Economics of Open Source"](https://a16z.com/2014/02/14/why-there-will-never-be-another-redhat-the-economics-of-open-source/)
 - <!-- Morozov --> Evgeny Morozov's ["The Meme Hustler"](https://thebaffler.com/salvos/the-meme-hustler)
-- <!-- Plaetnick --> Dieter Plaetnick's ["Open Source Undefined" blog series](https://dieter.plaetinck.be/posts/open-source-undefined-part-1-the-alternative-origin-story/)
+- <!-- Plaetinck --> Dieter Plaetinck's ["Open Source Undefined" blog series](https://dieter.plaetinck.be/posts/open-source-undefined-part-1-the-alternative-origin-story/)
 - <!-- Streeter --> Thomas Streeter's [_The Net Effect: Romanticism, Capitalism, and the Internet_](http://www.uvm.edu/~tstreete/Net_Effect/)
 - <!-- Terranova --> Tiziana Terranova's "Free Labor: Producing Culture for the Digital Economy", in Social Text Volume 18, Number 2, in the summer of 2000
 - <!-- Tiemann --> Michael Tiemann's view of the GNU Manifesto as "a business plan in disguise", as in [_Open Sources: Voices From the Open Source Revolution_](https://www.oreilly.com/openbook/opensources/book/tiemans.html) and [on his homepage](https://people.redhat.com/tiemann/)
