@@ -22,6 +22,10 @@ I keep two parallel journals: one for just unfamiliar words, the other for snipp
 
 You could use just one journal.  That's effectively what I did, on paper in pocket notebooks, when I was in Russia.
 
+Snippets with terms that I circled in printed reading get journaled.  Examples of usage of new words I look up in encyclopedias and dictionaries get journaled.
+
+In my experience, most of the benefit of journaling comes just from journaling.  Thinking about words you don't know and copying them does a lot of good.  But I believe I've also got some benefit reviewing my journals on a regular schedule.  That can be frustrating, since it means looking at a lot of examples of vocabulary I don't know well at once.  But I don't force myself to look up every single word again, every time.  In time, with more repetitions, I'll get the words.  It's perfectly fine to journal the same word or phrase multiple times, over time.
+
 ## Write Stress Marks
 
 It's incredibly tempting to skip past uncertainty about where the stress in words goes by not writing stress marks and pretending that you know.
@@ -41,3 +45,9 @@ You will eventually develop absolutely confidence in where the stress goes on ma
 Три кота
 
 ## Study Word Roots
+
+## 1956 Orthography
+
+The canonical grammar of written Russian is Современная русская орфография published by Академия наук in 1956.  There's a nice online version of it at <https://www.therules.ru/>.
+
+Reading this is very hard.  But it's almost always the last source you'll have to read to really pin down a writing question.
