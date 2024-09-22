@@ -34,17 +34,19 @@ You will eventually develop absolutely confidence in where the stress goes on ma
 
 ## Watch and Listen to Professional Speakers
 
-Редакция
+There are still some broadcasters left adhering to old standards of broadcast pronunciation.  My personal favorites have been Алексей Пивоваров of [Редакция](https://www.youtube.com/@redactsiya), as well his younger colleagues who spun off [Контекст](https://www.youtube.com/@kon_text) after the foreign-agent advertising ban.  Пивоваров's senior colleague Леонид Парфёнов also continues to make some programs under the name [Парфенон](https://www.youtube.com/parfenon).
 
-Контекст
-
-НМДНИ
+There are also the [Russian Service of the BBC](https://www.youtube.com/@bbcnewsrussian) and more recently [Deutsche Welle in Russian](https://www.youtube.com/watch?v=J5_GYOnUgL4).
 
 ## Embrace Modern Children's Media
 
-Три кота
+[Три кота](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8_%D0%BA%D0%BE%D1%82%D0%B0)
+
+[Шерлок Холмс и чёрные человечки](https://www.youtube.com/watch?v=I4-Ok2BD0wQ)
 
 ## Study Word Roots
+
+For beginners, there is Patrick's [_Roots of the Russian Language_](https://www.amazon.com/Roots-Russian-Language-Elementary-Wordbuilding/dp/0844242675).  Once you're on to using Russian-Russian dictionaries, I strongly recommend [Толковый словобразовательный словарь русского языка](https://ast.ru/book/tolkovyy-slovoobrazovatelnyy-slovar-russkogo-yazyka-044427/), edited by И.А. Ширшов, if you can find it.   Unfortunately, I'm not aware of any public digitized version.
 
 ## 1956 Orthography
 
