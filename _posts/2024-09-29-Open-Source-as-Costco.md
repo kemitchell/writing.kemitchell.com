@@ -53,4 +53,4 @@ At the same time, "reputation" is comfortably fuzzy, like its cousin "goodwill".
 
 It's well within a businessperson's discretion, and not unavoidably wrong, to choose to forgo "strong IP" and other heavier-handed advantages.  But we should all be clear when that's what's going on.  There are plenty of software offerings out there _without_ more "open" competitors.  Some of those are charging a lot more per user, in part because nobody else offers a substitute for less.  At least not yet.
 
-A cooler financial climate _has_ historically meant customers willing to deeper into offerings for the sake of cost-savings.  It has also meant customers revisiting products, services, prices, and vendors, sometimes switching to cheaper, less savory knock-offs, just rewards be damned.
+A cooler financial climate _has_ historically meant customers willing to look deeper into offerings for the sake of cost-savings.  It has also meant customers revisiting products, services, prices, and vendors, sometimes switching to cheaper, less savory knock-offs, just rewards be damned.
