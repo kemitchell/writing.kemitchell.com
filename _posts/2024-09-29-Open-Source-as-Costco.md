@@ -29,7 +29,7 @@ Arguably, Costco Corner would not inhabit the same market segment as Costco Clas
 
 But I suspect critiques of Costco as a charity benefiting shoppers---not just paying members, but any shoppers---would gain more bite.  Internally, I'd also expect more of the kinds of tensions and dramas we so often seen in open source companies: people working on the "business" side who'd rather work on the "open" side, fights about how much "closed" should spend on "open", debates about whether new products or services should be paid or free, and, of course, questions from current and potential stock owners about whether the "open" sideline is really serving the business.
 
-Costco is a members-only shopping club reselling physical goods made by others.  If it's fun to say open source companies are somehow like Costco, because Costco's doing well and people like it.  It's a lot harder to say Costco is much like open source companies.
+Costco is a members-only shopping club reselling physical goods made by others.  It's fun to say open source companies are somehow like Costco, because Costco's doing well and people like it.  It's a lot harder to say Costco is much like open source companies.
 
 ## Worthless IP
 
