@@ -1,4 +1,5 @@
 ---
+date: 2024-09-29T16:00:12-07:00
 title: Open Source as Costco
 description: parallels weak and strong
 tags:
