@@ -1,6 +1,6 @@
 ---
 date: 2024-09-29T16:00:12-07:00
-title: Open Source as Costco
+title: Open Source Company as Costco
 description: parallels weak and strong
 tags:
 - Open Source
@@ -11,7 +11,7 @@ Heather Meeker just shared [a recorded talk for the ZOOOM Conference](https://ww
 
 A few quick thoughts of my own:
 
-## Open Source Company as Costco
+## Parallels
 
 First, I think this is a really interesting work of parallel-drawing.  On the tactical level---marketing, hiring, reputation---I suspect comparisons can be really fruitful.  It's tempting to draw a broad distinction between go-hard-go-fast and steady-slow companies.  We see companies succeed on both ends of that spectrum in software, too.
 
