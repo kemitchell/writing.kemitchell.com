@@ -1,7 +1,7 @@
 ---
 date: 2024-08-03T21:50:38-07:00
 title: Negotiating Bastardry
-mnemonics: unexpected wisdom from a motorcycle channel
+description: unexpected wisdom from a motorcycle channel
 tags:
 - Negotiation
 - Motorcycles
