@@ -1,0 +1,64 @@
+---
+title: Open Source When We Say So
+description: still stronger claims of self-authority in OSI’s new AI “definition”
+tags:
+- Open Source Initiative
+- Artificial Intelligence
+- Open Source
+---
+
+The Open Source Initiative's recently announced "Open Source AI Definition" surprised me in a way I expect many readers could miss: they're defining "open" not just in terms of what bits we can get and what we're allowed to do with them, but also partly in terms of OSI's own institutional blessing.  It isn't just a _definition_ of what "open source AI" is or ought to be, but implicitly also a _process_ for bestowing that status or withholding it.  A process in which OSI assigns itself the sole indispensable, gate-keeping role.
+
+They're planting a flag, not just playing lexicographer.  I suspect that's what they mean to do.  I'm less sure they meant to actually say so.
+
+## The Words
+
+Here are the relevant snippets.  Spot the hook?
+
+> Sufficiently detailed information about the data used to train the system so that a skilled person can build a substantially equivalent system.  Data Information shall be made available under OSI-approved terms.
+
+> The complete source code used to train and run the system.  The Code shall represent the full specification of how the data was processed and filtered, and how the training was done.  Code shall be made available under OSI-approved licenses.
+
+> The model parameters, such as weights or other configuration settings.  Parameters shall be made available under OSI-approved terms.
+
+Not _open source_ terms, but _OSI-approved_ ones.
+
+Others working through OSI have long made clear, in word and deed, that OSI approval is _not_ the same as open-source-ness.  Even for many of its strongest institutional advocates, OSI approval _recognizes_ certain licenses as making source code "open", but doesn't itself make them so.  Open source existed out in the world.  OSI arose to brand, acknowledge, and promote it.
+
+By word, OSI's ["Open Source Definition"](https://opensource.org/osd), such as it is, never mentioned the Open Source Initiative itself at all.  All references to the institution it was originally written for, Debian, [got removed or abstracted](https://writing.kemitchell.com/2017/11/12/DFSG-versus-OSD).
+
+By deed, OSI has long refused to approve software licenses that it sees as meeting its definition, especially those it saw as redundant of more popular licenses already approved.  Writing more good but redundant licenses was branded "license proliferation", and OSI-aligned activists campaigned against it for years, sometimes making it a top priority.  If there are open-source licenses OSI _shouldn't_ approve, clearly OSI approval isn't the same as being open-source.
+
+In short, insisting on its own approval for "openness" is a step further than I've seen OSI take before.
+
+## Ramifications
+
+More directly relevant to what's happening in "AI" these days, the difference between recognizing and approving "open" affects order of operations.
+
+In the past, source code under open licenses that OSI hadn't approved wasn't somehow "proprietary" until OSI got around to blessing it.  It was "open source software", just not under an OSI-approved license.  Or not yet.
+
+Under the new OSI AI definition, a complete package of data, code, and parameters under a new license---perhaps one written specifically for artificial neural networks, to make clear that it covers software, weights, data, and so on---_doesn't_ meet OSI's definition, even if that license lets anyone do whatever they want.  The new license might be an open source license, but it is not yet an _OSI-approved_ one, and "OSI-approved" is what it takes to be "open source AI" under the new doc.
+
+## Why?
+
+I purposefully declined to burn any time or attention on OSI's AI definition drafting process.  As a result, I don't know where this "OSI-approved" language came from, or whether it was ever discussed in this light.  I won't be spelunking forum archives to find out.  But I imagine it's entirely possible no one involved ever thought about this, that "OSI-approved" simply rolled off the drafter's fingers---and passed under reviewers' eyes---with ease.
+
+If so, that strikes me as an unfortunate, but honest, Freudian slip.  OSI is trying to establish new authority---its second favorite word after "open".  It wants industry to self-submit to its discipline.  Given the amount of controversy in blogs and news pipes leading up to the 1.0, especially around the omission of training data, "consensus"---OSI's third favorite word---is already dead on the record.  Vain but understandable claims of "we had a committee" aside, that leaves the definition itself, standing on its own.
+
+At the same time, I'm not sure there's even a claim to real definitiveness here.  OSI's own blog refers to 1.0 as "the Industry's _First_ Open Source AI Definition".  Sometimes there's a prize for being first, but the very expectation that others will follow---perhaps with "definitions", "guidelines", "principles", or "frameworks" privileging their _own_ institutions---cuts against the idea of a single meaning out there just waiting for some kind group to put down.
+
+Moreover, writing your say-so into a definition is obviously not the strong path to presenting it as universal.  Dictionaries define words in terms of other words they also define, but nowhere do Merriam Webster, Collins, Cambridge, or Oxford define words in terms of their own editorial boards.  Something different's going on here.
+
+If there's a competition among potential mediating bodies to be the one who gets to [kick projects and companies off "Open Source AI Island"](https://en.wikipedia.org/wiki/Survivor_(franchise)#Tribal_Council)---and a serious, lingering question of whether a centralized referee over a vague marketing term is even desirable or necessary---that's great.  The more done to make that transparent to more people, the better.  And let the questions come about what the difference is, anyway, between an organization pronouncing a definition it made up and an organization pronouncing a process of calling it as it sees it.
+
+In the end, these aren't really definitions we're talking about.  They never were.  That's just a mode of presentation, a styling designed to appeal to a particular kind of mindset, widely shared among some software techies.  The first essential step for reading OSI's "Open Source AI Definition", or its original "Open Source Definition", for that matter, is understanding that they aren't really what they say they are.  Then you're free to ask what they really are.  What they were meant to achieve for those publishing them.
+
+## Present and Future
+
+The tyranny of context here is that, despite the extra time afforded by the working group's protracted process, OpenAI, Meta, and all those other startups whose names I can't keep straight dutifully failed to implode or recant their heretical uses of "open".  This despite the social slights, heavy side-eye, and "open-washing" finger-wagging levied upon them.  Turns out, there's not actually much leverage there when new tech and new money are at stake.  So buzzword-wise, we're back at a point like "open systems" mania, the primordial rhetorical soup that "open source" crawled out of.
+
+I am not the guy to ask for odds on when a new model OSI's then-board approves of as "open" could come close enough to commercial front-runners that its licensing terms, or OSI certification of its licensing terms, makes a competitive difference, leading significant users to substitute and eventually, maybe, contribute.  It could be one clever optimization away.  It could be OpenAI needs to burn another several billion dollars.  I am frankly too skeptical of the whole field, and particularly the branch of it grasping at ["general intelligence"](https://en.wikipedia.org/wiki/Artificial_general_intelligence), to say any more on it than that.  Much less when an OSI-approved "open source AI" _with open training data_ might cross the same line.
+
+As for the new definition, while clearly an immediate reaction to having companies grab the "open" ball and run away with it, it does seem like a longer-term play, if a viable play at all.  It could wait around on opensource.org for a good long while before becoming relevant in any practical sense, beyond those invested in OSI itself.  It could wait around on opensource.org and never be seriously spoken of again.
+
+In the meantime, I expect the alloy of vacuous buzzwords that is "open source AI" to remain as malleable, ill-defined, and extremely profitable to use as ever in press releases, product launches, and the everyday speech of people more focused on doing things than naming them right.  If "cloud-based open-source artificial intelligence" failed to crumble all confidence in English as a medium of communication, I expect we'll survive "open source AI", too.
