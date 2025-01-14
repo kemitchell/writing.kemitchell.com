@@ -41,4 +41,4 @@ description: books that I recommend to clients for self-study
 
 ### Open Source for Business
 
-<https://www.amazon.com/dp/1544737645/>
+<https://www.amazon.com/dp/B0DT12VC37>

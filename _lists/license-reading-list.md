@@ -193,7 +193,7 @@ _Note_:  As of early 2019, these are not broadly considered open source software
 
 ### In Print
 
-- Heather Meeker's [_Open (Source) for Business_](http://a.co/cUjJgV4)
+- Heather Meeker's [_Open (Source) for Business_](https://www.amazon.com/dp/B0DT12VC37)
 
 - Van Lindberg's [_Intellectual Property and Open Source_](https://www.amazon.com/dp/0596517963)
 
