@@ -1,4 +1,5 @@
 ---
+date: 2025-01-16T11:38:14-08:00
 title: Provisional Guidance for Users of LLM-Based Code Generators
 description: available intuition for avoiding big risks
 tags:
