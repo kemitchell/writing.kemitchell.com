@@ -32,7 +32,7 @@ Finally, and perhaps most important in software, there's the legal idea that cop
 
 If you're looking for a "simple legal rule" so that you can game it, nitpick its terms, or run right up to its line, you're looking for trouble.  Don't blame me when you find it.  But if you're a realistic player just looking for a sense of odds so you can place wiser bets, the amount of output you accept from an LLM into your codebase at once, and the extent to which it makes what look like implementation choices, rather than simply invoking APIs or established boilerplate, probably represents your best intuitive heuristic.  Your working sense of whether it looks like code completion, tempate-based code generation, or what coders used to have to unavoidably think through and type for themselves, before Copilot and the like came around, can serve as first-pass proxy for legal peril.
 
-If the LLM essentially just recommends what IntelliSense or another heavyweight IDE would have, back when completers were "taught" deterministically on ASTs and documentation, I think you're highly unlikely to face a legal claim about using it just because it came from LLM that learned the method name or argument order by "training" on prickly-licensed source code instead.  Note that this is different from the question of whether developers _of the models_ can run around the Web copying all the source they see into into training sets.  We're sticking to end use here.
+If the LLM essentially just recommends what IntelliSense or another heavyweight IDE would have, back when completers were "taught" deterministically on ASTs and documentation, I think you're highly unlikely to face a legal claim about using it just because it came from LLM that learned the method name or argument order by "training" on prickly-licensed source code instead.  Note that this is different from the question of whether developers _of the models_ can run around the Web copying all the source they see into training sets.  We're sticking to end use here.
 
 If the LLM presented more, on the order of a line with multiple calls, operators, and variables, that's likely fine, too.  Especially if it's a line like lines repeated necessarily by thousands of different coders across thousands of independent codebases.  Ditto the kind of one-liner usage you'd see in a [manual page](https://en.wikipedia.org/wiki/Man_page) or [cheat sheet](https://github.com/cheat/cheatsheets), as well as terse, widespread, if perhaps esoteric programming tricks, like bit-twiddles out of [_Hacker's Delight_](https://en.wikipedia.org/wiki/Hacker's_Delight).
 
@@ -46,7 +46,7 @@ If you were looking for if-then-else guidance on what, exactly, counts as too li
 
 Speaking very broadly, the newer a novel, commercially relevant phenomenon, the less specifically-worded, algorithm-like rules determine outcomes at law, and the more important the _purposes_ behind more generally worded rules become.  Lawyers call abstractly stated, syllogism-like rules "black letter law" and the more generalized purposes "policies".  When how to apply black letter law isn't clear, we cite and fight about policies in arguing how to read in context.
 
-The bad news here is that if [occupational distortion](https://en.wikipedia.org/wiki/D%C3%A9formation_professionnelle) makes you see everything as a logic machine, then calls you forth to "hack" it, you can end up raging bull in a minefield during times such as these.  With enough bad luck, your name could end up on one of the court decisions the rest of us are waiting to read.
+The bad news here is that if [occupational distortion](https://en.wikipedia.org/wiki/D%C3%A9formation_professionnelle) makes you see everything as a logic machine, then calls you forth to "hack" it, you can end up a raging bull in a minefield during times such as these.  With enough bad luck, your name could end up on one of the court decisions the rest of us are waiting to read.
 
 The good news is that if you're not yet that far gone, or have done some work to recover broader perspective, your intuition's probably as good as anyone else's, and likely much better _within your field_ than the average lawyer's.  That doesn't mean lawyers will "get you" or take all your views in the end.  It does mean they will have to argue in terms of facts and experiences you recognize.
 
@@ -107,7 +107,7 @@ Prompt: gimme <a href="https://en.wikipedia.org/wiki/GNOME_Terminal">VTE</a>'s v
   but change all the var names and
   make it match my style</pre>
 
-That's basically a selfie with a smoking gun.  If you plan to be plays ball like that, you need to be reading some other blog.  Preferably a litigator's.
+That's basically a selfie with a smoking gun.  If you plan to be play ball like that, you need to be reading some other blog.  Preferably a litigator's.
 
 For all the rest, good luck out there.
 
