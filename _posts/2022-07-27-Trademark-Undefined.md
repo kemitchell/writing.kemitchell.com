@@ -52,7 +52,7 @@ They key US legal terms here are "acquired distinctiveness", "secondary meaning"
 
 So when starting a business, calling your database `sharded-geo-data-store` probably ain't the greatest idea.  You're going to have a hard time establishing that as something you can "own".  But finding some open code under a descriptive name doesn't necessarily mean there isn't, won't, or can't be any trademark to worry or fight about, especially in an otherwise hostile competition situation.  It's all stars, +1s, and "community"...until someone forks.
 
-A permissive license that gets ahead of those issues, by making clear the name is forever a loose ball, could provide substantial value in certainty.  But open software is full of folks who've learned the rules on the court, not reading any rulebook.  Blue Oak Model License with a trademark disclaimer wouldn't be usable by firms quietly banking on strong trademark protection.  But surfacing that latent signal might better inform users and developers perusing competitive projects.
+A permissive license that gets ahead of those issues, by making clear the name is forever a loose ball, could provide substantial value in certainty.  But open software is full of folks who've learned the rules on the field, not reading the rulebook.  Blue Oak Model License with a trademark disclaimer wouldn't be usable by firms quietly banking on strong trademark protection.  But surfacing that latent signal might better inform users and developers perusing competitive projects.
 
 ## Notes
 
