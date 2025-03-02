@@ -48,7 +48,7 @@ The legal system for any given state is usually centralized and hierarchical.  B
 
 People used to procuring products and services professionally like to talk about "open source supply chains".  Some of this is "supply chain" being the nearest familiar concept available.  Too much of it is wishing aloud that open source had features it doesn't.
 
-There aren't any warranties, indemnities, or service obligations in open source as such.  Companies don't get to be "adopters" at the start, when customers would have to pay, then, comes a problem, magically transmute into customers, when adopters would have no one else but themselves to blame.
+There aren't any warranties, indemnities, or service obligations in open source as such.  Companies don't get to be "adopters" at the start, when customers would have to pay, then, comes a problem, magically transmute into customers, when adopters would have no one but themselves to blame.
 
 Open source is a distribution system.  Think containerized shipping: some standards, some conventions, a whole lot of compatible infrastructure, and a gaggle of vendors, all vaguely unified by a buzzword.  A pretty big deal.  But not a supply chain.  Edges of the graph only point one way.
 
@@ -66,7 +66,7 @@ Fortunately, many well known market problems also have well known, market-compat
 
 ## Consumers Get Screwed
 
-Library Co. does a deal with Framework Inc.  Framework Inc. turns around and makes its own, negotiated sale to Provider LLC.  But Provider sells to individuals, not companies.  The only terms Providers offers are heinous, leaving customers wholly on their own for any security mishaps.  The customers mostly don't read these terms, because they can't change them.
+Library Co. does a deal with Framework Inc.  Framework Inc. turns around and makes its own, negotiated sale to Provider LLC.  But Provider sells to individuals, not companies.  The only terms Provider offers are heinous, leaving customers wholly on their own for any security mishaps.  The customers mostly don't read these terms, because they can't change them.
 
 When individuals and consumer advocacy groups can't go to the Provider to drive better deals, they go to government instead.  They lobby for "consumer-protection laws" that force more balanced deal terms on providers.
 
@@ -106,7 +106,7 @@ Upstart, Inc.'s a startup, but they seem fairly responsible.  They offer broad i
 
 Big may ask Upstart to go beyond responsibility for security problems and commit to implement preventive security practices.  As a minimum test of corporate maturity, they might require compliance with the American Institute of Certified Public Accountants' System and Organization Controls.  Or they might take an ISO 27000-series standard instead.  Groups like [NIST](https://csrc.nist.gov/Projects/ssdf) and [CISA](https://www.cisa.gov/uscert/bsi/articles/knowledge/sdlc-process/secure-software-development-life-cycle-processes) publish frameworks specifically for secure software development.  Pickier customers could require key staff maintain [individual certs](https://www.isc2.org/Certifications/CSSLP).
 
-Some standards only require a company to credibly claim compliance.  Others involve outside accountability, with auditors ticking the boxes.  As with involving an insurance company, reputable outside audit makes collusion harder to manage.  The more groups involved, the more expense, but the harder to sustain a conspiracy.
+Some standards only require a company to credibly claim compliance.  Others involve outside accountability, with auditors ticking the boxes.  As with involving an insurance company, reputable outside audit makes collusion trickier.  The more groups involved, the more expense, but the harder to sustain a conspiracy.
 
 When the risk is particularly high, we can contract prevention as well as cure.
 
@@ -130,7 +130,7 @@ There have also been pushes, even in the United States, to apply more products-l
 
 ## Currency
 
-In the early days of open source, when a lot more leading work was still done on free hacker cycles and idle mainframe time, it made intuitive sense that contributors didn't want to be gifting wee insurance policies to whoever happened upon their code.  Enforcing such terms would have been pointless, in any event.  There were not yet covered in money.
+In the early days of open source, when a lot more leading work was still done on free hacker cycles and idle mainframe time, it made intuitive sense that contributors didn't want to be gifting wee insurance policies to whoever happened upon their code.  Enforcing such terms would have been pointless, in any event.  They were not yet covered in money.
 
 What early free and open coders could stake in early days was reputation.  They did this by publishing under known names.  As a result, they took their risk in the same "currency" they stood to gain in, which happened not to be money.  Annoying anti-tamper features of early licenses, like the [original "Artistic License" for Perl](https://opensource.org/license/artistic-1-0/), testify to concerns of these contributors.  They worried they'd be tarred with problems from ill-advised, "unofficial" patches.  So they required naming changes, lists of modifications, [credits, and no-endorsements clauses](https://spdx.org/licenses/BSD-4-Clause.html).
 
@@ -152,7 +152,7 @@ The idea that people would use software without paying for it wasn't crazy _to m
 
 Any time I spent thrashing on config files, twiddling ports, and patching source code was free education.  As long as "user beware" meant more code available for zero dollars, it was all good for me---modulo not learning how security works when it matters and you can't do it all yourself.  From where I was sitting, Mom's house, the people setting Microsoft and Oracle's sales quotas could all go to Hell.
 
-I wouldn't put anybody's sales team in charge of policy today, either.  But as fun as "given enough eyeballs, all bugs are shallow" was to [meme](https://en.wikipedia.org/wiki/Meme)-splain into comment boxes, it was more of a pep-rally cheer than a revealed truth.  The Internet grew up and built out.  The market in software begat a parallel market in vulnerability.  Ever more eyeballs gazed across critical code, but more and more came looking for zero days more than patch credits.
+I wouldn't put anybody's sales team in charge of policy today, either.  But as fun as "given enough eyeballs, all bugs are shallow" was to [meme](https://en.wikipedia.org/wiki/Meme)-splain into comment boxes, it was more pep-rally cheer than revealed truth.  The Internet grew up and built out.  The market in software begat a parallel market in vulnerabilities.  Ever more eyeballs gazed across critical code, but more and more came looking for zero days more than patch credits.
 
 Some of us play to make a name on GitHub, cashing in via VC or job offers.  Others guard anonymity like their lives, taking their pay in cryptodollars on the darknets.  The system we've built offers both games.  Trust breeds exploitation.  We tested how much trust we could get by with.  We've started finding the limits.
 
