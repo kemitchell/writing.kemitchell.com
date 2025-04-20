@@ -373,16 +373,16 @@ For one, this is all tangled deep in knotty legal process, largely as a result o
 
 I also struggle to think of an area of law that commands less respect, from all sides, than immigration.  Tax, perhaps.  But we're seeing politicization [there](https://thehill.com/homenews/administration/5252915-irs-asked-to-revoke-harvards-tax-exempt-status/), [too](https://www.politico.com/news/2025/04/17/harvards-a-disgrace-trump-eyes-targeting-more-tax-exempt-orgs-00298039).
 
-As for the people, can you think of a group commanding less public sympathy right now than hundreds of Central American immigrants, tarred as violent foreign gang members, forcefully made to look all the same, crammed into a four-story cage, and made to pose for shirtless photos?
+As for the people, can you think of a group commanding less public sympathy right now than hundreds of Central American immigrants, tarred as violent foreign gang members, forcefully made to look all the same, crammed into a four-story cage, and conscripted, shirtless, for looming human backdrops to photo ops?
 
 Clearly, the decision to round men up in mass, flood the media with conclusive assertions they are gang members, and deport them to a foreign prison with a practiced social media team was intentional.  Their sheer number defies individualization and empathy.  It likely still does, for the vast majority of the hundreds flown away.
 
 But one, Abrego García, fell out of the bundle.  Because his lawyer acted blindingly fast, suing in Maryland before they moved him to Texas.  Because his wife, a citizen and confident English speaker, took to the press.  Because the government had ordered itself specifically _not_ to send him back to El Salvador, did anyway, and had to admit it.
 
-A fearsome PR war is being waged to stuff Abrego García back into the group, to dissolve his story in the acid bath of demonized company: just another gang member, one of the horde.  But even accepting gang-or-no-gang as the point to be won diverts from the issue that matters far more.
+A fearsome PR war is being waged to stuff Abrego García back into the group, to dissolve his story in the acid bath of demonized company: just another gang member, one of the horde.  But even accepting gang-or-no-gang as the point to be won diverts from the issue that matters.
 
-There is no "law enforcement says they're bad" exception to due process of law.  Due process exists, and matters, precisely for when you're accused, to force the higher legal standards of argument, evidence, and proof between the will to accuse you and the power to impose consequences.  It's a bulwark between arbitrary will and the awful powers of state.
+There is no "law enforcement says they're bad" exception to due process of law.  Due process exists, and matters, precisely for when you're accused, to force higher standards of argument, evidence, and proof between the will to accuse you and the power to force consequences.  It's a bulwark between arbitrary will and the awful powers of state.
 
-If you've made it this far, you've read one far more qualified judge and one far more qualified playwright say that already, in their own words.  But our greater point, I think, is that you never needed to hear it from us in the first place.  This isn't a kernel of wisdom that grew out of law.  It's one that's been entrusted to it.  The need for these protections cries out from sad pages of history, just as it cries out, in smaller voice, from your own sore memories of times you were wrongly punished out of callousness, laziness, or haste.
+If you've made it this far, you've read one far more qualified judge and one far more qualified playwright say that already, in their own words.  But our greater point, I think, is that we hope and pray you never needed to hear it from us in the first place.  This isn't a kernel of wisdom that grew out of law.  It's one that's been entrusted to it.  The need for these high standards cries out not just from the sadder pages of history, but from your own sore memories of times you were wrongly judged or punished out of malice, callousness, laziness, or haste.
 
-Lawyers and courts are here to remind and administer, not to teach what people don't already know.  We hope.
+Law is just when it administers those better standards.  Law is loyal when it reminds of those commitments.
