@@ -7,9 +7,9 @@ links:
 - Immigration
 ---
 
-The [latest court opinion](https://www.courtlistener.com/docket/69777799/88/abrego-garcia-v-noem/) in the case of Kilmar Armando Abrego García, the El Salvador national who had an immigration order against deporting him back home, but got flown from the United States and put in the CECOT prison anyway, is one I'd encourage more people to read.  The judge clearly took time to put a lot of it in words people _not_ mind-warped by legal education could understand, quote, and share.  But the format and conventions of legal opinions alone can put people off.  Here's a line-by-line, giving my own thoughts along the way.
+The [latest court opinion](https://www.courtlistener.com/docket/69777799/88/abrego-garcia-v-noem/) in the case of Kilmar Armando Abrego García, the El Salvador national who had an immigration order against deporting him back home, but got flown from the United States and put in the CECOT prison anyway, is one I'd encourage more people to read.  The judge clearly took time to put a lot time in to write for people _not_ mind-warped by legal education.  But the format and conventions of court docs can put people off.  Here's a line-by-line, giving my own thoughts along the way.
 
-I not an immigration lawyer, or even a lawyer who handles court cases.  I advise and negotiate _outside_ court, and pride myself on keeping clients clear of those places.  It's still part of my job to follow and understand what goes on there, especially the written decisions of judges that result.  But it's not any part of my day-to-day to know all the twists and turns of court procedure, much the less the state of the [metagame](https://en.wikipedia.org/wiki/Metagame) in any particular area.  Still, I'm hardly the only lawyer peering over to follow this case closely.
+I not an immigration lawyer, or even a lawyer who handles court cases.  I advise and negotiate _outside_ court, and pride myself on keeping clients clear of those places.  It's still part of my job to follow and understand what the courts are doing, especially the written decisions of judges that come out of them.  But it's not any part of my day-to-day to know all the twists and turns of court procedure, much the less the state of the [metagame](https://en.wikipedia.org/wiki/Metagame) in any particular area.  Still, I'm hardly the only lawyer peering over to follow this case.
 
 If you're already up to date on the Supreme Court's rulings, you can jump [right to the line-by-line of the opinion](#opinion).
 
@@ -25,7 +25,7 @@ The hierarchical structure of US federal courts has three major levels: district
 
 The [Court of Appeals for the Fourth Circuit](https://www.ca4.uscourts.gov/) covers federal districts in the states of Maryland, North Carolina, South Carolina, Virginia, and West Virginia.  Abrego García lived and was arrested in the District of Maryland, and he sued in federal district court there.
 
-District courts are trial courts.  That's where people file papers for lawsuits, submit evidence, hold trials, and get decisions.
+District courts are trial courts.  That's where people submit papers for start lawsuits, submit evidence, hold trials, and get decisions.
 
 > No. 25-1404
 >
@@ -41,7 +41,7 @@ After the numbers come the names of the parties---the two sides of the lawsuit.
 
 one of the Salvadoran nationals deported to El Salvador
 
-Federal courts, their secretaries, and their case management systems still haven't figured out how to type [diacritics](https://en.wikipedia.org/wiki/Diacritic), but some are getting better at [Spanish-style surname conventions](https://en.wikipedia.org/wiki/Spanish_naming_customs).  So no "Garc<em>í</em>a", con acento agudo, but we'll see him called "Abrego Garcia" below.
+Federal courts, their secretaries, and their case management systems still haven't figured out how to type [diacritics](https://en.wikipedia.org/wiki/Diacritic), but some are getting better at [Spanish-style surname conventions](https://en.wikipedia.org/wiki/Spanish_naming_customs).  So no "Garc<em>í</em>a", con acento, but we'll see him called "Abrego Garcia" below.
 
 > Jennifer Stefania Vasquez Sura;
 
@@ -50,8 +50,6 @@ Abrego García's wife
 It's written Vásquez in Spanish.  On that, I'm done.
 
 > A.A.V., a minor, by and through his next friend and mother, Jennifer Vasquez Sura,
-
-their child
 
 It's typical for minor children and some other categories of vulnerable people to be named with pseudonyms or initials in court documents.
 
@@ -117,13 +115,13 @@ Next comes the bit identifying who is doing the ordering.  And the writing that 
 
 So Wilkinson authored the order, but King and Thacker agreed with it and cosigned it.  There may have been feedback or other collaboration between them, behind the scenes, but it comes out under Wilkinson's name.
 
-Three judges considering an appeal as a group are called a ["panel"](https://en.wikipedia.org/wiki/Judicial_panel).  Sometimes, one of the judges will agree with the decision they take as a group, but for different reasons, and file a separate opinion called a "concurrence" that gets tacked on after the main opinion.  Sometimes one of the judges will _disagree_ with other two, but get outvoted, and file a separate opinion called a "dissent" that also gets tacked on.  We don't have any concurrence or dissent on this decision.  All three judges on the panel signed on to Wilkinson's decision and his writing about it.
+Three judges considering an appeal as a group are called a ["panel"](https://en.wikipedia.org/wiki/Judicial_panel).  Sometimes, one of the judges will agree with the decision they take as a group, but for different reasons, and file a separate opinion called a "concurrence" that gets tacked on after the main opinion.  Sometimes one of the judges will disagree with other two and file a separate opinion called a "dissent" that also gets tacked on.  We don't have any concurrence or dissent on this decision.  All three judges on the panel signed on to Wilkinson's decision and his writing about it.
 
 ## Order
 
 > ¶ Upon review of the government's motion, the court denies the motion for an emergency stay pending appeal and for a writ of mandamus.
 
-Alas, our first course is a big jargon salad.  As we'll see, it's traditional to start and end an order like this with clear but cryptic sentence saying what the court is ordering, in the bureaucratic language of the lawsuit game.  We'll power through now, then things will get a lot easier.
+Alas, our first course is a jargon salad.  As we'll see, it's traditional to start and end an order like this with succinct but cryptic sentences saying what the court is ordering, in the bureaucratic language of the lawsuit game.  We'll power through now, then things will get a lot easier.
 
 A _motion_ is a document filed by one side or the other in a lawsuit, asking the court to do something.  There's a whole decision tree of what motions who can file when.  That's "legal procedure".
 
@@ -135,13 +133,13 @@ Three judges for the Fourth Circuit said no.  Why?
 
 ## Background: Supreme Court Decisions So Far
 
-The Supreme Court has given three decisions on the deportations to El Salvador now, one specifically in Abrego García's case before Xinis.  It's worth reviewing them all very briefly.  All district court and circuit court judges are bound to follow these decisions from the higher court, which can overrule them.
+The Supreme Court has given three decisions on the deportations to El Salvador now, one specifically in Abrego García's case before Xinis.  It's worth reviewing them all very briefly.  All district court and circuit court judges are bound to follow these decisions from the higher court, which can hear appeals of their decisions and overrule them.
 
 These decisions have also been subjects of some of the most depressingly lazy and slanted news coverage I've seen in a long time.  Partly this is down to the press just doing what it usually does on legal stories, now on some more particularly important ones.  Partly this is down to the Supreme Court playing subtly.  But only very partly.
 
 ### How to Sue to Fight Getting Deported
 
-The Supreme Court's first, [April 7 decision](https://www.supremecourt.gov/opinions/24pdf/24a931_2c83.pdf) came in a case before before [James Boasberg](https://en.wikipedia.org/wiki/James_Boasberg), 62, appointed by George W. Bush to the superior court in DC in 2002, then by Obama to the federal district court for DC in 2011, who made news for ordering the government to turn the planes back to the USA.  It runs only four pages, not counting the separate, individual opinions tacked onto the back of it.  My takeaways were:
+The Supreme Court's first, [April 7 decision](https://www.supremecourt.gov/opinions/24pdf/24a931_2c83.pdf) came in a case before before [James Boasberg](https://en.wikipedia.org/wiki/James_Boasberg), 62, appointed by George W. Bush to the superior court in DC in 2002, then by Obama to the federal district court for DC in 2011, who made news for ordering the government to turn the planes back to the USA.  The Supreme Court's order runs only four pages, not counting the separate, individual opinions tacked onto the back of it.  My takeaways were:
 
 1.  The deportees brought their case to the Supreme Court in the wrong legal way.  They should have used "habeas corpus", which we'll get to later.
 
@@ -149,21 +147,23 @@ The Supreme Court's first, [April 7 decision](https://www.supremecourt.gov/opini
 
 2.  Since they were held in Texas at the time these detainees sued, they should have sued in Texas, not in DC.
 
-    This vindicated the government's apparent ["forum shopping"](https://en.wikipedia.org/wiki/Forum_shopping) strategy of arresting people all over and immediately transferring them to Texas.  Federal districts in Texas are under the [Fifth Circuit](https://www.ca5.uscourts.gov/), where the government expects judges to rule more in its favor.
+    This vindicated the government's apparent ["forum shopping"](https://en.wikipedia.org/wiki/Forum_shopping) strategy of arresting people all over and immediately transferring them to Texas.  Federal districts in Texas are under the [Fifth Circuit](https://www.ca5.uscourts.gov/), where the government expects judges to rule in its favor more often.
 
 3.  People the government wants to deport under the Alien Enemies Act, the legal power Trump gave for deporting to El Salvador, have to be notified and given a chance to sue---in the right way, in the right court---to stop it.
 
-    In other words, due process still applies.
+    In other words, due process still applies, even though the Alien Enemies Act gives the president a lot of power to deport.
 
 ### How to Order the Government to Bring Somebody Back
 
 The Supreme Court's decision in Abrego García's case came just a few days later, on [April 10](https://www.supremecourt.gov/opinions/24pdf/24a949_lkhn.pdf).  The prompt was the government's request to throw out the order of the Maryland district court judge ordering the government to "facilitate and effectuate" his return.  My takeaways:
 
-1.  The Supreme Court acknowledged that the judge's deadline for returning Abrego García had already passed by the time they got around to deciding.   But they specifically left the rest of the order, minus the dead deadline, in place.
+1.  The Supreme Court acknowledged that the judge's deadline for returning Abrego García had already passed by the time they got around to deciding.   But they specifically left the rest of the order, minus the deadline, in place.
 
 2.  "The order properly requires the Government to 'facilitate' Abrego Garcia's release from custody in El Salvador and to ensure that his case is handled as it would have been had he not been improperly sent to El Salvador."
 
-3.  The word "effectuate" in the lower court's order, on the other hand, needed clarification, to avoid overstepping into the executive branch's role.  [Separation of powers.](https://en.wikipedia.org/wiki/Separation_of_powers)
+3.  The word "effectuate" in the lower court's order, on the other hand, needed clarification, to avoid overstepping into the executive branch's role.
+
+    This is what we call a ["separation of powers"](https://en.wikipedia.org/wiki/Separation_of_powers) issue.  The courts can order agencies and officers to follow the law, but it can't take over actions or decisions that the law leaves to other parts of the government.
 
 4.  "For its part, the Government should be prepared to share what it can concerning the steps it has taken and the prospect of further steps."
 
@@ -175,15 +175,15 @@ This is related to another hot legal issue since Donald Trump's inauguration: th
 
 ### Midnight Order to Pause More Deportations
 
-Finally, there was yet another Supreme Court decision over this weekend, in a new case.  This case was brought out of Texas on behalf of more detainees, this time in the legal way the Supreme Court earlier said was the right one.  Pushing midnight, the Supreme Court issued [a short order, without any written explanation](https://www.supremecourt.gov/orders/courtorders/041925zr_c18e.pdf), prohibiting the government from deporting any detainees falling into the "class", or open-ended group, that the suit was brought on behalf of.  [Clarence Thomas](https://en.wikipedia.org/wiki/Clarence_Thomas) and [Samuel Alito](https://en.wikipedia.org/wiki/Samuel_Alito) disagreed and later [published a dissent](https://www.supremecourt.gov/opinions/24pdf/24a1007_22p3.pdf).
+Finally, there was yet another Supreme Court decision over this weekend, in a new case.  This case was brought out of Texas on behalf of more detainees, this time in the legal way the Supreme Court earlier said was the right one, habeas corpus.  Pushing midnight, the Supreme Court issued [a short order, without any written explanation](https://www.supremecourt.gov/orders/courtorders/041925zr_c18e.pdf), prohibiting the government from deporting any detainees falling into the "class", or open-ended group, that the suit was brought on behalf of.  [Clarence Thomas](https://en.wikipedia.org/wiki/Clarence_Thomas) and [Samuel Alito](https://en.wikipedia.org/wiki/Samuel_Alito) disagreed and later [published a dissent](https://www.supremecourt.gov/opinions/24pdf/24a1007_22p3.pdf).
 
-Note that the Supreme Court made this order _after_ the Fourth Circuit wrote and published the order we are reading here.  I include it just to make this list complete, for now.
+Note that the Supreme Court made this order _after_ the Fourth Circuit wrote and published the order we are reading here together.  I include it just to make this list complete, for now.
 
-We've got the Supreme Court context, so back to the Fourth Circuit's order in the Agrego García case now.
+We've got the Supreme Court context.  Now we're ready to for the meat of the Fourth Circuit's order in the Abrego García case.
 
 ## Opinion
 
-The government asked to overturn the district court's order to "facilitate" and "effectuate" returning Abrego García, as well as its order to make the government share evidence for his lawsuit against the government.  As we saw in the first, jargon-leaden sentence of that order, the Fourth Circuit said no.  Now comes the reasoning.
+The government asked the appeals court to overturn the district court's order to "facilitate" and "effectuate" returning Abrego García, as well as its order to make the government share evidence for his lawsuit against the government.  As we saw in the first, jargon-leaden sentence of that order, the Fourth Circuit said no.  The government lost.  Now comes the reasoning.
 
 > The relief the government is requesting is both extraordinary and premature.
 
@@ -191,9 +191,9 @@ The government asked to overturn the district court's order to "facilitate" and 
 
 > While we fully respect the Executive's robust assertion of its Article II powers, we shall not micromanage the efforts of a fine district judge attempting to implement the Supreme Court's recent decision.
 
-[Article II of the US Constitution](https://constitution.congress.gov/constitution/article-2/) is the big part covering the powers of the Executive Branch, led by the President.  Congress and the judiciary have their own articles, too.
+[Article II of the US Constitution](https://constitution.congress.gov/constitution/article-2/) is the big part covering the powers of the executive branch, led by the president.  Congress and the judiciary have their own articles, too.
 
-The appeals court calling the district court judge below a "fine district judge" is a clear response to recent public criticism of judges by the President and his allies.  John Roberts, the Chief Justice of the Supreme Court, took the rare step of [responded more directly, and publicly,](https://www.politico.com/news/2025/03/18/john-roberts-donald-trump-impeach-federal-judges-00235742) after calls to impeach Boasberg for his order to turn planes around, in the first case the Supreme Court ruled on.
+The appeals court calling the district court judge below a "fine district judge" is a clear response to recent public criticism of judges by the president and his allies.  John Roberts, the chief justice of the Supreme Court, took the rare step of [responded more directly, and publicly,](https://www.politico.com/news/2025/03/18/john-roberts-donald-trump-impeach-federal-judges-00235742) after calls to impeach Boasberg for his order to turn planes around, in the first case the Supreme Court ruled on.
 
 > It is difficult in some cases to get to the very heart of the matter.  But in this case, it is not hard at all.  The government is asserting a right to stash away residents of this country in foreign prisons without the semblance of due process that is the foundation of our constitutional order.  Further, it claims in essence that because it has rid itself of custody that there is nothing that can be done.
 
@@ -215,13 +215,13 @@ Even if the government had already proven to a jury, beyond any reasonable doubt
 
 > If the government is confident of its position, it should be assured that position will prevail in proceedings to terminate the withholding of removal order.  See 8 C.F.R. § 208.24(f) (requiring that the government prove "by a preponderance of evidence" that the alien is no longer entitled to a withholding of removal).
 
-The judge made an effort to speak plainly above, but seems to lapse back a bit here.  In American English, I'd put it so: "If the government's so sure it can prove Abrego García's a terrorist and an MS-13 member, it should go to immigration court, prove it, and get the order it violated against deporting him back to El Salvador canceled".
+The judge made an effort to write plainly above, but seems to lapse back a bit here.  In American English, I'd put it so: "If the government's so sure it can prove Abrego García's a terrorist and an MS-13 member, it should go to immigration court, prove it, and get the order it violated against deporting him back to El Salvador canceled".
 
 "8 C.F.R. § 208.24(f)" is a legal citation, a weird shorthand layers use to refer to other documents.  This one refers to the [Code of Federal Regulations, Title 8, Section 208.24(f)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-208/subpart-A/section-208.24).  The Code of Federal Regulations is where the federal government compiles all the various regulations written by agencies.
 
-"Preponderance of the evidence" is a legal term for one of the ["standards of proof"](https://www.nolo.com/legal-encyclopedia/legal-standards-proof.html), somewhat vague but extremely important ideas about how strongly one side or the other of a lawsuit has to prove its case to get a judge or jury to rule in its favor.  "Preponderance of the evidence" is the lower standard used by the courts.  Criminal courts use the higher "beyond a reasonable doubt" standard, as required by the Due Process Clause of the Constitution.
+"Preponderance of the evidence" is a legal term for one of the ["standards of proof"](https://www.nolo.com/legal-encyclopedia/legal-standards-proof.html), vague but extremely important ideas about how strongly one side or the other of a lawsuit has to prove its case to get a judge or jury to rule in its favor.  "Preponderance of the evidence" is the lower standard used by the courts.  Criminal courts use the higher "beyond a reasonable doubt" standard, as required by the Due Process Clause of the Constitution.
 
-The implication here is that the government wouldn't even have had that hard a case to make to get the order against deporting Abrego García overturned.  It would have been on legal Easy Mode, not Hard Mode, like convicting him of a crime.
+The implication here is that the government wouldn't even have had that hard a case to make to get the order against deporting Abrego García overturned.  It would have been on legal Easy Mode, not Hard Mode, as if it were charging him with a crime.
 
 > Moreover, the government has conceded that Abrego Garcia was wrongly or "mistakenly" deported.  Why then should it not make what was wrong, right?
 
@@ -253,7 +253,7 @@ The "supra" in the citation just means "cited already above".
 
 > The plain and active meaning of the word cannot be diluted by its constriction, as the government would have it, to a narrow term of art.
 
-A very lawyerly sentence.  Playing interpreter again, I might put this as "We can't read the plain, broad, active word 'facilitate' in some weaker, specific legal way."
+A very lawyerly sentence.  Playing interpreter again, I might put this as "We can't read the plain, broad, active word 'facilitate' in some weaker, more specific legal way."
 
 Lawyers call words and phrases with special meanings in law "terms of art".  Sometimes these words have meaning in everyday English, too, but also different meanings in law.  For example, while "consideration" usually means thinking about something, in contracts law it refers to a basic rule that courts will only enforce private deals where both sides gave and took.
 
@@ -271,7 +271,7 @@ Citing it here, on immigration, could be read as a bit of zinger.  Also more dem
 
 "Mot." stands for motion.  The citation is to the document the government filed asking to overturn the district court's order.
 
-Note the emphasis on the Supreme Court again.  The Supremes got to be very subtle in their writing.  They didn't have to spell out direct commands to the government afresh and sign them, just leave what the trial court wrote "in effect", with notes.  But it's no stretch to say the Supreme Court gave the government a command by doing so.  That was the _effect_ of their words, if not their direct content.
+Note the emphasis on the Supreme Court again.  The Supremes got to be very subtle in their writing.  They didn't have to spell out direct do-this-do-that commands to the government afresh and sign them, just leave what the trial court wrote "in effect", with some notes.  But it's no stretch to say the Supreme Court gave the government a command.  That was the _effect_ of their words.
 
 > ¶ "Facilitation" does not permit the admittedly erroneous deportation of an individual to the one country's prisons that the withholding order forbids and, further, to do so in disregard of a court order that the government not so subtly spurns.
 
@@ -291,7 +291,7 @@ Clearly tired of games about "facilitate".
 
 The first of a few huge, unironic statements of broad principle.  Most lawyers, even many judges, serve entire careers seemingly a long way off any case where this could be written without seeming over-dramatic.
 
-I try to imagine writing it as a federal judge of 80 years.
+I try to imagine writing in this case, as a federal judge over 80 years old.
 
 > ¶ The government is obviously frustrated and displeased with the rulings of the court.  Let one thing be clear.  Court rulings are not above criticism.  Criticism keeps us on our toes and helps us do a better job.  _See_ _Cooper v. Aaron_, 358 U.S. 1, 24 (1958) (Frankfurter, J., concurring) ("Criticism need not be stilled.  Active obstruction or defiance is barred.").
 
@@ -367,22 +367,28 @@ The traditional procedural sign-off, mirroring the summary at the top.
 
 You've read this post for the court's words, not mine.  But the point is where we go from here, what we think about it.
 
-I can follow all the docs and read them carefully.  I can't pretend to guess all the whys, all the motives, on any side.  Still, it strikes me that the government presented this issue in a very particular way.  It looks like a production of [impact litigation](https://en.wikipedia.org/wiki/Strategic_litigation)---the planning of legal cases and arguments for the purpose of changing public policy, not just winning particular fights.  Whether by accident or design, it's the dramatic evil twin of the ["perfect plaintiff"](https://www.yalelawjournal.org/forum/perfect-plaintiffs) civil rights suit, where activists purposed to find and sue for the most sympathetic victim possible, using their story to make the case for rights for all.
+I can follow all the docs and read them carefully.  I can't pretend to guess all the whys, all the motives, on any side.
 
-For one, this is all tangled deep in knotty legal process, largely as a result of how fast the government moved and how fast the courts had to move to keep up.  That makes the substance hard to see, tempting even judges trying very hard to speak plainly and directly back into native gobbledygook.  And it might yet get worse if the administration keeps defying orders and ends up held [in contempt](https://en.wikipedia.org/wiki/Contempt_of_court).  If you think "facilitate" versus "effectuate" gets technical, wait 'til see you what the headline mongers do with "can the President pardon civil contempt?" or "does the Appropriations Clause let courts fine agencies big money?"
+Still, it strikes me that the government presented this issue in a very particular way.  It looks like a production of [impact litigation](https://en.wikipedia.org/wiki/Strategic_litigation)---the planning of legal cases and arguments for the purpose of changing public policy, not just winning particular fights.  Whether by accident or design, it's the dramatic evil twin of the ["perfect plaintiff"](https://www.yalelawjournal.org/forum/perfect-plaintiffs) civil rights suit, where activists purposed to find and sue for the most sympathetic victim possible, using their story to make the case for rights for all.
 
-I also struggle to think of an area of law that commands less respect, from all sides, than immigration.  Tax, perhaps.  But we're seeing politicization [there](https://thehill.com/homenews/administration/5252915-irs-asked-to-revoke-harvards-tax-exempt-status/), [too](https://www.politico.com/news/2025/04/17/harvards-a-disgrace-trump-eyes-targeting-more-tax-exempt-orgs-00298039).
+For one, this is all tangled deep in knotty legal process, largely as a result of how fast the government moved and how fast the courts had to move to keep up with it.  The latest Supreme Court order came out at midnight with no attached explanation.  That makes the substance hard to see, tempting even judges trying very hard to speak plainly and directly back into native gobbledygook.  And it might yet get worse if the administration keeps defying orders and ends up [in contempt](https://en.wikipedia.org/wiki/Contempt_of_court).  If you think "facilitate" versus "effectuate" gets technical, wait 'til see you what the headline mongers do with "can the president pardon civil contempt?" or "does the Appropriations Clause let courts fine agencies big money?"
 
-As for the people, can you think of a group commanding less public sympathy right now than hundreds of Central American immigrants, tarred as violent foreign gang members, forcefully made to look all the same, crammed into a four-story cage, and conscripted, shirtless, for looming human backdrops to photo ops?
+I also struggle to think of an area of law that commands less respect, from all sides, than immigration.  Tax, perhaps.  We're seeing politicization [there](https://thehill.com/homenews/administration/5252915-irs-asked-to-revoke-harvards-tax-exempt-status/), [too](https://www.politico.com/news/2025/04/17/harvards-a-disgrace-trump-eyes-targeting-more-tax-exempt-orgs-00298039).
 
-Clearly, the decision to round men up in mass, flood the media with conclusive assertions they are gang members, and deport them to a foreign prison with a practiced social media team was intentional.  Their sheer number defies individualization and empathy.  It likely still does, for the vast majority of the hundreds flown away.
+As for the people, can you think of a group commanding less public sympathy right now than hundreds of Central American immigrants, tarred as violent foreign gang members, forcefully made to look all the same, crammed into a four-story cage, and stood up, shirtless, as backdrops for photo ops?
 
-But one, Abrego García, fell out of the bundle.  Because his lawyer acted blindingly fast, suing in Maryland before they moved him to Texas.  Because his wife, a citizen and confident English speaker, took to the press.  Because the government had ordered itself specifically _not_ to send him back to El Salvador, did anyway, and had to admit it.
+Clearly, the decision to round men up in mass, flood the media with conclusive assertions they are gang members, and deport them to a foreign prison with a practiced media team was intentional.  Their sheer number defies individualization and empathy.  It likely still does, for the vast majority of the hundreds flown away.
 
-A fearsome PR war is being waged to stuff Abrego García back into the group, to dissolve his story in the acid bath of demonized company: just another gang member, one of the horde.  But even accepting gang-or-no-gang as the point to be won diverts from the issue that matters.
+But one, Abrego García, fell out of the bundle.  Because his lawyer acted blindingly fast, suing in Maryland before they moved him to Texas.  Because his wife, a citizen and confident English speaker, took to the press.  Because the government had ordered itself specifically _not_ to send him back, did anyway, and had to admit it.
 
-There is no "law enforcement says they're bad" exception to due process of law.  Due process exists, and matters, precisely for when you're accused, to force higher standards of argument, evidence, and proof between the will to accuse you and the power to force consequences.  It's a bulwark between arbitrary will and the awful powers of state.
+A fearsome PR war is being waged to stuff Abrego García back into the group, to dissolve his story in the acid bath of demonized company: just another gang member, one of the horde.  But even accepting gang-or-no-gang as the point to be won or lost diverts from the issue that matters.
 
-If you've made it this far, you've read one far more qualified judge and one far more qualified playwright say that already, in their own words.  But our greater point, I think, is that we hope and pray you never needed to hear it from us in the first place.  This isn't a kernel of wisdom that grew out of law.  It's one that's been entrusted to it.  The need for these high standards cries out not just from the sadder pages of history, but from your own sore memories of times you were wrongly judged or punished out of malice, callousness, laziness, or haste.
+There is no "law enforcement says they're bad" exception to due process of law.  Due process exists, and matters, precisely for when you're accused, to force higher standards of argument, evidence, and proof between the will to point a finger and the power to impose consequences.  It's a bulwark between arbitrary will and the awful powers of the state.
 
-Law is just when it administers those better standards.  Law is loyal when it reminds of those commitments.
+If you've made it this far, you've read one far more qualified judge and one far more qualified playwright say that already, in their own words.  But our greater point, I think, is that we hope and pray you never needed to hear it from us in the first place.
+
+The need for these high standards cries out not just from the sadder pages of history, but from your own sore memories of times you were wrongly judged or punished out of malice, callousness, laziness, or haste.  This isn't a kernel of wisdom that grew out of law.  It's one that's been entrusted to it.
+
+Law is just when it administers those better standards.  Law is loyal when it reminds us of our own better wisdom.
+
+These cases are far, far from over.
