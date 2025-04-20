@@ -6,6 +6,7 @@ series: Line by Line
 links:
 - Law
 - Immigration
+- Politics
 ---
 
 The [latest court opinion](https://www.courtlistener.com/docket/69777799/88/abrego-garcia-v-noem/) in the case of Kilmar Armando Abrego García, the El Salvador national who had an immigration order against deporting him back home, but got flown from the United States and put in the CECOT prison anyway, is one I'd encourage more people to read.  The judge clearly took time to put a lot time in to write for people _not_ mind-warped by legal education.  But the format and conventions of court docs can put people off.  Here's a line-by-line, giving my own thoughts along the way.
