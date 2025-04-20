@@ -1,4 +1,5 @@
 ---
+date: 2025-04-20T14:16:59-07:00
 title: The Fourth Circuit's Opinion in the Abrego García Case
 description: a line-by-line reading
 series: Line by Line
