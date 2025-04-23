@@ -11,7 +11,7 @@ links:
 
 The [latest court opinion](https://www.courtlistener.com/docket/69777799/88/abrego-garcia-v-noem/) in the case of Kilmar Armando Abrego García, the El Salvador national who had an immigration order against deporting him back home, but got flown from the United States and put in the CECOT prison anyway, is one I'd encourage more people to read.  The judge clearly took time to write for people _not_ mind-warped by legal education.  But the format and conventions of court docs alone can put people off.  Here's a line-by-line, giving my own thoughts along the way.
 
-I not an immigration lawyer, or even a lawyer who handles court cases.  I advise and negotiate _outside_ court, and pride myself on keeping clients clear of those places.  It's still part of my job to follow and understand what the courts are doing, especially the written decisions of judges that come out of them.  But it's not any part of my day-to-day to know all the twists and turns of court procedure, much the less the state of the [metagame](https://en.wikipedia.org/wiki/Metagame) in any particular area.  Still, I'm hardly the only lawyer peering over to follow this case.
+I am not an immigration lawyer, or even a lawyer who handles court cases.  I advise and negotiate _outside_ court, and pride myself on keeping clients clear of those places.  It's still part of my job to follow and understand what the courts are doing, especially the written decisions of judges that come out of them.  But it's not any part of my day-to-day to know all the twists and turns of court procedure, much the less the state of the [metagame](https://en.wikipedia.org/wiki/Metagame) in any particular area.  Still, I'm hardly the only lawyer peering over to follow this case.
 
 If you're already up to date on the Supreme Court's rulings, you can jump [right to the line-by-line of the opinion](#opinion).
 
@@ -157,7 +157,7 @@ The Supreme Court's first, [April 7 decision](https://www.supremecourt.gov/opini
 
 ### How to Order the Government to Bring Somebody Back
 
-The Supreme Court's decision in Abrego García's case came just a few days later, on [April 10](https://www.supremecourt.gov/opinions/24pdf/24a949_lkhn.pdf).  The prompt was the government's request to throw out the order of the Maryland district court judge ordering the government to "facilitate and effectuate" his return.  My takeaways:
+The Supreme Court's decision in Abrego García's case came just a few days later, on [April 10](https://www.supremecourt.gov/opinions/24pdf/24a949_lkhn.pdf).  The prompt was the government's request to throw out the order of the Maryland district court judge commanding the government to "facilitate and effectuate" his return.  My takeaways:
 
 1.  The Supreme Court acknowledged that the judge's deadline for returning Abrego García had already passed by the time they got around to deciding.   But they specifically left the rest of the order, minus the deadline, in place.
 
