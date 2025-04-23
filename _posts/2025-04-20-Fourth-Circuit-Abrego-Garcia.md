@@ -27,7 +27,7 @@ The hierarchical structure of US federal courts has three major levels: district
 
 The [Court of Appeals for the Fourth Circuit](https://www.ca4.uscourts.gov/) covers federal districts in the states of Maryland, North Carolina, South Carolina, Virginia, and West Virginia.  Abrego García lived and was arrested in the District of Maryland, and he sued in federal district court there.
 
-District courts are trial courts.  That's where people submit papers for start lawsuits, submit evidence, hold trials, and get decisions.
+District courts are trial courts.  That's where people submit papers to start lawsuits, submit evidence, hold trials, and get decisions.
 
 > No. 25-1404
 >
