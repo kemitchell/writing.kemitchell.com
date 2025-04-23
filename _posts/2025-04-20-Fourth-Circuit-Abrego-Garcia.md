@@ -9,7 +9,7 @@ links:
 - Politics
 ---
 
-The [latest court opinion](https://www.courtlistener.com/docket/69777799/88/abrego-garcia-v-noem/) in the case of Kilmar Armando Abrego García, the El Salvador national who had an immigration order against deporting him back home, but got flown from the United States and put in the CECOT prison anyway, is one I'd encourage more people to read.  The judge clearly took time to put a lot time in to write for people _not_ mind-warped by legal education.  But the format and conventions of court docs can put people off.  Here's a line-by-line, giving my own thoughts along the way.
+The [latest court opinion](https://www.courtlistener.com/docket/69777799/88/abrego-garcia-v-noem/) in the case of Kilmar Armando Abrego García, the El Salvador national who had an immigration order against deporting him back home, but got flown from the United States and put in the CECOT prison anyway, is one I'd encourage more people to read.  The judge clearly took time to write for people _not_ mind-warped by legal education.  But the format and conventions of court docs can put people off.  Here's a line-by-line, giving my own thoughts along the way.
 
 I not an immigration lawyer, or even a lawyer who handles court cases.  I advise and negotiate _outside_ court, and pride myself on keeping clients clear of those places.  It's still part of my job to follow and understand what the courts are doing, especially the written decisions of judges that come out of them.  But it's not any part of my day-to-day to know all the twists and turns of court procedure, much the less the state of the [metagame](https://en.wikipedia.org/wiki/Metagame) in any particular area.  Still, I'm hardly the only lawyer peering over to follow this case.
 
