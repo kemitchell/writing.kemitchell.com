@@ -325,7 +325,7 @@ There's a kind of mirror-image view here of the Supreme Court's picking at "effe
 
 > Footnote: See, e.g., Michelle Stoddart, _'Homegrowns are Next': Trump Doubles Down on Sending American 'Criminals' to Foreign Prisons_, <span class="smallcaps">ABC News</span> (Apr. 14, 2025, 6:04 PM); David Rutz, _Trump Open to Sending Violent American Criminals to El Salvador Prisons_, <span class="smallcaps">Fox News</span> (Apr. 15, 2025, 11:01 AM EDT).
 
-When it comes to basic legal rights, there is always a latent risk of further, more serious abuse.  It takes the form of a slippery-slope argument, which is a relatively weak form, but one also rich in grim historial precedents.  Drama put it perhaps better than life in the famous devil dialogue of Bolt's [_A Man for All Seasons_](https://en.wikipedia.org/wiki/A_Man_for_All_Seasons_(play)).  We are about to get it again, from a senior federal appeals judge.
+When it comes to basic legal rights, there is always a latent risk of further, more serious abuse.  It takes the form of a slippery-slope argument, which is a relatively weak form, but one also rich in grim historical precedents.  Drama put it perhaps better than life in the famous devil dialogue of Bolt's [_A Man for All Seasons_](https://en.wikipedia.org/wiki/A_Man_for_All_Seasons_(play)).  We are about to get it again, from a senior federal appeals judge.
 
 > And what assurance shall there be that the Executive will not train its broad discretionary powers upon its political enemies?  The threat, even if not the actuality, would always be present, and the Executive's obligation to "take Care that the Laws be faithfully executed" would lose its meaning.  <span class="smallcaps">U.S. Const.</span> art. II, § 3; _see also_ _id._ art. II, § 1, cl. 8.
 
