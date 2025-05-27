@@ -241,7 +241,7 @@ The string of names, abbreviations, and numbers is another legal citation.  The 
 
 > That would allow sensitive diplomatic negotiations to be removed from public view.  It would recognize as well that the "facilitation" of Abrego Garcia's return leaves the Executive Branch with options in the execution to which the courts in accordance with the Supreme Court's decision should extend a genuine deference.  That decision struck a balance that does not permit lower courts to leave Article II by the wayside.
 
-All this points back to the Supreme Court's requirement that courts be careful ordering the government to "effectuate" getting Abrego García back out.  By pointing out the freedom of choice and action the government still has while following the order, it makes the point that the courts aren't trying to micromanage the executive branch, as if by remote control.
+All this points back to the Supreme Court's requirement that courts be careful ordering the government to "effectuate" getting Abrego García back out.  By pointing out the freedom of choice and action the government still has while following the order, it makes the point that the courts aren't trying to micromanage the executive branch.
 
 > ¶ The Supreme Court's decision does not, however, allow the government to do essentially nothing.  It requires the government "to 'facilitate' Abrego Garcia's release from custody in El Salvador and to ensure that his case is handled as it would have been had he not been improperly sent to El Salvador."  _Abrego Garcia_, _supra_, slip op. at 2.
 
