@@ -319,7 +319,7 @@ I'd venture to guess Wilkinson isn't only referring to the Trump administration 
 
 > ¶ And the differences do not end there.  The Executive is inherently focused upon ends; the Judiciary much more so upon means.  Ends are bestowed on the Executive by electoral outcomes.  Means are entrusted to all of government, but most especially to the Judiciary by the Constitution itself.
 
-There's a kind of mirror-image view here of the Supreme Court's picking at "effectuate".  One response to charges that the courts are overreaching into executive business is that the courts are only ordering what has to be done, not how to do it.  Go get Abrego García out.  Take your pick of "options in the execution"---ways of getting it done.  Keep negotiations secret if you want to.
+There's a kind of mirror-image view here of the Supreme Court's picking at "effectuate".  One response to charges that the courts are overreaching into executive business is that the courts are only ordering what has to be done, not how to do it.  Go get Abrego García out.  Take your pick of "options in the execution"---ways of getting it done.  Keep negotiations secret if you want.
 
 > ¶ The Executive possesses enormous powers to prosecute and to deport, but with powers come restraints.  If today the Executive claims the right to deport without due process and in disregard of court orders, what assurance will there be tomorrow that it will not deport American citizens and then disclaim responsibility to bring them home?[Footnote]
 
