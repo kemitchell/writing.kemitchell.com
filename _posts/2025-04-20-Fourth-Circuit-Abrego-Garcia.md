@@ -213,7 +213,7 @@ I read this as a direct response to the efforts of the presidential administrati
 
 One of the benefits of trying someone in the press is lower standards of evidence.  You can show and tell things that would never fly in court.  You don't even have to argue the same questions.
 
-Even if the government had already proven to a jury, beyond any reasonable doubt, that Abrego García was a gang member and a criminal, even if he'd admitted all that under oath, he'd still be entitled to due process of law.  There's nothing in the Supreme Court's decisions that separates Abrego García, who was or wasn't a gang member, from those who were, proven or unproven.  Everybody gets due process.
+Even if the government had already proved to a jury, beyond any reasonable doubt, that Abrego García was a gang member and a criminal, even if he'd admitted all that under oath, he'd still be entitled to due process of law.  There's nothing in the Supreme Court's decisions that separates Abrego García, who was or wasn't a gang member, from those who were, proven or unproven.  Everybody gets due process.
 
 > If the government is confident of its position, it should be assured that position will prevail in proceedings to terminate the withholding of removal order.  See 8 C.F.R. § 208.24(f) (requiring that the government prove "by a preponderance of evidence" that the alien is no longer entitled to a withholding of removal).
 
