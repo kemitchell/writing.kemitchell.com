@@ -219,7 +219,7 @@ Even if the government had already proved to a jury, beyond any reasonable doubt
 
 The judge made an effort to write plainly above, but seems to lapse back a bit here.  In American English, I'd put it so: "If the government's so sure it can prove Abrego García's a terrorist and an MS-13 member, it should go to immigration court, prove it, and get the order it violated against deporting him back to El Salvador canceled".
 
-"8 C.F.R. § 208.24(f)" is a legal citation, a weird shorthand layers use to refer to other documents.  This one refers to the [Code of Federal Regulations, Title 8, Section 208.24(f)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-208/subpart-A/section-208.24).  The Code of Federal Regulations is where the federal government compiles all the various regulations written by agencies.
+"8 C.F.R. § 208.24(f)" is a legal citation, a weird shorthand lawyers use to refer to other documents.  This one refers to the [Code of Federal Regulations, Title 8, Section 208.24(f)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-208/subpart-A/section-208.24).  The Code of Federal Regulations is where the federal government compiles all the various regulations written by agencies.
 
 "Preponderance of the evidence" is a legal term for one of the ["standards of proof"](https://www.nolo.com/legal-encyclopedia/legal-standards-proof.html), vague but extremely important ideas about how strongly one side or the other of a lawsuit has to prove its case to get a judge or jury to rule in its favor.  "Preponderance of the evidence" is the lower standard used by the courts.  Criminal courts use the higher "beyond a reasonable doubt" standard, as required by the Due Process Clause of the Constitution.
 
