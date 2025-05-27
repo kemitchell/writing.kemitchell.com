@@ -291,7 +291,7 @@ Clearly tired of games about "facilitate".
 
 > It would reduce the rule of law to lawlessness and tarnish the very values for which Americans of diverse views and persuasions have always stood.
 
-The first of a few huge, unironic statements of broad principle.  Most lawyers, even many judges, serve entire careers seemingly a long way off any case where this could be written without seeming over-dramatic.
+The first of a few huge, unironic statements of broad principle.  Most lawyers, even many judges, serve entire careers seemingly a long way from any case where this could be written without seeming over-dramatic.
 
 I try to imagine writing in this case, as a federal judge over 80 years old.
 
