@@ -195,7 +195,7 @@ The government asked the appeals court to overturn the district court's order to
 
 [Article II of the US Constitution](https://constitution.congress.gov/constitution/article-2/) is the big part covering the powers of the executive branch, led by the president.  Congress and the judiciary have their own articles, too.
 
-The appeals court calling the district court judge below a "fine district judge" is a clear response to recent public criticism of judges by the president and his allies.  John Roberts, the chief justice of the Supreme Court, took the rare step of [responded more directly, and publicly,](https://www.politico.com/news/2025/03/18/john-roberts-donald-trump-impeach-federal-judges-00235742) after calls to impeach Boasberg for his order to turn planes around, in the first case the Supreme Court ruled on.
+The appeals court calling the district court judge below a "fine district judge" is a clear response to recent public criticism of judges by the president and his allies.  John Roberts, the chief justice of the Supreme Court, took the rare step of [responding more directly, and publicly,](https://www.politico.com/news/2025/03/18/john-roberts-donald-trump-impeach-federal-judges-00235742) after calls to impeach Boasberg for his order to turn planes around, in the first case the Supreme Court ruled on.
 
 > It is difficult in some cases to get to the very heart of the matter.  But in this case, it is not hard at all.  The government is asserting a right to stash away residents of this country in foreign prisons without the semblance of due process that is the foundation of our constitutional order.  Further, it claims in essence that because it has rid itself of custody that there is nothing that can be done.
 
