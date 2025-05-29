@@ -59,7 +59,7 @@ The basic law is that the Constitution gives the power to regulate foreign trade
 </blockquote>
 </details>
 
-Congress can't give this power over from the legislature to the executive just by passing a normal law.  That would take a constitutional amendment.  But it can pass laws to _delegate_ part its power to the president in limited ways.
+Congress can't give this power over from the legislature to the executive just by passing a normal law.  That would take a constitutional amendment.  But it can pass laws to _delegate_ part of its power to the president in limited ways.
 
 The administration pointed to the [International Emergency Economic Powers Act of 1977](https://en.wikipedia.org/wiki/International_Emergency_Economic_Powers_Act) as the law giving it delegated power to set the new tariffs.  The court goes through the history of that law and changes made to it.  It also mentions the [National Emergencies Act](https://en.wikipedia.org/wiki/National_Emergencies_Act), which sets up the process for declaring national emergencies referred to in the Powers Act.
 
