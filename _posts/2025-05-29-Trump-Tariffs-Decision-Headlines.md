@@ -78,9 +78,9 @@ The court struck down the "trafficking" tariffs because the International Emerge
 </blockquote>
 </details>
 
-The most important older legal decisions the court points to were in cases brought by a company called Yoshida International against broad tariffs imposed by the Nixon administration.  The first of those decisions led Congress to change the International Emergency Economic Powers Act, adding more limits on what the president could do.  The second actually upheld Nixon's tariffs under the revised law, but strongly emphasized that the law has limits and the tariffs were legal because they were limited.  Lawyers would say the court _distinguished_ this case, about Trump's tariffs, from the Yoshida case, about Nixon's.
+The most important older legal decisions the court points to were in cases brought by a company called Yoshida International against broad tariffs imposed by the Nixon administration.  The first of those decisions led Congress to change the International Emergency Economic Powers Act, adding more limits on what the president could do.  The second actually upheld Nixon's tariffs under the revised law, but strongly emphasized that the law has limits and the tariffs were legal because they were limited.
 
-The rule remains that presidents can impose tariffs within the limits of the law Congress passed.  Nixon's tariffs came under those limits, so they were legal.  Trump's tariffs didn't, so they're not.
+Lawyers would say the court _distinguished_ this case, about Trump's tariffs, from the Yoshida case, about Nixon's.  The rule remains that presidents can impose tariffs within the limits of the law Congress passed.  Nixon's tariffs came under those limits, so they were legal.  Trump's tariffs didn't, so they're not.
 
 The Trump administration has already appealed this decision.  Normally, that would mean the case goes first to the [Court of Appeals for the Federal Circuit](https://en.wikipedia.org/wiki/United_States_Court_of_Appeals_for_the_Federal_Circuit), and any appeals up from there to the Supreme Court.
 
