@@ -1,5 +1,6 @@
 ---
 title: The Headlines Are Evil, And They're Bringing Us Down
+description: what the court actually said about Trump's tariffs
 tags:
 - Social Media
 - Separation of Powers
