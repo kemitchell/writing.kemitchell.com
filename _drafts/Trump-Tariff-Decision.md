@@ -57,13 +57,11 @@ The basic law is that the Constitution gives Congress the power to regulate fore
 </blockquote>
 </details>
 
-Congress can't give this power over from the legislature to the executive just by passing a normal law.  That would take a Constitutional amendment.  But it can pass laws to _delegate_ part its power to the president in limited ways, according to rules set out in laws.
+Congress can't give this power over from the legislature to the executive just by passing a normal law.  That would take a constitutional amendment.  But it can pass laws to _delegate_ part its power to the president in limited ways.
 
-The administration pointed to the [International Emergency Economic Powers Act of 1977](https://en.wikipedia.org/wiki/International_Emergency_Economic_Powers_Act) as the law giving it delegated power to set the new tariffs.  The court goes through the history of that law.
+The administration pointed to the [International Emergency Economic Powers Act of 1977](https://en.wikipedia.org/wiki/International_Emergency_Economic_Powers_Act) as the law giving it delegated power to set the new tariffs.  The court goes through the history of that law and changes made to it.  It also mentions the [National Emergencies Act](https://en.wikipedia.org/wiki/National_Emergencies_Act), which sets up the process for declaring national emergencies referred to in the Powers Act.
 
-The International Emergency Economic Powers Act works in tandem with another law, the [National Emergencies Act](https://en.wikipedia.org/wiki/National_Emergencies_Act), that sets up processes for executive to declare national emergencies.  That law also got changed over time in response to court cases, specifically around how Congress can vote to terminate national emergencies declared by the president.
-
-The court struck down the "worldwide and retaliatory" tariffs because they're extremely broad and the court can't read the part of the International Emergency Powers Act as delegating power to the Executive to impose unbounded tariffs.  It can't read the law that way because doing so would violate the rules about how Congress can delegate the powers the Constitution say belong specifically to it.  The first of those rules, called the ["nondelegation doctrine"](http://localhost:8080/2025/05/29/Trump-Tariff-Decision), requires Congress to specify an "intelligible principle" according to which the power has to be exercised, passing a law that "meaningfully constrains" the president's delegated power.  The delegation has to be limited.
+The court struck down the "worldwide and retaliatory" tariffs because they're so broad.  The court couldn't read the part of the International Emergency Powers Act delegating power to the president to impose unbounded tariffs.  It couldn't read the law that way because doing so would violate the rules about how Congress can delegate the powers the Constitution say belong specifically to it.  The first of those rules, called the ["nondelegation doctrine"](http://localhost:8080/2025/05/29/Trump-Tariff-Decision), requires Congress to specify an "intelligible principle" according to which the power has to be exercised, passing a law that "meaningfully constrains" the president's delegated power.  Delegation has to be limited.  Unlimited tariffs can't fit under a limited power.
 
 The court struck down the "trafficking" tariffs because the International Emergency Economic Powers Act requires that the president's actions address the declared national emergency they're based on.  It found no reasoning in the orders imposing the "trafficking" tariffs showing how they address trafficking.  The court also rejected the idea that using tariffs to create diplomatic pressure or negotiating leverage alone could count, since that would justify nearly anything, making the law's requirement irrelevant.
 
@@ -78,10 +76,14 @@ The court struck down the "trafficking" tariffs because the International Emerge
 </blockquote>
 </details>
 
-The most important older legal decisions the court points to were in cases brought by a company called Yoshida International against broad tariffs imposed by the Nixon administration.  The first of those decisions led Congress to change the International Emergency Economic Powers Act, adding more limits on what the president could do.  The second actually upheld Nixon's tariffs under the revised law, but strongly emphasized that the law has limits and the tariffs were legal because they came within those limits.  Lawyers would say the court _distinguished_ this case, about Trump's tariffs, from the Yoshida case, about Nixon's.
+The most important older legal decisions the court points to were in cases brought by a company called Yoshida International against broad tariffs imposed by the Nixon administration.  The first of those decisions led Congress to change the International Emergency Economic Powers Act, adding more limits on what the president could do.  The second actually upheld Nixon's tariffs under the revised law, but strongly emphasized that the law has limits and the tariffs were legal because they were limited.  Lawyers would say the court _distinguished_ this case, about Trump's tariffs, from the Yoshida case, about Nixon's.
+
+The rule remains that presidents can impose tariffs within the limits of the law Congress passed.  Nixon's tariffs came under those limits, so they were legal.  Trump's tariffs didn't, so they're not.
+
+The Trump administration has already appealed this decision.  Normally, that would mean the case goes first to the [Court of Appeals for the Federal Circuit](https://en.wikipedia.org/wiki/United_States_Court_of_Appeals_for_the_Federal_Circuit), and any appeals up from there to the Supreme Court.
 
 ## Coda
 
-The [same Axios story](https://www.axios.com/2025/05/28/trump-tariffs-trade-court-ruling) headlined "Court says Trump doesn't have the authority to set tariffs" also runs with the headline "Trump's tariffs blocked by federal trade court".  I've got search results pages from DuckDuckGo that show two links to the same story, one in a media box with one headline, another as a text result link with the other.
+The [same Axios story](https://www.axios.com/2025/05/28/trump-tariffs-trade-court-ruling) headlined "Court says Trump doesn't have the authority to set tariffs" also runs with the headline "Trump's tariffs blocked by federal trade court".  I've got search results pages from DuckDuckGo showing two links to that same article, one in a media box with the "spicy" headline, another as text link with the other.
 
-Which headline do you suppose will win the [A/B click-off](https://en.wikipedia.org/wiki/A/B_testing)?
+Which do you suppose will win the [A/B click-off](https://en.wikipedia.org/wiki/A/B_testing)?
