@@ -38,7 +38,7 @@ The court did _not_ rule that the president can't impose tariffs full stop, or t
 
 I'd call the first group of headlines clickbait.  I'd also call them _lawyerly_, in the worst possible way.  They're playing tricky word games, with distinctions that matter, to influence conclusions.  They are scratching at semantics to sow confusion, in this case to maximize drama.
 
-Trump, as president, _does_ have some power to set tariffs.  The court's decision says he does.  "Court says Trump doesn't have the authority to set tariffs" is wrong.  It's just fallback-defensible, by arguing that "tariffs" could have meant "recently announced tariffs" or "the tariffs the court was reviewing".
+Trump, as president, _does_ have some power to set tariffs.  The court's decision says he does.  "Court says Trump doesn't have the authority to set tariffs" is wrong.  It's just fallback-defensible, by arguing that "tariffs" could have meant "recently announced tariffs" or "the tariffs the court was reviewing".  Not "tariffs generally".
 
 There are some procedural requirements for tariffs the president can impose.  But for some purposes, the president can impose tariffs without prior approval by Congress.  Those would be fair to call "unilateral", in the sense of the executive branch acting alone, without the courts or the legislature.  "Federal court says Trump doesn't have the power to impose tariffs unilaterally" is wrong.  It's just fallback-defensible, by the same kind of dissembling.
 
