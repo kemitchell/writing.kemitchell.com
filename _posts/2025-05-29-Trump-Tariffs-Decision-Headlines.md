@@ -48,7 +48,7 @@ The court's decision covers all of this.
 
 The court breaks down the tariffs into two groups, "trafficking tariffs" announced in executive orders and declarations giving drug trafficking as primary motivation, and "worldwide and retaliatory tariffs" citing concerns about unfair trade, tariffs, and economic policies worldwide.
 
-The basic law is that the Constitution gives Congress the power to regulate foreign trade to Congress, not the president, under article I, section 8, clauses 1 and 3:
+The basic law is that the Constitution gives the power to regulate foreign trade to Congress, not the president, under article I, section 8, clauses 1 and 3:
 
 <details>
 <summary>Constitution article I, section 8</summary>
