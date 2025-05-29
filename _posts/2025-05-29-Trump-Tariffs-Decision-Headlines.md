@@ -1,4 +1,5 @@
 ---
+date: 2025-05-29T11:22:31-07:00
 title: The Headlines Are Evil, And They're Bringing Us Down
 description: what the court actually said about Trump's tariffs
 tags:
