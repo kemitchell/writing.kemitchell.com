@@ -10,5 +10,6 @@ layout: post
 - Galenter and Palay's _Tournament of Lawyers_
 - Huhn's _The Five Types of Legal Argument_
 - LLewellyn's _The Bramble Bush_
+- Maister's _Managing the Professional Service Form_
 - Mellinkoff's _The Language of the Law_
 - Teles' _The Rise of the Conservative Legal Movement_
