@@ -7,9 +7,9 @@ tags:
 - Funding
 ---
 
-Open software people love "first principles".  But when it comes to talking open software itself, we can't get enough analogy.  Especially when it comes to persistent problems like "sustainability".
+Open software people love "first principles", but when it comes to talking open software itself, we can't get enough analogy.  Especially when it comes to persistent problems like "sustainability".
 
-We talk about sustainability in biology terms like "ecosystem" and "ecology".  We talk about it in infrastructure terms like "roads" and "bridges".  We talk in economic terms like "commons".
+We talk about sustainability in biology terms like "ecosystem" and "ecology".  We talk about it in infrastructure terms like "roads" and "bridges".  We talk about it in economic terms like "commons".
 
 What is the economic vocabulary of open software?  Here's a Wikipedia reading list, as a start.  If you're not fluent with these ideas, try reading the pages, or at least the introductory sections, with open software in mind.  How can we use these concepts to think about software, openness, collaboration, and sustainability?
 
