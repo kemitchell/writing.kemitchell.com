@@ -1,4 +1,5 @@
 ---
+date: 2025-08-08T10:05:24-07:00
 title: A Published Legal Form Under Restrictive Copyright License
 description: Access 4 Learning's data privacy terms for schools and vendors
 brief: An international trade group of education service providers publishes a privacy form for use only by their members, without changes.
