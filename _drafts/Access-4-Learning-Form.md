@@ -1,6 +1,7 @@
 ---
 title: A Published Legal Form Under Restrictive Copyright License
 description: Access 4 Learning's data privacy terms for schools and vendors
+brief: An international trade group of education service providers publishes a privacy form for use only by their members, without changes.
 tags:
 - Standard Legal Terms
 - Copyright
@@ -21,9 +22,9 @@ The United States has long had some federal-level laws at regulating privacy of 
 
 > Authored by Members of the Student Data Privacy Consortium (SDPC) & Mark Williams, Fagen, Friedman & Fulfrost LLP
 
-The [Student Data Privacy Consortium](https://privacy.a4l.org/) is a "Special Interest Group" under A4L focused more specifically on data privacy.  I haven't dug in too far, but I gather this is a kind of working group within the organization.
+The [Student Data Privacy Consortium](https://privacy.a4l.org/) is a "Special Interest Group" under A4L focused more specifically on data privacy.  I haven't dug in too far, but I gather this is a kind of working group within A4L.  A4L is international, but form deals with US-specific legal concerns.
 
-[Fagen](https://www.f3law.com/) is a law firm  with several office location, mostly in California.  They focus on public education.
+[Fagen](https://www.f3law.com/) is a law firm  with several offices, mostly in California.  They focus on public education.
 
 The use of "Authored by" is notable here.  Under copyright law, the default owner of a copyrightable work is its author.  But that default can be overridden, and ownership can also change over time.
 
@@ -33,7 +34,7 @@ I'm not aware of any rule that says you have to note the author on a copyrighted
 
 > © Access 4 Learning (A4L) Community. All Rights Reserved.
 
-I'm not sure this claim is terribly clear.  The name of the organization is plain enough, but the claim here is the A4L "_Community_", not just A4L the org itself.
+I'm not sure this claim is terribly clear.  The name of the organization is plain enough, but the claim here is the A4L "_Community_", not just A4L the org itself, holds copyright.
 
 A4L seems to use "Community", always capitalized, specifically to refer to its [dues](https://files.a4l.org/home/Membership/A4L_Community_Membership_Dues_Matrix_May2025.pdf)-paying membership.  So perhaps this copyright notice is meant to say that the various authors, who are members of the Community, retain their copyrights.  Or perhaps the intent was to centralize ownership of copyright in the A4L org itself.  I'm not sure.
 
@@ -53,4 +54,4 @@ First, I wonder whether this is meant to require that _both_ sides be A4L member
 
 Second, I'd read this language to prevent even paying members from making meaningful changes to the "standard" form.  That would be a rather aggressive approach to standardization.
 
-Blue Oak Council, the open licensing nonprofit I cofounded, allows edits to our model software license, [so long as edited versions don't use the "Blue Oak" name](https://blueoakcouncil.org/license/1.0.0#permission).  We've [registered "Blue Oak" as a trademark covering legal forms](https://tsdr.uspto.gov/#caseNumber=88323101&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch) while [Access 4 Learning doesn't seem to have done so](https://tsdr.uspto.gov/#caseNumber=86133532&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch).  Especially with these use terms coming directly after the copyright, I'm gathering A4L is using a primarily copyright-driven approach to maintaining the integrity of its form.
+Blue Oak Council, the open licensing nonprofit I cofounded, allows edits to our model software license, [so long as edited versions don't use the "Blue Oak" name](https://blueoakcouncil.org/license/1.0.0#permission).  We've [registered "Blue Oak" as a trademark covering legal forms](https://tsdr.uspto.gov/#caseNumber=88323101&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch) while [Access 4 Learning doesn't seem to have done so](https://tsdr.uspto.gov/#caseNumber=86133532&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch).  Especially with these use terms coming directly after the copyright, I'm gathering A4L is using a primarily copyright-driven approach to maintaining the integrity of its form as a standard.
