@@ -1,5 +1,6 @@
 ---
 title: Ethical Licenses Talking Points
+description: beyond the basics
 ---
 
 <h2 id="agreement" markdown="1">Not everybody agrees with your personal ethical code.</h2>
