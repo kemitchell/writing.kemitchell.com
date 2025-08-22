@@ -11,6 +11,7 @@ layout: post
 - [diceware](http://diceware.com/) passphrase generator
 - [dmenu](https://dmenu.suckless.org/) command launcher
 - [dwm](https://dwn.suckless.org/) window manager
+- [Foliate](https://en.wikipedia.org/wiki/Foliate_(software)) e-book reader
 - [Git](https://git-scm.com/) version-control system
 - [NeoMutt](https://neomutt.org/) e-mail client
 - [PDF Expert](https://pdfexpert.com/ios) PDF reading and annotation on iOS
