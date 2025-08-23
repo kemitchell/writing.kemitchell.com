@@ -16,7 +16,7 @@ So what's the plan?  In short:
 
 2.  Offer more software features for readers, beyond just a static blog.
 
-3.  Better organize how I stay in touch with people who benefit from my work, so I can learn ho to be of better service.
+3.  Better organize how I stay in touch with people who benefit from my work, so I can learn how to be of better service.
 
 ## Why
 
