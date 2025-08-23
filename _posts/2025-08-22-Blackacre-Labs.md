@@ -1,4 +1,5 @@
 ---
+date: 2025-08-22T21:52:57-07:00
 title: Announcing Blackacre Labs
 description: have and belong to many readers
 tags:
