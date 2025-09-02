@@ -5,6 +5,7 @@ layout: post
 ---
 
 - Adams' _Manual of Style for Contract Drafting_
+- Butterick's _Typography for Lawyers_
 - Farnsworth's _The Legal Analyst_
 - Freund's _Smart Negotiating_
 - Galenter and Palay's _Tournament of Lawyers_
