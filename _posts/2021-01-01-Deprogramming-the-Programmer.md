@@ -4,6 +4,7 @@ description: throw off your jargon and be free
 date: Fri 01 Jan 2021 07:25:55 PM PST
 tags:
 - Open Source
+- Plain Language
 - Law Practice
 ---
 
