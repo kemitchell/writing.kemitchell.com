@@ -1,4 +1,5 @@
 ---
+date: 2025-09-25T22:35:16-07:00
 title: Plain Nonsense Trumps Jargon
 description: the cost of wizardspeak comes due in our time
 tags:
