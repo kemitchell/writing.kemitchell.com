@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: https://gem.coop/
   specs:
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
