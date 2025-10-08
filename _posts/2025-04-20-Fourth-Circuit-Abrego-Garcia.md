@@ -1,6 +1,6 @@
 ---
 date: 2025-04-20T14:16:59-07:00
-title: The Fourth Circuit's Opinion in the Abrego García Case
+title: The Fourth Circuit's Opinion in the Ábrego García Case
 description: a line-by-line reading
 series: Line by Line
 tags:
@@ -9,7 +9,7 @@ tags:
 - Politics
 ---
 
-The [latest court opinion](https://www.courtlistener.com/docket/69777799/88/abrego-garcia-v-noem/) in the case of Kilmar Armando Abrego García, the El Salvador national who had an immigration order against deporting him back home, but got flown from the United States and put in the CECOT prison anyway, is one I'd encourage more people to read.  The judge clearly took time to write for people _not_ mind-warped by legal education.  But the format and conventions of court docs alone can put people off.  Here's a line-by-line, giving my own thoughts along the way.
+The [latest court opinion](https://www.courtlistener.com/docket/69777799/88/abrego-garcia-v-noem/) in the case of Kilmar Armando Ábrego García, the El Salvador national who had an immigration order against deporting him back home, but got flown from the United States and put in the CECOT prison anyway, is one I'd encourage more people to read.  The judge clearly took time to write for people _not_ mind-warped by legal education.  But the format and conventions of court docs alone can put people off.  Here's a line-by-line, giving my own thoughts along the way.
 
 I am not an immigration lawyer, or even a lawyer who handles court cases.  I advise and negotiate clear of court, and pride myself on keeping clients out of there.  It's still part of my job to follow and understand what the courts are doing, especially the written decisions of judges that come out of them.  But it's not any part of my day-to-day to know all the twists and turns of court procedure, much the less the state of the [metagame](https://en.wikipedia.org/wiki/Metagame) in any particular area.  Still, I'm hardly the only lawyer peering over to follow this case.
 
@@ -25,7 +25,7 @@ If you're short on time, but want the context, skip the front matter and go [rig
 
 The hierarchical structure of US federal courts has three major levels: district courts, circuit courts, and the Supreme Court.  The middle-tier courts are called "circuit courts" because judges used to travel around, or "ride a circuit", to hear appeals from cases of the district courts within a given territory.  These days circuit court judges mostly stay put, working out of their own permanent courthouses.
 
-The [Court of Appeals for the Fourth Circuit](https://www.ca4.uscourts.gov/) covers federal districts in the states of Maryland, North Carolina, South Carolina, Virginia, and West Virginia.  Abrego García lived and was arrested in the District of Maryland, and he sued in federal district court there.
+The [Court of Appeals for the Fourth Circuit](https://www.ca4.uscourts.gov/) covers federal districts in the states of Maryland, North Carolina, South Carolina, Virginia, and West Virginia.  Ábrego García lived and was arrested in the District of Maryland, and he sued in federal district court there.
 
 District courts are trial courts.  That's where people submit papers to start lawsuits, submit evidence, hold trials, and get decisions.
 
@@ -43,11 +43,12 @@ After the numbers come the names of the parties---the two sides of the lawsuit.
 
 one of the Salvadoran nationals deported to El Salvador
 
-Federal courts, their secretaries, and their case management systems still haven't figured out how to type [diacritics](https://en.wikipedia.org/wiki/Diacritic), but some are getting better at [Spanish-style surname conventions](https://en.wikipedia.org/wiki/Spanish_naming_customs).  So no "Garc<em>í</em>a", con acento, but we'll see him called "Abrego Garcia" below.
+Federal courts, their secretaries, and their case management systems still haven't figured out how to type [diacritics](https://en.wikipedia.org/wiki/Diacritic), but some are getting better at [Spanish-style surname conventions](https://en.wikipedia.org/wiki/Spanish_naming_customs).  So no "<em>Á</em>brego Garc<em>í</em>a", con acentos, but we'll see him called "Abrego Garcia" below.
+
 
 > Jennifer Stefania Vasquez Sura;
 
-Abrego García's wife
+Ábrego García's wife
 
 It's written Vásquez in Spanish.  On that, I'm done.
 
@@ -57,7 +58,7 @@ It's typical for minor children and some other categories of vulnerable people t
 
 > Plaintiffs -- Appellees,
 
-This was the list of people who brought the lawsuit.  So in that lawsuit, down in the federal district court, they are the "plaintiffs", on the legal offense.  But in this appeal to the Fourth Circuit above, they are "appellees", on the defense.  The government wants the appeals court to overturn what the trial court did.  Abrego García, his wife, and his daughter, through their lawyers, want it upheld.
+This was the list of people who brought the lawsuit.  So in that lawsuit, down in the federal district court, they are the "plaintiffs", on the legal offense.  But in this appeal to the Fourth Circuit above, they are "appellees", on the defense.  The government wants the appeals court to overturn what the trial court did.  Ábrego García, his wife, and his daughter, through their lawyers, want it upheld.
 
 > v.
 
@@ -77,7 +78,7 @@ acting Executive Associate Director of Enforcement and Removal Operations, ICE
 
 > Nikita Baker;
 
-acting Field Office Director for ICE [in Baltimore, Maryland](https://www.ice.gov/field-office/baltimore-field-office), where Abrego García lived and was arrested
+acting Field Office Director for ICE [in Baltimore, Maryland](https://www.ice.gov/field-office/baltimore-field-office), where Ábrego García lived and was arrested
 
 > Pamela Jo Bondi;
 
@@ -129,13 +130,13 @@ A _motion_ is a document filed by one side or the other in a lawsuit, asking the
 
 In this particular appeal, the government filed [the motion](https://www.courtlistener.com/docket/69777799/86/abrego-garcia-v-noem/).  They asked for "emergency stay" of an order by District of Maryland trial court judge [Paula Xinis](https://en.wikipedia.org/wiki/Paula_Xinis), appointed by Obama in 2016.  That [order](https://www.courtlistener.com/docket/69777799/21/abrego-garcia-v-noem/) required the administration to "facilitate and effectuate the return of Plaintiff Kilmar Armando Abrego Garcia to the United States by no later than 11:59 on Monday, April 7, 2025".
 
-Essentially, the government asked the appeals court to press pause on that order while they argue that it's legally wrong.  They also want another order from the appeals court down to the lower court, a "writ of mandamus", canceling, or "vacating", [a different trial court order](https://www.courtlistener.com/docket/69777799/79/abrego-garcia-v-noem/) giving Abrego García and family access to documents and evidence from the government to help prove their case, a process called ["discovery"](https://en.wikipedia.org/wiki/Discovery_(law)).
+Essentially, the government asked the appeals court to press pause on that order while they argue that it's legally wrong.  They also want another order from the appeals court down to the lower court, a "writ of mandamus", canceling, or "vacating", [a different trial court order](https://www.courtlistener.com/docket/69777799/79/abrego-garcia-v-noem/) giving Ábrego García and family access to documents and evidence from the government to help prove their case, a process called ["discovery"](https://en.wikipedia.org/wiki/Discovery_(law)).
 
 Three judges for the Fourth Circuit said no.  Why?
 
 ## Background: Supreme Court Decisions So Far
 
-The Supreme Court has given three decisions on the deportations to El Salvador now, one specifically in Abrego García's case before Xinis.  It's worth reviewing them all very briefly.  All district court and circuit court judges are bound to follow these decisions from the higher court, which can hear appeals of their decisions and overrule them.
+The Supreme Court has given three decisions on the deportations to El Salvador now, one specifically in Ábrego García's case before Xinis.  It's worth reviewing them all very briefly.  All district court and circuit court judges are bound to follow these decisions from the higher court, which can hear appeals of their decisions and overrule them.
 
 These decisions have also been subjects of some of the most depressingly lazy and slanted news coverage I've seen in a long time.  Partly this is down to the press just doing what it usually does on legal stories, now on some more particularly important ones.  Partly this is down to the Supreme Court playing subtly.  But only very partly.
 
@@ -157,11 +158,11 @@ The Supreme Court's first, [April 7 decision](https://www.supremecourt.gov/opini
 
 ### How to Order the Government to Bring Somebody Back
 
-The Supreme Court's decision in Abrego García's case came just a few days later, on [April 10](https://www.supremecourt.gov/opinions/24pdf/24a949_lkhn.pdf).  The prompt was the government's request to throw out the order of the Maryland district court judge commanding the government to "facilitate and effectuate" his return.  My takeaways:
+The Supreme Court's decision in Ábrego García's case came just a few days later, on [April 10](https://www.supremecourt.gov/opinions/24pdf/24a949_lkhn.pdf).  The prompt was the government's request to throw out the order of the Maryland district court judge commanding the government to "facilitate and effectuate" his return.  My takeaways:
 
-1.  The Supreme Court acknowledged that the judge's deadline for returning Abrego García had already passed by the time they got around to deciding.   But they specifically left the rest of the order, minus the deadline, in place.
+1.  The Supreme Court acknowledged that the judge's deadline for returning Ábrego García had already passed by the time they got around to deciding.   But they specifically left the rest of the order, minus the deadline, in place.
 
-2.  "The order properly requires the Government to 'facilitate' Abrego Garcia's release from custody in El Salvador and to ensure that his case is handled as it would have been had he not been improperly sent to El Salvador."
+2.  "The order properly requires the Government to 'facilitate' Ábrego Garcia's release from custody in El Salvador and to ensure that his case is handled as it would have been had he not been improperly sent to El Salvador."
 
 3.  The word "effectuate" in the lower court's order, on the other hand, needed clarification, to avoid overstepping into the executive branch's role.
 
@@ -181,11 +182,11 @@ Finally, there was yet another Supreme Court decision over this weekend, in a ne
 
 Note that the Supreme Court made this order _after_ the Fourth Circuit wrote and published the order we are reading here together.  I include it just to make this list complete, for now.
 
-We've got the Supreme Court context.  Now we're ready to for the meat of the Fourth Circuit's order in the Abrego García case.
+We've got the Supreme Court context.  Now we're ready to for the meat of the Fourth Circuit's order in the Ábrego García case.
 
 ## Opinion
 
-The government asked the appeals court to overturn the district court's order to "facilitate" and "effectuate" returning Abrego García, as well as its order to make the government share evidence for his lawsuit against the government.  As we saw in the first, jargon-leaden sentence of that order, the Fourth Circuit said no.  The government lost.  Now comes the reasoning.
+The government asked the appeals court to overturn the district court's order to "facilitate" and "effectuate" returning Ábrego García, as well as its order to make the government share evidence for his lawsuit against the government.  As we saw in the first, jargon-leaden sentence of that order, the Fourth Circuit said no.  The government lost.  Now comes the reasoning.
 
 > The relief the government is requesting is both extraordinary and premature.
 
@@ -201,7 +202,7 @@ The appeals court calling the district court judge below a "fine district judge"
 
 This is unusually direct, serious language for an appeals court ruling.  I read a judge who is trying to pierce through legalese to write something he expects will be read and quoted beyond the usual audience of lawyers and specialists.
 
-"Rid itself of custody" here refers to the government having handed Abrego García off to Salvadorian authorities in El Salvador.
+"Rid itself of custody" here refers to the government having handed Ábrego García off to Salvadorian authorities in El Salvador.
 
 > ¶ This should be shocking not only to judges, but to the intuitive sense of liberty that Americans far removed from courthouses still hold dear.
 
@@ -213,21 +214,21 @@ I read this as a direct response to the efforts of the presidential administrati
 
 One of the benefits of trying someone in the press is lower standards of evidence.  You can show and tell things that would never fly in court.  You don't even have to argue the same questions.
 
-Even if the government had already proved to a jury, beyond any reasonable doubt, that Abrego García was a gang member and a criminal, even if he'd admitted all that under oath, he'd still be entitled to due process of law.  There's nothing in the Supreme Court's decisions that separates Abrego García, who was or wasn't a gang member, from those who were, proven or unproven.  Everybody gets due process.
+Even if the government had already proved to a jury, beyond any reasonable doubt, that Ábrego García was a gang member and a criminal, even if he'd admitted all that under oath, he'd still be entitled to due process of law.  There's nothing in the Supreme Court's decisions that separates Ábrego García, who was or wasn't a gang member, from those who were, proven or unproven.  Everybody gets due process.
 
 > If the government is confident of its position, it should be assured that position will prevail in proceedings to terminate the withholding of removal order.  See 8 C.F.R. § 208.24(f) (requiring that the government prove "by a preponderance of evidence" that the alien is no longer entitled to a withholding of removal).
 
-The judge made an effort to write plainly above, but seems to lapse back a bit here.  In American English, I'd put it so: "If the government's so sure it can prove Abrego García's a terrorist and an MS-13 member, it should go to immigration court, prove it, and get the order it violated against deporting him back to El Salvador canceled".
+The judge made an effort to write plainly above, but seems to lapse back a bit here.  In American English, I'd put it so: "If the government's so sure it can prove Ábrego García's a terrorist and an MS-13 member, it should go to immigration court, prove it, and get the order it violated against deporting him back to El Salvador canceled".
 
 "8 C.F.R. § 208.24(f)" is a legal citation, a weird shorthand lawyers use to refer to other documents.  This one refers to the [Code of Federal Regulations, Title 8, Section 208.24(f)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-208/subpart-A/section-208.24).  The Code of Federal Regulations is where the federal government compiles all the various regulations written by agencies.
 
 "Preponderance of the evidence" is a legal term for one of the ["standards of proof"](https://www.nolo.com/legal-encyclopedia/legal-standards-proof.html), vague but extremely important ideas about how strongly one side or the other of a lawsuit has to prove its case to get a judge or jury to rule in its favor.  "Preponderance of the evidence" is the lower standard used by the courts.  Criminal courts use the higher "beyond a reasonable doubt" standard, as required by the Due Process Clause of the Constitution.
 
-The implication here is that the government wouldn't even have had that hard a case to make to get the order against deporting Abrego García overturned.  It would have been on legal Easy Mode, not Hard Mode, as if it were charging him with a crime.
+The implication here is that the government wouldn't even have had that hard a case to make to get the order against deporting Ábrego García overturned.  It would have been on legal Easy Mode, not Hard Mode, as if it were charging him with a crime.
 
 > Moreover, the government has conceded that Abrego Garcia was wrongly or "mistakenly" deported.  Why then should it not make what was wrong, right?
 
-A Justice Department lawyer admitted both in court and in a [filing](https://storage.courtlistener.com/recap/gov.uscourts.mdd.578815/gov.uscourts.mdd.578815.11.0.pdf) that ICE deported Abrego García despite knowing about its order against deporting him to El Salvador.  That lawyer, Erez Reuveni, was soon [suspended](https://thehill.com/regulation/court-battles/5235778-doj-suspends-lawyer-deportation-case/) for not "zealously advocating", lawyer speak for not playing tough enough.
+A Justice Department lawyer admitted both in court and in a [filing](https://storage.courtlistener.com/recap/gov.uscourts.mdd.578815/gov.uscourts.mdd.578815.11.0.pdf) that ICE deported Ábrego García despite knowing about its order against deporting him to El Salvador.  That lawyer, Erez Reuveni, was soon [suspended](https://thehill.com/regulation/court-battles/5235778-doj-suspends-lawyer-deportation-case/) for not "zealously advocating", lawyer speak for not playing tough enough.
 
 > ¶ The Supreme Court's decision remains, as always, our guidepost.
 
@@ -241,7 +242,7 @@ The string of names, abbreviations, and numbers is another legal citation.  The 
 
 > That would allow sensitive diplomatic negotiations to be removed from public view.  It would recognize as well that the "facilitation" of Abrego Garcia's return leaves the Executive Branch with options in the execution to which the courts in accordance with the Supreme Court's decision should extend a genuine deference.  That decision struck a balance that does not permit lower courts to leave Article II by the wayside.
 
-All this points back to the Supreme Court's requirement that courts be careful ordering the government to "effectuate" getting Abrego García back out.  By pointing out the freedom of choice and action the government still has while following the order, it makes the point that the courts aren't trying to micromanage the executive branch.
+All this points back to the Supreme Court's requirement that courts be careful ordering the government to "effectuate" getting Ábrego García back out.  By pointing out the freedom of choice and action the government still has while following the order, it makes the point that the courts aren't trying to micromanage the executive branch.
 
 > ¶ The Supreme Court's decision does not, however, allow the government to do essentially nothing.  It requires the government "to 'facilitate' Abrego Garcia's release from custody in El Salvador and to ensure that his case is handled as it would have been had he not been improperly sent to El Salvador."  _Abrego Garcia_, _supra_, slip op. at 2.
 
@@ -319,7 +320,7 @@ I'd venture to guess Wilkinson isn't only referring to the Trump administration 
 
 > ¶ And the differences do not end there.  The Executive is inherently focused upon ends; the Judiciary much more so upon means.  Ends are bestowed on the Executive by electoral outcomes.  Means are entrusted to all of government, but most especially to the Judiciary by the Constitution itself.
 
-There's a kind of mirror-image view here of the Supreme Court's picking at "effectuate".  One response to charges that the courts are overreaching into executive business is that the courts are only ordering what has to be done, not how to do it.  Go get Abrego García out.  Take your pick of "options in the execution"---ways of getting it done.  Keep negotiations secret if you want.
+There's a kind of mirror-image view here of the Supreme Court's picking at "effectuate".  One response to charges that the courts are overreaching into executive business is that the courts are only ordering what has to be done, not how to do it.  Go get Ábrego García out.  Take your pick of "options in the execution"---ways of getting it done.  Keep negotiations secret if you want.
 
 > ¶ The Executive possesses enormous powers to prosecute and to deport, but with powers come restraints.  If today the Executive claims the right to deport without due process and in disregard of court orders, what assurance will there be tomorrow that it will not deport American citizens and then disclaim responsibility to bring them home?[Footnote]
 
@@ -381,9 +382,9 @@ As for the people, can you think of a group commanding less public sympathy righ
 
 Clearly, the decision to round men up in mass, flood the media with conclusive assertions they are gang members, and deport them to a foreign prison with a practiced media team was intentional.  Their sheer number defies individualization and empathy.  It likely still does, for the vast majority of the hundreds flown away.
 
-But one, Abrego García, fell out of the bundle.  Because his lawyer acted blindingly fast, suing in Maryland before they moved him to Texas.  Because his wife, a citizen and confident English speaker, took to the press.  Because the government had ordered itself specifically _not_ to send him back, did anyway, and had to admit it.
+But one, Ábrego García, fell out of the bundle.  Because his lawyer acted blindingly fast, suing in Maryland before they moved him to Texas.  Because his wife, a citizen and confident English speaker, took to the press.  Because the government had ordered itself specifically _not_ to send him back, did anyway, and had to admit it.
 
-A fearsome PR war is being waged to stuff Abrego García back into the group, to dissolve his story in the acid bath of demonized company: just another gang member, one of the horde.  But even accepting gang-or-no-gang as the point to be won or lost diverts from the issue that matters.
+A fearsome PR war is being waged to stuff Ábrego García back into the group, to dissolve his story in the acid bath of demonized company: just another gang member, one of the horde.  But even accepting gang-or-no-gang as the point to be won or lost diverts from the issue that matters.
 
 There is no "law enforcement says they're bad" exception to due process of law.  Due process exists, and matters, precisely for when you're accused, to force higher standards of argument, evidence, and proof between the will to point a finger and the power to impose consequences.  It's a bulwark between arbitrary will and the awful powers of the state.
 
