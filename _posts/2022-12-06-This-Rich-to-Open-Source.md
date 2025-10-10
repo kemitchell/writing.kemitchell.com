@@ -36,7 +36,7 @@ And most succinctly:
 
 A hacker is rich or from a rich, generous country.  Their basic material requirements are met.  That leaves "social life" and "entertainment"...and a computer with which to try and get them.  Peer-group cred.  Technical clout.  Intrinsic fulfillment.  Personal creative expression.  All those finer things up toward the pointy end of [Maslow's pyramid](https://commons.wikimedia.org/w/index.php?title=File:MaslowHierarchy.png&oldid=707155329), pretty clear prior art for Linus's Law.  How to scale such heights, stuck at home for a bleak, Finnish winter?
 
-In a strict sense, hacking is not the same as open source.  Workaday people occasionally do get jobs slinging code in public, on the Web.  But those new to the game are often disappointed by just how much like the rest of work can be.  Not much self-actualization.  More reminding yourself that bills are being paid.
+In a strict sense, hacking is not the same as open source.  Workaday people occasionally do get jobs slinging code in public, on the Web.  But those new to the game are often disappointed by just how much like the rest of work it can be.  Not much self-actualization.  More reminding yourself that bills are being paid.
 
 The story we like to hear is that the real open source, the revolutionary stuff, expresses righteous hacker frenzy, not some corporate budget allocation or mid-level management strategy.  If business happens to be involved, it's through odd lapses in its native authoritarianism.  Occasionally a fat and happy corporation will hire good people, put them in a "lab", allow them to release, and benignly neglect to manage them, as if by inspired mistake.  The result is indistinguishable from tenure or a privatized form of the dole.
 
