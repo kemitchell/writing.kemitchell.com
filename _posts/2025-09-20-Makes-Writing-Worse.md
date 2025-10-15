@@ -43,7 +43,7 @@ As in _Reading Law_:
 
 The rule is a gem.  We are unworthy.
 
-I don't see any tragedy here.  I see folly.  If even attentive and talented lawyers---the Major Leaguers Scalia tended to read as Supreme Court justice, for example---reliably fail to live up to the rule, and even when they do, they're writing's less good for it, then the rule is not in the service of man.  It's another bad choice we lawyers keep making.
+I don't see any tragedy here.  I see folly.  If even attentive and talented lawyers---the Major Leaguers Scalia tended to read as Supreme Court justice, for example---reliably fail to live up to the rule, and even when they do, they're writing's only worse for it, then the rule is not in the service of man.  It's another bad choice we lawyers keep making.
 
 For lawyers' sake, for DIY-ers', and even for judges', what can we do?
 
