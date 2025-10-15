@@ -35,7 +35,7 @@ If "property" clearly includes _intellectual_ property in a section granting lic
 
 Still, the advice we see to drafters, in _Reading Law_, [_Making Your Case: The Art of Persuading Judges_](https://store.legal.thomsonreuters.com/p/100008068) by the same authors, [_A Manual of Style for Contract Drafting_](https://www.adamsdrafting.com/writing/mscd/) by [Ken Adams](https://www.adamsdrafting.com/), and other manuals for lawyers is basically to suck it up, try your best, and accept humility when you fail.  Garner and Scalia are direct about the trade-off in _Making Your Case_:
 
-> the same word should be used to refer to a particular key concept, ==even if elegance of style would avoid such repetition in favor of various synonyms==
+> the same word should be used to refer to a particular key concept, <mark>even if elegance of style would avoid such repetition in favor of various synonyms</mark>
 
 As in _Reading Law_:
 
