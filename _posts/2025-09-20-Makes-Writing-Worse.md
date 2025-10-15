@@ -15,7 +15,7 @@ Trade places with me now.  You're the lawyer.  You want to encourage more people
 
 The common crux is legalese, our collective shorthand for all the ways legal writing differs from regular writing for the worse.  A big letdown in learning legal drafting is learning how little legalese the law itself requires.
 
-Competently drafted legal terms grate even literate people who willingly read for fun, mostly because lawyers keep choosing to write badly.  They grate judges, too, who fill their their bar journal articles, books, and even legal opinions with threats and pleas for better prose.  Some legal subjects are complex, but writing on complex topics can itself be easy or hard to read, in the first place.  Too often, lawyers just make it hard.
+Competently drafted legal terms grate even literate people who willingly read for fun, mostly because lawyers keep choosing to write badly.  They grate judges, too, who fill their bar journal articles, books, and even legal opinions with threats and pleas for better prose.  Some legal subjects are complex, but writing on complex topics can itself be easy or hard to read, in the first place.  Too often, lawyers just make it hard.
 
 This being law---and life---there are, of course, exceptions.  Some legal principles _do_ encourage legal writing to be bad writing.  To reduce legalese among lawyers, or to secure better handling of terms written without them, we have to get specific about those standards.
 
