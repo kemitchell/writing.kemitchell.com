@@ -2,7 +2,7 @@
 date: 2025-09-20T20:37:08-07:00
 title: A Legal Rule That Makes Writing Worse
 description: moving past the fantasy of consistency
-brief: Traditional rules of legal interpretation expects a level of consistency that makes legal writing worse. To free lawyers to write better and empower DIR-ers, we can opt out of those rules.
+brief: Traditional rules of legal interpretation expect a level of consistency that makes legal writing worse. To free lawyers to write better and empower DIR-ers, we can opt out of those rules.
 tags:
 - Law
 - Contracts
