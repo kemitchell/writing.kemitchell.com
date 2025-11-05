@@ -1,22 +1,18 @@
 ---
-date: 2025-11-04T21:26:08-08:00
-title: PolyForm Noncommercial 2.0.0-pre.1
+title: PolyForm Noncommercial 2.0.0-pre.2
 description: shorter, better noncommercial license terms for software
 series: PolyForm
-retrospect: Unfortunately, I accidentally left some edits out of this draft. A new post with the latest draft is [here](/2025/11/05/PolyForm-Noncommercial-2.0.0-pre.2).
 tags:
 - Licensing
 - Software
 - Noncommercial
 ---
 
-[Heather Meeker](https://heathermeeker.com) and I have long wanted to do new version 2s of the [PolyForm](https://polyformproject.org) licenses, to make them even shorter and easier to read.  We now have a draft of a new [Noncommercial](https://polyformproject.org/licenses/noncommercial/) license to share, down to less than 550 words.
+Here is the latest draft of the PolyForm Noncommercial license for software, with the edits that got left out of the draft I blogged yesterday.  I've gone in and marked the changes for anyone who read the first.
 
-If you have a chance to read through, do share any thoughts to [kyle@kemitchell.com](mailto:kyle@kemitchell.com).  We give these licenses away for free, and put a ton of extra work in to try and make them approachable.  Every fresh pair of eyes and fresh perspective makes the terms better for all involved.
-
-> # PolyForm Noncommercial License 2.0.0-pre.1
+> # PolyForm Noncommercial License 2.0.0-pre.2
 >
-> <https://polyformproject.org/licenses/noncommercial/2.0.0-pre.1>
+> <https://polyformproject.org/licenses/noncommercial/2.0.0>
 >
 > ## Noncommercial Use
 >
@@ -32,11 +28,11 @@ If you have a chance to read through, do share any thoughts to [kyle@kemitchell.
 >
 > ## Copyrights
 >
-> The licensor gives you permission under its copyrights in this software to run, make changes to, and share copies of and changes to this software, but only for noncommercial uses.
+> The licensor gives you permission under its copyrights in this software to run, <ins>make copies of,</ins> make changes to, and share copies of and changes to this software, but only for noncommercial uses.
 >
 > ## Patents
 >
-> The licensor gives you permission under any patent claims it can license, or becomes able to license, that you would infringe by running, changing, or sharing this software, but only for noncommercial uses.
+> The licensor gives you permission under any patent claims it can license, or becomes able to license, that you would infringe by running, <ins>copying,</ins> changing, or sharing this software, but only for noncommercial uses.
 >
 > ## Notices
 >
@@ -48,7 +44,7 @@ If you have a chance to read through, do share any thoughts to [kyle@kemitchell.
 >
 > ## No Other Rights
 >
-> You may not sublicense or transfer your license for the software to anyone else. The terms of this license do not imply any other licenses.
+> You may not sublicense or transfer your license for the software to anyone else. The terms of this license do not imply any other <del>licenses</del><ins>permission</ins>.
 >
 > ## Patent Defense
 >
