@@ -8,7 +8,9 @@ tags:
 - Noncommercial
 ---
 
-[Heather Meeker](https://heathermeeker.com) and I have long wanted to do new version 2s of the [PolyForm](https://polyformproject.org) licenses.  We now have a draft of a new [Noncommercial](https://polyformproject.org/licenses/noncommercial/) license to share:
+[Heather Meeker](https://heathermeeker.com) and I have long wanted to do new version 2s of the [PolyForm](https://polyformproject.org) licenses, to make them even shorter and easier to read.  We now have a draft of a new [Noncommercial](https://polyformproject.org/licenses/noncommercial/) license to share, down to less than 550 words.
+
+If you have a chance to read through, do share any thoughts to [kyle@kemitchell.com](mailto:kyle@kemitchell.com).  We give these licenses away for free, and put a ton of extra work in to try and make them approachable.  Every fresh pair of eyes and fresh perspective makes the terms better for all involved.
 
 > # PolyForm Noncommercial License 2.0.0-pre.1
 >
