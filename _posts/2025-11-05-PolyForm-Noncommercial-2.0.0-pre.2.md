@@ -12,7 +12,7 @@ Here is the latest draft of the PolyForm Noncommercial license for software, wit
 
 > # PolyForm Noncommercial License 2.0.0-pre.2
 >
-> <https://polyformproject.org/licenses/noncommercial/2.0.0>
+> <https://polyformproject.org/licenses/noncommercial/2.0.0-pre.2>
 >
 > ## Noncommercial Use
 >
