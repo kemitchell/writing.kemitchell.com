@@ -1,4 +1,5 @@
 ---
+date: 2025-11-04T21:26:08-08:00
 title: PolyForm Noncommercial 2.0.0-pre.1
 description: shorter, better noncommercial license terms for software
 series: PolyForm
