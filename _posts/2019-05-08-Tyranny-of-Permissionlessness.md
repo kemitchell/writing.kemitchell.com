@@ -29,7 +29,7 @@ Companies holding such exclusive rights can freely release their software as ope
 
 Having released as open source, firm developers can leverage free infrastructure, like code hosting, testing, and distribution.  The firm can use open source branding, the personal benefits of open source participation, and open source tooling and workflow to recruit developers who like open source.  Outside contributors may even show up with patches now and then.
 
-But outsiders aren't free to operationalize or commercialize the results without approval, permit, or certification of their own, impossible as that maybe to get.  Overall, the system excludes would-be competitors.  But the software is "open source", because open source doesn't reach the dimension where exclusion occurs.
+But outsiders aren't free to operationalize or commercialize the results without approval, permit, or certification of their own, impossible as that may be to get.  Overall, the system excludes would-be competitors.  But the software is "open source", because open source doesn't reach the dimension where exclusion occurs.
 
 ## Limitations
 
