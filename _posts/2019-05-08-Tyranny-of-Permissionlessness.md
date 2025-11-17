@@ -73,7 +73,7 @@ As usual, there are laws that make employers and clients the owners of copyright
 
 Individuals can and do use copyright power to shape the behavior of behemoth firms.  The system isn't perfect.  Enforcement isn't free.  But if large firms had no reason to fear the license choices of two-bit hackers, they wouldn't spend so much time, treasure, and process identifying, avoiding, and complying with them.  Some of their incentive is legal, and some of it is not.  But overall, the effect is leverage.
 
-Apply an open source license, and that leverage is gone.  All else being equal, if you hand a large firm all the rights in your work that you have, and they enjoy exclusive rights that you don't, you have taken a handicap, and invited them to take your code and outcompete you with their advantages.   Odds favored them to begin with.  Now that license terms do, too, you have no defense left, apart from complaining loudly of the obvious unfairness.
+Apply an open source license, and that leverage is gone.  All else being equal, if you hand a large firm all the rights in your work that you have, and they enjoy exclusive rights that you don't, you have taken a handicap and invited them to take your code and outcompete you with their advantages.   Odds favored them to begin with.  Now that license terms do, too, you have no defense left, apart from complaining loudly of the obvious unfairness.
 
 ## Purpose
 
