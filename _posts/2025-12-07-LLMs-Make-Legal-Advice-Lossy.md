@@ -50,7 +50,7 @@ Overshooting on detail is apparently a natural tendency for competent, aspiring 
 
 I have also seen a second, related danger.  I'm less confident I can spot this when it's happening, but I'm developing a hunch that's more often than I first thought.
 
-To summarize a summary is not just to compress an already compressed explanation, but also, often, to reword it.  Choice of words can be important in what I do.  Not inevitably in the cartoonish way those with little experience of the law tend to suppose, where [failing to say exactly the right words produces no magic](https://www.youtube.com/watch?v=Qgr4dcsY-60).  In a more serious way affecting how much advice my clients need, longer-term.
+To summarize a summary is not just to compress an already compressed explanation, but also, often, to reword it.  Choice of words can be important in what I do.  Not inevitably in the cartoonish way those with little experience of the law tend to suppose, where [failing to say exactly the right thing makes no magic](https://www.youtube.com/watch?v=Qgr4dcsY-60).  In a more serious way affecting how much advice my clients need, longer-term.
 
 Many of my clients, maybe most, have heard me say that it's my job to learn their language, not their job to learn mine.  I've found this to be an effective way of signaling that it's on me to write and speak so my clients understand, and on them to complain when they don't and not feel sheepish about it.  It's a framing tool like the [flipped form concept](https://flippedform.com/), but for correspondence, not just drafted operative terms.
 
