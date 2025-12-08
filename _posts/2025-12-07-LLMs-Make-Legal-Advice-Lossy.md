@@ -1,4 +1,5 @@
 ---
+date: 2025-12-07T20:15:33-08:00
 title: LLMs Make Legal Advice Lossy
 description: cheap chatbot summaries take important choices away
 links:
