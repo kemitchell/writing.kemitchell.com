@@ -44,7 +44,7 @@ Getting good at neither coddling nor firehosing clients is a significant part of
 
 Still, we've all seen the kind of run-on, over-inclusive, largely unhelpful advice that comes from lawyers who "dump" the law as they learned it, or in the raw form they recently dug it out of the books, without any tailoring to their reader or the problem.  This is what a lot of law-student and new-lawyer writing looks like.
 
-Overshooting on detail is apparently a natural tendency for competent, aspiring minds learning the field.  Now we've given giving clients the tools to overcompensate by <em>under</em>shooting.  We've automated it, hyped it, and subsidized it.
+Overshooting on detail is apparently a natural tendency for competent, aspiring minds learning the field.  Now we've given clients the tools to overcompensate by <em>under</em>shooting.  We've automated it, hyped it, and subsidized it.
 
 ## Word Choice
 
