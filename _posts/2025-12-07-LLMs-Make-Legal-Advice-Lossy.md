@@ -70,6 +70,6 @@ None of this is to say it's all bad.  There is a pressure coming here that I fee
 
 I blog in sections.  My e-mails often come with bold-faced headings.  I do a lot of outlining.  Increasingly chat-, text-, and tweet-driven workstyles are veering ever further away from my preferred dose and concentration of prose.  And yes, I'm getting older.
 
-I see some strong if somewhat hand-wavy arguments that slower, longer, and careful writing better suit at least some of the kinds of work clients pay me to do.  But in the same way it's on me to write so clients understand, there's a strong case it should be on me to write more like they would prefer to read, too.
+I see some strong if somewhat hand-wavy arguments that slower, longer, and careful writing better suit at least some of the kinds of work clients pay me to do.  But in the same way it's on me to write so clients understand, there's a strong case it should be on me to write more like they would prefer to read, as well.
 
 Fortunately, while the dramas of this new lawyer-client dynamic interest me well enough, I don't think they point to any kind of newfangled remedy.  We ought to be on the level.  If clients are in positions that drive them to interpose a chatbot between us, out of ebullient techno optimism or simple time crunch, I should be making it clear that's something they should unhesitatingly tell me.  I should be prompting them to say so.
