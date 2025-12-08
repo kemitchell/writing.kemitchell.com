@@ -42,7 +42,7 @@ It is a totally normal part of a functioning lawyer's day to mentally scale leve
 
 Getting good at neither coddling nor firehosing clients is a significant part of the difference between being a good law student and being a good lawyer.  If you learn all the rules, exceptions, and citations and stop there, you are at best fully qualified to practice law badly.  Practicing law is often partly teaching law, but unless the job is law professor, rarely are we called upon to teach anybody everything on any particular point.  Hiring a lawyer is not attending law school secondhand in installments.
 
-We've all seen the kind of run-on, over-inclusive, largely unhelpful advice that comes from lawyers who "dump" the law as they learned it, or in the raw form they recently dug it out of the books, without any tailoring to their reader or the problem.  This is what a lot of law-student and new-lawyer writing looks like.
+Still, we've all seen the kind of run-on, over-inclusive, largely unhelpful advice that comes from lawyers who "dump" the law as they learned it, or in the raw form they recently dug it out of the books, without any tailoring to their reader or the problem.  This is what a lot of law-student and new-lawyer writing looks like.
 
 Overshooting on detail is apparently a natural tendency for competent, aspiring minds learning the field.  Now we've given giving clients the tools to overcompensate by <em>under</em>shooting.  We've automated it, hyped it, and subsidized it.
 
