@@ -27,8 +27,6 @@ LLMs give my clients a silent veto over these decisions.  Prevailing trends towa
 
 Based on prior, pre-LLM experience with expertise, I suspect using a chatbot to do this looks and intuitively _feels_ different from using an LLM to flesh a subject out.  Few remain surprised now when prompting an LLM too hard summons out inscrutable gobbledygook littered with allusions or even citations to nonexistent authorities, thanks to [the headline-grabbing lawyers who've fallen in this hole by the pageful](https://www.damiencharlotin.com/hallucinations/).  But I'm not aware of any similar click-grabbing parables for the dangers of chatbot summarization, unless you squint and count the poor souls who've convinced themselves they're geniuses or prophets.  Given the abstractness involved---we're talking about a general pattern with the process of generalization here---I wonder if there could be such a story.
 
-Meanwhile, I should admit some concern that summaries not of my choice will nonetheless be attributed to me.  I worry that when my clients "trade e-mails with a lawyer", the system they've put in between us becomes invisible.  I wonder how much of my audience has had the experience of belaboring a piece of writing, then feeding it to a chatbot for a summary and reading the result.
-
 ## For Instance
 
 Having made that rather lofty generalization-of-generalities point, I feel a sudden urge to touch ground again.  Perhaps that's the kind of instinct that's helping keep some of us sane these days.
