@@ -62,7 +62,7 @@ When a client uses a chatbot to effectively rewrite my guidance, I lose control 
 
 I've seen this bite in particular where a client takes a summary without telling me, advances the conversation, and then misunderstands a later message.  All of a sudden, it turns out they weren't following along on all the levels I'd assumed.  They weren't getting everything they paid for, either.
 
-If I was going deeper or longer than suited their needs, that should have been said, and I should have adjusted, potentially reducing their bill.  As they fell deeper behind on the lingo than anticipated, I can only expect they hit their limit sooner, potentially inducing yet more summarization on the sly.
+If I was going deeper or longer than suited their needs, that should have been said, and I should have adjusted, potentially reducing their bill.  As they fell deeper behind on the lingo then anticipated, I can only expect they hit their limit sooner, potentially inducing yet more summarization on the sly.
 
 ## Still
 
@@ -70,6 +70,6 @@ None of this is to say it's all bad.  There is a pressure coming here that I fee
 
 I blog in sections.  My e-mails often come with bold-faced headings.  I do a lot of outlining.  Increasingly chat-, text-, and tweet-driven workstyles are veering ever further away from my preferred dose and concentration of prose.  And yes, I'm getting older.
 
-I see some strong if somewhat hand-wavy arguments that slower, longer, and careful writing better suit at least some of the kinds of work clients pay me to do.  But in the same way it's on me to write so clients understand, there's a strong case it should be on me to write more like they would prefer to read, as well.
+I see some strong if somewhat hand-wavy arguments that slower, longer, and careful writing better suit at least some of the kinds of work clients pay me to do.  But in the same way it's on me to write so clients understand, there's a strong case it should be on me to write more like what they'd prefer to read, as well.
 
 Fortunately, while the dramas of this new lawyer-client dynamic interest me well enough, I don't think they point to any kind of newfangled remedy.  I need to keep pushing myself, and setting clients up to push me, toward plainer, shorter, better organized writing.  We also need to stay on the level.  If clients are in positions that drive them to interpose chatbots between us, whether out of verve for the tech or simply under time crunch, I should be making it clear that's something they should unhesitatingly tell me.  I should be prompting them to say so.
