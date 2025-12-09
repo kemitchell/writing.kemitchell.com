@@ -2,7 +2,7 @@
 date: 2025-12-07T20:15:33-08:00
 title: LLMs Make Legal Advice Lossy
 description: cheap chatbot summaries take important choices away
-brief: Clients can use LLMs to compress my advice into summaries without telling me. Pressure to keep writing short and plain is good, but they're losing my careful choice of how much to generalize rules and realities. They're also interrupting how I choose to teach and reinforce useful terminology.
+brief: Clients can use LLMs to compress my advice into summaries without telling me. Pressure to keep writing short and plain is good, but they're losing my careful choice of how much to generalize rules and realities. They're also interrupting how I choose to teach and reinforce useful vocabulary.
 tags:
 - AI
 - Law Practice
