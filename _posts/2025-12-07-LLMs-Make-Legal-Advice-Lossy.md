@@ -35,7 +35,7 @@ Take the basic rule of copyright ownership that authors own the rights in their 
 
 Even that more practical heuristic lays traps for unwary clients when exceptions matter.  Is the client dealing with contracts doing one of the kinds of jobs that can be "work made for hire" under the [statutory definition](https://www.govinfo.gov/app/details/USCODE-2024-title17/USCODE-2024-title17-chap1-sec101)?  Is telling the client about "ownership" without mentioning [some creators' rights to terminate old deals after 35 years](https://www.npr.org/sections/therecord/2013/09/12/221750447/taking-back-funkytown-songwriters-prepare-for-a-custody-battle) heaping on irrelevant trivia or pointing out a critical wrinkle?  Do we need to talk exceptions just under current law, for new work, or do we need to consider old rules for older works, as well?
 
-Not every legal question points to a decision tree as knotted as this one.  But this one's not an exceptionally crooked specimen, either.  The law can do far worse, then flock a few branches with uncertainty, besides.
+Not every legal question points to a decision tree as knotted as this one.  But this one's not an especially crooked specimen, either.  The law can do far worse, then flock a few branches with uncertainty, besides.
 
 It is a totally normal part of a functioning lawyer's day to mentally scale levels of abstraction like this, picking and choosing where to stand the client, what to point at, and what to leave out.  After all, every irrelevant nuance, variation, and aberration included costs money to write up, eats client time to read, and drags the convo closer to the reader's human limit, where they get overwhelmed with new info and everyone has to double back.
 
