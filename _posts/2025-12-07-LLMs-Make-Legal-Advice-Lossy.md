@@ -62,7 +62,7 @@ When a client uses a chatbot to effectively rewrite my guidance, I lose control 
 
 I've seen this bite in particular where a client takes a summary without telling me, advances the conversation, and then misunderstands a later message.  All of a sudden, it turns out they weren't following along on all the levels I'd assumed.  They weren't getting everything they paid for, either.
 
-If I was going deeper or longer than suited their needs, that should have been said, and I should have adjusted, potentially reducing their bill.  As they fell deeper behind on the lingo then anticipated, I can only expect they hit their limit sooner, potentially inducing yet more summarization on the sly.
+If I was going deeper or longer than suited their needs, that should have been said, and I should have adjusted, potentially reducing their bill.  As they fell deeper behind on the lingo than anticipated, I can only expect they hit their limit sooner, potentially inducing yet more summarization on the sly.
 
 ## Still
 
