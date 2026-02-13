@@ -142,7 +142,7 @@ These decisions have also been subjects of some of the most depressingly lazy an
 
 ### How to Sue to Fight Getting Deported
 
-The Supreme Court's first, [April 7 decision](https://www.supremecourt.gov/opinions/24pdf/24a931_2c83.pdf) came in a case before before [James Boasberg](https://en.wikipedia.org/wiki/James_Boasberg), 62, appointed by George W. Bush to the superior court in DC in 2002, then by Obama to the federal district court for DC in 2011, who made news for ordering the government to turn the planes back to the USA.  The Supreme Court's order runs only four pages, not counting the separate, individual opinions tacked onto the back of it.  My takeaways were:
+The Supreme Court's first, [April 7 decision](https://www.supremecourt.gov/opinions/24pdf/24a931_2c83.pdf) came in a case before [James Boasberg](https://en.wikipedia.org/wiki/James_Boasberg), 62, appointed by George W. Bush to the superior court in DC in 2002, then by Obama to the federal district court for DC in 2011, who made news for ordering the government to turn the planes back to the USA.  The Supreme Court's order runs only four pages, not counting the separate, individual opinions tacked onto the back of it.  My takeaways were:
 
 1.  The deportees brought their case to the Supreme Court in the wrong legal way.  They should have used "habeas corpus", which we'll get to later.
 
