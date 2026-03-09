@@ -5,7 +5,6 @@ description: how to say "irrevocable" like you mean it when you just revoked eve
 series: First Reads
 tags:
 - Open Gaming
-- Licensing
 - Copyright
 - Role Playing Games
 ---

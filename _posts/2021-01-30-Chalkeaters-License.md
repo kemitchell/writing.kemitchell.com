@@ -3,7 +3,6 @@ title: The Chalkeaters' License
 description: effective folk licensing in the wild
 date: Sat 30 Jan 2021 04:14:37 PM PST
 tags:
-- Licensing
 - Noncommercial
 - Art
 ---

@@ -4,7 +4,6 @@ description: essential concepts and vocabulary for cross-license collaboratives
 layout: post
 series: Cross-License Collaboratives
 tags:
-- Licensing
 - Contributor Licensing
 ---
 

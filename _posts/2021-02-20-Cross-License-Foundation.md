@@ -4,7 +4,6 @@ description: decentralized stewardship of collaborative projects
 brief: Many collaborative projects treat license choices like once-and-forever commitments.  A new legal tool brings flexibility back to collaborative project licensing, without the costs of centralized foundations.
 tags:
 - Open Source
-- Licensing
 - Contributor Licensing
 ---
 

@@ -4,7 +4,6 @@ description: a scene stalwart turns "ethical"
 tags:
 - Open Source
 - Free Software
-- Licensing
 - Ethics
 - Ethics Licenses
 ---
