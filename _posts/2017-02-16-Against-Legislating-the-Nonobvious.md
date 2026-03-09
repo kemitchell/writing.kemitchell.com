@@ -4,7 +4,7 @@ description: short-order feedback on the default contributor license in GitHub's
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 ---
 
 GitHub have published [a draft of new terms of service for GitHub.com and related services][draft].  The draft has significant changes from [the current terms][current].  Especially the [default contributor license part][license]:

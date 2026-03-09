@@ -3,7 +3,7 @@ title: Null Value
 description: against demise of the hacker public license
 layout: post
 tags:
-- Licensing
+- Software Licensing
 - Open Source
 - Policy
 ---

@@ -3,7 +3,7 @@ title: Universal Share-Alike License
 description: copyleft across different kinds of work
 tags:
 - Copyleft
-- Licensing
+- Software Licensing
 date: 2019-11-22T10:00-08:00
 ---
 

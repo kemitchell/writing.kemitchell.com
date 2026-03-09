@@ -4,7 +4,7 @@ description: it's time to retire thirty-year-old academic licenses
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Intellectual Property
 ---
 

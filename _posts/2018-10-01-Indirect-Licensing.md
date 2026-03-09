@@ -5,7 +5,7 @@ layout: post
 series: Killjoy
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 ---
 
 Flying blind, wondering how much your software's used?  Want a roster of users, as a lifeline, for material support?  Looking to turn your open source work into employment at a company in the field, but don't know which one?  Want to sell licenses to enormous corporations, rather than give them away?

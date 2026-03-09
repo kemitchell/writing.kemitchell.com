@@ -7,7 +7,7 @@ tags:
 - Blue Oak Council
 - Open Source
 - Education
-- Licensing
+- Software Licensing
 date: 2019-10-16T17:45Z
 ---
 

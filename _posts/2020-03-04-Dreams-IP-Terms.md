@@ -3,7 +3,7 @@ title: Dreams Creates a Commons?
 description: a video game for making video games
 tags:
 - Computer Games
-- Licensing
+- Software Licensing
 ---
 
 [Dreams](https://en.wikipedia.org/wiki/Dreams_(video_game)) is a new game for PlayStation 4 that gives players an approachable, interactive way to build three-dimensional games of their own.  It ships with a limited built-in campaign, but that guided experience serves largely to teach the game's toolkit.  Them main attraction is a kind of built-in app store slash asset store experience, through which gamers can play and share the creations of other "dreamers", as well as change and build upon them.

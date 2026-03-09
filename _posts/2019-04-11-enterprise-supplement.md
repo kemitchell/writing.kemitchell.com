@@ -5,7 +5,7 @@ layout: post
 tags:
 - Business Models
 - Forms
-- Licensing
+- Software Licensing
 - Open Source
 ---
 

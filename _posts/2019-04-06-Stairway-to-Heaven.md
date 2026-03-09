@@ -3,7 +3,7 @@ title: Stairway to Heaven
 description: repairing broken steps to software license Nirvana
 layout: post
 tags:
-- Licensing
+- Software Licensing
 - Open Source
 - Business Models
 ---

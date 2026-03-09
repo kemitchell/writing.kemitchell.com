@@ -4,7 +4,7 @@ description: Text and my first thoughts on a new, non-open source form license
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Drafting
 ---
 

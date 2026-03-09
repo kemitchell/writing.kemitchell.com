@@ -4,7 +4,7 @@ description: new name, new terms, same great idea
 date: Tue 26 May 2020 05:00:08 PM PDT
 tags:
 - Copyleft
-- Licensing
+- Software Licensing
 - Open Source
 ---
 

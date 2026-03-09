@@ -6,7 +6,7 @@ tags:
 - Code of Conduct
 - Drafting
 - Governance
-- Licensing
+- Software Licensing
 - Software
 - Software as a Service
 ---

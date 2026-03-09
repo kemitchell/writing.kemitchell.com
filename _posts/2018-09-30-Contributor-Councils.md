@@ -4,7 +4,7 @@ description: relicensing without foundation, BDFL, or unanimity
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Governance
 ---
 

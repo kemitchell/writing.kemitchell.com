@@ -4,7 +4,7 @@ description: how open licensing blew its biggest opportunity of the 2010s
 layout: post
 brief: I summarize the missed opportunity that was MongoDB's Server Side Public License, and how it was missed.
 tags:
-- Licensing
+- Software Licensing
 - Open Source
 - SSPL
 ---

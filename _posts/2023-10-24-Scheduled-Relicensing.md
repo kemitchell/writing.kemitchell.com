@@ -5,7 +5,7 @@ description: decouple license rules from how we relax them
 brief: Separating initial license rules from terms for changing those rules later will improve development and reuse of both. Here's a form just for scheduling license changes.
 tags:
 - Software
-- Licensing
+- Software Licensing
 - Forms
 - Business Models
 - Delayed Relicensing

@@ -3,7 +3,7 @@ title: Tyranny of Permissionlessness
 description: open source's narrow focus further empowers those with other ways to exclude
 layout: post
 tags:
-- Licensing
+- Software Licensing
 - Open Source
 ---
 

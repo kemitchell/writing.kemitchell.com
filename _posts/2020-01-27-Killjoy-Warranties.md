@@ -5,7 +5,7 @@ layout: post
 series: Killjoy
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 ---
 
 Open source software projects should come with strong warranties. But those warranties should come from the companies relying on the projects, not developers, whether the companies contribute or not.

@@ -3,7 +3,7 @@ title: Open Gaming Deja Vu
 description: a clear-eyed view of open from 1999
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Trademark
 - Copyright
 - Role Playing Games

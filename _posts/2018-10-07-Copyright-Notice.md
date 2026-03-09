@@ -4,7 +4,7 @@ description: "first stab at a pragmatic best-practice guide"
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 ---
 
 I'm tired of watching open software developers wring hands, speculate, and confuse themselves about copyright notices for MIT- and BSD-style license terms.

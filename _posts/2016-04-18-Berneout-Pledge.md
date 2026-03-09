@@ -4,7 +4,7 @@ description: Sucks less than CLAs!
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 ---
 
 A whole new generation of open source programmers has snuck up behind me.  They weren't part of the great licensing tiffs of the '90s and '00s.  They never dealt with foundation-administered projects and their rigors.  They're building careers and reputations and consultancies and philosophies with nary a thought to intellectual property or licensing.  They've never read the [Open Source Definition](https://opensource.org/osd), and when you mention it, they don't give a damn.  Is that in the [GitHub help pages](https://opensource.org/osd) somewhere?  No, it isn't.

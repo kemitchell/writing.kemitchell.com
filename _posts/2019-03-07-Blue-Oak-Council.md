@@ -6,7 +6,7 @@ series: Blue Oak Council
 tags:
 - Nonprofits
 - Intellectual Property
-- Licensing
+- Software Licensing
 ---
 
 I'm very happy to announce of Blue Oak Council, a new organization for which I'm inaugural executive director.  The Council's website, [blueoakcouncil.org](https://blueoakcouncil.org), spells out its mission:

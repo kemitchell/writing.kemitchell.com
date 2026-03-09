@@ -5,7 +5,7 @@ layout: post
 series: Killjoy
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 brief: If users rarely look past your permissive license to your plea for funding, yank the license out of your project, make users go looking to find it, and show them your plea where they do.
 ---
 

@@ -5,7 +5,7 @@ layout: post
 tags:
 - SSPL
 - Open Source
-- Licensing
+- Software Licensing
 - Copyleft
 - Open Source Initiative
 ---

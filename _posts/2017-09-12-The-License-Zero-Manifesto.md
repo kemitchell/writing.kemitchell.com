@@ -3,7 +3,7 @@ title: The License Zero Manifesto
 description: sustainable software in the open
 layout: post
 tags:
-- Licensing
+- Software Licensing
 - Open Source
 - License Zero
 ---

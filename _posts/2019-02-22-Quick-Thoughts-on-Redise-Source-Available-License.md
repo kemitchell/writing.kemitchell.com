@@ -3,7 +3,7 @@ title: First Thoughts on the Redis Source Available License Agreement
 description: evident demand for license rules on API boundaries
 layout: post
 tags:
-- Licensing
+- Software Licensing
 - Open Source
 - Copyleft
 - Open Core

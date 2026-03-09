@@ -4,7 +4,7 @@ title: Toward PolyForm Shield Version 2
 description: streamline and revise for easier reading
 series: PolyForm
 tags:
-- Licensing
+- Software Licensing
 - Software
 - Standard Legal Terms
 - Defensive Licenses

@@ -4,7 +4,7 @@ description: a fast, easy, and free way to secure scientific methods and finding
 layout: post
 tags:
 - Science
-- Licensing
+- Public Domain
 - Patent
 ---
 

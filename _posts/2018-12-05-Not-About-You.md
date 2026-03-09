@@ -4,7 +4,7 @@ description: a minimal, functionalist view of open source
 layout: post
 tags:
 - Governance
-- Licensing
+- Software Licensing
 - Open Source
 ---
 

@@ -5,7 +5,7 @@ layout: post
 series: Killjoy
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - DMCA
 ---
 

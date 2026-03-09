@@ -3,7 +3,7 @@ title: Starting Noncommercial
 description: famous projects that started noncommercial
 tags:
 - Software Industry
-- Licensing
+- Software Licensing
 - Noncommercial
 ---
 

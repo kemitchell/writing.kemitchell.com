@@ -4,7 +4,7 @@ description: Why are the last PolyForm licenses taking so long?
 series: PolyForm
 date: Sat 04 Apr 2020 11:58:26 PM PDT
 tags:
-- Licensing
+- Software Licensing
 - Noncommercial
 - Software
 - Standard Legal Terms

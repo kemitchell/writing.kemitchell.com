@@ -4,7 +4,7 @@ title: AWS Contributor Licensing Blurb
 description: another mutation from the cauldron of CLA angst
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Contributor Licensing
 ---
 

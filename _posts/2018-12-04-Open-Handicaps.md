@@ -4,7 +4,7 @@ description: Did permissive used to advantage open work like copyleft does today
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Copyleft
 - Funding
 ---

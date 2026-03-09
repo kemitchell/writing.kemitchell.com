@@ -4,7 +4,7 @@ description: towards constructive collaboration across practice communities
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Standards
 - Patent
 - Copyleft

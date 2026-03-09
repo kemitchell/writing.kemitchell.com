@@ -4,7 +4,7 @@ description: collecting points and counterpoints
 tags:
 - Open Source
 - Free Software
-- Licensing
+- Software Licensing
 - Ethics
 - Ethics Licenses
 ---

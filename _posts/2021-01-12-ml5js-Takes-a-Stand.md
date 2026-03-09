@@ -4,7 +4,7 @@ description: a code of conduct with teeth, in the wild
 date: Tue 12 Jan 2021 03:56:51 PM PST
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Ethics
 - Ethics Licenses
 ---

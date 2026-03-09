@@ -3,7 +3,7 @@ title: Heather Meeker on "Ethos Licensing"
 description: free and open is ethos licensing, too
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Ethics
 - Politics
 - Copyright Misuse

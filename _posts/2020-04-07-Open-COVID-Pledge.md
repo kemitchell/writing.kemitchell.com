@@ -4,7 +4,6 @@ description: public licensing for pandemic response
 date: Tue 07 Apr 2020 08:14:46 PM PDT
 tags:
 - COVID-19
-- Licensing
 - Patent
 - Copyright
 ---

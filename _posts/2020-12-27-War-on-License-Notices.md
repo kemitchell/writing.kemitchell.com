@@ -3,7 +3,7 @@ title: The War on License Notices
 description: managing uncertainty at the fringes of open licensing
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 ---
 
 In law, as in life, some things work without us really knowing how.  We do our best, say our prayers, and soldier on.  So it goes with notices and disclaimers in public software licenses, from old-school classics like [MIT](https://spdx.org/licenses/MIT.html) and [GPL](https://www.gnu.org/licenses/gpl-3.0.html) to state-of-the-art forms like [Blue Oak](https://blueoakcouncil.org/license/1.0.0) and [Parity](https://paritylicense.com).

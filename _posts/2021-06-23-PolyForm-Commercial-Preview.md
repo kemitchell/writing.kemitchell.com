@@ -4,7 +4,7 @@ description: announcing PolyForm Commercial, with a call for help
 series: PolyForm
 brief: PolyForm Commercial's bringing standardization to business-to-business software licensing, with a mix of terms and tech.  We need eyeballs and feedback!
 tags:
-- Licensing
+- Software Licensing
 - Software
 - Standard Legal Terms
 ---

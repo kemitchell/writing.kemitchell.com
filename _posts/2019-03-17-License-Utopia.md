@@ -4,7 +4,7 @@ description: just four licenses for all of open source
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Copyleft
 - Standard Legal Terms
 ---

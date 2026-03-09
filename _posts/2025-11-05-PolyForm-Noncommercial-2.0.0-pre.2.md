@@ -3,7 +3,7 @@ title: PolyForm Noncommercial 2.0.0-pre.2
 description: shorter, better noncommercial license terms for software
 series: PolyForm
 tags:
-- Licensing
+- Software Licensing
 - Software
 - Noncommercial
 ---

@@ -4,7 +4,7 @@ description: making money by choosing what to give away
 layout: post
 tags:
 - Business Models
-- Licensing
+- Software Licensing
 - Open Source
 - SSPL
 ---

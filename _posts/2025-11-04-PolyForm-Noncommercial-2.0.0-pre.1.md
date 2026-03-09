@@ -5,7 +5,7 @@ description: shorter, better noncommercial license terms for software
 series: PolyForm
 retrospect: Unfortunately, I accidentally left some edits out of this draft. A new post with the latest draft is [here](/2025/11/05/PolyForm-Noncommercial-2.0.0-pre.2).
 tags:
-- Licensing
+- Software Licensing
 - Software
 - Noncommercial
 ---

@@ -3,7 +3,7 @@ title: PolyForm Defensive is Now PolyForm Shield
 description: feedback strikes again
 series: PolyForm
 tags:
-- Licensing
+- Software Licensing
 - Software
 - Standard Legal Terms
 - Defensive Licenses

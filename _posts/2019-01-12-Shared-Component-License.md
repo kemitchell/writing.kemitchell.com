@@ -4,7 +4,7 @@ description: first shot at a short, plain license in the vein of Mongo's SSPL
 layout: post
 tags:
 - Copyleft
-- Licensing
+- Software Licensing
 - Open Source
 - SSPL
 ---

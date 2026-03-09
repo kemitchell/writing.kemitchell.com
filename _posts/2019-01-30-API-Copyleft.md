@@ -4,7 +4,7 @@ description: functionality, interfaces, and line drawing in a new copyleft parad
 layout: post
 tags:
 - Copyleft
-- Licensing
+- Software Licensing
 - Open Source
 - SSPL
 ---

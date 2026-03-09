@@ -4,7 +4,7 @@ description: I am he as you are he as you are me and we are all on GitHub.
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 ---
 
 There is frustration with the term "open source".  New developers aren't steeped in the history of the Open Source Definition, the semi-schism with Free Software, the SCO circus, or MS FUD.  Those who do remember seem ever more out of touch, lurking on their Mailmans and Bugzillas, hoarding contributor license agreements, and coding in sexless languages with all the industry buzz of used Tupperware.  But "open source" lingers on, divorced from the context that gave it first meaning, as a rallying cry and identity for all those people and practices---an increasingly, perhaps bewilderingly, diverse community.

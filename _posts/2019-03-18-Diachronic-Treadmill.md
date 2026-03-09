@@ -4,7 +4,7 @@ description: automatically reward supporters with copyleft exceptions
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 ---
 
 > The lack of evidence for a relation between objective circumstances and reported well-being has given rise to the concept of a [hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill), on which humans' happiness remains stationary, despite efforts or interventions to advance it.  The metaphor is also interpreted to mean that humans' happiness will decline if their material circumstances remain constant. --- [Shane Frederick](https://som.yale.edu/faculty/shane-frederick)

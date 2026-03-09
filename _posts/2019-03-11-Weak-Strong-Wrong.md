@@ -4,7 +4,7 @@ description: towards selective or consistent copyleft
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Copyleft
 ---
 

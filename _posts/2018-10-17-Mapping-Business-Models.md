@@ -4,7 +4,7 @@ description: crosspost from the License Zero blog
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Funding
 ---
 

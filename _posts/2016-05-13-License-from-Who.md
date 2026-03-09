@@ -4,7 +4,7 @@ description: Safe open-source licensing means more than a LICENSE file.
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Provenance
 ---
 

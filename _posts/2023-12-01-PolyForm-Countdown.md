@@ -6,7 +6,7 @@ series: PolyForm
 doublewide: true
 tags:
 - Software
-- Licensing
+- Software Licensing
 - Forms
 - Delayed Relicensing
 - Business Models

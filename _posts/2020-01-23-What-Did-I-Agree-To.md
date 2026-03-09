@@ -4,7 +4,7 @@ description: Marc Jones on oddities in OSI-approved licenses
 date: 2020-01-24T06:29Z
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Open Source Initiative
 ---
 

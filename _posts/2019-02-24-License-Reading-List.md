@@ -4,7 +4,7 @@ description: a comprehensive curriculum for new license wonks
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Teaching
 ---
 

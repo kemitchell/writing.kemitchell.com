@@ -5,7 +5,7 @@ layout: post
 tags:
 - Open Source
 - Free Software
-- Licensing
+- Software Licensing
 - Open Source Initiative
 - Debian
 ---

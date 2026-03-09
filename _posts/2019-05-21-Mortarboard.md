@@ -4,7 +4,7 @@ description: graduate to new public license terms
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Business Models
 ---
 

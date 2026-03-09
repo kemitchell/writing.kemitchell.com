@@ -4,7 +4,7 @@ description: the pain and confusion of common open licenses, roughly quantified
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 ---
 
 How does business perceive specific form software public licenses in Q1 2017?  From this lawyer's point of view:

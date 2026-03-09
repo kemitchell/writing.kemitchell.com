@@ -5,7 +5,7 @@ layout: post
 series: Line by Line
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 ---
 
 [The MIT License][MIT] is the most popular open-source software

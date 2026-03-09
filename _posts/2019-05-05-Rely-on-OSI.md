@@ -4,7 +4,7 @@ description: activist approval does not track practical needs
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Open Source Initiative
 ---
 

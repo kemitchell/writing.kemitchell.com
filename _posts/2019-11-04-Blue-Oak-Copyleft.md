@@ -8,7 +8,7 @@ tags:
 - Blue Oak Council
 - Copyleft
 - Intellectual Property
-- Licensing
+- Software Licensing
 ---
 
 [Blue Oak Council](https://blueoakcouncil.org) recently published a new [short guide to copyleft](https://blueoakcouncil.org/copyleft), complete with [lists of copyleft licenses grouped into four functional "families"](https://blueoakcouncil.org/copyleft#copyleft-families), as a webpage and as machine-readable data files.

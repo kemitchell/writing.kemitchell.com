@@ -4,7 +4,7 @@ description: first release of API-boundary copyleft form
 layout: post
 tags:
 - Copyleft
-- Licensing
+- Software Licensing
 - Open Source
 ---
 

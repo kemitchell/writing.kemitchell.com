@@ -4,7 +4,7 @@ description: Nintendo purges Mario from Dreams
 date: Tue 24 Mar 2020 07:12:56 PM PDT
 tags:
 - Computer Games
-- Licensing
+- Software Licensing
 ---
 
 As [gamesindustry.biz reports](https://www.gamesindustry.biz/articles/2020-03-23-nintendo-presses-sony-to-remove-mario-creations-from-dreams), Nintendo, maker of the Mario video games, has got Mario-themed content removed from Dreams, a Sony game that gives players a ready-made toolkit to build games and other interactive experiences of their own, for themselves and other Dreams players.

@@ -4,7 +4,7 @@ description: Changes to Facebook's patent grant for React, Flux, Immutable, &c.
 layout: post
 tags:
 - Patent
-- Licensing
+- Software Licensing
 - Open Source
 ---
 

@@ -4,7 +4,6 @@ description: unique compilation of arguments and dynamics
 layout: post
 tags:
 - Software
-- Licensing
 - Patent
 ---
 

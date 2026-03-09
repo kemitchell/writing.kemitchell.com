@@ -4,7 +4,7 @@ description: another everything-but-SaaS license
 date: Sat 04 Apr 2020 01:27:40 PM PDT
 series: Line by Line
 tags:
-- Licensing
+- Software Licensing
 - Licenses
 - Open Source
 ---

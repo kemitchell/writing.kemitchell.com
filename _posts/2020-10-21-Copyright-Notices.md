@@ -5,7 +5,7 @@ date: Wed 21 Oct 2020 12:47:29 PM PDT
 tags:
 - Open Source
 - Copyright
-- Licensing
+- Software Licensing
 ---
 
 Scott Peterson, an open-savvy lawyer at Red Hat, recently published ["How should open source projects handle copyright notices?](https://opensource.com/article/20/10/copyright-notices-open-source-software).  Upshot: mostly, they shouldn't bother.

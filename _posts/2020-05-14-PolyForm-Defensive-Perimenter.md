@@ -3,7 +3,7 @@ title: PolyForm Noncompete Licenses
 description: two new, long-awaited forms
 series: PolyForm
 tags:
-- Licensing
+- Software Licensing
 - Software
 - Standard Legal Terms
 ---

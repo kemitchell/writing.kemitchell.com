@@ -5,7 +5,6 @@ date: Tue 31 Mar 2020 12:01:42 AM PDT
 series: Line by Line
 brief: A multimedia, copyleft license, for a limited time only, to respond to COVID-19.
 tags:
-- Licensing
 - Copyleft
 - Open Source
 - Open Hardware

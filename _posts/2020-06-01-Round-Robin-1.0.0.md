@@ -4,7 +4,7 @@ description: ready for the field
 date: Mon 01 Jun 2020 11:41:59 AM PDT
 tags:
 - Copyleft
-- Licensing
+- Software Licensing
 - Open Source
 ---
 

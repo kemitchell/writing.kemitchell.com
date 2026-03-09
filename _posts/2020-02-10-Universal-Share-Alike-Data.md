@@ -4,7 +4,7 @@ description: limits on effective data copyleft
 tags:
 - Copyleft
 - Copyright
-- Licensing
+- Software Licensing
 - Open Data
 - Open Source
 ---

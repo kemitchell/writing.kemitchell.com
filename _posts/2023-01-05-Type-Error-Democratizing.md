@@ -4,7 +4,7 @@ title: "Type Error: “Democratizing”"
 description: runaway sales speak hits the curb again
 tags:
 - Rhetoric
-- Licensing
+- Software Licensing
 brief: Circumstances remind us that “democratizing” tech as open source also means handing it to autocrats.
 ---
 

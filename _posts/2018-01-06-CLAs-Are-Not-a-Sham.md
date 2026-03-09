@@ -4,7 +4,7 @@ description: licensing with friends, improved and improving
 layout: post
 tags:
 - Open Source
-- Licensing
+- Software Licensing
 - Contributor Licensing
 ---
 

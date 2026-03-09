@@ -3,7 +3,7 @@ date: 2023-12-16T16:15:46-08:00
 title: Copyleft Intolerance and the Defining-Open Mind Trap
 description: forgetting licensing history past, we fail to repeat our successes
 tags:
-- Licensing
+- Software Licensing
 - Open Source
 - Free Software
 - Copyleft
