@@ -2,7 +2,7 @@
 date: 2026-03-16T19:17:53-07:00
 title: Open Community License v1
 series: Line by Line
-mnemonic: an unusual non-commercial hardware-software combo license from 3D printing
+description: an unusual non-commercial hardware-software combo license from 3D printing
 tags:
 - Open Hardware
 - Licenses
