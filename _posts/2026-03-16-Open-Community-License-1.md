@@ -9,7 +9,7 @@ tags:
 - 3D Printing
 ---
 
-Last year, [Prusa Research](https://www.prusa3d.com/), a Czechia-based manufacturer of 3D printers, drafted and adopted a new license for parts of its CORE line of not-entirely-open products, meant to take on the increasingly dominant and increasingly restrictive [Bambu Lab](https://bambulab.com).
+Last year, [Prusa Research](https://www.prusa3d.com/), a Czechia-based manufacturer of 3D printers, drafted and adopted [a new license](https://github.com/OpenCommunityLicence/OpenCommunityLicence/) for parts of its CORE line of not-entirely-open products, meant to take on the increasingly dominant and increasingly restrictive [Bambu Lab](https://bambulab.com).
 
 ## The License Text
 
