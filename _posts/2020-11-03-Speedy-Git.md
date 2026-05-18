@@ -25,6 +25,8 @@ Fortunately, it's possible to make commits to Git repositories without any commi
 
 Now you can run `git empty` whenever you'd otherwise run `git commit`.  Git won't open your editor or ask you for a commit message.  It will create your commit without one, but include all the other usual metadata, like committer, author, date, and prior commit hash.  To amend a commit with no commit message, just run `git amend`.
 
+Note that as of Git 2.17, you [can now use `--allow-empty-message` with `git rebase`, as well](https://github.com/git/git/blob/master/Documentation/RelNotes/2.17.0.adoc?plain=1#L20).
+
 I do most of my plain-text editing in Vim, so it's handy to set up some keyboard shortcuts there, too:
 
 ```
