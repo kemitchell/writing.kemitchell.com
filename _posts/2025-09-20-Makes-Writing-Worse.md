@@ -9,7 +9,7 @@ tags:
 - Drafting
 ---
 
-You've hired a lawyer to write a contract for you.  You can slip one section into their draft at the start, to try and nudge them toward writing plainer and clearer.  What do you put it in?
+You've hired a lawyer to write a contract for you.  You can slip one section into their draft at the start, to try and nudge them toward writing plainer and clearer.  What do you put in?
 
 Trade places with me now.  You're the lawyer.  You want to encourage more people who aren't lawyers to do their own legal drafting and get away with it.  Perhaps you could publish some boilerplate they could copy into their homebrew terms, to help them work more reliably with judges.  What do you put in there about writing style?
 
