@@ -1,5 +1,6 @@
 ---
 title: Sans-Serif Fonts for Contracts
+brief: alas, Arial, and maybe Verdana
 tags:
 - Contracts
 - Drafting
@@ -10,11 +11,12 @@ A good sans-serif font for contract proposals in Microsoft Word should:
 - read easily
 - include all the characters commonly used in contracts, including legal symbols like '§' and '¶'
 - work on Windows, Mac, iOS, and Android devices with Microsoft Word, no installation or file-embedding required
+- be attainable for Libre Office and other office suite users, perhaps with installation required
 - not attract attention to typography
 
-The first obvious answer is Arial, a universally available but typographer-maligned clone of Helvetica.  Helvetica itself is available on Macs as standard, but not on PCs.  If you send out Word proposals in Helvetica from your Mac, expect stray formatting changes back in redlines.
+The first obvious answer is Arial, the universally available but typographer-maligned clone of Helvetica.  Helvetica itself is available on Macs as standard, but not on PCs.  If you send out Word proposals in Helvetica from your Mac, expect stray formatting changes back in redlines.
 
-The second obvious choice is one of the succession of sans-serif default fonts that Microsoft has shipped with office over the years: Calibri (2006) or Aptos (2024).
+The second obvious choice is one of the succession of sans-serif default fonts that Microsoft has shipped with office over the years: Calibri (2006) or Aptos (2024).  These won't be available to users of other office software.  Aptos won't be available to anyone running an older version of Office.
 
 The UK firm [Operandi](https://www.operandi.co.uk/about-operandi/), which specializes in designing branded document templates for corporations, publishes [this list of safe MSOffice](https://www.operandi.co.uk/support/safe-computer-fonts/) fonts, defined as those available on Windows or Mac where Microsoft Office is installed.  Paring down to their list to just body-text sans-serifs "generally considered websafe":
 
@@ -32,6 +34,7 @@ The UK firm [Operandi](https://www.operandi.co.uk/about-operandi/), which specia
 - Verdana
 
 Of these, the following are also available in Word for iOS on my iPhone without additional download:
+
 - Arial
 - Tahoma, the default Microsoft used for the UI of Windows 2000 and XP
 - Trebuchet MS, which Microsoft used for window titles in Windows XP
