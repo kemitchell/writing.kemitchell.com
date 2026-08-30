@@ -1,4 +1,5 @@
 ---
+date: 2026-08-30T12:00:22-07:00
 title: Sans-Serif Fonts for Contracts
 brief: alas, Arial, and maybe Verdana
 tags:
