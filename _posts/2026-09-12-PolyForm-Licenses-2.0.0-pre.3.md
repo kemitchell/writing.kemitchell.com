@@ -6,7 +6,7 @@ tags:
 - Software Licensing
 - Software
 - Noncommercial
-- Source-Available
+- Source Available
 ---
 
 I've published third preview versions of PolyForm licenses to [a GitHub gist](https://gist.github.com/kemitchell/e01f19ff2b42dbd17fafe0f284164ca0).  Feedback of all kinds is welcome.
