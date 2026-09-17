@@ -1,4 +1,5 @@
 ---
+date: 2026-09-16T21:21:50-07:00
 title: Freemium the Registry
 description: Laurie Voss on an open source funding model
 tags:
