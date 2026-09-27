@@ -49,6 +49,17 @@
     <meta name=og:description content="{{site.description | smartify}}">
     {% endif %}
     <meta name=og:image content=https://writing.kemitchell.com/placeholder-on-white.png>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{% if page.title %}{{page.title | json}}{% else %}{{site.name | json}}{% endif %}",
+  {% if page.description %}"description": "{{page.description | json}}",{% endif %}
+  "inLanguage": "en",
+  {% if page.date %}"datePublished": "{{page.date | json}}",{% endif %}
+  "author": { "@type": "Person", "name": "Kyle E. Mitchell" }
+}
+    </script>
   </head>
   <body>
     <header>
