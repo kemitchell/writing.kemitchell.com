@@ -1,0 +1,28 @@
+#!/usr/bin/env ruby
+require 'yaml'
+
+words = {}
+Dir.glob('_posts/*.md').each do |file|
+  contents = File.read(file)
+  yaml = /\A---\s*\n(.*?)\n---/m.match(contents)[1]
+  parsed = YAML.safe_load(yaml, permitted_classes: [Time, Date])
+  title = parsed['title']
+  next if title.nil?
+  title.split(/\s+/).each do |word|
+    if words.key?(word)
+      words[word] << title
+    else
+      words[word] = [title]
+    end
+  end
+end
+
+words.each_key do |word|
+  in_lower_case = word.downcase
+  next if in_lower_case == word
+  if words.key?(in_lower_case)
+    puts "#{word} and #{in_lower_case}"
+    words[word].each { |title| puts "  #{title}" }
+    words[in_lower_case].each { |title| puts "  #{title}" }
+  end
+end

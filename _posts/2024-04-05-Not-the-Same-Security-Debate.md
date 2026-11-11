@@ -1,4 +1,5 @@
 ---
+title: Not the Same Security Debate
 description: open source security today is different in kind
 tags:
 - Open Source

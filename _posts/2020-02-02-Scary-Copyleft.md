@@ -1,5 +1,5 @@
 ---
-title: Copyleft Should be Scary
+title: Copyleft Should Be Scary
 description: if the virus wasn't scary, would we wash out hands?
 series: Killjoy
 layout: post

@@ -1,5 +1,5 @@
 ---
-public: Square One 2e1u
+title: Square One 2e1u
 description: addressing an interesting Utah peculiarity
 series: Square One
 tags:

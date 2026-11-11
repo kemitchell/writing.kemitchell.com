@@ -1,6 +1,6 @@
 ---
 date: 2021-10-19T17:59:03-07:00
-title: GPL Had Better be a Contract
+title: GPL Had Better Be a Contract
 description: SFC's Vizio suit brings the right kind of claim
 tags:
 - Licenses

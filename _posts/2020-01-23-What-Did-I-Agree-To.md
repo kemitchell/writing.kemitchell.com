@@ -1,5 +1,5 @@
 ---
-title: What did I just agree to?
+title: What Did I Just Agree To?
 description: Marc Jones on oddities in OSI-approved licenses
 date: 2020-01-24T06:29Z
 tags:
