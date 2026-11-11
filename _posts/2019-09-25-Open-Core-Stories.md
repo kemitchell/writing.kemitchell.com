@@ -1,5 +1,5 @@
 ---
-title: Open Core is Not a Good Story
+title: Open Core Is Not a Good Story
 description: three better ways to express yourself and your company
 layout: post
 tags:

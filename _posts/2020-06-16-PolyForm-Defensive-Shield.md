@@ -1,5 +1,5 @@
 ---
-title: PolyForm Defensive is Now PolyForm Shield
+title: PolyForm Defensive Is Now PolyForm Shield
 description: feedback strikes again
 series: PolyForm
 tags:

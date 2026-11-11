@@ -1,5 +1,5 @@
 ---
-title: Open Source is Not About You
+title: Open Source Is Not About You
 description: a minimal, functionalist view of open source
 layout: post
 tags:

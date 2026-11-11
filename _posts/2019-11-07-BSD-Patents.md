@@ -1,5 +1,5 @@
 ---
-title: '"BSD with PATENTS" and "BSD-2-Clause Plus Patent" are Not the Same'
+title: '"BSD with PATENTS" and "BSD-2-Clause Plus Patent" Are Not the Same'
 description: similar licenses, very different receptions
 tags:
 - Open Source

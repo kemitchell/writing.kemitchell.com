@@ -1,6 +1,6 @@
 ---
 date: 2023-07-15T13:44:08-07:00
-title: Where is the Rule that Makes Vague License Rules Legal No-Ops?
+title: Where Is the Rule that Makes Vague License Rules Legal No-Ops?
 description: fear, uncertainty, and doubt upon ethical licenses
 tags:
 - Contracts

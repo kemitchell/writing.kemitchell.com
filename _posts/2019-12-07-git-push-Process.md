@@ -1,5 +1,5 @@
 ---
-title: git push is the Process
+title: git push Is the Process
 description: permissionless license development now
 tags:
 - Software

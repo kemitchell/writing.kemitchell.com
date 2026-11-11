@@ -1,5 +1,5 @@
 ---
-title: CLAs are Not a Sham
+title: CLAs Are Not a Sham
 description: licensing with friends, improved and improving
 layout: post
 tags:

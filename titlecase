@@ -17,8 +17,11 @@ Dir.glob('_posts/*.md').each do |file|
   end
 end
 
+ignored_words = %w{git with an the a for this in by from and that}
+
 words.each_key do |word|
   in_lower_case = word.downcase
+  next if ignored_words.include?(in_lower_case)
   next if in_lower_case == word
   if words.key?(in_lower_case)
     puts "#{word} and #{in_lower_case}"

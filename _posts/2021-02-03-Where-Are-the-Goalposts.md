@@ -1,5 +1,5 @@
 ---
-title: Where are the Goalposts?
+title: Where Are the Goalposts?
 description: in response to Luis Villa on SSPL and OSI
 brief: Responses and thoughts to Luis Villa's thoughts on SSPL and how to reform the OSI license-review process.
 date: Wed 03 Feb 2021 11:25:14 PM PST

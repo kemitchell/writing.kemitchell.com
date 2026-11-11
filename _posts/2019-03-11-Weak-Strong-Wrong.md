@@ -1,5 +1,5 @@
 ---
-title: Weak or Strong is Wrong
+title: Weak or Strong Is Wrong
 description: towards selective or consistent copyleft
 layout: post
 tags:
